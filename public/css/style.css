@@ -1,6 +1,33 @@
+html {
+  font-size: 16px;
+}
+
 body {
   overflow: scroll;
   color: #555;
+}
+
+h1 {
+  font-size: 2.2rem;
+  line-height: 4rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.4rem;
+  line-height: 2.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.2rem;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .main-content {
@@ -48,27 +75,4 @@ body {
 .list-title {
   margin-bottom: 0;
   padding: 10px 20px;
-}
-
-.article h1 {
-  font-size: 2rem;
-  line-height: 4rem;
-  font-weight: bold;
-}
-
-.article h2 {
-  font-size: 1.4rem;
-  line-height: 2.5rem;
-  font-weight: bold;
-}
-
-.article h3 {
-  font-size: 1.2rem;
-  line-height: 2rem;
-  font-weight: bold;
-}
-
-.article p {
-  font-size: 1rem;
-  line-height: 1.5rem;
 }
