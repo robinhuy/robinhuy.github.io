@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>HuyDQ&#39;s Blog</title>
-    <link>https://huydq.dev/</link>
-    <description>Recent content on HuyDQ&#39;s Blog</description>
+    <title>Blogs on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/blog/</link>
+    <description>Recent content in Blogs on HuyDQ&#39;s Blog</description>
     <image>
       <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://huydq.dev/about/</link>
-      <pubDate>Tue, 31 May 2022 11:51:51 +0700</pubDate>
-      
-      <guid>https://huydq.dev/about/</guid>
-      <description>About me </description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://huydq.dev/blog/markdown-syntax/</link>
