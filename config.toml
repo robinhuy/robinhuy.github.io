@@ -1,0 +1,4 @@
+baseURL = 'http://huydq.dev/'
+languageCode = 'vi-vn'
+title = 'HuyDQ.dev'
+theme = "pulp"
