@@ -19,11 +19,11 @@ Mặc định thẻ **img** trong HTML là một _Inline element_, tức là nó
 
 - Trên cùng 1 dòng, các chữ cái sẽ nằm trên một đường thẳng gọi là **baseline**(đó cũng là giá trị mặc định của thuộc tính vertical-align trong CSS)
 - Một số chữ cái, ký tự đặc biệt sẽ có 1 phần nằm dưới baseline ví dụ như y, j, p, g, ... và phần nằm dưới đó gọi là **descenders**(tương tự, có 1 phần nằm trên text gọi là **ascenders**)
-  ![Descenders](images/descenders.png)
+  ![Descenders](/images/descenders.png)
 
 Do đó trình duyệt sẽ tạo ra 1 khoảng trắng dành cho phần **descenders** của text, nếu chúng ta viết thêm 1 vài ký tự có descenders vào bên cạnh ảnh và tăng font-size của chúng lên, ta sẽ thấy rõ tại sao lại có khoảng trắng nhỏ bên dưới ảnh.
 
-![Học lập trình web HTML và CSS online](https://media.techmaster.vn/api/fileman/Uploads/HTML/khoang-trang-bi-an-ben-duoi-the-img4.jpg)
+![Khoang trang bi an ben duoi the img](https://media.techmaster.vn/api/fileman/Uploads/HTML/khoang-trang-bi-an-ben-duoi-the-img4.jpg)
 
 Vậy là chúng ta đã khám phá được khoảng trắng bí ẩn bên dưới thẻ img. Và để xử lý khoảng trắng đó ta có thể dùng các cách sau:
 
