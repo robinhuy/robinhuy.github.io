@@ -19,7 +19,7 @@ Mặc định thẻ **img** trong HTML là một _Inline element_, tức là nó
 
 - Trên cùng 1 dòng, các chữ cái sẽ nằm trên một đường thẳng gọi là **baseline**(đó cũng là giá trị mặc định của thuộc tính vertical-align trong CSS)
 - Một số chữ cái, ký tự đặc biệt sẽ có 1 phần nằm dưới baseline ví dụ như y, j, p, g, ... và phần nằm dưới đó gọi là **descenders**(tương tự, có 1 phần nằm trên text gọi là **ascenders**)
-  ![Học lập trình web HTML và CSS nâng cao](https://media.techmaster.vn/api/fileman/Uploads/HTML/descenders.png)
+  ![Học lập trình web HTML và CSS nâng cao](images/descenders.png)
 
 Do đó trình duyệt sẽ tạo ra 1 khoảng trắng dành cho phần **descenders** của text, nếu chúng ta viết thêm 1 vài ký tự có descenders vào bên cạnh ảnh và tăng font-size của chúng lên, ta sẽ thấy rõ tại sao lại có khoảng trắng nhỏ bên dưới ảnh.
 

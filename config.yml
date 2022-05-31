@@ -9,6 +9,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: UA-123-45
+disqus_shortname: "huydq-dev"
 
 minify:
   disableXML: true
@@ -35,7 +36,6 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  disqus_shortname: "huydq-dev"
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -85,6 +85,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: categories
