@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/docker/</link>
+    <description>Recent content in Docker on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cài đặt Gitlab trên Private Server</title>
+      <link>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</guid>
+      <description>Ở bài trước mình có hướng dẫn cài đặt Gitlab trên Private Server, tuy nhiên cách cài này là cài trực tiếp lên server, có thể sẽ xung đột với các gói phần mềm có sẵn như: Redis, Nginx, &amp;hellip; Do đó bài này chúng ta sẽ thử cài Gitlab qua Docker - một công nghệ đang rất hot trong thời điểm hiện tại.
+Việc đầu tiên chúng ta phải làm đó là cài đặt Docker, các bạn tham khảo tại đây, hướng dẫn này rất chi tiết rồi mình sẽ không nhắc lại nữa.</description>
+    </item>
+    
+  </channel>
+</rss>
