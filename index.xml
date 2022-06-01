@@ -9,46 +9,7 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://huydq.dev/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://huydq.dev/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://huydq.dev/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://huydq.dev/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/blog/math-typesetting/</guid>
-      <description>In this theme we will be using MathJax 2.7
- To enable MathJax globally set the parameter math to true in a project&amp;rsquo;s configuration To enable MathJax on a per page basis include the parameter math: true in content files  Note: Use the online reference of MathJax TeX and LaTeX Support
-Examples Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
-Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
-    </item>
-    
+    <lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Khoảng trắng bí ẩn bên dưới thẻ Img</title>
       <link>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</link>
@@ -57,6 +18,30 @@ Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</d
       <guid>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</guid>
       <description>Khi sử dụng thẻ img để chèn ảnh vào trang web, có 1 hiện tượng khá thú vị mà không phải ai cũng biết hoặc để ý đến. Đó là nếu bọc thẻ img bởi 1 thẻ div (hoặc bất kỳ 1 thẻ nào khác) thì sẽ xuất hiện 1 khoảng trắng nhỏ ở bên dưới ảnh.
 Nếu chúng ta thiết lập padding cho thẻ div thì do khoảng trắng này mà khoảng cách phần bên dưới vẫn lớn hơn phần bên trên.</description>
+    </item>
+    
+    <item>
+      <title>29 câu lệnh Linux bạn nên biết - Phần 2</title>
+      <link>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-2/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-2/</guid>
+      <description>&amp;hellip; tiếp theo 29 câu lệnh Linux bạn nên biết phần 1
+17. help &amp;ndash;help xem thông tin trợ giúp và các tùy chỉnh của câu lệnh.
+Có thể viết tắt là -h
+18. whatis – What is this command whatis hiển thị mô tả về câu lệnh.
+19. man – Manual man ​ hiển thị trang hướng dẫn cho câu lệnh.
+20. exit exit ​ thoát khỏi phiên làm việc.</description>
+    </item>
+    
+    <item>
+      <title>29 câu lệnh Linux bạn nên biết - Phần 1</title>
+      <link>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-1/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-1/</guid>
+      <description>Các bản phân phối Linux đều có hỗ trợ giao diện người dùng để tương tác với máy tính. Tuy nhiên trong một số trường hợp sử dụng giao diện command line để điều khiển máy tính sẽ nhanh hơn và đơn giản hơn.
+Trong giao diện command line, các câu lệnh (command) dùng để ra chỉ thị cho máy tính thực hiện một tác vụ nào đó. Bạn có thể sử dụng câu lệnh để tắt máy tính, xem danh sách các file trong thư mục, sao chép file, di chuyển và xóa file, &amp;hellip;</description>
     </item>
     
     <item>
