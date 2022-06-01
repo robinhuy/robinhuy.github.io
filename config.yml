@@ -87,13 +87,13 @@ params:
 
 menu:
   main:
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 20
     - identifier: about
       name: About
