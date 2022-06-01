@@ -9,7 +9,27 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cài đặt Gitlab trên Private Server</title>
+      <link>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</guid>
+      <description>Ở bài trước mình có hướng dẫn cài đặt Gitlab trên Private Server, tuy nhiên cách cài này là cài trực tiếp lên server, có thể sẽ xung đột với các gói phần mềm có sẵn như: Redis, Nginx, &amp;hellip; Do đó bài này chúng ta sẽ thử cài Gitlab qua Docker - một công nghệ đang rất hot trong thời điểm hiện tại.
+Việc đầu tiên chúng ta phải làm đó là cài đặt Docker, các bạn tham khảo tại đây, hướng dẫn này rất chi tiết rồi mình sẽ không nhắc lại nữa.</description>
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cài đặt Gitlab trên Private Server</title>
+      <link>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</guid>
+      <description>Gitlab là một công cụ để quản lý source code rất nổi tiếng hiện nay. Nó cho phép chúng ta tạo và quản lý các Git source repository tương tự nhu trên Github, tuy nhiên nó cho phép chúng ta tạo không giới hạn các private repository và nhiều chức năng thú vị khác như: code reviews, issue tracking, activity feeds, wikis, &amp;hellip;
+Chúng ta có thể sử dụng gitlab bằng cách truy cập trang https://gitlab.</description>
+    </item>
+    
     <item>
       <title>Khoảng trắng bí ẩn bên dưới thẻ Img</title>
       <link>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</link>
@@ -51,6 +71,15 @@ Trong giao diện command line, các câu lệnh (command) dùng để ra ch�
       
       <guid>https://huydq.dev/about/</guid>
       <description>Welcome to my blog </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://huydq.dev/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/projects/</guid>
+      <description>Coming soon &amp;hellip; </description>
     </item>
     
   </channel>

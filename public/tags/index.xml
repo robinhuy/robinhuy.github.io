@@ -9,7 +9,43 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://huydq.dev/tags/docker/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://huydq.dev/tags/git/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://huydq.dev/tags/linux/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux, Git</title>
+      <link>https://huydq.dev/tags/linux-git/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/linux-git/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CSS</title>
       <link>https://huydq.dev/tags/css/</link>
@@ -25,15 +61,6 @@
       <pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://huydq.dev/tags/linux/</link>
-      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/linux/</guid>
       <description></description>
     </item>
     

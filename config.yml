@@ -1,6 +1,6 @@
 baseURL: "https://huydq.dev/"
 title: HuyDQ's Blog
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -18,7 +18,7 @@ params:
   env: production
   title: HuyDQ's Blog
   description: "Blog cá nhân"
-  keywords: [Blog, Programming]
+  keywords: [Blog, Dev, Programming, Web, Mobile]
   author: ""
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "02/01/2006"
@@ -87,9 +87,9 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 10
     - identifier: tags
       name: Tags

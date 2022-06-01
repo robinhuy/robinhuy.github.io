@@ -57,7 +57,7 @@ Bạn cũng có thể sử dụng **cp -r** để sao chép thư mục và to�
 
 ## 8. mv - Move
 
-**mv  <đích>** di chuyển một file hoặc thư mục từ vị trí này sang vị trí khác. Lệnh này cũng dùng để đổi tên file hoặc thư mục nếu như  và **<đích>** là cùng một thư mục.
+**mv  <đích>** di chuyển một file hoặc thư mục từ vị trí này sang vị trí khác. Lệnh này cũng dùng để đổi tên file hoặc thư mục nếu như và **<đích>** là cùng một thư mục.
 
 ![Command mv](/images/linux-8-mv.jpg)
 
@@ -85,7 +85,7 @@ Bạn có thể sử dụng **tail -n N** để chỉ định in **N** dòng r
 
 **grep** tìm kiếm nội dung của file theo chuỗi cung cấp.
 
- Bạn có thể dùng **grep -i** để tìm kiếm không phân biệt hoa thường hoặc **grep -r** để tìm kiếm trong toàn thư mục
+Bạn có thể dùng **grep -i** để tìm kiếm không phân biệt hoa thường hoặc **grep -r** để tìm kiếm trong toàn thư mục
 
 ![Command grep](/images/linux-12-grep.jpg)
 

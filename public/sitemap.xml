@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://huydq.dev/blog/</loc>
-    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/docker/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/git/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/linux/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</loc>
+    <lastmod>2016-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/linux-git/</loc>
+    <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/css/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
@@ -11,19 +35,10 @@
     <loc>https://huydq.dev/tags/html/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/</loc>
-    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/tags/</loc>
-    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-2/</loc>
-    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/linux/</loc>
     <lastmod>2015-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-1/</loc>
@@ -32,5 +47,7 @@
     <loc>https://huydq.dev/about/</loc>
   </url><url>
     <loc>https://huydq.dev/categories/</loc>
+  </url><url>
+    <loc>https://huydq.dev/projects/</loc>
   </url>
 </urlset>
