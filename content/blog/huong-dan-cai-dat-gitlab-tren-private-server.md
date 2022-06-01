@@ -2,7 +2,7 @@
 title: "Hướng dẫn cài đặt Gitlab trên Private Server"
 date: 2016-10-18
 draft: false
-tags: ["Linux, Git"]
+tags: ["Linux", "Git"]
 ---
 
 Gitlab là một công cụ để quản lý source code rất nổi tiếng hiện nay. Nó cho phép chúng ta tạo và quản lý các Git source repository tương tự nhu trên [Github](https://github.com/), tuy nhiên nó cho phép chúng ta tạo không giới hạn các **private repository** và nhiều chức năng thú vị khác như: code reviews, issue tracking, activity feeds, wikis, ...
