@@ -9,7 +9,34 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://huydq.dev/tags/linux/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx</title>
+      <link>https://huydq.dev/tags/nginx/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSL</title>
+      <link>https://huydq.dev/tags/ssl/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Docker</title>
       <link>https://huydq.dev/tags/docker/</link>
@@ -25,15 +52,6 @@
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://huydq.dev/tags/linux/</link>
-      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/linux/</guid>
       <description></description>
     </item>
     
