@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nginx on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/nginx/</link>
+    <description>Recent content in Nginx on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cài đặt chứng chỉ SSL của Namecheap với Nginx</title>
+      <link>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</guid>
+      <description>Bài trước mình đã hướng dẫn cách tạo chứng chỉ SSL miễn phí với Let&amp;rsquo;s Encrypt. Tiếp theo mình sẽ hướng dẫn các bạn cách tạo chứng chỉ SSL qua dịch vụ của Namecheap (mất phí nhé 😂)
+Đăng ký dịch vụ của Namecheap
+Đầu tiên chúng ta sẽ cần đăng ký tài khoản tại Namecheap và chọn 1 loại chứng chỉ phù hợp https://www.namecheap.com/security/ssl-certificates.aspx
+Sau khi đã thanh toán, truy cập vào Dashboard để active dịch vụ</description>
+    </item>
+    
+  </channel>
+</rss>

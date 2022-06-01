@@ -3,24 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://huydq.dev/blog/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/linux/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/nginx/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/ssl/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/chung-chi-ssl-mien-phi-voi-lets-encrypt/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</loc>
     <lastmod>2016-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/docker/</loc>
     <lastmod>2016-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/git/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/linux/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/</loc>
     <lastmod>2016-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</loc>

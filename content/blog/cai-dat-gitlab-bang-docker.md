@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn cài đặt Gitlab trên Private Server"
+title: "Cài đặt Gitlab bằng Docker"
 date: 2016-12-09
 draft: false
 tags: ["Linux", "Git", "Docker"]
