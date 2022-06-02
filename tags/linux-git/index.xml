@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux, Git on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/linux-git/</link>
+    <description>Recent content in Linux, Git on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/linux-git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cài đặt Gitlab trên Private Server</title>
+      <link>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</guid>
+      <description>Gitlab là một công cụ để quản lý source code rất nổi tiếng hiện nay. Nó cho phép chúng ta tạo và quản lý các Git source repository tương tự nhu trên Github, tuy nhiên nó cho phép chúng ta tạo không giới hạn các private repository và nhiều chức năng thú vị khác như: code reviews, issue tracking, activity feeds, wikis, &amp;hellip;
+Chúng ta có thể sử dụng gitlab bằng cách truy cập trang https://gitlab.</description>
+    </item>
+    
+  </channel>
+</rss>

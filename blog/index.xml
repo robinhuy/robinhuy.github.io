@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/blog/</link>
+    <description>Recent content in Blogs on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cài đặt chứng chỉ SSL của Namecheap với Nginx</title>
+      <link>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</guid>
+      <description>Bài trước mình đã hướng dẫn cách tạo chứng chỉ SSL miễn phí với Let&amp;rsquo;s Encrypt. Tiếp theo mình sẽ hướng dẫn các bạn cách tạo chứng chỉ SSL qua dịch vụ của Namecheap (mất phí nhé 😂)
+Đăng ký dịch vụ của Namecheap
+Đầu tiên chúng ta sẽ cần đăng ký tài khoản tại Namecheap và chọn 1 loại chứng chỉ phù hợp https://www.namecheap.com/security/ssl-certificates.aspx
+Sau khi đã thanh toán, truy cập vào Dashboard để active dịch vụ</description>
+    </item>
+    
+    <item>
+      <title>Chứng chỉ SSL miễn phí với Let&#39;s Encrypt</title>
+      <link>https://huydq.dev/blog/chung-chi-ssl-mien-phi-voi-lets-encrypt/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/chung-chi-ssl-mien-phi-voi-lets-encrypt/</guid>
+      <description>Hiện nay hầu hết các trang web đều đã hỗ trợ SSL (Secure Socket Layer). Nó mã hóa dữ liệu truyền đi giữa máy chủ web và trình duyệt và làm tăng tính bảo mật cho website. Ngoài ra, việc sử dụng SSL certificate (chứng chỉ SSL) là cần thiết bởi hiện tại Google đã ưu tiên xếp hạng website dựa theo giao thức https (HTTP + SSL), những website mà chỉ sử dụng giao thức http sẽ bị coi là &amp;ldquo;unsafe&amp;rdquo; (không an toàn).</description>
+    </item>
+    
+    <item>
+      <title>Cài đặt Gitlab bằng Docker</title>
+      <link>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cai-dat-gitlab-bang-docker/</guid>
+      <description>Ở bài trước mình có hướng dẫn cài đặt Gitlab trên Private Server, tuy nhiên cách cài này là cài trực tiếp lên server, có thể sẽ xung đột với các gói phần mềm có sẵn như: Redis, Nginx, &amp;hellip; Do đó bài này chúng ta sẽ thử cài Gitlab qua Docker - một công nghệ đang rất hot trong thời điểm hiện tại.
+Việc đầu tiên chúng ta phải làm đó là cài đặt Docker, các bạn tham khảo tại đây, hướng dẫn này rất chi tiết rồi mình sẽ không nhắc lại nữa.</description>
+    </item>
+    
+    <item>
+      <title>Hướng dẫn cài đặt Gitlab trên Private Server</title>
+      <link>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-cai-dat-gitlab-tren-private-server/</guid>
+      <description>Gitlab là một công cụ để quản lý source code rất nổi tiếng hiện nay. Nó cho phép chúng ta tạo và quản lý các Git source repository tương tự nhu trên Github, tuy nhiên nó cho phép chúng ta tạo không giới hạn các private repository và nhiều chức năng thú vị khác như: code reviews, issue tracking, activity feeds, wikis, &amp;hellip;
+Chúng ta có thể sử dụng gitlab bằng cách truy cập trang https://gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Khoảng trắng bí ẩn bên dưới thẻ Img</title>
+      <link>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</link>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</guid>
+      <description>Khi sử dụng thẻ img để chèn ảnh vào trang web, có 1 hiện tượng khá thú vị mà không phải ai cũng biết hoặc để ý đến. Đó là nếu bọc thẻ img bởi 1 thẻ div (hoặc bất kỳ 1 thẻ nào khác) thì sẽ xuất hiện 1 khoảng trắng nhỏ ở bên dưới ảnh.
+Nếu chúng ta thiết lập padding cho thẻ div thì do khoảng trắng này mà khoảng cách phần bên dưới vẫn lớn hơn phần bên trên.</description>
+    </item>
+    
+    <item>
+      <title>29 câu lệnh Linux bạn nên biết - Phần 2</title>
+      <link>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-2/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-2/</guid>
+      <description>&amp;hellip; tiếp theo 29 câu lệnh Linux bạn nên biết phần 1
+17. help &amp;ndash;help xem thông tin trợ giúp và các tùy chỉnh của câu lệnh.
+Có thể viết tắt là -h
+18. whatis – What is this command whatis hiển thị mô tả về câu lệnh.
+19. man – Manual man ​ hiển thị trang hướng dẫn cho câu lệnh.
+20. exit exit ​ thoát khỏi phiên làm việc.</description>
+    </item>
+    
+    <item>
+      <title>29 câu lệnh Linux bạn nên biết - Phần 1</title>
+      <link>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-1/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/29-cau-lenh-linux-ban-nen-biet-phan-1/</guid>
+      <description>Các bản phân phối Linux đều có hỗ trợ giao diện người dùng để tương tác với máy tính. Tuy nhiên trong một số trường hợp sử dụng giao diện command line để điều khiển máy tính sẽ nhanh hơn và đơn giản hơn.
+Trong giao diện command line, các câu lệnh (command) dùng để ra chỉ thị cho máy tính thực hiện một tác vụ nào đó. Bạn có thể sử dụng câu lệnh để tắt máy tính, xem danh sách các file trong thư mục, sao chép file, di chuyển và xóa file, &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
