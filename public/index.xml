@@ -9,7 +9,17 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cách tạo một trang blog cá nhân miễn phí dành cho dev</title>
+      <link>https://huydq.dev/blog/cach-tao-mot-trang-blog-ca-nhan-mien-phi-danh-cho-dev/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cach-tao-mot-trang-blog-ca-nhan-mien-phi-danh-cho-dev/</guid>
+      <description>Vào một ngày đẹp trời, bỗng dưng mình nảy ra ý định làm một trang blog cá nhân thay vì viết Blog trên các nền tảng có sẵn như viblo.asia, techmaster.vn, kipalog.vn, &amp;hellip; Tất nhiên các bài viết mới vẫn sẽ đăng lên các nền tảng này để kiếm người đọc chứ blog này ma nó đọc 😅).
+Ý tưởng có rồi, nhưng thực hiện như nào, sử dụng công nghệ nào, chi phí như nào?</description>
+    </item>
+    
     <item>
       <title>Cài đặt chứng chỉ SSL của Namecheap với Nginx</title>
       <link>https://huydq.dev/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx/</link>
@@ -86,12 +96,14 @@ Trong giao diện command line, các câu lệnh (command) dùng để ra ch�
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://huydq.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/about/</guid>
-      <description>Welcome to my blog </description>
+      <description>Hi there 👋
+Cảm ơn bạn đã ghé thăm blog của mình, một blog về công nghệ (chủ yếu là lập trình), nhưng cũng có thể có nhiều bài viết linh tinh nhảm nhí tùy hứng của tác giả.
+Hy vọng các bài viết ở đây sẽ giúp phần nào cho công việc của các bạn (nếu bạn là lập trình viên), hoặc ít nhất nó cũng giúp bạn giải trí sau những giờ làm việc căng thẳng 😎.</description>
     </item>
     
     <item>
