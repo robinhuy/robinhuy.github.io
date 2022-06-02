@@ -2,12 +2,12 @@
 title: "Cách tạo một trang blog cá nhân miễn phí dành cho dev"
 date: 2022-06-01
 draft: false
-tags: ["Blog"]
+tags: ["Blog", "Github"]
 ---
 
-Vào một ngày đẹp trời, bỗng dưng mình nảy ra ý định làm một trang blog cá nhân thay vì viết Blog trên các nền tảng có sẵn như [viblo.asia](https://viblo.asia/newest), [techmaster.vn](https://techmaster.vn/posts), [kipalog.vn](https://kipalog.com/), ... Tất nhiên các bài viết mới vẫn sẽ đăng lên các nền tảng này để kiếm người đọc chứ blog này ma nào thèm vào 😅).
+Vào một ngày đẹp trời, bỗng dưng mình nảy ra ý định làm một trang blog cá nhân thay vì viết Blog trên các nền tảng có sẵn như [viblo.asia](https://viblo.asia/newest), [techmaster.vn](https://techmaster.vn/posts), [kipalog.vn](https://kipalog.com/), ... Tất nhiên các bài viết mới vẫn sẽ đăng lên các nền tảng này để kiếm người đọc chứ blog này ma nó đọc 😅).
 
-Rồi ý tưởng thì có, thực hiện như nào, sử dụng công nghệ nào, chi phí như nào? Khá nhiều câu hỏi đau đầu và khó lựa chọn. Vậy cần đặt ra một số tiêu chí:
+Ý tưởng có rồi, nhưng thực hiện như nào, sử dụng công nghệ nào, chi phí như nào? Khá nhiều câu hỏi đau đầu và khó lựa chọn. Vậy cần đặt ra một số tiêu chí:
 - Ưu tiên số một là chi phí, càng rẻ càng tốt, __miễn phí__ thì còn tốt hơn nữa.
 - Sử dụng công nghệ nào cũng được miễn là cài đặt nhanh, dễ dùng, dễ tùy biến.
 - Blog có thể lượng truy cập ít (thậm chí không có ma nào xem), nhưng tốc độ truy cập vẫn phải nhanh, PageSpeed Insights điểm càng cao càng tốt.
@@ -16,7 +16,7 @@ Sau một hồi search Google với 3 tiêu chí trên (chủ yếu là tiêu ch
 - Sử dụng Static Site Generator, chơi web tĩnh thì tốc độ sẽ nhanh và điểm PageSpeed Insights sẽ cao. Cụ thể mình dùng tool [Hugo](https://gohugo.io/).
 - Hosting ở đâu? Tất nhiên là [Github Page](https://pages.github.com/) rồi, free, không giới hạn dung lượng và tốc độ cao. Các bạn cũng có thể dùng một số hosting free khác như: [Netlify](https://www.netlify.com/), [Firebase](https://firebase.google.com/), [Vercel](https://vercel.com/), ...
 
-OK. Let's get started!
+__OK. Let's get started!__
 
 ## Cài đặt và sử dụng Hugo
 
@@ -85,9 +85,9 @@ Khi đã thấy ưng ý thì build ra static files (HTML CSS JS) bằng lệnh `
 
 Chúng ta có thể build website bằng Hugo, sau đó copy code web tĩnh ở trong thư mục __public__ vào trong repository này và push code lên là xong.
 
-Tuy nhiên nếu muốn quản lý cả source code thì chúng ta có thể đẩy toàn bộ project lên (bao gồm cả bản build). Và bản build sẽ được đẩy sang 1 branch là `gh-pages`, chúng ta sẽ cấu hình Github Pages bằng branch này.
+Tuy nhiên nếu muốn quản lý cả source code thì chúng ta có thể đẩy toàn bộ project lên (bao gồm cả bản build). Và bản build sẽ được đẩy sang 1 branch là __gh-pages__, chúng ta sẽ cấu hình Github Pages bằng branch này.
 
-Để cho tiện mình sử dụng thêm [Github Actions](https://github.com/features/actions) cho việc tự động đẩy bản build sang branch `gh-pages` bằng cách tạo file `.github/workflows/github-actions.yml` trong project với nội dung như sau:
+Để cho tiện mình sử dụng thêm [Github Actions](https://github.com/features/actions) cho việc tự động đẩy bản build sang branch __gh-pages__ bằng cách tạo file `.github/workflows/github-actions.yml` trong project với nội dung như sau:
 
 ```
 name: GitHub Actions
@@ -102,12 +102,12 @@ jobs:
         publish_dir: ./public
 ```
 
-Chỉ đơn giản vậy thôi, mỗi lần chúng ta push code lên branch `main` thì nó sẽ tự động đẩy code trong thư mục `public` sang branch `gh-pages` và website của chúng ta sẽ được cập nhật theo.
+Chỉ đơn giản vậy thôi, mỗi lần chúng ta push code lên branch __main__ thì nó sẽ tự động đẩy code trong thư mục __public__ sang branch __gh-pages__ và website của chúng ta sẽ được cập nhật theo.
 
 Chốt lại các thao tác khi cần viết bài mới sẽ là: 
 - 1. Tạo 1 file mới trong thư mục __content__, cấu hình nội dung trang và viết bài theo cú pháp markdown. Dùng lệnh `hugo server` để chạy website local (có sẵn live reload để tiện preview).
 - 2. Build website bằng lệnh `hugo`.
-- 3. Commit code và push lên branch `main`.
+- 3. Commit code và push lên branch __main__.
 
 Phần cấu hình website, cấu hình theme, ... thì các bạn tự tìm hiểu nốt trên trang chủ của Hugo và tài liệu hướng dẫn của theme mà bạn chọn nhé. Chúc các bạn viết Blog vui vẻ 😬
 
