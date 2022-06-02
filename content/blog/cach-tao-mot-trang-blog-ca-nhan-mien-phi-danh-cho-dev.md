@@ -38,7 +38,7 @@ Trong đó chúng ta chỉ cần chú ý đến mấy thư mục và file chính
 - __config.toml__: File cấu hình cho website như tên website, sử dụng theme gì, ... Có thể đổi sang định dạng _yml_ hoặc _yaml_ nếu không quen với _toml_.
 
 Tiếp đến chúng ta vào [trang này](https://themes.gohugo.io/) và chọn 1 cái theme ưng ý để cài. 
-Có thể cài bằng cách download file về và ném vào trong thư mục __themes__ hoặc là dùng git submodule để clone qua Github, ví dụ cài theme ananke qua Github:
+Có thể cài bằng cách download file về và ném vào trong thư mục __themes__ hoặc là dùng git submodule để clone qua Github, ví dụ cài theme _ananke_ qua Github:
 
 ```
 cd huydq.dev
@@ -76,11 +76,12 @@ draft: true
 Trong đó có cấu hình tên bài viết (title), ngày xuất bản (date), bản nháp hay đã sẵn sàng xuất bản (draft). Nội dung bài viết thì viết bằng cú pháp markdown, viết sau phần dấu gạch ngang `---`. Bài viết nào có đánh dấu `draft: true` thì sẽ không được build.
 
 Chạy thử website trên local bằng lệnh `hugo server`, truy cập `http://localhost:1313` để xem kết quả.
+Đường dẫn của trang sẽ tương ứng với đường dẫn file `http://localhost:1313/posts/my-first-post`.
 Khi đã thấy ưng ý thì build ra static files (HTML CSS JS) bằng lệnh `hugo`. Website sẽ được build vào trong thư mục `public` và chỉ cần đẩy lên 1 hosting hỗ trợ static web là xong.
 
 ## Cấu hình Github Pages
 
-Để sử dụng Github Pages hosting static web thì chúng ta tạo 1 repository trùng với tên miền free của Github Pages theo dạng `[username].github.io`, ví dụ username github của mình là `robinhuy` vậy mình sẽ tạo 1 repository là `robinhuy.github.io`.
+Để sử dụng Github Pages hosting static web thì chúng ta tạo 1 repository trùng với tên miền free của Github Pages theo dạng `[username].github.io`, ví dụ username github của mình là `robinhuy` vậy mình sẽ tạo 1 repository là `robinhuy.github.io` (đây cũng chính là tên miền free của Github Pages).
 
 Chúng ta có thể build website bằng Hugo, sau đó copy code web tĩnh ở trong thư mục __public__ vào trong repository này và push code lên là xong.
 
@@ -95,7 +96,6 @@ jobs:
   deploy-website:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
     - uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -103,5 +103,12 @@ jobs:
 ```
 
 Chỉ đơn giản vậy thôi, mỗi lần chúng ta push code lên branch `main` thì nó sẽ tự động đẩy code trong thư mục `public` sang branch `gh-pages` và website của chúng ta sẽ được cập nhật theo.
+
+Chốt lại các thao tác khi cần viết bài mới sẽ là: 
+- 1. Tạo 1 file mới trong thư mục __content__, cấu hình nội dung trang và viết bài theo cú pháp markdown. Dùng lệnh `hugo server` để chạy website local (có sẵn live reload để tiện preview).
+- 2. Build website bằng lệnh `hugo`.
+- 3. Commit code và push lên branch `main`.
+
+Phần cấu hình website, cấu hình theme, ... thì các bạn tự tìm hiểu nốt trên trang chủ của Hugo và tài liệu hướng dẫn của theme mà bạn chọn nhé. Chúc các bạn viết Blog vui vẻ 😬
 
 
