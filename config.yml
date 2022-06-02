@@ -57,9 +57,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Have a nice day 👻"
-    Content: 
+    Content: ""
 
   socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/huydq.dev"
     - name: github
       url: "https://github.com/robinhuy"
     - name: stackoverflow
