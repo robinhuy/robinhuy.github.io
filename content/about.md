@@ -1,6 +1,13 @@
 ---
-title: "About"
+title: "About me"
 draft: false
 ---
 
-## Welcome to my blog
+Hi there \U0001F44B
+
+Cảm ơn bạn đã ghé thăm blog của tôi, một lập trình viên làng nhàng học 
+
+
+
+
+
