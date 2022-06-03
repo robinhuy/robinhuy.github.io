@@ -1,0 +1,31 @@
+.breadcrumbs {
+  margin-bottom: 10px;
+}
+
+.post-meta {
+  margin-top: 5px;
+}
+
+.terms-tags {
+  margin: 0 -10px;
+}
+
+.post-content figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-content figure > img {
+  margin-bottom: 0.5rem;
+}
+
+.post-content figure > figcaption {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--secondary);
+}
+
+.paginav span:hover:not(.title) {
+  box-shadow: none;
+}

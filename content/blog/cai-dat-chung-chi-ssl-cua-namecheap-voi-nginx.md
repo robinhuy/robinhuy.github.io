@@ -13,9 +13,11 @@ Bài trước mình đã hướng dẫn cách [tạo chứng chỉ SSL miễn ph
 
 Sau khi đã thanh toán, truy cập vào Dashboard để active dịch vụ
 
-![Namecheap dashboard](/images/namecheap-dashboard.png) Di chuột đến phần tên user góc trên bên phải để truy cập Dashboard
-![Product list](/images/namecheap-ssl.png) Trên menu chọn phần Product List / SSL Certificates
-![Activate certificate](/images/namecheap-activate.png) Chọn ACTIVATE để kích hoạt dịch vụ
+{{< figure src="/images/namecheap-dashboard.png" alt="Namecheap dashboard" title="Di chuột đến phần tên user góc trên bên phải để truy cập Dashboard" >}}
+
+{{< figure src="/images/namecheap-ssl.png" alt="Product list" title="Trên menu chọn phần Product List / SSL Certificates" >}}
+
+{{< figure src="/images/namecheap-activate.png" alt="Activate certificate" title="Chọn ACTIVATE để kích hoạt dịch vụ" >}}
 
 Tiếp theo để kích hoạt dịch vụ chúng ta sẽ cần điền một CSR (Certificate Signing Request), đó là 1 đoạn code mã hóa thông tin về công ty và tên miền. Để tạo mã CSR, chúng ta cần truy cập vào server và gõ lệnh sau:
 
@@ -39,7 +41,7 @@ Email Address []: administrator@nctest.info
 
 Kết quả chúng ta sẽ có 2 file là **server.key** (Private Key) và **server.csr** (mã CSR). File **server.key** sẽ dùng để chứng thực nên cần lưu lại cẩn thận để dùng đến sau này. File server.csr sẽ dùng để gửi dữ liệu lên namecheap, chúng ta dùng lệnh sau để đọc nội dung file và copy để điền vào form đăng ký  cat server.csr
 
-![CSR](/images/namecheap-csr.png) Copy mã CSR và điền vào form, chọn Web-Server Nginx sau đó Submit
+{{< figure src="/images/namecheap-csr.png" alt="CSR" title="Copy mã CSR và điền vào form, chọn Web-Server Nginx sau đó Submit" >}}
 
 _Phần nào không điền được thì có thể để 'NA' và chú ý chỉ sử dụng ký tự alphabet, tiếng Anh không dấu._
 
@@ -47,9 +49,11 @@ _Phần nào không điền được thì có thể để 'NA' và chú ý chỉ
 
 Có 3 loại phương thức xác thực là Email, HTTP-based và DNS-based. Ở đây mình sẽ hướng dẫn theo cách đầu tiên là xác thực qua Email, 2 cách còn lại các bạn xem hướng dẫn tiếng Anh tại website.
 
-![DCV](/images/namecheap-dcv.png) Ví dụ xác thực qua Email
-![Company info](/images/namecheap-company.png) Điền thông tin liên hệ
-![Confirm send email](/images/namecheap-confirm.png) Xác nhận gửi email
+{{< figure src="/images/namecheap-dcv.png" alt="DCV" title="Ví dụ xác thực qua Email" >}}
+
+{{< figure src="/images/namecheap-company.png" alt="Điền thông tin liên hệ" >}}
+
+{{< figure src="/images/namecheap-confirm.png" alt="Confirm send email" title="Xác nhận gửi email" >}}
 
 Xong, tiếp theo chúng ta chờ Namecheap gửi email xác thực và chứng chỉ SSL qua email đăng ký (ví dụ admin@nctest.info).
 

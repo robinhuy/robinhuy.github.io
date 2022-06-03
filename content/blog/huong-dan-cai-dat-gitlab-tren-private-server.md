@@ -9,8 +9,7 @@ Gitlab là một công cụ để quản lý source code rất nổi tiếng hi�
 
 Chúng ta có thể sử dụng gitlab bằng cách truy cập trang [https://gitlab.com](https://gitlab.com/) hoặc cài gitlab lên 1 server riêng. Có 2 cách để cài gitlab lên private server đó là: **Cài từ source git** và cài theo **Omnibus package**. Cài theo cách thứ 2 thì sẽ đơn giản hơn rất nhiều, chúng ta chỉ cần vào mục [download](https://about.gitlab.com/downloads/), sau đó chọn server cần cài đặt và làm theo các bước hướng dẫn bên dưới.
 
-![Install Gitlab debian 8](/images/install-gitlab-debian-8.jpg)
-Ví dụ cài Gitlab lên server Debian 8
+{{< figure src="/images/install-gitlab-debian-8.jpg" alt="Install Gitlab debian 8" title="Ví dụ cài Gitlab lên server Debian 8" >}}
 
 Tóm tắt các lệnh cài đặt trên server Debian 8
 

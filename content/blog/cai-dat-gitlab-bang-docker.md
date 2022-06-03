@@ -25,7 +25,7 @@ Giải thích 1 chút về câu lệnh trên:
 
 Sau khi câu lệnh chạy xong là việc cài Gitlab cũng đã hoàn tất, tuy nhiên chúng ta sẽ phải chờ thêm một vài phút để Gitlab hoàn thiện việc cấu hình. Nếu nóng lòng truy cập ngay có thể gặp lỗi như sau:
 
-![gitlab bug](/images/gitlab-bug.jpg)_Nếu gặp lỗi này chỉ cần chờ 1 lúc rồi Refresh trang là được_ 😬
+{{< figure src="/images/gitlab-bug.jpg" alt="Gitlab bug" title="Nếu gặp lỗi này chỉ cần chờ 1 lúc rồi Refresh trang là được 😬" >}}
 
 Vậy là với Docker, chúng ta có thể cài Gitlab chỉ trong 1 nốt nhạc. Còn nếu bạn muốn cấu hình cho Gitlab thì có thể dùng lệnh **docker exec**, ví dụ muốn sửa file cấu hình của gitlab thì chúng ta gõ lệnh sau:
 
