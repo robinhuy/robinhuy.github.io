@@ -1,5 +1,6 @@
-.first-entry {
-  min-height: 0;
+.terms-tags.top-tags {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .breadcrumbs {

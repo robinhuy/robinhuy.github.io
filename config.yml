@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+disableKinds: ["section"]
 
 googleAnalytics: G-5KF148C0X6
 
@@ -27,7 +28,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
@@ -56,7 +57,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Have a nice day 👻"
+    Title: ""
     Content: ""
 
   socialIcons:
