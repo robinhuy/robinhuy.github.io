@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API Gateway on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/api-gateway/</link>
+    <description>Recent content in API Gateway on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/api-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thêm mới và bảo mật API trong Kong API Gateway</title>
+      <link>https://huydq.dev/blog/them-moi-va-bao-mat-api-trong-kong-api-gateway/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/them-moi-va-bao-mat-api-trong-kong-api-gateway/</guid>
+      <description>Kong cung cấp một RESTful Admin API cho phép chúng ta thực hiện việc cấu hình và quản lý các API. Mặc định Admin API sẽ lắng nghe ở cổng 8001 và cổng 8444 cho giao thức https. Chú ý API này chỉ dùng trong nội bộ, không public ra ngoài, vì nó cho phép quản lý toàn bộ hệ thống API gateway của Kong.
+Để dễ hình dung, bài viết này sẽ hướng dẫn tạo mới các API và bảo mật cơ bản bằng plugins sử dụng Konga (GUI cho Admin API).</description>
+    </item>
+    
+  </channel>
+</rss>
