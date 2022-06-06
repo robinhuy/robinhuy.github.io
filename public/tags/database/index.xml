@@ -9,7 +9,17 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán</title>
+      <link>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</guid>
+      <description>Một Database Transaction, theo như định nghĩa sẽ phải thỏa mãn các tính chất sau: Atomic, Consistency, Isolation và Durable (hay thường được gọi là ACID). Bài viết này sẽ tập trung vào tính chất Consistency (tính nhất quán), và so sánh giữa Eventual Consistency với Strong Consistency trong hệ thống Distributed Databases qua các ví dụ đời thường.
+Lý thuyết Distributed Database (hệ thống cơ sở dữ liệu phân tán): Là hệ thống Cơ sở dữ liệu (CSDL) mà có thể được phân tải, lưu trữ ở nhiều nơi.</description>
+    </item>
+    
     <item>
       <title>Sử dụng cơ sở dữ liệu Oracle với Entity Framework</title>
       <link>https://huydq.dev/blog/su-dung-co-so-du-lieu-oracle-voi-entity-framework/</link>
