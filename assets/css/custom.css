@@ -35,10 +35,28 @@
   margin: 10px auto 20px auto;
 }
 
-.post-content ol, .post-content ul {
+.post-content ol,
+.post-content ul {
   padding-inline-start: 35px;
 }
 
 .paginav span:hover:not(.title) {
   box-shadow: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.footer .social-icons svg {
+  width: 15px;
+  height: 15px;
+  vertical-align: sub;
 }
