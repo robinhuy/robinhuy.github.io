@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/</link>
     <description>Recent content in Tags on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar.png</url>
-      <link>https://huydq.dev/icons/avatar.png</link>
+      <url>https://huydq.dev/icons/avatar-circle.png</url>
+      <link>https://huydq.dev/icons/avatar-circle.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -25,6 +25,15 @@
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>https://huydq.dev/tags/reactjs/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/reactjs/</guid>
       <description></description>
     </item>
     
@@ -61,15 +70,6 @@
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ReactJS</title>
-      <link>https://huydq.dev/tags/reactjs/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/reactjs/</guid>
       <description></description>
     </item>
     
