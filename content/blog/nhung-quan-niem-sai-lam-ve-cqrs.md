@@ -1,6 +1,6 @@
 ---
 title: "Những quan niệm sai lầm về CQRS"
-date: 2018-10-12
+date: 2018-10-11
 draft: false
 tags: ["CQRS", "Design Pattern"]
 ---

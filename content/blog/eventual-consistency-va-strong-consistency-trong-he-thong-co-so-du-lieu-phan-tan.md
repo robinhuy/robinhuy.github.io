@@ -1,6 +1,6 @@
 ---
 title: "Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán"
-date: 2018-12-10
+date: 2018-10-12
 draft: false
 tags: ["Database"]
 ---

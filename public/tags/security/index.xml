@@ -9,7 +9,17 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cơ bản về bảo mật Web</title>
+      <link>https://huydq.dev/blog/co-ban-ve-bao-mat-web/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/co-ban-ve-bao-mat-web/</guid>
+      <description>Có rất nhiều lý do để học về bảo mật web như:
+ Bạn lo lắng về việc để lộ thông tin cá nhân trên mạng. Bạn quan tâm đến tính bảo mật cho website hoặc ứng dụng của mình. Bạn là lập trình viên và đang đi xin việc, bạn muốn chuẩn bị sẵn cho trường hợp nhà tuyển dụng hỏi về các vấn đề bảo mật web.  &amp;hellip; và nhiều lý do khác nữa.</description>
+    </item>
+    
     <item>
       <title>Cookies và vấn đề bảo mật</title>
       <link>https://huydq.dev/blog/cookies-va-van-de-bao-mat/</link>

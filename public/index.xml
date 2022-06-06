@@ -21,9 +21,59 @@
     </item>
     
     <item>
+      <title>Code web tĩnh dễ hơn với Pug</title>
+      <link>https://huydq.dev/blog/code-web-tinh-de-hon-voi-pug/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/code-web-tinh-de-hon-voi-pug/</guid>
+      <description>Note: Pug ở đây là 1 View Template Engine (chứ không phải tên 1 loại chó), có thể dùng ở cả phía Server lẫn Client. Trong bài viết này sẽ hướng dẫn sử dụng Pug phía client cho Frontend Dev.
+Tạo khung project Sau khi đã thiết kế xong giao diện website, chúng ta sẽ bắt đầu xây dựng khung project. Ví dụ cấu trúc thông thường của 1 project web tĩnh:</description>
+    </item>
+    
+    <item>
+      <title>Tạo website WordPress miễn phí trên Heroku</title>
+      <link>https://huydq.dev/blog/tao-website-wordpress-mien-phi-tren-heroku/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-website-wordpress-mien-phi-tren-heroku/</guid>
+      <description>Thông thường 1 trang web viết bằng WordPress có thể đẩy lên Internet qua Free Hosting, Share Hosting, VPS, &amp;hellip; Với những ai mới học mà muốn tiết kiệm chi phí thì thường dùng Free Hosting, nhưng Free Hosting thường là host nước ngoài, có rất nhiều hạn chế và hay bị lỗi. Trong bài viết này mình sẽ hướng dẫn các bạn tạo một website WordPress miễn phí trên Heroku và chức năng có thể sử dụng gần như thuê 1 con VPS vậy 😎.</description>
+    </item>
+    
+    <item>
+      <title>Cơ bản về bảo mật Web</title>
+      <link>https://huydq.dev/blog/co-ban-ve-bao-mat-web/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/co-ban-ve-bao-mat-web/</guid>
+      <description>Có rất nhiều lý do để học về bảo mật web như:
+ Bạn lo lắng về việc để lộ thông tin cá nhân trên mạng. Bạn quan tâm đến tính bảo mật cho website hoặc ứng dụng của mình. Bạn là lập trình viên và đang đi xin việc, bạn muốn chuẩn bị sẵn cho trường hợp nhà tuyển dụng hỏi về các vấn đề bảo mật web.  &amp;hellip; và nhiều lý do khác nữa.</description>
+    </item>
+    
+    <item>
+      <title>Quản lý Dependencies trong Go bằng Govendor</title>
+      <link>https://huydq.dev/blog/quan-ly-dependencies-trong-go-bang-govendor/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/quan-ly-dependencies-trong-go-bang-govendor/</guid>
+      <description>Để quản lý Dependencies (packages) trong Go chúng ta có thể dùng nhiều tool hỗ trợ. Về bản chất thì chúng tương tự nhau nhưng cũng có nhưng ưu nhược điểm riêng, ví dụ một số tool mình đã từng sử dụng như Dep hoặc Glide (tham khảo bài viết Quản lý package trong Go).
+Hiện mình đang sử dụng một tool khác là Govendor, và theo ý kiến cá nhân thì mình thấy tool này dễ sử dụng hơn, và cách cấu hình cũng như hoạt động của nó khá giống với npm trên NodeJS.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks không sử dụng Two-Phase Commit</title>
+      <link>https://huydq.dev/blog/starbucks-khong-su-dung-two-phase-commit/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/starbucks-khong-su-dung-two-phase-commit/</guid>
+      <description>Tôi vừa trở về sau một chuyến du lịch 2 tuần đến Nhật Bản.
+Một trong những hình ảnh quen thuộc ở đây đó là số lượng lớn các cửa hàng cà phê Starbucks, đặc biệt là quanh khu vực Shinjuku và Roppongi. Trong khi chờ đợi một tách ca cao nóng, tôi đã nghĩ về cách thức mà Starbucks phục vụ khách hàng.
+Starbucks cũng như hầu hết các công ty khác thì đều muốn tối đa số lượng khách hàng có thể phục vụ.</description>
+    </item>
+    
+    <item>
       <title>Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán</title>
       <link>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</guid>
       <description>Một Database Transaction, theo như định nghĩa sẽ phải thỏa mãn các tính chất sau: Atomic, Consistency, Isolation và Durable (hay thường được gọi là ACID). Bài viết này sẽ tập trung vào tính chất Consistency (tính nhất quán), và so sánh giữa Eventual Consistency với Strong Consistency trong hệ thống Distributed Databases qua các ví dụ đời thường.
@@ -33,7 +83,7 @@ Lý thuyết Distributed Database (hệ thống cơ sở dữ liệu phân tán)
     <item>
       <title>Những quan niệm sai lầm về CQRS</title>
       <link>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</guid>
       <description>Bài viết được dịch (có chỉnh sửa) từ cuốn Patterns Principles and Practices of Domain Driven Design của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về CQRS (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).</description>

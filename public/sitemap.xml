@@ -17,32 +17,53 @@
     <loc>https://huydq.dev/tags/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/tags/database/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <loc>https://huydq.dev/blog/code-web-tinh-de-hon-voi-pug/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <loc>https://huydq.dev/tags/view-template-engine/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/tags/cqrs/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
+    <loc>https://huydq.dev/blog/tao-website-wordpress-mien-phi-tren-heroku/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/wordpress/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/co-ban-ve-bao-mat-web/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/security/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/go/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/quan-ly-dependencies-trong-go-bang-govendor/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/design-pattern/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/starbucks-khong-su-dung-two-phase-commit/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/database/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</loc>
+    <loc>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/cqrs/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/cookies/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/cookies-va-van-de-bao-mat/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/security/</loc>
-    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/go/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/validate-du-lieu-trong-go-su-dung-govalidator/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
