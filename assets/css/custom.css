@@ -1,3 +1,7 @@
+.terms-tags {
+  margin: 0 -10px;
+}
+
 .terms-tags.top-tags {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -9,10 +13,6 @@
 
 .post-meta {
   margin-top: 5px;
-}
-
-.terms-tags {
-  margin: 0 -10px;
 }
 
 .post-content figure {
@@ -29,6 +29,14 @@
   font-size: 15px;
   font-weight: 500;
   color: var(--secondary);
+}
+
+.post-content .highlight:not(table) {
+  margin: 10px auto 20px auto;
+}
+
+.post-content ol, .post-content ul {
+  padding-inline-start: 35px;
 }
 
 .paginav span:hover:not(.title) {

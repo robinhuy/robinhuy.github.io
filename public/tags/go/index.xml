@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/go/</link>
+    <description>Recent content in Go on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Học Go cấp tốc Phần 5:  Methods và Interfaces</title>
+      <link>https://huydq.dev/blog/hoc-go-cap-toc-phan-5-methods-va-interfaces/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/hoc-go-cap-toc-phan-5-methods-va-interfaces/</guid>
+      <description>Các phần trước:
+Phần 1: Packages, variables và functions.
+Phần 2: Điều khiển luồng với if, else, switch và defer.
+Phần 3: Arrays và Slices.
+Phần 4: Structs và Maps.
+Methods Trong Go không có class, chúng ta có thể dùng struct thay cho class như ở phần trước. Tuy nhiên trong struct mới chỉ có thuộc tính chứ chưa có phương thức. Để ứng dụng được phương thức (method) như các ngôn ngữ hướng đối tượng khác ta sẽ cần khai báo function kèm theo một tham số đặc biệt gọi là receiver argument.</description>
+    </item>
+    
+    <item>
+      <title>Học Go cấp tốc Phần 4:  Structs và Maps</title>
+      <link>https://huydq.dev/blog/hoc-go-cap-toc-phan-4-structs-va-maps/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/hoc-go-cap-toc-phan-4-structs-va-maps/</guid>
+      <description>Các phần trước:
+Phần 1: Packages, variables và functions.
+Phần 2: Điều khiển luồng với if, else, switch và defer.
+Phần 3: Arrays và Slices.
+Structs Tương tự C, một struct trong Go là tập hợp các trường (field) do người dùng tự định nghĩa. Mỗi trường có thể có kiểu dữ liệu khác nhau, thậm chí có thể là một struct. Trong Go không có class như các ngôn ngữ hướng đối tượng, do đó chúng ta có thể dùng struct thay cho class.</description>
+    </item>
+    
+    <item>
+      <title>Học Go cấp tốc Phần 3:  Arrays và Slices</title>
+      <link>https://huydq.dev/blog/hoc-go-cap-toc-phan-3-arrays-va-slices/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/hoc-go-cap-toc-phan-3-arrays-va-slices/</guid>
+      <description>Các phần trước:
+Phần 1: Packages, variables và functions.
+Phần 2: Điều khiển luồng với if, else, switch và defer.
+Arrays Array (mảng) trong Go tương tự các ngôn ngữ khác, tuy nhiên nó có kích thước cố định (fixed size) và các phần tử bên trong phải cùng loại dữ liệu. Ví dụ:
+// Khởi tạo một mảng gồm 2 string var a [2]string  // Gán giá trị cho các phần tử trong mảng a[0] = &amp;#34;Hello&amp;#34; a[1] = &amp;#34;World&amp;#34;  // In kết quả ra console fmt.</description>
+    </item>
+    
+    <item>
+      <title>Học Go cấp tốc Phần 2:  Điều khiển luồng với if, else, switch và defer</title>
+      <link>https://huydq.dev/blog/hoc-go-cap-toc-phan-2-dieu-khien-luong-voi-if-else-switch-va-defer/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/hoc-go-cap-toc-phan-2-dieu-khien-luong-voi-if-else-switch-va-defer/</guid>
+      <description>Phần trước: Học Go cấp tốc Phần 1: Packages, variables và functions.
+Phần tiếp theo chúng ta sẽ cùng tìm hiểu cách điều khiển luồng (flow control) trong Go.
+Vòng lặp Trong Go chỉ có 1 kiểu vòng lặp là sử dụng for. Cách dùng tương tự các ngôn ngữ khác nhưng phần khai báo biến, điều kiện lặp, &amp;hellip; không cần đặt trong cặp ngoặc tròn:
+// Tính tổng các số từ 0 - 9 sum := 0 for i := 0; i &amp;lt; 10; i++ {  sum += i } fmt.</description>
+    </item>
+    
+    <item>
+      <title>Học Go cấp tốc Phần 1: Packages, variables và functions</title>
+      <link>https://huydq.dev/blog/hoc-go-cap-toc-phan-1-packages-variables-va-functions/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/hoc-go-cap-toc-phan-1-packages-variables-va-functions/</guid>
+      <description>Go(hay thường được gọi là Golang) là một ngôn ngữ lập trình mã nguồn mở được tạo ở Google vào năm 2009 bởi Robert Griesemer, Rob Pike, và Ken Thompson. Nó được ra đời nhằm mục đích phát triển các trang web nhanh hơn, dễ dàng hơn và đáp ứng được yêu cầu truy cập lớn. Về lịch sử ra đời cũng như giới thiệu chi tiết hơn các bạn có thể xem ở wikipedia 😅</description>
+    </item>
+    
+  </channel>
+</rss>
