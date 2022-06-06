@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>iOS on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/ios/</link>
+    <description>Recent content in iOS on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo App Launcher icon cho React Native app (Android &#43; iOS)</title>
+      <link>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</guid>
+      <description>Trước khi đẩy app lên Store, chúng ta sẽ cần tạo App Launcher Icon (icon của ứng dụng trên máy của người dùng). App code bằng React Native sẽ có thể đẩy lên cả Google Play (Android) và App Store (iOS), do đó mình sẽ hướng dẫn cách tạo App Launcher Icon cho cả 2 hệ hiều hành trên.
+1. App Launcher Icon cho iOS Bước 1 Đầu tiên chúng ta cần phải có 1 ảnh icon được thiết kế sẵn với kích thước 1024x1024 pixels (hoặc lớn hơn cũng được).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/programming/</link>
+    <description>Recent content in Programming on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Những lỗi cơ bản trong lập trình mà developer nên tránh</title>
+      <link>https://huydq.dev/blog/nhung-loi-co-ban-trong-lap-trinh-ma-developer-nen-tranh/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/nhung-loi-co-ban-trong-lap-trinh-ma-developer-nen-tranh/</guid>
+      <description>Không lập trình viên nào code mà không có bug. Tuy nhiên có rất nhiều lỗi cơ bản chúng ta nên tránh để tạo ra ít bug hơn, code sạch và trong sáng hơn, dễ bảo trì hơn, đỡ bị ăn chửi hơn, …
+1. Xử lý quá nhiều thứ trong một function Theo nguyên tắc Single Responsibility, một function chỉ nên thực hiện một và chỉ một nhiệm vụ duy nhất.</description>
+    </item>
+    
+  </channel>
+</rss>
