@@ -21,7 +21,7 @@ params:
   description: "Blog cá nhân"
   keywords: [Blog, Dev, Programming, Web, Mobile]
   author: ""
-  images: ["/icons/avatar-circle.png"]
+  images: ["/icons/avatar.png"]
   DateFormat: "02/01/2006"
   defaultTheme: auto
   disableThemeToggle: false

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/javascript/</link>
+    <description>Recent content in JavaScript on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/avatar.png</url>
+      <link>https://huydq.dev/icons/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS</title>
+      <link>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</guid>
+      <description>ReactJS là một Javascript framework rất phổ biến với giới lập trình Web Frontend hiện nay, số lượng tuyển dụng lập trình viên ReactJS cũng rất lớn. Do đó nhiều người mới học Web Frontend sau khi học xong một chút HTML CSS JS là muốn nhảy vào lập trình ReactJS ngay. Điều này dẫn đến hệ lụy là các bạn sẽ bị hổng kiến thức cơ bản, hoặc khi học ReactJS sẽ rất chật vật vì không hiểu cú pháp, không hiểu bản chất, &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/github/</link>
     <description>Recent content in Github on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar-circle.png</url>
-      <link>https://huydq.dev/icons/avatar-circle.png</link>
+      <url>https://huydq.dev/icons/avatar.png</url>
+      <link>https://huydq.dev/icons/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,16 @@
       <guid>https://huydq.dev/blog/cach-tao-mot-trang-blog-ca-nhan-mien-phi-danh-cho-dev/</guid>
       <description>Vào một ngày đẹp trời, bỗng dưng mình nảy ra ý định làm một trang blog cá nhân thay vì viết Blog trên các nền tảng có sẵn như viblo.asia, techmaster.vn, kipalog.vn, &amp;hellip; Tất nhiên các bài viết mới vẫn sẽ đăng lên các nền tảng này để kiếm người đọc chứ blog này ma nó đọc 😅).
 Ý tưởng có rồi, nhưng thực hiện như nào, sử dụng công nghệ nào, chi phí như nào?</description>
+    </item>
+    
+    <item>
+      <title>Thủ thuật chèn ảnh trên Github</title>
+      <link>https://huydq.dev/blog/thu-thuat-chen-anh-tren-github/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/thu-thuat-chen-anh-tren-github/</guid>
+      <description>Một mã nguồn tốt là mã nguồn có tài liệu hướng dẫn đầy đủ, dễ hiểu, giúp cho người đọc có thể dễ dàng theo dõi và sử dụng.
+ Với các mã nguồn trên Github (hoặc các nền tảng tương tự) thì tài liệu hướng dẫn được viết luôn trong file README.md nằm ở ngay thư mục gốc của project. File này được viết bằng cú pháp markdown, chứ không dùng Rich text editor nên cũng sẽ có 1 số hạn chế nhất định.</description>
     </item>
     
   </channel>
