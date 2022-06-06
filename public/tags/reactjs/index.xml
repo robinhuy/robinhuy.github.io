@@ -22,6 +22,38 @@ Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện Re
     </item>
     
     <item>
+      <title>Hướng dẫn sử dụng RTK Query trong Redux Toolkit</title>
+      <link>https://huydq.dev/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit/</guid>
+      <description>RTK Query là một addon trong bộ thư viện Redux Toolkit. Nó giúp chúng ta thực hiện data fetching một cách đơn giản hơn thay vì sử dụng createAsyncThunk để thực hiện async action. Chú ý RTK Query là dùng để query (kết nối API), chứ không phải dùng để code async trong Redux thay cho createAsyncThunk.
+Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit</title>
+      <link>https://huydq.dev/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit/</guid>
+      <description>Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit.
+Bài viết này mình sẽ hướng dẫn cách thực hiện các async logic (xử lý bất đồng bộ) trong Redux Toolkit, cụ thể là sử dụng createAsyncThunk để kết nối với API login.
+Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải tiến thêm: https://stackblitz.</description>
+    </item>
+    
+    <item>
+      <title>Hướng dẫn sử dụng React Router và Redux Toolkit</title>
+      <link>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</guid>
+      <description>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
+Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
+ Một website có 2 trang: Dashboard và Login.</description>
+    </item>
+    
+    <item>
       <title>Sử dụng useState() Hook trong React như nào cho đúng?</title>
       <link>https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
