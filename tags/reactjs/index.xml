@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/reactjs/</link>
     <description>Recent content in ReactJS on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar-circle.png</url>
-      <link>https://huydq.dev/icons/avatar-circle.png</link>
+      <url>https://huydq.dev/icons/avatar.png</url>
+      <link>https://huydq.dev/icons/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,26 @@
       <description>Để cho các App React hoạt động mượt mà hơn, đẹp hơn, trải nghiệm người dùng tốt hơn, &amp;hellip; thì nên có thêm các hiệu ứng animation, transition.
 Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện React Transition Group để tạo hiệu ứng transition một cách nhanh chóng.
 Để cho tiện thì mình sẽ demo code trên stackblitz.com. Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page.</description>
+    </item>
+    
+    <item>
+      <title>Sử dụng useState() Hook trong React như nào cho đúng?</title>
+      <link>https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</guid>
+      <description>Để quản lý State trong React Function Component, chúng ta dùng Hook useState().
+Hàm useState trả về 1 mảng 2 phần tử, phần tử đầu tiên là để khởi tạo state, phần tử thứ 2 là hàm để cập nhật state. Tham số truyền vào hàm useState là giá trị khởi tạo của state. Ví dụ:
+Khai báo State Phải khai báo useState ở top level của một Function Component (hoặc một custom Hook), không khai báo ở trong một scope nào khác như vòng lặp, điều kiện, hay function con.</description>
+    </item>
+    
+    <item>
+      <title>Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS</title>
+      <link>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</guid>
+      <description>ReactJS là một Javascript framework rất phổ biến với giới lập trình Web Frontend hiện nay, số lượng tuyển dụng lập trình viên ReactJS cũng rất lớn. Do đó nhiều người mới học Web Frontend sau khi học xong một chút HTML CSS JS là muốn nhảy vào lập trình ReactJS ngay. Điều này dẫn đến hệ lụy là các bạn sẽ bị hổng kiến thức cơ bản, hoặc khi học ReactJS sẽ rất chật vật vì không hiểu cú pháp, không hiểu bản chất, &amp;hellip;</description>
     </item>
     
     <item>

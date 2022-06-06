@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/</link>
     <description>Recent content in Tags on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar-circle.png</url>
-      <link>https://huydq.dev/icons/avatar-circle.png</link>
+      <url>https://huydq.dev/icons/avatar.png</url>
+      <link>https://huydq.dev/icons/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -38,6 +38,24 @@
     </item>
     
     <item>
+      <title>JavaScript</title>
+      <link>https://huydq.dev/tags/javascript/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>https://huydq.dev/tags/react-native/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/react-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android</title>
       <link>https://huydq.dev/tags/android/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
@@ -52,15 +70,6 @@
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React Native</title>
-      <link>https://huydq.dev/tags/react-native/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/react-native/</guid>
       <description></description>
     </item>
     
@@ -245,11 +254,11 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://huydq.dev/tags/git/</link>
+      <title>Gitlab</title>
+      <link>https://huydq.dev/tags/gitlab/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://huydq.dev/tags/git/</guid>
+      <guid>https://huydq.dev/tags/gitlab/</guid>
       <description></description>
     </item>
     
