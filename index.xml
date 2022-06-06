@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán</title>
+      <link>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/eventual-consistency-va-strong-consistency-trong-he-thong-co-so-du-lieu-phan-tan/</guid>
+      <description>Một Database Transaction, theo như định nghĩa sẽ phải thỏa mãn các tính chất sau: Atomic, Consistency, Isolation và Durable (hay thường được gọi là ACID). Bài viết này sẽ tập trung vào tính chất Consistency (tính nhất quán), và so sánh giữa Eventual Consistency với Strong Consistency trong hệ thống Distributed Databases qua các ví dụ đời thường.
+Lý thuyết Distributed Database (hệ thống cơ sở dữ liệu phân tán): Là hệ thống Cơ sở dữ liệu (CSDL) mà có thể được phân tải, lưu trữ ở nhiều nơi.</description>
+    </item>
+    
+    <item>
       <title>Những quan niệm sai lầm về CQRS</title>
       <link>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
