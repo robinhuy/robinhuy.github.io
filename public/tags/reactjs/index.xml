@@ -5,11 +5,22 @@
     <link>https://huydq.dev/tags/reactjs/</link>
     <description>Recent content in ReactJS on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar.png</url>
-      <link>https://huydq.dev/icons/avatar.png</link>
+      <url>https://huydq.dev/icons/avatar-circle.png</url>
+      <link>https://huydq.dev/icons/avatar-circle.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo hiệu ứng transition cho React App với React Transition Group</title>
+      <link>https://huydq.dev/blog/tao-hieu-ung-transition-cho-react-app-voi-react-transition-group/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-hieu-ung-transition-cho-react-app-voi-react-transition-group/</guid>
+      <description>Để cho các App React hoạt động mượt mà hơn, đẹp hơn, trải nghiệm người dùng tốt hơn, &amp;hellip; thì nên có thêm các hiệu ứng animation, transition.
+Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện React Transition Group để tạo hiệu ứng transition một cách nhanh chóng.
+Để cho tiện thì mình sẽ demo code trên stackblitz.com. Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page.</description>
+    </item>
+    
     <item>
       <title>Đẩy code Create React App lên Internet miễn phí</title>
       <link>https://huydq.dev/blog/day-code-create-react-app-len-internet-mien-phi/</link>
