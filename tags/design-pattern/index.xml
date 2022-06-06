@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design Pattern on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/design-pattern/</link>
+    <description>Recent content in Design Pattern on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/design-pattern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Những quan niệm sai lầm về CQRS</title>
+      <link>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</guid>
+      <description>Bài viết được dịch (có chỉnh sửa) từ cuốn Patterns Principles and Practices of Domain Driven Design của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về CQRS (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).</description>
+    </item>
+    
+  </channel>
+</rss>
