@@ -9,7 +9,17 @@
       <link>https://huydq.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quản lý Dependencies trong Go bằng Govendor</title>
+      <link>https://huydq.dev/blog/quan-ly-dependencies-trong-go-bang-govendor/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/quan-ly-dependencies-trong-go-bang-govendor/</guid>
+      <description>Để quản lý Dependencies (packages) trong Go chúng ta có thể dùng nhiều tool hỗ trợ. Về bản chất thì chúng tương tự nhau nhưng cũng có nhưng ưu nhược điểm riêng, ví dụ một số tool mình đã từng sử dụng như Dep hoặc Glide (tham khảo bài viết Quản lý package trong Go).
+Hiện mình đang sử dụng một tool khác là Govendor, và theo ý kiến cá nhân thì mình thấy tool này dễ sử dụng hơn, và cách cấu hình cũng như hoạt động của nó khá giống với npm trên NodeJS.</description>
+    </item>
+    
     <item>
       <title>Validate dữ liệu trong Go sử dụng Govalidator</title>
       <link>https://huydq.dev/blog/validate-du-lieu-trong-go-su-dung-govalidator/</link>
