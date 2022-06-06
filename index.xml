@@ -21,6 +21,72 @@
     </item>
     
     <item>
+      <title>Tạo App Launcher icon cho React Native app (Android &#43; iOS)</title>
+      <link>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</guid>
+      <description>Trước khi đẩy app lên Store, chúng ta sẽ cần tạo App Launcher Icon (icon của ứng dụng trên máy của người dùng). App code bằng React Native sẽ có thể đẩy lên cả Google Play (Android) và App Store (iOS), do đó mình sẽ hướng dẫn cách tạo App Launcher Icon cho cả 2 hệ hiều hành trên.
+1. App Launcher Icon cho iOS Bước 1 Đầu tiên chúng ta cần phải có 1 ảnh icon được thiết kế sẵn với kích thước 1024x1024 pixels (hoặc lớn hơn cũng được).</description>
+    </item>
+    
+    <item>
+      <title>Những lỗi cơ bản trong lập trình mà developer nên tránh</title>
+      <link>https://huydq.dev/blog/nhung-loi-co-ban-trong-lap-trinh-ma-developer-nen-tranh/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/nhung-loi-co-ban-trong-lap-trinh-ma-developer-nen-tranh/</guid>
+      <description>Không lập trình viên nào code mà không có bug. Tuy nhiên có rất nhiều lỗi cơ bản chúng ta nên tránh để tạo ra ít bug hơn, code sạch và trong sáng hơn, dễ bảo trì hơn, đỡ bị ăn chửi hơn, …
+1. Xử lý quá nhiều thứ trong một function Theo nguyên tắc Single Responsibility, một function chỉ nên thực hiện một và chỉ một nhiệm vụ duy nhất.</description>
+    </item>
+    
+    <item>
+      <title>Đẩy code Create React App lên Internet miễn phí</title>
+      <link>https://huydq.dev/blog/day-code-create-react-app-len-internet-mien-phi/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/day-code-create-react-app-len-internet-mien-phi/</guid>
+      <description>Sau khi code xong 1 ứng dụng bằng Create React App, chúng ta có thể đẩy sản phẩm lên Internet theo 1 trong 3 cách miễn phí sau chỉ với 3 bước (còn nhiều cách khác nhưng tác giả lười viết 😅):
+1. Github Pages Giả sử bạn đã có tài khoản trên github là robinhuy, và có 1 repository chứa source code ứng dụng tạo bởi Create React App là react-app.</description>
+    </item>
+    
+    <item>
+      <title>Làm sao để thiết kế Form tốt hơn?</title>
+      <link>https://huydq.dev/blog/lam-sao-de-thiet-ke-form-tot-hon/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/lam-sao-de-thiet-ke-form-tot-hon/</guid>
+      <description>Bài viết được dịch từ uxdesign.cc, có lược bớt và chỉnh sửa theo sở thích của người dịch 😜
+Những lỗi thiết kế form và cách tối ưu Form là một thành phần rất quan trọng trên website. Bài viết này sẽ chỉ ra những điều nên và không nên khi thiết kế Form. Chú ý đây chỉ là đề xuất chứ không phải nguyên lý nên sẽ có ngoại lệ.</description>
+    </item>
+    
+    <item>
+      <title>Truyền dữ liệu giữa React Components</title>
+      <link>https://huydq.dev/blog/truyen-du-lieu-giua-react-components/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/truyen-du-lieu-giua-react-components/</guid>
+      <description>Bài viết được biên dịch và tóm tắt lại từ https://towardsdatascience.com , code demo được chuyển sang dùng Hooks.
+Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng cũng không quá phức tạp. Tôi đã tổng kết lại 3 cách để truyền dữ liệu giữa các Component trong React:
+ Từ Parent (Component cha) đến Child (Component con) sử dụng Props. Từ Child đến Parent sử dụng Callbacks.</description>
+    </item>
+    
+    <item>
+      <title>Tạo 1 REST API phục vụ cho mục đích học tập trong 30 giây</title>
+      <link>https://huydq.dev/blog/tao-1-rest-api-phuc-vu-cho-muc-dich-hoc-tap-trong-30-giay/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-1-rest-api-phuc-vu-cho-muc-dich-hoc-tap-trong-30-giay/</guid>
+      <description>Video demo: https://youtu.be/O6Agt4cLbfo.
+Dựng Server local Yêu cầu máy tính đã cài và chạy được Git + NodeJS.
+Các bước thực hiện:
+  Clone repository sau (hoặc fork về nếu muốn quản lý source code, nhớ star để ủng hộ tác giả): https://github.com/robinhuy/fake-rest-api-nodejs.git
+ git clone https://github.com/robinhuy/fake-rest-api-nodejs.git   Cài đặt dependencies
+ cd fake-rest-api-nodejs  npm install   Chạy server
+ npm start   Vậy là chúng ta đã có 1 Server API chạy trên http://localhost:3000 với 1 resource có sẵn là /users với các API theo chuẩn REST:</description>
+    </item>
+    
+    <item>
       <title>Code web tĩnh dễ hơn với Pug</title>
       <link>https://huydq.dev/blog/code-web-tinh-de-hon-voi-pug/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
