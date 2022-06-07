@@ -15,7 +15,7 @@ Hàm **useState** trả về 1 mảng 2 phần tử, phần tử đầu tiên l
 
 Phải khai báo useState ở **top level** của một Function Component (hoặc một custom Hook), không khai báo ở trong một scope nào khác như vòng lặp, điều kiện, hay function con. Ví dụ khai báo state như sau là **sai**:
 
-```jsx
+```react
 export default function App() {
   function handleClick() {
     const [count, setCount] = useState(0);  // Phải khai báo state ở top-level của Function component
@@ -27,7 +27,7 @@ export default function App() {
 
 Có thể khai báo nhiều biến state khác nhau. Ví dụ:
 
-```jsx
+```react
 export default function App() {
   const [count1, setCount1] = useState(0);
   const [count2, setCount2] = useState(0);
@@ -47,7 +47,7 @@ Mỗi khi state được cập nhật thì Component sẽ **re-render** (functio
 
 Ví dụ như sau là **sai**:
 
-```jsx
+```react
 export default function App() {
   const [count, setCount] = useState(0);
 
@@ -68,7 +68,7 @@ export default function App() {
 
 Ví dụ như này là **đúng**:
 
-```jsx
+```react
 export default function App() {
   const [count, setCount] = useState(0);
 
@@ -89,7 +89,7 @@ export default function App() {
 
 Chú ý với các state là **array** hoặc **object** thì nên copy giá trị ra 1 biến mới để không làm thay đổi giá trị cũ (pass by reference). Ví dụ:
 
-```jsx
+```react
 export default function App() {
   const [arr, setArr] = useState([1, 2, 3]);
 
@@ -110,7 +110,7 @@ export default function App() {
 
 Thay vì cập nhật state bằng cách truyền vào giá trị mới, thì chúng ta có thể cập nhật state bằng cách truyền vào một hàm callback (có tham số là giá trị cũ) và trả về kết quả là giá trị mới. Ví dụ:
 
-```jsx
+```react
 setCount((prevCount) => prevCount + 1);
 ```
 
@@ -120,7 +120,7 @@ Ví dụ với ứng dụng đếm số lượt bấm nút, nếu sửa lại h�
 
 Nếu cập nhật state bằng cách sau thì khi người dùng bấm nút nhiều lần trong khoảng thời gian 3 giây, thì sau 3 giây giá trị của state cũng chỉ tăng lên 1 (lấy giá trị của state ở thời điểm hiện tại cộng thêm 1).
 
-```jsx
+```react
 export default function App() {
   const [count, setCount] = useState(0);
 
@@ -143,7 +143,7 @@ export default function App() {
 
 Nếu cập nhật state bằng cách truyền vào một hàm thì trong 3 giây delay, người dùng bấm nút bao nhiêu lần thì giá trị của state sẽ tăng lên bấy nhiêu.
 
-```jsx
+```react
 export default function App() {
   const [count, setCount] = useState(0);
 

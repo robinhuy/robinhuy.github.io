@@ -17,7 +17,7 @@ Chúng ta sẽ tiếp tục sử dụng ví dụ này để demo: [https://stack
 
 Đầu tiên chúng ta tạo 1 file mới, tương tự như tạo một slice, và file này sẽ dùng để khai báo các lệnh gọi API. Ví dụ trong thư mục store tạo thêm file **api.js** với nội dung như sau:
 
-```jsx
+```react
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const api = createApi({
@@ -36,7 +36,7 @@ export const api = createApi({
 
 Nhúng API này vào trong store như một Slice, sửa file `store/index.js`:
 
-```jsx
+```react
 import { configureStore } from "@reduxjs/toolkit";
 import { api } from "./api";
 import userReducer from "./userSlice";
@@ -63,7 +63,7 @@ Sau khi cấu hình xong, chúng ta có thể thêm các endpoint để thực h
 
 Với request login thì mình sẽ dùng loại _mutation_, sửa lại phần **endpoints** của file `store/api.js`:
 
-```jsx
+```react
 export const api = createApi({
   ...
   endpoints: (builder) => ({
@@ -89,7 +89,7 @@ export const { useLoginMutation } = api;
 
 Sửa lại trang login, sử dụng mutation ở trên để gọi API:
 
-```jsx
+```react
 ...
 // Import hook để sử dụng
 import { useLoginMutation } from '../store/api';
@@ -116,7 +116,7 @@ Như vậy việc gọi API sẽ trở nên dễ dàng hơn. Bạn cũng có th�
 
 Trong trường hợp cần lưu dữ liệu vào trong store, ví dụ cập nhật state ở Slice khác thì làm tương tự như khi dùng _createAsyncThunk_. Sửa lại file `store/userSlice.js` để thêm logic lưu thông tin user sau khi user đăng nhập thành công:
 
-```jsx
+```react
   extraReducers: (builder) => {
     // Xử lý logic khi endpoint login được fulfilled
     builder.addMatcher(api.endpoints.login.matchFulfilled, (state, action) => {
@@ -130,7 +130,7 @@ Hoặc RTK Query cũng hỗ trợ lấy state từ Slice khác. Ví dụ sau khi
 
 Sửa lại hàm **fetchBaseQuery()** ở `store/api.js` để cho phép các request đều gửi kèm token nếu có:
 
-```jsx
+```react
   baseQuery: fetchBaseQuery({
     baseUrl: 'https://fake-rest-api-nodejs.herokuapp.com/',
 
@@ -152,7 +152,7 @@ Sửa lại hàm **fetchBaseQuery()** ở `store/api.js` để cho phép các re
 
 Kiểm tra thử bằng cách tạo thêm 1 endpoint nữa để lấy ra danh sách user. Endpoint này là private và nếu không có token sẽ trả về lỗi 401. Bổ sung thêm endpoint `getUsers` vào file `store/api.js`:
 
-```jsx
+```react {hl_lines=["7-9"]}
 export const api = createApi({
   ...
   endpoints: (builder) => ({
@@ -172,7 +172,7 @@ export const { useLoginMutation, useGetUsersQuery } = api;
 
 Sửa lại nội dung trang `Dashboard` (sau khi login thành công) để hiển thị thông tin users lấy từ API:
 
-```jsx
+```react
 ...
 import { useGetUsersQuery } from '../store/api';
 

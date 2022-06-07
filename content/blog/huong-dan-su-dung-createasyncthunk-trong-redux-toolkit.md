@@ -19,7 +19,7 @@ Bây giờ khi người dùng bấm nút Login, chúng ta sẽ gọi vào API đ
 
 Ví dụ tạo một async action (và export luôn ra ngoài để sử dụng ở Component):
 
-```jsx
+```react
 export const login = createAsyncThunk(
   // Tên action
   "user/login",
@@ -56,7 +56,7 @@ Ví dụ trên sẽ tạo 1 request đến API backend: [https://fake-rest-api-n
 
 Tiếp theo chúng ta sẽ tạo ra các extra Reducers dùng để xử lý các trạng thái của async action ở trên:
 
-```jsx
+```react
 // Tạo login action (async)
 export const login = createAsyncThunk("user/login", {
   // Code như trên
@@ -108,7 +108,7 @@ export const userSlice = createSlice({
 
 Sau khi code xong action thì chúng ta _dispatch_ như bình thường. Ví dụ truyền vào 1 object có chứa _email_ và _password_:
 
-```jsx
+```react
 <button onClick={() => dispatch(login({ email, password }))}>Login</button>
 ```
 

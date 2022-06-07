@@ -40,6 +40,10 @@
   padding-inline-start: 35px;
 }
 
+.post-content .highlight pre {
+  display: block !important;
+}
+
 .paginav span:hover:not(.title) {
   box-shadow: none;
 }

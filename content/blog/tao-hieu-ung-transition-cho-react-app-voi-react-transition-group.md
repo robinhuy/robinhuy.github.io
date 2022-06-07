@@ -19,7 +19,7 @@ React Transition Group cung cấp cho chúng ta 4 Component để hỗ trợ cho
 
 Tạo ra 4 function Component rỗng đại diện cho mỗi page là `Home.js`, `Page1.js`, `Page2.js`, `Page3.js`. Ví dụ Component Home:
 
-```jsx
+```react
 import React from 'react';
 
 export default function Home() {
@@ -31,7 +31,7 @@ export default function Home() {
 
 Sau đó cấu hình Router cho website ở `App.js`:
 
-```jsx
+```react
 import React from 'react';
 import { BrowserRouter, Link, Routes, Route } from 'react-router-dom';
 
@@ -83,7 +83,7 @@ Dùng để tạo transition cho một Component khi nó thay đổi trạng th�
 
 Ví dụ sau sẽ tạo hiệu ứng transition khi Component xuất hiện (enter) và biến mất (exit):
 
-```jsx
+```react
 import React, { useState } from 'react';
 import { Transition } from 'react-transition-group';
 
@@ -143,7 +143,7 @@ Sử dụng CSS để tạo Transition. Compnent này tương tự Component Tra
 
 Ví dụ sau tạo hiệu ứng tương tự như ví dụ trước, nhưng sử dụng CSS ở một file riêng:
 
-```jsx
+```react
 import React, { useState } from 'react';
 import { CSSTransition } from 'react-transition-group';
 // Nhúng CSS từ file vào Component
@@ -218,7 +218,7 @@ Sử dụng khi muốn điều khiển việc render Component theo state với 
 
 Ví dụ sau sẽ tạo transition khi thay đổi trạng thái của Component, nội dung của Component thay đổi kèm hiệu ứng transition:
 
-```jsx
+```react
 import React, { useState } from 'react';
 import { SwitchTransition, CSSTransition } from 'react-transition-group';
 import './style.css';
@@ -277,7 +277,7 @@ export default function Home() {
 
 Sử dụng để tạo hiệu ứng transition cho 1 danh sách (list) các Component. Ví dụ demo mình lấy luôn trên docs của thư viện nhưng tối giản đi một chút:
 
-```jsx
+```react
 import React, { useState } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { nanoid } from 'nanoid';
@@ -367,7 +367,7 @@ export default function Page3() {
 
 Hook `useLocation` chỉ sử dụng được khi nằm trong Component `BrowserRouter` nên chúng ta phải tạo thêm 1 Component con để tạo transition. Tạo thêm một Component là `RoutesWithTransition`:
 
-```jsx
+```react
 import React from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
@@ -399,7 +399,7 @@ export default function RoutesWithTransition() {
 
 Sau đó đổi lại phần cấu hình routes ở `App.js` sử dụng Component trên:
 
-```jsx
+```react {hl_lines=["6"]}
 ...
     <BrowserRouter>
       <nav>...</nav>

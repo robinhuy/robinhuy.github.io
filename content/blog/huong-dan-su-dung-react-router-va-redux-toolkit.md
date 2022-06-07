@@ -33,7 +33,7 @@ yarn add react-router-dom @reduxjs/toolkit react-redux
 
 Trong ví dụ có 2 trang là Dashboard và Login, thì chúng ta tạo 2 function component tương ứng cho 2 trang, và cấu hình router (đường dẫn cho các trang) ở root component là App như sau:
 
-```jsx
+```react
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -68,7 +68,7 @@ export default function App() {
 
 Component Login và Dashboard đặt trong thư mục **pages** và có nội dung đơn giản như sau:
 
-```jsx
+```react
 // pages/Login.js
 
 import React, { useState } from "react";
@@ -102,7 +102,7 @@ return (
 }
 ```
 
-```jsx
+```react
 // pages/Dashboard.js
 
 import React from "react";
@@ -129,7 +129,7 @@ Các bạn hình dung Redux Store như 1 nơi lưu state global mà tất cả c
 
 Với các dự án lớn thì trong Store có thể chia ra nhiều Slice (nhóm các state theo chức năng). Với ví dụ đơn giản này thì chúng ta chỉ cần 1 Slice, tạo Slice là **userSlice** tương tự như sau:
 
-```jsx
+```react
 // store/userSlice.js
 
 import { createSlice } from "@reduxjs/toolkit";
@@ -165,7 +165,7 @@ export default userSlice.reducer;
 
 Tạo 1 file để cấu hình Store:
 
-```jsx
+```react
 // store/index.js
 
 import { configureStore } from "@reduxjs/toolkit";
@@ -181,7 +181,7 @@ export const store = configureStore({
 
 Khai báo phạm vi sử dụng Store, ở đây mình dùng cho toàn bộ website nên sẽ khai báo ở file **index.js**:
 
-```jsx
+```react
 import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
@@ -204,7 +204,7 @@ ReactDOM.render(
 
 Sửa lại Login Component như sau:
 
-```jsx
+```react
 import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
 
@@ -232,7 +232,7 @@ function handleLogin() {
 
 Sửa lại nội dung hàm **updateUsername** trong reducers của **userSlice**:
 
-```jsx
+```react
 reducers: {
   // Hàm có 2 tham số là state hiện tại và action truyền vào
   updateUsername: (state, action) => {
@@ -247,7 +247,7 @@ reducers: {
 
 Tiếp theo sửa lại Dashboard component để hiển thị giá trị state **username** ra ngoài màn hình:
 
-```jsx
+```react
 import React from "react";
 import { Link } from "react-router-dom";
 
