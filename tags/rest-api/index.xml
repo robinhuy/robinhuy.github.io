@@ -20,9 +20,8 @@
 Dựng Server local Yêu cầu máy tính đã cài và chạy được Git + NodeJS.
 Các bước thực hiện:
   Clone repository sau (hoặc fork về nếu muốn quản lý source code, nhớ star để ủng hộ tác giả): https://github.com/robinhuy/fake-rest-api-nodejs.git
- git clone https://github.com/robinhuy/fake-rest-api-nodejs.git   Cài đặt dependencies
- cd fake-rest-api-nodejs  npm install   Chạy server
- npm start   Vậy là chúng ta đã có 1 Server API chạy trên http://localhost:3000 với 1 resource có sẵn là /users với các API theo chuẩn REST:</description>
+1   git clone https://github.com/robinhuy/fake-rest-api-nodejs.git     Cài đặt dependencies
+1 2   cd fake-rest-api-nodejs  npm install     Chạy server</description>
     </item>
     
   </channel>

@@ -132,9 +132,9 @@ Khai báo State Phải khai báo useState ở top level của một Function C
       
       <guid>https://huydq.dev/blog/thiet-lap-moi-truong-lap-trinh-react-native/</guid>
       <description>Nếu bạn dùng Mac Bước 1: Cài đặt chung Cài Node và Watchman dùng Homebrew
-brew install node brew install watchman Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây https://nodejs.org/en/ (cài bản LTS) hoặc sử dụng nvm nếu bạn muốn sử dụng node với các phiên bản khác nhau.
+1 2  brew install node brew install watchman   Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây https://nodejs.org/en/ (cài bản LTS) hoặc sử dụng nvm nếu bạn muốn sử dụng node với các phiên bản khác nhau.
 Cài Java Development Kit dùng Homebrew
-brew install --cask adoptopenjdk/openjdk/adoptopenjdk8 Hoặc có thể tải bộ cài tại đây https://www.</description>
+1  brew install --cask adoptopenjdk/openjdk/adoptopenjdk8   Hoặc có thể tải bộ cài tại đây https://www.</description>
     </item>
     
     <item>
@@ -208,9 +208,8 @@ Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng c
 Dựng Server local Yêu cầu máy tính đã cài và chạy được Git + NodeJS.
 Các bước thực hiện:
   Clone repository sau (hoặc fork về nếu muốn quản lý source code, nhớ star để ủng hộ tác giả): https://github.com/robinhuy/fake-rest-api-nodejs.git
- git clone https://github.com/robinhuy/fake-rest-api-nodejs.git   Cài đặt dependencies
- cd fake-rest-api-nodejs  npm install   Chạy server
- npm start   Vậy là chúng ta đã có 1 Server API chạy trên http://localhost:3000 với 1 resource có sẵn là /users với các API theo chuẩn REST:</description>
+1   git clone https://github.com/robinhuy/fake-rest-api-nodejs.git     Cài đặt dependencies
+1 2   cd fake-rest-api-nodejs  npm install     Chạy server</description>
     </item>
     
     <item>
@@ -300,7 +299,7 @@ Lý thuyết Distributed Database (hệ thống cơ sở dữ liệu phân tán)
       <description>Trong các ứng dụng cho phép người dùng nhập dữ liệu thì đều cần phải có validate để bảo mật và đảm bảo ứng dụng chạy đúng.
 Golang có một số thư viện open source hỗ trợ chúng ta làm việc này một cách nhanh chóng, ví dụ như govalidator.
 Cài đặt Cài govalidator qua package manager hoặc đơn giản là dùng go get:
-go get github.com/asaskevich/govalidator Import vào trong project:</description>
+1  go get github.com/asaskevich/govalidator   Import vào trong project:</description>
     </item>
     
     <item>
@@ -363,7 +362,7 @@ Structs Tương tự C, một struct trong Go là tập hợp các trường (f
 Phần 1: Packages, variables và functions.
 Phần 2: Điều khiển luồng với if, else, switch và defer.
 Arrays Array (mảng) trong Go tương tự các ngôn ngữ khác, tuy nhiên nó có kích thước cố định (fixed size) và các phần tử bên trong phải cùng loại dữ liệu. Ví dụ:
-// Khởi tạo một mảng gồm 2 string var a [2]string  // Gán giá trị cho các phần tử trong mảng a[0] = &amp;#34;Hello&amp;#34; a[1] = &amp;#34;World&amp;#34;  // In kết quả ra console fmt.</description>
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  // Khởi tạo một mảng gồm 2 string var a [2]string  // Gán giá trị cho các phần tử trong mảng a[0] = &amp;#34;Hello&amp;#34; a[1] = &amp;#34;World&amp;#34;  // In kết quả ra console fmt.</description>
     </item>
     
     <item>
@@ -375,7 +374,7 @@ Arrays Array (mảng) trong Go tương tự các ngôn ngữ khác, tuy nhiên 
       <description>Phần trước: Học Go cấp tốc Phần 1: Packages, variables và functions.
 Phần tiếp theo chúng ta sẽ cùng tìm hiểu cách điều khiển luồng (flow control) trong Go.
 Vòng lặp Trong Go chỉ có 1 kiểu vòng lặp là sử dụng for. Cách dùng tương tự các ngôn ngữ khác nhưng phần khai báo biến, điều kiện lặp, &amp;hellip; không cần đặt trong cặp ngoặc tròn:
-// Tính tổng các số từ 0 - 9 sum := 0 for i := 0; i &amp;lt; 10; i++ {  sum += i } fmt.</description>
+1 2 3 4 5 6  // Tính tổng các số từ 0 - 9 sum := 0 for i := 0; i &amp;lt; 10; i++ {  sum += i } fmt.</description>
     </item>
     
     <item>
