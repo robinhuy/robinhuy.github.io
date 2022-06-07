@@ -110,8 +110,8 @@ Chỉ đơn giản vậy thôi, mỗi lần chúng ta push code lên branch **ma
 
 Chốt lại các thao tác khi cần viết bài mới sẽ là:
 
-- 1. Tạo 1 file mới trong thư mục **content**, cấu hình nội dung trang và viết bài theo cú pháp markdown. Dùng lệnh `hugo server` để chạy website local (có sẵn live reload để tiện preview). Hoặc nếu muốn trải nghiệm viết bài như một CMS thì các bạn có thể cài thêm một số phần mềm theo hướng dẫn sau: [https://gohugo.io/tools/frontends/](https://gohugo.io/tools/frontends/).
-- 2. Build website bằng lệnh `hugo`.
-- 3. Commit code và push lên branch **main**.
+1. Tạo 1 file mới trong thư mục **content**, cấu hình nội dung trang và viết bài theo cú pháp markdown. Dùng lệnh `hugo server` để chạy website local (có sẵn live reload để tiện preview). Hoặc nếu muốn trải nghiệm viết bài như một CMS thì các bạn có thể cài thêm một số phần mềm theo hướng dẫn sau: [https://gohugo.io/tools/frontends/](https://gohugo.io/tools/frontends/).
+2. Build website bằng lệnh `hugo`.
+3. Commit code và push lên branch **main**.
 
 Phần cấu hình website, cấu hình theme, ... thì các bạn tự tìm hiểu nốt trên trang chủ của Hugo và tài liệu hướng dẫn của theme mà bạn chọn nhé. Chúc các bạn viết Blog vui vẻ 😬
