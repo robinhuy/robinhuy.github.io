@@ -5,8 +5,8 @@
     <link>https://huydq.dev/</link>
     <description>Recent content on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar.png</url>
-      <link>https://huydq.dev/icons/avatar.png</link>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/index.xml" rel="self" type="application/rss+xml" />
@@ -50,6 +50,37 @@ Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hư�
       <description>Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit.
 Bài viết này mình sẽ hướng dẫn cách thực hiện các async logic (xử lý bất đồng bộ) trong Redux Toolkit, cụ thể là sử dụng createAsyncThunk để kết nối với API login.
 Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải tiến thêm: https://stackblitz.</description>
+    </item>
+    
+    <item>
+      <title>Tối ưu static website với Webpack</title>
+      <link>https://huydq.dev/blog/toi-uu-static-page-voi-webpack/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/toi-uu-static-page-voi-webpack/</guid>
+      <description>Nếu bạn là một Web Frontend Developer thì chắc sẽ không xa lạ gì với Webpack, một công cụ bundle code mạnh mẽ. Webpack thường được tích hợp sẵn trong các thư viện như React, Angular, Vue, … và có nhiều người thậm chí còn không biết đến sự tồn tại cũng như tác dụng của nó 😅
+Bài viết này mình sẽ hướng dẫn các bạn cách tối ưu một static website (web tĩnh chỉ gồm HTML CSS JS) bằng Webpack.</description>
+    </item>
+    
+    <item>
+      <title>Các cách tạo web tĩnh với Github</title>
+      <link>https://huydq.dev/blog/cach-tao-web-tinh-voi-github/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cach-tao-web-tinh-voi-github/</guid>
+      <description>Bạn có 1 trang web tĩnh (static web chỉ gồm HTML CSS JS) và muốn đẩy lên mạng để chia sẻ cho người khác mà không mất phí? Hãy tận dụng Github - nền tảng lưu trữ, quản lý và chia sẻ mã nguồn mở hàng đầu hiện nay.
+Ngoài việc lưu trữ và quản lý mã nguồn, Github còn cung cấp một dịch vụ cho phép hosting static web là Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>Các cách đẩy code lên Github</title>
+      <link>https://huydq.dev/blog/cac-cach-day-code-len-github/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cac-cach-day-code-len-github/</guid>
+      <description>Github là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
+Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ dàng hơn, giúp làm việc nhóm một cách hiệu quả.
+ Ngoài ra đẩy code lên Github còn giúp chúng ta tạo ra các static page một cách nhanh chóng và miễn phí, tham khảo bài viết này Các cách tạo web tĩnh với Github.</description>
     </item>
     
     <item>

@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/</link>
     <description>Recent content in Tags on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar.png</url>
-      <link>https://huydq.dev/icons/avatar.png</link>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -43,6 +43,15 @@
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/redux-toolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webpack</title>
+      <link>https://huydq.dev/tags/webpack/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/webpack/</guid>
       <description></description>
     </item>
     

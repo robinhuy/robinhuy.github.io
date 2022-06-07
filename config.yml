@@ -18,10 +18,10 @@ minify:
 params:
   env: production
   title: HuyDQ's Blog
-  description: "Blog cá nhân"
+  description: "Learning - Coding - Writing - Spamming."
   keywords: [Blog, Dev, Programming, Web, Mobile]
   author: ""
-  images: ["/icons/avatar.png"]
+  images: ["/icons/thumbnail.jpg"]
   DateFormat: "02/01/2006"
   defaultTheme: auto
   disableThemeToggle: false
