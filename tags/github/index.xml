@@ -5,8 +5,8 @@
     <link>https://huydq.dev/tags/github/</link>
     <description>Recent content in Github on HuyDQ&#39;s Blog</description>
     <image>
-      <url>https://huydq.dev/icons/avatar.png</url>
-      <link>https://huydq.dev/icons/avatar.png</link>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,27 @@
       <guid>https://huydq.dev/blog/cach-tao-mot-trang-blog-ca-nhan-mien-phi-danh-cho-dev/</guid>
       <description>Vào một ngày đẹp trời, bỗng dưng mình nảy ra ý định làm một trang blog cá nhân thay vì viết Blog trên các nền tảng có sẵn như viblo.asia, techmaster.vn, kipalog.vn, &amp;hellip; Tất nhiên các bài viết mới vẫn sẽ đăng lên các nền tảng này để kiếm người đọc chứ blog này ma nó đọc 😅).
 Ý tưởng có rồi, nhưng thực hiện như nào, sử dụng công nghệ nào, chi phí như nào?</description>
+    </item>
+    
+    <item>
+      <title>Các cách tạo web tĩnh với Github</title>
+      <link>https://huydq.dev/blog/cach-tao-web-tinh-voi-github/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cach-tao-web-tinh-voi-github/</guid>
+      <description>Bạn có 1 trang web tĩnh (static web chỉ gồm HTML CSS JS) và muốn đẩy lên mạng để chia sẻ cho người khác mà không mất phí? Hãy tận dụng Github - nền tảng lưu trữ, quản lý và chia sẻ mã nguồn mở hàng đầu hiện nay.
+Ngoài việc lưu trữ và quản lý mã nguồn, Github còn cung cấp một dịch vụ cho phép hosting static web là Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>Các cách đẩy code lên Github</title>
+      <link>https://huydq.dev/blog/cac-cach-day-code-len-github/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/cac-cach-day-code-len-github/</guid>
+      <description>Github là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
+Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ dàng hơn, giúp làm việc nhóm một cách hiệu quả.
+ Ngoài ra đẩy code lên Github còn giúp chúng ta tạo ra các static page một cách nhanh chóng và miễn phí, tham khảo bài viết này Các cách tạo web tĩnh với Github.</description>
     </item>
     
     <item>
