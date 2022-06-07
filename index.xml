@@ -53,6 +53,17 @@ Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải
     </item>
     
     <item>
+      <title>Tái sử dụng code cho nhiều project với Git Submodules</title>
+      <link>https://huydq.dev/blog/tai-su-dung-code-cho-nhieu-project-voi-git-submodules/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tai-su-dung-code-cho-nhieu-project-voi-git-submodules/</guid>
+      <description>Trong một project sẽ có những đoạn code có thể tái sử dụng ở nhiều nơi, thường đặt ở trong các thư mục đại loại như: helper, utils, &amp;hellip; Vậy nếu những đoạn code đó lại được tái sử dụng ở nhiều project thì sao?
+Có nhiều phương pháp áp dụng như: Git Submodules, Monorepos, Bit, &amp;hellip; hay tạo hẳn thư viện riêng và đẩy lên cloud.
+Trong bài viết này mình sẽ hướng dẫn các bạn cách sử dụng Git Submodules cho việc tái sử dụng code.</description>
+    </item>
+    
+    <item>
       <title>Tối ưu static website với Webpack</title>
       <link>https://huydq.dev/blog/toi-uu-static-page-voi-webpack/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
