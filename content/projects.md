@@ -11,11 +11,11 @@ disableShare: true
 
 {{< card link="/static-apps/kanban-board" img="/static-apps/kanban-board/img/thumbnail.jpg" title="Kanban Board" >}}
 
-{{< card link="/static-apps/master-mind" img="https://huydq.dev/static-apps/master-mind/master-mind.png" title="Master Mind" >}}
+{{< card link="/static-apps/master-mind" img="/static-apps/master-mind/master-mind.png" title="Master Mind" >}}
 
-{{< card link="/static-apps/memory-card" img="https://huydq.dev/static-apps/kanban-board/img/thumbnail.jpg" title="Memory Card" >}}
+{{< card link="/static-apps/memory-card" img="/static-apps/memory-card/img/thumbnail.jpg" title="Memory Card" >}}
 
-{{< card link="/angular-shopping-cart-example" img="https://huydq.dev/static-apps/kanban-board/img/thumbnail.jpg" title="Shopping Cart" >}}
+{{< card link="/angular-shopping-cart-example" img="/images/shopping-cart.jpg" title="Shopping Cart" >}}
 
 {{< card link="/vue3-online-shop" img="/images/online-shop.jpg" title="Online Shop" >}}
 
