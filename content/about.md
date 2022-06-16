@@ -1,6 +1,8 @@
 ---
 title: "About"
 draft: false
+ShowToc: false
+disableShare: true
 ---
 
 Hi there 👋

@@ -1,0 +1,21 @@
+{{- with .Parent -}}
+<div class="{{ .Get "class" }}-card">
+{{- end -}}
+  <div class="card">
+    <a href="{{ if (.Get "link") }}{{ .Get "link" }}{{ else }}#{{ end }}">
+      <img 
+        class="card-img-top" 
+        src="{{ if (.Get "img") }}{{ .Get "img" }}{{ else }}/images/default-thumbnail.png{{ end }}" 
+        {{ if or (.Get "alt") (.Get "title") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "title" }}{{ end }}"{{ end }} 
+      />
+      
+      <div class="card-body">
+        <h3 class="card-title">{{ .Get "title" }}</h3>
+  
+        <p class="card-text">{{ .Get "description" }}</p>
+      </div>
+    </a>
+  </div>
+</div>
+
+
