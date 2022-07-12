@@ -29,7 +29,7 @@ Hiện mình đang sử dụng một tool khác là Govendor, và theo ý kiến
       <description>Trong các ứng dụng cho phép người dùng nhập dữ liệu thì đều cần phải có validate để bảo mật và đảm bảo ứng dụng chạy đúng.
 Golang có một số thư viện open source hỗ trợ chúng ta làm việc này một cách nhanh chóng, ví dụ như govalidator.
 Cài đặt Cài govalidator qua package manager hoặc đơn giản là dùng go get:
-1  go get github.com/asaskevich/govalidator   Import vào trong project:</description>
+1 go get github.com/asaskevich/govalidator Import vào trong project:</description>
     </item>
     
     <item>
@@ -50,9 +50,9 @@ Embedded Type là khai báo một type nằm trong một type khác nhưng kh�
       
       <guid>https://huydq.dev/blog/quan-ly-package-trong-go/</guid>
       <description>Để sử dụng 1 package trong Go ta dùng lệnh import:
-  Với local package (các package nằm trong project) thì ta có thể sử dụng đường dẫn tương đối.
-  Với external package (các package bên ngoài project) thì ta sẽ phải cài đặt vào trong $GOPATH (đây là một biến môi trường để thiết lập nơi cài package).
-  Để cài đặt package thì chúng ta có thể dùng các cách sau:</description>
+Với local package (các package nằm trong project) thì ta có thể sử dụng đường dẫn tương đối.
+Với external package (các package bên ngoài project) thì ta sẽ phải cài đặt vào trong $GOPATH (đây là một biến môi trường để thiết lập nơi cài package).
+Để cài đặt package thì chúng ta có thể dùng các cách sau:</description>
     </item>
     
     <item>
@@ -92,7 +92,7 @@ Structs Tương tự C, một struct trong Go là tập hợp các trường (f
 Phần 1: Packages, variables và functions.
 Phần 2: Điều khiển luồng với if, else, switch và defer.
 Arrays Array (mảng) trong Go tương tự các ngôn ngữ khác, tuy nhiên nó có kích thước cố định (fixed size) và các phần tử bên trong phải cùng loại dữ liệu. Ví dụ:
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  // Khởi tạo một mảng gồm 2 string var a [2]string  // Gán giá trị cho các phần tử trong mảng a[0] = &amp;#34;Hello&amp;#34; a[1] = &amp;#34;World&amp;#34;  // In kết quả ra console fmt.</description>
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 // Khởi tạo một mảng gồm 2 string var a [2]string // Gán giá trị cho các phần tử trong mảng a[0] = &amp;#34;Hello&amp;#34; a[1] = &amp;#34;World&amp;#34; // In kết quả ra console fmt.</description>
     </item>
     
     <item>
@@ -104,7 +104,7 @@ Arrays Array (mảng) trong Go tương tự các ngôn ngữ khác, tuy nhiên 
       <description>Phần trước: Học Go cấp tốc Phần 1: Packages, variables và functions.
 Phần tiếp theo chúng ta sẽ cùng tìm hiểu cách điều khiển luồng (flow control) trong Go.
 Vòng lặp Trong Go chỉ có 1 kiểu vòng lặp là sử dụng for. Cách dùng tương tự các ngôn ngữ khác nhưng phần khai báo biến, điều kiện lặp, &amp;hellip; không cần đặt trong cặp ngoặc tròn:
-1 2 3 4 5 6  // Tính tổng các số từ 0 - 9 sum := 0 for i := 0; i &amp;lt; 10; i++ {  sum += i } fmt.</description>
+1 2 3 4 5 6 // Tính tổng các số từ 0 - 9 sum := 0 for i := 0; i &amp;lt; 10; i++ { sum += i } fmt.</description>
     </item>
     
     <item>
