@@ -49,7 +49,7 @@ Ngoài việc lưu trữ và quản lý mã nguồn, Github còn cung cấp mộ
       <guid>https://huydq.dev/blog/cac-cach-day-code-len-github/</guid>
       <description>Github là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
 Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ dàng hơn, giúp làm việc nhóm một cách hiệu quả.
- Ngoài ra đẩy code lên Github còn giúp chúng ta tạo ra các static page một cách nhanh chóng và miễn phí, tham khảo bài viết này Các cách tạo web tĩnh với Github.</description>
+Ngoài ra đẩy code lên Github còn giúp chúng ta tạo ra các static page một cách nhanh chóng và miễn phí, tham khảo bài viết này Các cách tạo web tĩnh với Github.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ
       
       <guid>https://huydq.dev/blog/thu-thuat-chen-anh-tren-github/</guid>
       <description>Một mã nguồn tốt là mã nguồn có tài liệu hướng dẫn đầy đủ, dễ hiểu, giúp cho người đọc có thể dễ dàng theo dõi và sử dụng.
- Với các mã nguồn trên Github (hoặc các nền tảng tương tự) thì tài liệu hướng dẫn được viết luôn trong file README.md nằm ở ngay thư mục gốc của project. File này được viết bằng cú pháp markdown, chứ không dùng Rich text editor nên cũng sẽ có 1 số hạn chế nhất định.</description>
+Với các mã nguồn trên Github (hoặc các nền tảng tương tự) thì tài liệu hướng dẫn được viết luôn trong file README.md nằm ở ngay thư mục gốc của project. File này được viết bằng cú pháp markdown, chứ không dùng Rich text editor nên cũng sẽ có 1 số hạn chế nhất định.</description>
     </item>
     
   </channel>

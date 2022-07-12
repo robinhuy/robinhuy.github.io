@@ -39,7 +39,7 @@ Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải
       <guid>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</guid>
       <description>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
 Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
- Một website có 2 trang: Dashboard và Login.</description>
+Một website có 2 trang: Dashboard và Login. Ở trang login cho phép nhập username, và khi chuyển qua trang Dashboard thì hiển thị username đó, nếu không nhập gì thì hiển thị là “Guest”.</description>
     </item>
     
   </channel>
