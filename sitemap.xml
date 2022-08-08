@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://huydq.dev/tags/android/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/ios/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/react-native/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://huydq.dev/tags/blog/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,12 +27,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/github/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/reactjs/</loc>
@@ -65,23 +77,11 @@
     <loc>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/tags/react-native/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://huydq.dev/blog/thiet-lap-moi-truong-lap-trinh-react-native/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/thu-thuat-chen-anh-tren-github/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/android/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/ios/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/nhung-loi-co-ban-trong-lap-trinh-ma-developer-nen-tranh/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
