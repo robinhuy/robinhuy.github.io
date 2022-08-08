@@ -9,7 +9,17 @@
       <link>https://huydq.dev/icons/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo App Launcher icon cho React Native app (Android &#43; iOS)</title>
+      <link>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</guid>
+      <description>Trước khi đẩy app lên Store, chúng ta sẽ cần tạo App Launcher Icon (icon của ứng dụng trên máy của người dùng). App code bằng React Native sẽ có thể đẩy lên cả Google Play (Android) và App Store (iOS), do đó mình sẽ hướng dẫn cách tạo App Launcher Icon cho cả 2 hệ hiều hành trên.
+Để tạo bộ icon cho các thiết bị với kích thước khác nhau (dùng cho cả trên store) thì chúng ta cần chuẩn bị sẵn 1 icon gốc với kích thước 1024x1024 pixels.</description>
+    </item>
+    
     <item>
       <title>Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS</title>
       <link>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</link>
@@ -29,16 +39,6 @@
 1 2 brew install node brew install watchman Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây https://nodejs.org/en/ (cài bản LTS) hoặc sử dụng nvm nếu bạn muốn sử dụng node với các phiên bản khác nhau.
 Cài Java Development Kit dùng Homebrew
 1 brew install --cask adoptopenjdk/openjdk/adoptopenjdk8 Hoặc có thể tải bộ cài tại đây https://www.</description>
-    </item>
-    
-    <item>
-      <title>Tạo App Launcher icon cho React Native app (Android &#43; iOS)</title>
-      <link>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</guid>
-      <description>Trước khi đẩy app lên Store, chúng ta sẽ cần tạo App Launcher Icon (icon của ứng dụng trên máy của người dùng). App code bằng React Native sẽ có thể đẩy lên cả Google Play (Android) và App Store (iOS), do đó mình sẽ hướng dẫn cách tạo App Launcher Icon cho cả 2 hệ hiều hành trên.
-Để tạo bộ icon cho các thiết bị với kích thước khác nhau (dùng cho cả trên store) thì chúng ta cần chuẩn bị sẵn 1 icon gốc với kích thước 1024x1024 pixels.</description>
     </item>
     
   </channel>
