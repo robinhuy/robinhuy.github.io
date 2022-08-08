@@ -1,15 +1,195 @@
-<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>ReactJS | HuyDQ's Blog</title><meta name=keywords content><meta name=description content="Learning - Coding - Writing - Spamming."><meta name=author content><link rel=canonical href=https://huydq.dev/tags/reactjs/><link crossorigin=anonymous href=/assets/css/stylesheet.b1eb50b50e11910be36d25969ce9605fa6614a089f514914206a6cd4c0553a07.css rel="preload stylesheet" as=style><link rel=icon href=https://huydq.dev/icons/favicon.png><link rel=icon type=image/png sizes=16x16 href=https://huydq.dev/icons/favicon16.png><link rel=icon type=image/png sizes=32x32 href=https://huydq.dev/icons/favicon32.png><link rel=apple-touch-icon href=https://huydq.dev/icons/favicon.png><link rel=mask-icon href=https://huydq.dev/icons/favicon.png><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate type=application/rss+xml href=https://huydq.dev/tags/reactjs/index.xml><noscript><style>#theme-toggle,.top-link{display:none}</style><style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style></noscript><script async src="https://www.googletagmanager.com/gtag/js?id=G-5KF148C0X6"></script>
-<script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-5KF148C0X6",{anonymize_ip:!1})}</script><meta property="og:title" content="ReactJS"><meta property="og:description" content="Learning - Coding - Writing - Spamming."><meta property="og:type" content="website"><meta property="og:url" content="https://huydq.dev/tags/reactjs/"><meta property="og:image" content="https://huydq.dev/icons/thumbnail.jpg"><meta property="og:site_name" content="HuyDQ's Blog"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://huydq.dev/icons/thumbnail.jpg"><meta name=twitter:title content="ReactJS"><meta name=twitter:description content="Learning - Coding - Writing - Spamming."></head><body class=list id=top><script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add("dark"):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove("dark"):window.matchMedia("(prefers-color-scheme: dark)").matches&&document.body.classList.add("dark")</script><header class=header><nav class=nav><div class=logo><a href=https://huydq.dev/ accesskey=h title="huydq.dev (Alt + H)">huydq.dev</a><div class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div><ul id=menu><li><a href=https://huydq.dev/search/ title="Search (Alt + /)" accesskey=/><span>Search</span></a></li><li><a href=https://huydq.dev/tags/ title=Tags><span>Tags</span></a></li><li><a href=https://huydq.dev/projects/ title=Projects><span>Projects</span></a></li><li><a href=https://huydq.dev/about/ title=About><span>About</span></a></li></ul></nav></header><main class=main><header class=page-header><h1>ReactJS</h1></header><article class="post-entry tag-entry"><header class=entry-header><h2>Tạo hiệu ứng transition cho React App với React Transition Group</h2></header><div class=entry-content><p>Để cho các App React hoạt động mượt mà hơn, đẹp hơn, trải nghiệm người dùng tốt hơn, … thì nên có thêm các hiệu ứng animation, transition.
+<!doctype html><html lang=en dir=auto>
+<head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=robots content="index, follow">
+<title>ReactJS | HuyDQ's Blog</title>
+<meta name=keywords content>
+<meta name=description content="Learning - Coding - Writing - Spamming.">
+<meta name=author content>
+<link rel=canonical href=https://huydq.dev/tags/reactjs/>
+<link crossorigin=anonymous href=/assets/css/stylesheet.b1eb50b50e11910be36d25969ce9605fa6614a089f514914206a6cd4c0553a07.css rel="preload stylesheet" as=style>
+<link rel=icon href=https://huydq.dev/icons/favicon.png>
+<link rel=icon type=image/png sizes=16x16 href=https://huydq.dev/icons/favicon16.png>
+<link rel=icon type=image/png sizes=32x32 href=https://huydq.dev/icons/favicon32.png>
+<link rel=apple-touch-icon href=https://huydq.dev/icons/favicon.png>
+<link rel=mask-icon href=https://huydq.dev/icons/favicon.png>
+<meta name=theme-color content="#2e2e33">
+<meta name=msapplication-TileColor content="#2e2e33">
+<link rel=alternate type=application/rss+xml href=https://huydq.dev/tags/reactjs/index.xml>
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5KF148C0X6"></script>
+<script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-5KF148C0X6',{anonymize_ip:!1})}</script>
+<meta property="og:title" content="ReactJS">
+<meta property="og:description" content="Learning - Coding - Writing - Spamming.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://huydq.dev/tags/reactjs/"><meta property="og:image" content="https://huydq.dev/icons/thumbnail.jpg"><meta property="og:site_name" content="HuyDQ's Blog">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://huydq.dev/icons/thumbnail.jpg">
+<meta name=twitter:title content="ReactJS">
+<meta name=twitter:description content="Learning - Coding - Writing - Spamming.">
+</head>
+<body class=list id=top>
+<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
+<header class=header>
+<nav class=nav>
+<div class=logo>
+<a href=https://huydq.dev/ accesskey=h title="huydq.dev (Alt + H)">huydq.dev</a>
+<div class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
+</div>
+</div>
+<ul id=menu>
+<li>
+<a href=https://huydq.dev/search/ title="Search (Alt + /)" accesskey=/>
+<span>Search</span>
+</a>
+</li>
+<li>
+<a href=https://huydq.dev/tags/ title=Tags>
+<span>Tags</span>
+</a>
+</li>
+<li>
+<a href=https://huydq.dev/projects/ title=Projects>
+<span>Projects</span>
+</a>
+</li>
+<li>
+<a href=https://huydq.dev/about/ title=About>
+<span>About</span>
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class=main>
+<header class=page-header>
+<h1>
+ReactJS
+</h1>
+</header>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Tạo hiệu ứng transition cho React App với React Transition Group
+</h2>
+</header>
+<div class=entry-content>
+<p>Để cho các App React hoạt động mượt mà hơn, đẹp hơn, trải nghiệm người dùng tốt hơn, … thì nên có thêm các hiệu ứng animation, transition.
 Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện React Transition Group để tạo hiệu ứng transition một cách nhanh chóng.
-Để cho tiện thì mình sẽ demo code trên stackblitz.com. Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page....</p></div><footer class=entry-footer><span title='2021-12-14 00:00:00 +0000 UTC'>14/12/2021</span>&nbsp;·&nbsp;9 min</footer><a class=entry-link aria-label="post link to Tạo hiệu ứng transition cho React App với React Transition Group" href=https://huydq.dev/blog/tao-hieu-ung-transition-cho-react-app-voi-react-transition-group/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Hướng dẫn sử dụng RTK Query trong Redux Toolkit</h2></header><div class=entry-content><p>RTK Query là một addon trong bộ thư viện Redux Toolkit. Nó giúp chúng ta thực hiện data fetching một cách đơn giản hơn thay vì sử dụng createAsyncThunk để thực hiện async action. Chú ý RTK Query là dùng để query (kết nối API), chứ không phải dùng để code async trong Redux thay cho createAsyncThunk.
-Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit....</p></div><footer class=entry-footer><span title='2021-10-13 00:00:00 +0000 UTC'>13/10/2021</span>&nbsp;·&nbsp;6 min</footer><a class=entry-link aria-label="post link to Hướng dẫn sử dụng RTK Query trong Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit</h2></header><div class=entry-content><p>Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit.
+Để cho tiện thì mình sẽ demo code trên stackblitz.com. Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page....</p>
+</div>
+<footer class=entry-footer><span title="2021-12-14 00:00:00 +0000 UTC">14/12/2021</span>&nbsp;·&nbsp;9 min</footer>
+<a class=entry-link aria-label="post link to Tạo hiệu ứng transition cho React App với React Transition Group" href=https://huydq.dev/blog/tao-hieu-ung-transition-cho-react-app-voi-react-transition-group/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Hướng dẫn sử dụng RTK Query trong Redux Toolkit
+</h2>
+</header>
+<div class=entry-content>
+<p>RTK Query là một addon trong bộ thư viện Redux Toolkit. Nó giúp chúng ta thực hiện data fetching một cách đơn giản hơn thay vì sử dụng createAsyncThunk để thực hiện async action. Chú ý RTK Query là dùng để query (kết nối API), chứ không phải dùng để code async trong Redux thay cho createAsyncThunk.
+Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit....</p>
+</div>
+<footer class=entry-footer><span title="2021-10-13 00:00:00 +0000 UTC">13/10/2021</span>&nbsp;·&nbsp;6 min</footer>
+<a class=entry-link aria-label="post link to Hướng dẫn sử dụng RTK Query trong Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit
+</h2>
+</header>
+<div class=entry-content>
+<p>Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: Hướng dẫn sử dụng React Router và Redux Toolkit.
 Bài viết này mình sẽ hướng dẫn cách thực hiện các async logic (xử lý bất đồng bộ) trong Redux Toolkit, cụ thể là sử dụng createAsyncThunk để kết nối với API login.
-Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải tiến thêm: https://stackblitz....</p></div><footer class=entry-footer><span title='2021-10-12 00:00:00 +0000 UTC'>12/10/2021</span>&nbsp;·&nbsp;4 min</footer><a class=entry-link aria-label="post link to Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Hướng dẫn sử dụng React Router và Redux Toolkit</h2></header><div class=entry-content><p>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
+Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải tiến thêm: https://stackblitz....</p>
+</div>
+<footer class=entry-footer><span title="2021-10-12 00:00:00 +0000 UTC">12/10/2021</span>&nbsp;·&nbsp;4 min</footer>
+<a class=entry-link aria-label="post link to Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Hướng dẫn sử dụng React Router và Redux Toolkit
+</h2>
+</header>
+<div class=entry-content>
+<p>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
 Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
-Một website có 2 trang: Dashboard và Login. Ở trang login cho phép nhập username, và khi chuyển qua trang Dashboard thì hiển thị username đó, nếu không nhập gì thì hiển thị là “Guest”....</p></div><footer class=entry-footer><span title='2021-04-29 00:00:00 +0000 UTC'>29/04/2021</span>&nbsp;·&nbsp;8 min</footer><a class=entry-link aria-label="post link to Hướng dẫn sử dụng React Router và Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Sử dụng useState() Hook trong React như nào cho đúng?</h2></header><div class=entry-content><p>Để quản lý State trong React Function Component, chúng ta dùng Hook useState().
+Một website có 2 trang: Dashboard và Login....</p>
+</div>
+<footer class=entry-footer><span title="2021-04-29 00:00:00 +0000 UTC">29/04/2021</span>&nbsp;·&nbsp;8 min</footer>
+<a class=entry-link aria-label="post link to Hướng dẫn sử dụng React Router và Redux Toolkit" href=https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Sử dụng useState() Hook trong React như nào cho đúng?
+</h2>
+</header>
+<div class=entry-content>
+<p>Để quản lý State trong React Function Component, chúng ta dùng Hook useState().
 Hàm useState trả về 1 mảng 2 phần tử, phần tử đầu tiên là để khởi tạo state, phần tử thứ 2 là hàm để cập nhật state. Tham số truyền vào hàm useState là giá trị khởi tạo của state. Ví dụ:
-Khai báo State Phải khai báo useState ở top level của một Function Component (hoặc một custom Hook), không khai báo ở trong một scope nào khác như vòng lặp, điều kiện, hay function con....</p></div><footer class=entry-footer><span title='2021-02-22 00:00:00 +0000 UTC'>22/02/2021</span>&nbsp;·&nbsp;4 min</footer><a class=entry-link aria-label="post link to Sử dụng useState() Hook trong React như nào cho đúng?" href=https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS</h2></header><div class=entry-content><p>ReactJS là một Javascript framework rất phổ biến với giới lập trình Web Frontend hiện nay, số lượng tuyển dụng lập trình viên ReactJS cũng rất lớn. Do đó nhiều người mới học Web Frontend sau khi học xong một chút HTML CSS JS là muốn nhảy vào lập trình ReactJS ngay. Điều này dẫn đến hệ lụy là các bạn sẽ bị hổng kiến thức cơ bản, hoặc khi học ReactJS sẽ rất chật vật vì không hiểu cú pháp, không hiểu bản chất, …...</p></div><footer class=entry-footer><span title='2021-01-20 00:00:00 +0000 UTC'>20/01/2021</span>&nbsp;·&nbsp;5 min</footer><a class=entry-link aria-label="post link to Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS" href=https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Đẩy code Create React App lên Internet miễn phí</h2></header><div class=entry-content><p>Sau khi code xong 1 ứng dụng bằng Create React App, chúng ta có thể đẩy sản phẩm lên Internet theo 1 trong 3 cách miễn phí sau chỉ với 3 bước (còn nhiều cách khác nhưng tác giả lười viết 😅):
-1. Github Pages Giả sử bạn đã có tài khoản trên github là robinhuy, và có 1 repository chứa source code ứng dụng tạo bởi Create React App là react-app....</p></div><footer class=entry-footer><span title='2019-12-17 00:00:00 +0000 UTC'>17/12/2019</span>&nbsp;·&nbsp;2 min</footer><a class=entry-link aria-label="post link to Đẩy code Create React App lên Internet miễn phí" href=https://huydq.dev/blog/day-code-create-react-app-len-internet-mien-phi/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Truyền dữ liệu giữa React Components</h2></header><div class=entry-content><p>Bài viết được biên dịch và tóm tắt lại từ https://towardsdatascience.com , code demo được chuyển sang dùng Hooks.
+Khai báo State Phải khai báo useState ở top level của một Function Component (hoặc một custom Hook), không khai báo ở trong một scope nào khác như vòng lặp, điều kiện, hay function con....</p>
+</div>
+<footer class=entry-footer><span title="2021-02-22 00:00:00 +0000 UTC">22/02/2021</span>&nbsp;·&nbsp;4 min</footer>
+<a class=entry-link aria-label="post link to Sử dụng useState() Hook trong React như nào cho đúng?" href=https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS
+</h2>
+</header>
+<div class=entry-content>
+<p>ReactJS là một Javascript framework rất phổ biến với giới lập trình Web Frontend hiện nay, số lượng tuyển dụng lập trình viên ReactJS cũng rất lớn. Do đó nhiều người mới học Web Frontend sau khi học xong một chút HTML CSS JS là muốn nhảy vào lập trình ReactJS ngay. Điều này dẫn đến hệ lụy là các bạn sẽ bị hổng kiến thức cơ bản, hoặc khi học ReactJS sẽ rất chật vật vì không hiểu cú pháp, không hiểu bản chất, …...</p>
+</div>
+<footer class=entry-footer><span title="2021-01-20 00:00:00 +0000 UTC">20/01/2021</span>&nbsp;·&nbsp;5 min</footer>
+<a class=entry-link aria-label="post link to Kiến thức Javascript cơ bản cần phải biết trước khi học React Native / ReactJS" href=https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Đẩy code Create React App lên Internet miễn phí
+</h2>
+</header>
+<div class=entry-content>
+<p>Sau khi code xong 1 ứng dụng bằng Create React App, chúng ta có thể đẩy sản phẩm lên Internet theo 1 trong 3 cách miễn phí sau chỉ với 3 bước (còn nhiều cách khác nhưng tác giả lười viết 😅):
+1. Github Pages Giả sử bạn đã có tài khoản trên github là robinhuy, và có 1 repository chứa source code ứng dụng tạo bởi Create React App là react-app....</p>
+</div>
+<footer class=entry-footer><span title="2019-12-17 00:00:00 +0000 UTC">17/12/2019</span>&nbsp;·&nbsp;2 min</footer>
+<a class=entry-link aria-label="post link to Đẩy code Create React App lên Internet miễn phí" href=https://huydq.dev/blog/day-code-create-react-app-len-internet-mien-phi/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Truyền dữ liệu giữa React Components
+</h2>
+</header>
+<div class=entry-content>
+<p>Bài viết được biên dịch và tóm tắt lại từ https://towardsdatascience.com , code demo được chuyển sang dùng Hooks.
 Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng cũng không quá phức tạp. Tôi đã tổng kết lại 3 cách để truyền dữ liệu giữa các Component trong React:
-Từ Parent (Component cha) đến Child (Component con) sử dụng Props. Từ Child đến Parent sử dụng Callbacks....</p></div><footer class=entry-footer><span title='2019-11-27 00:00:00 +0000 UTC'>27/11/2019</span>&nbsp;·&nbsp;3 min</footer><a class=entry-link aria-label="post link to Truyền dữ liệu giữa React Components" href=https://huydq.dev/blog/truyen-du-lieu-giua-react-components/></a></article></main><footer class=footer><span>&copy; 2022 HuyDQ's Blog</span>
-<span>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span><div class=social-icons><a href=https://github.com/robinhuy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a><a href=https://codepen.io/robinhuy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"/><line x1="12" y1="22" x2="12" y2="15.5"/><polyline points="22 8.5 12 15.5 2 8.5"/><polyline points="2 15.5 12 8.5 22 15.5"/><line x1="12" y1="2" x2="12" y2="8.5"/></svg></a><a href=https://stackoverflow.com/users/5229299/robin-huy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.913 16.041v6.848h17.599v-6.848M7.16 18.696h8.925M7.65 13.937l8.675 1.8M9.214 9.124l8.058 3.758M12.086 4.65l6.849 5.66M15.774 1.111l5.313 7.162"/></svg></a></div></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></a><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove("dark"),localStorage.setItem("pref-theme","light")):(document.body.classList.add("dark"),localStorage.setItem("pref-theme","dark"))})</script></body></html>
+Từ Parent (Component cha) đến Child (Component con) sử dụng Props. Từ Child đến Parent sử dụng Callbacks....</p>
+</div>
+<footer class=entry-footer><span title="2019-11-27 00:00:00 +0000 UTC">27/11/2019</span>&nbsp;·&nbsp;3 min</footer>
+<a class=entry-link aria-label="post link to Truyền dữ liệu giữa React Components" href=https://huydq.dev/blog/truyen-du-lieu-giua-react-components/></a>
+</article>
+</main>
+<footer class=footer>
+<span>&copy; 2022 HuyDQ's Blog</span>
+<span>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
+<div class=social-icons>
+<a href=https://github.com/robinhuy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
+</a>
+<a href=https://codepen.io/robinhuy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"/><line x1="12" y1="22" x2="12" y2="15.5"/><polyline points="22 8.5 12 15.5 2 8.5"/><polyline points="2 15.5 12 8.5 22 15.5"/><line x1="12" y1="2" x2="12" y2="8.5"/></svg>
+</a>
+<a href=https://stackoverflow.com/users/5229299/robin-huy><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.913 16.041v6.848h17.599v-6.848M7.16 18.696h8.925M7.65 13.937l8.675 1.8M9.214 9.124l8.058 3.758M12.086 4.65l6.849 5.66M15.774 1.111l5.313 7.162"/></svg>
+</a>
+</div>
+</footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a>
+<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
+<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
+<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+</body>
+</html>

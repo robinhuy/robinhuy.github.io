@@ -36,9 +36,9 @@
       
       <guid>https://huydq.dev/blog/thiet-lap-moi-truong-lap-trinh-react-native/</guid>
       <description>Nếu bạn dùng Mac Bước 1: Cài đặt chung Cài Node và Watchman dùng Homebrew
-1 2 brew install node brew install watchman Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây https://nodejs.org/en/ (cài bản LTS) hoặc sử dụng nvm nếu bạn muốn sử dụng node với các phiên bản khác nhau.
+1 2  brew install node brew install watchman   Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây https://nodejs.org/en/ (cài bản LTS) hoặc sử dụng nvm nếu bạn muốn sử dụng node với các phiên bản khác nhau.
 Cài Java Development Kit dùng Homebrew
-1 brew install --cask adoptopenjdk/openjdk/adoptopenjdk8 Hoặc có thể tải bộ cài tại đây https://www.</description>
+1  brew install --cask adoptopenjdk/openjdk/adoptopenjdk8   Hoặc có thể tải bộ cài tại đây https://www.</description>
     </item>
     
   </channel>

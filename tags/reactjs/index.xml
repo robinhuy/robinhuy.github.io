@@ -50,7 +50,7 @@ Ví dụ demo chúng ta có thể lấy luôn từ ví dụ trước rồi cải
       <guid>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</guid>
       <description>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
 Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
-Một website có 2 trang: Dashboard và Login. Ở trang login cho phép nhập username, và khi chuyển qua trang Dashboard thì hiển thị username đó, nếu không nhập gì thì hiển thị là “Guest”.</description>
+ Một website có 2 trang: Dashboard và Login.</description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@ Khai báo State Phải khai báo useState ở top level của một Function C
       <guid>https://huydq.dev/blog/truyen-du-lieu-giua-react-components/</guid>
       <description>Bài viết được biên dịch và tóm tắt lại từ https://towardsdatascience.com , code demo được chuyển sang dùng Hooks.
 Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng cũng không quá phức tạp. Tôi đã tổng kết lại 3 cách để truyền dữ liệu giữa các Component trong React:
-Từ Parent (Component cha) đến Child (Component con) sử dụng Props. Từ Child đến Parent sử dụng Callbacks.</description>
+ Từ Parent (Component cha) đến Child (Component con) sử dụng Props. Từ Child đến Parent sử dụng Callbacks.</description>
     </item>
     
   </channel>
