@@ -38,7 +38,7 @@ Cài Java Development Kit dùng Homebrew
       
       <guid>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</guid>
       <description>Trước khi đẩy app lên Store, chúng ta sẽ cần tạo App Launcher Icon (icon của ứng dụng trên máy của người dùng). App code bằng React Native sẽ có thể đẩy lên cả Google Play (Android) và App Store (iOS), do đó mình sẽ hướng dẫn cách tạo App Launcher Icon cho cả 2 hệ hiều hành trên.
-1. App Launcher Icon cho iOS Bước 1 Đầu tiên chúng ta cần phải có 1 ảnh icon được thiết kế sẵn với kích thước 1024x1024 pixels (hoặc lớn hơn cũng được).</description>
+Để tạo bộ icon cho các thiết bị với kích thước khác nhau (dùng cho cả trên store) thì chúng ta cần chuẩn bị sẵn 1 icon gốc với kích thước 1024x1024 pixels.</description>
     </item>
     
   </channel>

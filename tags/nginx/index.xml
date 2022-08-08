@@ -22,5 +22,14 @@
 Sau khi đã thanh toán, truy cập vào Dashboard để active dịch vụ</description>
     </item>
     
+    <item>
+      <title>Chứng chỉ SSL miễn phí với Let&#39;s Encrypt</title>
+      <link>https://huydq.dev/blog/chung-chi-ssl-mien-phi-voi-lets-encrypt/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/chung-chi-ssl-mien-phi-voi-lets-encrypt/</guid>
+      <description>Hiện nay hầu hết các trang web đều đã hỗ trợ SSL (Secure Socket Layer). Nó mã hóa dữ liệu truyền đi giữa máy chủ web và trình duyệt và làm tăng tính bảo mật cho website. Ngoài ra, việc sử dụng SSL certificate (chứng chỉ SSL) là cần thiết bởi hiện tại Google đã ưu tiên xếp hạng website dựa theo giao thức https (HTTP + SSL), những website mà chỉ sử dụng giao thức http sẽ bị coi là &amp;ldquo;unsafe&amp;rdquo; (không an toàn).</description>
+    </item>
+    
   </channel>
 </rss>
