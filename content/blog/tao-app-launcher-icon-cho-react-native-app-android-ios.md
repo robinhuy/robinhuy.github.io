@@ -1,6 +1,6 @@
 ---
 title: "Tạo App Launcher icon cho React Native app (Android + iOS)"
-date: 2020-08-08
+date: 2022-08-08
 draft: false
 tags: ["React Native", "Android", "iOS"]
 ---
