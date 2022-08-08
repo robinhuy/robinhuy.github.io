@@ -2,7 +2,7 @@
 title: "Chứng chỉ SSL miễn phí với Let's Encrypt"
 date: 2017-04-14
 draft: false
-tags: ["SSL", "Linux"]
+tags: ["SSL", "Nginx", "Linux"]
 ---
 
 Hiện nay hầu hết các trang web đều đã hỗ trợ SSL (Secure Socket Layer). Nó mã hóa dữ liệu truyền đi giữa máy chủ web và trình duyệt và làm tăng tính bảo mật cho website. Ngoài ra, việc sử dụng SSL certificate (chứng chỉ SSL) là cần thiết bởi hiện tại Google đã ưu tiên xếp hạng website dựa theo giao thức https (HTTP + SSL), những website mà chỉ sử dụng giao thức http sẽ bị coi là "unsafe" (không an toàn).
