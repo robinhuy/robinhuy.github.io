@@ -29,6 +29,8 @@ Tìm đến thư mục **Images.xcassets**, sau đó kéo thả bộ icon đã 
 
 ![Import ios app launcher icon](/images/import-ios-app-launcher-icon.png)
 
+Nếu không dùng XCode có thể copy thư mục **AppIcon.appiconset** vào trong thư mục `/ios/[tên-app]/Images.xcassets`
+
 Xong, build lại app để thấy kết quả.
 
 > 1 phút quảng cáo: Icon ở trên là mình tự chế cho app game [Master Mind X](https://play.google.com/store/apps/details?id=com.robinhuy.mastermindx) viết bằng React Native, anh chị em chơi thử rồi cho xin góp ý ở comment nhé, review ủng hộ 5 sao thì càng tốt 😆
