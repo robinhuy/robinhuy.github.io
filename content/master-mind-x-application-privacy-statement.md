@@ -3,6 +3,7 @@ title: "Application Privacy Statement"
 draft: false
 ShowToc: false
 disableShare: true
+comments: false
 ---
 
 This privacy statement (“Privacy Statement”) applies to the treatment

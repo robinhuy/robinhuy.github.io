@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Entity Framework on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/entity-framework/</link>
+    <description>Recent content in Entity Framework on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/entity-framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sử dụng cơ sở dữ liệu Oracle với Entity Framework</title>
+      <link>https://huydq.dev/blog/su-dung-co-so-du-lieu-oracle-voi-entity-framework/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/su-dung-co-so-du-lieu-oracle-voi-entity-framework/</guid>
+      <description>Thông thường khi làm dự án với Entity Framework, chúng ta hay dùng cơ sở dữ liệu (CSDL) MS SQL Server. Tuy nhiên tùy theo yêu cầu công việc, bạn có thể sẽ phải làm việc với các cơ sở dữ liệu khác. Bài viết này mình sẽ chia sẻ 1 số kinh nghiệm của bản thân khi phải làm việc với CSDL Oracle (cụ thể là Oracle phiên bản 11g).</description>
+    </item>
+    
+  </channel>
+</rss>

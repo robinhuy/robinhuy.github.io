@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webpack on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/webpack/</link>
+    <description>Recent content in Webpack on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/webpack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tối ưu static website với Webpack</title>
+      <link>https://huydq.dev/blog/toi-uu-static-page-voi-webpack/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/toi-uu-static-page-voi-webpack/</guid>
+      <description>Nếu bạn là một Web Frontend Developer thì chắc sẽ không xa lạ gì với Webpack, một công cụ bundle code mạnh mẽ. Webpack thường được tích hợp sẵn trong các thư viện như React, Angular, Vue, … và có nhiều người thậm chí còn không biết đến sự tồn tại cũng như tác dụng của nó 😅
+Bài viết này mình sẽ hướng dẫn các bạn cách tối ưu một static website (web tĩnh chỉ gồm HTML CSS JS) bằng Webpack.</description>
+    </item>
+    
+  </channel>
+</rss>

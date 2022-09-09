@@ -3,6 +3,7 @@ title: "Projects"
 draft: false
 ShowToc: false
 disableShare: true
+comments: false
 ---
 
 {{< container class="gallery" >}}

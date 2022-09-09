@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design Pattern on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/design-pattern/</link>
+    <description>Recent content in Design Pattern on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/design-pattern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starbucks không sử dụng Two-Phase Commit</title>
+      <link>https://huydq.dev/blog/starbucks-khong-su-dung-two-phase-commit/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/starbucks-khong-su-dung-two-phase-commit/</guid>
+      <description>Tôi vừa trở về sau một chuyến du lịch 2 tuần đến Nhật Bản.
+Một trong những hình ảnh quen thuộc ở đây đó là số lượng lớn các cửa hàng cà phê Starbucks, đặc biệt là quanh khu vực Shinjuku và Roppongi. Trong khi chờ đợi một tách ca cao nóng, tôi đã nghĩ về cách thức mà Starbucks phục vụ khách hàng.
+Starbucks cũng như hầu hết các công ty khác thì đều muốn tối đa số lượng khách hàng có thể phục vụ.</description>
+    </item>
+    
+    <item>
+      <title>Những quan niệm sai lầm về CQRS</title>
+      <link>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/nhung-quan-niem-sai-lam-ve-cqrs/</guid>
+      <description>Bài viết được dịch (có chỉnh sửa) từ cuốn Patterns Principles and Practices of Domain Driven Design của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về CQRS (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UI/UX on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/ui/ux/</link>
+    <description>Recent content in UI/UX on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://huydq.dev/tags/ui/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm sao để thiết kế Form tốt hơn?</title>
+      <link>https://huydq.dev/blog/lam-sao-de-thiet-ke-form-tot-hon/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/lam-sao-de-thiet-ke-form-tot-hon/</guid>
+      <description>Bài viết được dịch từ uxdesign.cc, có lược bớt và chỉnh sửa theo sở thích của người dịch 😜
+Những lỗi thiết kế form và cách tối ưu Form là một thành phần rất quan trọng trên website. Bài viết này sẽ chỉ ra những điều nên và không nên khi thiết kế Form. Chú ý đây chỉ là đề xuất chứ không phải nguyên lý nên sẽ có ngoại lệ.</description>
+    </item>
+    
+  </channel>
+</rss>

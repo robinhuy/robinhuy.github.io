@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React Router on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/react-router/</link>
+    <description>Recent content in React Router on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/react-router/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn sử dụng React Router và Redux Toolkit</title>
+      <link>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/huong-dan-su-dung-react-router-va-redux-toolkit/</guid>
+      <description>Với những người mới học React thì Redux thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
+Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
+Một website có 2 trang: Dashboard và Login. Ở trang login cho phép nhập username, và khi chuyển qua trang Dashboard thì hiển thị username đó, nếu không nhập gì thì hiển thị là “Guest”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/git/</link>
+    <description>Recent content in Git on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tái sử dụng code cho nhiều project với Git Submodules</title>
+      <link>https://huydq.dev/blog/tai-su-dung-code-cho-nhieu-project-voi-git-submodules/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/tai-su-dung-code-cho-nhieu-project-voi-git-submodules/</guid>
+      <description>Trong một project sẽ có những đoạn code có thể tái sử dụng ở nhiều nơi, thường đặt ở trong các thư mục đại loại như: helper, utils, &amp;hellip; Vậy nếu những đoạn code đó lại được tái sử dụng ở nhiều project thì sao?
+Có nhiều phương pháp áp dụng như: Git Submodules, Monorepos, Bit, &amp;hellip; hay tạo hẳn thư viện riêng và đẩy lên cloud.
+Trong bài viết này mình sẽ hướng dẫn các bạn cách sử dụng Git Submodules cho việc tái sử dụng code.</description>
+    </item>
+    
+  </channel>
+</rss>

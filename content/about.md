@@ -3,6 +3,7 @@ title: "About"
 draft: false
 ShowToc: false
 disableShare: true
+comments: false
 ---
 
 Hi there 👋
@@ -17,4 +18,3 @@ Blog được tạo từ 2022, sử dụng tool [GoHugo](https://gohugo.io) và 
 Tuy nhiên các bạn sẽ thấy có những bài được publish từ ... 2015 😅.
 Đó là những bài được viết trên trang [techmaster.vn](https://techmaster.vn) được mình copy sang.
 Nếu bạn muốn tự xây dựng một website (blog) cá nhân tương tự như website này thì có thể tham khảo bài viết [Cách tạo một trang blog cá nhân miễn phí dành cho dev](https://huydq.dev/blog/cach-tao-mot-trang-blog-ca-nhan-mien-phi-danh-cho-dev/).
-

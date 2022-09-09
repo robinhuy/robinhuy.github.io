@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSS on HuyDQ&#39;s Blog</title>
+    <link>https://huydq.dev/tags/css/</link>
+    <description>Recent content in CSS on HuyDQ&#39;s Blog</description>
+    <image>
+      <url>https://huydq.dev/icons/thumbnail.jpg</url>
+      <link>https://huydq.dev/icons/thumbnail.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khoảng trắng bí ẩn bên dưới thẻ Img</title>
+      <link>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</link>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/blog/khoang-trang-bi-an-ben-duoi-the-img/</guid>
+      <description>Khi sử dụng thẻ img để chèn ảnh vào trang web, có 1 hiện tượng khá thú vị mà không phải ai cũng biết hoặc để ý đến. Đó là nếu bọc thẻ img bởi 1 thẻ div (hoặc bất kỳ 1 thẻ nào khác) thì sẽ xuất hiện 1 khoảng trắng nhỏ ở bên dưới ảnh.
+Nếu chúng ta thiết lập padding cho thẻ div thì do khoảng trắng này mà khoảng cách phần bên dưới vẫn lớn hơn phần bên trên.</description>
+    </item>
+    
+  </channel>
+</rss>
