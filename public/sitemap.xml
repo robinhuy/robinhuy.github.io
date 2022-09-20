@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huydq.dev/tags/android/</loc>
-    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+    <loc>https://huydq.dev/blog/debug-bang-console-log-theo-cach-pro-hon/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/javascript/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/nodejs/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/visual-studio-code/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huydq.dev/tags/android/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/ios/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/react-native/</loc>
-    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/tao-app-launcher-icon-cho-react-native-app-android-ios/</loc>
@@ -71,9 +83,6 @@
     <loc>https://huydq.dev/blog/su-dung-usestate-hook-trong-react-nhu-nao-cho-dung/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://huydq.dev/tags/javascript/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://huydq.dev/blog/kien-thuc-javascript-co-ban-can-phai-biet-truoc-khi-hoc-react-native-reactjs/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -97,9 +106,6 @@
   </url><url>
     <loc>https://huydq.dev/blog/truyen-du-lieu-giua-react-components/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/nodejs/</loc>
-    <lastmod>2019-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/rest-api/</loc>
     <lastmod>2019-10-29T00:00:00+00:00</lastmod>
@@ -189,9 +195,6 @@
     <lastmod>2018-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/blog/tuy-chinh-visual-studio-code-khi-lap-trinh-aspnet-core/</loc>
-    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huydq.dev/tags/visual-studio-code/</loc>
     <lastmod>2018-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huydq.dev/tags/entity-framework/</loc>

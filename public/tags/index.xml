@@ -9,7 +9,34 @@
       <link>https://huydq.dev/icons/thumbnail.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huydq.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://huydq.dev/tags/javascript/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>https://huydq.dev/tags/nodejs/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://huydq.dev/tags/visual-studio-code/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://huydq.dev/tags/visual-studio-code/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Android</title>
       <link>https://huydq.dev/tags/android/</link>
@@ -101,29 +128,11 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://huydq.dev/tags/javascript/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Programming</title>
       <link>https://huydq.dev/tags/programming/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NodeJS</title>
-      <link>https://huydq.dev/tags/nodejs/</link>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/nodejs/</guid>
       <description></description>
     </item>
     
@@ -223,15 +232,6 @@
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://huydq.dev/tags/asp.net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Studio Code</title>
-      <link>https://huydq.dev/tags/visual-studio-code/</link>
-      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://huydq.dev/tags/visual-studio-code/</guid>
       <description></description>
     </item>
     
