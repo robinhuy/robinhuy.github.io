@@ -1,5 +1,5 @@
 ---
-title: "Debug bằng console.log theo cách pro hơn"
+title: "Debug bằng console.log theo cách PRO hơn"
 date: 2022-09-20
 draft: false
 tags: ["JavaScript", "NodeJS", "Visual Studio Code"]
@@ -92,13 +92,16 @@ Như vậy khi code chỉ cần gõ `cl` là sẽ có gợi ý, bấm enter thì
 ![Snippet Console Log 1](/images/snippet-console-log-1.png)
 ![Snippet Console Log 2](/images/snippet-console-log-2.png)
 
+Trên đây là 1 ví dụ snippet log đơn giản, các bạn có thể tự tùy biến màu mè theo ý thích cho nó trông *nguy hiểm* hơn khi debug. 
+
+Happy coding 😎
+
 ---
 Tham khảo:
-- [It’s 2022, Please Don’t Just Use “console.log” Anymore](https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d)
-- [How to change node.js's console font color?](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
-- [Everything you never wanted to know about ANSI escape codes](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
-- [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-
+- [*It’s 2022, Please Don’t Just Use “console.log” Anymore*](https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d)
+- [*How to change node.js's console font color?*](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
+- [*Everything you never wanted to know about ANSI escape codes*](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
+- [*Snippets in Visual Studio Code*](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
 
 
