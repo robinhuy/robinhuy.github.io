@@ -12,6 +12,8 @@ Cảm ơn bạn đã ghé thăm blog của mình, một blog về công nghệ (
 
 Hy vọng các bài viết ở đây sẽ giúp phần nào cho công việc của các bạn (nếu bạn là lập trình viên), hoặc ít nhất nó cũng giúp bạn giải trí sau những giờ làm việc căng thẳng 😎.
 
+![Robin Huy](/images/pages/about.jpg)
+
 ---
 
 Blog được tạo từ 2022, sử dụng tool [GoHugo](https://gohugo.io) và theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
