@@ -102,8 +102,3 @@ Tham khảo:
 - [*How to change node.js's console font color?*](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
 - [*Everything you never wanted to know about ANSI escape codes*](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
 - [*Snippets in Visual Studio Code*](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-
-
-
-
-
