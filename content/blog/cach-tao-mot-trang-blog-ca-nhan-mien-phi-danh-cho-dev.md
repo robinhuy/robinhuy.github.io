@@ -90,7 +90,7 @@ Chúng ta có thể build website bằng Hugo, sau đó copy code web tĩnh ở 
 
 Tuy nhiên để quản lý cả source code thì chúng ta sẽ đẩy toàn bộ lên Github. Nếu sử dụng [Github Actions](https://github.com/features/actions) để build và deploy project (sang branch **gh-pages**) thì có thể ignore thư mục build đi (cấu hình trong *.gitignore*).
 
-Tham khảo file cấu hình `Github Actions` của mình:
+Tham khảo cấu hình `Github Actions` của mình (file cấu hình **.github/workflows/gh_pages.yml**):
 
 ```
 name: Deploy Hugo site to Pages
@@ -98,7 +98,6 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches: ["main"]
-
   workflow_dispatch:
 
 permissions:
