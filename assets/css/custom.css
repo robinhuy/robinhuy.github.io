@@ -1,3 +1,20 @@
+/* Heading */
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
 /* Tags */
 .terms-tags {
   margin: 0 -10px;
@@ -63,10 +80,14 @@
   border-bottom: 0;
 }
 
+.footer a:hover {
+  border-bottom: none;
+}
+
 .footer .social-icons svg {
-  width: 15px;
-  height: 15px;
-  vertical-align: sub;
+  width: 18px;
+  height: 18px;
+  vertical-align: text-top;
 }
 
 /* Gallery */
