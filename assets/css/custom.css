@@ -1,3 +1,7 @@
+.main {
+  min-height: calc(100vh - var(--header-height) - 84px);
+}
+
 /* Heading */
 h1 {
   font-size: 36px;
@@ -126,12 +130,12 @@ h4 {
 }
 
 .card {
-  border: 1px solid #ccc;
+  border: 1px solid #ddd;
   transition: 0.3s;
 }
 
 .card:hover, .gallery-sm .card:hover {
-  border: 1px solid #777;
+  border: 1px solid #999;
 }
 
 .card img {
