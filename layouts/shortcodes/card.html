@@ -2,7 +2,7 @@
 <div class="{{ .Get "class" }}-card">
 {{- end -}}
   <div class="card">
-    <a href="{{ if (.Get "link") }}{{ .Get "link" }}{{ else }}#{{ end }}">
+    <a href="{{ if (.Get "link") }}{{ .Get "link" }}{{ else }}#{{ end }}" target="_blank">
       <img 
         class="card-img-top" 
         src="{{ if (.Get "img") }}{{ .Get "img" }}{{ else }}/images/default-thumbnail.png{{ end }}" 
