@@ -15,4 +15,8 @@ comments: false
 
 {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-3-Viet-noi-dung-chuan-SEO.pdf" img="/icons/pdf-thumbnail.png" title="Google SEO phần 3" >}}
 
+{{< card link="/pdf/[huydq.dev]-Introduce-Docker.pdf" img="/icons/pdf-thumbnail.png" title="Introduce Docker" >}}
+
+{{< card link="/pdf/[huydq.dev]-About-Bitcoin.pdf" img="/icons/pdf-thumbnail.png" title="About Bitcoin" >}}
+
 {{< /container >}}
