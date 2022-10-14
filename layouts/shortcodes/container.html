@@ -1,3 +1,8 @@
-<div class="{{ .Get "class" }}">{{ .Inner }}</div>
+<div 
+  class="{{ .Get "class" }}" 
+  {{ if (.Get "style") }}style="{{ .Get "style" }}"{{ end }}
+>
+  {{ .Inner }}
+</div>
 
 
