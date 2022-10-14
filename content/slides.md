@@ -5,6 +5,8 @@ hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
+keywords: ["slide", "pdf", "IT", "network", "hardware"]
+description: "Tổng hợp các kiến thức mình học được bằng Slide dưới dạng PDF"
 ---
 
 {{< container class="gallery-sm" style="margin-top: 40px" >}}

@@ -5,6 +5,7 @@ hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
+keywords: ["huydq", "huydq.dev", "HuyDQ", "Robin Huy"]
 ---
 
 Hi there 👋

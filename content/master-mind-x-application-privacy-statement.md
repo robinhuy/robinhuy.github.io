@@ -1,6 +1,7 @@
 ---
 title: "Application Privacy Statement"
 draft: false
+hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false

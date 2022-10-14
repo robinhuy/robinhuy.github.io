@@ -5,6 +5,8 @@ hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
+keywords: ["pet project", "open source"]
+description: "Tổng hợp các Pet project & Open source project mình code trong lúc rảnh rỗi"
 ---
 
 {{< container class="gallery" >}}
