@@ -34,6 +34,11 @@ h4 {
 }
 
 /* Post */
+.post-title {
+  margin-bottom: 10px;
+  font-size: 36px;
+}
+
 .post-meta {
   margin-top: 5px;
 }
@@ -95,20 +100,21 @@ h4 {
 }
 
 /* Gallery */
-.gallery, .gallery-sm {
+.gallery,
+.gallery-sm {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 calc(var(--gap) * -1);
+  margin: 0 calc(var(--gap) / 2 * -1);
 }
 
 .gallery .gallery-card {
   width: calc(100% / 3);
-  padding: 1rem;
+  padding: calc(var(--gap) / 2);
 }
 
 .gallery-sm .gallery-sm-card {
   width: 20%;
-  padding: 1rem;
+  padding: calc(var(--gap) / 2);
 }
 
 @media (max-width: 768px) {
@@ -134,7 +140,8 @@ h4 {
   transition: 0.3s;
 }
 
-.card:hover, .gallery-sm .card:hover {
+.card:hover,
+.gallery-sm .card:hover {
   border: 1px solid #999;
 }
 
@@ -149,6 +156,7 @@ h4 {
   font-weight: normal;
   text-align: center;
   padding: 0 5px;
+  margin: 16px 0;
 }
 
 .gallery-sm .card {
