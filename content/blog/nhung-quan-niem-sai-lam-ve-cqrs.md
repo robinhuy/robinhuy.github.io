@@ -2,7 +2,7 @@
 title: "Những quan niệm sai lầm về CQRS"
 date: 2018-10-11
 draft: false
-tags: ["CQRS", "Design Pattern"]
+tags: ["CQRS", "Design Pattern", "English Translated"]
 ---
 
 Bài viết được dịch (có chỉnh sửa) từ cuốn [Patterns Principles and Practices of Domain Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về [CQRS](https://martinfowler.com/bliki/CQRS.html) (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).

@@ -2,7 +2,7 @@
 title: "Những lỗi cơ bản trong lập trình mà developer nên tránh"
 date: 2020-01-10
 draft: false
-tags: ["Programming"]
+tags: ["Programming", "English Translated"]
 ---
 
 Không lập trình viên nào code mà không có bug. Tuy nhiên có rất nhiều lỗi cơ bản chúng ta nên tránh để tạo ra ít bug hơn, code sạch và trong sáng hơn, dễ bảo trì hơn, đỡ bị ăn chửi hơn, …

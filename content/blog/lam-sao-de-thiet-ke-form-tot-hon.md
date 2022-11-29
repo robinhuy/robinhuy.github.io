@@ -2,7 +2,7 @@
 title: "Làm sao để thiết kế Form tốt hơn?"
 date: 2019-12-12
 draft: false
-tags: ["UI/UX"]
+tags: ["UI/UX", "English Translated"]
 ---
 
 *Bài viết được dịch từ [uxdesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c), có lược bớt và chỉnh sửa theo sở thích của người dịch* 😜

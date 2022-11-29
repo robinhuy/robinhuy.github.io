@@ -2,7 +2,7 @@
 title: "Starbucks không sử dụng Two-Phase Commit"
 date: 2018-10-20
 draft: false
-tags: ["Design Pattern"]
+tags: ["Design Pattern", "English Translated"]
 ---
 
 Tôi vừa trở về sau một chuyến du lịch 2 tuần đến Nhật Bản.

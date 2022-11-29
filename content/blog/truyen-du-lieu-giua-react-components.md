@@ -2,7 +2,7 @@
 title: "Truyền dữ liệu giữa React Components"
 date: 2019-11-27
 draft: false
-tags: ["ReactJS"]
+tags: ["ReactJS", "English Translated"]
 ---
 
 _Bài viết được biên dịch và tóm tắt lại từ_ [_https://towardsdatascience.com_](https://towardsdatascience.com/passing-data-between-react-components-parent-children-siblings-a64f89e24ecf) _, code demo được chuyển sang dùng Hooks._
