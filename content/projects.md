@@ -31,4 +31,6 @@ description: "Tổng hợp các Pet project & Open source project mình code tro
 
 {{< card link="https://play.google.com/store/apps/details?id=com.robinhuy.mastermindx" img="/images/master-mind-x.jpg" title="Master Mind X (Android App)" >}}
 
+{{< card link="https://github.com/robinhuy/scroll-carousel" img="https://repository-images.githubusercontent.com/544682207/ff540f98-09a5-4fc9-b2a4-1e3cfa8dce3b" title="Scroll Carousel" >}}
+
 {{< /container >}}
