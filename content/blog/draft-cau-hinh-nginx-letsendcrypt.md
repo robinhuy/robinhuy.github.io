@@ -1,8 +1,8 @@
 ---
-title: "Visual Studio Code tip trick"
+title: "Cấu hình SSL free với Let's encrypt và Nginx"
 date: 2022-08-08
 draft: true
-tags: ["Visual Studio Code"]
+tags: ["Nginx"]
 ---
 
 Cai nginx
