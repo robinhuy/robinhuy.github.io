@@ -33,15 +33,15 @@ Có nhiều loại dây đàn, tùy vào ví tiền mà các bạn có thể ch�
 
 Một chú ý nữa khi mua dây thường sẽ có 2 loại để chọn (phân biệt theo kích cỡ) là loại cỡ **11** và **12** (0.011 inch và 0.012 inch). Thì mình chọn cỡ **11** vì nó là trung bình phổ biến nhất, dây dày hơn thì đánh vang hơn (và đau tay hơn).
 
-Dây thì mình hay mua dây Elixir trên Shopee (đắt nhưng chắc nửa năm, có khi cả năm mới thay 1 lần). Mình mua của shop này vì thấy nhiều người mua và rating cũng cao: [https://shope.ee/6AC1r3MwfA](https://shope.ee/6AC1r3MwfA).
+Dây thì mình hay mua dây Elixir trên Shopee (đắt nhưng chắc nửa năm, có khi cả năm mới thay 1 lần). Mình mua của shop này vì thấy nhiều người mua và rating cũng cao: {{< link link="https://shope.ee/6AC1r3MwfA" text="https://shope.ee/6AC1r3MwfA" >}}.
 
-Hoặc vẫn shop đó nhưng bán dây lẻ (ví dụ bạn bị đứt 1 dây và chỉ muốn thay dây đó thôi cho đỡ tốn kém): [https://shope.ee/2fc9gjgNXj](https://shope.ee/2fc9gjgNXj), chú ý là mua dây lẻ thì cộng vào sẽ thấy đắt hơn là mua cả bộ, và dây hay đứt nhất thì đắt nhất (thường là dây 1).
+Hoặc vẫn shop đó nhưng bán dây lẻ (ví dụ bạn bị đứt 1 dây và chỉ muốn thay dây đó thôi cho đỡ tốn kém): {{< link link="https://shope.ee/2fc9gjgNXj" text="https://shope.ee/2fc9gjgNXj" >}}, chú ý là mua dây lẻ thì cộng vào sẽ thấy đắt hơn là mua cả bộ, và dây hay đứt nhất thì đắt nhất (thường là dây 1).
 
 ### Chọn công cụ thay dây
 
 Bạn có thể không cần công cụ gì cũng thay dây được, nhưng tối thiểu phải có cái kìm để còn cắt dây thừa. Nếu có công cụ thì sẽ tiện hơn và thay dây nhanh hơn, nhàn hơn.
 
-Có nhiều loại công cụ để giúp tháo chốt, quay dây, cắt dây, ... Các bạn có thể mua ngoài tiệm hoặc mua online. Mình thì tiện mua dây thì mua luôn cái công cụ này, 3 trong 1 cho tiện (cũng ở shop trên luôn): [https://shope.ee/AUL11oUeVE](https://shope.ee/AUL11oUeVE).
+Có nhiều loại công cụ để giúp tháo chốt, quay dây, cắt dây, ... Các bạn có thể mua ngoài tiệm hoặc mua online. Mình thì tiện mua dây thì mua luôn cái công cụ này, 3 trong 1 cho tiện (cũng ở shop trên luôn): {{< link link="https://shope.ee/AUL11oUeVE" text="https://shope.ee/AUL11oUeVE" >}}.
 
 ![Dụng cụ thay dây đàn Guitar 3 trong 1](/images/dung-cu-thay-day-dan-guitar-3-trong-1.jpg)
 
@@ -83,7 +83,7 @@ Sau khi luồn dây vào lỗ chốt điều chỉnh, kéo căng dây, đảm b�
 
 - Với dây **1-3** là dây mỏng, chúng ta có thể để phần thừa nhiều, phần này sẽ dùng để quấn quanh chốt điều chỉnh. Vì là dây mỏng nên chúng ta có thể quấn 5-7 vòng quanh khóa đàn mà các vòng không bị đè lên nhau.
 - Với dây **4-6** là dây dày, chúng ta chỉ quấn khoảng 3-4 vòng là đủ, quấn nhiều hơn thì không đủ chỗ và các vòng sẽ phải chồng lên nhau nhìn không được đẹp lắm.
-- Đường kính của chốt cố định vào khoảng **12.5mm** (số do mình tự đo nên chỉ tương đối thôi 😅). Vậy nếu muốn quấn 2 vòng thì để phần thừa khoảng **25mm**, cứ thế mà nhân lên với số vòng mong muốn. Khoảng cách giữa 2 chốt là **~40mm**, vậy để cho đơn giản cứ lấy khoảng cách *giữa 2 chốt* làm mốc, với dây 1-3 thì lấy ~2 lần khoảng cách giữa 2 chốt, dây 4-6 thì lấy ~1 lần khoảng cách giữa 2 chốt (nếu muốn đẹp hơn thì bạn cần tính kỹ hơn).
+- Đường kính của chốt cố định vào khoảng **12.5mm** (số do mình tự đo nên chỉ tương đối thôi 😅). Vậy nếu muốn quấn 2 vòng thì để phần thừa khoảng **25mm**, cứ thế mà nhân lên với số vòng mong muốn. Khoảng cách giữa 2 chốt là **~40mm**, vậy để cho đơn giản cứ lấy khoảng cách _giữa 2 chốt_ làm mốc, với dây 1-3 thì lấy ~2 lần khoảng cách giữa 2 chốt, dây 4-6 thì lấy ~1 lần khoảng cách giữa 2 chốt (nếu muốn đẹp hơn thì bạn cần tính kỹ hơn).
 
 ![Thay dây đàn Guitar 3](/images/thay-day-dan-guitar-3.jpg)
 
