@@ -92,7 +92,7 @@ Vặn khóa cho đến khi dây căng lên, không còn bị trượt ra khỏi 
 
 ![Thay dây đàn Guitar 4](/images/thay-day-dan-guitar-4.jpg)
 
-Làm tương tự lần lượt cho đến hết 6 dây.
+Làm tương tự lần lượt cho đến hết 6 dây. Trong lúc làm nếu bị vướng thì có thể cắt bớt phần thừa của dây (đằng nào cuối cùng cũng cắt).
 
 Sau khi đã cố định hết 6 dây, chúng ta sẽ cắt bớt phần dây còn thừa đi, có thể cắt thừa khoảng **3-4mm** và lấy kìm bấm cho phần thừa hướng xuống dưới để tránh bị cọ vào gây xước tay.
 
