@@ -5,7 +5,7 @@ draft: false
 tags: ["Github"]
 ---
 
-[Github](https://github.com) là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
+{{< link link="https://github.com" text="Github" >}} là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
 
 Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ dàng hơn, giúp làm việc nhóm một cách hiệu quả.
 
@@ -39,7 +39,7 @@ Nếu muốn upload thư mục thì cần tạo ra thư mục trước bằng c�
 
 ### Cách 2: Sử dụng phần mềm có giao diện
 
-Có nhiều phần mềm hỗ trợ việc sử dụng Git dễ dàng, ví dụ [Github Desktop](https://desktop.github.com/). Tải phần mềm về và đăng nhập vào tài khoản Github để sử dụng.
+Có nhiều phần mềm hỗ trợ việc sử dụng Git dễ dàng, ví dụ {{< link link="https://desktop.github.com/" text="Github Desktop" >}}. Tải phần mềm về và đăng nhập vào tài khoản Github để sử dụng.
 
 ![Github Desktop](/images/github-desktop-clone-repository-1.png)
 
@@ -57,11 +57,11 @@ Ngoài ra nếu bạn lập trình bằng Visual Studio Code thì có thể dùn
 
 ## Cách 3: Sử dụng Terminal
 
-Terminal là phần mềm thao tác với máy tính qua các mã lệnh. Trên các hệ điều hành Mac, Linux thì đều có sẵn. Còn trên Windows thì các bạn phải cài thêm [Git](https://git-scm.com/).
+Terminal là phần mềm thao tác với máy tính qua các mã lệnh. Trên các hệ điều hành Mac, Linux thì đều có sẵn. Còn trên Windows thì các bạn phải cài thêm {{< link link="https://git-scm.com/" text="Git" >}}.
 
 Sau khi cài xong thì chúng ta có thể thao tác với Git qua câu lệnh. Và đi kèm với Git sẽ có 1 phần mềm là Git Bash tương tự như Terminal trên Linux. Các bạn có thể bấm chuột phải vào màn hình và chọn **Git Bash Here** để bật Git Bash lên ở ngay tại thư mục hiện hành.
 
-Khi sử dụng Terminal thì chúng ta sẽ thao tác với Git qua các câu lệnh, mới đầu sẽ chưa quen nhưng dùng nhiều thì sẽ nhớ. Tra cứu các câu lệnh của Git [ở đây](https://git-scm.com/docs/git).
+Khi sử dụng Terminal thì chúng ta sẽ thao tác với Git qua các câu lệnh, mới đầu sẽ chưa quen nhưng dùng nhiều thì sẽ nhớ. Tra cứu các câu lệnh của Git {{< link link="https://git-scm.com/docs/git" text="ở đây" >}}.
 
 ### Một số lệnh hay dùng:
 

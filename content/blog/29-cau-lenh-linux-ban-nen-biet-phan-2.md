@@ -39,8 +39,6 @@ Có thể viết tắt là **-h**
 
 ![Command ping](/images/linux-21-ping.jpg)
 
-Tham khảo các [khóa học lập trình](https://techmaster.vn/khoa-hoc) online, onlab, và [thực tập lập trình](https://techmaster.vn/posts/33583/thuc-tap-lap-trinh-web-mobile) tại TechMaster
-
 ## 22. who – Who Is logged in
 
 **who** ​ hiển thị danh sách các tài khoản đang đăng nhập vào hệ thống.
