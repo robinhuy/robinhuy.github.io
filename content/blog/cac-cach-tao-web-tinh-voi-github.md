@@ -7,7 +7,7 @@ tags: ["Github"]
 
 Bạn có 1 trang web tĩnh (static web chỉ gồm HTML CSS JS) và muốn đẩy lên mạng để chia sẻ cho người khác mà không mất phí? Hãy tận dụng Github - nền tảng lưu trữ, quản lý và chia sẻ mã nguồn mở hàng đầu hiện nay.
 
-Ngoài việc lưu trữ và quản lý mã nguồn, Github còn cung cấp một dịch vụ cho phép hosting static web là [Github Pages](https://pages.github.com/). Source code lưu trữ trực tiếp trên Github và truy cập thông qua tên miền miễn phí là _[username].github.io_. Ví dụ username trên github của bạn là _robinhuy_ thì bạn sẽ có 1 tên miền miễn phí là _https://robinhuy.github.io_.
+Ngoài việc lưu trữ và quản lý mã nguồn, Github còn cung cấp một dịch vụ cho phép hosting static web là {{< link link="https://pages.github.com/" text="Github Pages" >}}. Source code lưu trữ trực tiếp trên Github và truy cập thông qua tên miền miễn phí là _[username].github.io_. Ví dụ username trên github của bạn là _robinhuy_ thì bạn sẽ có 1 tên miền miễn phí là _https://robinhuy.github.io_.
 
 > Nếu bạn chưa biết sử dụng Github hoặc chưa biết cách đẩy code lên Github thì tham khảo bài viết này [Các cách đẩy code lên Github](/blog/cac-cach-day-code-len-github).
 
@@ -37,7 +37,7 @@ Ví dụ tên repository là _my-website_ thì sẽ truy cập địa chỉ là 
 
 ## Cách 3: Sử dụng website raw.githack.com
 
-Sử dụng website [https://raw.githack.com/,](https://raw.githack.com/,) chúng ta có thể xem kết quả hiển thị của bất kỳ file HTML trong bất kỳ repository nào.
+Sử dụng website {{< link link="https://raw.githack.com/" text="https://raw.githack.com" >}}, chúng ta có thể xem kết quả hiển thị của bất kỳ file HTML trong bất kỳ repository nào.
 
 Tuy nhiên trang web có thể sẽ bị lỗi hiển thị nếu như bị sai đường dẫn (do đường dẫn bị thay đổi khi xem qua _raw.githack.com_).
 
