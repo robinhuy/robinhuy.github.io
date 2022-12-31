@@ -7,7 +7,7 @@ tags: ["Go"]
 
 Trong các ứng dụng cho phép người dùng nhập dữ liệu thì đều cần phải có validate để bảo mật và đảm bảo ứng dụng chạy đúng.
 
-Golang có một số thư viện open source hỗ trợ chúng ta làm việc này một cách nhanh chóng, ví dụ như [govalidator](https://github.com/asaskevich/govalidator).
+Golang có một số thư viện open source hỗ trợ chúng ta làm việc này một cách nhanh chóng, ví dụ như {{< link link="https://github.com/asaskevich/govalidator" text="govalidator" >}}.
 
 ## Cài đặt
 
@@ -25,7 +25,7 @@ import validator "github.com/asaskevich/govalidator"
 
 ## Sử dụng
 
-Govalidator cung cấp rất nhiều function hỗ trợ chúng ta validate dữ liệu theo các dạng thông dụng như: URL, Email, Alpha, Numeric Alphanumeric, Regex, ... Danh sách các hàm hỗ trợ: [https://github.com/asaskevich/govalidator#list-of-functions](https://github.com/asaskevich/govalidator#list-of-functions)
+Govalidator cung cấp rất nhiều function hỗ trợ chúng ta validate dữ liệu theo các dạng thông dụng như: URL, Email, Alpha, Numeric Alphanumeric, Regex, ... Danh sách các hàm hỗ trợ: {{< link link="https://github.com/asaskevich/govalidator#list-of-functions" text="https://github.com/asaskevich/govalidator#list-of-functions" >}}.
 
 Ngoài ra Govalidator còn hỗ trợ chúng ta **validate struct** (kiểm tra tính hợp lệ của các field trong struct) bằng cách sử dụng tag **valid**. Ví dụ:
 
