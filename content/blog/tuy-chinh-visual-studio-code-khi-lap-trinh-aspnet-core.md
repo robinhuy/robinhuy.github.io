@@ -33,7 +33,7 @@ VS Code cho phép chúng ta tùy chỉnh việc hiển thị, cách thức làm 
 
 ## 4. Cấu hình launch.json
 
-Đây là file cấu hình chạy Debug ứng dụng trên VS Code (nằm trong thư mục .vscode của project). Các bạn có thể tham khảo tài liệu chi tiết [ở đây](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations). Với ứng dụng ASP.NET Core thì khi bật Debug, mặc định nó sẽ mở một tab mới trên trình duyệt. Để bỏ chức năng này thì chúng ta sửa lại cấu hình **launchBrowser** enabled thành **false**:
+Đây là file cấu hình chạy Debug ứng dụng trên VS Code (nằm trong thư mục .vscode của project). Các bạn có thể tham khảo tài liệu chi tiết {{< link link="https://code.visualstudio.com/docs/editor/debugging#_launch-configurations" text="ở đây" >}}. Với ứng dụng ASP.NET Core thì khi bật Debug, mặc định nó sẽ mở một tab mới trên trình duyệt. Để bỏ chức năng này thì chúng ta sửa lại cấu hình **launchBrowser** enabled thành **false**:
 
 ```json
 ...
@@ -46,7 +46,7 @@ VS Code cho phép chúng ta tùy chỉnh việc hiển thị, cách thức làm 
 
 ## 5. Cấu hình task.json
 
-Task là một chức năng của VS Code cho phép chúng ta tích hợp thêm các External Tools vào trong project như MSbuild, Grunt, Gulp, ... và chúng ta sẽ cấu hình trong file .vscode/task.json. Tham khảo tài liệu chi tiết [ở đây](https://code.visualstudio.com/docs/editor/tasks).
+Task là một chức năng của VS Code cho phép chúng ta tích hợp thêm các External Tools vào trong project như MSbuild, Grunt, Gulp, ... và chúng ta sẽ cấu hình trong file .vscode/task.json. Tham khảo tài liệu chi tiết {{< link link="https://code.visualstudio.com/docs/editor/tasks" text="ở đây" >}}.
 
 Trong project ASP.NET Core thì cần sửa lại cấu hình của **msCompile** để khi compile lỗi chúng ta có thể chuyển nhanh sang đoạn code gây lỗi.
 
