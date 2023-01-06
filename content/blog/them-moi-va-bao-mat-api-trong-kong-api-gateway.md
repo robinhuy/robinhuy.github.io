@@ -2,6 +2,7 @@
 title: "Thêm mới và bảo mật API trong Kong API Gateway"
 date: 2018-03-05
 draft: false
+images: ["/images/kong-create-credentials.png"]
 tags: ["API Gateway"]
 ---
 

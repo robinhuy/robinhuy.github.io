@@ -2,6 +2,7 @@ baseURL: "https://huydq.dev/"
 title: HuyDQ's Blog
 paginate: 10
 theme: PaperMod
+defaultContentLanguage: vi
 
 enableRobotsTXT: true
 buildDrafts: false

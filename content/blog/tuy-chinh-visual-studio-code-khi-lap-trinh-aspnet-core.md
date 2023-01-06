@@ -2,6 +2,7 @@
 title: "Tùy chỉnh Visual Studio Code khi lập trình ASP.NET Core"
 date: 2018-01-13
 draft: false
+images: ["/images/vscode-extension.png"]
 tags: ["Visual Studio Code", "ASP.NET"]
 ---
 
