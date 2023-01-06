@@ -2,6 +2,7 @@
 title: "Tái sử dụng code cho nhiều project với Git Submodules"
 date: 2021-07-18
 draft: false
+images: ["/images/reusable-code-copy-paste.png"]
 tags: ["Git", "Github"]
 ---
 

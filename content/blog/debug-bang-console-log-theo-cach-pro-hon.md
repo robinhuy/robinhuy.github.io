@@ -2,11 +2,12 @@
 title: "Debug bằng console.log theo cách PRO hơn"
 date: 2022-09-20
 draft: false
+images: ["/images/facebook-console.png"]
 tags: ["JavaScript", "NodeJS", "Visual Studio Code"]
 ---
 
-Khi code các dự án bằng JavaScript (hoặc NodeJS) thì có nhiều tool để debug, nhưng mình vẫn hay debug theo kiểu *nông dân* đó là dùng console.log.
-Những ai có cùng sở thích như vậy thì có thể tham khảo bài viết này để có thể *log một cách pro hơn*
+Khi code các dự án bằng JavaScript (hoặc NodeJS) thì có nhiều tool để debug, nhưng mình vẫn hay debug theo kiểu _nông dân_ đó là dùng console.log.
+Những ai có cùng sở thích như vậy thì có thể tham khảo bài viết này để có thể _log một cách pro hơn_
 
 ## Có nhiều loại log ngoài console.log
 
@@ -26,19 +27,19 @@ Hoặc khi hiển thị dữ liệu là mảng các object thì có thể hiển
 
 {{< figure src="/images/console-table-array-object.png" alt="Console Table" title="Log sử dụng console.table()" >}}
 
-Với NodeJS thì nếu xem log trên Terminal sẽ thấy giống nhau (trừ *console.table*). Có thể kết hợp với một số tool khác để lọc log, remove log, ... ví dụ như dùng `console.log()` để debug nhanh và `console.info()` để thông báo lên terminal (*running server at port ...*).
+Với NodeJS thì nếu xem log trên Terminal sẽ thấy giống nhau (trừ _console.table_). Có thể kết hợp với một số tool khác để lọc log, remove log, ... ví dụ như dùng `console.log()` để debug nhanh và `console.info()` để thông báo lên terminal (_running server at port ..._).
 
 ## Console.log với CSS
 
-Cách này chỉ áp dụng trên trình duyệt. 
+Cách này chỉ áp dụng trên trình duyệt.
 
 Thay vì chỉ `console.log()` như bình thường thì chúng ta có thể thêm chút CSS vào cho nổi bật (nhất là trong trường hợp có nhiều log do nhiều người viết mà chưa xóa 😅).
 
 Ví dụ:
 
 ```js
-const style = 'color: red; font-size: 30px;';
-console.log('%c' + 'Hello World', style);
+const style = "color: red; font-size: 30px;";
+console.log("%c" + "Hello World", style);
 ```
 
 Cách này được áp dụng như ở Facebook, bật developer tools lên sẽ thấy.
@@ -52,19 +53,19 @@ Cách này áp dụng được cho cả trình duyệt lẫn Terminal, đó là 
 Ví dụ ký hiệu đặc biệt của chữ màu đỏ là `\x1b[31m`, kết thúc màu là `\x1b[0m` (reset). Vậy đoạn log sau sẽ in ra chữ `Hello World` có 2 màu xanh và đỏ:
 
 ```js
-const textRed = '\x1b[31m';
-const textGreen = '\x1b[32m';
-const reset = '\x1b[0m';
-console.log(textRed + 'Hello' + reset + ' ' + textGreen + 'World' + reset);
+const textRed = "\x1b[31m";
+const textGreen = "\x1b[32m";
+const reset = "\x1b[0m";
+console.log(textRed + "Hello" + reset + " " + textGreen + "World" + reset);
 ```
 
 Ngoài ra còn có mã màu nền đỏ là `\x1b[41m`, vậy đoạn log sau sẽ in ra chữ xanh nền đỏ:
 
 ```js
-const textGreen = '\x1b[32m';
-const bgRed = '\x1b[41m';
-const reset = '\x1b[0m';
-console.log(textGreen + bgRed + 'Hello World' + reset);
+const textGreen = "\x1b[32m";
+const bgRed = "\x1b[41m";
+const reset = "\x1b[0m";
+console.log(textGreen + bgRed + "Hello World" + reset);
 ```
 
 Có thể dùng tool sau để chọn màu cho nhanh: [https://console-colors.vercel.app](https://console-colors.vercel.app/).
@@ -83,22 +84,24 @@ Sau đó dựa theo gợi ý có sẵn trong file này để cấu hình. Ví d�
     "prefix": "cl",
     "body": ["console.log('--- ${1:DATA} ---', ${2:''});", "$0"],
     "description": "Log output to console"
-  },
+  }
 }
 ```
 
-Như vậy khi code chỉ cần gõ `cl` là sẽ có gợi ý, bấm enter thì sẽ hiển thị ra đoạn log có kèm các vị trí tab stops (điểm dừng khi bấm tab, có bôi đen sẵn) và vị trí con trỏ chuột cuối cùng sau khi gõ lệnh (*$0*):
+Như vậy khi code chỉ cần gõ `cl` là sẽ có gợi ý, bấm enter thì sẽ hiển thị ra đoạn log có kèm các vị trí tab stops (điểm dừng khi bấm tab, có bôi đen sẵn) và vị trí con trỏ chuột cuối cùng sau khi gõ lệnh (_$0_):
 
 ![Snippet Console Log 1](/images/snippet-console-log-1.png)
 ![Snippet Console Log 2](/images/snippet-console-log-2.png)
 
-Trên đây là 1 ví dụ snippet log đơn giản, các bạn có thể tự tùy biến màu mè theo ý thích cho nó trông *nguy hiểm* hơn khi debug. 
+Trên đây là 1 ví dụ snippet log đơn giản, các bạn có thể tự tùy biến màu mè theo ý thích cho nó trông _nguy hiểm_ hơn khi debug.
 
 Happy coding 😎
 
 ---
+
 Tham khảo:
-- [*It’s 2022, Please Don’t Just Use “console.log” Anymore*](https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d)
-- [*How to change node.js's console font color?*](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
-- [*Everything you never wanted to know about ANSI escape codes*](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
-- [*Snippets in Visual Studio Code*](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
+- [_It’s 2022, Please Don’t Just Use “console.log” Anymore_](https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d)
+- [_How to change node.js's console font color?_](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
+- [_Everything you never wanted to know about ANSI escape codes_](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
+- [_Snippets in Visual Studio Code_](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
