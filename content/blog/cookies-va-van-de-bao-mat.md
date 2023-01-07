@@ -2,6 +2,7 @@
 title: "Cookies và vấn đề bảo mật"
 date: 2018-09-15
 draft: false
+images: ["/images/how-to-secure-cookies.jpg"]
 tags: ["Cookies", "Security"]
 ---
 

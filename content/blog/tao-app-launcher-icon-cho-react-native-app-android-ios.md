@@ -2,6 +2,7 @@
 title: "Tạo App Launcher icon cho React Native app (Android + iOS)"
 date: 2022-08-08
 draft: false
+images: ["/images/import-ios-app-launcher-icon.png"]
 tags: ["React Native", "Android", "iOS"]
 ---
 
@@ -18,6 +19,7 @@ Sau đó dùng trang web sau để generate ra các bộ icons cho Android và i
 ### Bước 1
 
 Tạo ra bộ icon với các kích thước khác nhau cho các loại thiết bị iOS. Có thể sử dụng website ở trên hoặc một số tool thay thế sau:
+
 - App [Icon Set Creator](https://apps.apple.com/us/app/icon-set-creator/id939343785?mt=12) (trên App Store).
 - Website [https://makeappicon.com/](https://makeappicon.com/), upload ảnh lên (JPG hoặc PNG) và nhập email để nhận bộ icon trên cả iOS lẫn Android.
 
@@ -40,6 +42,7 @@ Xong, build lại app để thấy kết quả.
 ### Bước 1
 
 Tương tự như bên iOS, chúng ta cũng cần tạo ra bộ icon với các kích thước khác nhau cho các loại thiết bị Android. Có thể sử dụng website ở trên hoặc một số tool thay thế sau:
+
 - Website [Android Assets Studio](<http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=image&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(255%2C%20255%2C%20255)&crop=0&backgroundShape=square&effects=none&name=ic_launcher>).
 - Website [https://makeappicon.com/](https://makeappicon.com/).
 

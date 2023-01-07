@@ -2,6 +2,7 @@
 title: "Các cách tạo web tĩnh với Github"
 date: 2021-05-30
 draft: false
+images: ["https://pages.github.com/images/user-repo@2x.png"]
 tags: ["Github"]
 ---
 

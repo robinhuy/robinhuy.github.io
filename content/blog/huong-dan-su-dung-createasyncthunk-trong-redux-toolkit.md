@@ -2,6 +2,7 @@
 title: "Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit"
 date: 2021-10-12
 draft: false
+images: ["/images/redux-toolkit.jpg"]
 tags: ["ReactJS", "Redux Toolkit"]
 ---
 

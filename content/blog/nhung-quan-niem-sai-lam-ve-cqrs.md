@@ -2,6 +2,7 @@
 title: "Những quan niệm sai lầm về CQRS"
 date: 2018-10-11
 draft: false
+images: ["/images/cqrs-architecture.png"]
 tags: ["CQRS", "Design Pattern", "English Translated"]
 ---
 

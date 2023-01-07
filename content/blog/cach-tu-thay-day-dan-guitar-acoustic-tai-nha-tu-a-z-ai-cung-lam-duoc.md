@@ -1,8 +1,9 @@
 ---
-title: 'Cách tự thay dây đàn Guitar Acoustic tại nhà từ a-Z, ai cũng làm được'
+title: "Cách tự thay dây đàn Guitar Acoustic tại nhà từ a-Z, ai cũng làm được"
 date: 2022-12-24
 draft: false
-tags: ['Guitar Acoustic', 'Self Learning']
+images: ["/images/dung-cu-thay-day-dan-guitar-3-trong-1.jpg"]
+tags: ["Guitar Acoustic", "Self Learning"]
 ---
 
 Với những ai mới học chơi đàn (Guitar Acoustic) thì có cần học cách tự thay dây không? Dây đàn đứt thì làm thế nào?

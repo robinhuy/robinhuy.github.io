@@ -2,6 +2,7 @@
 title: "Tối ưu static website với Webpack"
 date: 2021-06-19
 draft: false
+images: ["/images/webpack-demo-3.png"]
 tags: ["Webpack"]
 ---
 
