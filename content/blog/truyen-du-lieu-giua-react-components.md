@@ -1,11 +1,11 @@
 ---
-title: "Truyền dữ liệu giữa React Components"
+title: 'Truyền dữ liệu giữa React Components'
 date: 2019-11-27
 draft: false
-tags: ["ReactJS", "English Translated"]
+tags: ['ReactJS', 'English Translated']
 ---
 
-_Bài viết được biên dịch và tóm tắt lại từ_ [_https://towardsdatascience.com_](https://towardsdatascience.com/passing-data-between-react-components-parent-children-siblings-a64f89e24ecf) _, code demo được chuyển sang dùng Hooks._
+_Bài viết được biên dịch và tóm tắt lại từ {{< link link="https://towardsdatascience.com/passing-data-between-react-components-parent-children-siblings-a64f89e24ecf" text="https://towardsdatascience.com" >}}, code demo được chuyển sang dùng Hooks._
 
 Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng cũng không quá phức tạp. Tôi đã tổng kết lại 3 cách để truyền dữ liệu giữa các Component trong React:
 
@@ -13,8 +13,8 @@ Xử lý dữ liệu trong React có thể hơi khó khăn một chút, nhưng c
 2. Từ Child đến Parent sử dụng Callbacks.
 3. Giữa các Siblings (anh em, họ hàng, hàng xóm, ...)
    - Kết hợp cách 1 và 2.
-   - Sử dụng [Redux](https://redux.js.org/)(hoặc các thư viện có chức năng tương tự).
-   - Sử dụng [Context API](https://reactjs.org/docs/context.html) của React.
+   - Sử dụng {{< link link="https://redux.js.org/" text="Redux" >}} (hoặc các thư viện có chức năng tương tự).
+   - Sử dụng {{< link link="https://reactjs.org/docs/context.html" text="Context API" >}} của React.
 
 ## 1. Từ Parent đến Child sử dụng Props
 
@@ -111,6 +111,6 @@ Cách này chỉ dùng trong trường hợp đơn giản, không nên sử d�
 
 Tham khảo thêm 1 số bài viết giới thiệu về React Context API:
 
-- [Using Context in React](https://medium.com/@wisecobbler/using-context-in-react-56a8e7da5431)
-- [React Context API — A Replacement for Redux?](https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3)
-- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+- {{< link link="https://medium.com/@wisecobbler/using-context-in-react-56a8e7da5431" text="Using Context in React" >}}
+- {{< link link="https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3" text="React Context API — A Replacement for Redux?" >}}
+- {{< link link="https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367" text="You Might Not Need Redux" >}}
