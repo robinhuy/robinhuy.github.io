@@ -76,6 +76,12 @@ h4 {
   margin-bottom: 30px;
 }
 
+@media (max-width: 768px) {
+  .post-title {
+    font-size: 30px;
+  }
+}
+
 /* Paginav */
 .paginav span:hover:not(.title) {
   box-shadow: none;
