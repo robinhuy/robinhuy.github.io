@@ -8,9 +8,14 @@ comments: false
 keywords: ["huydq.dev", "support", "donate", "shopee", "lazada"]
 ---
 
-Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì website bằng cách mua hàng trên Shopee qua các link bên dưới. Đây là những sản phẩm mình đã từng mua, có rating cao và nhiều đánh giá tốt, vẫn áp dụng đầy đủ các khuyến mãi như thường và không mất thêm bất kỳ chi phí nào.
+Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì website bằng cách mua hàng trên Shopee qua link ủng hộ.
+Nhập link sản phẩm bạn cần mua và bấm nút **"Lấy link ủng hộ"**, sau đó bấm vào link và mua hàng như bình thường (vẫn áp dụng đầy đủ các khuyến mãi và không mất thêm bất kỳ chi phí nào).
 
 {{< shopee >}}
+
+---
+
+Hoặc các bạn có thể mua hàng qua các link bên dưới. Đây là những sản phẩm mình đã từng mua, có rating cao và nhiều đánh giá tốt trên Shopee và Lazada.
 
 #### Gia dụng:
 

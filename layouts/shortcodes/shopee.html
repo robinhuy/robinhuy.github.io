@@ -4,7 +4,7 @@
     <button onclick="generateShortLink()">Lấy link ủng hộ</button>
   </div>
 
-  <a id="shopee-short-link" href="" target="_blank" rel="nofollow"></a>
+  <div id="shopee-short-link"></div>
 </div>
 
 <script>
@@ -15,7 +15,7 @@
       return;
     }
 
-    const response = await fetch("https://asia-east2-huydq-apis.cloudfunctions.net/shortLink", {
+    const response = await fetch("https://shortlink-erzoowobja-df.a.run.app", {
       method: "POST",
       headers: {"Content-Type": "application/json"},
       body: JSON.stringify({
@@ -26,7 +26,6 @@
     const data = await response.json();
     const shortLink = data?.generateShortLink?.shortLink || "";
     const shortLinkElement = document.getElementById("shopee-short-link");
-    shortLinkElement.href = shortLink;
-    shortLinkElement.innerText = shortLink;
+    shortLinkElement.innerHTML = `=&gt; <a href="${shortLink}" target="_blank" rel="nofollow">${shortLink}</a>`;
   }
 </script>
