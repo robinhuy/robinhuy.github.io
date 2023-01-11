@@ -176,3 +176,59 @@ h4 {
 .gallery-sm .card .card-title {
   font-size: 20px;
 }
+
+/* Shopee widget */
+.shopee-widget .item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.shopee-widget input {
+  width: calc(320px - var(--gap) * 2);
+  padding: 4px 12px;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.shopee-widget input:hover,
+.shopee-widget input:focus {
+  border-color: #b7b7b7;
+}
+
+.shopee-widget button {
+  appearance: button;
+  padding: 4px 16px;
+  color: #333333;
+  font-weight: 500;
+  background-color: #fff;
+  border: 1px solid #d8d8d8;
+  border-radius: 4px;
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  user-select: none;
+  touch-action: manipulation;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.shopee-widget button:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+@media (max-width: 500px) {
+  .shopee-widget .item {
+    justify-content: center;
+  }
+
+  .shopee-widget input {
+    width: 100%;
+  }
+
+  .shopee-widget button {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
