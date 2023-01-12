@@ -82,6 +82,11 @@ h4 {
   display: block !important;
 }
 
+.post-content ol,
+.post-content ul {
+  padding-inline-start: 30px;
+}
+
 .post-footer {
   margin-bottom: 30px;
 }
@@ -94,7 +99,7 @@ h4 {
 
 /* Table of content */
 .toc {
-  padding: 20px 0;
+  display: none;
 }
 
 .toc .toc-header {
@@ -125,6 +130,8 @@ h4 {
 
 @media (min-width: 1400px) {
   .toc {
+    display: block;
+    padding: 20px 0;
     width: 300px;
     position: fixed;
     right: calc(50vw - var(--main-width) / 2 - var(--gap) * 2 - 300px);
