@@ -68,6 +68,16 @@ h4 {
   padding-inline-start: 35px;
 }
 
+.post-content a {
+  color: #0994d6;
+  box-shadow: none;
+  transition: 0.3s;
+}
+
+.post-content a:hover {
+  color: #1cb0f6;
+}
+
 .post-content .highlight pre {
   display: block !important;
 }
@@ -97,8 +107,11 @@ h4 {
 }
 
 .footer a {
-  text-decoration: underline;
   border-bottom: 0;
+}
+
+.footer > a {
+  box-shadow: 0 1px;
 }
 
 .footer a:hover {

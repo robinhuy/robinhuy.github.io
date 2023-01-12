@@ -12,7 +12,7 @@ Ok, trước khi đọc tiếp, bạn thử bỏ ra 5 phút suy nghĩ để tr�
 
 > Cuộc đời bạn sẽ thay đổi như nào nếu bạn thành thạo Tiếng Anh?
 
-(câu trên mình mượn từ _{{< link link="https://speakenglishwithvanessa.com" text="https://speakenglishwithvanessa.com" >}}_, một nguồn học Tiếng Anh có vẻ tốt, nhưng mình chưa có thời gian học thử)
+(câu trên mình mượn từ _{{< link link="https://speakenglishwithvanessa.com" text="https://speakenglishwithvanessa.com" >}}_, một nguồn học Tiếng Anh có vẻ tốt, nhưng mình chưa có thời gian học thử).
 
 Trả lời được câu hỏi trên tức là bạn đã tìm được mục tiêu để học Tiếng Anh, mục tiêu rõ ràng và đủ lớn thì mới có động lực để học, vì học Tiếng Anh quan trọng nhất là "chăm".
 
@@ -86,11 +86,11 @@ Trong khi học Tiếng Anh từ 2 ứng dụng trên, sẽ có những trườn
 
 ## 4. Một số nguồn giúp học Tiếng Anh trên mạng
 
-- Từ điển Tiếng Anh (tra từ điển nên xem kỹ cả phần phát âm và ví dụ sử dụng): {{< link link="https://dictionary.cambridge.org/" text="Cambridge Dictionary" >}}, {{< link link="https://glosbe.com/" text="Glosbe Dictionary" >}}, {{< link link="https://ozdic.com/" text="OZDIC" >}}
-- Youtube: {{< link link="https://www.youtube.com/@SpeakEnglishWithVanessa" text="Channel SpeakEnglishWithVanessa" >}}
-- Học những kiến thức thực tế cực kì đơn giản bằng tiếng Anh: {{< link link="https://www.bbc.co.uk/bitesize/topics/zkgscqt" text="BBC" >}}
+- Từ điển Tiếng Anh (tra từ điển nên xem kỹ cả phần phát âm và ví dụ sử dụng): {{< link link="https://dictionary.cambridge.org/" text="Cambridge Dictionary" >}}, {{< link link="https://glosbe.com/" text="Glosbe Dictionary" >}}, {{< link link="https://ozdic.com/" text="OZDIC" >}}.
+- Youtube: {{< link link="https://www.youtube.com/@SpeakEnglishWithVanessa" text="Channel SpeakEnglishWithVanessa" >}}.
+- Học những kiến thức thực tế cực kì đơn giản bằng tiếng Anh: {{< link link="https://www.bbc.co.uk/bitesize/topics/zkgscqt" text="BBC" >}}.
 - Các diễn đàn, game online dùng Tiếng Anh. Nếu học Tiếng Anh giao tiếp thì cách tốt nhất là nói chuyện trực tiếp với người nước ngoài (đừng sợ sai, nó cũng giống như mình nói chuyện với người nước ngoài nói Tiếng Việt thôi). Nếu không có bạn bè là người nước ngoài (trên mạng) thì nói chuyện với bạn bè, đồng nghiệp bằng Tiếng Anh cũng là 1 cách luyện phản xạ rất tốt.
-- Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ như này [English Translated](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
+- Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ [như&nbsp;này](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension [Google&nbsp;Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
 
 -&nbsp;-&nbsp;-&nbsp;-&nbsp;-
 
