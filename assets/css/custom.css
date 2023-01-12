@@ -69,13 +69,13 @@ h4 {
 }
 
 .post-content a {
-  color: #0994d6;
+  color: #0388c7;
   box-shadow: none;
   transition: 0.3s;
 }
 
 .post-content a:hover {
-  color: #1cb0f6;
+  color: #04aaf9;
 }
 
 .post-content .highlight pre {

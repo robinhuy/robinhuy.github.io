@@ -1,12 +1,12 @@
 ---
-title: "Projects"
+title: 'Projects'
 draft: false
 hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
-keywords: ["pet project", "open source"]
-description: "Tổng hợp các Pet project & Open source project mình code trong lúc rảnh rỗi"
+keywords: ['pet project', 'open source']
+description: 'Tổng hợp các Pet project & Open source project mình code trong lúc rảnh rỗi'
 ---
 
 {{< container class="gallery" >}}
@@ -31,6 +31,6 @@ description: "Tổng hợp các Pet project & Open source project mình code tro
 
 {{< card link="https://play.google.com/store/apps/details?id=com.robinhuy.mastermindx" img="/images/master-mind-x.jpg" title="Master Mind X (Android App)" >}}
 
-{{< card link="https://github.com/robinhuy/scroll-carousel" img="https://repository-images.githubusercontent.com/544682207/ff540f98-09a5-4fc9-b2a4-1e3cfa8dce3b" title="Scroll Carousel" >}}
+{{< card link="https://github.com/robinhuy/touchpad-scroll-carousel" img="https://repository-images.githubusercontent.com/544682207/47f1742e-598e-4bec-8685-14fd60f61c40" title="Touchpad Scroll Carousel" >}}
 
 {{< /container >}}
