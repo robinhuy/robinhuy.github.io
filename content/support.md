@@ -5,6 +5,7 @@ hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
+images: ["/images/buy-me-a-coffee.jpg"]
 keywords: ["huydq.dev", "support", "donate", "shopee", "lazada"]
 ---
 
