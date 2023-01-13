@@ -92,8 +92,6 @@ Trong khi học Tiếng Anh từ 2 ứng dụng trên, sẽ có những trườn
 - Các diễn đàn, game online dùng Tiếng Anh. Nếu học Tiếng Anh giao tiếp thì cách tốt nhất là nói chuyện trực tiếp với người nước ngoài (đừng sợ sai, nó cũng giống như mình nói chuyện với người nước ngoài nói Tiếng Việt thôi). Nếu không có bạn bè là người nước ngoài (trên mạng) thì nói chuyện với bạn bè, đồng nghiệp bằng Tiếng Anh cũng là 1 cách luyện phản xạ rất tốt.
 - Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ [như&nbsp;này](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension [Google&nbsp;Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
 
--&nbsp;-&nbsp;-&nbsp;-&nbsp;-
+{{< divider >}}
 
-Nếu bạn có nguồn tài liệu, cách học Tiếng Anh hiệu quả muốn chia sẻ thì để lại comment ở dưới nhé.
-
-Thanks for sharing!
+Nếu bạn có nguồn tài liệu, cách học Tiếng Anh hiệu quả muốn chia sẻ thì để lại comment ở dưới nhé. Thanks for sharing!
