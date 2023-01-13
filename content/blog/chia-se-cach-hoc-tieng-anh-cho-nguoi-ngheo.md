@@ -28,7 +28,7 @@ Vậy các bạn có thể thử học theo cách của mình: Học qua ứng d
 Vì mục đích trước mắt của mình là học Tiếng Anh giao tiếp để phục vụ cho công việc (giao tiếp với khách hàng nước ngoài), cũng như sở thích cá nhân (đi du lịch nước ngoài).
 
 Đây là một ứng dụng có thu phí, nhưng thấp hơn nhiều so với bỏ tiền ra đi học ở một trung tâm hoặc học 1:1 với giáo viên bản xứ.
-Đặc biệt ứng dụng này là của Việt Nam, nên người Việt sẽ được ưu đãi rất lớn khi đăng ký các gói học. Các bạn có thể đăng ký ở website để được hỗ trợ (qua email hoặc sđt) và ưu đãi lớn nhất (có thể lên đến 85%): {{< link link="https://elsaspeak.vn/?id=707" text="https://elsaspeak.vn" >}}.
+Đặc biệt ứng dụng này là của Việt Nam, nên người Việt sẽ được ưu đãi rất lớn khi đăng ký các gói học. Các bạn có thể đăng ký ở website để được hỗ trợ (qua email hoặc sđt) và ưu đãi lớn nhất (có thể lên đến 85%): {{< link link="https://elsaspeak.vn/?id=707" text="https://elsaspeak.vn/?id=707" >}}.
 
 Đăng ký qua website trên sẽ có cả gói vĩnh viễn (trên app không có, kích hoạt ở website), tuy nhiên mình khuyến khích các bạn đăng ký gói theo tháng hoặc theo năm (tùy theo mục tiêu cụ thể), vì khi đó sẽ có áp lực để học nhanh hơn (kẻo phí tiền). Chỉ đăng ký gói vĩnh viễn nếu có đủ quyết tâm, nếu không bạn sẽ bỏ xó (vì nó không bao giờ hết hạn).
 
