@@ -1,4 +1,4 @@
-baseURL: "https://huydq.dev/"
+baseURL: 'https://huydq.dev/'
 title: HuyDQ's Blog
 paginate: 10
 theme: PaperMod
@@ -8,7 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-disableKinds: ["section"]
+disableKinds: ['section']
 
 googleAnalytics: G-5KF148C0X6
 
@@ -19,11 +19,10 @@ minify:
 params:
   env: production
   title: HuyDQ's Blog
-  description: "Learning - Coding - Writing - Spamming."
+  description: 'Learning - Coding - Writing - Spamming.'
   keywords: [blog, dev, programming, web, mobile]
-  author: "HuyDQ"
-  images: ["/icons/thumbnail.jpg"]
-  DateFormat: "02/01/2006"
+  images: ['/icons/thumbnail.jpg']
+  DateFormat: '02/01/2006'
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -43,14 +42,14 @@ params:
   tocopen: false
 
   assets:
-    favicon: "/icons/favicon.png"
-    favicon16x16: "/icons/favicon16.png"
-    favicon32x32: "/icons/favicon32.png"
-    apple_touch_icon: "/icons/favicon.png"
-    safari_pinned_tab: "/icons/favicon.png"
+    favicon: '/icons/favicon.png'
+    favicon16x16: '/icons/favicon16.png'
+    favicon32x32: '/icons/favicon32.png'
+    apple_touch_icon: '/icons/favicon.png'
+    safari_pinned_tab: '/icons/favicon.png'
 
   label:
-    text: "huydq.dev"
+    text: 'huydq.dev'
 
   # profile-mode
   profileMode:
@@ -58,20 +57,20 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: ""
-    Content: ""
+    Title: ''
+    Content: ''
 
   socialIcons:
     - name: facebook
-      url: "https://www.facebook.com/huydq.dev"
+      url: 'https://www.facebook.com/huydq.dev'
     - name: github
-      url: "https://github.com/robinhuy"
+      url: 'https://github.com/robinhuy'
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/5229299/robin-huy"
+      url: 'https://stackoverflow.com/users/5229299/robin-huy'
 
   analytics:
     google:
-      SiteVerificationTag: "G-5KF148C0X6"
+      SiteVerificationTag: 'G-5KF148C0X6'
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -87,7 +86,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ['title', 'permalink', 'summary', 'content']
 
 markup:
   highlight:

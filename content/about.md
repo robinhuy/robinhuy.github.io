@@ -5,6 +5,7 @@ hideMeta: true
 ShowToc: false
 disableShare: true
 comments: false
+images: ["/icons/avatar2.png"]
 keywords: ['huydq', 'huydq.dev', 'HuyDQ', 'Robin Huy']
 ---
 
