@@ -28,6 +28,20 @@ description: "Tổng hợp các kiến thức mình học được bằng Slide 
 {{< /container >}}
 
 {{< container class="gallery-sm" >}}
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-1.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 1" >}}
+
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-2.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 2" >}}
+
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-3.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 3" >}}
+
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-4.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 4" >}}
+
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-5.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 5" >}}
+
+    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-6.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 6" >}}
+{{< /container >}}
+
+{{< container class="gallery-sm" >}}
     {{< card link="/pdf/[huydq.dev]-Introduce-Docker.pdf" img="/images/pdf/introduce-docker.png" title="Introduce Docker" >}}
 
     {{< card link="/pdf/[huydq.dev]-About-Bitcoin.pdf" img="/images/pdf/about-bitcoin.png" title="About Bitcoin" >}}
