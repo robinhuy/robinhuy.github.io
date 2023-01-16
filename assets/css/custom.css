@@ -123,7 +123,7 @@
 .toc ul li a {
   display: inline-block;
   position: relative;
-  transition: 0.3s;
+  transition: 0.25s;
   padding-left: 8px;
   border-left: 3px solid transparent;
 }

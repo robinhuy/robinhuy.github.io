@@ -46,7 +46,18 @@
                 anchorElements.style.borderColor = '#727272'             
             }
         }
+        const throttle = (callback, time) => {
+            if (throttleTimer) return;
 
+            throttleTimer = true;
+
+            setTimeout(() => {
+                callback();
+                throttleTimer = false;
+            }, time);
+        }
+        
+        let throttleTimer = false;
         let currentHeadingIndex = -1;
 
         // Init highlight
@@ -58,17 +69,19 @@
     
         // Handle highlight when scrolling
         window.addEventListener('scroll', () => {
-            const currentPosition = window.pageYOffset;
-            const lastIndex = headingElementsOffsetTop.length - 1            
+            throttle(() => {
+                const currentPosition = window.pageYOffset;
+                const lastIndex = headingElementsOffsetTop.length - 1            
 
-            for (let i = lastIndex; i >= currentHeadingIndex; i--) {    
-                if (currentPosition >= headingElementsOffsetTop[i] - HIGHLIGHT_OFFSET) {
-                    highlightIndex(i);    
-                    return;
+                for (let i = lastIndex; i >= currentHeadingIndex; i--) {    
+                    if (currentPosition >= headingElementsOffsetTop[i] - HIGHLIGHT_OFFSET) {
+                        highlightIndex(i);    
+                        return;
+                    }
                 }
-            }
 
-            highlightIndex(-1);
+                highlightIndex(-1);
+            }, 250)
         })
     </script>
 </body>
