@@ -37,8 +37,6 @@ description: "Tổng hợp các kiến thức mình học được bằng Slide 
     {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-4.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 4" >}}
 
     {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-5.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 5" >}}
-
-    {{< card link="/pdf/[huydq.dev]-Tao-website-bang-WordPress-phan-6.pdf" img="/icons/wordpress-thumbnail.jpg" title="Tạo website bằng WordPress phần 6" >}}
 {{< /container >}}
 
 {{< container class="gallery-sm" >}}
