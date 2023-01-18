@@ -10,11 +10,11 @@ description: "Tổng hợp các kiến thức mình học được bằng Slide 
 ---
 
 {{< container class="gallery-sm" style="margin-top: 40px" >}}
-    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-1-Gioi-thieu.pdf" img="/icons/pdf-thumbnail.jpg" title="Google SEO phần 1" >}}
+    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-1-Gioi-thieu.pdf" img="/icons/google-thumbnail.jpg" title="Google SEO phần 1" >}}
 
-    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-2-Toi-uu-code-chuan-SEO.pdf" img="/icons/pdf-thumbnail.jpg" title="Google SEO phần 2" >}}
+    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-2-Toi-uu-code-chuan-SEO.pdf" img="/icons/google-thumbnail.jpg" title="Google SEO phần 2" >}}
 
-    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-3-Viet-noi-dung-chuan-SEO.pdf" img="/icons/pdf-thumbnail.jpg" title="Google SEO phần 3" >}}
+    {{< card link="/pdf/[huydq.dev]-Google-SEO-phan-3-Viet-noi-dung-chuan-SEO.pdf" img="/icons/google-thumbnail.jpg" title="Google SEO phần 3" >}}
 {{< /container >}}
 
 {{< container class="gallery-sm" >}}
