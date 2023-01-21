@@ -23,8 +23,8 @@ params:
   keywords: [blog, dev, programming, web, mobile]
   images: ['/icons/thumbnail.jpg']
   DateFormat: '02/01/2006'
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true

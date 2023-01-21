@@ -17,10 +17,12 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v15.0&appId=926901307395708&autoLogAppEvents=1" nonce="1iwfRWn2"></script>
     
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
+    <main class="main" style="background: var(--entry);">
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+    <canvas id="canvas" style="position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: -1"></canvas>
 </body>
 
 </html>

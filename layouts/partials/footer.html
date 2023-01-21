@@ -201,3 +201,6 @@
   });
 </script>
 {{- end }}
+
+{{- $script := resources.Get "js/fireworks.js" | resources.Minify }}
+<script src="{{ $script.RelPermalink }}"></script>
