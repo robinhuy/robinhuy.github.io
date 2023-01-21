@@ -87,11 +87,11 @@ Trong khi học Tiếng Anh từ 2 ứng dụng trên, sẽ có những trườn
 ## 4. Một số nguồn giúp học Tiếng Anh trên mạng
 
 - Từ điển Tiếng Anh (tra từ điển nên xem kỹ cả phần phát âm và ví dụ sử dụng): {{< link link="https://dictionary.cambridge.org/" text="Cambridge Dictionary" >}}, {{< link link="https://glosbe.com/" text="Glosbe Dictionary" >}}, {{< link link="https://ozdic.com/" text="OZDIC" >}}.
-- Youtube: {{< link link="https://www.youtube.com/@SpeakEnglishWithVanessa" text="Channel SpeakEnglishWithVanessa" >}}.
+- Youtube: {{< link link="https://www.youtube.com/@SpeakEnglishWithVanessa" text="Channel SpeakEnglishWithVanessa" >}}, {{< link link="https://www.youtube.com/@mmmEnglish_Emma" text="Channel mmmEnglish" >}}, {{< link link="https://www.youtube.com/@papateachme" text="Channel Learn English with Papa Teach Me" >}}.
 - Học những kiến thức thực tế cực kì đơn giản bằng tiếng Anh: {{< link link="https://www.bbc.co.uk/bitesize/topics/zkgscqt" text="BBC" >}}.
 - Các diễn đàn, game online dùng Tiếng Anh. Nếu học Tiếng Anh giao tiếp thì cách tốt nhất là nói chuyện trực tiếp với người nước ngoài (đừng sợ sai, nó cũng giống như mình nói chuyện với người nước ngoài nói Tiếng Việt thôi). Nếu không có bạn bè là người nước ngoài (trên mạng) thì nói chuyện với bạn bè, đồng nghiệp bằng Tiếng Anh cũng là 1 cách luyện phản xạ rất tốt.
 - Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ [như&nbsp;này](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension [Google&nbsp;Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
 
-{{< divider >}}
+---
 
 Nếu bạn có nguồn tài liệu, cách học Tiếng Anh hiệu quả muốn chia sẻ thì để lại comment ở dưới nhé. Thanks for sharing!

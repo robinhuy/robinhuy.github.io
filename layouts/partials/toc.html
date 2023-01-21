@@ -6,7 +6,7 @@
         {{- i18n "toc" | default "Table of Contents" }}
     </div>
 
-    <div>
+    <div class="toc-body">
         {{- if (.Param "UseHugoToc") }}
         {{- .TableOfContents -}}
         {{- else }}
