@@ -6,6 +6,12 @@
   min-height: calc(100vh - var(--header-height) - 84px);
 }
 
+@media (max-width: 768px) {
+  .entry-header h1 {
+    font-size: 30px;
+  }
+}
+
 /* Tags */
 .terms-tags {
   margin: 0 -10px;
@@ -21,6 +27,10 @@
 }
 
 /* Post */
+article.post-single {
+  background: rgba(0, 0, 0, 0.8);
+}
+
 .post-title {
   margin-bottom: 10px;
   font-size: 36px;

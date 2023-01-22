@@ -17,7 +17,7 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v15.0&appId=3104649079824969&autoLogAppEvents=1" nonce="1iwfRWn2"></script>
     
     {{- partialCached "header.html" . .Page -}}
-    <main class="main" style="background: var(--entry);">
+    <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
