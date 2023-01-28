@@ -27,9 +27,11 @@
 }
 
 /* Post */
-article.post-single {
+
+/* Dark theme */
+/* article.post-single {
   background: rgba(0, 0, 0, 0.8);
-}
+} */
 
 .post-title {
   margin-bottom: 10px;
