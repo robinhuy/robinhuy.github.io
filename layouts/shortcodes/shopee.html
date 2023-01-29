@@ -10,7 +10,7 @@
 <script>
   async function generateShortLink() {
     const originUrl = document.getElementById("shopee-origin-link").value;
-    if (!originUrl || !originUrl.startsWith("https://shopee")) {
+    if (!originUrl || !originUrl.startsWith("https://")) {
       alert("Đường dẫn không hợp lệ!");
       return;
     }

@@ -37,6 +37,7 @@ Hoặc các bạn có thể mua hàng qua các link bên dưới. Đây là nh�
 
 #### Du lịch:
 
+- {{< link link="https://shope.ee/89y1nc4O13" text="Còi thổi LOCO FISH kiêm nhiệt kế đa năng 4 trong 1" >}} (Shopee)
 - {{< link link="https://shope.ee/1VQYYDRGhU" text="Ổ cắm điện đa năng du lịch Universal Travel Adapter nhiều đầu" >}} (Shopee)
 - {{< link link="https://shope.ee/7f1BtewMIy" text="Sticker du lịch Travel chống nước, dán laptop, điện thoại, đàn guitar, mũ bảo hiểm, vali" >}} (Shopee)
 
