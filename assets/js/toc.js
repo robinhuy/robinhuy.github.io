@@ -1,4 +1,4 @@
-const HIGHLIGHT_OFFSET = 100;
+const HIGHLIGHT_OFFSET = 50;
 const anchorElements = document.querySelectorAll(".toc-body ul li a");
 const headingElements = document.querySelectorAll(
   ".post-content h2, .post-content h3, .post-content h4"
@@ -60,5 +60,5 @@ window.addEventListener("scroll", () => {
     }
 
     highlightIndex(-1);
-  }, 250);
+  }, 100);
 });
