@@ -26,7 +26,7 @@ Hiện tại Chat GPT không cho phép tạo tài khoản ở Việt Nam, do đ�
 
 Sau khi bật VPN thì chúng ta sẽ truy cập vào {{< link link="https://platform.openai.com/signup" text="https://platform.openai.com" >}} để tạo tài khoản (dùng email của bạn để tạo tài khoản chứ không dùng chức năng login với Google nhé).
 
-Tạo tài khoản xong, bạn vào email để lấy link kích hoạt. Bấm vào link kích hoạt ở email sẽ hiện ra trang nhập tên, nhập tên xong thì cần xác thực số điện thoại. Đến bước này chúng ta sẽ cần một số điện thoại nước ngoài để nhận OTP. Có nhiều dịch vụ cho thuê số điện thoại hoặc nhận SMS online. Ở đây mình dùng dịch vụ của {{< link link="https://sms-activate.org/" text="https://sms-activate.org" >}} vì giá rẻ (chỉ từ 2k - 5k VNĐ) và dễ sử dụng (nếu đọc bài viết này 😂).
+Tạo tài khoản xong, bạn vào email để lấy link kích hoạt. Bấm vào link kích hoạt ở email sẽ hiện ra trang nhập tên, nhập tên xong thì cần xác thực số điện thoại. Đến bước này chúng ta sẽ cần một số điện thoại nước ngoài để nhận OTP. Có nhiều dịch vụ cho thuê số điện thoại hoặc nhận SMS online. Ở đây mình dùng dịch vụ của {{< link link="https://sms-activate.org/" text="https://sms-activate.org" >}} vì giá rẻ (chỉ khoảng 3k VNĐ 1 số điện thoại) và dễ sử dụng (nếu đọc bài viết này 😂).
 
 Các bạn đăng ký tài khoản trên {{< link link="https://sms-activate.org/" text="https://sms-activate.org" >}}, sau đó vào nạp tiền (nạp mức tối thiểu là được). Trang này hỗ trợ khá nhiều phương thức thanh toán (có cả crypto), mình thì sử dụng thẻ Visa và thanh toán qua cổng Stripe.
 
@@ -34,7 +34,7 @@ Các bạn đăng ký tài khoản trên {{< link link="https://sms-activate.org
 
 {{< figure src="/images/sms-activate-chon-phuong-thuc-thanh-toan.png" alt="Chọn phương thức thanh toán trên sms-activate.org" title="Chọn phương thức thanh toán phù hợp để nạp tiền" >}}
 
-Sau khi nạp tiền xong chúng ta sẽ thuê một số điện thoại để nhận OTP. Chọn dịch vụ `OpenAI` bên trái và chọn một quốc gia để thuê số điện thoại. Chú ý quốc gia nào có `0 pcs` tức là hết số điện thoại.
+Sau khi nạp tiền xong (chỉ cần nạp mức tối thiểu của phương thức thanh toán là đủ), chúng ta sẽ thuê một số điện thoại để nhận OTP. Chọn dịch vụ `OpenAI` bên trái và chọn một quốc gia để thuê số điện thoại. Chú ý quốc gia nào có `0 pcs` tức là hết số điện thoại, còn số bên cạnh là giá tiền, trung bình vào khoảng 10 Rub 1 số điện thoại (bằng giá tiền 1 cốc trà đá 😁).
 
 {{< figure src="/images/sms-activate-chon-dich-vu-open-ai.png" alt="Chọn dịch vụ OpenAI trên sms-activate.org" title="Chọn dịch vụ OpenAI" >}}
 
