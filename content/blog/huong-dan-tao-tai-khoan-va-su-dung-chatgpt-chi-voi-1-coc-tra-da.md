@@ -22,7 +22,7 @@ Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản ch
 
 Hiện tại Chat GPT không cho phép tạo tài khoản ở Việt Nam, do đó để tạo được tài khoản thì chúng ta sẽ cần đổi địa chỉ IP (chỉ cần đổi khi tạo tài khoản). Các bạn có thể dùng các extension VPN free, ví dụ trên Chrome thì mình dùng {{< link link="https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno" text="Extension VeePN" >}}. Đơn giản chỉ việc cài extension lên và chọn location, sau đó bật lên để đổi địa chỉ IP sang location vừa chọn.
 
-{{< figure src="/images/su-dung-veepn.png" alt="" title="Ví dụ đổi location sang Netherlands" >}}
+{{< figure src="/images/su-dung-veepn.png" alt="Sử dụng Veepn" title="Ví dụ đổi location sang Netherlands" >}}
 
 Sau khi bật VPN thì chúng ta sẽ truy cập vào {{< link link="https://platform.openai.com/signup" text="https://platform.openai.com" >}} để tạo tài khoản (dùng email của bạn để tạo tài khoản chứ không dùng chức năng login với Google nhé).
 
