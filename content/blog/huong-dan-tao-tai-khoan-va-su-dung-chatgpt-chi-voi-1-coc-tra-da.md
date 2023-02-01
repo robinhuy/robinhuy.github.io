@@ -14,6 +14,12 @@ Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản ch
 
 ## Tạo tài khoản Chat GPT
 
+**Tóm tắt các bước**:
+1. *Đăng ký tài khoản Chat GPT (dùng VPN).*
+2. *Thuê 1 số điện thoại nước ngoài để nhận SMS OTP.*
+3. *Nhập OTP để xác thực số điện thoại.*
+4. *Đăng nhập và sử dụng: {{< link link="https://chat.openai.com/" text="https://chat.openai.com" >}}.*
+
 Hiện tại Chat GPT không cho phép tạo tài khoản ở Việt Nam, do đó để tạo được tài khoản thì chúng ta sẽ cần đổi địa chỉ IP (chỉ cần đổi khi tạo tài khoản). Các bạn có thể dùng các extension VPN free, ví dụ trên Chrome thì mình dùng {{< link link="https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno" text="Extension VeePN" >}}. Đơn giản chỉ việc cài extension lên và chọn location, sau đó bật lên để đổi địa chỉ IP sang location vừa chọn.
 
 {{< figure src="/images/su-dung-veepn.png" alt="" title="Ví dụ đổi location sang Netherlands" >}}
@@ -34,7 +40,7 @@ Sau khi nạp tiền xong chúng ta sẽ thuê một số điện thoại để 
 
 {{< figure src="/images/sms-activate-thue-so-dien-thoai.png" alt="Thuê số điện thoại trên sms-activate.org" title="Thuê số điện thoại bằng cách bấm vào giỏ hàng bên cạnh quốc gia đó" >}}
 
-Sau khi thuê xong 1 số điện thoại, chúng ta sẽ có 20 phút để nhận OTP. 
+Sau khi thuê xong 1 số điện thoại, chúng ta sẽ có 20 phút để nhận OTP. Nếu trong thời gian này chờ lâu mà không nhận được OTP thì có thể **cancel** (chữ X ở góc phải) để thuê số khác (không mất tiền).
 
 {{< figure src="/images/sms-activate-nhan-sms-otp.png" alt="Nhận SMS từ số điện thoại trên sms-activate.org" title="Copy số điện thoại vừa thuê để xác thực tài khoản Chat GPT" >}}
 
