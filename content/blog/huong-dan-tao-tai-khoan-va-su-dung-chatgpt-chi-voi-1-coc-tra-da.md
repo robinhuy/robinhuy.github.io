@@ -2,7 +2,7 @@
 title: "Hướng dẫn tạo tài khoản và sử dụng Chat GPT chỉ với 1 cốc trà đá"
 date: 2023-02-01
 draft: false
-images: ["/images/redux-toolkit.jpg"]
+images: ["/images/chat-gpt.jpg"]
 tags: ["AI"]
 ---
 
@@ -64,6 +64,6 @@ Chat GPT cũng có thể sử dụng như Google Search, khi search trên Google
 - {{< link link="https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki" text="Promptheus - Converse with ChatGPT" >}}: Thêm tính năng sử dụng giọng nói để chat thay vì gõ text.
 - {{< link link="https://github.com/liady/ChatGPT-pdf" text="ChatGPT PDF" >}}: Export lịch sử Chat GPT thành file PNG, PDF hoặc tạo link chia sẻ (extension này cài bằng source code vì chưa có trên store).
 
-### Chia sẻ một số tài khoản Chat GPT miễn phí
+### Chia sẻ tài khoản Chat GPT miễn phí
 
 {{< link link="https://cutt.ly/chandat-chatGPT" text="https://cutt.ly/chandat-chatGPT" >}}
