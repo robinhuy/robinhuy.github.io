@@ -16,7 +16,7 @@ const checkImageLoaded = () => {
 
   if (imageLoadedCount === imagesInPage.length) {
     headingElementsOffsetTop.length = 0;
-    console.log("All images loaded!");
+
     headingElements.forEach((element) => {
       headingElementsOffsetTop.push(element.offsetTop);
     });
