@@ -1,4 +1,4 @@
-const HIGHLIGHT_OFFSET = 20;
+const HIGHLIGHT_OFFSET = 50;
 const anchorElements = document.querySelectorAll(".toc-body ul li a");
 const headingElements = document.querySelectorAll(
   ".post-content h2, .post-content h3, .post-content h4"
@@ -7,6 +7,31 @@ const headingElementsOffsetTop = [];
 headingElements.forEach((element) => {
   headingElementsOffsetTop.push(element.offsetTop);
 });
+
+// Check when all images in page loaded
+let imagesInPage = document.images,
+  imageLoadedCount = 0;
+const checkImageLoaded = () => {
+  imageLoadedCount++;
+
+  if (imageLoadedCount === imagesInPage.length) {
+    headingElementsOffsetTop.length = 0;
+    console.log("All images loaded!");
+    headingElements.forEach((element) => {
+      headingElementsOffsetTop.push(element.offsetTop);
+    });
+  }
+};
+
+// Update heading positions when all images in page loaded
+[].forEach.call(imagesInPage, function (img) {
+  if (img.complete) {
+    checkImageLoaded();
+  } else {
+    img.addEventListener("load", checkImageLoaded, false);
+  }
+});
+
 const highlightIndex = (index) => {
   currentHeadingIndex = index;
 
