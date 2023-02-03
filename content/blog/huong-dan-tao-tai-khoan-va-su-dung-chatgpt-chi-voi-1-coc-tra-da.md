@@ -34,7 +34,7 @@ Các bạn đăng ký tài khoản trên {{< link link="https://sms-activate.org
 
 {{< figure src="/images/sms-activate-chon-phuong-thuc-thanh-toan.png" alt="Chọn phương thức thanh toán trên sms-activate.org" title="Chọn phương thức thanh toán phù hợp để nạp tiền" >}}
 
-Sau khi nạp tiền xong (chỉ cần nạp mức tối thiểu của phương thức thanh toán là đủ), chúng ta sẽ thuê một số điện thoại để nhận OTP. Chọn dịch vụ `OpenAI` bên trái và chọn một quốc gia để thuê số điện thoại. Chú ý quốc gia nào có `0 pcs` tức là hết số điện thoại, còn số bên cạnh là giá tiền, trung bình vào khoảng 10 Rub 1 số điện thoại (bằng giá tiền 1 cốc trà đá 😁).
+Sau khi nạp tiền xong, chúng ta sẽ thuê một số điện thoại để nhận OTP. Các bạn chỉ cần nạp một số tiền bằng mức tối thiểu của phương thức thanh toán mà mình chọn là đủ, hoặc nạp hẳn **1$** đăng ký tài khoản cho bạn bè luôn. Chọn dịch vụ `OpenAI` bên trái và chọn một quốc gia để thuê số điện thoại. Chú ý quốc gia nào có `0 pcs` tức là hết số điện thoại, còn số bên cạnh là giá tiền, trung bình vào khoảng 10 Rub 1 số điện thoại (khoảng 3000 VNĐ, bằng giá tiền 1 cốc trà đá 😁).
 
 {{< figure src="/images/sms-activate-chon-dich-vu-open-ai.png" alt="Chọn dịch vụ OpenAI trên sms-activate.org" title="Chọn dịch vụ OpenAI" >}}
 
