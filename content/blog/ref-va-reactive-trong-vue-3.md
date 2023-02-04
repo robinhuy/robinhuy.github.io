@@ -6,7 +6,7 @@ images: ["/images/vue-3-ref-vs-reactive.png"]
 tags: ["Vue 3"]
 ---
 
-Trong Vue 3 có hai {{< link link="https://vuejs.org/api/reactivity-core.html" text="Reactivity API" >}} mà dễ làm newbie gây nhầm lẫn khi sử dụng đó là **ref()** và **reactive()**. Bài viết này mình sẽ hướng dẫn cách sử dụng 2 API trên, kèm một số so sánh với Vue 2 cho những ai mới chuyển từ Vue 2 lên Vue 3.
+Trong Vue 3 có hai {{< link link="https://vuejs.org/api/reactivity-core.html" text="Reactivity API" >}} mà dễ làm newbie gây nhầm lẫn khi sử dụng đó là {{< link link="https://vuejs.org/api/reactivity-core.html#ref" text="ref" >}} và {{< link link="https://vuejs.org/api/reactivity-core.html#reactive" text="reactive" >}}. Bài viết này mình sẽ hướng dẫn cách sử dụng 2 API trên, kèm một số so sánh với Vue 2 cho những ai mới chuyển từ Vue 2 lên Vue 3.
 
 ## Ref
 
