@@ -75,19 +75,19 @@ import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
 
 export default function Login() {
-// Khởi tạo state lưu giá trị người dùng nhập vào ô input username
-const [username, setUsername] = useState("");
+  // Khởi tạo state lưu giá trị người dùng nhập vào ô input username
+  const [username, setUsername] = useState("");
 
-// Sử dụng hook useHistory() của react-router-dom để chuyển hướng người dùng sang trang khác
-const history = useHistory();
+  // Sử dụng hook useHistory() của react-router-dom để chuyển hướng người dùng sang trang khác
+  const history = useHistory();
 
-// Hàm xử lý khi người dùng bấm nút login
-function handleLogin() {
-    // Chuyển hướng họ sang trang dashboard
-    history.push("/dashboard");
-}
+  // Hàm xử lý khi người dùng bấm nút login
+  function handleLogin() {
+      // Chuyển hướng họ sang trang dashboard
+      history.push("/dashboard");
+  }
 
-return (
+  return (
     <>
       <h1>Login</h2>
       <input
@@ -98,7 +98,7 @@ return (
       />{" "}
       <button onClick={handleLogin}>Login</button>
     </>
-);
+  );
 }
 ```
 
@@ -109,13 +109,13 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 export default function Dashboard() {
-return (
+  return (
     <>
       <h1>Dashboard</h2>
       <h2>Welcome Guest</h2>
       <Link to="/login">Log out</Link>
     </>
-);
+  );
 }
 ```
 
@@ -219,10 +219,10 @@ const history = useHistory();
 const dispatch = useDispatch();
 
 function handleLogin() {
-    // Dispatch action updateUsername vào store, action này có payload (dữ liệu đi kèm) là username
-    dispatch(updateUsername(username));
+  // Dispatch action updateUsername vào store, action này có payload (dữ liệu đi kèm) là username
+  dispatch(updateUsername(username));
 
-    history.push("/dashboard");
+  history.push("/dashboard");
 }
 
 ...
@@ -243,7 +243,7 @@ reducers: {
 }
 ```
 
-\_Chú ý là khi cập nhật state chúng ta có thể thay đổi trực tiếp state chứ không như khi dùng local state trong Component, đó là do Redux Toolkit sử dụng thêm thư viện [immer](https://github.com/immerjs/immer). Và ở trong các reducer này chúng ta chỉ viết code sync chứ không viết code async. Để viết code async các bạn tham khảo bài viết sau [Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit](/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit) hoặc [Hướng dẫn sử dụng RTK Query trong Redux Toolkit](/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit).
+Chú ý là khi cập nhật state chúng ta có thể thay đổi trực tiếp state chứ không như khi dùng local state trong Component, đó là do Redux Toolkit sử dụng thêm thư viện [immer](https://github.com/immerjs/immer). Và ở trong các reducer này chúng ta chỉ viết code sync chứ không viết code async. Để viết code async các bạn tham khảo bài viết sau [Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit](/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit) hoặc [Hướng dẫn sử dụng RTK Query trong Redux Toolkit](/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit).
 
 Tiếp theo sửa lại Dashboard component để hiển thị giá trị state **username** ra ngoài màn hình:
 
@@ -269,7 +269,7 @@ return (
 
       <Link to="/login">Log out</Link>
     </>
-);
+  );
 }
 ```
 
