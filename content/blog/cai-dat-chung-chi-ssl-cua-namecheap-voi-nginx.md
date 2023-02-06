@@ -9,7 +9,7 @@ Bài trước mình đã hướng dẫn cách [tạo chứng chỉ SSL miễn ph
 
 **Đăng ký dịch vụ của Namecheap**
 
-Đầu tiên chúng ta sẽ cần đăng ký tài khoản tại Namecheap và chọn 1 loại chứng chỉ phù hợp [https://www.namecheap.com/security/ssl-certificates.aspx](https://www.namecheap.com/security/ssl-certificates.aspx)
+Đầu tiên chúng ta sẽ cần đăng ký tài khoản tại Namecheap và chọn 1 loại chứng chỉ phù hợp {{< link link="https://www.namecheap.com/security/ssl-certificates.aspx" text="https://www.namecheap.com/security/ssl-certificates.aspx" >}}.
 
 Sau khi đã thanh toán, truy cập vào Dashboard để active dịch vụ
 
