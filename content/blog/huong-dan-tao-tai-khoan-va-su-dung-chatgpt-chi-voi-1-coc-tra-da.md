@@ -1,26 +1,26 @@
 ---
-title: "Hướng dẫn tạo tài khoản và sử dụng Chat GPT chỉ với 1 cốc trà đá"
+title: "Hướng dẫn tạo tài khoản và sử dụng ChatGPT chỉ với 1 cốc trà đá"
 date: 2023-02-01
 draft: false
 images: ["/images/chat-gpt.jpg"]
-tags: ["AI"]
+tags: ["AI", "ChatGPT"]
 ---
 
-Dạo này Chat GPT đang rất hot, được thần thành hóa lên quá khiến nhiều người lo sợ nó sẽ "cướp" mất công việc của mình. Vậy Chat GPT cụ thể là gì, dùng như nào?
+Dạo này ChatGPT đang rất hot, được thần thành hóa lên quá khiến nhiều người lo sợ nó sẽ "cướp" mất công việc của mình. Vậy ChatGPT cụ thể là gì, dùng như nào?
 
-![Chat GPT là gì?](/images/chat-gpt-la-gi.png)
+![ChatGPT là gì?](/images/chat-gpt-la-gi.png)
 
-Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản cho riêng mình và trải nghiệm thử Chat GPT, một công cụ khá hữu ích nếu bạn sử dụng đúng cách. Còn nếu muốn trải nghiệm nhanh thì các bạn có thể kéo xuống cuối bài viết để lấy một số tài khoản free được chia sẻ trên mạng (dùng chung cho nhiều người).
+Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản cho riêng mình và trải nghiệm thử ChatGPT, một công cụ khá hữu ích nếu bạn sử dụng đúng cách. Còn nếu muốn trải nghiệm nhanh thì các bạn có thể kéo xuống cuối bài viết để lấy một số tài khoản free được chia sẻ trên mạng (dùng chung cho nhiều người).
 
-## Tạo tài khoản Chat GPT
+## Tạo tài khoản ChatGPT
 
 **Tóm tắt các bước**:
-1. *Đăng ký tài khoản Chat GPT (dùng VPN).*
+1. *Đăng ký tài khoản ChatGPT (dùng VPN).*
 2. *Thuê 1 số điện thoại nước ngoài để nhận SMS OTP.*
 3. *Nhập OTP để xác thực số điện thoại.*
 4. *Đăng nhập và sử dụng: {{< link link="https://chat.openai.com/" text="https://chat.openai.com" >}}.*
 
-Hiện tại Chat GPT không cho phép tạo tài khoản ở Việt Nam, do đó để tạo được tài khoản thì chúng ta sẽ cần đổi địa chỉ IP (chỉ cần đổi khi tạo tài khoản). Các bạn có thể dùng các extension VPN free, ví dụ trên Chrome thì mình dùng {{< link link="https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno" text="Extension VeePN" >}}. Đơn giản chỉ việc cài extension lên và chọn location, sau đó bật lên để đổi địa chỉ IP sang location vừa chọn.
+Hiện tại ChatGPT không cho phép tạo tài khoản ở Việt Nam, do đó để tạo được tài khoản thì chúng ta sẽ cần đổi địa chỉ IP (chỉ cần đổi khi tạo tài khoản). Các bạn có thể dùng các extension VPN free, ví dụ trên Chrome thì mình dùng {{< link link="https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno" text="Extension VeePN" >}}. Đơn giản chỉ việc cài extension lên và chọn location, sau đó bật lên để đổi địa chỉ IP sang location vừa chọn.
 
 {{< figure src="/images/su-dung-veepn.png" alt="Sử dụng Veepn" title="Ví dụ đổi location sang Netherlands" >}}
 
@@ -42,34 +42,34 @@ Sau khi nạp tiền xong, chúng ta sẽ thuê một số điện thoại để
 
 Sau khi thuê xong 1 số điện thoại, chúng ta sẽ có 20 phút để nhận OTP. Nếu trong thời gian này chờ lâu mà không nhận được OTP thì có thể **cancel** (chữ X ở góc phải) để thuê số khác (không mất tiền).
 
-{{< figure src="/images/sms-activate-nhan-sms-otp.png" alt="Nhận SMS từ số điện thoại trên sms-activate.org" title="Copy số điện thoại vừa thuê để xác thực tài khoản Chat GPT" >}}
+{{< figure src="/images/sms-activate-nhan-sms-otp.png" alt="Nhận SMS từ số điện thoại trên sms-activate.org" title="Copy số điện thoại vừa thuê để xác thực tài khoản ChatGPT" >}}
 
-Quay lại trang đăng ký tài khoản Chat GPT và nhập số điện thoại đã thuê để lấy OTP. 
+Quay lại trang đăng ký tài khoản ChatGPT và nhập số điện thoại đã thuê để lấy OTP. 
 
-{{< figure src="/images/chat-gpt-verify-phone-number.png" alt="Chat GPT verify phone number" title="Nhập số điện thoại đã thuê để nhận OTP (chú ý bỏ mã quốc gia ở đầu)" >}}
+{{< figure src="/images/chat-gpt-verify-phone-number.png" alt="ChatGPT verify phone number" title="Nhập số điện thoại đã thuê để nhận OTP (chú ý bỏ mã quốc gia ở đầu)" >}}
 
 Chờ OTP gửi về thì copy và paste vào phần `Enter code` là hoàn tất việc đăng ký.
 
-{{< figure src="/images/chat-gpt-enter-otp-code.png" alt="Chat GPT enter OTP code" title="Nhập mã OTP nhận được qua số điện thoại để xác thực" >}}
+{{< figure src="/images/chat-gpt-enter-otp-code.png" alt="ChatGPT enter OTP code" title="Nhập mã OTP nhận được qua số điện thoại để xác thực" >}}
 
 Đăng ký xong, phần mục đích sử dụng các bạn chọn `I'm exploring personal use` hoặc truy cập link này để sử dụng {{< link link="https://chat.openai.com/" text="https://chat.openai.com" >}} (lúc này có thể tắt VPN đi cho mạng đỡ chậm).
 
-## Sử dụng Chat GPT
+## Sử dụng ChatGPT
 
-Sử dụng Chat GPT rất đơn giản, bạn chỉ cần nhập câu hỏi hoặc yêu cầu vào khung chat và chờ bot phản hồi. Có thể sử dụng Tiếng Anh hoặc Tiếng Việt đều được, nhưng Tiếng Anh sẽ ra kết quả chính xác hơn.
+Sử dụng ChatGPT rất đơn giản, bạn chỉ cần nhập câu hỏi hoặc yêu cầu vào khung chat và chờ bot phản hồi. Có thể sử dụng Tiếng Anh hoặc Tiếng Việt đều được, nhưng Tiếng Anh sẽ ra kết quả chính xác hơn.
 
 Ngoài ra bạn có thể lưu lại các đoạn chat này theo chủ đề, đặt tên cho nó để sau này xem lại (giống như lưu tài liệu vậy).
 
-![Sử dụng Chat GPT](/images/su-dung-chat-gpt.png)
+![Sử dụng ChatGPT](/images/su-dung-chat-gpt.png)
 
-Chat GPT cũng có thể sử dụng như Google Search, khi search trên Google thì kết quả trả về sẽ mới hơn nhưng cũng nhiều hơn, dùng Chat GPT sẽ ra kết quả sau khi được chọn lọc nên trong một số trường hợp sẽ nhanh hơn search Google.
+ChatGPT cũng có thể sử dụng như Google Search, khi search trên Google thì kết quả trả về sẽ mới hơn nhưng cũng nhiều hơn, dùng ChatGPT sẽ ra kết quả sau khi được chọn lọc nên trong một số trường hợp sẽ nhanh hơn search Google.
 
-### Một số extension giúp bạn sử dụng Chat GPT tiện hơn
+### Một số extension giúp bạn sử dụng ChatGPT tiện hơn
 
-- {{< link link="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" text="ChatGPT for Google" >}}: Tích hợp Chat GPT vào Google search, khi search ngoài hiển thị kết quả từ Google còn hiển thị cả kết quả từ Chat GPT ở bên cạnh.
+- {{< link link="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" text="ChatGPT for Google" >}}: Tích hợp ChatGPT vào Google search, khi search ngoài hiển thị kết quả từ Google còn hiển thị cả kết quả từ ChatGPT ở bên cạnh.
 - {{< link link="https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki" text="Promptheus - Converse with ChatGPT" >}}: Thêm tính năng sử dụng giọng nói để chat thay vì gõ text.
-- {{< link link="https://github.com/liady/ChatGPT-pdf" text="ChatGPT PDF" >}}: Export lịch sử Chat GPT thành file PNG, PDF hoặc tạo link chia sẻ (extension này cài bằng source code vì chưa có trên store).
+- {{< link link="https://github.com/liady/ChatGPT-pdf" text="ChatGPT PDF" >}}: Export lịch sử ChatGPT thành file PNG, PDF hoặc tạo link chia sẻ (extension này cài bằng source code vì chưa có trên store).
 
-### Chia sẻ tài khoản Chat GPT miễn phí
+### Chia sẻ tài khoản ChatGPT miễn phí
 
 {{< link link="https://cutt.ly/chandat-chatGPT" text="https://cutt.ly/chandat-chatGPT" >}}
