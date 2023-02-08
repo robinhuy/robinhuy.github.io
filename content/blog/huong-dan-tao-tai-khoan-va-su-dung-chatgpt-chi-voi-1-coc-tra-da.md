@@ -8,9 +8,9 @@ tags: ["AI", "OpenAI", "ChatGPT"]
 
 Dạo này ChatGPT đang rất hot, được thần thành hóa lên quá khiến nhiều người lo sợ nó sẽ "cướp" mất công việc của mình. Vậy ChatGPT cụ thể là gì, dùng như nào?
 
-![ChatGPT là gì?](/images/chat-gpt-la-gi.png)
+![ChatGPT là gì?](/images/ai-thap-nien-90.jpg)
 
-Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản cho riêng mình và trải nghiệm thử ChatGPT, một công cụ khá hữu ích nếu bạn sử dụng đúng cách. Còn nếu muốn trải nghiệm nhanh thì các bạn có thể kéo xuống cuối bài viết để lấy một số tài khoản free được chia sẻ trên mạng (dùng chung cho nhiều người).
+Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản cho riêng mình và trải nghiệm thử ChatGPT, một công cụ khá hữu ích nếu bạn sử dụng đúng cách. Trên mạng có chia sẻ một số tài khoản miễn phí nhưng sẽ hay bị lỗi do có nhiều người truy cập. Các bạn nên tự tạo tài khoản email chính chủ, vì tài khoản này còn dùng được nhiều dịch vụ khác của OpenAI (mình sẽ hướng dẫn thêm ở các bài viết khác).
 
 ## Tạo tài khoản ChatGPT
 

@@ -11,9 +11,10 @@ enter keyword or description
 dalle
 50 credit thang dau tien, moi thang them 15 va chi dung trong thang do
 Mỗi lần generate hoặc edit là 1 credit
-co the mua them credit
+co the mua them credit, credit mua them co han trong 12 thang
 
 
 midjouney
 
 con này có từ lâu rồi nhưng giờ mới có thời gian viết
+
