@@ -8,7 +8,7 @@ tags: ["AI", "OpenAI", "ChatGPT"]
 
 Dạo này ChatGPT đang rất hot, được thần thành hóa lên quá khiến nhiều người lo sợ nó sẽ "cướp" mất công việc của mình. Vậy ChatGPT cụ thể là gì, dùng như nào?
 
-![ChatGPT là gì?](/images/ai-thap-nien-90.jpg)
+{{< figure src="/images/ai-thap-nien-90.jpg" alt="ChatGPT thập niên 90 😂" title="ChatGPT thập niên 90 😂" >}}
 
 Bài viết này mình sẽ hướng dẫn các bạn tự tạo tài khoản cho riêng mình và trải nghiệm thử ChatGPT, một công cụ khá hữu ích nếu bạn sử dụng đúng cách. Trên mạng có chia sẻ một số tài khoản miễn phí nhưng sẽ hay bị lỗi do có nhiều người truy cập. Các bạn nên tự tạo tài khoản email chính chủ, vì tài khoản này còn dùng được nhiều dịch vụ khác của OpenAI (mình sẽ hướng dẫn thêm ở các bài viết khác).
 
@@ -64,12 +64,8 @@ Ngoài ra bạn có thể lưu lại các đoạn chat này theo chủ đề, đ
 
 ChatGPT cũng có thể sử dụng như Google Search, khi search trên Google thì kết quả trả về sẽ mới hơn nhưng cũng nhiều hơn, dùng ChatGPT sẽ ra kết quả sau khi được chọn lọc nên trong một số trường hợp sẽ nhanh hơn search Google.
 
-### Một số extension giúp bạn sử dụng ChatGPT tiện hơn
+**Một số extension giúp bạn sử dụng ChatGPT tiện hơn:**
 
 - {{< link link="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" text="ChatGPT for Google" >}}: Tích hợp ChatGPT vào Google search, khi search ngoài hiển thị kết quả từ Google còn hiển thị cả kết quả từ ChatGPT ở bên cạnh.
 - {{< link link="https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki" text="Promptheus - Converse with ChatGPT" >}}: Thêm tính năng sử dụng giọng nói để chat thay vì gõ text.
 - {{< link link="https://github.com/liady/ChatGPT-pdf" text="ChatGPT PDF" >}}: Export lịch sử ChatGPT thành file PNG, PDF hoặc tạo link chia sẻ (extension này cài bằng source code vì chưa có trên store).
-
-### Chia sẻ tài khoản ChatGPT miễn phí
-
-{{< link link="https://cutt.ly/chandat-chatGPT" text="https://cutt.ly/chandat-chatGPT" >}}
