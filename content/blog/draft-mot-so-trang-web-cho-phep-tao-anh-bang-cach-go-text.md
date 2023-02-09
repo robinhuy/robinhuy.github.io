@@ -2,6 +2,7 @@
 title: "Một số trang web cho phép tạo ảnh bằng cách gõ text"
 date: 2023-02-09
 draft: true
+images: ["/images/deep-ai-generate-image.png"]
 tags: ["AI"]
 ---
 
@@ -17,22 +18,30 @@ Ngồi chờ khoảng 1 phút, AI sẽ tạo ngẫu nhiên cho bạn 1 bức ả
 
 Nếu vừa ý, bạn có thể bấm vào **Download** để tải ảnh về xài, hoặc bấm vào **Enhance** để phóng to ảnh lên. Nếu không thì nhập lại mô tả và **Generate** lại cho đến khi vừa ý.
 
-![DeepAI generate image](images/deep-ai-generate-image.png)
+![DeepAI generate image](/images/deep-ai-generate-image.png)
 
 Ngoài các chức năng free, bạn có thể đăng nhập và đăng ký các gói PRO để có nhiều chức năng hơn như: Private style, Private image generation, API access (cho developer), ...
 
-## 2. DALL-E
+## 2. Stable Diffusion
 
-enter keyword or description
--> generate variant
+Cách dùng tương tự DeepAI, tuy nhiên không có chọn style và mỗi lần tạo ảnh sẽ tạo ra 1 bộ 4 ảnh.
 
-dalle
-50 credit thang dau tien, moi thang them 15 va chi dung trong thang do
-Mỗi lần generate hoặc edit là 1 credit
-co the mua them credit, credit mua them co han trong 12 thang
+![Stable Diffusion Playground](/images/stable-diffusion-playground.png)
 
-nightcafe.studio
+Ngoài ra, trang này dùng hoàn toàn miễn phí và không cần đăng nhập.
 
-midjouney
+## 3. DALL-E
 
-con này có từ lâu rồi nhưng giờ mới có thời gian viết
+Một sản phẩm khác của OpenAI, dùng chung tài khoản với ChatGPT, nên nếu bạn chưa có tài khoản thì có thể tham khảo [bài viết này](/blog/huong-dan-tao-tai-khoan-va-su-dung-chatgpt-chi-voi-1-coc-tra-da) để đăng ký.
+
+Sau khi đăng ký xong, đăng nhập vào trang web {{< link link="" text="" >}} để tạo ảnh.
+
+Cách tạo ảnh cũng tương tự 2 website trên, nhập mô tả rồi bấm **Generate** và chờ AI tạo ảnh. Kết quả mỗi lần tạo là 1 bộ 4 ảnh tương tự nhau, sau đó chúng ta có thể chọn 1 ảnh trong đó và tiếp tục tạo ảnh dựa trên ảnh gốc đã chọn (tạo ra các biến thể khác).
+
+![Dall-E generate images](/images/dall-e-generate-images.png)
+
+Chú ý đây là dịch vụ có trả phí, tuy nhiên lần đầu đăng ký chúng ta sẽ có **50 credit** để sử dụng trong vòng 1 tháng (tương đương với 50 lần tạo ảnh hoặc chỉnh sửa ảnh). Sau đó mỗi tháng chúng ta sẽ có thêm **15 credit** hạn sử dụng 1 tháng (hết hạn tự biến mất). Nếu bạn muốn tạo nhiều ảnh hơn thì có thể nạp tiền vào tài khoản để mua thêm **credit** (hạn 12 tháng).
+
+## 4. Midjourney
+
+Con AI này đã có từ lâu và khá là hot (vì nó vẽ đẹp 😅). Tuy nhiên nó chỉ miễn phí 50 lần generate, sau đó sẽ phải nạp tiền vào để sử dụng tiếp (hoặc bạn tạo tài khoản mới để có thêm 50 lần miễn phí).
