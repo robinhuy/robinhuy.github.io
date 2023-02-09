@@ -68,7 +68,7 @@ export default {
 </script>
 ```
 
-Để hiểu rõ hơn về nguyên lý hoạt động của **ref()**, các bạn nên tìm hiểu thêm về [Proxy trong Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy).
+Để hiểu rõ hơn về nguyên lý hoạt động của **ref()**, các bạn nên tìm hiểu thêm về {{< link link="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy" text="Proxy trong Javascript" >}}.
 
 **Một số chú ý về ref():**
 
