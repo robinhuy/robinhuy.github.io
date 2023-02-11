@@ -7,7 +7,7 @@ tags: ["Go"]
 
 _Phần trước: [Học Go cấp tốc Phần 1: Packages, variables và functions](/blog/hoc-go-cap-toc-phan-1-packages-variables-va-functions)._
 
-Phần tiếp theo chúng ta sẽ cùng tìm hiểu [cách điều khiển luồng (flow control)](https://tour.golang.org/flowcontrol/1) trong Go.
+Phần tiếp theo chúng ta sẽ cùng tìm hiểu {{< link link="https://tour.golang.org/flowcontrol/1" text="cách điều khiển luồng (flow control)" >}} trong Go.
 
 ![Học Go cấp tốc phần 2](/images/golang-thumb2.jpg)
 

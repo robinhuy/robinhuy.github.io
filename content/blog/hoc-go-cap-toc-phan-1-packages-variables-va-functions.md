@@ -5,9 +5,9 @@ draft: false
 tags: ["Go"]
 ---
 
-> **Go**(hay thường được gọi là Golang) là một ngôn ngữ lập trình mã nguồn mở được tạo ở Google vào năm 2009 bởi Robert Griesemer, Rob Pike, và Ken Thompson. Nó được ra đời nhằm mục đích phát triển các trang web nhanh hơn, dễ dàng hơn và đáp ứng được yêu cầu truy cập lớn. Về lịch sử ra đời cũng như giới thiệu chi tiết hơn các bạn có thể xem ở [wikipedia](<https://en.wikipedia.org/wiki/Go_(programming_language)>) 😅
+> **Go**(hay thường được gọi là Golang) là một ngôn ngữ lập trình mã nguồn mở được tạo ở Google vào năm 2009 bởi Robert Griesemer, Rob Pike, và Ken Thompson. Nó được ra đời nhằm mục đích phát triển các trang web nhanh hơn, dễ dàng hơn và đáp ứng được yêu cầu truy cập lớn. Về lịch sử ra đời cũng như giới thiệu chi tiết hơn các bạn có thể xem ở {{< link link="https://en.wikipedia.org/wiki/Go_(programming_language)" text="wikipedia" >}} 😅
 
-Để học **Go** thì chúng ta có nhiều nguồn và tài liệu khác nhau. Với những người đã biết ít nhất một ngôn ngữ lập trình thì có thể thực hành luôn theo theo [Tour Golang](https://tour.golang.org/welcome/1), nó sẽ gồm các ví dụ và bài tập mẫu mô tả các chức năng cơ bản trong **Go** và đi kèm 1 editor online để chúng ta có thể thực hành luôn mà không cần cài đặt.
+Để học **Go** thì chúng ta có nhiều nguồn và tài liệu khác nhau. Với những người đã biết ít nhất một ngôn ngữ lập trình thì có thể thực hành luôn theo theo {{< link link="https://tour.golang.org/welcome/1" text="Tour Golang" >}}, nó sẽ gồm các ví dụ và bài tập mẫu mô tả các chức năng cơ bản trong **Go** và đi kèm 1 editor online để chúng ta có thể thực hành luôn mà không cần cài đặt.
 
 Trong quá trình học theo _Tour Golang_, mình sẽ viết bài tổng kết lại một số kiến thức cơ bản, điểm khác biệt của **Go** so với các ngôn ngữ khác (có thể sẽ sử dụng ví dụ khác với nguyên mẫu). Nếu bạn muốn học **Go** và thực hành luôn trên _Tour Golang_ thì có thể tham khảo series này (hoặc có thể đọc lướt qua để có một cái nhìn tổng quát về Go).
 
@@ -17,7 +17,7 @@ Trong quá trình học theo _Tour Golang_, mình sẽ viết bài tổng kết
 
 Mọi chương trình viết từ Go đều được tạo bởi các _package_ và _package_ chính dùng để chạy là **main**.
 
-Để sử dụng các _package_ khác thì chúng ta phải **import**, ví dụ muốn in 1 đoạn text ra console thì ta phải dùng _package_ [fmt](https://golang.org/pkg/fmt/):
+Để sử dụng các _package_ khác thì chúng ta phải **import**, ví dụ muốn in 1 đoạn text ra console thì ta phải dùng _package_ {{< link link="https://golang.org/pkg/fmt/" text="fmt" >}}:
 
 ```go
 package main
@@ -31,7 +31,7 @@ func main() {
 
 ## **Variables**
 
-Cú pháp của Go tương tự C nhưng cũng có nhiều điểm khác, ví dụ không có dấu **chấm phẩy** ở cuối các câu lệnh hay kiểu dữ liệu được **khai báo ở sau tên biến**. Về việc tại sao Go lại khai báo kiểu dữ liệu ngược so với hầu hết các ngôn ngữ khác các bạn tự tìm hiểu tại đây [Go's Declaration Syntax](https://blog.golang.org/gos-declaration-syntax).
+Cú pháp của Go tương tự C nhưng cũng có nhiều điểm khác, ví dụ không có dấu **chấm phẩy** ở cuối các câu lệnh hay kiểu dữ liệu được **khai báo ở sau tên biến**. Về việc tại sao Go lại khai báo kiểu dữ liệu ngược so với hầu hết các ngôn ngữ khác các bạn tự tìm hiểu tại đây {{< link link="https://blog.golang.org/gos-declaration-syntax" text="Go's Declaration Syntax" >}}.
 
 Khai báo biến trong Go ngoài việc cú pháp hơi dị một chút, còn đâu thì vẫn tương tự như các ngôn ngữ khác:
 
@@ -50,7 +50,7 @@ var i, j int = 1, 2
 k := 3
 ```
 
-Các kiểu dữ liệu trong Go, ở phần mô tả của _Tour of Go_ có liệt kê đầy đủ: [Go basic types](https://tour.golang.org/basics/11)
+Các kiểu dữ liệu trong Go, ở phần mô tả của _Tour of Go_ có liệt kê đầy đủ: {{< link link="https://tour.golang.org/basics/11" text="Go basic types" >}}
 
 Khi khai báo biến mà không khởi tạo giá trị ban đầu cho nó thì biến đó sẽ có giá trị _**zero**_ tùy thuộc vào kiểu dữ liệu:
 

@@ -118,7 +118,7 @@ func main() {
 }
 ```
 
-Một _interface_ mà không có chứa _method_ nào thì gọi là _interface rỗng_ ( [Emtpy Interface](https://tour.golang.org/methods/14)). Interface rỗng có thể lưu mọi loại dữ liệu nên thường được dùng trong trường hợp các hàm xử lý mà cần tham số động (không biết trước kiểu dữ liệu). Ví dụ:
+Một _interface_ mà không có chứa _method_ nào thì gọi là _interface rỗng_ ({{< link link="https://tour.golang.org/methods/14" text="Emtpy Interface" >}}). Interface rỗng có thể lưu mọi loại dữ liệu nên thường được dùng trong trường hợp các hàm xử lý mà cần tham số động (không biết trước kiểu dữ liệu). Ví dụ:
 
 ```go
 package main
