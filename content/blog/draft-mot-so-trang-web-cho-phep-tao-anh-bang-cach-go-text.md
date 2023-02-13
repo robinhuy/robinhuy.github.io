@@ -6,7 +6,9 @@ images: ["/images/deep-ai-generate-image.png"]
 tags: ["AI"]
 ---
 
-Hiện có rất nhiều website và ứng dụng di động cho phép những người thường (không phải designer hay họa sĩ) cũng có thể vẽ ra những bức tranh đẹp, sử dụng được cho mục đích cá nhân (và cả thương mại). Dưới đây mình sẽ giới thiệu 1 số website mà có cho phép người dùng sử dụng `miễn phí` (với ứng dụng di động thì các bạn chờ bài viết khác nhé).
+Hiện có rất nhiều website và ứng dụng di động cho phép những người thường (không phải designer hay họa sĩ) cũng có thể vẽ ra những bức tranh đẹp, sử dụng được cho mục đích cá nhân (và cả thương mại). Để vẽ tranh lúc này chỉ cần có ý tưởng và biết Tiếng Anh để mô tả chính xác ý tưởng của mình. Tham khảo [bài viết này](/blog/chia-se-cach-hoc-tieng-anh-cho-nguoi-ngheo) để nâng trình Tiếng Anh của mình nhé.
+
+Dưới đây mình sẽ giới thiệu 1 số website mà có cho phép người dùng sử dụng `miễn phí` (với ứng dụng di động thì các bạn chờ bài viết khác kẻo bài này dài quá).
 
 ## 1. DeepAI
 
@@ -34,7 +36,7 @@ Ngoài ra, trang này dùng hoàn toàn miễn phí và không cần đăng nh�
 
 Một sản phẩm khác của OpenAI, dùng chung tài khoản với ChatGPT, nên nếu bạn chưa có tài khoản thì có thể tham khảo [bài viết này](/blog/huong-dan-tao-tai-khoan-va-su-dung-chatgpt-chi-voi-1-coc-tra-da) để đăng ký.
 
-Sau khi đăng ký xong, đăng nhập vào trang web {{< link link="" text="" >}} để tạo ảnh.
+Sau khi đăng ký xong, đăng nhập vào trang web {{< link link="https://openai.com/dall-e-2/" text="https://openai.com/dall-e-2" >}} để tạo ảnh.
 
 Cách tạo ảnh cũng tương tự 2 website trên, nhập mô tả rồi bấm **Generate** và chờ AI tạo ảnh. Kết quả mỗi lần tạo là 1 bộ 4 ảnh tương tự nhau, sau đó chúng ta có thể chọn 1 ảnh trong đó và tiếp tục tạo ảnh dựa trên ảnh gốc đã chọn (tạo ra các biến thể khác).
 
@@ -44,4 +46,12 @@ Chú ý đây là dịch vụ có trả phí, tuy nhiên lần đầu đăng ký
 
 ## 4. Midjourney
 
-Con AI này đã có từ lâu và khá là hot (vì nó vẽ đẹp 😅). Tuy nhiên nó chỉ miễn phí 50 lần generate, sau đó sẽ phải nạp tiền vào để sử dụng tiếp (hoặc bạn tạo tài khoản mới để có thêm 50 lần miễn phí).
+Con AI này đã có từ lâu và khá là hot (vì nó vẽ đẹp 😅). Tuy nhiên nó chỉ miễn phí 25 lần request, sau đó sẽ phải nạp tiền vào để sử dụng tiếp (hoặc bạn tạo tài khoản mới để có thêm 25 lần miễn phí).
+
+Để sử dụng AI này các bạn cần đăng ký tài khoản {{< link link="https://discord.com/" text="Discord" >}} trước
+
+
+
+Tài liệu hướng dẫn Tiếng Anh: 
+- {{< link link="https://docs.midjourney.com/docs/midjourney-discord" text="Midjourney Discord" >}}
+- {{< link link="https://docs.midjourney.com/docs/quick-start" text="Midjourney quick start" >}}
