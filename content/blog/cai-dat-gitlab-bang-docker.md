@@ -5,7 +5,7 @@ draft: false
 tags: ["Linux", "Gitlab", "Docker"]
 ---
 
-Ở bài trước mình có [hướng dẫn cài đặt Gitlab trên Private Server](/blog/huong-dan-cai-dat-gitlab-tren-private-server), tuy nhiên cách cài này là cài trực tiếp lên server, có thể sẽ xung đột với các gói phần mềm có sẵn như: Redis, Nginx, ... Do đó bài này chúng ta sẽ thử cài Gitlab qua [Docker](https://www.docker.com/) - một công nghệ đang rất hot trong thời điểm hiện tại.
+Ở bài trước mình có [hướng dẫn cài đặt Gitlab trên Private Server](/blog/huong-dan-cai-dat-gitlab-tren-private-server), tuy nhiên cách cài này là cài trực tiếp lên server, có thể sẽ xung đột với các gói phần mềm có sẵn như: Redis, Nginx, ... Do đó bài này chúng ta sẽ thử cài Gitlab qua {{< link link="https://www.docker.com/" text="Docker" >}} - một công nghệ đang rất hot trong thời điểm hiện tại.
 
 Việc đầu tiên chúng ta phải làm đó là cài đặt Docker, các bạn tham khảo {{< link link="https://docs.docker.com/engine/installation/" text="tại đây" >}}, hướng dẫn này rất chi tiết rồi mình sẽ không nhắc lại nữa.
 

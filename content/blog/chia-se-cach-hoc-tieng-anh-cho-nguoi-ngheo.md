@@ -62,7 +62,7 @@ Vì mục đích trước mắt của mình là học Tiếng Anh giao tiếp đ
 
 Đối với nhiều người thì ứng dụng này khá là `khủng bố`, vì 1 khi đã học mà bỏ giữa chừng nó sẽ tìm mọi cách để notify bạn (thậm chí chửi bạn 😂).
 
-Ứng dụng này có thể dùng FREE (chịu khó xem quảng cáo) hoặc thu phí (học thoải mái hơn, không cần xem quảng cáo). Nếu bạn tải app qua [link này](https://invite.duolingo.com/BDHTZTB5CWWKTPCW4SC7UAAYZI) thì sẽ được dùng bản VIP trong vài tuần (tùy từng thời điểm chạy chương trình mời bạn bè).
+Ứng dụng này có thể dùng FREE (chịu khó xem quảng cáo) hoặc thu phí (học thoải mái hơn, không cần xem quảng cáo). Nếu bạn tải app qua {{< link link="https://invite.duolingo.com/BDHTZTB5CWWKTPCW4SC7UAAYZI" text="link này" >}} thì sẽ được dùng bản VIP trong vài tuần (tùy từng thời điểm chạy chương trình mời bạn bè).
 
 Ưu điểm và nhược điểm khá giống với Elsa Speak, tuy nhiên app này nhận diện giọng nói không tốt bằng Elsa, và app thiên về học từ vựng + ngữ pháp hơn là nghe nói.
 
@@ -90,7 +90,7 @@ Trong khi học Tiếng Anh từ 2 ứng dụng trên, sẽ có những trườn
 - Youtube: {{< link link="https://www.youtube.com/@SpeakEnglishWithVanessa" text="Channel SpeakEnglishWithVanessa" >}}, {{< link link="https://www.youtube.com/@mmmEnglish_Emma" text="Channel mmmEnglish" >}}, {{< link link="https://www.youtube.com/@papateachme" text="Channel Learn English with Papa Teach Me" >}}.
 - Học những kiến thức thực tế cực kì đơn giản bằng tiếng Anh: {{< link link="https://www.bbc.co.uk/bitesize/topics/zkgscqt" text="BBC" >}}.
 - Các diễn đàn, game online dùng Tiếng Anh. Nếu học Tiếng Anh giao tiếp thì cách tốt nhất là nói chuyện trực tiếp với người nước ngoài (đừng sợ sai, nó cũng giống như mình nói chuyện với người nước ngoài nói Tiếng Việt thôi). Nếu không có bạn bè là người nước ngoài (trên mạng) thì nói chuyện với bạn bè, đồng nghiệp bằng Tiếng Anh cũng là 1 cách luyện phản xạ rất tốt.
-- Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ [như&nbsp;này](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension [Google&nbsp;Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
+- Viết blog, dịch lại các bài Tiếng Anh về chủ đề bạn yêu thích cũng là 1 cách học Tiếng Anh hiệu quả. Ví dụ ban đầu mình học Tiếng Anh bằng cách dịch các bài blog về công nghệ [như&nbsp;này](/tags/english-translated). Khi mới đầu dịch thì để cho nhanh có thể dùng thêm extension {{< link link="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb" text="Google Translate" >}} (cái này cho phép bôi đen 1 từ và dịch trực tiếp ngay trên trang web).
 
 ---
 
