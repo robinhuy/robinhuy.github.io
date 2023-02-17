@@ -5,7 +5,7 @@ draft: false
 tags: ["UI/UX", "English Translated"]
 ---
 
-*Bài viết được dịch từ [uxdesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c), có lược bớt và chỉnh sửa theo sở thích của người dịch* 😜
+*Bài viết được dịch từ {{< link link="https://uxdesign.cc/design-better-forms-96fadca0f49c" text="uxdesign.cc" >}}, có lược bớt và chỉnh sửa theo sở thích của người dịch* 😜
 
 ## Những lỗi thiết kế form và cách tối ưu
 

@@ -9,7 +9,7 @@ Không lập trình viên nào code mà không có bug. Tuy nhiên có rất nhi
 
 ## 1. Xử lý quá nhiều thứ trong một function
 
-Theo nguyên tắc [Single Responsibility](https://en.wikipedia.org/wiki/Single_responsibility_principle), một function chỉ nên thực hiện một và chỉ một nhiệm vụ duy nhất. Nhiều lập trình viên hay viết một function vừa lấy dữ liệu, xử lý dữ liệu và hiển thị dữ liệu. Thay vì như vậy, hãy chia nhỏ function này ra làm 3 function: Function lấy dữ liệu, function xử lý dữ liệu và function hiển thị dữ liệu.
+Theo nguyên tắc {{< link link="https://en.wikipedia.org/wiki/Single_responsibility_principle" text="Single Responsibility" >}}, một function chỉ nên thực hiện một và chỉ một nhiệm vụ duy nhất. Nhiều lập trình viên hay viết một function vừa lấy dữ liệu, xử lý dữ liệu và hiển thị dữ liệu. Thay vì như vậy, hãy chia nhỏ function này ra làm 3 function: Function lấy dữ liệu, function xử lý dữ liệu và function hiển thị dữ liệu.
 
 Việc giữ một function chỉ tập trung thực hiện một nhiệm vụ sẽ giúp code dễ đọc và dễ bảo trì hơn. Như ví dụ trên, giả sử API để lấy dữ liệu bị thay đổi thì ta chỉ cần cập nhật lại function lấy dữ liệu, không bị ảnh hưởng đến các thao tác ở sau.
 

@@ -63,4 +63,4 @@ Quay lại ví dụ của Duy:
 
 => Do đó việc thiết kế CSDL hay sử dụng thuộc tính nhất quán nào sẽ tùy vào yêu cầu của từng project cụ thể.
 
-_Tham khảo bài viết gốc [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)._
+_Tham khảo bài viết gốc {{< link link="https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7" text="Eventual vs Strong Consistency in Distributed Databases" >}}._
