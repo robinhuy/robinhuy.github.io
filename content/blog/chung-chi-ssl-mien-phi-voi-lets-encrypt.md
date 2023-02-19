@@ -9,13 +9,13 @@ Hiện nay hầu hết các trang web đều đã hỗ trợ SSL (Secure Socke
 
 ![techmaster.vn](/images/https-techmaster.jpg)
 
-Có nhiều loại chứng chỉ SSL cung cấp các mức độ bảo mật khác nhau. Ví dụ chúng ta có thể mua một [Chứng chỉ SSL tại Namecheap](https://techmaster.vn/posts/34327/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx) với các mức giá khác nhau tùy từng loại. Tuy nhiên trong bài viết này chúng ta sẽ chỉ nói đến loại cơ bản nhất và làm thế nào để có được nó một cách miễn phí 😁
+Có nhiều loại chứng chỉ SSL cung cấp các mức độ bảo mật khác nhau. Ví dụ chúng ta có thể mua một [Chứng chỉ SSL tại Namecheap](/blog/cai-dat-chung-chi-ssl-cua-namecheap-voi-nginx) với các mức giá khác nhau tùy từng loại. Tuy nhiên trong bài viết này chúng ta sẽ chỉ nói đến loại cơ bản nhất và làm thế nào để có được nó một cách miễn phí 😁
 
 **Một số cách để có chứng chỉ SSL miễn phí**
 
-- Sử dụng [Cloudflare](https://www.cloudflare.com/): Đây là một website cung cấp dịch vụ tăng tốc và bảo mật website, họ có cung cấp chứng chỉ SSL ở gói Free. Việc đăng ký rất dễ dàng nên mình sẽ không hướng dẫn ở đây. Chú ý là với website chỉ phục vụ người dùng tại Việt Nam thì chạy qua Cloudflare có thể sẽ chậm hơn 1 chút do sử dụng CDN server ngoài Việt Nam.
+- Sử dụng {{< link link="https://www.cloudflare.com/" text="Cloudflare" >}}: Đây là một website cung cấp dịch vụ tăng tốc và bảo mật website, họ có cung cấp chứng chỉ SSL ở gói Free. Việc đăng ký rất dễ dàng nên mình sẽ không hướng dẫn ở đây. Chú ý là với website chỉ phục vụ người dùng tại Việt Nam thì chạy qua Cloudflare có thể sẽ chậm hơn 1 chút do sử dụng CDN server ngoài Việt Nam.
 
-- Sử dụng [Let's Encrypt](https://letsencrypt.org/): Sử dụng dịch vụ này chúng ta sẽ tự tạo SSL certificate cho riêng mình và hoàn toàn miễn phí.
+- Sử dụng {{< link link="https://letsencrypt.org/" text="Let's Encrypt" >}}: Sử dụng dịch vụ này chúng ta sẽ tự tạo SSL certificate cho riêng mình và hoàn toàn miễn phí.
 
 **Cách tạo SSL certificate với Let's Encrypt**
 
@@ -30,7 +30,7 @@ $ sudo apt-get update
 $ sudo apt-get install letsencrypt
 ```
 
-hoặc làm theo hướng dẫn tại trang chủ [https://certbot.eff.org/](https://certbot.eff.org/)
+hoặc làm theo hướng dẫn tại trang chủ {{< link link="https://certbot.eff.org/" text="https://certbot.eff.org" >}}
 
 **Bước 2**: Tạo SSL certificate
 
@@ -111,7 +111,7 @@ add_header X-Frame-Options DENY;
 add_header X-Content-Type-Options nosniff;
 ```
 
-_Tham khảo cấu hình SSL bảo mật tại [https://cipherli.st/](https://cipherli.st/) và [https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)_
+_Tham khảo cấu hình SSL bảo mật tại {{< link link="https://cipherli.st/" text="https://cipherli.st" >}} và {{< link link="https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html" text="https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html" >}}_
 
 - Sửa file cấu hình cho website:
 
@@ -153,7 +153,7 @@ Chú ý thay toàn bộ _example.com_ bằng domain của mình và đường d�
 $ sudo systemctl restart nginx
 ```
 
-- Truy cập thử website để xem thành quả hoặc kiểm tra bằng trang sau [https://www.ssllabs.com/ssltest/analyze.html](https://www.ssllabs.com/ssltest/analyze.html)
+- Truy cập thử website để xem thành quả hoặc kiểm tra bằng trang sau {{< link link="https://www.ssllabs.com/ssltest/analyze.html" text="https://www.ssllabs.com/ssltest/analyze.html" >}}.
 
 **Gia hạn SSL certificate**
 
