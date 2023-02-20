@@ -28,22 +28,22 @@ Ví dụ với trường hợp Quản lý phiên làm việc:
 Cookie có thể được tạo ra từ phía Server hoặc Client. 
 ![How to create cookies](/images/cookie-ch.jpg)
 
-Khi nhận được một HTTP request, nếu muốn tạo Cookie từ server, ta sẽ trả responve về cho trình duyệt một HTTP Header với tên là [Set-Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie), giá trị là các dữ liệu cần lưu vào Cookie (theo dạng key=value) và các tùy chọn như: Loại Cookies, thời gian sống, ... Ví dụ tạo một Cookies đơn giản:
+Khi nhận được một HTTP request, nếu muốn tạo Cookie từ server, ta sẽ trả responve về cho trình duyệt một HTTP Header với tên là {{< link link="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie" text="Set-Cookie" >}}, giá trị là các dữ liệu cần lưu vào Cookie (theo dạng key=value) và các tùy chọn như: Loại Cookies, thời gian sống, ... Ví dụ tạo một Cookies đơn giản:
 
 ```
-Set-Cookie: sid=techmaster
+Set-Cookie: sid=huydq
 ```
 
 Khi trình duyệt thực hiện các request khác, nó sẽ gửi kèm dữ liệu trong Cookies trở lại server cũng qua HTTP Header với tên là **Cookie**:
 
 ```
-Cookie: sid=techmaster;
+Cookie: sid=huydq;
 ```
 
-Cookies cũng có thể được tạo, chỉnh sửa từ phía Client thông qua Javascript bằng cách sử dụng [document.cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie). Cú pháp tương tự như tạo Cookies từ phía server:
+Cookies cũng có thể được tạo, chỉnh sửa từ phía Client thông qua Javascript bằng cách sử dụng {{< link link="https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie" text="document.cookie" >}}. Cú pháp tương tự như tạo Cookies từ phía server:
 
 ```javascript
-document.cookie = "sid=techmaster;";
+document.cookie = "sid=huydq;";
 ```
 
 Để lấy ra giá trị của Cookies ta cũng chỉ cần gọi **document.cookie**.
@@ -57,17 +57,17 @@ Do Cookies thường được sử dụng để quản lý trạng thái của n
 Để bảo mật Cookies hơn thì khi tạo Cookies ta sẽ cần sử dụng thêm một số options như domain, path, ... dùng để giới hạn việc gửi Cookies chỉ cho phép theo domain và đường dẫn thiết lập trước. Ví dụ:
 
 ```
-Set-Cookie: sid=techmaster; domain=techmaster.vn; path=/auth
+Set-Cookie: sid=huydq; domain=huydq.dev; path=/auth
 ```
 
 Với các website hỗ trợ https thì ta thêm thuộc tính **secure** để đảm bảo việc gửi Cookies sẽ chỉ qua SSL, giao thức https:
 
 ```
-Set-Cookie: sid=techmaster; domain=techmaster.vn; path=/auth; secure
+Set-Cookie: sid=huydq; domain=huydq.dev; path=/auth; secure
 ```
 
-Với các dữ liệu cần bảo mật hơn (ví dụ như SessionID) thì ta sẽ chỉ thiết lập từ phía server và bổ sung thêm options [HttpOnly](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Secure_and_HttpOnly_cookies) để không cho phép truy cập dữ liệu này thông qua Javascript (document.cookie). Ví dụ:
+Với các dữ liệu cần bảo mật hơn (ví dụ như SessionID) thì ta sẽ chỉ thiết lập từ phía server và bổ sung thêm options {{< link link="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Secure_and_HttpOnly_cookies" text="HttpOnly" >}} để không cho phép truy cập dữ liệu này thông qua Javascript (document.cookie). Ví dụ:
 
 ```
-Set-Cookie: sid=techmaster; domain=techmaster.vn; path=/auth; secure; HttpOnly
+Set-Cookie: sid=huydq; domain=huydq.dev; path=/auth; secure; HttpOnly
 ```
