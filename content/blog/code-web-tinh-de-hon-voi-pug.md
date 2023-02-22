@@ -5,7 +5,7 @@ draft: false
 tags: ["View Template Engine"]
 ---
 
-_Note: [Pug](https://pugjs.org/api/getting-started.html) ở đây là 1 View Template Engine (chứ không phải tên 1 loại chó), có thể dùng ở cả phía Server lẫn Client. Trong bài viết này sẽ hướng dẫn sử dụng Pug phía client cho Frontend Dev._
+_Note: {{< link link="https://pugjs.org/api/getting-started.html" text="Pug" >}} ở đây là 1 View Template Engine (chứ không phải tên 1 loại chó), có thể dùng ở cả phía Server lẫn Client. Trong bài viết này sẽ hướng dẫn sử dụng Pug phía client cho Frontend Dev._
 
 ## Tạo khung project
 
@@ -25,9 +25,9 @@ Mặc định trong HTML không cho phép nhúng 1 file HTML khác, trừ khi d�
 
 Để sử dụng Pug chúng ta sẽ cần cài đặt lên máy qua 2 bước sau:
 
-- **Bước 1**: Cài đặt NodeJS trên trang [https://nodejs.org](https://nodejs.org/), nên chọn bản LTS (Long Term Support - Recommended for most users). Sau khi cài xong chúng ta sẽ có luôn [npm](https://www.npmjs.com/) dùng để cài các thư viện rất hữu ích trong việc phát triển web, trong đó có Pug.
+- **Bước 1**: Cài đặt NodeJS trên trang {{< link link="https://nodejs.org/" text="https://nodejs.org" >}}, nên chọn bản LTS (Long Term Support - Recommended for most users). Sau khi cài xong chúng ta sẽ có luôn {{< link link="https://www.npmjs.com/" text="npm" >}} dùng để cài các thư viện rất hữu ích trong việc phát triển web, trong đó có Pug.
 
-- **Bước 2**: Cài đặt Pug qua NPM (chú ý ở đây mình cài [pug-cli](https://github.com/pugjs/pug-cli) để chạy các lệnh của pug qua command line):
+- **Bước 2**: Cài đặt Pug qua NPM (chú ý ở đây mình cài {{< link link="https://github.com/pugjs/pug-cli" text="pug-cli" >}} để chạy các lệnh của pug qua command line):
 
 ```bash
 npm install -g pug-cli
@@ -67,6 +67,6 @@ Các trang khác thì làm tương tự trang chủ.
 
 Sau khi tạo xong các trang thì chạy lại lệnh pug như hướng dẫn phần cài đặt. Nếu đã chạy rồi thì phải tắt đi chạy lại khi có thêm file template mới bằng cách bấm **Ctrl + C**
 
-Xong phần cài đặt và thiết lập project, phần tiếp theo là học qua 1 số cú pháp cơ bản của [Pug](https://pugjs.org/api/getting-started.html) (không cần phải biết hết) và "cắt HTML CSS từ giao diện có sẵn" các bạn hãy tự làm nốt nhé, bài viết đến đây là quá dài rồi.
+Xong phần cài đặt và thiết lập project, phần tiếp theo là học qua 1 số cú pháp cơ bản của {{< link link="https://pugjs.org/api/getting-started.html" text="Pug" >}} (không cần phải biết hết) và "cắt HTML CSS từ giao diện có sẵn" các bạn hãy tự làm nốt nhé, bài viết đến đây là quá dài rồi.
 
 Happy coding!!!
