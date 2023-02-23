@@ -81,4 +81,4 @@ Hard code là nhập dữ liệu trực tiếp vào trong source code, dữ li�
 
 Trong một số trường hợp chúng ta vẫn dùng hard code, tuy nhiên nếu code của bạn bị hard code quá nhiều tức là đang có vấn đề. Thay vì hard code dữ liệu trong source code, hãy tách chúng ra bằng cách lấy dữ liệu qua file cấu hình, lấy từ cơ sở dữ liệu hoặc API, hay qua biến môi trường, …
 
-_Bài viết được biên dịch lại từ [medium.com](https://medium.com/better-programming/common-coding-mistakes-you-should-avoid-441f9e51faea)._
+_Bài viết được biên dịch lại từ {{< link link="https://medium.com/better-programming/common-coding-mistakes-you-should-avoid-441f9e51faea" text="medium.com" >}}._

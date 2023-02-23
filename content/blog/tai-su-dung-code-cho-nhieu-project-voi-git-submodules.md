@@ -12,7 +12,7 @@ Có nhiều phương pháp áp dụng như: Git Submodules, Monorepos, Bit, ... 
 
 ![Reuse code by Copy paste](/images/reusable-code-copy-paste.png)
 
-Trong bài viết này mình sẽ hướng dẫn các bạn cách sử dụng [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) cho việc tái sử dụng code.
+Trong bài viết này mình sẽ hướng dẫn các bạn cách sử dụng {{< link link="https://git-scm.com/book/en/v2/Git-Tools-Submodules" text="Git Submodules" >}} cho việc tái sử dụng code.
 
 Git Submodules cho phép tạo một (hoặc nhiều) repository bên trong repository hiện tại. Những đoạn code tái sử dụng cho nhiều project thì có thể đặt ra một repository riêng, sau đó nhúng vào trong các project cần sử dụng theo dạng Sub module.
 

@@ -7,7 +7,7 @@ tags: ["Github"]
 
 > Một mã nguồn tốt là mã nguồn có tài liệu hướng dẫn đầy đủ, dễ hiểu, giúp cho người đọc có thể dễ dàng theo dõi và sử dụng.
 
-Với các mã nguồn trên [Github](https://github.com/) (hoặc các nền tảng tương tự) thì tài liệu hướng dẫn được viết luôn trong file README.md nằm ở ngay thư mục gốc của project. File này được viết bằng cú pháp [markdown](https://en.wikipedia.org/wiki/Markdown#:~:text=Markdown%20is%20a%20lightweight%20markup,using%20a%20plain%20text%20editor.), chứ không dùng Rich text editor nên cũng sẽ có 1 số hạn chế nhất định. Trong bài viết này mình sẽ hướng dẫn các bạn cách chèn ảnh (cả ảnh tĩnh lẫn ảnh động) vào trong file README.md trên Github để giúp tài liệu hướng dẫn mã nguồn trở nên sinh động và thu hút hơn.
+Với các mã nguồn trên {{< link link="https://github.com/" text="Github" >}} (hoặc các nền tảng tương tự) thì tài liệu hướng dẫn được viết luôn trong file README.md nằm ở ngay thư mục gốc của project. File này được viết bằng cú pháp {{< link link="https://en.wikipedia.org/wiki/Markdown#:~:text=Markdown%20is%20a%20lightweight%20markup,using%20a%20plain%20text%20editor" text="markdown" >}}, chứ không dùng Rich text editor nên cũng sẽ có 1 số hạn chế nhất định. Trong bài viết này mình sẽ hướng dẫn các bạn cách chèn ảnh (cả ảnh tĩnh lẫn ảnh động) vào trong file README.md trên Github để giúp tài liệu hướng dẫn mã nguồn trở nên sinh động và thu hút hơn.
 
 ## Chèn ảnh bằng cú pháp markdown
 
@@ -44,4 +44,4 @@ Tuy nhiên trong 1 số trường hợp khi dùng ảnh to quá, chúng ta có t
 
 Dùng HTML attribute để giới hạn kích thước ảnh (ví dụ ở đây là 250px) và chỉ nên giới hạn kích thước theo chiều rộng, còn chiều cao thì để ảnh tự co giãn cho đung tỉ lệ.
 
-Các bạn có thể tham khảo file README trong repository React Native Expo Example của mình tại đây: [https://github.com/robinhuy/react-native-expo-example](https://github.com/robinhuy/react-native-expo-example) (bấm vào file, chọn Raw để xem code).
+Các bạn có thể tham khảo file README trong repository React Native Expo Example của mình tại đây: {{< link link="https://github.com/robinhuy/react-native-expo-example" text="https://github.com/robinhuy/react-native-expo-example" >}} (bấm vào file, chọn Raw để xem code).
