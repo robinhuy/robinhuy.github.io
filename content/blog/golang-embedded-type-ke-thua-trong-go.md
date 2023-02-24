@@ -7,7 +7,7 @@ tags: ["Go"]
 
 Go không phải một ngôn ngữ hướng đối tượng (OOP). Tuy nhiên chúng ta có thể áp dụng một số ưu điểm của hướng đối tượng vào trong Go.
 
-Chúng ta có [Struct](https://golang.org/ref/spec#Struct_types) (tương tự Class), [Interface](https://golang.org/ref/spec#Interface_types) và [Method](https://golang.org/ref/spec#Method_declarations). Để sử dụng thuộc tính "kế thừa" trong Go ta sẽ dùng **embedded type**.
+Chúng ta có {{< link link="https://golang.org/ref/spec#Struct_types" text="Struct" >}} (tương tự Class), {{< link link="https://golang.org/ref/spec#Interface_types" text="Interface" >}} và {{< link link="https://golang.org/ref/spec#Method_declarations" text="Method" >}}. Để sử dụng thuộc tính "kế thừa" trong Go ta sẽ dùng **embedded type**.
 
 **Embedded Type** là khai báo một *type* nằm trong một *type* khác nhưng **không khai báo tên**, trường mà không khai báo tên còn được gọi là **embedded field**. 
 
@@ -40,7 +40,7 @@ type Post struct {
 
 Bằng cách này chúng ta sẽ có thể sử dụng cả 2 Struct Post và Author mà không cần khai báo lại các trường trùng lặp.
 
-Khi lấy dữ liệu cũng có thể lấy trực tiếp mà không cần qua Struct trung gian, ví dụ lấy tên tác giả thay vì **post.Author.AuthorName** thì ta chỉ cần **post.AuthorName**. Xem ví dụ đầy đủ [tại đây](https://play.golang.org/p/JwZwU26WFdk).
+Khi lấy dữ liệu cũng có thể lấy trực tiếp mà không cần qua Struct trung gian, ví dụ lấy tên tác giả thay vì **post.Author.AuthorName** thì ta chỉ cần **post.AuthorName**. Xem ví dụ đầy đủ {{< link link="https://play.golang.org/p/JwZwU26WFdk" text="tại đây" >}}.
 
 ## Ví dụ khác
 
