@@ -5,7 +5,7 @@ draft: false
 tags: ["ReactJS"]
 ---
 
-Để quản lý State trong React Function Component, chúng ta dùng Hook [useState()](https://reactjs.org/docs/hooks-state.html).
+Để quản lý State trong React Function Component, chúng ta dùng Hook {{< link link="https://reactjs.org/docs/hooks-state.html" text="useState()" >}}.
 
 Hàm **useState** trả về 1 mảng 2 phần tử, phần tử đầu tiên là để khởi tạo state, phần tử thứ 2 là hàm để cập nhật state. Tham số truyền vào hàm useState là giá trị khởi tạo của state. Ví dụ:
 
@@ -114,7 +114,7 @@ Thay vì cập nhật state bằng cách truyền vào giá trị mới, thì ch
 setCount((prevCount) => prevCount + 1);
 ```
 
-Dùng cách này thì khi cập nhật state sẽ đảm bảo giá trị mới phụ thuộc vào giá trị cũ chứ không phụ thuộc vào giá trị của state ở thời điểm hiện tại. Tham khảo thêm [https://reactjs.org/docs/hooks-reference.html#usestate](https://reactjs.org/docs/hooks-reference.html#usestate).
+Dùng cách này thì khi cập nhật state sẽ đảm bảo giá trị mới phụ thuộc vào giá trị cũ chứ không phụ thuộc vào giá trị của state ở thời điểm hiện tại. Tham khảo thêm {{< link link="https://reactjs.org/docs/hooks-reference.html#usestate" text="https://reactjs.org/docs/hooks-reference.html#usestate" >}}.
 
 Ví dụ với ứng dụng đếm số lượt bấm nút, nếu sửa lại hàm tăng số lượt bấm thành tăng số lượt bấm sau 1 khoảng thời gian (ví dụ 3 giây).
 
@@ -166,4 +166,4 @@ export default function App() {
 
 Như vậy tùy từng trường hợp mà chúng ta sẽ lựa chọn cách sử dụng sao cho hợp lý.
 
-_Code demo: [https://codepen.io/robinhuy/pen/MWjEaYx?editors=0010](https://codepen.io/robinhuy/pen/MWjEaYx?editors=0010)._
+_Code demo: {{< link link="https://codepen.io/robinhuy/pen/MWjEaYx?editors=0010" text="https://codepen.io/robinhuy/pen/MWjEaYx?editors=0010" >}}._
