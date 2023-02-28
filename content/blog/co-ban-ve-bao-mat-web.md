@@ -42,7 +42,7 @@ Trước khi giải thích về **CORS**, chúng ta hãy cùng tìm hiểu lại
 
 Giả sử bạn đã đăng nhập vào Facebook, và họ sử dụng Authentication Cookies.
 
-Sau đó bạn click vào 1 link bất kỳ trên mạng, ví dụ [link video full 9 phút](https://huydq.dev/) và nó sẽ redirect bạn về 1 website nào đó của hacker. Website này sẽ tự động chạy 1 đoạn code Javascript để thực hiện request lên [facebook.com](https://facebook.com) có kèm theo authentication cookie của bạn!
+Sau đó bạn click vào 1 link bất kỳ trên mạng, ví dụ [link video full 9 phút](https://huydq.dev/) và nó sẽ redirect bạn về 1 website nào đó của hacker. Website này sẽ tự động chạy 1 đoạn code Javascript để thực hiện request lên {{< link link="https://facebook.com" text="facebook.com" >}} có kèm theo authentication cookie của bạn!
 
 Trong một thế giới không có CORS, hacker có thể thực hiện các thao tác trên Facebook với tài khoản của bạn mà bạn không hề hay biết. Ví dụ như đăng tin lên trên dòng thời gian của bạn kèm theo [link video full 9 phút](https://huydq.dev/), sau đó bạn bè của bạn click vào link trên và cũng thực hiện hành vi tương tự, ... Vòng lặp này cứ tiếp diễn cho đến khi toàn bộ mạng xã hội facebook đều thấy xuất hiện [link video full 9 phút](https://huydq.dev/) 😆
 
