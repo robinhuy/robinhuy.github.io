@@ -6,7 +6,7 @@ images: ["/images/redux-toolkit.jpg"]
 tags: ["ReactJS", "Redux Toolkit"]
 ---
 
-[RTK Query](https://redux-toolkit.js.org/rtk-query/overview) là một addon trong bộ thư viện Redux Toolkit. Nó giúp chúng ta thực hiện data fetching một cách đơn giản hơn thay vì sử dụng _createAsyncThunk_ để thực hiện async action. Chú ý RTK Query là dùng để _query_ (kết nối API), chứ không phải dùng để code async trong Redux thay cho _createAsyncThunk_.
+{{< link link="https://redux-toolkit.js.org/rtk-query/overview" text="RTK Query" >}} là một addon trong bộ thư viện Redux Toolkit. Nó giúp chúng ta thực hiện data fetching một cách đơn giản hơn thay vì sử dụng _createAsyncThunk_ để thực hiện async action. Chú ý RTK Query là dùng để _query_ (kết nối API), chứ không phải dùng để code async trong Redux thay cho _createAsyncThunk_.
 
 Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hướng dẫn này trước: [Hướng dẫn sử dụng React Router và Redux Toolkit](/blog/huong-dan-su-dung-react-router-va-redux-toolkit).
 
