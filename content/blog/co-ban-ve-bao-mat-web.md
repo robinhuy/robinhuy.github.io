@@ -44,7 +44,7 @@ Giả sử bạn đã đăng nhập vào Facebook, và họ sử dụng Authenti
 
 Sau đó bạn click vào 1 link bất kỳ trên mạng, ví dụ {{< link link="https://huydq.dev/" text="link video full 9 phút" >}} và nó sẽ redirect bạn về 1 website nào đó của hacker. Website này sẽ tự động chạy 1 đoạn code Javascript để thực hiện request lên {{< link link="https://facebook.com" text="facebook.com" >}} có kèm theo authentication cookie của bạn!
 
-Trong một thế giới không có CORS, hacker có thể thực hiện các thao tác trên Facebook với tài khoản của bạn mà bạn không hề hay biết. Ví dụ như đăng tin lên trên dòng thời gian của bạn kèm theo [link video full 9 phút](https://huydq.dev/), sau đó bạn bè của bạn click vào link trên và cũng thực hiện hành vi tương tự, ... Vòng lặp này cứ tiếp diễn cho đến khi toàn bộ mạng xã hội facebook đều thấy xuất hiện {{< link link="https://huydq.dev/" text="link video full 9 phút" >}} 😆
+Trong một thế giới không có CORS, hacker có thể thực hiện các thao tác trên Facebook với tài khoản của bạn mà bạn không hề hay biết. Ví dụ như đăng tin lên trên dòng thời gian của bạn kèm theo {{< link link="https://huydq.dev/" text="link video full 9 phút" >}}, sau đó bạn bè của bạn click vào link trên và cũng thực hiện hành vi tương tự, ... Vòng lặp này cứ tiếp diễn cho đến khi toàn bộ mạng xã hội facebook đều thấy xuất hiện {{< link link="https://huydq.dev/" text="link video full 9 phút" >}} 😆
 
 Thực tế, với sự bảo vệ của CORS, Facebook sẽ chỉ cho phép những request với Origin (đính kèm trong request header) là facebook.com lên server của họ. Tức là chỉ có request thực hiện từ website facebook.com mới được chấp nhận. Hay nói cách khác, họ đã giới hạn việc chia sẻ tài nguyên giữa các tên miền khác nhau (cross-origin resource sharing).
 
@@ -56,7 +56,7 @@ _- "Vậy nếu request được thực hiện từ phía server chứ không ph
 
 ## Content Security Policy (CSP)
 
-Để hiểu về **CSP** (chính sách bảo mật nội dung), trước tiên chúng ta cần tìm hiểu về một lỗ hổng rất thông dụng trên web, đó là **XSS** ( **cross**- **s** ite **s** cripting, ký hiệu X thay cho C để tránh nhầm lẫn với CSS [😀](https://emojipedia.org/grinning-face/)). XSS là khi kẻ xấu nhúng code Javascript vào trong code phía client của bạn.
+Để hiểu về **CSP** (chính sách bảo mật nội dung), trước tiên chúng ta cần tìm hiểu về một lỗ hổng rất thông dụng trên web, đó là **XSS** (**cross**-**s**ite**s**cripting, ký hiệu X thay cho C để tránh nhầm lẫn với CSS). XSS là khi kẻ xấu nhúng code Javascript vào trong code phía client của bạn.
 
 Bạn có thể nghĩ rằng: _"Nhúng code Javascript vào thì làm được gì? Thay đổi màu chữ từ đỏ sang xanh? ..."_
 
@@ -140,4 +140,4 @@ Bảo mật nên là thứ quan trọng với tất cả mọi người chứ k
 
 ![security](https://media.giphy.com/media/81xwEHX23zhvy/giphy.gif)
 
-_Nguồn: [https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41](https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41)_
+_Nguồn: {{< link link="https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41" text="https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41" >}}_
