@@ -5,13 +5,13 @@ draft: false
 tags: ["ReactJS"]
 ---
 
-Sau khi code xong 1 ứng dụng bằng [Create React App](https://github.com/facebook/create-react-app), chúng ta có thể đẩy sản phẩm lên Internet theo 1 trong 3 cách miễn phí sau chỉ với 3 bước (còn nhiều cách khác nhưng tác giả lười viết 😅):
+Sau khi code xong 1 ứng dụng bằng {{< link link="https://github.com/facebook/create-react-app" text="Create React App" >}}, chúng ta có thể đẩy sản phẩm lên Internet theo 1 trong 3 cách miễn phí sau chỉ với 3 bước (còn nhiều cách khác nhưng tác giả lười viết 😅):
 
 ## 1. Github Pages
 
-Giả sử bạn đã có tài khoản trên [github](https://github.com/) là _robinhuy_, và có 1 repository chứa source code ứng dụng tạo bởi [Create React App](https://github.com/facebook/create-react-app) là _react-app_.
+Giả sử bạn đã có tài khoản trên {{< link link="https://github.com/" text="github" >}} là _robinhuy_, và có 1 repository chứa source code ứng dụng tạo bởi {{< link link="https://github.com/facebook/create-react-app" text="Create React App" >}} là _react-app_.
 
-**Bước 1**: Cài thêm thư viện [gh-pages](https://github.com/tschaub/gh-pages) (devDependencies)
+**Bước 1**: Cài thêm thư viện {{< link link="https://github.com/tschaub/gh-pages" text="gh-pages" >}} (devDependencies)
 
 ```bash
 npm i gh-pages --save-dev
