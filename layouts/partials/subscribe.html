@@ -1,0 +1,30 @@
+<div class="subscribe-wrapper">
+  <div class="item">
+    <h4>Đăng ký nhận thông báo qua email khi có bài viết mới</h4>
+    <input id="shopee-origin-link" type="text" placeholder="Nhập email" />
+    <button onclick="generateShortLink()">Đăng ký</button>
+  </div>
+</div>
+
+<script>
+  async function generateShortLink() {
+    const originUrl = document.getElementById("shopee-origin-link").value;
+    if (!originUrl || !originUrl.startsWith("https://")) {
+      alert("Đường dẫn không hợp lệ!");
+      return;
+    }
+
+    const response = await fetch("https://shortlink-erzoowobja-df.a.run.app", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({
+        originUrl,
+      }),
+    });
+
+    const data = await response.json();
+    const shortLink = data?.generateShortLink?.shortLink || "";
+    const shortLinkElement = document.getElementById("shopee-short-link");
+    shortLinkElement.innerHTML = `=&gt; <a href="${shortLink}" target="_blank" rel="nofollow">${shortLink}</a>`;
+  }
+</script>

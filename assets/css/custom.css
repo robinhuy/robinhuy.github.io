@@ -260,28 +260,37 @@
   font-size: 20px;
 }
 
-/* Shopee widget */
-.shopee-widget .item {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: center;
-  margin-bottom: 10px;
+/* Subscribe & shopee widget */
+.subscribe-wrapper {
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
+  padding: var(--gap);
 }
 
+.subscribe-wrapper input,
 .shopee-widget input {
-  width: calc(320px - var(--gap) * 2);
   padding: 4px 12px;
   border: 1px solid #e5e5e5;
   border-radius: 4px;
   transition: 0.3s;
 }
 
+.subscribe-wrapper input:hover,
+.subscribe-wrapper input:focus,
 .shopee-widget input:hover,
 .shopee-widget input:focus {
   border-color: #b7b7b7;
 }
 
+.subscribe-wrapper input {
+  width: calc(100% - 165px);
+}
+
+.shopee-widget input {
+  width: calc(320px - var(--gap) * 2);
+}
+
+.subscribe-wrapper button,
 .shopee-widget button {
   appearance: button;
   padding: 4px 16px;
@@ -297,8 +306,35 @@
   margin-left: 10px;
 }
 
+.subscribe-wrapper button:hover,
 .shopee-widget button:hover {
   background-color: rgba(0, 0, 0, 0.04);
+  color: var(--primary);
+}
+
+.subscribe-wrapper button {
+  width: 150px;
+}
+
+.subscribe-wrapper .item {
+  position: relative;
+  padding: var(--gap);
+  background: var(--entry);
+  border-radius: var(--radius);
+  transition: transform 0.1s;
+  border: 1px solid var(--border);
+}
+
+.subscribe-wrapper .item h4 {
+  margin-bottom: 8px;
+}
+
+.shopee-widget .item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 #shopee-short-link {
