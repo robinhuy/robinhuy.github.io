@@ -19,7 +19,7 @@ npm i gh-pages --save-dev
 
 **Bước 2**: Sửa lại file **package.json**, bổ sung thêm thuộc tính **homepage**, và **scripts**
 
-![Đẩy code react lên github](/images/config-package.json-to-deploy-github.png)
+![Đẩy code React lên Github](/images/config-package.json-to-deploy-github.png)
 
 **Bước 3**: Deploy lên Github Pages bằng lệnh
 
@@ -27,7 +27,7 @@ npm i gh-pages --save-dev
 npm run deploy
 ```
 
-Sau đó truy cập ứng dụng tại địa chỉ: _[robinhuy.github.io/react-app](http://robinhuy.github.io/react-app)_
+Sau đó truy cập ứng dụng tại địa chỉ: _http://robinhuy.github.io/react-app_
 
 ## 2. ZEIT Now
 
@@ -37,7 +37,7 @@ Sau đó truy cập ứng dụng tại địa chỉ: _[robinhuy.github.io/react-
 npm i -g now
 ```
 
-**Bước 2**: Tạo tài khoản trên [https://zeit.co](https://zeit.co/) và đăng nhập bằng Now CLI (gõ email rồi truy cập email để xác thực)
+**Bước 2**: Tạo tài khoản trên {{< link link="https://zeit.co/" text="https://zeit.co" >}} và đăng nhập bằng Now CLI (gõ email rồi truy cập email để xác thực)
 
 ```bash
 now login
