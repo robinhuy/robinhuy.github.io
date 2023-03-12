@@ -53,11 +53,11 @@ Chú ý nếu đẩy code lên ZEIT Now thì không cấu hình homepage như 
 
 ### 3. Heroku
 
-**Bước 1**: Tạo tài khoản trên [https://heroku.com](https://www.heroku.com/), sau đó tạo 1 App (tương tự tạo repository trên Github). Truy cập mục Settings của App vừa tạo để add thêm buildpack với địa chỉ [https://github.com/mars/create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack)
+**Bước 1**: Tạo tài khoản trên {{< link link="https://www.heroku.com/" text="https://heroku.com" >}}, sau đó tạo 1 App (tương tự tạo repository trên Github). Truy cập mục Settings của App vừa tạo để add thêm buildpack với địa chỉ {{< link link="https://github.com/mars/create-react-app-buildpack" text="https://github.com/mars/create-react-app-buildpack" >}}
 
 ![Deploy react app lên heroku](/images/heroku-react-app-buildpack.png)
 
-**Bước 2**: Cài [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install), sau đó đăng nhập tương tự ZEIT Now
+**Bước 2**: Cài {{< link link="https://devcenter.heroku.com/articles/heroku-cli#download-and-install" text="Heroku CLI" >}}, sau đó đăng nhập tương tự ZEIT Now
 
 ```bash
 heroku login
