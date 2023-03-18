@@ -13,7 +13,7 @@ Những ai có cùng sở thích như vậy thì có thể tham khảo bài vi�
 
 **Console** là một object, và nó có nhiều phương thức khác nhau. Trong đó `.log()` là phổ biến nhất.
 
-Tham khảo các phương thức của object `console` ở đây: [https://developer.mozilla.org/en-US/docs/Web/API/console](https://developer.mozilla.org/en-US/docs/Web/API/console).
+Tham khảo các phương thức của object `console` ở đây: {{< link link="https://developer.mozilla.org/en-US/docs/Web/API/console" text="https://developer.mozilla.org/en-US/docs/Web/API/console" >}}.
 
 Khi code ở browser thì có thể dùng 1 số loại log sau, để khi hiển thị có thể lọc theo ý muốn: `console.log()`, `console.info()`, `console.warn()`, `console.error()`. Các phương thức này cách dùng giống nhau nhưng hiển thị khác nhau.
 
