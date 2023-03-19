@@ -68,7 +68,7 @@ const reset = "\x1b[0m";
 console.log(textGreen + bgRed + "Hello World" + reset);
 ```
 
-Có thể dùng tool sau để chọn màu cho nhanh: [https://console-colors.vercel.app](https://console-colors.vercel.app/).
+Có thể dùng tool sau để chọn màu cho nhanh: {{< link link="https://console-colors.vercel.app/" text="https://console-colors.vercel.app" >}}.
 
 ## Log nhanh hơn với User Snippets của VS Code
 
