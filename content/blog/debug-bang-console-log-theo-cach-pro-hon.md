@@ -101,7 +101,7 @@ Happy coding 😎
 
 Tham khảo:
 
-- [_It’s 2022, Please Don’t Just Use “console.log” Anymore_](https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d)
-- [_How to change node.js's console font color?_](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
-- [_Everything you never wanted to know about ANSI escape codes_](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
-- [_Snippets in Visual Studio Code_](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+- {{< link link="https://javascript.plainenglish.io/its-2022-please-don-t-just-use-console-log-anymore-217638337c7d" text="It’s 2022, Please Don’t Just Use “console.log” Anymore" >}}
+- [How to change node.js's console font color?](https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color)
+- [Everything you never wanted to know about ANSI escape codes](https://notes.burke.libbey.me/ansi-escape-codes/#:~:text=ANSI%20escapes%20always%20start%20with,and%20this%20is%20basically%20why).
+- [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
