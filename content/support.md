@@ -27,12 +27,13 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 #### Thời trang:
 
 - {{< link link="https://shope.ee/5KdH88dBqr" text="Áo khoác dù nam có nón hàn quốc AK23 (xanh đen, Đen)" >}} (Shopee)
-- {{< link link="https://c.lazada.vn/t/c.0lXZPl" text="Áo len nữ giữ nhiệt dài tay cổ cao" >}} (Lazada)
 - {{< link link="https://c.lazada.vn/t/c.0PS0iq" text="Áo thun nam kiểu Polo tay ngắn" >}} (Lazada)
 - {{< link link="https://c.lazada.vn/t/c.0Pi4v2" text="Áo thun nam kiểu Plo tay dài" >}} (Lazada)
+- {{< link link="https://c.lazada.vn/t/c.0lXZPl" text="Áo len nữ giữ nhiệt dài tay cổ cao" >}} (Lazada)
+- {{< link link="https://c.lazada.vn/t/c.0JoqOf" text="Mũ tai bèo chống nắng dành cho cả nam và nữ" >}} (Lazada)
+- {{< link link="https://shope.ee/VY1N0KCbR" text="Găng tay cảm ứng ngón trỏ điện thoại Naturehike dành cho cả nam và nữ" >}} (Shopee)
 - {{< link link="https://shope.ee/2AgFMY13Fx" text="Dây đeo cổ tay thay thế bằng silicon cho Xiaomi Miband 4" >}} (Shopee)
 - {{< link link="https://shope.ee/2KzfZromo4" text="Đồng hồ Xiaomi Mi Band 5, Miband 4C - Nguyên seal BH 1 năm" >}} (Shopee)
-- {{< link link="https://shope.ee/VY1N0KCbR" text="Găng tay cảm ứng ngón trỏ điện thoại, hàng chính hãng Naturehike dành cho cả nam và nữ" >}} (Shopee)
 
 #### Du lịch:
 
