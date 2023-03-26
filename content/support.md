@@ -37,6 +37,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 
 #### Du lịch:
 
+- {{< link link="https://c.lazada.vn/t/c.0JoINN" text="Vali du lịch, vali cao cấp Kingsun nhựa tổng hợp KS-155" >}} (Lazada)
 - {{< link link="https://shope.ee/1VQYYDRGhU" text="Ổ cắm điện đa năng du lịch Universal Travel Adapter nhiều đầu" >}} (Shopee)
 - {{< link link="https://shope.ee/7f1BtewMIy" text="Sticker du lịch chống nước, dán laptop, điện thoại, đàn guitar, mũ bảo hiểm, vali" >}} (Shopee)
 
