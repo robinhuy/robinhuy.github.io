@@ -9,13 +9,17 @@ images: ['/images/buy-me-a-coffee.jpg']
 keywords: ['huydq.dev', 'support', 'donate', 'shopee', 'lazada']
 ---
 
-Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì website bằng cách mua hàng trên Shopee hoặc Lazada qua link ủng hộ (không mất thêm bất kỳ chi phí gì và vẫn áp dụng được toàn bộ chương trình giảm giá). Sản phẩm đã được dùng thử và ưu tiên shop ở Hà Nội.
+Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì website bằng cách mua hàng qua link ủng hộ (không mất thêm bất kỳ chi phí gì và vẫn áp dụng được toàn bộ chương trình giảm giá). Sản phẩm đã được dùng thử và ưu tiên shop ở Hà Nội.
+
+#### App
+
+- {{< link link="https://elsaspeak.vn/?id=707" text="Elsa Speak (luyện nghe nói Tiếng Anh)" >}}
 
 #### Sách
 
-- {{< link link="https://shope.ee/2L0aJRVh4D" text="Sách - Đọc Hiểu Kết Quả Xét Nghiệm Máu (MedInsights)" >}} (Shopee)
+- {{< link link="https://shope.ee/2L0aJRVh4D" text="Sách - Đọc hiểu kết quả xét nghiệm máu (MedInsights)" >}} (Shopee)
 
-#### Đồ gia dụng:
+#### Đồ gia dụng
 
 - {{< link link="https://shope.ee/7f183pHxHl" text="Bấm móng tay có móc khóa" >}} (Shopee)
 - {{< link link="https://shope.ee/AK1x4qEfuz" text="Chiếu bạc cách nhiệt ngủ văn phòng loại dày 3,5mm" >}} (Shopee)
@@ -24,7 +28,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 - {{< link link="https://shope.ee/6UpAftynaK" text="Nhỏ mắt phục hồi thị lực Sancoba Nhật Bản" >}} (Shopee)
 - {{< link link="https://shope.ee/1AocxdUDoI" text="Xịt Thơm Quần Áo Dky - Lưu Hương Lâu, Chống Muỗi Đốt" >}} (Shopee)
 
-#### Thời trang:
+#### Thời trang
 
 - {{< link link="https://shope.ee/5KdH88dBqr" text="Áo khoác dù nam có nón hàn quốc AK23 (xanh đen, Đen)" >}} (Shopee)
 - {{< link link="https://c.lazada.vn/t/c.0PS0iq" text="Áo thun nam kiểu Polo tay ngắn" >}} (Lazada)
@@ -35,7 +39,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 - {{< link link="https://shope.ee/2AgFMY13Fx" text="Dây đeo cổ tay thay thế bằng silicon cho Xiaomi Miband 4" >}} (Shopee)
 - {{< link link="https://shope.ee/2KzfZromo4" text="Đồng hồ Xiaomi Mi Band 5, Miband 4C - Nguyên seal BH 1 năm" >}} (Shopee)
 
-#### Du lịch:
+#### Du lịch
 
 - {{< link link="https://c.lazada.vn/t/c.0JoINN" text="Vali du lịch, vali cao cấp Kingsun nhựa tổng hợp KS-155" >}} (Lazada)
 - {{< link link="https://shope.ee/1VQYYDRGhU" text="Ổ cắm điện đa năng du lịch Universal Travel Adapter nhiều đầu" >}} (Shopee)
