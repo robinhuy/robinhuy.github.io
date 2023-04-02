@@ -20,7 +20,7 @@ $ sudo apt-get install gitlab-ce
 $ sudo gitlab-ctl reconfigure
 ```
 
-Sau khi cài đặt xong chúng ta có thể dùng [gitlab-ctl](https://docs.gitlab.com/omnibus/maintenance/README.html) để quản lý service:
+Sau khi cài đặt xong chúng ta có thể dùng {{< link link="https://docs.gitlab.com/omnibus/maintenance/README.html" text="gitlab-ctl" >}} để quản lý service:
 
 ```
 # Kiểm tra trạng thái
