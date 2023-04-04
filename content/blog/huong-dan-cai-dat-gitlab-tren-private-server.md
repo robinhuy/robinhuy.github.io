@@ -59,4 +59,4 @@ $ sudo gitlab-ctl restart
 - Cấu hình lại Nginx cho Gitlab, có thể tham khảo file cấu hình mẫu {{< link link="https://gitlab.com/gitlab-org/gitlab-recipes/blob/master/web-server/nginx/gitlab-omnibus-nginx.conf" text="tại đây" >}}.
 - Cấu hình gửi email SMTP, có thể tham khảo {{< link link="https://docs.gitlab.com/omnibus/settings/smtp.html" text="tại đây" >}}.
 
-_Tham khảo document của Gitlab Omnibus: [https://docs.gitlab.com/omnibus/​](https://docs.gitlab.com/omnibus/)_
+_Tham khảo document của Gitlab Omnibus: {{< link link="https://docs.gitlab.com/omnibus/" text="https://docs.gitlab.com/omnibus" >}}_
