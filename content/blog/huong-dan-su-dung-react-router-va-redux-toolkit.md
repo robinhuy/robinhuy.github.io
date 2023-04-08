@@ -5,7 +5,7 @@ draft: false
 tags: ["ReactJS", "Redux Toolkit", "React Router"]
 ---
 
-Với những người mới học React thì [Redux](https://redux.js.org/) thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
+Với những người mới học React thì {{< link link="https://redux.js.org/" text="Redux" >}} thực sự là một cơn ác mộng. Cũng giống như bạn đang code jQuery quen và chuyển sang React, đang chỉnh sửa DOM trực tiếp lại phải chuyển qua dùng state, …
 
 Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử làm 1 ứng dụng đơn giản như sau:
 
