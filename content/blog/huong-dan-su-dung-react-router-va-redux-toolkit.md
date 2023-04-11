@@ -11,7 +11,7 @@ Vậy để làm quen với Redux một cách nhanh nhất, chúng ta sẽ thử
 
 - Một website có 2 trang: Dashboard và Login.
 - Ở trang login cho phép nhập username, và khi chuyển qua trang Dashboard thì hiển thị username đó, nếu không nhập gì thì hiển thị là “Guest”.
-- Demo: [https://react-router-redux-toolkit.stackblitz.io](https://react-router-redux-toolkit.stackblitz.io).
+- Demo: {{< link link="https://react-router-redux-toolkit.stackblitz.io" text="https://react-router-redux-toolkit.stackblitz.io" >}}.
 
 Yêu cầu cần biết kiến thức cơ bản về React như state, props, function component, …
 
