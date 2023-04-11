@@ -17,7 +17,7 @@ Yêu cầu cần biết kiến thức cơ bản về React như state, props, fu
 
 ## Bước 1: Tạo project
 
-Các bạn có thể tạo project local bằng [create-react-app](https://github.com/facebook/create-react-app) hoặc code online trên [stackblitz.com](https://stackblitz.com/).
+Các bạn có thể tạo project local bằng {{< link link="https://github.com/facebook/create-react-app" text="create-react-app" >}} hoặc code online trên {{< link link="https://stackblitz.com/" text="stackblitz.com" >}}.
 
 Sau khi tạo project thì cài các thư viện cần thiết: react-router-dom, @reduxjs/toolkit và react-redux
 
