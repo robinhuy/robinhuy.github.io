@@ -29,7 +29,7 @@ yarn add react-router-dom @reduxjs/toolkit react-redux
 
 ## Bước 2: Cấu hình router
 
-Để tạo một website có nhiều page, mình sử dụng thêm thư viện [React Router](https://reactrouter.com/).
+Để tạo một website có nhiều page, mình sử dụng thêm thư viện {{< link link="https://reactrouter.com/" text="React Router" >}}.
 
 Trong ví dụ có 2 trang là Dashboard và Login, thì chúng ta tạo 2 function component tương ứng cho 2 trang, và cấu hình router (đường dẫn cho các trang) ở root component là App như sau:
 
