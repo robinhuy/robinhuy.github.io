@@ -243,7 +243,7 @@ reducers: {
 }
 ```
 
-Chú ý là khi cập nhật state chúng ta có thể thay đổi trực tiếp state chứ không như khi dùng local state trong Component, đó là do Redux Toolkit sử dụng thêm thư viện [immer](https://github.com/immerjs/immer). Và ở trong các reducer này chúng ta chỉ viết code sync chứ không viết code async. Để viết code async các bạn tham khảo bài viết sau [Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit](/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit) hoặc [Hướng dẫn sử dụng RTK Query trong Redux Toolkit](/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit).
+Chú ý là khi cập nhật state chúng ta có thể thay đổi trực tiếp state chứ không như khi dùng local state trong Component, đó là do Redux Toolkit sử dụng thêm thư viện {{< link link="https://github.com/immerjs/immer" text="immer" >}}. Và ở trong các reducer này chúng ta chỉ viết code sync chứ không viết code async. Để viết code async các bạn tham khảo bài viết sau [Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit](/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit) hoặc [Hướng dẫn sử dụng RTK Query trong Redux Toolkit](/blog/huong-dan-su-dung-rtk-query-trong-redux-toolkit).
 
 Tiếp theo sửa lại Dashboard component để hiển thị giá trị state **username** ra ngoài màn hình:
 
