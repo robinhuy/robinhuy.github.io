@@ -123,7 +123,7 @@ Mục tiêu cần làm tiếp theo là khi người dùng nhập dữ liệu và
 
 ## Bước 3: Cấu hình Redux Store
 
-Để truyền dữ liệu giữa các Component dễ hơn thì chúng ta dùng Redux, và cụ thể hơn trong ví dụ này chúng ta dùng [Redux Toolkit](https://redux-toolkit.js.org/) để cấu hình nhanh hơn và dễ hơn dùng Redux Core.
+Để truyền dữ liệu giữa các Component dễ hơn thì chúng ta dùng Redux, và cụ thể hơn trong ví dụ này chúng ta dùng {{< link link="https://redux-toolkit.js.org/" text="Redux Toolkit" >}} để cấu hình nhanh hơn và dễ hơn dùng Redux Core.
 
 Các bạn hình dung Redux Store như 1 nơi lưu state global mà tất cả các Component trong phạm vi của Store đều có thể truy xuất để lấy dữ liệu hoặc cập nhật dữ liệu. Giao diện của các Component đó cũng sẽ được tự động cập nhật khi state thay đổi.
 
