@@ -273,6 +273,6 @@ return (
 }
 ```
 
-Vậy là chúng ta đã hoàn thành ứng dụng demo sử dụng React Router và Redux Toolkit. Các bạn có thể xem toàn bộ code mẫu tại đây: [https://stackblitz.com/edit/react-router-redux-toolkit?file=src/index.js](https://stackblitz.com/edit/react-router-redux-toolkit?file=src/index.js).
+Vậy là chúng ta đã hoàn thành ứng dụng demo sử dụng React Router và Redux Toolkit. Các bạn có thể xem toàn bộ code mẫu tại đây: {{< link link="https://stackblitz.com/edit/react-router-redux-toolkit?file=src/index.js" text="https://stackblitz.com/edit/react-router-redux-toolkit?file=src/index.js" >}}.
 
 Happy coding 😎
