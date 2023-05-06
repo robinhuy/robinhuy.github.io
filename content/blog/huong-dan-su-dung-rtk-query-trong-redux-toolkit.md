@@ -59,8 +59,8 @@ export const store = configureStore({
 
 Sau khi cấu hình xong, chúng ta có thể thêm các endpoint để thực hiện request đến API. Endpoint trong RTK Query phân làm 2 loại:
 
-- [Query](https://redux-toolkit.js.org/rtk-query/usage/queries): Dùng để lấy dữ liệu (có thể lưu cache).
-- [Mutation](https://redux-toolkit.js.org/rtk-query/usage/mutations): Dùng để cập nhật dữ liệu (validate cache).
+- {{< link link="https://redux-toolkit.js.org/rtk-query/usage/queries" text="Query" >}}: Dùng để lấy dữ liệu (có thể lưu cache).
+- {{< link link="https://redux-toolkit.js.org/rtk-query/usage/mutations" text="Mutation" >}}: Dùng để cập nhật dữ liệu (validate cache).
 
 Với request login thì mình sẽ dùng loại _mutation_, sửa lại phần **endpoints** của file `store/api.js`:
 
