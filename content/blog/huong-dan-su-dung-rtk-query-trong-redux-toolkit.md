@@ -12,7 +12,7 @@ Nếu bạn chưa từng sử dụng Redux Toolkit thì có thể xem bài hư�
 
 Còn nếu chưa biết cách dùng _createAsyncThunk_ thì xem bài hướng dẫn này: [Hướng dẫn sử dụng createAsyncThunk trong Redux Toolkit](/blog/huong-dan-su-dung-createasyncthunk-trong-redux-toolkit).
 
-Chúng ta sẽ tiếp tục sử dụng ví dụ này để demo: [https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api?file=src/App.js](https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api?file=src/App.js). Trong code mẫu này có sử dụng createAsyncThunk và fetch API để kết nối đến API. Chúng ta sẽ thay thế phần kết nối API bằng RTK Query.
+Chúng ta sẽ tiếp tục sử dụng ví dụ này để demo: {{< link link="https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api?file=src/App.js" text="https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api?file=src/App.js" >}}. Trong code mẫu này có sử dụng createAsyncThunk và fetch API để kết nối đến API. Chúng ta sẽ thay thế phần kết nối API bằng RTK Query.
 
 ![Login form sử dụng ReactJS + Redux Toolkit + RTK Query](/images/redux-toolkit-login-form-demo.png)
 
