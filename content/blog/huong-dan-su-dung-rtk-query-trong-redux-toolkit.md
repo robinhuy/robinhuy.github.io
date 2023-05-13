@@ -207,6 +207,6 @@ export default function Dashboard() {
 
 Vậy là chúng ta đã làm xong một ứng dụng nhỏ sử dụng RTK Query cho việc fetching data. Addon này còn nhiều chức năng nữa như caching, prefetching, polling, code splitting, ... các bạn hãy đọc thêm document trên trang chủ của thư viện để áp dụng vào dự án.
 
-Tham khảo toàn bộ code mẫu tại đây: [https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api-2c64iz?file=src/App.js](https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api-2c64iz?file=src/App.js).
+Tham khảo toàn bộ code mẫu tại đây: {{< link link="https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api-2c64iz?file=src/App.js" text="https://stackblitz.com/edit/react-router-redux-toolkit-fetch-api-2c64iz?file=src/App.js" >}}.
 
 Happy coding 😎
