@@ -27,7 +27,7 @@ Vậy trước khi học ReactJS hoặc React Native, các bạn nên nẵm v
 
 ### Variable scope và closure
 
-Cần nắm vững khái niệm Scope (code block, nested function, ...) trong Javascript. Khai báo biến thì sử dụng **let** thay cho **var** (kiểu cũ), với hằng số hoặc _[magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))\_ thì dùng **const**.
+Cần nắm vững khái niệm Scope (code block, nested function, ...) trong Javascript. Khai báo biến thì sử dụng **let** thay cho **var** (kiểu cũ), với hằng số hoặc {{< link link="https://en.wikipedia.org/wiki/Magic_number_(programming)" text="magic number" >}} thì dùng **const**.
 
 Khái niệm closure thì hơi khó hiểu nhưng cũng nên tìm hiểu trước để khi gặp không bị bỡ ngỡ 😅.
 
