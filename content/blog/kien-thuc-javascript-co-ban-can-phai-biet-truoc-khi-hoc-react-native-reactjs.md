@@ -31,7 +31,7 @@ Cần nắm vững khái niệm Scope (code block, nested function, ...) trong 
 
 Khái niệm closure thì hơi khó hiểu nhưng cũng nên tìm hiểu trước để khi gặp không bị bỡ ngỡ 😅.
 
-_Tham khảo [Variable scope, closure](https://javascript.info/closure)._
+_Tham khảo {{< link link="https://javascript.info/closure" text="Variable scope, closure" >}}._
 
 ### Import và Exports
 
