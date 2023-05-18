@@ -74,7 +74,7 @@ export class User {
 import { month, YEAR, User } from "./util.js";
 ```
 
-_Tham khảo [Import - Export](https://javascript.info/import-export)._
+_Tham khảo {{< link link="https://javascript.info/import-export" text="Import - Export" >}}._
 
 ### Arrow function
 
