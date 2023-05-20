@@ -94,7 +94,7 @@ Viết lại bằng **arrow function**:
 const sum = (a, b) => a + b;
 ```
 
-_Tham khảo [Arrow function basics](https://javascript.info/arrow-functions-basics) và [Arrow function revisited](https://javascript.info/arrow-functions)._
+_Tham khảo {{< link link="https://javascript.info/arrow-functions-basics" text="Arrow function basics" >}} và {{< link link="https://javascript.info/arrow-functions" text="Arrow function revisited" >}}._
 
 ### Destructuring assignment
 
