@@ -123,7 +123,7 @@ function MyComponent() {
 }
 ```
 
-_Tham khảo [Destructuring assignment](https://javascript.info/destructuring-assignment)_.
+_Tham khảo {{< link link="https://javascript.info/destructuring-assignment" text="Destructuring assignment" >}}_.
 
 ### Rest parameters and spread syntax
 
