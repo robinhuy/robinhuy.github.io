@@ -172,7 +172,7 @@ alert(Math.max(numbers)); // Trả về NaN
 alert(Math.max(...numbers)); // Trả về 5
 ```
 
-_Tham khảo [Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)_.
+_Tham khảo {{< link link="https://javascript.info/rest-parameters-spread" text="Rest parameters and spread syntax" >}}_.
 
 ### Các hàm xử lý mảng
 
