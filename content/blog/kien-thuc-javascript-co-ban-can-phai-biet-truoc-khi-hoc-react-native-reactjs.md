@@ -196,7 +196,7 @@ function removeProduct(productId) {
 }
 ```
 
-_Tham khảo [Array methods](https://javascript.info/array-methods)_.
+_Tham khảo {{< link link="https://javascript.info/array-methods" text="Array methods" >}}_.
 
 ---
 
