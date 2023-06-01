@@ -32,7 +32,7 @@ Cách dùng tương tự DeepAI, tuy nhiên không có chọn style và mỗi l�
 
 ![Stable Diffusion Playground](/images/stable-diffusion-playground.png)
 
-Ngoài ra, trang này dùng hoàn toàn miễn phí và không cần đăng nhập.
+Ngoài ra, bạn có thể dùng {{< link link="https://stablediffusionweb.com/#demo" text="trang này" >}} miễn phí và không cần đăng nhập.
 
 ## 3. DALL-E
 
