@@ -27,6 +27,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 - {{< link link="https://shope.ee/9p5gTxcFak" text="Ly cốc giữ nhiệt coffee S6 lõi Inox, có khắc tên theo yêu cầu" >}} (Shopee)
 - {{< link link="https://shope.ee/6UpAftynaK" text="Nhỏ mắt phục hồi thị lực Sancoba Nhật Bản" >}} (Shopee)
 - {{< link link="https://shope.ee/1AocxdUDoI" text="Xịt Thơm Quần Áo Dky - Lưu Hương Lâu, Chống Muỗi Đốt" >}} (Shopee)
+- {{< link link="https://shope.ee/7KSMV05UbR" text="Set 36 miếng dán hỗ trợ giảm mụn vô hình Sevich" >}} (Shopee)
 
 #### Thời trang
 
