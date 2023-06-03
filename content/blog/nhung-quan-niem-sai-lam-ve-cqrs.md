@@ -6,7 +6,7 @@ images: ["/images/cqrs-architecture.png"]
 tags: ["CQRS", "Design Pattern", "English Translated"]
 ---
 
-Bài viết được dịch (có chỉnh sửa) từ cuốn [Patterns Principles and Practices of Domain Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về [CQRS](https://martinfowler.com/bliki/CQRS.html) (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).
+Bài viết được dịch (có chỉnh sửa) từ cuốn {{< link link="https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709" text="Patterns Principles and Practices of Domain Driven Design" >}} của Scott Millett và Nick Tune, dành cho những ai đã và đang cần tìm hiểu về {{< link link="https://martinfowler.com/bliki/CQRS.html" text="CQRS" >}} (Command Query Responsibility Segregation). Trong bài viết có sử dụng nhiều thuật ngữ chuyên ngành, mình sẽ dẫn link đến các tài liệu Tiếng Anh tương ứng chứ không dịch (không biết dịch như nào hoặc dịch ra nghe rất củ chuối 😬).
 
 ## 1. CQRS rất khó
 
