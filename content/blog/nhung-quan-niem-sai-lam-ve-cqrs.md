@@ -12,7 +12,7 @@ Bài viết được dịch (có chỉnh sửa) từ cuốn {{< link link="http
 
 Xét về mức cơ bản thì CQRS chỉ là một pattern đơn giản triển khai nguyên tắc {{< link link="https://en.wikipedia.org/wiki/Single_responsibility_principle" text="Single Responsibility Principle" >}} (SRP) ở lớp {{< link link="https://en.wikipedia.org/wiki/Domain_model" text="Domain Model" >}}.
 
-CQRS không phải là một _framework_ hay là một hệ thống _multiple database_, nó là pattern được áp dụng vào [bounded context](https://martinfowler.com/bliki/BoundedContext.html), dùng để chia Domain Model thành 2 model: Write Model (Command side) và Read Model (Query side), chúng được xử lý riêng rẽ để đạt hiệu quả tốt hơn.
+CQRS không phải là một _framework_ hay là một hệ thống _multiple database_, nó là pattern được áp dụng vào {{< link link="https://martinfowler.com/bliki/BoundedContext.html" text="bounded context" >}}, dùng để chia Domain Model thành 2 model: Write Model (Command side) và Read Model (Query side), chúng được xử lý riêng rẽ để đạt hiệu quả tốt hơn.
 
 ![CQRS Architecture](/images/cqrs-architecture.png)
 
