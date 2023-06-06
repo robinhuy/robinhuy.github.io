@@ -20,7 +20,7 @@ CQRS thiên về khái niệm, tư tưởng hơn là một tập hợp các nguy
 
 ## 2. CQRS là Eventually Consistent
 
-[Eventually Consistency](https://en.wikipedia.org/wiki/Eventual_consistency) được áp dụng để Read Model được cập nhật bất đồng bộ (asynchronous) với Write Model (sẽ có một bài viết khác giải thích chi tiết hơn về Eventually Consistency).
+{{< link link="https://en.wikipedia.org/wiki/Eventual_consistency" text="Eventually Consistency" >}} được áp dụng để Read Model được cập nhật bất đồng bộ (asynchronous) với Write Model (sẽ có một bài viết khác giải thích chi tiết hơn về Eventually Consistency).
 
 Đây không phải là điều kiện tiên quyết của CQRS, nhưng nó thường được sử dụng để cho phép bên Read side có thể scale (mở rộng) dễ dàng.
 
