@@ -47,6 +47,12 @@ rm -rf .git/modules/my-library
 
 với _my-library_ là thư mục chứa submodule (được khai báo trong file _.gitmodules_).
 
+Còn nếu project của bạn đã được cấu hình Git submodule từ trước, thì khi clone project về bạn chạy thêm lệnh sau để nó clone luôn cả submodule:
+
+```bash
+git submodule update --init --recursive
+```
+
 Chú ý mọi chỉnh sửa trong submodule muốn cập nhật vào repository chính thì cần tạo thêm commit. Như vậy khi có thay đổi từ repository **my-library** và muốn cập nhật vào trong **my-project** thì cần:
 
 - Vào trong thư mục _src/library_ để pull code mới nhất về (hoặc có thể chỉnh sửa trong này rồi push code lên).
