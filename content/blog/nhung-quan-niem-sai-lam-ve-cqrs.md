@@ -28,9 +28,9 @@ CQRS không yêu cầu bạn phải thực hiện Eventually Consistent. Bạn c
 
 ## 3. Model phải dùng Event Sourcing
 
-[Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) là một cách rất hiệu quả để xây dựng cả Read Model và Write Model nhưng nó không bắt buộc phải có khi sử dụng CQRS.
+{{< link link="https://martinfowler.com/eaaDev/EventSourcing.html" text="Event Sourcing" >}} là một cách rất hiệu quả để xây dựng cả Read Model và Write Model nhưng nó không bắt buộc phải có khi sử dụng CQRS.
 
-Event Sourcing là một giải pháp lưu trữ dữ liệu theo lịch sử một cách chính xác, nhưng nó cũng giúp xây dựng Read Model dễ dàng hơn bởi vì bạn có thể tạo ra bất kỳ [projection](https://abdullin.com/post/event-sourcing-projections/) mong muốn từ những dữ liệu sự kiện theo lịch sử.
+Event Sourcing là một giải pháp lưu trữ dữ liệu theo lịch sử một cách chính xác, nhưng nó cũng giúp xây dựng Read Model dễ dàng hơn bởi vì bạn có thể tạo ra bất kỳ {{< link link="https://abdullin.com/post/event-sourcing-projections/" text="projection" >}} mong muốn từ những dữ liệu sự kiện theo lịch sử.
 
 ![CQRS Event sourcing](/images/cqrs-event-sourcing.png)
 
