@@ -41,5 +41,5 @@ Link to outside page:
 Image with caption:
 
 ```
-{{< figure src="" alt="" title="" >}}
+{{< figure src="/images/anh.jpg" alt="" title="" >}}
 ```
