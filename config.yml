@@ -21,7 +21,7 @@ params:
   title: HuyDQ's Blog
   description: 'Learning - Coding - Writing - Spamming.'
   keywords: [blog, dev, programming, web, mobile]
-  images: ['/icons/cat-thumbnail.png']
+  images: ['/icons/dragon-thumbnail.png']
   DateFormat: '02/01/2006'
   defaultTheme: auto
   disableThemeToggle: false
