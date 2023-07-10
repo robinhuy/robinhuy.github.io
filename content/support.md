@@ -23,6 +23,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 
 - {{< link link="https://shope.ee/7f183pHxHl" text="Bấm móng tay có móc khóa" >}} (Shopee)
 - {{< link link="https://shope.ee/AK1x4qEfuz" text="Chiếu bạc cách nhiệt ngủ văn phòng loại dày 3,5mm" >}} (Shopee)
+- {{< link link="https://shope.ee/4Ad2ovgy8X" text="Dây nhảy thể thao, lõi thép cao cấp tự động đếm số, tích hợp đo calo" >}} (Shopee)
 - {{< link link="https://shope.ee/6pSzhwJvsX" text="Khăn Mặt Khô Dùng Một Lần Animerry" >}} (Shopee)
 - {{< link link="https://shope.ee/9p5gTxcFak" text="Ly cốc giữ nhiệt coffee S6 lõi Inox, có khắc tên theo yêu cầu" >}} (Shopee)
 - {{< link link="https://shope.ee/6UpAftynaK" text="Nhỏ mắt phục hồi thị lực Sancoba Nhật Bản" >}} (Shopee)
