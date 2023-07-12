@@ -11,10 +11,6 @@ keywords: ['huydq.dev', 'support', 'donate', 'shopee', 'lazada']
 
 Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì website bằng cách mua hàng qua link ủng hộ (không mất thêm bất kỳ chi phí gì và vẫn áp dụng được toàn bộ chương trình giảm giá). Sản phẩm đã được dùng thử và ưu tiên shop ở Hà Nội.
 
-#### App
-
-- {{< link link="https://elsaspeak.vn/?id=707" text="Elsa Speak (luyện nghe nói Tiếng Anh)" >}}
-
 #### Sách
 
 - {{< link link="https://shope.ee/2L0aJRVh4D" text="Sách - Đọc hiểu kết quả xét nghiệm máu (MedInsights)" >}} (Shopee)
