@@ -3,7 +3,7 @@ title: 'Một số trang web cho phép tạo ảnh bằng cách gõ text'
 date: 2023-02-26
 draft: false
 images: ['/images/midjourney-community-showcase.png']
-tags: ['AI', 'Midjourney']
+tags: ['AI']
 ---
 
 Hiện có rất nhiều website và ứng dụng di động cho phép những _người thường_ (không phải designer hay họa sĩ) cũng có thể vẽ ra những bức tranh đẹp, sử dụng được cho mục đích cá nhân (và cả thương mại). Để vẽ tranh lúc này chỉ cần có ý tưởng và biết Tiếng Anh để mô tả chính xác ý tưởng của mình.

@@ -2,7 +2,7 @@
 title: "Sử dụng cơ sở dữ liệu Oracle với Entity Framework"
 date: 2017-12-11
 draft: false
-tags: ["Database", "Oracle", "Entity Framework"]
+tags: ["Database", "Entity Framework"]
 ---
 
 Thông thường khi làm dự án với Entity Framework, chúng ta hay dùng cơ sở dữ liệu (CSDL) MS SQL Server. Tuy nhiên tùy theo yêu cầu công việc, bạn có thể sẽ phải làm việc với các cơ sở dữ liệu khác. Bài viết này mình sẽ chia sẻ 1 số kinh nghiệm của bản thân khi phải làm việc với CSDL **Oracle** (cụ thể là Oracle phiên bản 11g).

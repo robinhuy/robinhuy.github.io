@@ -3,7 +3,7 @@ title: "Hướng dẫn tạo tài khoản và sử dụng ChatGPT chỉ với 1 
 date: 2023-02-01
 draft: false
 images: ["/images/chat-gpt.jpg"]
-tags: ["AI", "OpenAI", "ChatGPT"]
+tags: ["AI"]
 ---
 
 Dạo này ChatGPT đang rất hot, được thần thành hóa lên quá khiến nhiều người lo sợ nó sẽ "cướp" mất công việc của mình. Vậy ChatGPT cụ thể là gì, dùng như nào?
