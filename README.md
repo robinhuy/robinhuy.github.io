@@ -43,3 +43,9 @@ Image with caption:
 ```
 {{< figure src="/images/anh.jpg" alt="" title="" >}}
 ```
+
+Video:
+
+```
+{{< video src="" >}}
+```

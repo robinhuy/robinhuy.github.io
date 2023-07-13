@@ -1,7 +1,7 @@
 ---
 title: 'Kinh nghiệm làm dự án maintain'
-date: 2024-05-10
-draft: true
+date: 2024-05-26
+draft: false
 tags: ['Programming']
 ---
 
@@ -44,6 +44,8 @@ Hoặc bạn cũng có thể xem code ở các màn hình có chức năng tươ
 
 Nếu tìm thấy code có sẵn thì có thể tận dụng luôn, đỡ tốn công viết lại mất thời gian và bị dư thừa code. Và những code này đã dược dùng ở các màn hình khác rồi thì có thể yên tâm mà sử dụng. Nếu chẳng may code đó mà có lỗi thì những chỗ khác đang dùng nó cũng sẽ lỗi, đằng nào cũng phải fix 😂.
 
+
+
 ### 5. Không optimize code nếu không cần thiết
 
 Trừ khi bug của bạn là bug yêu cầu optimize, nếu không thì không nên optimize lại những đoạn code đang chạy mà không bị lỗi. Có thể nó hơi chậm 1 tí, nhưng không ảnh hưởng mấy và người dùng không phàn nàn thì tốt nhất nên để nguyên. Kẻo lại vừa tốn công, lại vừa _"chữa lợn lành thành lợn què"_.
@@ -75,11 +77,13 @@ Hiện nay có rất nhiều AI hỗ trợ cho việc lập trình. Hãy tận d
 
 Một số AI bạn có thể dùng free (và nâng cấp lên bản trả phí xịn hơn) như:
 
-- [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/), [Gemini](https://gemini.google.com/): Hỏi đáp, tra cứu trên web.
-- Codeium, Cody AI: VS Code extension, hỗ trợ gợi ý code hoặc hỏi đáp ngay trên VS Code. Github Copilot cũng rất tốt, nhưng nó không free, cân nhắc đầu tư nếu giá trị nó mang lại lớn hơn chi phí bỏ ra.
+- {{< link link="https://chat.openai.com/" text="ChatGPT" >}}, {{< link link="https://claude.ai/" text="Claude" >}}, {{< link link="https://gemini.google.com/" text="Gemini" >}}: Hỏi đáp, tra cứu trên web.
+- Codeium, Cody AI: VS Code extension, hỗ trợ gợi ý code hoặc hỏi đáp ngay trên VS Code.
+
+{{< video src="https://exafunction.github.io/public/videos/demos/copilot_sentiment.mp4" >}}
 
 ---
 
-Hy vọng những kinh nghiệm ở trên sẽ giúp bạn phần nào trong công việc. 
+Hy vọng những kinh nghiệm ở trên sẽ giúp bạn phần nào trong công việc.
 
 Happy coding 😎
