@@ -1,5 +1,5 @@
 ---
-title: 'Kinh nghiệm làm dự án maintain'
+title: 'Một số kinh nghiệm khi làm dự án maintain'
 date: 2024-05-26
 draft: false
 tags: ['Programming']
@@ -30,12 +30,16 @@ Nếu project có file README thì làm theo file README. Nếu không có file 
 
 Trong trường hợp nếu thấy có chỗ bất hợp lý và cần cải tiến thì phải trao đổi và thống nhất với leader và các thành viên khác chứ không tự làm theo ý mình.
 
-### 3. Hạn chế format code, đặc biệt code HTML
+### 3. Hạn chế format code, đặc biệt là code HTML
 
 Với những người bị OCD thì nhìn thấy code không format sẽ cực kỳ khó chịu. Tuy nhiên nếu format code thì sẽ vi phạm quy tắc số 1, vì nó sẽ làm code bị sửa đổi nhiều, gây khó khăn cho reviewer và khó revert code. Chưa kể trong 1 số trường hợp (hiếm) format code cũng có thể gây ra lỗi.
 Đặc biệt với code HTML, khi format code sẽ dẫn đến code thay đổi rất nhiều, và có thể có 1 số lỗi phát sinh do liên quan đến khoảng trắng (ví dụ như ký tự xuống dòng, hoặc là dùng thẻ pre, character entities, ...).
 
+![HTML pre tag](/images/pre-tag.jpg)
+
 Do đó nếu format code hãy tuân thủ theo rule của project, và chỉ nên format các đoạn code liên quan đến code mình sửa, tránh format toàn bộ file.
+
+**Note**: Nếu là một dự án mới code từ đầu thì nên format toàn bộ file, thậm chí toàn bộ project luôn, để code vừa sạch đẹp vừa dễ đọc và đỡ khổ cho maintainer.
 
 ### 4. Tận dụng những thứ có sẵn
 
@@ -44,7 +48,12 @@ Hoặc bạn cũng có thể xem code ở các màn hình có chức năng tươ
 
 Nếu tìm thấy code có sẵn thì có thể tận dụng luôn, đỡ tốn công viết lại mất thời gian và bị dư thừa code. Và những code này đã dược dùng ở các màn hình khác rồi thì có thể yên tâm mà sử dụng. Nếu chẳng may code đó mà có lỗi thì những chỗ khác đang dùng nó cũng sẽ lỗi, đằng nào cũng phải fix 😂.
 
+![Reinvent the wheel](/images/reinvent-the-wheel.png)
 
+Trong trường hợp bạn tìm thấy 1 function có sẵn, nhưng nó chỉ đáp ứng được 80-90% yêu cầu của bạn, cần phải custom lại. Thì có thể có 2 phương án:
+
+- Nếu code đơn giản, thì chỉ cần bổ sung thêm tham số, xử lý trường hợp nếu gọi hàm mà không truyền tham số này (default value). Sau đó search trong toàn bộ project những chỗ đang dùng để test lại cho chắc.
+- Nếu code phức tạp thì clone ra một function mới cho an toàn, để ngay bên cạnh function cũ, chấp nhận duplicate code, miễn là giải quyết được vấn đề.
 
 ### 5. Không optimize code nếu không cần thiết
 
