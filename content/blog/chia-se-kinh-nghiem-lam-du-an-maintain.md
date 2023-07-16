@@ -1,8 +1,8 @@
 ---
-title: 'Một số kinh nghiệm khi làm dự án maintain'
+title: 'Chia sẻ kinh nghiệm làm dự án maintain'
 date: 2024-05-26
 draft: false
-tags: ['Programming']
+tags: ['Programming', 'AI']
 ---
 
 Đã là lập trình viên thì chắc bạn sẽ không thể tránh khỏi phải làm các dự án maintain (bảo trì dự án, fix bug, ...), chỉ là sớm hay muộn 😅
@@ -83,6 +83,7 @@ Ngoài ra, trong quá trình fix bug sẽ có thể gặp bug khó, hoặc code 
 ### 10. Sử dụng AI
 
 Hiện nay có rất nhiều AI hỗ trợ cho việc lập trình. Hãy tận dụng chúng để giúp công việc trở nên dễ dàng hơn. Từ việc search tài liệu, hỏi giải pháp cho đến thực hiện những thao tác lặp đi lặp lại, ... thì AI đều có thể làm rất tốt, giúp tiết kiệm rất nhiều công sức.
+Bạn cũng có thể sử dụng AI để verify code xem có bug tiềm tàng không, hoặc thậm chí là tối ưu code. Tất nhiên AI không phải lúc nào cũng đúng nên cần tự kiểm tra lại thật kỹ, nhiều khi AI cũng bịa code như thật 😂
 
 Một số AI bạn có thể dùng free (và nâng cấp lên bản trả phí xịn hơn) như:
 
