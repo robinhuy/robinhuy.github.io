@@ -22,6 +22,8 @@ Dựa vào những đặc điểm trên thì có thể rút ra một số kinh n
 
 Code nhiều thì lỗi nhiều, code ít thì lỗi ít. Cho nên cố gắng sửa code ít nhất có thể, vừa dễ review, mà lỡ có sai lầm thì cũng dễ revert.
 
+Tuy nhiên cũng cần chú ý nếu bạn sửa vào 1 function mà được gọi ở nhiều chỗ khác thì phải thật cẩn thận. Nên search trong toàn bộ project xem function đó được gọi ở những đâu, nếu sửa sẽ gây ảnh hưởng gì. Hoặc một cách khác an toàn hơn đó là duplicate function đó ra một function mới để tránh ảnh hưởng đến các chỗ khác.
+
 ### 2. Code theo convention có sẵn, structure có sẵn
 
 Để đảm bảo tính nhất quán thì hãy code theo structure, convention có sẵn của project, dù nó có vẻ không được _tối ưu_ theo góc nhìn của bạn. Tính nhất quán sẽ giúp code dễ đọc và dễ bảo trì hơn.
