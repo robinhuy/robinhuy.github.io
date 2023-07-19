@@ -1,8 +1,8 @@
 ---
-title: 'Chia sẻ kinh nghiệm làm dự án startup'
-date: 2024-05-28
-draft: true
-tags: ['Programming', 'AI']
+title: "Chia sẻ kinh nghiệm làm dự án startup"
+date: 2024-05-30
+draft: false
+tags: ["Programming", "AI"]
 ---
 
 Bài viết chia sẻ một số kinh nghiệm về làm dự án start up công nghệ với vai trò là một lập trình viên (Dev). Còn nếu bạn muốn xem chia sẻ kinh nghiệm về làm các dự án maintain cho lập trình viên thì [xem ở đây](/blog/chia-se-kinh-nghiem-lam-du-an-maintain/) nhé.
@@ -11,7 +11,9 @@ Về đặc điểm chung thì các dự án startup thường là:
 - Các dự án mới, nhiều khi ý tưởng chưa rõ ràng, requirement chưa đầy đủ.
 - Có thể được lựa chọn công nghệ. Cũng có thể phải áp dụng nhiều công nghệ mới mà mình không biết, không quen thuộc.
 - Bạn là lập trình viên nhưng có thể sẽ phải kiêm nhiệm thêm nhiều nhiệm vụ khác như BA, Design, Tester, ... 😂
-- Thời gian là vàng, cần tung ra sản phẩm càng nhanh càng tốt. 
+- Thời gian là vàng, cần tung ra sản phẩm càng nhanh càng tốt.
+
+![Thời gian là vàng](/images/thoi-gian-la-vang.png)
 
 Dựa vào những đặc điểm trên thì có thể rút ra một số kinh nghiệm dành cho các lập trình viên:
 

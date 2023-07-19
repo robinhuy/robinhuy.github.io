@@ -1,8 +1,8 @@
 ---
-title: 'Chia sẻ kinh nghiệm làm dự án maintain'
+title: "Chia sẻ kinh nghiệm làm dự án maintain"
 date: 2024-05-26
 draft: false
-tags: ['Programming', 'AI']
+tags: ["Programming", "AI"]
 ---
 
 Đã là lập trình viên thì chắc bạn sẽ không thể tránh khỏi phải làm các dự án maintain (bảo trì dự án, fix bug, ...), chỉ là sớm hay muộn 😅
