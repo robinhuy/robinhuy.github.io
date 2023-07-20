@@ -30,6 +30,8 @@ Code base tốt sẽ giúp phát triển dự án nhanh hơn và dễ mở rộn
 
 Nếu không có code base tốt mà vừa làm vừa sửa, vừa bổ sung, thì sẽ tốn rất nhiều thời gian. Nhưng cũng đừng quá sa đà vào việc dựng code base, chỉ cần đủ dùng và có khả năng mở rộng, customize tốt là được.
 
+Trong trường hợp bạn có sẵn code base rồi thì trước khi start project cũng nên update lại, nâng cấp các package lên bản mới hơn để tránh sau này khi maintain đỡ khổ.
+
 ### 3. Tìm Kiếm và Tận Dụng Tài Nguyên
 
 Vì là startup nên thời gian là vàng. Hãy cố gắng tận dụng tất cả các công cụ, công nghệ giúp tăng năng suất và hiệu quả công việc.
