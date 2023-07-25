@@ -35,6 +35,8 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 - {{< link link="https://c.lazada.vn/t/c.0lXZPl" text="Áo len nữ giữ nhiệt dài tay cổ cao" >}} (Lazada)
 - {{< link link="https://c.lazada.vn/t/c.0JoqOf" text="Mũ tai bèo chống nắng dành cho cả nam và nữ" >}} (Lazada)
 - {{< link link="https://shope.ee/VY1N0KCbR" text="Găng tay cảm ứng ngón trỏ điện thoại Naturehike dành cho cả nam và nữ" >}} (Shopee)
+- {{< link link="https://s.shopee.vn/9pJN7Z0BYJ" text="Quần bơi nam lửng cao cấp, 2 lớp chính hãng HAIZID kiểu dáng Sport co giãn 4 chiều chống thấm tốt, nhanh khô" >}} (Shopee)
+- {{< link link="https://s.shopee.vn/9A3gK9BphW" text="Kính bơi cận thị chống sương mù, độ nét cao chính hãng Lining" >}} (Shopee)
 - {{< link link="https://shope.ee/2AgFMY13Fx" text="Dây đeo cổ tay thay thế bằng silicon cho Xiaomi Miband 4" >}} (Shopee)
 - {{< link link="https://shope.ee/2KzfZromo4" text="Đồng hồ Xiaomi Mi Band 5, Miband 4C - Nguyên seal BH 1 năm" >}} (Shopee)
 
