@@ -45,6 +45,7 @@ Nếu bạn cảm thấy blog có ích, có thể ủng hộ mình phí duy trì
 - {{< link link="https://c.lazada.vn/t/c.0JoINN" text="Vali du lịch, vali cao cấp Kingsun nhựa tổng hợp KS-155" >}} (Lazada)
 - {{< link link="https://c.lazada.vn/t/c.0ExVh1" text="Gậy tự sướng chụp ảnh Bluetooth Xiaomi Tripod 3 chân XMZPG01YM" >}} (Lazada)
 - {{< link link="https://shope.ee/1VQYYDRGhU" text="Ổ cắm điện đa năng du lịch Universal Travel Adapter nhiều đầu" >}} (Shopee)
+- {{< link link="https://s.shopee.vn/3VQPoy86QZ" text="Máy Cạo Râu Điện Mini Bỏ Túi 3 Lưỡi" >}} (Shopee)
 
 -&nbsp;-&nbsp;-&nbsp;-&nbsp;-
 
