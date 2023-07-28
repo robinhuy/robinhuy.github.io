@@ -71,7 +71,7 @@ Bug liên quan ở đây không phải là _edge case_ của bug mình đang fix
 
 Trường hợp này nên báo lại với Project Manager hoặc Leader chứ không tiện tay fix luôn vào bug đang fix. Vì nó có thể làm tăng phạm vi của bug, gây khó khăn trong việc quản lý, và giống như mình đang "mua thêm việc".
 
-### 8. Cần đọc hiểu code logic, business logic trước khi sửa
+### 8. Cần đọc hiểu code logic, business logic trước khi sửa (càng kỹ càng tốt)
 
 Cái này thì chắc chắn rồi. Tuy nhiên mình vẫn gặp một số trường hợp có dev chỉ `fix cho nó chạy được` (đúng với test case), chứ không hiểu hết toàn bộ code logic liên quan, dẫn đến phát sinh thêm bug khác.
 
