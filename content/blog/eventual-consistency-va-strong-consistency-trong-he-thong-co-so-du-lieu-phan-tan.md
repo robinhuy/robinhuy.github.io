@@ -1,11 +1,11 @@
 ---
-title: "Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán"
+title: 'Eventual Consistency và Strong Consistency trong hệ thống Cơ sở dữ liệu phân tán'
 date: 2018-10-12
 draft: false
-tags: ["Database"]
+tags: ['Database']
 ---
 
-Một Database Transaction, theo như định nghĩa sẽ phải thỏa mãn các tính chất sau: [Atomic](<https://en.wikipedia.org/wiki/Atomicity_(database_systems)>), [Consistency](<https://en.wikipedia.org/wiki/Consistency_(database_systems)>), [Isolation](<https://en.wikipedia.org/wiki/Isolation_(database_systems)>) và [Durable](<https://en.wikipedia.org/wiki/Durability_(database_systems)>) (hay thường được gọi là [ACID](<https://en.wikipedia.org/wiki/ACID_(computer_science)>)). Bài viết này sẽ tập trung vào tính chất Consistency (tính nhất quán), và so sánh giữa **Eventual Consistency** với **Strong Consistency** trong hệ thống **Distributed Databases** qua các ví dụ đời thường.
+Một Database Transaction, theo như định nghĩa sẽ phải thỏa mãn các tính chất sau: {{< link link="https://en.wikipedia.org/wiki/Atomicity_(database_systems)" text="Atomic" >}}, {{< link link="https://en.wikipedia.org/wiki/Consistency_(database_systems)" text="Consistency" >}}, {{< link link="https://en.wikipedia.org/wiki/Isolation_(database_systems)" text="Isolation" >}} và {{< link link="https://en.wikipedia.org/wiki/Durability_(database_systems)" text="Durable" >}} (hay thường được gọi là {{< link link="https://en.wikipedia.org/wiki/ACID_(computer_science)" text="ACID" >}}). Bài viết này sẽ tập trung vào tính chất Consistency (tính nhất quán), và so sánh giữa **Eventual Consistency** với **Strong Consistency** trong hệ thống **Distributed Databases** qua các ví dụ đời thường.
 
 ## Lý thuyết
 
@@ -33,7 +33,7 @@ Việc đồng bộ dữ liệu này sẽ tốn thời gian (có thể rất nh�
 
 Quay lại ví dụ của Duy:
 
-- Cứ mỗi tuần vào tối Thứ Sáu Duy sẽ đồng bộ dữ liệu trong laptop với ổ cứng di động.
+- Cứ mỗi tuần vào tối Thứ Sáu, Duy sẽ đồng bộ dữ liệu trong laptop với ổ cứng di động.
 
 - Tối Chủ Nhật, Long là bạn của Duy mượn ổ cứng di động của Duy để xem phim. Lúc này Long có thể lấy luôn ổ cứng mang về và có toàn bộ dữ liệu cho đến lần sao lưu gần nhất (tức là nếu Thứ Bảy hoặc sáng Chủ Nhật Duy download thêm phim thì trong ổ cứng sẽ không có).
 
@@ -49,7 +49,7 @@ Chỉ đến khi dữ liệu giữa các replica đã nhất quán thì chúng t
 
 Quay lại ví dụ của Duy:
 
-- Cứ mỗi tuần vào tối Thứ Bảy Duy sẽ đồng bộ dữ liệu trong laptop Dropbox.
+- Cứ mỗi tuần vào tối Thứ Bảy, Duy sẽ đồng bộ dữ liệu trong laptop Dropbox.
 
 - Tối Chủ Nhật, Dương cũng là bạn của Duy xin link Dropbox để tải phim. Lúc này Duy bảo: "Tôi đã share cho ông link qua Slack rồi nhé, nhưng để mai hãy down thì sẽ có phim mới nhất tôi vừa down sáng nay".
 
