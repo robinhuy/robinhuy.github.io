@@ -1,8 +1,8 @@
 ---
-title: "29 câu lệnh Linux bạn nên biết - Phần 2"
+title: '29 câu lệnh Linux bạn nên biết - Phần 2'
 date: 2015-08-15
 draft: false
-tags: ["Linux"]
+tags: ['Linux']
 ---
 
 ... tiếp theo [29 câu lệnh Linux bạn nên biết phần 1](/blog/29-cau-lenh-linux-ban-nen-biet-phan-1)
@@ -93,4 +93,6 @@ Bạn cũng có thể dùng lệnh **top -u** ​ để xem thông tin các ti�
 
 **shutdown** ​ lệnh tắt máy tính. Có thể dùng **shutdown -r** để khởi động lại máy tính.
 
-_Nguồn: http://www.hongkiat.com/blog/basic-linux-commands/_
+---
+
+Nguồn: {{< link link="http://www.hongkiat.com/blog/basic-linux-commands/" text="http://www.hongkiat.com/blog/basic-linux-commands" >}}

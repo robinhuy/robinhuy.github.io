@@ -1,8 +1,8 @@
 ---
-title: "Các cách đẩy code lên Github"
+title: 'Các cách đẩy code lên Github'
 date: 2021-05-29
 draft: false
-tags: ["Github"]
+tags: ['Github']
 ---
 
 {{< link link="https://github.com" text="Github" >}} là một dịch vụ cung cấp kho lưu trữ (repository) mã nguồn Git trên nền tảng Web.
@@ -11,7 +11,7 @@ Chúng ta đẩy code lên trên Github để quản lý và chia sẻ code dễ
 
 > Ngoài ra đẩy code lên Github còn giúp chúng ta tạo ra các static page một cách nhanh chóng và miễn phí, tham khảo bài viết này [Các cách tạo web tĩnh với Github](/blog/cac-cach-tao-web-tinh-voi-github).
 
-Đầu tiên các bạn cần đăng ký tài khoản trên Github trước, sau đó tạo một repository mới (là nơi để chứa source code của project). Chú ý đặt username hay một chút vì Github sẽ tặng mỗi tài khoản một tên miền miễn phí dạng _[username.github.io](http://username.github.io)_.
+Đầu tiên các bạn cần đăng ký tài khoản trên Github trước, sau đó tạo một repository mới (là nơi để chứa source code của project). Chú ý đặt username hay một chút vì Github sẽ tặng mỗi tài khoản một tên miền miễn phí dạng _username.github.io_.
 
 ![Tạo mới repository bước 1](/images/github-new-repository-1.png)
 
