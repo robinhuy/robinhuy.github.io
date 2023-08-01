@@ -11,7 +11,7 @@ Thông thường khi làm dự án với Entity Framework, chúng ta hay dùng c
 
 ### **Cài đặt provider**
 
-Để cài đặt provider thì chúng ta có thể cài đặt qua **NuGet** hoặc download trên trang chủ của Oracle. Nhưng do tính chất công việc cần bảo mật, mình không được sử dụng internet nên chọn cách sử dụng bộ cài **ODAC** trên Oracle: [http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html](http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html). Các bạn có thể sử dụng phiên bản ODAC 11.2 trở lên, ở đây mình dùng hẳn luôn bản mới **ODAC 12c Release 4** vì nó có tính tương thích ngược.
+Để cài đặt provider thì chúng ta có thể cài đặt qua **NuGet** hoặc download trên trang chủ của Oracle. Nhưng do tính chất công việc cần bảo mật, mình không được sử dụng internet nên chọn cách sử dụng bộ cài **ODAC** trên Oracle: {{< link link="http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html" text="http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html" >}}. Các bạn có thể sử dụng phiên bản ODAC 11.2 trở lên, ở đây mình dùng hẳn luôn bản mới **ODAC 12c Release 4** vì nó có tính tương thích ngược.
 
 Để cài ODAC thì các bạn chỉ cần giải nén file tải về và chạy tệp **setup.exe** (Oracle Universal Installer), nhưng sẽ có 1 số lưu ý sau:
 
