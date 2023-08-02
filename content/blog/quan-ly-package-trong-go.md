@@ -1,15 +1,15 @@
 ---
-title: "Quản lý package trong Go"
+title: 'Quản lý package trong Go'
 date: 2018-03-30
 draft: false
-tags: ["Go"]
+tags: ['Go']
 ---
 
 Để sử dụng 1 package trong Go ta dùng lệnh **import**:
 
 - Với _local package_ (các package nằm trong project) thì ta có thể sử dụng đường dẫn tương đối.
 
-- Với _external package_ (các package bên ngoài project) thì ta sẽ phải cài đặt vào trong [$GOPATH](https://github.com/golang/go/wiki/GOPATH) (đây là một biến môi trường để thiết lập nơi cài package).
+- Với _external package_ (các package bên ngoài project) thì ta sẽ phải cài đặt vào trong {{< link link="https://github.com/golang/go/wiki/GOPATH" text="$GOPATH" >}} (đây là một biến môi trường để thiết lập nơi cài package).
 
 Để cài đặt package thì chúng ta có thể dùng các cách sau:
 
@@ -21,7 +21,7 @@ tags: ["Go"]
 go get github.com/go-pg/pg
 ```
 
-Lệnh trên sẽ tải thư viện [github.com/go-pg/pg](https://github.com/go-pg/pg) và lưu vào trong đường dẫn **$GOPATH/src**. Ví dụ _$GOPATH="/home/robin"_ thì package sẽ được tải về và lưu vào trong đường dẫn _/home/robin/src_ với cấu trúc thư mục là **[domain]/[organization]/[repository]**(để tránh trùng lặp vì các package có thể trùng tên)
+Lệnh trên sẽ tải thư viện {{< link link="https://github.com/go-pg/pg" text="go-pg/pg" >}} và lưu vào trong đường dẫn **$GOPATH/src**. Ví dụ _$GOPATH="/home/robin"_ thì package sẽ được tải về và lưu vào trong đường dẫn _/home/robin/src_ với cấu trúc thư mục là **[domain]/[organization]/[repository]**(để tránh trùng lặp vì các package có thể trùng tên)
 
 ![Gopath structure](/images/gopath-structure.png)
 
@@ -29,7 +29,7 @@ Lệnh trên sẽ tải thư viện [github.com/go-pg/pg](https://github.com/go
 
 - Quản lý package theo kiểu phân tán (decentralized), các package không lưu tập trung trong project mà lưu trong _$GOPATH_. Package chỉ cần cài một lần, sử dụng được cho nhiều project (chỉ cần import không cần cài lại).
 - Các package có thể gọi lẫn nhau mà không bị chồng chéo (package lồng vào nhau nhiều cấp).
-- Một số package cung cấp file binary đặt trong **$GOPATH/bin**, cho phép chúng ta sử dụng ở mọi chỗ (ví dụ [protoc-gen-go](https://github.com/golang/protobuf) cho phép tạo ra code Go từ file Proto).
+- Một số package cung cấp file binary đặt trong **$GOPATH/bin**, cho phép chúng ta sử dụng ở mọi chỗ (ví dụ {{< link link="https://github.com/golang/protobuf" text="protoc-gen-go" >}} cho phép tạo ra code Go từ file Proto).
 
 Nhược điểm:
 
@@ -38,7 +38,7 @@ Nhược điểm:
 
 ## **Dep**
 
-[Dep](https://github.com/golang/dep) cũng là một _package manager_ cho Go. Nó cung cấp một số chức năng mà **go get** không có:
+{{< link link="https://github.com/golang/dep" text="Dep" >}} cũng là một _package manager_ cho Go. Nó cung cấp một số chức năng mà **go get** không có:
 
 - Quản lý được các package sử dụng trong project.
 - Cài nhiều package một lúc dựa vào phân tích code và thiết lập được version của các package.
@@ -63,7 +63,7 @@ Lệnh **dep init** dùng để khởi tạo ra môi trường làm việc với
 - **Gopkg.toml**: Định nghĩa một số quy định quản lý của Dep như phiên bản nào của package được sử dụng, source của package, ... (tương tự package.json của npm hay gemfile của Ruby, ...).
 - **Gopkg.lock**: Được tự động sinh ra mỗi khi thực hiện lệnh **dep init** hoặc **dep ensure**, nó như một bản snapshot, ghi lại các trạng thái và thao tác khi update hay cài đặt package.
 
-Lệnh **dep ensure** dùng để cài đặt các package dựa vào file **Gopkg.toml** và các file **.go** trong project (Dep sẽ đọc các lệnh _import_ trong các file _.go_ để tìm ra các package đang sử dụng). Các package được cài vào trong thư mục **vendor** của project với cấu trúc giống như trong _$GOPATH_.
+Lệnh **dep ensure** dùng để cài đặt các package dựa vào file **Gopkg.toml** và các file **.go** trong project (Dep sẽ đọc các lệnh _import_ trong các file *.go* để tìm ra các package đang sử dụng). Các package được cài vào trong thư mục **vendor** của project với cấu trúc giống như trong _$GOPATH_.
 
 Một số chú ý khi sử dụng Dep:
 
@@ -71,13 +71,13 @@ Một số chú ý khi sử dụng Dep:
 - Khi lần đầu chạy **dep init** nếu là một project có sẵn chưa sử dụng Dep thì thời gian chạy lệnh có thể lâu do Dep phải đọc toàn bộ source có sẵn để tìm ra các package đang sử dụng.
 - Nếu import _local package_ thì không sử dụng đường dẫn tương đối như **go get** mà sử dụng đường dẫn như với các _external package_.
 
-_Tham khảo thêm về Dep: [https://golang.github.io/dep/docs/introduction.html](https://golang.github.io/dep/docs/introduction.html)_
+_Tham khảo thêm về Dep: {{< link link="https://golang.github.io/dep/docs/introduction.html" text="https://golang.github.io/dep/docs/introduction.html" >}}_
 
 ## **Glide**
 
-Tương tự như Deb, tuy nhiên theo quan điểm cá nhân thì [Glide](https://github.com/Masterminds/glide) dễ dùng hơn Deb.
+Tương tự như Deb, tuy nhiên theo quan điểm cá nhân thì {{< link link="https://github.com/Masterminds/glide" text="Glide" >}} dễ dùng hơn Deb.
 
-Cài đặt: xem hướng dẫn tại đây: [https://github.com/Masterminds/glide#install](https://github.com/Masterminds/glide#install)
+Cài đặt: xem hướng dẫn tại đây: {{< link link="https://github.com/Masterminds/glide#install" text="https://github.com/Masterminds/glide#install" >}}.
 
 Cách dùng cũng tương tự Deb, có 2 file là:
 
