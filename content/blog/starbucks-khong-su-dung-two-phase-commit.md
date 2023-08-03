@@ -1,8 +1,8 @@
 ---
-title: "Starbucks không sử dụng Two-Phase Commit"
+title: 'Starbucks không sử dụng Two-Phase Commit'
 date: 2018-10-20
 draft: false
-tags: ["Design Pattern", "English Translated"]
+tags: ['Design Pattern', 'English Translated']
 ---
 
 Tôi vừa trở về sau một chuyến du lịch 2 tuần đến Nhật Bản.
@@ -13,7 +13,7 @@ Một trong những hình ảnh quen thuộc ở đây đó là số lượng l�
 
 Starbucks cũng như hầu hết các công ty khác thì đều muốn tối đa số lượng khách hàng có thể phục vụ. Càng đông khách thì lợi nhuận càng cao. Do đó họ đã sử dụng _quy trình bất đồng bộ_ (asynchronous processing).
 
-Khi bạn yêu cầu đồ uống, nhân viên thu ngân sẽ đánh dấu một chiếc cốc với đơn hàng của bạn và đưa nó vào một hàng đợi (queue). Hàng đợi chỉ đơn giản là một dãy những chiếc cốc xếp hàng và chuyển sang cho thợ pha cà phê. Bằng cách này, nhân viên thu ngân sẽ có thể tiếp tục nhận thêm đơn hàng kể cả khi đơn hàng cũ chưa xử lý xong. Trong trường hợp cửa hàng quá đông khách, họ có thể áp dụng kịch bản [Competing Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) để phục vụ khách tốt hơn: Vẫn chỉ một nhân viên thu ngân nhưng thuê nhiều nhân viên pha cà phê.
+Khi bạn yêu cầu đồ uống, nhân viên thu ngân sẽ đánh dấu một chiếc cốc với đơn hàng của bạn và đưa nó vào một hàng đợi (queue). Hàng đợi chỉ đơn giản là một dãy những chiếc cốc xếp hàng và chuyển sang cho thợ pha cà phê. Bằng cách này, nhân viên thu ngân sẽ có thể tiếp tục nhận thêm đơn hàng kể cả khi đơn hàng cũ chưa xử lý xong. Trong trường hợp cửa hàng quá đông khách, họ có thể áp dụng kịch bản {{< link link="https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html" text="Competing Consumer" >}} để phục vụ khách tốt hơn: Vẫn chỉ một nhân viên thu ngân nhưng thuê nhiều nhân viên pha cà phê.
 
 ![Competing consumer](/images/competing-consumers.gif)
 
@@ -28,7 +28,7 @@ Ví dụ về vấn đề liên hệ (correlation problem) như đồ uống 
 
 Kết quả là đồ uống khi pha chế xong sẽ được mang ra cho khách không theo thứ tự và **cần phải mang đến đúng vị khách** đã yêu cầu đồ uống.
 
-Starbucks giải quyết vấn đề này theo một _pattern_ được sử dụng trong kiến trúc _messaging_: [Correlation Identifier](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html). Ở Mỹ, hầu hết các cửa hàng Starbucks sẽ xử lý vấn đề này bằng cách viết tên bạn lên cốc và gọi lên khi đồ uống hoàn thành. Ở những quốc gia khác, bạn sẽ phải liên hệ bằng loại đồ uống (ví dụ như nâu đá, americano, ...).
+Starbucks giải quyết vấn đề này theo một _pattern_ được sử dụng trong kiến trúc _messaging_: {{< link link="https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html" text="Correlation Identifier" >}}. Ở Mỹ, hầu hết các cửa hàng Starbucks sẽ xử lý vấn đề này bằng cách viết tên bạn lên cốc và gọi lên khi đồ uống hoàn thành. Ở những quốc gia khác, bạn sẽ phải liên hệ bằng loại đồ uống (ví dụ như nâu đá, americano, ...).
 
 ![CorrelationIdentifier Solution](/images/correlationIdentifier-solution.gif)
 
@@ -43,18 +43,18 @@ Xử lý ngoại lệ (exception handling) trong môi trường *asynchronous
 Mỗi một ví dụ trên miêu tả cho một cách xử lý ngoại lệ phổ biến:
 
 - **Write-off**: Cách đơn giản nhất đó là không làm gì hoặc loại bỏ hết những cái vừa làm. Nghe có vẻ không phải là một cách hay, tuy nhiên trong thực tế thì lựa chọn này có thể chấp nhận được. Nếu như mất mát là nhỏ thì việc xây dựng một giải pháp xử lý ngoại lệ còn tốn kém hơn là bỏ qua nó. Ví dụ như tôi đã từng làm việc cho một số nhà cung cấp dịch vụ Internet mà áp dụng cách giải quyết này cho các lỗi xảy ra ở chu trình thanh toán và cung cấp dịch vụ. Một số khách hàng có thể sử dụng dịch vụ khi chưa thực hiện xong thanh toán. Doanh thu mất đi đủ nhỏ để cho phép nghiệp vụ vận hành bình thường và cứ sau một khoảng thời gian định kỳ họ sẽ thống kê lại những tài khoản chưa thực hiện thanh toán để ngắt dịch vụ.
-- **Retry**: Khi có một số hành động trong một nhóm các hành động (ví dụ transaction) bị thất bại, chúng ta sẽ có 2 lựa chọn là *undo* những cái thành công hoặc _retry_ những cái thất bại. Retry (thực hiện lại hành động) là một lựa chọn tốt nếu như có khả năng retry thành công. Ví dụ như xung đột nghiệp vụ thì retry có thể sẽ không thành công nhưng nếu là do một hệ thống bên ngoài tạm thời không đáp ứng thì retry có thể thành công. Một ví dụ điển hình là [Idempotent Receiver](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html), trong trường hợp này chúng ta có thể đơn giản retry lại tất cả hành động vì receivers thành công sẽ bỏ qua các message trùng lặp.
+- **Retry**: Khi có một số hành động trong một nhóm các hành động (ví dụ transaction) bị thất bại, chúng ta sẽ có 2 lựa chọn là *undo* những cái thành công hoặc _retry_ những cái thất bại. Retry (thực hiện lại hành động) là một lựa chọn tốt nếu như có khả năng retry thành công. Ví dụ như xung đột nghiệp vụ thì retry có thể sẽ không thành công nhưng nếu là do một hệ thống bên ngoài tạm thời không đáp ứng thì retry có thể thành công. Một ví dụ điển hình là {{< link link="https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html" text="Idempotent Receiver" >}}, trong trường hợp này chúng ta có thể đơn giản retry lại tất cả hành động vì receivers thành công sẽ bỏ qua các message trùng lặp.
 - **Compensating Action**: Lựa chọn cuối cùng đó là _undo_ lại những hành động đã hoàn thành để đưa hệ thống trở lại trạng thái trước đó. Cách này sẽ hoạt động tốt trong các hệ thống tài chính, chúng ta có thể cộng bù lại những khoản tiền đã bị trừ đi trước đó.
 
 ![Compensating action](/images/compensating-action.png)
 
-Tất cả các cách giải quyết trên đều khác với phương pháp [Two-phase commit](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) mà dựa trên các bước riêng biệt là prepare và execute. Trong ví dụ của Starbucks, Two-phase commit tương đương với việc khách hàng chờ ở quầy thanh toán cho đến khi đồ uống được pha chế xong, sau đó khách hàng trả tiền và nhận đồ uống + biên lai thanh toán. Cả nhân viên thu ngân lẫn khách hàng đều không thể rời đi cho đến khi giao dịch hoàn tất. Sử dụng Two-phase commit có thể khiến Starbucks phá sản bởi vì số lượng khách hàng mà họ có thể phục vụ trong một khoảng thời gian là quá thấp.
+Tất cả các cách giải quyết trên đều khác với phương pháp {{< link link="https://en.wikipedia.org/wiki/Two-phase_commit_protocol" text="Two-phase commit" >}} mà dựa trên các bước riêng biệt là prepare và execute. Trong ví dụ của Starbucks, Two-phase commit tương đương với việc khách hàng chờ ở quầy thanh toán cho đến khi đồ uống được pha chế xong, sau đó khách hàng trả tiền và nhận đồ uống + biên lai thanh toán. Cả nhân viên thu ngân lẫn khách hàng đều không thể rời đi cho đến khi giao dịch hoàn tất. Sử dụng Two-phase commit có thể khiến Starbucks phá sản bởi vì số lượng khách hàng mà họ có thể phục vụ trong một khoảng thời gian là quá thấp.
 
 Cần chú ý rằng Two-phase commit có thể làm ảnh hưởng đến cách hoạt động tự do của message (và cả khả năng mở rộng) bởi vì nó phải duy trì trạng thái của các tài nguyên trong giao dịch qua các hành động bất đồng bộ.
 
 ## Conversations
 
-Sự tương tác trong quán cà phê là một ví dụ tốt của một pattern đơn giản nhưng phổ biến: [Conversation pattern](https://www.enterpriseintegrationpatterns.com/ramblings/09_correlation.html).
+Sự tương tác trong quán cà phê là một ví dụ tốt của một pattern đơn giản nhưng phổ biến: {{< link link="https://www.enterpriseintegrationpatterns.com/ramblings/09_correlation.html" text="Conversation pattern" >}}.
 
 ![Conversations messaging](/images/conversations-messaging.png)
 
@@ -66,4 +66,4 @@ Tóm lại chúng ta có thể thấy rằng thế giới thực thường là b
 
 Domo arigato gozaimasu! (xin cảm ơn rất nhiều)
 
-_Bài viết được dịch từ một chương trong sách [The best software writting I](https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) , tác giả [Gregor Hohpe](https://www.enterpriseintegrationpatterns.com/gregor.html)._
+_Bài viết được dịch từ một chương trong sách {{< link link="https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html" text="The best software writting I" >}}, tác giả {{< link link="https://www.enterpriseintegrationpatterns.com/gregor.html" text="Gregor Hohpe" >}}._
