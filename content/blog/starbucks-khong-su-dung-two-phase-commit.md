@@ -66,4 +66,4 @@ Tóm lại chúng ta có thể thấy rằng thế giới thực thường là b
 
 Domo arigato gozaimasu! (xin cảm ơn rất nhiều)
 
-_Bài viết được dịch từ một chương trong sách {{< link link="https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html" text="The best software writting I" >}}, tác giả {{< link link="https://www.enterpriseintegrationpatterns.com/gregor.html" text="Gregor Hohpe" >}}._
+_Bài viết được dịch từ một chương trong sách {{< link link="https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html" text="The best software writting I" >}}, tác giả {{< link link="https://www.enterpriseintegrationpatterns.com/gregor.html" text="Gregor&nbsp;Hohpe" >}}._
