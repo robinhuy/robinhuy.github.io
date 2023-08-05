@@ -5,11 +5,11 @@ draft: false
 tags: ["REST API", "NodeJS"]
 ---
 
-Video demo: [https://youtu.be/O6Agt4cLbfo](https://www.youtube.com/watch?v=O6Agt4cLbfo&feature=youtu.be).
+Video demo: {{< link link="https://www.youtube.com/watch?v=O6Agt4cLbfo&feature=youtu.be" text="https://youtu.be/O6Agt4cLbfo" >}}.
 
 ## Dựng Server local
 
-Yêu cầu máy tính đã cài và chạy được [Git](https://git-scm.com/) + [NodeJS](https://nodejs.org/en/).
+Yêu cầu máy tính đã cài và chạy được {{< link link="https://git-scm.com/" text="Git" >}} + {{< link link="https://nodejs.org/en/" text="NodeJS" >}}.
 
 Các bước thực hiện:
 
@@ -72,15 +72,15 @@ API mặc định là thông tin về User, toàn bộ được lưu vào trong 
 
 ![database.json](/images/database.json.png)
 
-Server sử dụng thư viện JSON Server, để xem đầy đủ tài liệu hướng dẫn về API hãy xem tại đây: [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+Server sử dụng thư viện JSON Server, để xem đầy đủ tài liệu hướng dẫn về API hãy xem tại đây: {{< link link="https://github.com/typicode/json-server" text="https://github.com/typicode/json-server" >}}.
 
-Nếu cần mockup dữ liệu lớn và ngẫu nhiên thì có thể dùng thêm dịch vụ sau [https://mockaroo.com/](https://mockaroo.com/). Mockaroo cho phép mockup dữ liệu rất đa dạng, cấu hình được tỉ lệ, viết thêm các function điều kiện để tạo dữ liệu và cho phép xuất mockup ra dưới nhiều định dạng trong đó có JSON.
+Nếu cần mockup dữ liệu lớn và ngẫu nhiên thì có thể dùng thêm dịch vụ sau {{< link link="https://mockaroo.com/" text="https://mockaroo.com" >}}. Mockaroo cho phép mockup dữ liệu rất đa dạng, cấu hình được tỉ lệ, viết thêm các function điều kiện để tạo dữ liệu và cho phép xuất mockup ra dưới nhiều định dạng trong đó có JSON.
 
 ![Mockaroo](/images/mockaroo.png)
 
 ## Dựng server online
 
-Nếu là đại gia thì có thể sử dụng VPS hoặc nếu không thì có thể sử dụng dịch vụ của [Heroku](https://www.heroku.com/) (hoặc các dịch vụ tương tự): Đăng ký tài khoản, tạo App và đẩy source code kèm file database.json lên. Khi deploy code có thể chọn Heroku Git và gõ lệnh theo hướng dẫn bên dưới hoặc chọn kết nối với Github repo để deploy code qua 1 nút bấm (hoặc auto deploy khi có commit lên github).
+Nếu là đại gia thì có thể sử dụng VPS hoặc nếu không thì có thể sử dụng dịch vụ của {{< link link="https://www.heroku.com/" text="Heroku" >}} (hoặc các dịch vụ tương tự): Đăng ký tài khoản, tạo App và đẩy source code kèm file database.json lên. Khi deploy code có thể chọn Heroku Git và gõ lệnh theo hướng dẫn bên dưới hoặc chọn kết nối với Github repo để deploy code qua 1 nút bấm (hoặc auto deploy khi có commit lên github).
 
 ![Heroku](/images/deploy-heroku.png)
 
