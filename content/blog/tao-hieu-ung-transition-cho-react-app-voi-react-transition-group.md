@@ -1,15 +1,15 @@
 ---
-title: "Tạo hiệu ứng transition cho React App với React Transition Group"
+title: 'Tạo hiệu ứng transition cho React App với React Transition Group'
 date: 2021-12-14
 draft: false
-tags: ["ReactJS"]
+tags: ['ReactJS']
 ---
 
 Để cho các App React hoạt động mượt mà hơn, đẹp hơn, trải nghiệm người dùng tốt hơn, ... thì nên có thêm các hiệu ứng animation, transition.
 
-Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện [React Transition Group](https://reactcommunity.org/react-transition-group/) để tạo hiệu ứng transition một cách nhanh chóng.
+Bài viết này mình sẽ hướng dẫn các bạn sử dụng thư viện {{< link link="https://reactcommunity.org/react-transition-group/" text="React Transition Group" >}} để tạo hiệu ứng transition một cách nhanh chóng.
 
-Để cho tiện thì mình sẽ demo code trên [stackblitz.com](https://stackblitz.com/). Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page. Dưới đây là danh sách các dependencies sử dụng trong ví dụ demo:
+Để cho tiện thì mình sẽ demo code trên {{< link link="https://stackblitz.com/" text="stackblitz.com" >}}. Trong ví dụ sẽ sử dụng cả React Router v6 để cấu hình multiple page, và có hiệu ứng transition giữa các page. Dưới đây là danh sách các dependencies sử dụng trong ví dụ demo:
 
 ![Danh sách dependencies](/images/react-transition-group-demo.png)
 
@@ -143,7 +143,7 @@ Sử dụng CSS để tạo Transition. Compnent này tương tự Component Tra
 
 Ví dụ sau tạo hiệu ứng tương tự như ví dụ trước, nhưng sử dụng CSS ở một file riêng:
 
-```react
+````react
 import React, { useState } from 'react';
 import { CSSTransition } from 'react-transition-group';
 // Nhúng CSS từ file vào Component
@@ -210,7 +210,7 @@ export default function Page1() {
 .my-node-exit-done {
   opacity: 0;
 }
-```
+````
 
 ## SwitchTransition Component
 
@@ -255,20 +255,20 @@ export default function Home() {
 ```
 
 ```css
-.fade-enter{
+.fade-enter {
   opacity: 0;
 }
-.fade-exit{
+.fade-exit {
   opacity: 1;
 }
-.fade-enter-active{
+.fade-enter-active {
   opacity: 1;
 }
-.fade-exit-active{
+.fade-exit-active {
   opacity: 0;
 }
 .fade-enter-active,
-.fade-exit-active{
+.fade-exit-active {
   transition: opacity 500ms;
 }
 ```
@@ -410,6 +410,6 @@ Sau đó đổi lại phần cấu hình routes ở `App.js` sử dụng Compone
 ...
 ```
 
-Tham khảo toàn bộ code mẫu tại đây: [https://stackblitz.com/edit/react-transition-group-react-router-v6?file=src/App.js](https://stackblitz.com/edit/react-transition-group-react-router-v6?file=src/App.js).
+Tham khảo toàn bộ code mẫu tại đây: {{< link link="https://stackblitz.com/edit/react-transition-group-react-router-v6?file=src/App.js" text="https://stackblitz.com/edit/react-transition-group-react-router-v6?file=src/App.js" >}}.
 
 Happy coding 😎
