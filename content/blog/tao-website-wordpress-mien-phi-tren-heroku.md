@@ -9,9 +9,9 @@ Thông thường 1 trang web viết bằng WordPress có thể đẩy lên Inter
 
 ## Bước 1
 
-Tạo tài khoản trên [https://heroku.com](https://heroku.com/).
+Tạo tài khoản trên {{< link link="https://heroku.com/" text="https://heroku.com" >}}.
 
-Xác nhận tài khoản bằng cách thêm hình thức thanh toán (credit card). Chỉ là thêm hình thức thanh toán chứ không mất phí. Sau khi thêm xong thì sẽ được hưởng thêm rất nhiều [quyền lợi](https://www.heroku.com/free) và được sử dụng thêm các add-on như database (cần khi cài WordPress). Nếu ai không có Credit Card thì ra ngân hàng đăng ký rất nhanh, nhiều ngân hàng cho phép lấy luôn ngay sau khi đăng ký.
+Xác nhận tài khoản bằng cách thêm hình thức thanh toán (credit card). Chỉ là thêm hình thức thanh toán chứ không mất phí. Sau khi thêm xong thì sẽ được hưởng thêm rất nhiều {{< link link="https://www.heroku.com/free" text="quyền lợi" >}} và được sử dụng thêm các add-on như database (cần khi cài WordPress). Nếu ai không có Credit Card thì ra ngân hàng đăng ký rất nhanh, nhiều ngân hàng cho phép lấy luôn ngay sau khi đăng ký.
 
 ## Bước 2
 
@@ -19,7 +19,7 @@ Tạo 1 app mới trong Heroku:
 
 ![Tạo app trong Heroku](/images/heroku-create-app.png)
 
-Tải source code [WordPress](https://wordpress.org/download/) về và giải nén, ta được thư mục **wordpress**.
+Tải source code {{< link link="https://wordpress.org/download/" text="WordPress" >}} về và giải nén, ta được thư mục **wordpress**.
 
 Đẩy source code WordPress lên app vừa tạo bằng Heroku CLI:
 
