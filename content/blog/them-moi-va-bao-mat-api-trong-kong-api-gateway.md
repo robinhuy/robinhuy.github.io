@@ -1,14 +1,14 @@
 ---
-title: "Thêm mới và bảo mật API trong Kong API Gateway"
+title: 'Thêm mới và bảo mật API trong Kong API Gateway'
 date: 2018-03-05
 draft: false
-images: ["/images/kong-create-credentials.png"]
-tags: ["API Gateway"]
+images: ['/images/kong-create-credentials.png']
+tags: ['API Gateway']
 ---
 
 Kong cung cấp một *RESTful Admin API* cho phép chúng ta thực hiện việc cấu hình và quản lý các API. Mặc định Admin API sẽ lắng nghe ở cổng **8001** và cổng **8444** cho giao thức _https_. Chú ý API này chỉ dùng trong nội bộ, không public ra ngoài, vì nó cho phép quản lý toàn bộ hệ thống API gateway của Kong.
 
-Để dễ hình dung, bài viết này sẽ hướng dẫn tạo mới các API và bảo mật cơ bản bằng plugins sử dụng [Konga](https://github.com/pantsel/konga) (GUI cho Admin API). Tuy nhiên các bạn có thể dùng **curl** hay **Postman** để test. Tài liệu tham khảo: Danh sách các endpoint và tham số của [Kong Admin API](https://getkong.org/docs/0.12.x/admin-api/).
+Để dễ hình dung, bài viết này sẽ hướng dẫn tạo mới các API và bảo mật cơ bản bằng plugins sử dụng {{< link link="https://github.com/pantsel/konga" text="Konga" >}} (GUI cho Admin API). Tuy nhiên các bạn có thể dùng **curl** hay **Postman** để test. Tài liệu tham khảo: Danh sách các endpoint và tham số của {{< link link="https://getkong.org/docs/0.12.x/admin-api/" text="Kong Admin API" >}}.
 
 Sau khi cài đặt và đăng nhập vào Konga, chúng ta sẽ kết nối Konga với Kong Admin API (chú ý Active connection):
 
@@ -16,7 +16,7 @@ Sau khi cài đặt và đăng nhập vào Konga, chúng ta sẽ kết nối Kon
 
 ## Thêm mới API
 
-_Endpoint: [Add API](https://getkong.org/docs/0.12.x/admin-api/#add-api)_
+_Endpoint: {{< link link="https://getkong.org/docs/0.12.x/admin-api/#add-api" text="Add API" >}}_
 
 ![Add API](/images/kong-api.png)
 
@@ -32,11 +32,11 @@ Các API sẽ chạy qua cổng **8000**, trong ví dụ này chúng ta chạy t
 
 ## Cấu hình plugins
 
-Để bảo mật API, chúng ta sẽ cấu hình thêm một số [plugins](https://konghq.com/plugins/) của Kong. Ví dụ để Authentication chúng ta có thể dùng một số plugins như: Basic Authentication, Key Authentication, JWT, ... (một số plugins có nhãn Enterprise sẽ phải trả phí để sử dụng).
+Để bảo mật API, chúng ta sẽ cấu hình thêm một số {{< link link="https://konghq.com/plugins/" text="plugins" >}} của Kong. Ví dụ để Authentication chúng ta có thể dùng một số plugins như: Basic Authentication, Key Authentication, JWT, ... (một số plugins có nhãn Enterprise sẽ phải trả phí để sử dụng).
 
-Plugins có thể áp dụng cho toàn bộ API hoặc cho cụ thể từng API qua name hoặc id của chúng. Endpoint [Add Plugin](https://getkong.org/docs/0.12.x/admin-api/#add-plugin).
+Plugins có thể áp dụng cho toàn bộ API hoặc cho cụ thể từng API qua name hoặc id của chúng. Endpoint {{< link link="https://getkong.org/docs/0.12.x/admin-api/#add-plugin" text="Add Plugin" >}}.
 
-Ví dụ cấu hình plugin [Basic Authentication](https://getkong.org/plugins/basic-authentication/?_ga=2.66688302.125727870.1520222260-2127029264.1519895628):
+Ví dụ cấu hình plugin {{< link link="https://getkong.org/plugins/basic-authentication/?_ga=2.66688302.125727870.1520222260-2127029264.1519895628" text="Basic Authentication" >}}:
 
 ![Add plugin](/images/kong-add-plugin.png)
 
