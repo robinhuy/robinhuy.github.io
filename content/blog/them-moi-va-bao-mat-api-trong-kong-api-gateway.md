@@ -8,7 +8,7 @@ tags: ['API Gateway']
 
 Kong cung cấp một *RESTful Admin API* cho phép chúng ta thực hiện việc cấu hình và quản lý các API. Mặc định Admin API sẽ lắng nghe ở cổng **8001** và cổng **8444** cho giao thức _https_. Chú ý API này chỉ dùng trong nội bộ, không public ra ngoài, vì nó cho phép quản lý toàn bộ hệ thống API gateway của Kong.
 
-Để dễ hình dung, bài viết này sẽ hướng dẫn tạo mới các API và bảo mật cơ bản bằng plugins sử dụng {{< link link="https://github.com/pantsel/konga" text="Konga" >}} (GUI cho Admin API). Tuy nhiên các bạn có thể dùng **curl** hay **Postman** để test. Tài liệu tham khảo: Danh sách các endpoint và tham số của {{< link link="https://getkong.org/docs/0.12.x/admin-api/" text="Kong Admin API" >}}.
+Để dễ hình dung, bài viết này sẽ hướng dẫn tạo mới các API và bảo mật cơ bản bằng plugins sử dụng {{< link link="https://github.com/pantsel/konga" text="Konga" >}} (GUI cho Admin API). Tuy nhiên các bạn có thể dùng **curl** hay **Postman** để test. Tài liệu tham khảo: Danh sách các endpoint và tham số của {{< link link="https://getkong.org/docs/0.12.x/admin-api/" text="Kong&nbsp;Admin&nbsp;API" >}}.
 
 Sau khi cài đặt và đăng nhập vào Konga, chúng ta sẽ kết nối Konga với Kong Admin API (chú ý Active connection):
 
