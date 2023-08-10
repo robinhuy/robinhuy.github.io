@@ -1,8 +1,8 @@
 ---
-title: "Thiết lập môi trường lập trình React Native"
+title: 'Thiết lập môi trường lập trình React Native'
 date: 2020-12-18
 draft: false
-tags: ["React Native"]
+tags: ['React Native']
 ---
 
 ## Nếu bạn dùng Mac
@@ -16,7 +16,7 @@ brew install node
 brew install watchman
 ```
 
-Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây [https://nodejs.org/en/](https://nodejs.org/en/) (cài bản LTS) hoặc sử dụng [nvm](https://github.com/nvm-sh/nvm) nếu bạn muốn sử dụng node với các phiên bản khác nhau.
+Riêng với Node có thể cài trực tiếp bằng cách tải bộ cài tại đây {{< link link="https://nodejs.org/en/" text="https://nodejs.org/en" >}} (cài bản LTS) hoặc sử dụng {{< link link="https://github.com/nvm-sh/nvm" text="nvm" >}} nếu bạn muốn sử dụng node với các phiên bản khác nhau.
 
 Cài **Java Development Kit** dùng Homebrew
 
@@ -24,11 +24,11 @@ Cài **Java Development Kit** dùng Homebrew
 brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
 ```
 
-Hoặc có thể tải bộ cài tại đây [https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html).
+Hoặc có thể tải bộ cài tại đây {{< link link="https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html" text="https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html" >}}.
 
 ### Bước 2: Cài môi trường phát triển cho iOS app
 
-Đảm bảo máy đã cài [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) (bản 9.4 hoặc mới hơn).
+Đảm bảo máy đã cài {{< link link="https://apps.apple.com/us/app/xcode/id497799835?mt=12" text="Xcode" >}} (bản 9.4 hoặc mới hơn).
 
 Cài Xcode Command Line Tools: Vào **Preferences...** → **Locations**
 
@@ -46,7 +46,7 @@ sudo gem install cocoapods
 
 ### Bước 3: Cài môi trường phát triển cho Android app
 
-Download và cài đặt Android Studio: [https://developer.android.com/studio/index.html](https://developer.android.com/studio/index.html). Bảo đảm rằng cài đặt đầy đủ các gói sau:
+Download và cài đặt Android Studio: {{< link link="https://developer.android.com/studio/index.html" text="https://developer.android.com/studio/index.html" >}}. Bảo đảm rằng cài đặt đầy đủ các gói sau:
 
 - Android SDK
 - Android SDK Platform
@@ -85,9 +85,9 @@ source $HOME/.bash_profile
 
 ### Bước 1: Cài đặt chung
 
-Cài đặt **Node** bằng cách tải bộ cài tại đây [https://nodejs.org/en/](https://nodejs.org/en/) (cài bản LTS) và **Java Development Kit** bằng cách tải bộ cài tại đây [https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html).
+Cài đặt **Node** bằng cách tải bộ cài tại đây {{< link link="https://nodejs.org/en/" text="https://nodejs.org/en" >}} (cài bản LTS) và **Java Development Kit** bằng cách tải bộ cài tại đây {{< link link="https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html" text="https://www.oracle.com/ae/java/technologies/javase/javase-jdk8-downloads.html" >}}.
 
-Hoặc có thể dùng [chocolatey](https://chocolatey.org/) để cài:
+Hoặc có thể dùng {{< link link="https://chocolatey.org/" text="chocolatey" >}} để cài:
 
 ```bash
 choco install -y nodejs.install openjdk8
@@ -114,4 +114,4 @@ Thêm **platform-tools** vào **Path**:
 5. Chọn **Edit**.
 6. Chọn **New** và thêm **platform-tools** vào danh sách.
 
-Tham khảo: [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup)
+_Tham khảo: {{< link link="https://reactnative.dev/docs/environment-setup" text="https://reactnative.dev/docs/environment-setup" >}}._
