@@ -1,12 +1,12 @@
 ---
-title: "Tối ưu static website với Webpack"
+title: 'Tối ưu static website với Webpack'
 date: 2021-06-19
 draft: false
-images: ["/images/webpack-demo-3.png"]
-tags: ["Webpack"]
+images: ['/images/webpack-demo-3.png']
+tags: ['Webpack']
 ---
 
-Nếu bạn là một Web Frontend Developer thì chắc sẽ không xa lạ gì với [Webpack](https://webpack.js.org/), một công cụ bundle code mạnh mẽ. Webpack thường được tích hợp sẵn trong các thư viện như React, Angular, Vue, … và có nhiều người thậm chí còn không biết đến sự tồn tại cũng như tác dụng của nó 😅
+Nếu bạn là một Web Frontend Developer thì chắc sẽ không xa lạ gì với {{< link link="https://webpack.js.org/" text="Webpack" >}}, một công cụ bundle code mạnh mẽ. Webpack thường được tích hợp sẵn trong các thư viện như React, Angular, Vue, … và có nhiều người thậm chí còn không biết đến sự tồn tại cũng như tác dụng của nó 😅
 
 Bài viết này mình sẽ hướng dẫn các bạn cách tối ưu một static website (web tĩnh chỉ gồm HTML CSS JS) bằng Webpack. Chú ý static web này thuộc dạng multiple pages chứ không phải single page, và có thể áp dụng cho các website động có kiến trúc dạng Monolithic (dùng view template engine để render).
 
@@ -16,9 +16,9 @@ Ví dụ cấu trúc thư mục một static website thường có dạng như s
 
 Sau khi cắt HTML CSS từ bản thiết kế xong, trước khi đẩy code lên production, chúng ta cần thêm một bước tối ưu như: Minify (obfuscate) code, nén ảnh, đánh version file CSS, JS để revalidate cache, …
 
-Chúng ta có thể dùng các tool như [Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), … Còn trong bài này mình sẽ dùng Webpack với những tính năng ưu việt hơn, giúp lập trình viên có thể _lười hơn_.
+Chúng ta có thể dùng các tool như {{< link link="https://gruntjs.com/" text="Grunt" >}}, {{< link link="https://gulpjs.com/" text="Gulp" >}}, … Còn trong bài này mình sẽ dùng Webpack với những tính năng ưu việt hơn, giúp lập trình viên có thể _lười hơn_.
 
-Code tham khảo sau khi cấu hình xong các bạn có thể xem luôn tại đây (xem xong nhớ Star để ủng hộ tác giả): [https://github.com/robinhuy/webpack-static-pages-template.](https://github.com/robinhuy/webpack-static-pages-template)
+Code tham khảo sau khi cấu hình xong các bạn có thể xem luôn tại đây (xem xong nhớ Star để ủng hộ tác giả): {{< link link="https://github.com/robinhuy/webpack-static-pages-template" text="https://github.com/robinhuy/webpack-static-pages-template" >}}.
 
 Giờ chúng ta sẽ thử cấu hình từ đầu để hiểu được cơ bản cách Webpack hoạt động và có thể tùy biến theo từng trường hợp cụ thể.
 
@@ -32,7 +32,7 @@ Cài **webpack** và **webpack-cli** với môi trường dev:
 npm install webpack webpack-cli --save-dev
 ```
 
-hoặc dùng [yarn](https://yarnpkg.com/):
+hoặc dùng {{< link link="https://yarnpkg.com/" text="yarn" >}}:
 
 ```bash
 yarn add webpack webpack-cli --dev
@@ -83,9 +83,9 @@ Sau khi cài xong, jQuery sẽ được tải vào trong thư mục **node_modul
 Sửa lại file **index.js** như sau:
 
 ```javascript
-import $ from "jquery";
+import $ from 'jquery';
 
-$("body").html("<h1>Hello Webpack</h2>");
+$('body').html('<h1>Hello Webpack</h2>');
 ```
 
 Giờ để cho dễ test, các bạn tạo thêm cho mình 1 file **index.html** ở trong thư mục **dist**, sau đó nhúng file **main.js** vào trong file **index.html**
@@ -105,13 +105,13 @@ Các bạn có thể thử viết thêm function, import code từ nhiều file 
 Ở thư mục gốc tạo 1 file là **webpack.config.js** với nội dung như sau:
 
 ```javascript
-const path = require("path");
+const path = require('path');
 
 module.exports = {
-  entry: "./src/index.js",
+  entry: './src/index.js',
   output: {
-    filename: "main.js",
-    path: path.resolve(__dirname, "dist"),
+    filename: 'main.js',
+    path: path.resolve(__dirname, 'dist'),
   },
 };
 ```
@@ -132,7 +132,7 @@ File cấu hình của webpack chỉ đơn giản là export ra một object có
 
 ## 4. Sử dụng Plugin
 
-Sử dụng plugin để bổ sung thêm tính năng mong muốn, có thể dùng những plugin có sẵn hoặc tự viết. Ví dụ một số Plugin hay dùng: [HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/), [MiniCssExtractPlugin](https://webpack.js.org/plugins/mini-css-extract-plugin/), [ImageMinimizerWebpackPlugin](https://webpack.js.org/plugins/image-minimizer-webpack-plugin/), [ProvidePlugin](https://webpack.js.org/plugins/provide-plugin/).
+Sử dụng plugin để bổ sung thêm tính năng mong muốn, có thể dùng những plugin có sẵn hoặc tự viết. Ví dụ một số Plugin hay dùng: {{< link link="https://webpack.js.org/plugins/html-webpack-plugin/" text="HtmlWebpackPlugin" >}}, {{< link link="https://webpack.js.org/plugins/mini-css-extract-plugin/" text="MiniCssExtractPlugin" >}}, {{< link link="https://webpack.js.org/plugins/image-minimizer-webpack-plugin/" text="ImageMinimizerWebpackPlugin" >}}, {{< link link="https://webpack.js.org/plugins/provide-plugin/" text="ProvidePlugin" >}}.
 
 Với những plugin có sẵn trên npm thì đầu tiên chúng ta cần cài thư viện trước:
 
@@ -146,13 +146,13 @@ hoặc
 yarn add html-webpack-plugin --dev
 ```
 
-Sau khi cài xong thì khai báo plugin sử dụng ở file config với options **plugins**, giá trị của nó là 1 mảng các plugin. Ví dụ cài plugin [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) để cho phép tạo file html mẫu và tùy chỉnh inject script theo cách mình muốn.
+Sau khi cài xong thì khai báo plugin sử dụng ở file config với options **plugins**, giá trị của nó là 1 mảng các plugin. Ví dụ cài plugin {{< link link="https://github.com/jantimon/html-webpack-plugin" text="html-webpack-plugin" >}} để cho phép tạo file html mẫu và tùy chỉnh inject script theo cách mình muốn.
 
 ```javascript
-const HtmlWebpackPlugin = require("html-webpack-plugin");
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: "index.js",
+  entry: 'index.js',
 
   output: {
     path: `${__dirname}/dist`,
@@ -174,14 +174,14 @@ Vậy để tối ưu performance, vẫn cho phép cache file với thời gian 
 Thay vì làm thủ công thì chúng ta sẽ cấu hình trong webpack để webpack tự động build file với tên mới và tự động nhúng vào file html. Kết hợp option **entry** + **module** và plugin **HtmlWebpackPlugin** + **MiniCssExtractPlugin**, chúng ta có thể bundle ra các file JS, CSS với tên theo dạng **hash** hoặc **contenthash** rồi tự động nhúng vào file html.
 
 ```javascript
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
   entry: {
     index: {
-      import: "./src/index.js",
-      filename: "index.[contenthash].js",
+      import: './src/index.js',
+      filename: 'index.[contenthash].js',
     },
   },
 
@@ -193,7 +193,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin(),
     new MiniCssExtractPlugin({
-      filename: "[name].[contenthash].css",
+      filename: '[name].[contenthash].css',
     }),
   ],
 
@@ -201,14 +201,14 @@ module.exports = {
     rules: [
       {
         test: /.s?css$/,
-        use: [MiniCssExtractPlugin.loader, "css-loader"],
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
       },
     ],
   },
 };
 ```
 
-Chú ý ở trên mình có sử dụng thêm thư viện [css-loader](https://webpack.js.org/loaders/css-loader/) để cho phép import file CSS.
+Chú ý ở trên mình có sử dụng thêm thư viện {{< link link="https://webpack.js.org/loaders/css-loader/" text="css-loader" >}} để cho phép import file CSS.
 
 Test thử bằng cách tạo thêm 1 file css trong thư mục **src**, ví dụ **style.css**:
 
@@ -221,11 +221,11 @@ h1 {
 Tiếp đó import vào file **index.js**:
 
 ```javascript
-import "./style.css";
+import './style.css';
 
-import $ from "jquery";
+import $ from 'jquery';
 
-$("body").prepend("<h1>Hello Webpack</h2>");
+$('body').prepend('<h1>Hello Webpack</h2>');
 ```
 
 Chạy lại lệnh build và kết quả sẽ như này:
@@ -284,32 +284,32 @@ Thay vì dùng chung 1 file config thì bây giờ mình sẽ tạo ra 3 file:
 - **webpack.dev.js**: Chứa cấu hình cho môi trường development.
 - **webpack.prod.js**: Chứa cấu hình cho môi trường production.
 
-File **webpack.common.js** giữ nguyên, file **webpack.dev.js** và **webpack.prod.js** thì sử dụng thư viện [webpack-merge](https://www.npmjs.com/package/webpack-merge) để copy cấu hình từ file common sang và bổ sung thêm 1 số cấu hình riêng.
+File **webpack.common.js** giữ nguyên, file **webpack.dev.js** và **webpack.prod.js** thì sử dụng thư viện {{< link link="https://www.npmjs.com/package/webpack-merge" text="webpack-merge" >}} để copy cấu hình từ file common sang và bổ sung thêm 1 số cấu hình riêng.
 
 Ví dụ file **webpack.prod.js**:
 
 ```javascript
-const { merge } = require("webpack-merge");
-const common = require("./webpack.common.js");
+const { merge } = require('webpack-merge');
+const common = require('./webpack.common.js');
 
 module.exports = merge(common, {
-  mode: "production",
+  mode: 'production',
 });
 ```
 
 File **webpack.dev.js**:
 
 ```javascript
-const { merge } = require("webpack-merge");
-const common = require("./webpack.common.js");
+const { merge } = require('webpack-merge');
+const common = require('./webpack.common.js');
 
 module.exports = merge(common, {
-  mode: "development",
+  mode: 'development',
 
-  devtool: "inline-source-map",
+  devtool: 'inline-source-map',
 
   devServer: {
-    contentBase: "./dist",
+    contentBase: './dist',
     hot: true,
   },
 });
@@ -340,4 +340,4 @@ Sau đó khi cần dev thì chạy lệnh: **npm start** hoặc **yarn start**, 
 
 Vậy là xong, chúng ta đã setup xong một project static web sử dụng Webpack để bundle và tối ưu cho production. Các bạn có thể tự tìm hiểu thêm trên trang chủ của webpack để cấu hình chi tiết hơn cho từng project.
 
-Tham khảo cấu hình và cấu trúc thư mục demo đầy đủ hơn tại đây: [https://github.com/robinhuy/webpack-static-pages-template](https://github.com/robinhuy/webpack-static-pages-template).
+_Tham khảo cấu hình và cấu trúc thư mục demo đầy đủ hơn tại đây: {{< link link="https://github.com/robinhuy/webpack-static-pages-template" text="https://github.com/robinhuy/webpack-static-pages-template" >}}._
