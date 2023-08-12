@@ -33,9 +33,7 @@ Trong JavaScript sẽ có các hàm có sẵn là chạy _sync_ hoặc _async_.
 Ví dụ các hàm xử lý chuỗi, số, ... là _sync_: toUpperCase(), substr(), ...
 Các hàm viết theo dạng callback thì là _async_: setTimeout(), fetch(), ...
 
-Hoặc như trong NodeJS các bạn sẽ thấy cùng 1 tác vụ nhưng lại có đến 2 hàm như để ghi file chúng ta có [fs.writeFile](https://nodejs.org/docs/latest/api/fs.html#fswritefilefile-data-options-callback)
-(async) và [fs.writeFileSync](https://nodejs.org/docs/latest/api/fs.html#fswritefilesyncfile-data-options)
-(sync). Hàm async sẽ được khuyến khích hơn vì nó không làm chương trình bị block như sync. Ví dụ trường hợp thao tác đọc ghi file bị lỗi hoặc quá lâu thì chương trình sẽ bị block, phải chờ quá trình này hoàn tất mới thực hiện được các tác vụ phía sau.
+Hoặc như trong NodeJS các bạn sẽ thấy cùng 1 tác vụ nhưng lại có đến 2 hàm như để ghi file chúng ta có {{< link link="https://nodejs.org/docs/latest/api/fs.html#fswritefilefile-data-options-callback" text="fs.writeFile" >}} (async) và {{< link link="https://nodejs.org/docs/latest/api/fs.html#fswritefilesyncfile-data-options" text="fs.writeFileSync" >}} (sync). Hàm async sẽ được khuyến khích hơn vì nó không làm chương trình bị block như sync. Ví dụ trường hợp thao tác đọc ghi file bị lỗi hoặc quá lâu thì chương trình sẽ bị block, phải chờ quá trình này hoàn tất mới thực hiện được các tác vụ phía sau.
 
 Ok, lý thuyết chỉ tìm hiểu đến đây thôi, còn về lý thuyết sâu hơn như blocking, non blocking, event loop, ... các bạn hãy tự tìm hiểu thêm nhé. Vì lý thuyết nhiều quá thì sẽ dễ gây buồn ngủ nên chúng ta chuyển qua phần ví dụ thực hành luôn.
 
@@ -43,7 +41,7 @@ Ok, lý thuyết chỉ tìm hiểu đến đây thôi, còn về lý thuyết s�
 
 Dưới đây sẽ là một số hàm sẽ được sử dụng trong các ví dụ:
 
-- [setTimeout](https://www.w3schools.com/jsref/met_win_settimeout.asp): Là một hàm built in chạy bất đồng bộ, dùng để trì hoãn (delay) việc thực thi hàm sau 1 khoảng thời gian.
+- {{< link link="https://www.w3schools.com/jsref/met_win_settimeout.asp" text="setTimeout" >}}: Là một hàm built in chạy bất đồng bộ, dùng để trì hoãn (delay) việc thực thi hàm sau 1 khoảng thời gian.
 
 - Hàm này thì là hàm tự chế để thay thế cho _setTimeout_ ở trên nhưng là chạy theo kiểu đồng bộ, có tác dụng chờ x giây để giả lập thời gian thực thi của 1 hàm.
 
@@ -54,7 +52,7 @@ function delay(x) {
 }
 ```
 
-- [console time()](https://www.w3schools.com/jsref/met_console_time.asp): Để tính thời gian chạy chương trình.
+- {{< link link="https://www.w3schools.com/jsref/met_console_time.asp" text="console time()" >}}: Để tính thời gian chạy chương trình.
 
 Ok, bây giờ sẽ đến phần ví dụ thực tế.
 Mình sẽ viết một chương trình mô tả quy trình luộc rau, vì chắc ~~AI~~ ai cũng biết luộc rau rồi 😂.
