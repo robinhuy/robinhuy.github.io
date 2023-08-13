@@ -95,7 +95,7 @@ function soCheRau() {
 }
 ```
 
-Các bạn cũng có thể viết lại hàm `delay` thành async để tái sử dụng cho dễ. Ví dụ hàm `delay` phiên bản async:
+Các bạn cũng có thể viết lại hàm `delay` thành *async* để tái sử dụng cho dễ. Ví dụ hàm `delay` phiên bản *async*:
 
 ```javascript
 function delay(x) {
@@ -103,7 +103,7 @@ function delay(x) {
 }
 ```
 
-Sau khi viết lại các hàm thành async thì cũng cần sửa lại code `Promise.all()` ở trên một chút:
+Sau khi viết lại các hàm thành *async* thì cũng cần sửa lại code `Promise.all()` ở trên một chút:
 
 ```javascript
 console.time('run');
