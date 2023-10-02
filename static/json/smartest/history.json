@@ -1,309 +1,762 @@
 [
   {
-    "question": "Who was the ruler of the Hittite Empire known for his treaty with Egypt?\nHistory of the Middle East",
-    "answer": "Hattusili III"
-  },
-  {
-    "question": "In which century did the era of enlightened absolutism begin?\nAbsolute Monarchies"
-  },
-  {
-    "question": "What was the name of the main city of the Song dynasty?\nHistory of Ancient China",
-    "answer": "Kaifeng"
-  },
-  {
-    "question": "Which literary work describes the economic crisis of the late 1920s?\nThe Great Depression",
-    "answer": "The Grapes of Wrath"
-  },
-  {
-    "question": "What were the citizens of free cities in Germany called?\nMedieval Europe",
-    "answer": "Burghers"
-  },
-  {
-    "question": "What event in 1204 significantly changed the balance of power in the Middle East?\nCrusades",
-    "answer": "The Sack of Constantinople"
-  },
-  {
-    "question": "Which sea did Núñez de Balboa cross?\nThe Age of Great Geographical Discoveries",
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "When was the Treaty of Amiens signed?\nNapoleonic Wars",
-    "answer": "1802"
-  },
-  {
-    "question": "What was the name of the early civilization that flourished along the Indus River?\nHistory of India"
-  },
-  {
-    "question": "Which battle took place in Germany in 1813?\nNapoleonic Wars",
-    "answer": "Battle of Leipzig"
-  },
-  {
-    "question": "Who ruled Zululand in the 19th century?\nColonialism and Decolonization",
-    "answer": "The British"
-  },
-  {
-    "question": "In which document is the principle of non-violence in the struggle for India's independence laid down?\nHistory of India",
-    "answer": "Satyagraha"
-  },
-  {
-    "question": "Which economic system became widespread during the Industrial Revolution?\nIndustrial Revolution"
-  },
-  {
-    "question": "What act was signed in the Forest of Compiègne?\nWorld War I",
-    "answer": "Armistice of Compiègne"
-  },
-  {
-    "question": "In which narrow place was Napoleon's army caught in a snowstorm?\nNapoleonic Wars",
-    "answer": "Berezina"
-  },
-  {
-    "question": "Which religious movement is associated with asceticism?\nReformation and Counter-Reformation",
-    "answer": "Buddhism"
-  },
-  {
-    "question": "Who was the author of the 14 points for post-war settlement?\nWorld War I and the Interwar Period",
-    "answer": "Woodrow Wilson"
-  },
-  {
-    "question": "What was the name of the Allied plan to capture Sicily in 1943?\nWorld War II",
-    "answer": "Operation Husky"
-  },
-  {
-    "question": "What battle took place in 490 BC between the Athenians and the Persians?\nAncient Greece",
-    "answer": "Battle of Marathon"
-  },
-  {
-    "question": "Who was a famous Māori chief?\nHistory of Australia and Oceania",
-    "answer": "Te Rauparaha"
-  },
-  {
-    "question": "Which conflict lasted several decades?\nHistory of the Byzantine Empire",
-    "answer": "The Thirty Years' War"
-  },
-  {
-    "question": "Who proclaimed the general mobilization?\nFrench Revolution",
-    "answer": "Danton"
-  },
-  {
-    "question": "What was the largest conflict for the USA in the 1960s?\nHistory of the USA",
-    "answer": "Vietnam War"
-  },
-  {
-    "question": "What idea emerged in society?\nReformation",
-    "answer": "Freedom of religion"
-  },
-  {
-    "question": "Which science experienced rapid development during the Victorian era?\nVictorian Era",
-    "answer": "Biology"
-  },
-  {
-    "question": "What became an important part of culture during the Enlightenment?\nThe Age of Enlightenment",
-    "answer": "Science"
-  },
-  {
-    "question": "What was the name of the document that proclaimed the abolition of feudalism?\nFrench Revolution",
-    "answer": "Decree on the Abolition of Feudalism"
-  },
-  {
-    "question": "What was the name of the ancient city of the Indian civilization located in present-day Pakistan?\nHistory of India",
-    "answer": "Mohenjo-Daro"
-  },
-  {
-    "question": "When did the Reformation end?\nReformation and Counter-Reformation",
-    "answer": "1648"
-  },
-  {
-    "question": "What was the name of the military alliance formed against Napoleon at the end of his reign?\nNapoleonic Era",
-    "answer": "Sixth Coalition"
-  },
-  {
-    "question": "In which battle did Gustavus Adolphus die?\nThirty Years' War",
-    "answer": "Lützen"
-  },
-  {
-    "question": "What was the name of the ancient Chinese script style?\nHistory of Ancient China",
-    "answer": "Zhuanshu"
-  },
-  {
-    "question": "Which war was important for the Roman Empire?\nHistory of the Byzantine Empire",
-    "answer": "Second Punic War"
-  },
-  {
-    "question": "In which city was the famous ziggurat built?\nAncient Civilizations of Mesopotamia",
-    "answer": "Ur"
-  },
-  {
-    "question": "Which country gained independence from France in 1954?\nColonialism and Decolonization",
-    "answer": "Vietnam"
-  },
-  {
-    "question": "What was the longest battle of World War II?\nWorld War II",
-    "answer": "Siege of Leningrad"
-  },
-  {
-    "question": "In what year was the first circumnavigation completed?\nThe Age of Great Geographical Discoveries",
-    "answer": "1522"
-  },
-  {
-    "question": "Which operation by American special forces failed in Cuba in 1961?\nCold War",
-    "answer": "Bay of Pigs"
-  },
-  {
-    "question": "What was the name of the act that attempted to stabilize the financial market?\nThe Great Depression",
-    "answer": "Glass-Steagall Act"
-  },
-  {
-    "question": "Which philosopher founded Confucianism?\nHistory of Ancient China",
-    "answer": "Confucius"
-  },
-  {
-    "question": "Which capital city was heavily damaged?\nThirty Years' War",
-    "answer": "Prague"
-  },
-  {
-    "question": "What was the name of the Emperor of China in the 17th century?\nAbsolute Monarchies",
-    "answer": "Kangxi"
-  },
-  {
-    "question": "What type of calendar was used in ancient civilizations?\nHistory of Ancient China",
-    "answer": "Lunar"
-  },
-  {
-    "question": "Who restored the cult of Amun-Ra?\nAncient Egypt",
-    "answer": "Tutankhamun"
-  },
-  {
-    "question": "Which ancient kingdom was known for its gold coins?\nHistory of India",
-    "answer": "Kushan"
-  },
-  {
-    "question": "What was the main navigational tool used by sailors during the Age of Discovery?\nThe Age of Great Geographical Discoveries",
-    "answer": "Astrolabe"
+    "question": "How did the Enlightenment affect social structures?\nThe Age of Enlightenment",
+    "answer": "Reforms and progress"
   },
   {
     "question": "In what year was the Battle of Actium?\nRoman Empire",
     "answer": "31 BC"
   },
   {
-    "question": "Which country switched alliances during the war and joined the Entente?\nWorld War I",
-    "answer": "Italy"
+    "question": "In what year was the first circumnavigation completed?\nThe Age of Great Geographical Discoveries",
+    "answer": "1522"
   },
   {
-    "question": "Which countries were part of the Warsaw Pact?\nCold War",
-    "answer": "USSR, Poland, East Germany"
+    "question": "In which battle did Gustavus Adolphus die?\nThirty Years' War",
+    "answer": "Lützen"
   },
   {
-    "question": "What was the main reason for the deterioration of Germany's economy during the war?\nThirty Years' War"
+    "question": "In which century did the Babylonian Captivity occur?\nHistory of the Middle East",
+    "answer": "6th century BC"
   },
   {
-    "question": "Who wrote 'Madame Bovary'?\nVictorian Era",
-    "answer": "Gustave Flaubert"
+    "question": "In which century did the construction of Petra begin?\nHistory of the Middle East",
+    "answer": "4th century BC"
   },
   {
-    "question": "What significant event is associated with Subutai?\nMongol Empire",
-    "answer": "Battle of the Kalka River"
+    "question": "In which century did the era of enlightened absolutism begin?\nAbsolute Monarchies"
   },
   {
-    "question": "Which law introduced social insurance?\nThe Great Depression",
-    "answer": "Social Security Act"
-  },
-  {
-    "question": "What was the original name of Australia?\nHistory of Australia and Oceania",
-    "answer": "New Holland"
-  },
-  {
-    "question": "Who created the first electric car?\nHistory of Science and Technology",
-    "answer": "Gustave Trouvé"
-  },
-  {
-    "question": "What was the name of the first major battle of the Crusaders?\nCrusades",
-    "answer": "Antioch"
-  },
-  {
-    "question": "What was the name of the patient who was the first in history to successfully receive a kidney transplant?\nHistory of Science and Technology",
-    "answer": "Ruth Tucker"
+    "question": "In which city was the famous ziggurat built?\nAncient Civilizations of Mesopotamia",
+    "answer": "Ur"
   },
   {
     "question": "In which city were significant archaeological finds discovered?\nAncient Civilizations of Mesopotamia",
     "answer": "Ur"
   },
   {
-    "question": "Which plague is known as the 'Black Death'?\nMedieval Europe",
-    "answer": "Bubonic plague"
+    "question": "In which country was the dictator Pol Pot?\nModern History",
+    "answer": "Cambodia"
   },
   {
-    "question": "Which German Kaiser initiated the construction of colonies in Africa?\nHistory of Africa",
-    "answer": "Wilhelm II"
+    "question": "In which document is the principle of non-violence in the struggle for India's independence laid down?\nHistory of India",
+    "answer": "Satyagraha"
   },
   {
-    "question": "Who was the first to explore Lake Victoria?\nThe Age of Great Geographical Discoveries",
-    "answer": "John Hanning Speke"
+    "question": "In which narrow place was Napoleon's army caught in a snowstorm?\nNapoleonic Wars",
+    "answer": "Berezina"
   },
   {
-    "question": "When did the Pacific War occur?\nHistory of Australia and Oceania",
-    "answer": "1941-1945"
+    "question": "The city where John Calvin ruled?\nReformation and Counter-Reformation",
+    "answer": "Geneva"
   },
   {
-    "question": "Who was the President of France in 2010?\nModern History",
-    "answer": "Nicolas Sarkozy"
+    "question": "Under which ruler did the Great Migration of Peoples occur?\nRoman Empire",
+    "answer": "Valens"
   },
   {
-    "question": "Which treaty was signed in 1987 to reduce intermediate-range missiles?\nCold War",
-    "answer": "INF Treaty"
+    "question": "What act was signed in the Forest of Compiègne?\nWorld War I",
+    "answer": "Armistice of Compiègne"
   },
   {
-    "question": "Which document regulated the rights of the empire?\nHistory of the Byzantine Empire",
-    "answer": "Legislative act"
+    "question": "What amount was covered by the famous insurance policy?\nThe Great Depression",
+    "answer": "$2500"
   },
   {
-    "question": "What was the name of the leader of the revolutionary movement in Madagascar?\nHistory of Africa",
-    "answer": "Ranavalona"
+    "question": "What battle took place in 490 BC between the Athenians and the Persians?\nAncient Greece",
+    "answer": "Battle of Marathon"
+  },
+  {
+    "question": "What became an important part of culture during the Enlightenment?\nThe Age of Enlightenment",
+    "answer": "Science"
+  },
+  {
+    "question": "What doctrine was the foundation of John Calvin's teachings?\nReformation",
+    "answer": "Predestination"
+  },
+  {
+    "question": "What ended the rule of the British East India Company in India?\nHistory of India",
+    "answer": "The Great Rebellion of 1857"
+  },
+  {
+    "question": "What event in 1204 significantly changed the balance of power in the Middle East?\nCrusades",
+    "answer": "The Sack of Constantinople"
+  },
+  {
+    "question": "What factors contributed to the start of the Crusades?\nCrusades",
+    "answer": "Religious"
+  },
+  {
+    "question": "What geographical location did Napoleon call 'Trafalgar'?\nNapoleonic Era",
+    "answer": "Bay of Cadiz"
+  },
+  {
+    "question": "What goal did the philosophers of the Enlightenment pursue?\nThe Age of Enlightenment",
+    "answer": "Dissemination of knowledge"
+  },
+  {
+    "question": "What happened in Colombia in 2016?\nHistory of Latin America",
+    "answer": "Peace with FARC"
+  },
+  {
+    "question": "What idea emerged in society?\nReformation",
+    "answer": "Freedom of religion"
   },
   {
     "question": "What important social reform took place in the United Kingdom in the 19th century?\nVictorian Era",
     "answer": "Abolition of slavery"
   },
   {
-    "question": "What were the laws called that were passed by the British Parliament after the Boston Tea Party?\nAmerican Revolution",
-    "answer": "Intolerable Acts"
+    "question": "What is WikiLeaks?\nModern History",
+    "answer": "Whistleblowing website"
   },
   {
-    "question": "Which era preceded the Early Dynastic Period in Mesopotamia?\nAncient Civilizations of Mesopotamia",
-    "answer": "Proto-literate Era"
+    "question": "What is the legacy of the Empire?\nHistory of the Byzantine Empire",
+    "answer": "law"
   },
   {
-    "question": "Which ancient road connected Susa and Sardis?\nHistory of the Middle East",
-    "answer": "Royal Road"
+    "question": "What is the name of the act granting independence to Tonga?\nHistory of Australia and Oceania",
+    "answer": "Ratification"
+  },
+  {
+    "question": "What is the name of the famous cave with ancient Buddhist statues?\nHistory of Ancient China",
+    "answer": "Mogao"
+  },
+  {
+    "question": "What movement did Suharto lead in Indonesia?\nColonialism and Decolonization",
+    "answer": "New Order"
+  },
+  {
+    "question": "What period followed the Han dynasty?\nHistory of Ancient China",
+    "answer": "Three Kingdoms"
+  },
+  {
+    "question": "What phenomenon is called the 'Potato Famine'?\nVictorian Era",
+    "answer": "Potato Famine"
+  },
+  {
+    "question": "What philosophical concept did David Hume develop?\nThe Age of Enlightenment",
+    "answer": "Empiricism"
+  },
+  {
+    "question": "What rights were considered natural during the Enlightenment?\nThe Age of Enlightenment",
+    "answer": "The right to life and liberty"
+  },
+  {
+    "question": "What significant battle occurred in history?\nHistory of the Byzantine Empire",
+    "answer": "Battle of Stalingrad"
+  },
+  {
+    "question": "What significant event is associated with Subutai?\nMongol Empire",
+    "answer": "Battle of the Kalka River"
+  },
+  {
+    "question": "What significant event occurred in Mecca in the 7th century?\nHistory of the Middle East",
+    "answer": "The emergence of Islam"
   },
   {
     "question": "What term describes the mass hysteria over the threat of communism in the USA in the 1950s?\nCold War",
     "answer": "McCarthyism"
   },
   {
-    "question": "Who is the author of 'The Declaration of the Rights of Woman and the Female Citizen'?\nFrench Revolution"
+    "question": "What text is considered the anthem of Babylon?\nAncient Civilizations of Mesopotamia",
+    "answer": "Enuma Elish"
+  },
+  {
+    "question": "What title did Joseph Bonaparte hold under Napoleon?\nNapoleonic Era",
+    "answer": "King of Spain"
+  },
+  {
+    "question": "What title did Napoleon hold after his abdication in 1814?\nNapoleonic Era",
+    "answer": "Emperor of Elba"
+  },
+  {
+    "question": "What treaty ended World War I?\nAmerican Revolution",
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "question": "What type of calendar was used in ancient civilizations?\nHistory of Ancient China",
+    "answer": "Lunar"
+  },
+  {
+    "question": "What type of columns was used in the Parthenon?\nAncient Greece"
+  },
+  {
+    "question": "What was the largest conflict for the USA in the 1960s?\nHistory of the USA",
+    "answer": "Vietnam War"
+  },
+  {
+    "question": "What was the longest battle of World War II?\nWorld War II",
+    "answer": "Siege of Leningrad"
+  },
+  {
+    "question": "What was the main combat unit called in the Mongolian army?\nMongol Empire"
   },
   {
     "question": "What was the main mountain range located in the Thirteen Colonies?\nAmerican Revolution",
     "answer": "Appalachians"
   },
   {
-    "question": "Who first proposed the idea of spacetime?\nHistory of Science and Technology",
-    "answer": "Minkowski"
+    "question": "What was the main navigational tool used by sailors during the Age of Discovery?\nThe Age of Great Geographical Discoveries",
+    "answer": "Astrolabe"
+  },
+  {
+    "question": "What was the main reason for the deterioration of Germany's economy during the war?\nThirty Years' War"
+  },
+  {
+    "question": "What was the name of the Allied plan to capture Sicily in 1943?\nWorld War II",
+    "answer": "Operation Husky"
+  },
+  {
+    "question": "What was the name of the Emperor of China in the 17th century?\nAbsolute Monarchies",
+    "answer": "Kangxi"
+  },
+  {
+    "question": "What was the name of the Pharaoh's palace?\nAncient Egypt",
+    "answer": "Per-o"
+  },
+  {
+    "question": "What was the name of the act that attempted to stabilize the financial market?\nThe Great Depression",
+    "answer": "Glass-Steagall Act"
+  },
+  {
+    "question": "What was the name of the agreement with Austria in 1809?\nNapoleonic Era",
+    "answer": "Treaty of Schönbrunn"
+  },
+  {
+    "question": "What was the name of the ancient Chinese script style?\nHistory of Ancient China",
+    "answer": "Zhuanshu"
+  },
+  {
+    "question": "What was the name of the ancient city in Lower Egypt?\nAncient Egypt",
+    "answer": "Buto"
+  },
+  {
+    "question": "What was the name of the ancient city of the Indian civilization located in present-day Pakistan?\nHistory of India",
+    "answer": "Mohenjo-Daro"
+  },
+  {
+    "question": "What was the name of the boat god in Egyptian mythology?\nAncient Egypt",
+    "answer": "Khnum"
+  },
+  {
+    "question": "What was the name of the document that proclaimed the abolition of feudalism?\nFrench Revolution",
+    "answer": "Decree on the Abolition of Feudalism"
+  },
+  {
+    "question": "What was the name of the early civilization that flourished along the Indus River?\nHistory of India"
+  },
+  {
+    "question": "What was the name of the famous emperor of the Chola dynasty?\nHistory of India",
+    "answer": "Rajaraja I"
+  },
+  {
+    "question": "What was the name of the first major battle of the Crusaders?\nCrusades",
+    "answer": "Antioch"
+  },
+  {
+    "question": "What was the name of the leader of the revolutionary movement in Madagascar?\nHistory of Africa",
+    "answer": "Ranavalona"
+  },
+  {
+    "question": "What was the name of the legendary dynasty of Spartan kings?\nAncient Greece",
+    "answer": "Agiads"
+  },
+  {
+    "question": "What was the name of the main city of the Song dynasty?\nHistory of Ancient China",
+    "answer": "Kaifeng"
+  },
+  {
+    "question": "What was the name of the military alliance formed against Napoleon at the end of his reign?\nNapoleonic Era",
+    "answer": "Sixth Coalition"
+  },
+  {
+    "question": "What was the name of the military unit mainly consisting of Napoleon's old soldiers?\nNapoleonic Wars"
+  },
+  {
+    "question": "What was the name of the operation for the invasion of Norway?\nWorld War II",
+    "answer": "Operation Weserübung"
+  },
+  {
+    "question": "What was the name of the patient who was the first in history to successfully receive a kidney transplant?\nHistory of Science and Technology",
+    "answer": "Ruth Tucker"
+  },
+  {
+    "question": "What was the name of the treaty signed in 1802?\nNapoleonic Era",
+    "answer": "Treaty of Amiens"
+  },
+  {
+    "question": "What was the original name of Australia?\nHistory of Australia and Oceania",
+    "answer": "New Holland"
+  },
+  {
+    "question": "What was the significance of the Great Geographical Discoveries?\nThe Age of Great Geographical Discoveries",
+    "answer": "New trade routes"
+  },
+  {
+    "question": "What weapon was manufactured in Illinois?\nWorld War II",
+    "answer": "M1 Garand"
+  },
+  {
+    "question": "What were the citizens of free cities in Germany called?\nMedieval Europe",
+    "answer": "Burghers"
+  },
+  {
+    "question": "What were the invasion units of the German army called in 1918?\nWorld War I and the Interwar Period",
+    "answer": "Stormtroopers"
+  },
+  {
+    "question": "What were the laws called that were passed by the British Parliament after the Boston Tea Party?\nAmerican Revolution",
+    "answer": "Intolerable Acts"
+  },
+  {
+    "question": "What were the regimes called that supported the Enlightenment?\nThe Age of Enlightenment",
+    "answer": "enlightened"
+  },
+  {
+    "question": "What work did Copernicus write?\nRenaissance",
+    "answer": "On the Revolutions of the Celestial Spheres"
+  },
+  {
+    "question": "When did the Pacific War occur?\nHistory of Australia and Oceania",
+    "answer": "1941-1945"
+  },
+  {
+    "question": "When did the Reformation end?\nReformation and Counter-Reformation",
+    "answer": "1648"
+  },
+  {
+    "question": "When did the flourishing of Ancient Egypt begin?\nHistory of Africa",
+    "answer": "around 2700 BC"
+  },
+  {
+    "question": "When was the Lisbon Treaty signed?\nModern History",
+    "answer": "2007"
+  },
+  {
+    "question": "When was the Treaty of Amiens signed?\nNapoleonic Wars",
+    "answer": "1802"
+  },
+  {
+    "question": "Where did American troops achieve a strategic victory during the War of Independence?\nAmerican Revolution",
+    "answer": "Saratoga"
+  },
+  {
+    "question": "Where was the main temple located in Nineveh?\nAncient Civilizations of Mesopotamia"
+  },
+  {
+    "question": "Which African country was associated with the Berlin Conference of 1884-1885?\nHistory of Africa",
+    "answer": "Congo"
+  },
+  {
+    "question": "Which African politician received the Nobel Peace Prize in 1984?\nHistory of Africa",
+    "answer": "Desmond Tutu"
+  },
+  {
+    "question": "Which German Kaiser initiated the construction of colonies in Africa?\nHistory of Africa",
+    "answer": "Wilhelm II"
+  },
+  {
+    "question": "Which Roman emperor made Christianity the official religion?\nRoman Empire",
+    "answer": "Theodosius I"
+  },
+  {
+    "question": "Which Roosevelt initiative helped the USA out of the Great Depression?\nThe Great Depression",
+    "answer": "New Deal"
+  },
+  {
+    "question": "Which U.S. program was the most significant for creating jobs in the 1930s?\nThe Great Depression",
+    "answer": "Civil Works"
+  },
+  {
+    "question": "Which act of the British Parliament declared the colonies in a state of rebellion?\nAmerican Revolution",
+    "answer": "The Rebellion Act"
+  },
+  {
+    "question": "Which aircraft dropped the second atomic bomb?\nWorld War II"
+  },
+  {
+    "question": "Which ancient kingdom was known for its gold coins?\nHistory of India",
+    "answer": "Kushan"
+  },
+  {
+    "question": "Which ancient road connected Susa and Sardis?\nHistory of the Middle East",
+    "answer": "Royal Road"
+  },
+  {
+    "question": "Which ancient text describes governance?\nHistory of Ancient China",
+    "answer": "Shu Jing"
+  },
+  {
+    "question": "Which architect designed Big Ben?\nVictorian Era",
+    "answer": "Augustus Pugin"
+  },
+  {
+    "question": "Which army stopped the Mongol invasion in Europe?\nMongol Empire"
+  },
+  {
+    "question": "Which army won the Battle of Narva?\nThirty Years' War",
+    "answer": "Swedish"
+  },
+  {
+    "question": "Which battle gave the French Republic its first victory?\nFrench Revolution",
+    "answer": "Valmy"
+  },
+  {
+    "question": "Which battle took place in Germany in 1813?\nNapoleonic Wars",
+    "answer": "Battle of Leipzig"
+  },
+  {
+    "question": "Which battle took place in the winter of 1944-1945?\nWorld War II",
+    "answer": "Battle of the Bulge"
+  },
+  {
+    "question": "Which battle took place on October 14, 1806?\nNapoleonic Era",
+    "answer": "Battle of Jena"
+  },
+  {
+    "question": "Which battle was decisive?\nMongol Empire",
+    "answer": "Battle of Kulikovo"
+  },
+  {
+    "question": "Which capital city was heavily damaged?\nThirty Years' War",
+    "answer": "Prague"
+  },
+  {
+    "question": "Which city was besieged in November 1914?\nWorld War I",
+    "answer": "Liège"
+  },
+  {
+    "question": "Which conflict lasted several decades?\nHistory of the Byzantine Empire",
+    "answer": "The Thirty Years' War"
+  },
+  {
+    "question": "Which countries participated in the signing of the Peace of Westphalia?\nThirty Years' War",
+    "answer": "France and Spain"
+  },
+  {
+    "question": "Which countries were part of the Third Coalition against Napoleon?\nNapoleonic Era",
+    "answer": "England, Russia, Austria"
+  },
+  {
+    "question": "Which countries were part of the Warsaw Pact?\nCold War",
+    "answer": "USSR, Poland, East Germany"
+  },
+  {
+    "question": "Which country did Napoleon occupy first?\nNapoleonic Wars",
+    "answer": "Italy"
+  },
+  {
+    "question": "Which country gained independence from France in 1954?\nColonialism and Decolonization",
+    "answer": "Vietnam"
+  },
+  {
+    "question": "Which country switched alliances during the war and joined the Entente?\nWorld War I",
+    "answer": "Italy"
+  },
+  {
+    "question": "Which country was the first to gain independence in South America?\nHistory of Latin America"
+  },
+  {
+    "question": "Which document confirmed the victory of Protestantism?\nReformation",
+    "answer": "Peace of Augsburg"
+  },
+  {
+    "question": "Which document regulated the rights of the empire?\nHistory of the Byzantine Empire",
+    "answer": "Legislative act"
+  },
+  {
+    "question": "Which dynasty ruled the Holy Roman Empire?\nAbsolute Monarchies"
+  },
+  {
+    "question": "Which economic system became widespread during the Industrial Revolution?\nIndustrial Revolution"
+  },
+  {
+    "question": "Which emperor proclaimed himself 'Roman Emperor'?\nAbsolute Monarchies",
+    "answer": "Charles V"
+  },
+  {
+    "question": "Which empire ruled over most of West Africa in the 19th century?\nHistory of Africa",
+    "answer": "Sokoto"
+  },
+  {
+    "question": "Which environmental issue has intensified in recent years?\nIndustrial Revolution",
+    "answer": "Pollution"
+  },
+  {
+    "question": "Which era preceded the Early Dynastic Period in Mesopotamia?\nAncient Civilizations of Mesopotamia",
+    "answer": "Proto-literate Era"
+  },
+  {
+    "question": "Which famous humanist of the Renaissance was also a musician?\nRenaissance",
+    "answer": "Erasmus of Rotterdam"
   },
   {
     "question": "Which famous political figure died in 2004?\nModern History",
     "answer": "Yasser Arafat"
   },
   {
-    "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?\nFrench Revolution",
-    "answer": "Lafayette"
+    "question": "Which god was associated with the cycle of death and rebirth?\nAncient Egypt"
+  },
+  {
+    "question": "Which industry began to actively develop with the improvement of metallurgy?\nIndustrial Revolution",
+    "answer": "Railroad construction"
+  },
+  {
+    "question": "Which law introduced social insurance?\nThe Great Depression",
+    "answer": "Social Security Act"
+  },
+  {
+    "question": "Which law regulated rights?\nHistory of the Byzantine Empire",
+    "answer": "Code of Justinian"
+  },
+  {
+    "question": "Which literary work describes the economic crisis of the late 1920s?\nThe Great Depression",
+    "answer": "The Grapes of Wrath"
+  },
+  {
+    "question": "Which new science was actively developing in the 18th century?\nThe Age of Enlightenment",
+    "answer": "Meteorology"
+  },
+  {
+    "question": "Which operation by American special forces failed in Cuba in 1961?\nCold War",
+    "answer": "Bay of Pigs"
+  },
+  {
+    "question": "Which philosopher founded Confucianism?\nHistory of Ancient China",
+    "answer": "Confucius"
+  },
+  {
+    "question": "Which philosopher said 'Know thyself'?\nThe Age of Enlightenment"
+  },
+  {
+    "question": "Which plague is known as the 'Black Death'?\nMedieval Europe",
+    "answer": "Bubonic plague"
+  },
+  {
+    "question": "Which region in Eastern Europe was the first to undergo peaceful protests?\nThe Fall of Communism",
+    "answer": "East Germany"
+  },
+  {
+    "question": "Which region of France was known as the center of trade fairs in the Middle Ages?\nMedieval Europe",
+    "answer": "Champagne"
+  },
+  {
+    "question": "Which religious movement is associated with asceticism?\nReformation and Counter-Reformation",
+    "answer": "Buddhism"
   },
   {
     "question": "Which school subject was introduced in the USA in the 1950s?\nCold War",
     "answer": "Nuclear attack drills"
   },
   {
-    "question": "What was the name of the ancient city in Lower Egypt?\nAncient Egypt",
-    "answer": "Buto"
+    "question": "Which science experienced rapid development during the Victorian era?\nVictorian Era",
+    "answer": "Biology"
+  },
+  {
+    "question": "Which sea did Núñez de Balboa cross?\nThe Age of Great Geographical Discoveries",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which state did Kublai Khan establish?\nMongol Empire",
+    "answer": "Yuan"
+  },
+  {
+    "question": "Which treaty was signed in 1987 to reduce intermediate-range missiles?\nCold War",
+    "answer": "INF Treaty"
+  },
+  {
+    "question": "Which war was important for the Roman Empire?\nHistory of the Byzantine Empire",
+    "answer": "Second Punic War"
+  },
+  {
+    "question": "Which war was significant for the Victorian era?\nVictorian Era",
+    "answer": "Crimean War"
+  },
+  {
+    "question": "Who became the first Secretary of State of the United States?\nAmerican Revolution",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "Who built the Crystal Palace?\nVictorian Era",
+    "answer": "Joseph Paxton"
+  },
+  {
+    "question": "Who commanded the Crusader army in the Battle of Ascalon?\nCrusades",
+    "answer": "Godfrey of Bouillon"
+  },
+  {
+    "question": "Who created the first electric car?\nHistory of Science and Technology",
+    "answer": "Gustave Trouvé"
+  },
+  {
+    "question": "Who first proposed the idea of spacetime?\nHistory of Science and Technology",
+    "answer": "Minkowski"
+  },
+  {
+    "question": "Who founded the Red Cross?\nVictorian Era",
+    "answer": "Henri Dunant"
+  },
+  {
+    "question": "Who implemented reforms in Japan in the 19th century?\nAbsolute Monarchies",
+    "answer": "Emperor Meiji"
+  },
+  {
+    "question": "Who initiated the Hindu reform in the 19th century?\nHistory of India",
+    "answer": "Ram Mohan Roy"
+  },
+  {
+    "question": "Who invented the first mechanical spinning process?\nIndustrial Revolution",
+    "answer": "Richard Arkwright"
+  },
+  {
+    "question": "Who invented the mechanical loom?\nIndustrial Revolution",
+    "answer": "Edmund Cartwright"
+  },
+  {
+    "question": "Who is the author of 'The Declaration of the Rights of Woman and the Female Citizen'?\nFrench Revolution"
+  },
+  {
+    "question": "Who led the USA in 1945?\nWorld War II and its Consequences",
+    "answer": "Harry Truman"
+  },
+  {
+    "question": "Who made a significant contribution to the development of metallurgy?\nIndustrial Revolution",
+    "answer": "Abraham Darby"
+  },
+  {
+    "question": "Who proclaimed the general mobilization?\nFrench Revolution",
+    "answer": "Danton"
+  },
+  {
+    "question": "Who restored the cult of Amun-Ra?\nAncient Egypt",
+    "answer": "Tutankhamun"
+  },
+  {
+    "question": "Who ruled Prussia during the era of Enlightened Absolutism?\nAbsolute Monarchies",
+    "answer": "Frederick the Great"
+  },
+  {
+    "question": "Who ruled Zululand in the 19th century?\nColonialism and Decolonization",
+    "answer": "The British"
+  },
+  {
+    "question": "Who was Jean-Paul Marat killed by?\nFrench Revolution",
+    "answer": "Charlotte Corday"
+  },
+  {
+    "question": "Who was Max von Gallwitz?\nWorld War I",
+    "answer": "German general"
+  },
+  {
+    "question": "Who was Shaka?\nHistory of Africa",
+    "answer": "Chief"
+  },
+  {
+    "question": "Who was a famous Māori chief?\nHistory of Australia and Oceania",
+    "answer": "Te Rauparaha"
+  },
+  {
+    "question": "Who was known as the 'Most Serene Prince of Taurida'?\nFrench Revolution",
+    "answer": "Grigory Potemkin"
+  },
+  {
+    "question": "Who was the British Prime Minister during the American Revolution?\nAmerican Revolution",
+    "answer": "Lord North"
+  },
+  {
+    "question": "Who was the President of France in 2010?\nModern History",
+    "answer": "Nicolas Sarkozy"
+  },
+  {
+    "question": "Who was the Prime Minister of Japan at the beginning of World War II?\nWorld War II",
+    "answer": "Fumimaro Konoe"
+  },
+  {
+    "question": "Who was the Prime Minister of Romania after the overthrow of Ceaușescu?\nThe Fall of Communism",
+    "answer": "Petre Roman"
+  },
+  {
+    "question": "Who was the author of the 'New Deal'?\nHistory of the USA",
+    "answer": "Franklin Roosevelt"
+  },
+  {
+    "question": "Who was the author of the 14 points for post-war settlement?\nWorld War I and the Interwar Period",
+    "answer": "Woodrow Wilson"
+  },
+  {
+    "question": "Who was the chancellor under Louis XIII?\nAbsolute Monarchies"
+  },
+  {
+    "question": "Who was the commander of the German forces during World War I?\nWorld War I",
+    "answer": "Paul von Hindenburg"
+  },
+  {
+    "question": "Who was the developer of the first atomic bomb?\nHistory of the USA",
+    "answer": "Robert Oppenheimer"
+  },
+  {
+    "question": "Who was the first Viceroy of India?\nHistory of India",
+    "answer": "Canning"
+  },
+  {
+    "question": "Who was the first president of independent Panama?\nHistory of Latin America",
+    "answer": "Manuel Amador"
+  },
+  {
+    "question": "Who was the first to build the hydrogen bomb?\nHistory of Science and Technology",
+    "answer": "Edward Teller"
+  },
+  {
+    "question": "Who was the first to explore Lake Victoria?\nThe Age of Great Geographical Discoveries",
+    "answer": "John Hanning Speke"
+  },
+  {
+    "question": "Who was the first to measure the speed of light?\nHistory of Science and Technology",
+    "answer": "Ole Rømer"
+  },
+  {
+    "question": "Who was the leader of American diplomacy?\nAmerican Revolution",
+    "answer": "Franklin"
+  },
+  {
+    "question": "Who was the leader of a country known for its resistance to European colonization in the 20th century?\nHistory of Africa",
+    "answer": "Made Garang"
+  },
+  {
+    "question": "Who was the ruler of the Hittite Empire known for his treaty with Egypt?\nHistory of the Middle East",
+    "answer": "Hattusili III"
+  },
+  {
+    "question": "Who wrote \"On Peace\"?\nRenaissance",
+    "answer": "Pico della Mirandola"
+  },
+  {
+    "question": "Who wrote 'Madame Bovary'?\nVictorian Era",
+    "answer": "Gustave Flaubert"
+  },
+  {
+    "question": "Who wrote 'Middlemarch'?\nVictorian Era",
+    "answer": "George Eliot"
+  },
+  {
+    "question": "Who wrote 'The History of Byzantium'?\nHistory of the Byzantine Empire",
+    "answer": "Prokhorov"
+  },
+  {
+    "question": "Who wrote 'Utopia'?\nReformation and Counter-Reformation",
+    "answer": "Thomas More"
+  },
+  {
+    "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?\nFrench Revolution",
+    "answer": "Lafayette"
+  },
+  {
+    "question": "Who wrote the 'Manifesto of the French People'?\nFrench Revolution",
+    "answer": "Robespierre"
+  },
+  {
+    "question": "Who wrote the treatise 'On Hydrostatics'?\nRenaissance",
+    "answer": "Archimedes"
   }
 ]

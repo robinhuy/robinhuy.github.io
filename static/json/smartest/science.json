@@ -1,0 +1,363 @@
+[
+  {
+    "question": "How many base pairs are in the human genome?\nBiology"
+  },
+  {
+    "question": "What does the abbreviation BIM stand for?\nEngineering",
+    "answer": "Building Information Modeling"
+  },
+  {
+    "question": "Where is the pollen grain located?\nBotany",
+    "answer": "Androecium"
+  },
+  {
+    "question": "What are the inert forms of bacteria called?\nMicrobiology",
+    "answer": "Endospores"
+  },
+  {
+    "question": "Which cells have a full set of chromosomes?\nGenetics",
+    "answer": "Somatic"
+  },
+  {
+    "question": "What does the symbol ∫ represent in mathematics?\nMathematics",
+    "answer": "Integral"
+  },
+  {
+    "question": "What command is used in Linux to copy files?\nComputer Science",
+    "answer": "cp"
+  },
+  {
+    "question": "What is the method called for teaching robots new actions?\nRobotics",
+    "answer": "Machine learning"
+  },
+  {
+    "question": "Which scientist suggested the existence of microbes on other planets?\nAstrobiology",
+    "answer": "Carl Sagan"
+  },
+  {
+    "question": "Which robot has a gray cortex?\nRobotics",
+    "answer": "Humanoid"
+  },
+  {
+    "question": "What is the theoretical concept of multiple universes called?\nCosmology",
+    "answer": "Multiverse"
+  },
+  {
+    "question": "What is the term for the tendency of blood to clot?\nMedicine",
+    "answer": "Hypercoagulation"
+  },
+  {
+    "question": "What is the formula for variance?\nMathematics",
+    "answer": "Σ(x - μ)²/n"
+  },
+  {
+    "question": "What is the device called for measuring altitude?\nScientific Instruments and Technology",
+    "answer": "Altimeter"
+  },
+  {
+    "question": "What method is used to study bacterial DNA?\nMicrobiology",
+    "answer": "Sequencing"
+  },
+  {
+    "question": "What is the process of solving problems by breaking down a task into subtasks called?\nComputer Science",
+    "answer": "Decomposition"
+  },
+  {
+    "question": "What type of cell division leads to the formation of gametes?\nGenetics",
+    "answer": "Meiosis"
+  },
+  {
+    "question": "What temperature is required for sterilization in an autoclave?\nMicrobiology",
+    "answer": "121 °C"
+  },
+  {
+    "question": "Who proposed the term 'geosyncline'?\nGeology",
+    "answer": "James Hall"
+  },
+  {
+    "question": "When was the term 'quantum' introduced?\nQuantum Physics",
+    "answer": "1900"
+  },
+  {
+    "question": "What studies gravitational waves?\nCosmology",
+    "answer": "Laser interferometers"
+  },
+  {
+    "question": "Which vaccine helps prevent polio?\nMedicine",
+    "answer": "Oral polio vaccine"
+  },
+  {
+    "question": "What is lysozyme?\nMicrobiology",
+    "answer": "Enzyme"
+  },
+  {
+    "question": "What does cytogenetics study?\nGenetics",
+    "answer": "Chromosomes"
+  },
+  {
+    "question": "What measures air quality?\nScientific Instruments and Technology",
+    "answer": "Gas analyzer"
+  },
+  {
+    "question": "What substances are derived from petroleum?\nOrganic Chemistry",
+    "answer": "Hydrocarbons"
+  },
+  {
+    "question": "Which factor does not affect plant growth?\nBotany",
+    "answer": "Leaf color"
+  },
+  {
+    "question": "Which bacteria fix nitrogen in plant nodules?\nMicrobiology",
+    "answer": "rhizobia"
+  },
+  {
+    "question": "What does a compiler program do?\nComputer Science",
+    "answer": "Translates code"
+  },
+  {
+    "question": "Which animal was the first to conquer the air?\nZoology",
+    "answer": "insects"
+  },
+  {
+    "question": "What is the name of the method for staining bacteria?\nMicrobiology",
+    "answer": "Gram method"
+  },
+  {
+    "question": "What is analyzed first?\nScientific Methodology",
+    "answer": "Preliminary data"
+  },
+  {
+    "question": "What is epsilon in mathematics?\nMathematics",
+    "answer": "A small quantity"
+  },
+  {
+    "question": "What is cosmic microwave background radiation?\nAstronomy",
+    "answer": "Relic radiation"
+  },
+  {
+    "question": "What are plants called that convert sunlight into energy?\nAstrobiology",
+    "answer": "Photosynthetics"
+  },
+  {
+    "question": "What is the large structure that connects the hemispheres of the brain called?\nNeurobiology",
+    "answer": "Corpus callosum"
+  },
+  {
+    "question": "What is the examination of the stomach using a camera called?\nMedicine",
+    "answer": "Gastroscopy"
+  },
+  {
+    "question": "What methods are used to study earthquakes in seismology?\nSeismology",
+    "answer": "Seismographs"
+  },
+  {
+    "question": "What is an isobaric map?\nMeteorology",
+    "answer": "Pressure map"
+  },
+  {
+    "question": "What is the final collapse of a star called?\nAstronomy",
+    "answer": "Black hole"
+  },
+  {
+    "question": "Who was the first to theoretically predict the existence of black holes?\nCosmology",
+    "answer": "Karl Schwarzschild"
+  },
+  {
+    "question": "Who developed the theory of the origin of life in hydrothermal vents?\nAstrobiology",
+    "answer": "John Corliss"
+  },
+  {
+    "question": "What type of welding is used for joining rails?\nEngineering",
+    "answer": "Thermite welding"
+  },
+  {
+    "question": "What is a potential application of magnetite nanoparticles?\nNanotechnology",
+    "answer": "Targeted drug delivery"
+  },
+  {
+    "question": "What are the proteins called that accelerate chemical reactions?\nMedicine",
+    "answer": "Enzymes"
+  },
+  {
+    "question": "Which organisms live at low temperatures?\nAstrobiology",
+    "answer": "Psychrophiles"
+  },
+  {
+    "question": "What are plants that grow without soil called?\nBotany",
+    "answer": "Hydroponic"
+  },
+  {
+    "question": "What is the theory called that explains the existence of multiple universes?\nCosmology",
+    "answer": "Multiverse"
+  },
+  {
+    "question": "Which of the following fields is a metascience?\nScientific Methodology",
+    "answer": "Epistemology"
+  },
+  {
+    "question": "What is used to control pests in agriculture?\nBiotechnology",
+    "answer": "Biopesticides"
+  },
+  {
+    "question": "How many teeth does a shark have?\nZoology",
+    "answer": "3000"
+  },
+  {
+    "question": "What causes the change in temperature when ascending to a height?\nMeteorology",
+    "answer": "Adiabatic process"
+  },
+  {
+    "question": "Which part of the brain is responsible for reflexes?\nNeurobiology",
+    "answer": "Reticular formation"
+  },
+  {
+    "question": "What is the name of the tectonic fault in California?\nSeismology",
+    "answer": "San Andreas"
+  },
+  {
+    "question": "What happens when measuring the state of a quantum system?\nQuantum Physics",
+    "answer": "Wave function collapse"
+  },
+  {
+    "question": "Which equation uses an exponent?\nMathematics",
+    "answer": "Exponential"
+  },
+  {
+    "question": "What phenomenon is observed in the spectrum after light passes through a prism?\nPhysics",
+    "answer": "Dispersion"
+  },
+  {
+    "question": "What methods are used for dating fossils?\nPaleontology",
+    "answer": "Radiometric"
+  },
+  {
+    "question": "What is the process of mountain range formation called?\nGeology",
+    "answer": "Orogeny"
+  },
+  {
+    "question": "Which cells contain chloroplasts?\nBotany"
+  },
+  {
+    "question": "What is a cyclone?\nClimatology",
+    "answer": "Low pressure"
+  },
+  {
+    "question": "Where was the virus first isolated?\nMicrobiology",
+    "answer": "In a tobacco plant"
+  },
+  {
+    "question": "What role do nanoparticles play?\nNanotechnology",
+    "answer": "Catalytic"
+  },
+  {
+    "question": "What is the phenomenon called when particles are connected regardless of distance?\nQuantum Physics"
+  },
+  {
+    "question": "What are the main methods of earthquake warning?\nSeismology",
+    "answer": "Seismic activity"
+  },
+  {
+    "question": "What robots can assist in medical surgeries?\nRobotics",
+    "answer": "surgical robots"
+  },
+  {
+    "question": "What is the geological activity of oceanic plates called?\nGeology",
+    "answer": "Spreading"
+  },
+  {
+    "question": "Which of the listed machines is a state-changing automaton?\nComputer Science",
+    "answer": "Turing Machine"
+  },
+  {
+    "question": "What type of reaction involves the breaking of a C-H bond?\nOrganic Chemistry",
+    "answer": "Pyrolysis"
+  },
+  {
+    "question": "What are zoophilous plants?\nBotany",
+    "answer": "Pollinated by animals"
+  },
+  {
+    "question": "In which period did mammals first appear?\nPaleontology",
+    "answer": "Mesozoic"
+  },
+  {
+    "question": "The Michelson-Morley experiment proved the absence of?\nPhysics"
+  },
+  {
+    "question": "Who proposed the first theory of evolution?\nHistory of Science",
+    "answer": "Jean-Baptiste Lamarck"
+  },
+  {
+    "question": "What is magmatic differentiation?\nGeology",
+    "answer": "Separation of magma"
+  },
+  {
+    "question": "What was the largest earthquake in Japan?\nSeismology",
+    "answer": "Tohoku 2011"
+  },
+  {
+    "question": "What quantity is measured in Henry?\nEngineering",
+    "answer": "Inductance"
+  },
+  {
+    "question": "What does paleobotany study?\nBotany",
+    "answer": "Fossil plants"
+  },
+  {
+    "question": "In what year was the 'Viking' mission launched?\nAstrobiology",
+    "answer": "1975"
+  },
+  {
+    "question": "What is deduction?\nScientific Methodology",
+    "answer": "Inference from the general"
+  },
+  {
+    "question": "What is epigenetics?\nGenetics",
+    "answer": "Regulation of genes without changing DNA"
+  },
+  {
+    "question": "Who developed the theory of panspermia?\nAstrobiology"
+  },
+  {
+    "question": "Which atoms are subject to substitution in aromatic compounds?\nOrganic Chemistry"
+  },
+  {
+    "question": "What is the operation of finding a derivative called?\nMathematics",
+    "answer": "differentiation"
+  },
+  {
+    "question": "Which area of the brain regulates concentration and attention?\nNeurobiology",
+    "answer": "Prefrontal cortex"
+  },
+  {
+    "question": "Which particle is predicted by the electroweak theory?\nQuantum Physics",
+    "answer": "Higgs boson"
+  },
+  {
+    "question": "Which element destroys the ozone layer?\nEcology",
+    "answer": "Freon"
+  },
+  {
+    "question": "What is the test for material strength called?\nEngineering"
+  },
+  {
+    "question": "What do the letters in the abbreviation PCR stand for?\nMicrobiology",
+    "answer": "Polymerase Chain Reaction"
+  },
+  {
+    "question": "What does the principle of superposition mean?\nQuantum Physics",
+    "answer": "Multiple states"
+  },
+  {
+    "question": "Which plant is often used in genetic engineering?\nBiotechnology",
+    "answer": "Tobacco"
+  },
+  {
+    "question": "In what year did Newton publish 'Mathematical Principles of Natural Philosophy'?\nHistory of Science",
+    "answer": "1687"
+  },
+  {
+    "question": "What do endocrine glands do?\nBiology",
+    "answer": "Produce hormones"
+  }
+]
