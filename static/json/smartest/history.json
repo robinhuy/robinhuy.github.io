@@ -4,8 +4,28 @@
     "answer": "Reforms and progress"
   },
   {
+    "question": "How many Crusades were there in total?\nCrusades",
+    "answer": "9"
+  },
+  {
+    "question": "How many judges were part of the Roman Decemvir?\nRoman Empire",
+    "answer": "10"
+  },
+  {
+    "question": "In what form did the Crusaders make a promise to participate in the Crusades?\nCrusades",
+    "answer": "Oath on the cross"
+  },
+  {
+    "question": "In what year did the Battle of Austerlitz take place?\nNapoleonic Wars",
+    "answer": "1805"
+  },
+  {
     "question": "In what year was the Battle of Actium?\nRoman Empire",
     "answer": "31 BC"
+  },
+  {
+    "question": "In what year was the International Labour Organization established?\nWorld War I and the Interwar Period",
+    "answer": "1919"
   },
   {
     "question": "In what year was the first circumnavigation completed?\nThe Age of Great Geographical Discoveries",
@@ -25,6 +45,10 @@
   },
   {
     "question": "In which century did the era of enlightened absolutism begin?\nAbsolute Monarchies"
+  },
+  {
+    "question": "In which city did Napoleon sign the abdication in 1814?\nNapoleonic Wars",
+    "answer": "Fontainebleau"
   },
   {
     "question": "In which city was the famous ziggurat built?\nAncient Civilizations of Mesopotamia",
@@ -47,12 +71,28 @@
     "answer": "Berezina"
   },
   {
+    "question": "In which year did the Battle of Courtrai occur?\nMedieval Europe",
+    "answer": "1302"
+  },
+  {
+    "question": "In which year did the Sepoy Mutiny against British rule begin?\nHistory of India",
+    "answer": "1857"
+  },
+  {
+    "question": "Medieval Mongolian law:\nMongol Empire",
+    "answer": "Great Yassa"
+  },
+  {
     "question": "The city where John Calvin ruled?\nReformation and Counter-Reformation",
     "answer": "Geneva"
   },
   {
     "question": "Under which ruler did the Great Migration of Peoples occur?\nRoman Empire",
     "answer": "Valens"
+  },
+  {
+    "question": "Until what year was Haiti a French colony?\nHistory of Latin America",
+    "answer": "1804"
   },
   {
     "question": "What act was signed in the Forest of Compiègne?\nWorld War I",
@@ -71,6 +111,10 @@
     "answer": "Science"
   },
   {
+    "question": "What became important in the history of religion?\nHistory of the Byzantine Empire",
+    "answer": "Iconography"
+  },
+  {
     "question": "What doctrine was the foundation of John Calvin's teachings?\nReformation",
     "answer": "Predestination"
   },
@@ -81,6 +125,18 @@
   {
     "question": "What event in 1204 significantly changed the balance of power in the Middle East?\nCrusades",
     "answer": "The Sack of Constantinople"
+  },
+  {
+    "question": "What event is also known as the 'Berlin Crisis' of 1948?\nCold War",
+    "answer": "Berlin Blockade"
+  },
+  {
+    "question": "What event marked the victory of the Allies in the Pacific?\nWorld War II and its Consequences",
+    "answer": "Surrender of Japan"
+  },
+  {
+    "question": "What event occurred in Athens in 508 BC?\nAncient Greece",
+    "answer": "Reform of Cleisthenes"
   },
   {
     "question": "What factors contributed to the start of the Crusades?\nCrusades",
@@ -123,8 +179,16 @@
     "answer": "Mogao"
   },
   {
+    "question": "What is the name of the main law of Byzantium?\nHistory of the Byzantine Empire",
+    "answer": "Code of Justinian"
+  },
+  {
     "question": "What movement did Suharto lead in Indonesia?\nColonialism and Decolonization",
     "answer": "New Order"
+  },
+  {
+    "question": "What movement fought for democracy in Czechoslovakia in 1989?\nThe Fall of Communism",
+    "answer": "Velvet Revolution"
   },
   {
     "question": "What period followed the Han dynasty?\nHistory of Ancient China",
@@ -139,8 +203,19 @@
     "answer": "Empiricism"
   },
   {
+    "question": "What political process began in China in 1979?\nThe Fall of Communism",
+    "answer": "Reforms and Opening Up"
+  },
+  {
+    "question": "What religious reform movement began during the Renaissance?\nRenaissance",
+    "answer": "Reformation"
+  },
+  {
     "question": "What rights were considered natural during the Enlightenment?\nThe Age of Enlightenment",
     "answer": "The right to life and liberty"
+  },
+  {
+    "question": "What role did education play in the Reformation?\nReformation"
   },
   {
     "question": "What significant battle occurred in history?\nHistory of the Byzantine Empire",
@@ -153,6 +228,14 @@
   {
     "question": "What significant event occurred in Mecca in the 7th century?\nHistory of the Middle East",
     "answer": "The emergence of Islam"
+  },
+  {
+    "question": "What style predominated in Renaissance architecture?\nRenaissance",
+    "answer": "Classical"
+  },
+  {
+    "question": "What task did Anubis perform?\nAncient Egypt",
+    "answer": "weighing of the heart"
   },
   {
     "question": "What term describes the mass hysteria over the threat of communism in the USA in the 1950s?\nCold War",
@@ -171,8 +254,15 @@
     "answer": "Emperor of Elba"
   },
   {
+    "question": "What title was held by the assistant to the emperor?\nRoman Empire"
+  },
+  {
     "question": "What treaty ended World War I?\nAmerican Revolution",
     "answer": "Treaty of Versailles"
+  },
+  {
+    "question": "What type of art was developed in Ancient Rus'?\nHistory of the Byzantine Empire",
+    "answer": "icon painting"
   },
   {
     "question": "What type of calendar was used in ancient civilizations?\nHistory of Ancient China",
@@ -180,6 +270,29 @@
   },
   {
     "question": "What type of columns was used in the Parthenon?\nAncient Greece"
+  },
+  {
+    "question": "What war took place in the USA from 1775 to 1783?\nHistory of the USA",
+    "answer": "American Revolution"
+  },
+  {
+    "question": "What was Napoleon's title before he became Emperor?\nNapoleonic Era",
+    "answer": "First Consul"
+  },
+  {
+    "question": "What was adopted at the Council of Trent?\nReformation"
+  },
+  {
+    "question": "What was the capital of the Kingdom of Kambojas in ancient India called?\nHistory of India",
+    "answer": "Peshawar"
+  },
+  {
+    "question": "What was the capital of the West African Empire of Ghana?\nHistory of Africa",
+    "answer": "Koumbi Saleh"
+  },
+  {
+    "question": "What was the concession from the Pope for exercising secular power called?\nMedieval Europe",
+    "answer": "Investiture"
   },
   {
     "question": "What was the largest conflict for the USA in the 1960s?\nHistory of the USA",
@@ -201,19 +314,44 @@
     "answer": "Astrolabe"
   },
   {
+    "question": "What was the main outcome of the Washington Conference of 1921-1922?\nWorld War I and the Interwar Period",
+    "answer": "Naval Treaty"
+  },
+  {
     "question": "What was the main reason for the deterioration of Germany's economy during the war?\nThirty Years' War"
+  },
+  {
+    "question": "What was the main strategic plan of the Entente on the Western Front?\nWorld War I and the Interwar Period",
+    "answer": "Plan XVII"
+  },
+  {
+    "question": "What was the main trade union movement in Poland in the 1980s?\nThe Fall of Communism"
   },
   {
     "question": "What was the name of the Allied plan to capture Sicily in 1943?\nWorld War II",
     "answer": "Operation Husky"
   },
   {
+    "question": "What was the name of the Catholic document for teaching the basics of faith?\nReformation and Counter-Reformation"
+  },
+  {
+    "question": "What was the name of the Egyptian god of wisdom and knowledge?\nAncient Egypt",
+    "answer": "Thoth"
+  },
+  {
     "question": "What was the name of the Emperor of China in the 17th century?\nAbsolute Monarchies",
     "answer": "Kangxi"
   },
   {
+    "question": "What was the name of the Mongolian warrior's oath?\nMongol Empire"
+  },
+  {
     "question": "What was the name of the Pharaoh's palace?\nAncient Egypt",
     "answer": "Per-o"
+  },
+  {
+    "question": "What was the name of the US weapons program in the 1980s?\nCold War",
+    "answer": "SDI"
   },
   {
     "question": "What was the name of the act that attempted to stabilize the financial market?\nThe Great Depression",
@@ -236,6 +374,10 @@
     "answer": "Mohenjo-Daro"
   },
   {
+    "question": "What was the name of the battle in which the papal forces were defeated by the Ghibellines?\nMedieval Europe",
+    "answer": "Montaperti"
+  },
+  {
     "question": "What was the name of the boat god in Egyptian mythology?\nAncient Egypt",
     "answer": "Khnum"
   },
@@ -251,8 +393,16 @@
     "answer": "Rajaraja I"
   },
   {
+    "question": "What was the name of the first Soviet nuclear bomb?\nCold War",
+    "answer": "RDS-1"
+  },
+  {
     "question": "What was the name of the first major battle of the Crusaders?\nCrusades",
     "answer": "Antioch"
+  },
+  {
+    "question": "What was the name of the leader of the French Resistance?\nWorld War II",
+    "answer": "Charles de Gaulle"
   },
   {
     "question": "What was the name of the leader of the revolutionary movement in Madagascar?\nHistory of Africa",
@@ -278,12 +428,40 @@
     "answer": "Operation Weserübung"
   },
   {
+    "question": "What was the name of the operation to defeat the German forces in Belarus?\nWorld War II",
+    "answer": "Bagration"
+  },
+  {
     "question": "What was the name of the patient who was the first in history to successfully receive a kidney transplant?\nHistory of Science and Technology",
     "answer": "Ruth Tucker"
   },
   {
+    "question": "What was the name of the plan for massive economic aid to Europe after World War II?\nWorld War I and the Interwar Period",
+    "answer": "Marshall Plan"
+  },
+  {
+    "question": "What was the name of the revolutionary governing body?\nFrench Revolution",
+    "answer": "Committee of Public Safety"
+  },
+  {
+    "question": "What was the name of the sacred book of the Maya?\nHistory of Latin America",
+    "answer": "Popol Vuh"
+  },
+  {
+    "question": "What was the name of the secret agreement between Germany and the Soviet Union in 1922?\nWorld War I and the Interwar Period",
+    "answer": "Treaty of Rapallo"
+  },
+  {
     "question": "What was the name of the treaty signed in 1802?\nNapoleonic Era",
     "answer": "Treaty of Amiens"
+  },
+  {
+    "question": "What was the name of the war between Paraguay and the alliance of Argentina, Brazil, and Uruguay?\nHistory of Latin America",
+    "answer": "War of the Triple Alliance"
+  },
+  {
+    "question": "What was the name of the winter palace of the Roman emperors?\nRoman Empire",
+    "answer": "Palatine"
   },
   {
     "question": "What was the original name of Australia?\nHistory of Australia and Oceania",
@@ -294,28 +472,80 @@
     "answer": "New trade routes"
   },
   {
+    "question": "What was the signing of the peace treaty that ended the Thirty Years' War called?\nReformation",
+    "answer": "Peace of Westphalia"
+  },
+  {
+    "question": "What was the symbol of a consul's authority?\nRoman Empire",
+    "answer": "Fasces"
+  },
+  {
     "question": "What weapon was manufactured in Illinois?\nWorld War II",
     "answer": "M1 Garand"
+  },
+  {
+    "question": "What were Mongolian envoys called?\nMongol Empire",
+    "answer": "shinji"
+  },
+  {
+    "question": "What were small estates called in the Middle Ages?\nMedieval Europe",
+    "answer": "Fiefs"
+  },
+  {
+    "question": "What were the Tiananmen Square protests marked by?\nThe Fall of Communism",
+    "answer": "Violent suppression"
   },
   {
     "question": "What were the citizens of free cities in Germany called?\nMedieval Europe",
     "answer": "Burghers"
   },
   {
+    "question": "What were the first people living in Africa called?\nHistory of Africa",
+    "answer": "San"
+  },
+  {
     "question": "What were the invasion units of the German army called in 1918?\nWorld War I and the Interwar Period",
     "answer": "Stormtroopers"
+  },
+  {
+    "question": "What were the laws called that were directed against Jews in Nazi Germany?\nWorld War II and its Consequences",
+    "answer": "Nuremberg Laws"
   },
   {
     "question": "What were the laws called that were passed by the British Parliament after the Boston Tea Party?\nAmerican Revolution",
     "answer": "Intolerable Acts"
   },
   {
+    "question": "What were the reforms of Peter I called?\nAbsolute Monarchies",
+    "answer": "Peter's reforms"
+  },
+  {
     "question": "What were the regimes called that supported the Enlightenment?\nThe Age of Enlightenment",
     "answer": "enlightened"
   },
   {
+    "question": "What were the special Athenian courts called?\nAncient Greece",
+    "answer": "Dicasteries"
+  },
+  {
     "question": "What work did Copernicus write?\nRenaissance",
     "answer": "On the Revolutions of the Celestial Spheres"
+  },
+  {
+    "question": "What year is considered the year of the fall of Constantinople?\nHistory of the Byzantine Empire",
+    "answer": "1453"
+  },
+  {
+    "question": "When did Tasman's expedition to Australia take place?\nHistory of Australia and Oceania",
+    "answer": "1642"
+  },
+  {
+    "question": "When did the Battle of Cartagena take place?\nHistory of Latin America",
+    "answer": "1815"
+  },
+  {
+    "question": "When did the Battle of Gettysburg take place?\nHistory of the USA",
+    "answer": "1863"
   },
   {
     "question": "When did the Pacific War occur?\nHistory of Australia and Oceania",
@@ -330,16 +560,40 @@
     "answer": "around 2700 BC"
   },
   {
+    "question": "When did the mass uprising against colonization in Mozambique occur?\nHistory of Africa",
+    "answer": "1964"
+  },
+  {
     "question": "When was the Lisbon Treaty signed?\nModern History",
     "answer": "2007"
+  },
+  {
+    "question": "When was the Maastricht Treaty signed?\nModern History",
+    "answer": "1992"
   },
   {
     "question": "When was the Treaty of Amiens signed?\nNapoleonic Wars",
     "answer": "1802"
   },
   {
+    "question": "When was the continent of Australia discovered?\nHistory of Australia and Oceania",
+    "answer": "1606"
+  },
+  {
+    "question": "When was the first British colony in Victoria founded?\nHistory of Australia and Oceania",
+    "answer": "1834"
+  },
+  {
     "question": "Where did American troops achieve a strategic victory during the War of Independence?\nAmerican Revolution",
     "answer": "Saratoga"
+  },
+  {
+    "question": "Where is the Alhambra Palace located?\nAbsolute Monarchies",
+    "answer": "Spain"
+  },
+  {
+    "question": "Where was the Council of Trent held?\nReformation",
+    "answer": "Trent"
   },
   {
     "question": "Where was the main temple located in Nineveh?\nAncient Civilizations of Mesopotamia"
@@ -353,8 +607,24 @@
     "answer": "Desmond Tutu"
   },
   {
+    "question": "Which Austrian diplomat played a key role after the Napoleonic Wars?\nNapoleonic Era",
+    "answer": "Metternich"
+  },
+  {
+    "question": "Which British battleship participated in the Battle of Jutland?\nWorld War I",
+    "answer": "HMS Iron Duke"
+  },
+  {
     "question": "Which German Kaiser initiated the construction of colonies in Africa?\nHistory of Africa",
     "answer": "Wilhelm II"
+  },
+  {
+    "question": "Which Indian city was an important cultural center during the Pala dynasty?\nHistory of India",
+    "answer": "Nalanda"
+  },
+  {
+    "question": "Which Pope convened the First Lateran Council?\nCrusades",
+    "answer": "Calixtus II"
   },
   {
     "question": "Which Roman emperor made Christianity the official religion?\nRoman Empire",
@@ -363,6 +633,10 @@
   {
     "question": "Which Roosevelt initiative helped the USA out of the Great Depression?\nThe Great Depression",
     "answer": "New Deal"
+  },
+  {
+    "question": "Which Soviet offensive ended with the capture of Berlin?\nWorld War II and its Consequences",
+    "answer": "Berlin Operation"
   },
   {
     "question": "Which U.S. program was the most significant for creating jobs in the 1930s?\nThe Great Depression",
@@ -403,6 +677,14 @@
     "answer": "Valmy"
   },
   {
+    "question": "Which battle marks the end of the Civil War?\nHistory of the USA",
+    "answer": "Battle of Appomattox"
+  },
+  {
+    "question": "Which battle took place during the Thirty Years' War?\nThirty Years' War",
+    "answer": "White Mountain"
+  },
+  {
     "question": "Which battle took place in Germany in 1813?\nNapoleonic Wars",
     "answer": "Battle of Leipzig"
   },
@@ -415,6 +697,10 @@
     "answer": "Battle of Jena"
   },
   {
+    "question": "Which battle took place on the Western Front in 1916?\nWorld War I and the Interwar Period",
+    "answer": "Battle of the Somme"
+  },
+  {
     "question": "Which battle was decisive?\nMongol Empire",
     "answer": "Battle of Kulikovo"
   },
@@ -425,6 +711,10 @@
   {
     "question": "Which city was besieged in November 1914?\nWorld War I",
     "answer": "Liège"
+  },
+  {
+    "question": "Which city was the capital of the Italian Campaign of 1796-1797?\nNapoleonic Era",
+    "answer": "Milan"
   },
   {
     "question": "Which conflict lasted several decades?\nHistory of the Byzantine Empire",
@@ -443,12 +733,20 @@
     "answer": "USSR, Poland, East Germany"
   },
   {
+    "question": "Which country declared independence from Serbia in 2008?\nModern History",
+    "answer": "Kosovo"
+  },
+  {
     "question": "Which country did Napoleon occupy first?\nNapoleonic Wars",
     "answer": "Italy"
   },
   {
     "question": "Which country gained independence from France in 1954?\nColonialism and Decolonization",
     "answer": "Vietnam"
+  },
+  {
+    "question": "Which country suffered the most as a result of World War II?\nThe Great Depression",
+    "answer": "USSR"
   },
   {
     "question": "Which country switched alliances during the war and joined the Entente?\nWorld War I",
@@ -458,8 +756,26 @@
     "question": "Which country was the first to gain independence in South America?\nHistory of Latin America"
   },
   {
+    "question": "Which country was the first to support revolutionary France?\nFrench Revolution",
+    "answer": "USA"
+  },
+  {
+    "question": "Which country was the first to use a mine trawl?\nWorld War II",
+    "answer": "USSR"
+  },
+  {
+    "question": "Which culture built the pyramids in Teotihuacan?\nHistory of Latin America"
+  },
+  {
     "question": "Which document confirmed the victory of Protestantism?\nReformation",
     "answer": "Peace of Augsburg"
+  },
+  {
+    "question": "Which document established the peaceful coexistence of Catholics and Protestants?\nReformation and Counter-Reformation"
+  },
+  {
+    "question": "Which document limited the armed forces of Germany after World War I?\nWorld War I and the Interwar Period",
+    "answer": "Treaty of Versailles"
   },
   {
     "question": "Which document regulated the rights of the empire?\nHistory of the Byzantine Empire",
@@ -496,6 +812,10 @@
     "answer": "Yasser Arafat"
   },
   {
+    "question": "Which forces opposed each other during the Religious Wars in France?\nThirty Years' War",
+    "answer": "Catholics and Protestants"
+  },
+  {
     "question": "Which god was associated with the cycle of death and rebirth?\nAncient Egypt"
   },
   {
@@ -515,12 +835,43 @@
     "answer": "The Grapes of Wrath"
   },
   {
+    "question": "Which major city was destroyed along with Pompeii in 79 AD?\nRoman Empire",
+    "answer": "Herculaneum"
+  },
+  {
+    "question": "Which metal production process was improved in the 19th century?\nIndustrial Revolution",
+    "answer": "Puddling"
+  },
+  {
+    "question": "Which military leader participated in the conquest of China?\nMongol Empire"
+  },
+  {
+    "question": "Which musical form became popular during the Renaissance era?\nRenaissance",
+    "answer": "Madrigal"
+  },
+  {
+    "question": "Which navigator was the first to reach the Hawaiian Islands?\nThe Age of Great Geographical Discoveries",
+    "answer": "James Cook"
+  },
+  {
     "question": "Which new science was actively developing in the 18th century?\nThe Age of Enlightenment",
     "answer": "Meteorology"
   },
   {
     "question": "Which operation by American special forces failed in Cuba in 1961?\nCold War",
     "answer": "Bay of Pigs"
+  },
+  {
+    "question": "Which organization fought against communism in Asia?\nCold War",
+    "answer": "SEATO"
+  },
+  {
+    "question": "Which organization was established in 1995 and included China as a member?\nModern History",
+    "answer": "WTO"
+  },
+  {
+    "question": "Which organization was founded to protect pilgrims in Jerusalem?\nCrusades",
+    "answer": "Hospitallers"
   },
   {
     "question": "Which philosopher founded Confucianism?\nHistory of Ancient China",
@@ -534,12 +885,20 @@
     "answer": "Bubonic plague"
   },
   {
+    "question": "Which rebellion occurred in the year 184?\nHistory of Ancient China",
+    "answer": "Yellow Turban Rebellion"
+  },
+  {
     "question": "Which region in Eastern Europe was the first to undergo peaceful protests?\nThe Fall of Communism",
     "answer": "East Germany"
   },
   {
     "question": "Which region of France was known as the center of trade fairs in the Middle Ages?\nMedieval Europe",
     "answer": "Champagne"
+  },
+  {
+    "question": "Which region of Greece was famous for its mysteries?\nAncient Greece",
+    "answer": "Eleusis"
   },
   {
     "question": "Which religious movement is associated with asceticism?\nReformation and Counter-Reformation",
@@ -558,8 +917,24 @@
     "answer": "Pacific Ocean"
   },
   {
+    "question": "Which ship played a key role in the colonization of Australia?\nHistory of Australia and Oceania",
+    "answer": "Sirius"
+  },
+  {
     "question": "Which state did Kublai Khan establish?\nMongol Empire",
     "answer": "Yuan"
+  },
+  {
+    "question": "Which territories were conquered by the Crusaders as a result of the First Crusade?\nCrusades",
+    "answer": "Jerusalem"
+  },
+  {
+    "question": "Which treaty ended the First Anglo-Maratha War?\nHistory of India",
+    "answer": "Treaty of Salbai"
+  },
+  {
+    "question": "Which treaty ended the Thirty Years' War?\nMedieval Europe",
+    "answer": "Peace of Westphalia"
   },
   {
     "question": "Which treaty was signed in 1987 to reduce intermediate-range missiles?\nCold War",
@@ -572,6 +947,10 @@
   {
     "question": "Which war was significant for the Victorian era?\nVictorian Era",
     "answer": "Crimean War"
+  },
+  {
+    "question": "Which work is the foundation of modern liberalism?\nThe Age of Enlightenment",
+    "answer": "Two Treatises"
   },
   {
     "question": "Who became the first Secretary of State of the United States?\nAmerican Revolution",
@@ -590,6 +969,22 @@
     "answer": "Gustave Trouvé"
   },
   {
+    "question": "Who created the first electronic computer?\nHistory of Science and Technology",
+    "answer": "John Atanasoff"
+  },
+  {
+    "question": "Who developed the first industrial engine?\nIndustrial Revolution",
+    "answer": "Thomas Newcomen"
+  },
+  {
+    "question": "Who discovered X-rays?\nHistory of Science and Technology",
+    "answer": "Wilhelm Röntgen"
+  },
+  {
+    "question": "Who discovered the continent of Australia?\nHistory of Australia and Oceania",
+    "answer": "Abel Tasman"
+  },
+  {
     "question": "Who first proposed the idea of spacetime?\nHistory of Science and Technology",
     "answer": "Minkowski"
   },
@@ -606,12 +1001,28 @@
     "answer": "Ram Mohan Roy"
   },
   {
+    "question": "Who invented the cinematograph?\nHistory of Science and Technology",
+    "answer": "Lumière Brothers"
+  },
+  {
     "question": "Who invented the first mechanical spinning process?\nIndustrial Revolution",
     "answer": "Richard Arkwright"
   },
   {
+    "question": "Who invented the first programmable machine?\nHistory of Science and Technology",
+    "answer": "Charles Babbage"
+  },
+  {
     "question": "Who invented the mechanical loom?\nIndustrial Revolution",
     "answer": "Edmund Cartwright"
+  },
+  {
+    "question": "Who is called the founder of the Reformation?\nRenaissance",
+    "answer": "Luther"
+  },
+  {
+    "question": "Who is known as the 'father of chemistry'?\nHistory of Science and Technology",
+    "answer": "Antoine Lavoisier"
   },
   {
     "question": "Who is the author of 'The Declaration of the Rights of Woman and the Female Citizen'?\nFrench Revolution"
@@ -623,6 +1034,10 @@
   {
     "question": "Who made a significant contribution to the development of metallurgy?\nIndustrial Revolution",
     "answer": "Abraham Darby"
+  },
+  {
+    "question": "Who paved the way to China through Africa?\nThe Age of Great Geographical Discoveries",
+    "answer": "Marco Polo"
   },
   {
     "question": "Who proclaimed the general mobilization?\nFrench Revolution",
@@ -657,8 +1072,20 @@
     "answer": "Te Rauparaha"
   },
   {
+    "question": "Who was a general in Byzantium?\nHistory of the Byzantine Empire",
+    "answer": "Belisarius"
+  },
+  {
     "question": "Who was known as the 'Most Serene Prince of Taurida'?\nFrench Revolution",
     "answer": "Grigory Potemkin"
+  },
+  {
+    "question": "Who was known as the 'untouchable' leader of the French Revolution?\nFrench Revolution",
+    "answer": "Robespierre"
+  },
+  {
+    "question": "Who was one of the architects of St. Peter's Basilica?\nMedieval Europe",
+    "answer": "Michelangelo"
   },
   {
     "question": "Who was the British Prime Minister during the American Revolution?\nAmerican Revolution",
@@ -669,12 +1096,23 @@
     "answer": "Nicolas Sarkozy"
   },
   {
+    "question": "Who was the Prime Minister of France in 1917?\nWorld War I",
+    "answer": "Georges Clemenceau"
+  },
+  {
     "question": "Who was the Prime Minister of Japan at the beginning of World War II?\nWorld War II",
     "answer": "Fumimaro Konoe"
   },
   {
     "question": "Who was the Prime Minister of Romania after the overthrow of Ceaușescu?\nThe Fall of Communism",
     "answer": "Petre Roman"
+  },
+  {
+    "question": "Who was the Supreme Allied Commander on the Western Front during World War I?\nWorld War I",
+    "answer": "Ferdinand Foch"
+  },
+  {
+    "question": "Who was the archaeologist who explored Egypt?\nAncient Egypt"
   },
   {
     "question": "Who was the author of the 'New Deal'?\nHistory of the USA",
@@ -696,8 +1134,20 @@
     "answer": "Robert Oppenheimer"
   },
   {
+    "question": "Who was the first Chancellor of Germany?\nHistory of Africa",
+    "answer": "Otto von Bismarck"
+  },
+  {
     "question": "Who was the first Viceroy of India?\nHistory of India",
     "answer": "Canning"
+  },
+  {
+    "question": "Who was the first known king of Sumer?\nAncient Civilizations of Mesopotamia",
+    "answer": "Gilgamesh"
+  },
+  {
+    "question": "Who was the first president of Ukraine?\nModern History",
+    "answer": "Leonid Kravchuk"
   },
   {
     "question": "Who was the first president of independent Panama?\nHistory of Latin America",
@@ -708,12 +1158,28 @@
     "answer": "Edward Teller"
   },
   {
+    "question": "Who was the first to circumnavigate Australia?\nHistory of Australia and Oceania",
+    "answer": "Matthew Flinders"
+  },
+  {
     "question": "Who was the first to explore Lake Victoria?\nThe Age of Great Geographical Discoveries",
     "answer": "John Hanning Speke"
   },
   {
     "question": "Who was the first to measure the speed of light?\nHistory of Science and Technology",
     "answer": "Ole Rømer"
+  },
+  {
+    "question": "Who was the first to reach Antarctica?\nThe Age of Great Geographical Discoveries",
+    "answer": "James Clark Ross"
+  },
+  {
+    "question": "Who was the founder of NASA?\nModern History",
+    "answer": "Dwight Eisenhower"
+  },
+  {
+    "question": "Who was the largest patron of the arts during the Renaissance?\nRenaissance",
+    "answer": "Lorenzo de' Medici"
   },
   {
     "question": "Who was the leader of American diplomacy?\nAmerican Revolution",
@@ -724,12 +1190,36 @@
     "answer": "Made Garang"
   },
   {
+    "question": "Who was the most famous poet of the Victorian era?\nVictorian Era",
+    "answer": "Alfred Tennyson"
+  },
+  {
+    "question": "Who was the president of Nicaragua in the 1980s?\nHistory of Latin America",
+    "answer": "Daniel Ortega"
+  },
+  {
     "question": "Who was the ruler of the Hittite Empire known for his treaty with Egypt?\nHistory of the Middle East",
     "answer": "Hattusili III"
   },
   {
+    "question": "Who was the technical leader of the attack on the Japanese fleet?\nWorld War II and its Consequences",
+    "answer": "Yamamoto"
+  },
+  {
+    "question": "Who was the traitor to the American colonies?\nAmerican Revolution",
+    "answer": "Benedict Arnold"
+  },
+  {
+    "question": "Who were the Spanish conquerors in Latin America?\nHistory of Latin America",
+    "answer": "Conquistadors"
+  },
+  {
     "question": "Who wrote \"On Peace\"?\nRenaissance",
     "answer": "Pico della Mirandola"
+  },
+  {
+    "question": "Who wrote 'Letters about a Russian Journey'?\nThe Age of Enlightenment",
+    "answer": "Friedrich Melchior Grimm"
   },
   {
     "question": "Who wrote 'Madame Bovary'?\nVictorian Era",
@@ -744,6 +1234,10 @@
     "answer": "Prokhorov"
   },
   {
+    "question": "Who wrote 'The Spirit of the Laws'?\nThe Age of Enlightenment",
+    "answer": "Charles Montesquieu"
+  },
+  {
     "question": "Who wrote 'Utopia'?\nReformation and Counter-Reformation",
     "answer": "Thomas More"
   },
@@ -754,6 +1248,10 @@
   {
     "question": "Who wrote the 'Manifesto of the French People'?\nFrench Revolution",
     "answer": "Robespierre"
+  },
+  {
+    "question": "Who wrote the book 'Institutes of the Christian Religion'?\nReformation",
+    "answer": "John Calvin"
   },
   {
     "question": "Who wrote the treatise 'On Hydrostatics'?\nRenaissance",
