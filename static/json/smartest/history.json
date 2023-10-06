@@ -197,6 +197,9 @@
     "answer": "Arab-Israeli conflict"
   },
   {
+    "question": "What did the partition of India in 1947 lead to?\nColonialism and Decolonization"
+  },
+  {
     "question": "What did the renaming of the months during the French Revolution signify?\nFrench Revolution",
     "answer": "Calendar reform"
   },
@@ -207,6 +210,9 @@
   {
     "question": "What does the term 'Terror' mean?\nFrench Revolution",
     "answer": "Mass executions"
+  },
+  {
+    "question": "What does the term 'war of attrition' mean?\nWorld War I"
   },
   {
     "question": "What ended the rule of the British East India Company in India?\nHistory of India",
@@ -226,6 +232,10 @@
   {
     "question": "What event led to the United States entering World War I?\nHistory of the USA",
     "answer": "Sinking of the Lusitania"
+  },
+  {
+    "question": "What event marked the beginning of the end of the Third Reich?\nWorld War II and its Consequences",
+    "answer": "Capture of Berlin"
   },
   {
     "question": "What event marked the beginning of the systematic persecution of Jews by Nazi Germany during World War II?\nWorld War II and its Consequences",
@@ -280,6 +290,10 @@
     "answer": "Whistleblowing website"
   },
   {
+    "question": "What is the Russian Liberation Army called by modern Slovaks?\nWorld War II",
+    "answer": "Vlasovtsy"
+  },
+  {
     "question": "What is the legacy of the Empire?\nHistory of the Byzantine Empire",
     "answer": "law"
   },
@@ -298,6 +312,10 @@
   {
     "question": "What is the name of the famous cave with ancient Buddhist statues?\nHistory of Ancient China",
     "answer": "Mogao"
+  },
+  {
+    "question": "What is the name of the historic meeting in Malta in 1989?\nThe Fall of Communism",
+    "answer": "Malta Summit"
   },
   {
     "question": "What is the name of the main law of Byzantium?\nHistory of the Byzantine Empire",
@@ -469,8 +487,16 @@
     "answer": "Investiture"
   },
   {
+    "question": "What was the decisive battle in the Second Crusade?\nCrusades",
+    "answer": "Damascus"
+  },
+  {
     "question": "What was the economic crisis of the 1840s called?\nVictorian Era",
     "answer": "The Bread Riots"
+  },
+  {
+    "question": "What was the first independent country in Africa?\nColonialism and Decolonization",
+    "answer": "Ethiopia"
   },
   {
     "question": "What was the largest conflict for the USA in the 1960s?\nHistory of the USA",
@@ -539,6 +565,10 @@
   {
     "question": "What was the name of the Allied plan to capture Sicily in 1943?\nWorld War II",
     "answer": "Operation Husky"
+  },
+  {
+    "question": "What was the name of the British ship captured by American rebels in 1772?\nAmerican Revolution",
+    "answer": "Gaspee"
   },
   {
     "question": "What was the name of the Catholic document for teaching the basics of faith?\nReformation and Counter-Reformation"
@@ -648,6 +678,10 @@
   {
     "question": "What was the name of the economic reform program in China that began in 1978?\nThe Fall of Communism",
     "answer": "Reform and Opening Up"
+  },
+  {
+    "question": "What was the name of the famous astronomer and mathematician in ancient Greece?\nAncient Greece",
+    "answer": "Hipparchus"
   },
   {
     "question": "What was the name of the famous emperor of the Chola dynasty?\nHistory of India",
@@ -850,6 +884,10 @@
     "answer": "Intolerable Acts"
   },
   {
+    "question": "What were the poetic competitions in Ancient Greece called?\nAncient Greece",
+    "answer": "agons"
+  },
+  {
     "question": "What were the reforms of Peter I called?\nAbsolute Monarchies",
     "answer": "Peter's reforms"
   },
@@ -974,6 +1012,10 @@
   {
     "question": "When was the first radio transmitter installed in Latin America?\nHistory of Latin America",
     "answer": "1923"
+  },
+  {
+    "question": "When was the first vacuum electronic device created?\nHistory of Science and Technology",
+    "answer": "1904"
   },
   {
     "question": "Where did American troops achieve a strategic victory during the War of Independence?\nAmerican Revolution",
@@ -1167,6 +1209,10 @@
     "answer": "Battle of the Somme"
   },
   {
+    "question": "Which battle was decisive for the Catholics in the war?\nThirty Years' War",
+    "answer": "Battle of White Mountain"
+  },
+  {
     "question": "Which battle was decisive?\nMongol Empire",
     "answer": "Battle of Kulikovo"
   },
@@ -1280,6 +1326,10 @@
     "answer": "Meroitic"
   },
   {
+    "question": "Which document became important in Byzantine law?\nHistory of the Byzantine Empire",
+    "answer": "Code of Justinian"
+  },
+  {
     "question": "Which document condemned the Reformation churches?\nReformation and Counter-Reformation",
     "answer": "Papal bull"
   },
@@ -1327,6 +1377,10 @@
   {
     "question": "Which empire ruled over most of West Africa in the 19th century?\nHistory of Africa",
     "answer": "Sokoto"
+  },
+  {
+    "question": "Which engineer designed the Crystal Palace for the Great Exhibition?\nVictorian Era",
+    "answer": "Joseph Paxton"
   },
   {
     "question": "Which environmental issue has intensified in recent years?\nIndustrial Revolution",
@@ -1559,6 +1613,10 @@
   {
     "question": "Which treaty was signed in 1987 to reduce intermediate-range missiles?\nCold War",
     "answer": "INF Treaty"
+  },
+  {
+    "question": "Which university was founded first in America?\nHistory of Latin America",
+    "answer": "San Marcos"
   },
   {
     "question": "Which war led to the weakening of Athens and Sparta?\nAncient Greece",
@@ -1884,6 +1942,10 @@
     "question": "Who was the chancellor under Louis XIII?\nAbsolute Monarchies"
   },
   {
+    "question": "Who was the commander of the British Army in the Crimean War?\nVictorian Era",
+    "answer": "Lord Raglan"
+  },
+  {
     "question": "Who was the commander of the French fleet at the Battle of Trafalgar?\nNapoleonic Wars",
     "answer": "Pierre-Charles Villeneuve"
   },
@@ -1902,6 +1964,10 @@
   {
     "question": "Who was the developer of the first atomic bomb?\nHistory of the USA",
     "answer": "Robert Oppenheimer"
+  },
+  {
+    "question": "Who was the editor-in-chief of the revolutionary newspaper 'Friend of the People'?\nFrench Revolution",
+    "answer": "Jean-Paul Marat"
   },
   {
     "question": "Who was the famous conqueror and leader of the Roman army in the Third Punic War?\nRoman Empire",
