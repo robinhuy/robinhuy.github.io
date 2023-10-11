@@ -1,5 +1,9 @@
 [
   {
+    "question": "Conquest of Northern China\nMongol Empire",
+    "answer": "Jin Dynasty"
+  },
+  {
     "question": "Date of the Edict of Worms?\nReformation and Counter-Reformation",
     "answer": "1521"
   },
@@ -114,6 +118,10 @@
     "answer": "1522"
   },
   {
+    "question": "In what year was the first permanent colony in America established?\nHistory of the USA",
+    "answer": "1607"
+  },
+  {
     "question": "In what year were the elections held in East Germany after the fall of communism?\nThe Fall of Communism",
     "answer": "1990"
   },
@@ -128,6 +136,10 @@
   {
     "question": "In which battle did Napoleon participate in Egypt?\nNapoleonic Wars",
     "answer": "Battle of the Pyramids"
+  },
+  {
+    "question": "In which battle did the Crusaders achieve victory over the Ayyubids?\nHistory of the Middle East",
+    "answer": "Battle of Arsuf"
   },
   {
     "question": "In which battle was gas used for the first time?\nWorld War I",
@@ -205,6 +217,9 @@
     "answer": "1857"
   },
   {
+    "question": "In which year did the construction of the Great Wall of China begin?\nHistory of Ancient China"
+  },
+  {
     "question": "Medieval Mongolian law:\nMongol Empire",
     "answer": "Great Yassa"
   },
@@ -244,6 +259,9 @@
     "answer": "Calligraphy"
   },
   {
+    "question": "What assembly of representatives of all three estates was convened by Louis XVI in 1789?\nFrench Revolution"
+  },
+  {
     "question": "What battle took place in 490 BC between the Athenians and the Persians?\nAncient Greece",
     "answer": "Battle of Marathon"
   },
@@ -256,6 +274,14 @@
     "answer": "Iconography"
   },
   {
+    "question": "What caused the decline of Ancient Egypt?\nAncient Egypt",
+    "answer": "Conquests"
+  },
+  {
+    "question": "What caused the decline of the Nok culture?\nHistory of Africa",
+    "answer": "Ecology"
+  },
+  {
     "question": "What caused the fall of the Byzantine Empire?\nHistory of the Byzantine Empire",
     "answer": "Invasion by the Ottomans"
   },
@@ -264,12 +290,20 @@
     "answer": "Growth of cities"
   },
   {
+    "question": "What church title is below a bishop?\nMedieval Europe",
+    "answer": "Priest"
+  },
+  {
     "question": "What citizenship did Edward Snowden receive?\nModern History",
     "answer": "Russian"
   },
   {
     "question": "What conflict was between Arabs and other countries?\nHistory of the Byzantine Empire",
     "answer": "Arab-Israeli conflict"
+  },
+  {
+    "question": "What contributed to the improvement of transportation infrastructure?\nIndustrial Revolution",
+    "answer": "Railways"
   },
   {
     "question": "What device is used for mechanical spinning of threads?\nIndustrial Revolution",
@@ -285,6 +319,10 @@
   {
     "question": "What did the renaming of the months during the French Revolution signify?\nFrench Revolution",
     "answer": "Calendar reform"
+  },
+  {
+    "question": "What did the term 'segregation' mean in South Africa?\nColonialism and Decolonization",
+    "answer": "Racial discrimination"
   },
   {
     "question": "What do the 95 Theses represent?\nReformation and Counter-Reformation",
@@ -384,6 +422,9 @@
   {
     "question": "What event triggered the economic crisis in 2008?\nModern History",
     "answer": "Credit bubble"
+  },
+  {
+    "question": "What event triggered the start of the Thirty Years' War?\nThirty Years' War"
   },
   {
     "question": "What factors contributed to the start of the Crusades?\nCrusades",
@@ -486,12 +527,24 @@
     "answer": "Avesta"
   },
   {
+    "question": "What is the name of the treaty signed in 1802 between France and Great Britain?\nNapoleonic Wars",
+    "answer": "Treaty of Amiens"
+  },
+  {
     "question": "What is vassalism?\nMedieval Europe",
     "answer": "System of dependency"
   },
   {
     "question": "What is wu wei?\nHistory of Ancient China",
     "answer": "The principle of non-action"
+  },
+  {
+    "question": "What law regulates civil law?\nHistory of the Byzantine Empire",
+    "answer": "Civil Code"
+  },
+  {
+    "question": "What major economic event began in 1929?\nHistory of the USA",
+    "answer": "The Great Depression"
   },
   {
     "question": "What marked the end of the Cold War?\nCold War",
@@ -522,8 +575,16 @@
     "answer": "Battle of Jutland"
   },
   {
+    "question": "What new form of information transmission developed during the Industrial Revolution?\nIndustrial Revolution",
+    "answer": "Telegraph"
+  },
+  {
     "question": "What numeral system did the Sumerians use?\nAncient Civilizations of Mesopotamia",
     "answer": "Sexagesimal"
+  },
+  {
+    "question": "What operation became the largest naval attack in the Pacific Theater?\nWorld War II and its Consequences",
+    "answer": "Battle of Midway"
   },
   {
     "question": "What period followed the Han dynasty?\nHistory of Ancient China",
@@ -539,6 +600,10 @@
   {
     "question": "What philosophical concept did David Hume develop?\nThe Age of Enlightenment",
     "answer": "Empiricism"
+  },
+  {
+    "question": "What phrase is often associated with the Crusaders?\nCrusades",
+    "answer": "Deus Vult"
   },
   {
     "question": "What political process began in China in 1979?\nThe Fall of Communism",
@@ -625,6 +690,10 @@
     "answer": "Iconography"
   },
   {
+    "question": "What test did the USA conduct in Alaska?\nCold War",
+    "answer": "Project Chariot"
+  },
+  {
     "question": "What text is considered the anthem of Babylon?\nAncient Civilizations of Mesopotamia",
     "answer": "Enuma Elish"
   },
@@ -635,6 +704,10 @@
   {
     "question": "What title did Napoleon hold after his abdication in 1814?\nNapoleonic Era",
     "answer": "Emperor of Elba"
+  },
+  {
+    "question": "What title did the leader of the Athenian Democratic Union hold?\nAncient Greece",
+    "answer": "Archon"
   },
   {
     "question": "What title did the leader of the Maratha Confederacy hold?\nHistory of India",
@@ -682,6 +755,10 @@
     "question": "What was adopted at the Council of Trent?\nReformation"
   },
   {
+    "question": "What was created in the USA in 1932 to support farmers?\nThe Great Depression",
+    "answer": "Federal Agency"
+  },
+  {
     "question": "What was the Assyrian army called?\nAncient Civilizations of Mesopotamia",
     "answer": "The Invincible Force"
   },
@@ -725,6 +802,14 @@
     "answer": "Investiture"
   },
   {
+    "question": "What was the coup of 1799 called?\nNapoleonic Era",
+    "answer": "Napoleonic Coup"
+  },
+  {
+    "question": "What was the culture of the Harappan civilization?\nHistory of India",
+    "answer": "Indus Valley"
+  },
+  {
     "question": "What was the decisive battle in the Second Crusade?\nCrusades",
     "answer": "Damascus"
   },
@@ -751,6 +836,10 @@
   {
     "question": "What was the longest battle of World War II?\nWorld War II",
     "answer": "Siege of Leningrad"
+  },
+  {
+    "question": "What was the main cause of the crisis?\nThe Great Depression",
+    "answer": "Banking collapse"
   },
   {
     "question": "What was the main collection of laws called in medieval England?\nMedieval Europe",
@@ -817,6 +906,10 @@
     "answer": "Russian Campaign"
   },
   {
+    "question": "What was the name of Napoleon's crossing of the Alps?\nNapoleonic Era",
+    "answer": "March through the Alps"
+  },
+  {
     "question": "What was the name of a traditional Greek temple?\nAncient Greece"
   },
   {
@@ -835,6 +928,10 @@
     "question": "What was the name of the Catholic document for teaching the basics of faith?\nReformation and Counter-Reformation"
   },
   {
+    "question": "What was the name of the Crusaders' opponent in Syria?\nCrusades",
+    "answer": "Nur ad-Din"
+  },
+  {
     "question": "What was the name of the Egyptian god of wisdom and knowledge?\nAncient Egypt",
     "answer": "Thoth"
   },
@@ -847,12 +944,30 @@
     "answer": "David Livingstone"
   },
   {
+    "question": "What was the name of the German biplane fighter of World War I?\nWorld War I",
+    "answer": "Albatros D.III"
+  },
+  {
     "question": "What was the name of the German offensive in 1918?\nWorld War I",
     "answer": "Spring Offensive"
   },
   {
+    "question": "What was the name of the German operation in the Ardennes?\nWorld War II",
+    "answer": "Watch on the Rhine"
+  },
+  {
+    "question": "What was the name of the German operation on the Eastern Front in 1941?\nWorld War I and the Interwar Period",
+    "answer": "Barbarossa"
+  },
+  {
+    "question": "What was the name of the German plan for invasion through Belgium?\nWorld War I"
+  },
+  {
     "question": "What was the name of the Grand Canal in China?\nHistory of Ancient China",
     "answer": "Da Yunhe"
+  },
+  {
+    "question": "What was the name of the Mongol military tactic?\nMongol Empire"
   },
   {
     "question": "What was the name of the Mongolian military unit consisting of 10,000 soldiers?\nMongol Empire",
@@ -880,6 +995,14 @@
   {
     "question": "What was the name of the act that attempted to stabilize the financial market?\nThe Great Depression",
     "answer": "Glass-Steagall Act"
+  },
+  {
+    "question": "What was the name of the afterlife realm in Egyptian mythology?\nAncient Egypt",
+    "answer": "Duat"
+  },
+  {
+    "question": "What was the name of the agreement that ended the War of the Second Coalition?\nNapoleonic Era",
+    "answer": "Treaty of Amiens"
   },
   {
     "question": "What was the name of the agreement with Austria in 1809?\nNapoleonic Era",
@@ -912,6 +1035,10 @@
   {
     "question": "What was the name of the ancient Incan city in Peru?\nHistory of Latin America",
     "answer": "Machu Picchu"
+  },
+  {
+    "question": "What was the name of the ancient capital of the Lydian Kingdom?\nHistory of the Middle East",
+    "answer": "Sardis"
   },
   {
     "question": "What was the name of the ancient city in Lower Egypt?\nAncient Egypt",
@@ -948,6 +1075,10 @@
   {
     "question": "What was the name of the collider project that started in 1998?\nModern History",
     "answer": "LHC"
+  },
+  {
+    "question": "What was the name of the colonial system implemented by the Spanish to manage already conquered territories?\nHistory of Latin America",
+    "answer": "Encomienda"
   },
   {
     "question": "What was the name of the commander of the French army at the beginning of World War I?\nWorld War I and the Interwar Period",
@@ -1001,6 +1132,10 @@
   {
     "question": "What was the name of the famous emperor of the Chola dynasty?\nHistory of India",
     "answer": "Rajaraja I"
+  },
+  {
+    "question": "What was the name of the first British colony in Victoria?\nHistory of Australia and Oceania",
+    "answer": "Port Phillip"
   },
   {
     "question": "What was the name of the first Roman colony outside of Italy?\nRoman Empire",
@@ -1091,6 +1226,10 @@
   {
     "question": "What was the name of the operation for the invasion of Norway?\nWorld War II",
     "answer": "Operation Weserübung"
+  },
+  {
+    "question": "What was the name of the operation involving paratroopers?\nWorld War II",
+    "answer": "Overlord"
   },
   {
     "question": "What was the name of the operation to defeat the German forces in Belarus?\nWorld War II",
@@ -1199,6 +1338,10 @@
     "answer": "Allied conferences"
   },
   {
+    "question": "What was the role of the League of Nations?\nWorld War II and its Consequences",
+    "answer": "Dispute resolution"
+  },
+  {
     "question": "What was the significance of the Great Geographical Discoveries?\nThe Age of Great Geographical Discoveries",
     "answer": "New trade routes"
   },
@@ -1237,6 +1380,9 @@
   {
     "question": "What weapon was manufactured in Illinois?\nWorld War II",
     "answer": "M1 Garand"
+  },
+  {
+    "question": "What weapon was used in the Battle of Verdun?\nWorld War I"
   },
   {
     "question": "What were Mongolian envoys called?\nMongol Empire",
@@ -1292,6 +1438,10 @@
   {
     "question": "What were the laws called that were passed by the British Parliament after the Boston Tea Party?\nAmerican Revolution",
     "answer": "Intolerable Acts"
+  },
+  {
+    "question": "What were the main consequences of the war for Germany?\nThirty Years' War",
+    "answer": "Destruction of many cities"
   },
   {
     "question": "What were the poetic competitions in Ancient Greece called?\nAncient Greece",
@@ -1489,6 +1639,10 @@
     "answer": "1834"
   },
   {
+    "question": "When was the first independence referendum held in New Caledonia?\nHistory of Australia and Oceania",
+    "answer": "1987"
+  },
+  {
     "question": "When was the first pyramid built?\nAncient Egypt",
     "answer": "2670 BC"
   },
@@ -1505,8 +1659,16 @@
     "answer": "1904"
   },
   {
+    "question": "When was the slogan 'Electricity for All' published?\nHistory of Science and Technology",
+    "answer": "1920s"
+  },
+  {
     "question": "When was the state of Grenada established?\nHistory of Latin America",
     "answer": "1974"
+  },
+  {
+    "question": "When were the reforms in Mexico completed?\nHistory of Latin America",
+    "answer": "1861"
   },
   {
     "question": "Where did American troops achieve a strategic victory during the War of Independence?\nAmerican Revolution",
@@ -1543,6 +1705,10 @@
   {
     "question": "Where was Saint George born?\nThe Age of Great Geographical Discoveries",
     "answer": "Cappadocia"
+  },
+  {
+    "question": "Where was the Council of Trent convened?\nReformation and Counter-Reformation",
+    "answer": "Trent"
   },
   {
     "question": "Where was the Council of Trent held?\nReformation",
@@ -1583,12 +1749,20 @@
     "question": "Which African state was founded by the leader Shaka?\nHistory of Africa"
   },
   {
+    "question": "Which Assyrian king was the first to conquer most of Mesopotamia?\nHistory of the Middle East",
+    "answer": "Sargon II"
+  },
+  {
     "question": "Which Austrian diplomat played a key role after the Napoleonic Wars?\nNapoleonic Era",
     "answer": "Metternich"
   },
   {
     "question": "Which British battleship participated in the Battle of Jutland?\nWorld War I",
     "answer": "HMS Iron Duke"
+  },
+  {
+    "question": "Which Egyptian god was the protector of fortresses and castles?\nAncient Egypt",
+    "answer": "Montu"
   },
   {
     "question": "Which English act started the Reformation in England?\nReformation",
@@ -1642,6 +1816,10 @@
     "answer": "Berlin Operation"
   },
   {
+    "question": "Which U.S. President is the author of the Monroe Doctrine?\nHistory of the USA",
+    "answer": "James Monroe"
+  },
+  {
     "question": "Which U.S. program was the most significant for creating jobs in the 1930s?\nThe Great Depression",
     "answer": "Civil Works"
   },
@@ -1677,6 +1855,10 @@
     "answer": "Andrea Palladio"
   },
   {
+    "question": "Which arms control treaty was signed in 1972?\nCold War",
+    "answer": "SALT I"
+  },
+  {
     "question": "Which army captured Prague during the Thirty Years' War?\nThirty Years' War",
     "answer": "Imperial Army"
   },
@@ -1694,6 +1876,10 @@
   {
     "question": "Which army won the Battle of Narva?\nThirty Years' War",
     "answer": "Swedish"
+  },
+  {
+    "question": "Which article provided for collective defense in NATO?\nCold War",
+    "answer": "5"
   },
   {
     "question": "Which artist is known for the work 'Harmony of the World'?\nRenaissance",
@@ -1726,6 +1912,9 @@
   {
     "question": "Which battle led to the independence of Mexico?\nHistory of Latin America",
     "answer": "Battle of Chapultepec"
+  },
+  {
+    "question": "Which battle marked the end of Napoleon's Italian campaign?\nNapoleonic Wars"
   },
   {
     "question": "Which battle marks the end of the Civil War?\nHistory of the USA",
@@ -1875,6 +2064,10 @@
     "answer": "USSR, Poland, East Germany"
   },
   {
+    "question": "Which country acknowledged dependence on France in 1807?\nNapoleonic Era",
+    "answer": "Prussia"
+  },
+  {
     "question": "Which country became dominant in Europe after the war?\nThirty Years' War",
     "answer": "France"
   },
@@ -1936,6 +2129,10 @@
   {
     "question": "Which country switched alliances during the war and joined the Entente?\nWorld War I",
     "answer": "Italy"
+  },
+  {
+    "question": "Which country was led by Augusto Pinochet in the 1970s?\nWorld War I and the Interwar Period",
+    "answer": "Chile"
   },
   {
     "question": "Which country was led by Pedro I?\nHistory of Latin America",
@@ -2091,6 +2288,10 @@
     "answer": "Yasser Arafat"
   },
   {
+    "question": "Which famous speaker attended the conference in Bandung?\nColonialism and Decolonization",
+    "answer": "Sukarno"
+  },
+  {
     "question": "Which figure introduced the Reformation in Scotland?\nReformation",
     "answer": "John Knox"
   },
@@ -2146,6 +2347,10 @@
     "answer": "Banking"
   },
   {
+    "question": "Which industry was most affected by the COVID-19 pandemic?\nThe Great Depression",
+    "answer": "Tourism"
+  },
+  {
     "question": "Which influential German prince supported the Protestants?\nThirty Years' War",
     "answer": "Frederick V"
   },
@@ -2181,6 +2386,10 @@
     "answer": "Code of Justinian"
   },
   {
+    "question": "Which leader led the movement for Algeria's independence?\nColonialism and Decolonization",
+    "answer": "Ahmed Ben Bella"
+  },
+  {
     "question": "Which literary novel became a symbol of World War I?\nWorld War I",
     "answer": "All Quiet on the Western Front"
   },
@@ -2208,7 +2417,19 @@
     "answer": "Puddling"
   },
   {
+    "question": "Which military commander stood out in the Battle of Rocroi?\nThirty Years' War",
+    "answer": "Louis Condé"
+  },
+  {
+    "question": "Which military conflict took place in South America in the 19th century?\nHistory of Latin America",
+    "answer": "War of the Triple Alliance"
+  },
+  {
     "question": "Which military leader participated in the conquest of China?\nMongol Empire"
+  },
+  {
+    "question": "Which monk was important in the iconoclastic movement?\nHistory of the Byzantine Empire",
+    "answer": "John of Damascus"
   },
   {
     "question": "Which movement fought for the independence of Vietnam?\nColonialism and Decolonization",
@@ -2259,6 +2480,10 @@
     "answer": "OAU"
   },
   {
+    "question": "Which organization was created to regulate the securities market?\nThe Great Depression",
+    "answer": "SEC"
+  },
+  {
     "question": "Which organization was established in 1995 and included China as a member?\nModern History",
     "answer": "WTO"
   },
@@ -2271,12 +2496,19 @@
     "answer": "Hospitallers"
   },
   {
+    "question": "Which pact's conclusion became a precondition for the start of World War II?\nWorld War II"
+  },
+  {
     "question": "Which people strengthened their positions in the 7th century?\nHistory of the Byzantine Empire",
     "answer": "Arabs"
   },
   {
     "question": "Which period was called the Golden Age?\nHistory of the Byzantine Empire",
     "answer": "6th century"
+  },
+  {
+    "question": "Which pharaoh was buried in the Valley of the Kings, and his tomb was found almost intact?\nAncient Egypt",
+    "answer": "Tutankhamun"
   },
   {
     "question": "Which pharaoh was known as Akhenaten?\nAncient Egypt",
@@ -2377,8 +2609,16 @@
     "answer": "Hittites"
   },
   {
+    "question": "Which state was heavily affected by the Thirty Years' War?\nThirty Years' War",
+    "answer": "Holy Roman Empire"
+  },
+  {
     "question": "Which state was ruled by Harun al-Rashid?\nAbsolute Monarchies",
     "answer": "Abbasid Caliphate"
+  },
+  {
+    "question": "Which technique is known thanks to Leonardo da Vinci?\nRenaissance",
+    "answer": "Sfumato"
   },
   {
     "question": "Which territories were conquered by the Crusaders as a result of the First Crusade?\nCrusades",
@@ -2413,8 +2653,16 @@
     "answer": "INF Treaty"
   },
   {
+    "question": "Which troops participated in the defense of Quebec in 1775?\nAmerican Revolution",
+    "answer": "British troops"
+  },
+  {
     "question": "Which university was founded first in America?\nHistory of Latin America",
     "answer": "San Marcos"
+  },
+  {
+    "question": "Which war began during the reign of Queen Victoria?\nVictorian Era",
+    "answer": "First Anglo-Afghan War"
   },
   {
     "question": "Which war began in 1899?\nVictorian Era",
@@ -2455,6 +2703,10 @@
   {
     "question": "Who built the Crystal Palace?\nVictorian Era",
     "answer": "Joseph Paxton"
+  },
+  {
+    "question": "Who built the dome of St. Peter's Basilica?\nRenaissance",
+    "answer": "Michelangelo"
   },
   {
     "question": "Who commanded the Crusader army in the Battle of Ascalon?\nCrusades",
@@ -2540,6 +2792,10 @@
     "answer": "Christians"
   },
   {
+    "question": "Who discovered Tutankhamun's tomb in 1922?\nAncient Egypt",
+    "answer": "Howard Carter"
+  },
+  {
     "question": "Who discovered X-rays?\nHistory of Science and Technology",
     "answer": "Wilhelm Röntgen"
   },
@@ -2620,6 +2876,10 @@
     "answer": "Luther"
   },
   {
+    "question": "Who is known as the 'Black Napoleon'?\nHistory of Africa",
+    "answer": "Toussaint Louverture"
+  },
+  {
     "question": "Who is known as the 'Independent King' of India in the 19th century?\nHistory of India",
     "answer": "Ranjit Singh"
   },
@@ -2665,6 +2925,10 @@
   {
     "question": "Who led the revolutionary government of France in 1793?\nFrench Revolution",
     "answer": "Robespierre"
+  },
+  {
+    "question": "Who led the uprising known as the 'Feast of the Curators'?\nFrench Revolution",
+    "answer": "Marat"
   },
   {
     "question": "Who liberated the northern part of Latin America from Spanish rule?\nHistory of Latin America",
@@ -2771,8 +3035,16 @@
     "answer": "Michelangelo"
   },
   {
+    "question": "Who was one of the main instigators of religious conflicts in 1618?\nThirty Years' War",
+    "answer": "German princes"
+  },
+  {
     "question": "Who was the British Prime Minister during the American Revolution?\nAmerican Revolution",
     "answer": "Lord North"
+  },
+  {
+    "question": "Who was the Canadian general?\nWorld War I",
+    "answer": "Arthur Currie"
   },
   {
     "question": "Who was the Chairman of the Council of People's Commissars of the RSFSR in 1919?\nWorld War I and the Interwar Period"
@@ -2916,6 +3188,10 @@
     "answer": "Canning"
   },
   {
+    "question": "Who was the first emperor of Ethiopia?\nHistory of Africa",
+    "answer": "Menelik I"
+  },
+  {
     "question": "Who was the first governor of the Plymouth Colony in America?\nAmerican Revolution",
     "answer": "William Bradford"
   },
@@ -3005,6 +3281,10 @@
     "answer": "Erich Honecker"
   },
   {
+    "question": "Who was the leader of Yugoslavia before its dissolution?\nThe Fall of Communism",
+    "answer": "Josip Broz Tito"
+  },
+  {
     "question": "Who was the leader of a country known for its resistance to European colonization in the 20th century?\nHistory of Africa",
     "answer": "Made Garang"
   },
@@ -3014,6 +3294,10 @@
   },
   {
     "question": "Who was the leader of the revolution in Chile?\nHistory of Latin America"
+  },
+  {
+    "question": "Who was the main adversary of Byzantium?\nHistory of the Byzantine Empire",
+    "answer": "Ottomans"
   },
   {
     "question": "Who was the most famous enemy of Rome in the Punic Wars?\nRoman Empire"
@@ -3098,6 +3382,10 @@
     "answer": "Thomas More"
   },
   {
+    "question": "Who wrote most of the Napoleonic Code?\nNapoleonic Era",
+    "answer": "Jean-André Portalis"
+  },
+  {
     "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?\nFrench Revolution",
     "answer": "Lafayette"
   },
@@ -3124,6 +3412,10 @@
   {
     "question": "Whom did Napoleon name the King of Spain?\nNapoleonic Era",
     "answer": "Joseph Bonaparte"
+  },
+  {
+    "question": "Whom did the French revolutionaries proclaim as a citizen?\nFrench Revolution",
+    "answer": "General Washington"
   },
   {
     "question": "Whose reign is considered the beginning of the Neo-Babylonian Empire?\nAncient Civilizations of Mesopotamia",
