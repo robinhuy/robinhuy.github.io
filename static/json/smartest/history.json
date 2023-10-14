@@ -1,5 +1,9 @@
 [
   {
+    "question": "After whom are the Philippines named?",
+    "answer": "Philip II"
+  },
+  {
     "question": "Conquest of Northern China",
     "answer": "Jin Dynasty"
   },
@@ -60,6 +64,10 @@
   {
     "question": "In what year did the Battle of Valmy take place?",
     "answer": "1792"
+  },
+  {
+    "question": "In what year did the First Punic War begin?",
+    "answer": "264 BC"
   },
   {
     "question": "In what year did the Mongols conquer Baghdad?",
@@ -197,6 +205,10 @@
     "answer": "Satyagraha"
   },
   {
+    "question": "In which dynasty did Chandragupta II rule?",
+    "answer": "Gupta"
+  },
+  {
     "question": "In which language is the work 'Kushita' written?",
     "answer": "Sumerian"
   },
@@ -255,11 +267,23 @@
     "answer": "$2500"
   },
   {
+    "question": "What architectural masterpiece is located in Istanbul?",
+    "answer": "Hagia Sophia"
+  },
+  {
     "question": "What art originated in China?",
     "answer": "Calligraphy"
   },
   {
     "question": "What assembly of representatives of all three estates was convened by Louis XVI in 1789?"
+  },
+  {
+    "question": "What banking reform was adopted in the 1930s?",
+    "answer": "Deposit insurance"
+  },
+  {
+    "question": "What banking reform was enacted in the USA in 1933?",
+    "answer": "Glass-Steagall Act"
   },
   {
     "question": "What battle took place in 490 BC between the Athenians and the Persians?",
@@ -342,6 +366,10 @@
   },
   {
     "question": "What does the term 'war of attrition' mean?"
+  },
+  {
+    "question": "What effect did urbanization have on residents?",
+    "answer": "Living conditions worsened"
   },
   {
     "question": "What ended the rule of the British East India Company in India?",
@@ -431,6 +459,10 @@
     "answer": "Religious"
   },
   {
+    "question": "What famous operation was conducted by the Allies in the Ardennes?",
+    "answer": "Operation 'Watch on the Rhine'"
+  },
+  {
     "question": "What famous religious conflict occurred in history?",
     "answer": "Iconoclasm"
   },
@@ -487,10 +519,6 @@
     "answer": "law"
   },
   {
-    "question": "What is the main work of John Calvin?",
-    "answer": "Institutes of the Christian Religion"
-  },
-  {
     "question": "What is the name associated with the battle of 1796?",
     "answer": "Arcole"
   },
@@ -517,6 +545,9 @@
   {
     "question": "What is the name of the main law of Byzantium?",
     "answer": "Code of Justinian"
+  },
+  {
+    "question": "What is the name of the oldest university in Europe?"
   },
   {
     "question": "What is the name of the philosophical doctrine founded by Zeno of Citium?",
@@ -794,6 +825,10 @@
     "answer": "Peshawar"
   },
   {
+    "question": "What was the capital of the Mongol Empire before it was moved to Karakorum?",
+    "answer": "Avraga"
+  },
+  {
     "question": "What was the capital of the West African Empire of Ghana?",
     "answer": "Koumbi Saleh"
   },
@@ -874,6 +909,10 @@
   {
     "question": "What was the main navigational tool used by sailors during the Age of Discovery?",
     "answer": "Astrolabe"
+  },
+  {
+    "question": "What was the main outcome of the Peace of Westphalia?",
+    "answer": "Balance of power"
   },
   {
     "question": "What was the main outcome of the Thirty Years' War?",
@@ -1013,6 +1052,10 @@
     "answer": "Treaty of Schönbrunn"
   },
   {
+    "question": "What was the name of the ancestral complex in Ur?",
+    "answer": "Ensi"
+  },
+  {
     "question": "What was the name of the ancient Chinese medical treatise?",
     "answer": "Neijing"
   },
@@ -1035,6 +1078,10 @@
   {
     "question": "What was the name of the ancient Greek poetess who composed elegies?",
     "answer": "Sappho"
+  },
+  {
+    "question": "What was the name of the ancient Greek system of exercises that included music, gymnastics, and mathematics?",
+    "answer": "Paideia"
   },
   {
     "question": "What was the name of the ancient Incan city in Peru?",
@@ -1124,6 +1171,9 @@
   {
     "question": "What was the name of the famous Chinese monk-traveler of the Tang dynasty?",
     "answer": "Xuanzang"
+  },
+  {
+    "question": "What was the name of the famous Greek sophist philosopher?"
   },
   {
     "question": "What was the name of the famous ancient Greek explorer?",
@@ -1290,6 +1340,9 @@
     "answer": "Uranus"
   },
   {
+    "question": "What was the name of the student movement in Eastern Europe?"
+  },
+  {
     "question": "What was the name of the sun god in Sumerian mythology?",
     "answer": "Shamash"
   },
@@ -1391,6 +1444,10 @@
   {
     "question": "What were Mongolian envoys called?",
     "answer": "shinji"
+  },
+  {
+    "question": "What were ancient Chinese temples called?",
+    "answer": "Zu"
   },
   {
     "question": "What were medieval warrior monks called?",
@@ -1604,6 +1661,10 @@
     "answer": "1991"
   },
   {
+    "question": "When was the Indian National Congress founded?",
+    "answer": "1885"
+  },
+  {
     "question": "When was the Kingdom of Allahabad founded?",
     "answer": "1583"
   },
@@ -1629,6 +1690,10 @@
   {
     "question": "When was the Treaty of Amiens signed?",
     "answer": "1802"
+  },
+  {
+    "question": "When was the Treaty of Thorn signed?",
+    "answer": "1411"
   },
   {
     "question": "When was the Vienna Convention on Human Rights signed?",
@@ -1771,6 +1836,10 @@
   {
     "question": "Which English act started the Reformation in England?",
     "answer": "Act of Supremacy"
+  },
+  {
+    "question": "Which European power actively supported the Protestants in the Thirty Years' War?",
+    "answer": "France"
   },
   {
     "question": "Which French reformer founded a school of theology in Geneva?",
@@ -1952,6 +2021,10 @@
     "answer": "Battle of Legnica"
   },
   {
+    "question": "Which battle took place in 1775?",
+    "answer": "Bunker Hill"
+  },
+  {
     "question": "Which battle took place in 732?",
     "answer": "Battle of Tours"
   },
@@ -2034,6 +2107,14 @@
     "question": "Which conference took place at the beginning of World War II to coordinate the Allies?"
   },
   {
+    "question": "Which conflict in 1994 led to genocide?",
+    "answer": "Rwandan conflict"
+  },
+  {
+    "question": "Which conflict lasted 30 years?",
+    "answer": "The Thirty Years' War"
+  },
+  {
     "question": "Which conflict lasted several decades?",
     "answer": "The Thirty Years' War"
   },
@@ -2092,6 +2173,10 @@
     "answer": "Italy"
   },
   {
+    "question": "Which country did not exist on maps until the end of World War II?",
+    "answer": "GDR"
+  },
+  {
     "question": "Which country experienced a civil war in the mid-1990s?",
     "answer": "Bosnia"
   },
@@ -2117,6 +2202,10 @@
   {
     "question": "Which country introduced Peronism as a political ideology?",
     "answer": "Argentina"
+  },
+  {
+    "question": "Which country returned Lend-Lease aid?",
+    "answer": "United Kingdom"
   },
   {
     "question": "Which country ruled the Netherlands in the 16th century?",
@@ -2212,6 +2301,10 @@
     "answer": "Articles of Confederation"
   },
   {
+    "question": "Which document is considered important for human rights?",
+    "answer": "Universal Declaration of Human Rights"
+  },
+  {
     "question": "Which document limited the armed forces of Germany after World War I?",
     "answer": "Treaty of Versailles"
   },
@@ -2232,10 +2325,6 @@
   {
     "question": "Which emperor proclaimed himself 'Roman Emperor'?",
     "answer": "Charles V"
-  },
-  {
-    "question": "Which empire collapsed at the end of World War I?",
-    "answer": "Ottoman Empire"
   },
   {
     "question": "Which empire existed in the 7th century BC on the territory of modern-day Turkey?",
@@ -2264,6 +2353,9 @@
   {
     "question": "Which famous Mongolian military leader captured Baghdad?",
     "answer": "Hulagu"
+  },
+  {
+    "question": "Which famous aqueduct supplied water to Ancient Rome?"
   },
   {
     "question": "Which famous book on strategy and governance was written in ancient India?",
@@ -2507,6 +2599,10 @@
     "question": "Which pact's conclusion became a precondition for the start of World War II?"
   },
   {
+    "question": "Which peace treaty ended the American Civil War?",
+    "answer": "Appomattox"
+  },
+  {
     "question": "Which people strengthened their positions in the 7th century?",
     "answer": "Arabs"
   },
@@ -2530,8 +2626,8 @@
     "question": "Which philosopher said 'Know thyself'?"
   },
   {
-    "question": "Which physicist is known for developing quantum theory?",
-    "answer": "Max Planck"
+    "question": "Which philosopher taught about continuous change?",
+    "answer": "Heraclitus"
   },
   {
     "question": "Which plague is known as the 'Black Death'?",
@@ -2548,6 +2644,10 @@
   {
     "question": "Which politician led the reforms in China at the end of the 20th century?",
     "answer": "Deng Xiaoping"
+  },
+  {
+    "question": "Which port city was important in ancient India?",
+    "answer": "Lothal"
   },
   {
     "question": "Which program helped reduce the unemployment rate?"
@@ -2575,6 +2675,9 @@
   {
     "question": "Which region of Greece was famous for its mysteries?",
     "answer": "Eleusis"
+  },
+  {
+    "question": "Which religion originated in the territory of modern-day Iran?"
   },
   {
     "question": "Which religious leader lived in Zurich?",
@@ -2745,6 +2848,10 @@
     "answer": "Abd al-Rahman"
   },
   {
+    "question": "Who commanded the Prussian army at Wagram?",
+    "answer": "Did not participate"
+  },
+  {
     "question": "Who commanded the colonists at Saratoga?",
     "answer": "Horatio Gates"
   },
@@ -2775,6 +2882,10 @@
   {
     "question": "Who crowned Charlemagne?",
     "answer": "Pope Leo III"
+  },
+  {
+    "question": "Who declared the independence of Argentina?",
+    "answer": "Manuel Belgrano"
   },
   {
     "question": "Who defeated the Han dynasty?"
@@ -2836,12 +2947,16 @@
     "answer": "Michael Somare"
   },
   {
-    "question": "Who founded the International Committee of the Red Cross?",
-    "answer": "Henri Dunant"
+    "question": "Who founded Jerusalem?",
+    "answer": "Canaanites"
   },
   {
     "question": "Who founded the Red Cross?",
     "answer": "Henri Dunant"
+  },
+  {
+    "question": "Who founded the city of Rhodes?",
+    "answer": "Dorians"
   },
   {
     "question": "Who implemented reforms in Japan in the 19th century?",
@@ -2987,6 +3102,10 @@
     "answer": "Louis XIV"
   },
   {
+    "question": "Who signed the Treaty of Tilsit?",
+    "answer": "Alexander I"
+  },
+  {
     "question": "Who was Jean-Paul Marat killed by?",
     "answer": "Charlotte Corday"
   },
@@ -2997,6 +3116,9 @@
   {
     "question": "Who was Napoleon's ally in the Battle of Austerlitz?",
     "answer": "Francis II"
+  },
+  {
+    "question": "Who was Napoleon's second wife?"
   },
   {
     "question": "Who was Shaka?",
@@ -3316,6 +3438,10 @@
     "answer": "Ottomans"
   },
   {
+    "question": "Who was the main general of the Holy Roman Empire in the Thirty Years' War?",
+    "answer": "Albrecht von Wallenstein"
+  },
+  {
     "question": "Who was the most famous enemy of Rome in the Punic Wars?"
   },
   {
@@ -3412,6 +3538,10 @@
   {
     "question": "Who wrote the book 'Institutes of the Christian Religion'?",
     "answer": "John Calvin"
+  },
+  {
+    "question": "Who wrote the chronicles of the Crusades?",
+    "answer": "Fulcher of Chartres"
   },
   {
     "question": "Who wrote the first medical book?",
