@@ -32,6 +32,10 @@
     "answer": "10"
   },
   {
+    "question": "How many laws were contained in the Code of Hammurabi?",
+    "answer": "282"
+  },
+  {
     "question": "In what form did the Crusaders make a promise to participate in the Crusades?",
     "answer": "Oath on the cross"
   },
@@ -132,6 +136,10 @@
   {
     "question": "In what year was the Treaty of Karlowitz signed?",
     "answer": "1699"
+  },
+  {
+    "question": "In what year was the first Bible published in German?",
+    "answer": "1534"
   },
   {
     "question": "In what year was the first circumnavigation completed?",
@@ -249,6 +257,10 @@
     "answer": "1857"
   },
   {
+    "question": "In which year did the Sino-Indian border conflict occur?",
+    "answer": "1962"
+  },
+  {
     "question": "In which year did the construction of the Great Wall of China begin?"
   },
   {
@@ -314,6 +326,10 @@
     "answer": "Battle of Marathon"
   },
   {
+    "question": "What battle was decisive in the Pacific War?",
+    "answer": "Battle of Midway"
+  },
+  {
     "question": "What became an important part of culture during the Enlightenment?",
     "answer": "Science"
   },
@@ -347,6 +363,10 @@
   {
     "question": "What citizenship did Edward Snowden receive?",
     "answer": "Russian"
+  },
+  {
+    "question": "What concept is the foundation of Calvinism?",
+    "answer": "Predestination"
   },
   {
     "question": "What conflict was between Arabs and other countries?",
@@ -431,6 +451,10 @@
   {
     "question": "What event is considered the beginning of the recovery of the US economy after the Great Depression?",
     "answer": "New Deal"
+  },
+  {
+    "question": "What event is known as the 'Holocaust'?",
+    "answer": "genocide of the Jews"
   },
   {
     "question": "What event led to the United States entering World War I?",
@@ -554,6 +578,10 @@
     "answer": "Calligraphy"
   },
   {
+    "question": "What is the Large Hadron Collider?",
+    "answer": "Particle accelerator"
+  },
+  {
     "question": "What is the Russian Liberation Army called by modern Slovaks?",
     "answer": "Vlasovtsy"
   },
@@ -635,6 +663,10 @@
   {
     "question": "What marked the end of the Cold War?",
     "answer": "Dissolution of the USSR"
+  },
+  {
+    "question": "What measure stabilized the US banking system in the 1930s?",
+    "answer": "Currency control"
   },
   {
     "question": "What methods were used in the Counter-Reformation?",
@@ -784,6 +816,10 @@
     "answer": "Enuma Elish"
   },
   {
+    "question": "What theological principle is key in Calvinism?",
+    "answer": "Predestination"
+  },
+  {
     "question": "What title did Jean-Baptiste Bernadotte hold before becoming king?",
     "answer": "Marshal of France"
   },
@@ -849,6 +885,10 @@
     "answer": "Federal Agency"
   },
   {
+    "question": "What was issued by Catholics to combat the Reformation?",
+    "answer": "Index of Forbidden Books"
+  },
+  {
     "question": "What was the Assyrian army called?",
     "answer": "The Invincible Force"
   },
@@ -870,6 +910,10 @@
   {
     "question": "What was the assembly of high officials called under absolutist monarchs in France?",
     "answer": "Estates-General"
+  },
+  {
+    "question": "What was the assembly of jurors in Athens called?",
+    "answer": "Heliaia"
   },
   {
     "question": "What was the capital of China during the Song Dynasty?",
@@ -1076,6 +1120,10 @@
     "question": "What was the name of the German plan for invasion through Belgium?"
   },
   {
+    "question": "What was the name of the German reconnaissance operation in 1917?",
+    "answer": "Albion"
+  },
+  {
     "question": "What was the name of the Grand Canal in China?",
     "answer": "Da Yunhe"
   },
@@ -1194,8 +1242,16 @@
     "answer": "Khnum"
   },
   {
+    "question": "What was the name of the body responsible for security?",
+    "answer": "Committee of Public Safety"
+  },
+  {
     "question": "What was the name of the capital of the Grand Duchy of Finland?",
     "answer": "Helsingfors"
+  },
+  {
+    "question": "What was the name of the captain of the second ship in Magellan's expedition?",
+    "answer": "João Serrão"
   },
   {
     "question": "What was the name of the collider project that started in 1998?",
@@ -1402,6 +1458,14 @@
     "question": "What was the name of the plan for the evacuation of British troops from France?"
   },
   {
+    "question": "What was the name of the plan to stabilize the German economy after World War I?",
+    "answer": "Dawes Plan"
+  },
+  {
+    "question": "What was the name of the radical faction in the Convention?",
+    "answer": "Montagnards"
+  },
+  {
     "question": "What was the name of the radical political club in Paris?",
     "answer": "Jacobins"
   },
@@ -1490,6 +1554,10 @@
   },
   {
     "question": "What was the period called after the Zhou dynasty?",
+    "answer": "Warring States Period"
+  },
+  {
+    "question": "What was the period of internal wars in China called?",
     "answer": "Warring States Period"
   },
   {
@@ -1644,6 +1712,10 @@
   {
     "question": "What year is considered the year of the fall of Constantinople?",
     "answer": "1453"
+  },
+  {
+    "question": "What years does the Three Kingdoms period cover?",
+    "answer": "220-280 AD"
   },
   {
     "question": "When did Australia gain full independence from the United Kingdom?",
@@ -1868,6 +1940,10 @@
   {
     "question": "Where did Japan surrender?",
     "answer": "On the Missouri"
+  },
+  {
+    "question": "Where did many discussions about the Reformation take place?",
+    "answer": "Trent"
   },
   {
     "question": "Where did the Battle of Saratoga take place?",
@@ -2155,6 +2231,10 @@
     "answer": "Battle of Legnica"
   },
   {
+    "question": "Which battle took place in 1244?",
+    "answer": "Battle of La Forbie"
+  },
+  {
     "question": "Which battle took place in 1410 between Poland and the Teutonic Order?",
     "answer": "Battle of Grunwald"
   },
@@ -2189,6 +2269,14 @@
   {
     "question": "Which battle was decisive?",
     "answer": "Battle of Kulikovo"
+  },
+  {
+    "question": "Which battle was one of the most famous in the Thirty Years' War?",
+    "answer": "Lützen"
+  },
+  {
+    "question": "Which body declared France a republic?",
+    "answer": "National Convention"
   },
   {
     "question": "Which book brought Thomas Cranmer fame?",
@@ -2456,6 +2544,10 @@
     "answer": "Peace of Augsburg"
   },
   {
+    "question": "Which document divided the oceans between Portugal and Spain?",
+    "answer": "Treaty of Tordesillas"
+  },
+  {
     "question": "Which document ended slavery in the USA?",
     "answer": "Emancipation Proclamation"
   },
@@ -2493,6 +2585,10 @@
   {
     "question": "Which dynasty invented the compass?",
     "answer": "Han"
+  },
+  {
+    "question": "Which dynasty ruled England during the English Revolution?",
+    "answer": "Stuarts"
   },
   {
     "question": "Which dynasty ruled the Holy Roman Empire?"
@@ -2551,6 +2647,10 @@
     "question": "Which famous building was constructed for the Great Exhibition of 1851?"
   },
   {
+    "question": "Which famous document established legal norms in the Mongol Empire?",
+    "answer": "Yassa"
+  },
+  {
     "question": "Which famous economist proposed political and economic reforms to combat the Great Depression?"
   },
   {
@@ -2584,6 +2684,10 @@
   {
     "question": "Which forces opposed each other during the Religious Wars in France?",
     "answer": "Catholics and Protestants"
+  },
+  {
+    "question": "Which foreign country led the final negotiations?",
+    "answer": "France"
   },
   {
     "question": "Which form of fuel became predominant in the 19th century?",
@@ -2813,6 +2917,10 @@
     "answer": "Confucius"
   },
   {
+    "question": "Which philosopher founded the school of ethical supervision?",
+    "answer": "Socrates"
+  },
+  {
     "question": "Which philosopher said 'Know thyself'?"
   },
   {
@@ -2941,6 +3049,10 @@
     "answer": "Code of Hammurabi"
   },
   {
+    "question": "Which tax act was challenged in colonial America in 1773?",
+    "answer": "Tea"
+  },
+  {
     "question": "Which technique is known thanks to Leonardo da Vinci?",
     "answer": "Sfumato"
   },
@@ -3025,6 +3137,10 @@
     "answer": "Sistine Chapel"
   },
   {
+    "question": "Who assisted the American troops during the War of Independence?",
+    "answer": "Marquis de Lafayette"
+  },
+  {
     "question": "Who became a monk after abdicating the throne?",
     "answer": "Charles V"
   },
@@ -3055,6 +3171,10 @@
   {
     "question": "Who commanded the French army at the Battle of Rocroi?",
     "answer": "Louis II de Bourbon"
+  },
+  {
+    "question": "Who commanded the German troops defending Stalingrad?",
+    "answer": "Friedrich Paulus"
   },
   {
     "question": "Who commanded the Imperial forces at the Battle of White Mountain?",
@@ -3191,6 +3311,14 @@
     "answer": "Canaanites"
   },
   {
+    "question": "Who founded the Achaemenid Empire?",
+    "answer": "Cyrus II"
+  },
+  {
+    "question": "Who founded the Gupta Empire?",
+    "answer": "Chandragupta I"
+  },
+  {
     "question": "Who founded the Red Cross?",
     "answer": "Henri Dunant"
   },
@@ -3294,6 +3422,10 @@
     "answer": "Harry Truman"
   },
   {
+    "question": "Who led the expedition across the Isthmus of Panama and was the first to discover the Pacific Ocean?",
+    "answer": "Vasco Núñez de Balboa"
+  },
+  {
     "question": "Who led the first British colony in Australia?",
     "answer": "Arthur Phillip"
   },
@@ -3352,6 +3484,10 @@
   {
     "question": "Who ruled the country known as the 'Sun King'?",
     "answer": "Louis XIV"
+  },
+  {
+    "question": "Who signed the Treaty of Paris in 1783?",
+    "answer": "United States and Great Britain"
   },
   {
     "question": "Who signed the Treaty of Tilsit?",
@@ -3838,6 +3974,10 @@
   {
     "question": "Who wrote the chronicles of the Crusades?",
     "answer": "Fulcher of Chartres"
+  },
+  {
+    "question": "Who wrote the famous pamphlet 'Common Sense'?",
+    "answer": "Thomas Paine"
   },
   {
     "question": "Who wrote the first medical book?",
