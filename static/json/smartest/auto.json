@@ -4,8 +4,24 @@
     "answer": "Geneva Motor Show"
   },
   {
+    "question": "At which show do races take place?",
+    "answer": "Goodwood"
+  },
+  {
+    "question": "From what year did they start installing ABS on motorcycles?",
+    "answer": "1992"
+  },
+  {
     "question": "How can you identify a clutch malfunction?",
     "answer": "Slipping"
+  },
+  {
+    "question": "How does the 'green wave' system work?",
+    "answer": "Traffic light synchronization"
+  },
+  {
+    "question": "How does the system recognize pedestrians?",
+    "answer": "Cameras and sensors"
   },
   {
     "question": "How many cylinders does the engine of the Mercedes-Benz 300SEL 6.3 have?"
@@ -15,11 +31,31 @@
     "answer": "5-10"
   },
   {
+    "question": "How many days does the Pebble Beach Concours d'Elegance last?",
+    "answer": "one"
+  },
+  {
+    "question": "How many horsepower does the Bugatti Veyron have?",
+    "answer": "1001"
+  },
+  {
+    "question": "How many hours does the endurance race at Le Mans last?",
+    "answer": "24 hours"
+  },
+  {
+    "question": "How many laps are there in the Monaco Grand Prix?",
+    "answer": "78"
+  },
+  {
     "question": "How many liters of fuel does the tank of an average motorcycle hold?"
   },
   {
     "question": "How many members are there on average in a vintage car club?",
     "answer": "1000+"
+  },
+  {
+    "question": "How many members does the MG Car Club have in the UK?",
+    "answer": "over 30,000"
   },
   {
     "question": "How many teams participate in the World Endurance Championship (WEC)?",
@@ -38,12 +74,52 @@
     "answer": "According to the manual"
   },
   {
+    "question": "How to change the oil in a motorcycle?",
+    "answer": "Drain plug"
+  },
+  {
+    "question": "In what year did Lewis Hamilton make his debut?",
+    "answer": ""
+  },
+  {
+    "question": "In what year did the Chrysler Imperial model debut?",
+    "answer": "1955"
+  },
+  {
+    "question": "In what year did the production of the Lada 2101 begin?",
+    "answer": "1970"
+  },
+  {
+    "question": "In what year was the Bosch Car Service club founded?",
+    "answer": "1921"
+  },
+  {
+    "question": "In what year was the Bugatti Owners' Club founded?",
+    "answer": ""
+  },
+  {
     "question": "In what year was the Bugatti brand founded?",
     "answer": "1909"
   },
   {
+    "question": "In what year was the International Ford Mustang Club founded?",
+    "answer": ""
+  },
+  {
+    "question": "In what year was the first Ford Model T released?",
+    "answer": "1908"
+  },
+  {
+    "question": "In which city in the Netherlands is the annual gathering of Honda owners held?",
+    "answer": "Zandvoort"
+  },
+  {
     "question": "In which city is the Formula 1 Grand Prix held on a street circuit in Asia?",
     "answer": "Singapore"
+  },
+  {
+    "question": "In which year did Sebastian Vettel debut?",
+    "answer": "2007"
   },
   {
     "question": "Name the engine control unit.",
@@ -54,7 +130,23 @@
     "answer": "Release the accelerator"
   },
   {
+    "question": "What actions should be taken if the fuel filter is clogged?",
+    "answer": "Replace the filter"
+  },
+  {
+    "question": "What are coilovers installed for?",
+    "answer": ""
+  },
+  {
     "question": "What benefit do manufacturers gain from participating in auto shows?"
+  },
+  {
+    "question": "What can be charged from the power grid?",
+    "answer": "Electric car"
+  },
+  {
+    "question": "What can be used to replace a damaged gasket?",
+    "answer": ""
   },
   {
     "question": "What can cause the 'Check Engine' light to turn on?",
@@ -63,6 +155,10 @@
   {
     "question": "What car does Brian drive in the movie 'Fast and Furious'?",
     "answer": "Nissan Skyline"
+  },
+  {
+    "question": "What challenges do participants face?",
+    "answer": "Navigation"
   },
   {
     "question": "What controls the fuel supply to the engine?",
@@ -84,6 +180,10 @@
     "answer": "Fuel injectors"
   },
   {
+    "question": "What device cools the air?",
+    "answer": "Intercooler"
+  },
+  {
     "question": "What distance do motorcycles typically cover in a day?",
     "answer": "800-900 km"
   },
@@ -92,8 +192,20 @@
     "answer": "Speed"
   },
   {
+    "question": "What distinguishes the SSV category from others?",
+    "answer": "Buggy"
+  },
+  {
     "question": "What does 'turbocharger upgrade' mean?",
     "answer": "Increase in pressure"
+  },
+  {
+    "question": "What does a barometer measure in a car?",
+    "answer": ""
+  },
+  {
+    "question": "What does the abbreviation Volvo mean?",
+    "answer": ""
   },
   {
     "question": "What does the choice of car wheels depend on?",
@@ -116,6 +228,10 @@
     "answer": "Straight-eight"
   },
   {
+    "question": "What engine was installed in the Packard Twin Six?",
+    "answer": "V12"
+  },
+  {
     "question": "What ensures optimal engine performance?",
     "answer": "ECU"
   },
@@ -124,8 +240,16 @@
     "answer": "Police officers"
   },
   {
+    "question": "What helps improve engine cooling?",
+    "answer": "Intercooler"
+  },
+  {
     "question": "What helps maintain the stable operation of a motorcycle?",
     "answer": "Timely maintenance"
+  },
+  {
+    "question": "What helps prevent hydroplaning?",
+    "answer": "New tires"
   },
   {
     "question": "What helps reduce the weight of a car for better fuel efficiency?",
@@ -140,6 +264,10 @@
     "answer": "Regenerative braking"
   },
   {
+    "question": "What is 'ADAS'?",
+    "answer": "Advanced Driver Assistance Systems"
+  },
+  {
     "question": "What is a 'dry clutch' in a motorcycle?",
     "answer": "Without lubrication"
   },
@@ -148,8 +276,20 @@
     "answer": "Projection of information onto the windshield"
   },
   {
+    "question": "What is a balancing weight used for?",
+    "answer": ""
+  },
+  {
+    "question": "What is a hybrid engine?",
+    "answer": "An engine of two types"
+  },
+  {
     "question": "What is a motocross bike?",
     "answer": "For off-road"
+  },
+  {
+    "question": "What is a planetary gear system?",
+    "answer": "Type of transmission"
   },
   {
     "question": "What is a torque converter?",
@@ -160,7 +300,27 @@
     "answer": "Batteries"
   },
   {
+    "question": "What is an electromagnetic valve used for?",
+    "answer": "Flow control"
+  },
+  {
     "question": "What is done during engine diagnostics?"
+  },
+  {
+    "question": "What is the 0 to 100 km/h acceleration time for the Tesla Model S Plaid?",
+    "answer": ""
+  },
+  {
+    "question": "What is the average speed of cars in the race?",
+    "answer": "80-130 km/h"
+  },
+  {
+    "question": "What is the difference between summer tires and winter tires?",
+    "answer": ""
+  },
+  {
+    "question": "What is the engine displacement of the Audi RS6?",
+    "answer": "4.0 liters"
   },
   {
     "question": "What is the engine displacement of the Ducati Panigale V4 (cc)?",
@@ -175,6 +335,10 @@
     "answer": "Cooling the air"
   },
   {
+    "question": "What is the horsepower of the Koenigsegg Agera RS?",
+    "answer": "1160 hp"
+  },
+  {
     "question": "What is the main feature of a motocross bike?"
   },
   {
@@ -182,8 +346,20 @@
     "answer": "Tuning"
   },
   {
+    "question": "What is the main function of a turbine in an engine?",
+    "answer": "Boost"
+  },
+  {
     "question": "What is the mechanism called that regulates the intake and exhaust of gases in an engine?",
     "answer": "Valve timing"
+  },
+  {
+    "question": "What is the mechanism called that regulates the oil supply?",
+    "answer": "Oil pump"
+  },
+  {
+    "question": "What is the minimum distance to maintain in moving traffic?",
+    "answer": "Two meters"
   },
   {
     "question": "What is the minimum safe distance between cars in winter?",
@@ -205,8 +381,24 @@
     "answer": "Serpentine"
   },
   {
+    "question": "What is the name of the ADAS system?",
+    "answer": "Driver Assistance System"
+  },
+  {
+    "question": "What is the name of the British electric vehicle manufacturer?",
+    "answer": "Lotus"
+  },
+  {
     "question": "What is the name of the club for Jaguar car owners?",
     "answer": "Jaguar Enthusiasts' Club"
+  },
+  {
+    "question": "What is the name of the fire extinguishing device used in a motorcycle?",
+    "answer": "Fire extinguisher"
+  },
+  {
+    "question": "What is the name of the longest Formula 1 race track?",
+    "answer": "Spa-Francorchamps"
   },
   {
     "question": "What is the name of the oil cooling system?",
@@ -217,8 +409,16 @@
     "answer": "Spielberg"
   },
   {
+    "question": "What is the name of the racetrack in Mexico?",
+    "answer": ""
+  },
+  {
     "question": "What is the name of the sport touring model from Kawasaki?",
     "answer": "Concours"
+  },
+  {
+    "question": "What is the name of the sports car manufacturing company founded by Carroll Shelby?",
+    "answer": "Shelby"
   },
   {
     "question": "What is the name of the sports car series from Toyota?",
@@ -232,12 +432,28 @@
     "question": "What is the name of the system that recognizes road signs?"
   },
   {
+    "question": "What is the name of the updated version of the Harley-Davidson Fat Boy?",
+    "answer": "Fat Boy 114"
+  },
+  {
+    "question": "What is the normal tire pressure value?",
+    "answer": ""
+  },
+  {
     "question": "What is the penalty for driving under the influence?",
     "answer": "High"
   },
   {
+    "question": "What is the process of returning energy to the battery during braking called?",
+    "answer": "Regeneration"
+  },
+  {
     "question": "What is the racing category for cars with hybrid powertrains in European championships called?",
     "answer": "LMP1"
+  },
+  {
+    "question": "What is the release year of the McLaren F1?",
+    "answer": "1992"
   },
   {
     "question": "What is the screen called that displays information on a car's windshield?"
@@ -249,6 +465,10 @@
   {
     "question": "What is the speed limit on some sections of a rally?",
     "answer": "140 km/h"
+  },
+  {
+    "question": "What is the speed limit on some stages of the Dakar Rally?",
+    "answer": "50 km/h"
   },
   {
     "question": "What is the speed of pit stops in F1?",
@@ -282,6 +502,10 @@
     "answer": "345 km/h"
   },
   {
+    "question": "What is the top speed of the Ferrari Enzo?",
+    "answer": "350 km/h"
+  },
+  {
     "question": "What is the top speed of the Lamborghini Huracán Performante?",
     "answer": "325 km/h"
   },
@@ -312,12 +536,32 @@
     "question": "What method can be used to test a battery?"
   },
   {
+    "question": "What model of electric bus does Mercedes-Benz offer?",
+    "answer": "eCitaro"
+  },
+  {
+    "question": "What percentage of the track in Saudi Arabia is made up of dunes?",
+    "answer": "75%"
+  },
+  {
     "question": "What should be checked when there are malfunctions in motorcycle electronics?",
     "answer": "Battery"
   },
   {
+    "question": "What should you do if the brake hose breaks?",
+    "answer": ""
+  },
+  {
+    "question": "What should you do if you have a flat tire?",
+    "answer": "repair it"
+  },
+  {
     "question": "What should you do in case of a brake fluid leak?",
     "answer": "Replace the hoses"
+  },
+  {
+    "question": "What should you do in case of an unexpected stop?",
+    "answer": "Turn on the hazard lights"
   },
   {
     "question": "What system helps keep a motorcycle in a horizontal position?",
@@ -332,8 +576,24 @@
     "answer": "Energy management"
   },
   {
+    "question": "What technology uses solar panels for charging?",
+    "answer": "Solar battery"
+  },
+  {
+    "question": "What tool is used for mounting and dismounting tires?",
+    "answer": "Tire changer"
+  },
+  {
+    "question": "What trend is observed in the market for hybrid cars?",
+    "answer": "Growth"
+  },
+  {
     "question": "What type of cooling is used in Ducati Panigale V4 engines?",
     "answer": "Liquid cooling"
+  },
+  {
+    "question": "What type of engine does the Tatra T87 have?",
+    "answer": "V8"
   },
   {
     "question": "What type of engine operates on various types of fuel?"
@@ -341,6 +601,30 @@
   {
     "question": "What type of hybrid cars is the most common?",
     "answer": "Full hybrids"
+  },
+  {
+    "question": "What type of motorcycle is often chosen for aggressive city riding?",
+    "answer": "Supermoto"
+  },
+  {
+    "question": "What type of motorcycle uses a turbine engine?",
+    "answer": "Turbike"
+  },
+  {
+    "question": "What type of rally vehicles participate in competitions?",
+    "answer": "SSV"
+  },
+  {
+    "question": "What type of tires in Formula 1 is considered the softest?",
+    "answer": "Hyper Soft"
+  },
+  {
+    "question": "What type of transmission is often used in sports cars?",
+    "answer": "Dual-clutch"
+  },
+  {
+    "question": "What type of transport is autonomous?",
+    "answer": "Driverless car"
   },
   {
     "question": "What type of wheels improves handling?",
@@ -355,12 +639,20 @@
     "answer": "Duryea Motor Wagon"
   },
   {
+    "question": "What was the name of the first Maserati sports car?",
+    "answer": "Tipo 26"
+  },
+  {
     "question": "What was the name of the first production car?",
     "answer": "Benz Patent-Motorwagen"
   },
   {
     "question": "What was the name of the front-wheel-drive car from Alfa Romeo?",
     "answer": "Alfasud"
+  },
+  {
+    "question": "What was the name of the luxury sedan from Lincoln in the 1960s?",
+    "answer": "Continental"
   },
   {
     "question": "When did the New York Auto Show begin?",
@@ -375,16 +667,60 @@
     "answer": "In advance"
   },
   {
+    "question": "When was the Peugeot company founded?",
+    "answer": "1810"
+  },
+  {
+    "question": "When was the first Aston Martin DB5 released?",
+    "answer": "1963"
+  },
+  {
+    "question": "When was the first Pebble Beach Concours held?",
+    "answer": "1950"
+  },
+  {
+    "question": "When was the first production sedan with front-wheel drive introduced?",
+    "answer": "1934"
+  },
+  {
+    "question": "When was the Škoda workshop founded?",
+    "answer": "1895"
+  },
+  {
     "question": "Where are hybrid cars most commonly used?",
     "answer": "Urban transportation"
+  },
+  {
+    "question": "Where are motorcycle trips through deserts popular?",
+    "answer": "USA"
   },
   {
     "question": "Where are next year's car models first unveiled?",
     "answer": "New York Auto Show"
   },
   {
+    "question": "Where do classic car owners meet?",
+    "answer": "ClassiClub"
+  },
+  {
+    "question": "Where does the famous Pikes Peak race take place?",
+    "answer": "USA"
+  },
+  {
+    "question": "Which BMW car became popular among racers in the 1970s?",
+    "answer": "BMW 3.0 CSL"
+  },
+  {
+    "question": "Which Brazilian driver has won the Formula 1 World Championship three times?",
+    "answer": "Ayrton Senna"
+  },
+  {
     "question": "Which Mercedes-Benz model is considered a symbol of automotive design from the 1930s?",
     "answer": "500K"
+  },
+  {
+    "question": "Which Rolls-Royce model was popular in the early 20th century?",
+    "answer": "Silver Ghost"
   },
   {
     "question": "Which auto show is famous for the debut of new electric vehicles?",
@@ -403,8 +739,16 @@
     "answer": "Benelli"
   },
   {
+    "question": "Which brand manufactures motorcycles for drifting?",
+    "answer": "Harley-Davidson"
+  },
+  {
     "question": "Which brand manufactures the Concours touring motorcycles?",
     "answer": "Kawasaki"
+  },
+  {
+    "question": "Which brand manufactures the Ghost model?",
+    "answer": "Rolls-Royce"
   },
   {
     "question": "Which brand produced the Cord 810 model?",
@@ -413,6 +757,18 @@
   {
     "question": "Which brand produces sports models with the 'Z' badge?",
     "answer": "Nissan"
+  },
+  {
+    "question": "Which brand produces the Terrano model?",
+    "answer": "Nissan"
+  },
+  {
+    "question": "Which car became the first mass-produced electric vehicle?",
+    "answer": "Nissan Leaf"
+  },
+  {
+    "question": "Which car brand is owned by the Stellantis group?",
+    "answer": ""
   },
   {
     "question": "Which car is considered the most successful in WRC history?",
@@ -430,11 +786,43 @@
     "answer": "Porsche 918"
   },
   {
+    "question": "Which car owners' club organizes the event 'Le Rally du Portugal'?",
+    "answer": ""
+  },
+  {
+    "question": "Which category of technology became widely popular in 2021?",
+    "answer": "Electric"
+  },
+  {
     "question": "Which category of vehicles has been participating in the rally since 2021?",
     "answer": "Classic"
   },
   {
+    "question": "Which community organizes off-road meetings?",
+    "answer": "Off-road Club"
+  },
+  {
+    "question": "Which community organizes rallies for Jeep owners?",
+    "answer": "Jeep Rally Club"
+  },
+  {
     "question": "Which company developed the HEMI engine?"
+  },
+  {
+    "question": "Which company developed the first turbo diesel engine?",
+    "answer": "Mercedes-Benz"
+  },
+  {
+    "question": "Which company develops routes?",
+    "answer": "ASO"
+  },
+  {
+    "question": "Which company did Colin Chapman found in 1952?",
+    "answer": "Lotus"
+  },
+  {
+    "question": "Which company is the sponsor of the rally?",
+    "answer": "Toyota"
   },
   {
     "question": "Which company manufactures cars under the Genesis brand?"
@@ -468,11 +856,23 @@
     "answer": "Air ducts"
   },
   {
+    "question": "Which component is responsible for aerodynamic downforce?",
+    "answer": "Wing"
+  },
+  {
     "question": "Which component is responsible for the movement of an electric vehicle?",
     "answer": "Electric motor"
   },
   {
     "question": "Which component regulates the airflow in an engine?"
+  },
+  {
+    "question": "Which country has the longest route in the Dakar Rally in South America?",
+    "answer": "Argentina"
+  },
+  {
+    "question": "Which country manufactures Zontes motorcycles?",
+    "answer": "China"
   },
   {
     "question": "Which country was the first to introduce electric buses?",
@@ -483,11 +883,19 @@
     "answer": "Fernando Alonso"
   },
   {
+    "question": "Which driver won the Drift Masters 2021 final?",
+    "answer": "James Deane"
+  },
+  {
     "question": "Which engine component creates a spark?",
     "answer": "Spark plug"
   },
   {
     "question": "Which engine component is responsible for fuel delivery and metering?"
+  },
+  {
+    "question": "Which engine uses a combustion chamber?",
+    "answer": "Diesel"
   },
   {
     "question": "Which event includes the Hillclimb race?",
@@ -507,6 +915,10 @@
   {
     "question": "Which motorcycle brand is associated with a monocoque?",
     "answer": "MV Agusta"
+  },
+  {
+    "question": "Which motorcycle company was founded in Austria in 1934?",
+    "answer": "KTM"
   },
   {
     "question": "Which motorcycle component forces air into the cylinders?",
@@ -543,12 +955,28 @@
     "answer": "Density"
   },
   {
+    "question": "Which part is replaced when there is noise in the suspension?",
+    "answer": "Shock absorber"
+  },
+  {
+    "question": "Which part of a racing car provides maximum downforce?",
+    "answer": "Aerodynamic body kit"
+  },
+  {
+    "question": "Which part of the transmission connects the gearbox and the differential?",
+    "answer": "Drive shaft"
+  },
+  {
     "question": "Which racing team is based in Woking?",
     "answer": "McLaren"
   },
   {
     "question": "Which sensor measures the mass air flow?",
     "answer": "MAF"
+  },
+  {
+    "question": "Which show features 'Concept Cars'?",
+    "answer": "Geneva Motor Show"
   },
   {
     "question": "Which show is famous for debuting new luxury cars?",
@@ -561,6 +989,10 @@
   {
     "question": "Which sports car is known as the Vette?",
     "answer": "Corvette"
+  },
+  {
+    "question": "Which sports car was the first production car with a fully carbon fiber body?",
+    "answer": "McLaren P1"
   },
   {
     "question": "Which system controls the operation of the engine and transmission?",
@@ -583,12 +1015,20 @@
     "answer": "Regen Braking"
   },
   {
+    "question": "Which technology reduces CO2 emissions?",
+    "answer": "Catalytic converter"
+  },
+  {
     "question": "Which technology supports energy recuperation?",
     "answer": "Recuperator"
   },
   {
     "question": "Which track is known as the 'Green Hell'?",
     "answer": "Nürburgring"
+  },
+  {
+    "question": "Which track is the longest in Formula 1?",
+    "answer": "Spa-Francorchamps"
   },
   {
     "question": "Which wrench is used to adjust the clutch?",
@@ -602,6 +1042,10 @@
     "answer": "Albrecht von Goertz"
   },
   {
+    "question": "Who drove for Toyota in 2004?",
+    "answer": ""
+  },
+  {
     "question": "Who is a multiple-time WRC champion?"
   },
   {
@@ -613,8 +1057,20 @@
     "answer": "Urban residents"
   },
   {
+    "question": "Who is the race director?",
+    "answer": "Michael Masi"
+  },
+  {
+    "question": "Who most frequently wins in the 'cars' category at the Dakar Rally?",
+    "answer": "Mini"
+  },
+  {
     "question": "Who was the first World Rally Championship (WRC) champion?",
     "answer": "Björn Waldegård"
+  },
+  {
+    "question": "Who won in the 'motorcycles' category 6 times in a row?",
+    "answer": "Stéphane Peterhansel"
   },
   {
     "question": "Who won the 2020 Italian Grand Prix?",
@@ -631,5 +1087,9 @@
   {
     "question": "Why do hybrid cars cause less harm to the environment?",
     "answer": "Less emissions"
+  },
+  {
+    "question": "Why is wheel alignment check necessary?",
+    "answer": "For proper handling"
   }
 ]

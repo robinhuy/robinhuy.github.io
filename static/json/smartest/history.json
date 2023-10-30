@@ -114,6 +114,10 @@
     "answer": "1721"
   },
   {
+    "question": "In what year did the flourishing of the Maya civilization begin?",
+    "answer": "250 AD"
+  },
+  {
     "question": "In what year was Copernicus's theory of the heliocentric system published?",
     "answer": "1543"
   },
@@ -389,16 +393,32 @@
     "answer": "Railways"
   },
   {
+    "question": "What device did Robert Hooke invent?",
+    "answer": "Vacuum pump"
+  },
+  {
     "question": "What device is used for mechanical spinning of threads?",
     "answer": "Mule machine"
+  },
+  {
+    "question": "What did Luther assert?",
+    "answer": "Sola Scriptura"
   },
   {
     "question": "What did the Counter-Reformation prohibit?",
     "answer": "Humanism"
   },
   {
+    "question": "What did the Mongols introduce into their troops?",
+    "answer": "Division"
+  },
+  {
     "question": "What did the Mongols use for fast communication?",
     "answer": "Yam"
+  },
+  {
+    "question": "What did the liberation of Haiti symbolize?",
+    "answer": "Revolution"
   },
   {
     "question": "What did the partition of India in 1947 lead to?"
@@ -600,6 +620,10 @@
   {
     "question": "What is the legacy of the Empire?",
     "answer": "law"
+  },
+  {
+    "question": "What is the main work of John Calvin?",
+    "answer": "Institutes of the Christian Religion"
   },
   {
     "question": "What is the name associated with the battle of 1796?",
@@ -838,6 +862,10 @@
   {
     "question": "What title did Joseph Bonaparte hold under Napoleon?",
     "answer": "King of Spain"
+  },
+  {
+    "question": "What title did Louis Bonaparte receive?",
+    "answer": ""
   },
   {
     "question": "What title did Napoleon hold after his abdication in 1814?",
@@ -1250,6 +1278,10 @@
     "answer": "Mohenjo-Daro"
   },
   {
+    "question": "What was the name of the ancient medical treatise?",
+    "answer": "The Canon of Medicine"
+  },
+  {
     "question": "What was the name of the anti-communist campaign in the USA?",
     "answer": "McCarthyism"
   },
@@ -1616,6 +1648,10 @@
     "answer": "Contubernium"
   },
   {
+    "question": "What was the strategy called to contain communism?",
+    "answer": "Truman Doctrine"
+  },
+  {
     "question": "What was the symbol of a consul's authority?",
     "answer": "Fasces"
   },
@@ -1680,6 +1716,10 @@
   {
     "question": "What were the citizens of free cities in Germany called?",
     "answer": "Burghers"
+  },
+  {
+    "question": "What were the demonstrations in East Berlin in 1989 called?",
+    "answer": "Monday demonstrations"
   },
   {
     "question": "What were the documents about the rights of the colonists called?",
@@ -1880,6 +1920,10 @@
   },
   {
     "question": "When was Constantinople founded?"
+  },
+  {
+    "question": "When was Tasmania founded?",
+    "answer": ""
   },
   {
     "question": "When was the Battle of Carrhae?",
@@ -2091,6 +2135,10 @@
     "answer": "France"
   },
   {
+    "question": "Which French military leader was known as 'Marshal Grouchy'?",
+    "answer": "Emmanuel de Grouchy"
+  },
+  {
     "question": "Which French reformer founded a school of theology in Geneva?",
     "answer": "John Calvin"
   },
@@ -2262,6 +2310,10 @@
     "answer": "Battle of Salamis"
   },
   {
+    "question": "Which battle symbolized the end of the Byzantine Empire?",
+    "answer": "Battle of Constantinople"
+  },
+  {
     "question": "Which battle took place during the Thirty Years' War?",
     "answer": "White Mountain"
   },
@@ -2332,6 +2384,10 @@
   {
     "question": "Which building was destroyed in London in 1834?",
     "answer": "Palace of Westminster"
+  },
+  {
+    "question": "Which calendar was introduced during the French Revolution?",
+    "answer": "Republican calendar"
   },
   {
     "question": "Which capital city was heavily damaged?",
@@ -2469,6 +2525,10 @@
     "answer": "Italy"
   },
   {
+    "question": "Which country did Tilly represent?",
+    "answer": "Holy Roman Empire"
+  },
+  {
     "question": "Which country did not exist on maps until the end of World War II?",
     "answer": "GDR"
   },
@@ -2526,6 +2586,10 @@
   {
     "question": "Which country switched alliances during the war and joined the Entente?",
     "answer": "Italy"
+  },
+  {
+    "question": "Which country was formerly ruled by the Tudor dynasty as an absolute monarchy?",
+    "answer": "England"
   },
   {
     "question": "Which country was led by Augusto Pinochet in the 1970s?",
@@ -2804,6 +2868,10 @@
   {
     "question": "Which influential German prince supported the Protestants?",
     "answer": "Frederick V"
+  },
+  {
+    "question": "Which initiative led to labor law reforms?",
+    "answer": "Wagner Act"
   },
   {
     "question": "Which international agreement affected the global economy during the Great Depression?"
@@ -3086,6 +3154,10 @@
     "answer": "Pacific Ocean"
   },
   {
+    "question": "Which sector of the economy was least affected during the pandemic?",
+    "answer": "Agriculture"
+  },
+  {
     "question": "Which ship played a key role in the colonization of Australia?",
     "answer": "Sirius"
   },
@@ -3339,6 +3411,10 @@
   {
     "question": "Who developed the first industrial engine?",
     "answer": "Thomas Newcomen"
+  },
+  {
+    "question": "Who developed the first statistical methods for data analysis?",
+    "answer": "Francis Galton"
   },
   {
     "question": "Who developed the theory of black holes?",
@@ -3626,6 +3702,10 @@
     "answer": "Vespucci"
   },
   {
+    "question": "Who was known as a 'Girondist'?",
+    "answer": "Brissot"
+  },
+  {
     "question": "Who was known as the 'Most Serene Prince of Taurida'?",
     "answer": "Grigory Potemkin"
   },
@@ -3644,6 +3724,10 @@
   {
     "question": "Who was one of the architects of St. Peter's Basilica?",
     "answer": "Michelangelo"
+  },
+  {
+    "question": "Who was one of the authors of the Federalist Papers?",
+    "answer": "Alexander Hamilton"
   },
   {
     "question": "Who was one of the main instigators of religious conflicts in 1618?",
@@ -3803,6 +3887,10 @@
     "answer": "Agustín de Iturbide"
   },
   {
+    "question": "Who was the first European explorer to cross the Sahara?",
+    "answer": "René Caillié"
+  },
+  {
     "question": "Who was the first European to reach the shores of the Pacific Ocean?",
     "answer": "Vasco Núñez de Balboa"
   },
@@ -3955,6 +4043,10 @@
     "answer": "Mao Zedong"
   },
   {
+    "question": "Who was the leader of the Jacobins?",
+    "answer": "Robespierre"
+  },
+  {
     "question": "Who was the leader of the Mexican forces in the Battle of Puebla in 1862?",
     "answer": "Ignacio Zaragoza"
   },
@@ -3997,6 +4089,10 @@
     "answer": "Subutai"
   },
   {
+    "question": "Who was the ruler and author of the famous code of laws in Mesopotamia?",
+    "answer": ""
+  },
+  {
     "question": "Who was the ruler of the Hittite Empire known for his treaty with Egypt?",
     "answer": "Hattusili III"
   },
@@ -4026,6 +4122,10 @@
   {
     "question": "Who won the Battle of Waterloo?",
     "answer": "Wellington"
+  },
+  {
+    "question": "Who won the Nobel Prize in Literature in 1907?",
+    "answer": "Rudyard Kipling"
   },
   {
     "question": "Who wrote \"On Peace\"?",
@@ -4114,6 +4214,10 @@
   {
     "question": "Whom did the French revolutionaries proclaim as a citizen?",
     "answer": "General Washington"
+  },
+  {
+    "question": "Whose ideas formed the basis of the Presbyterian Church?",
+    "answer": "John Calvin"
   },
   {
     "question": "Whose reign is considered the beginning of the Neo-Babylonian Empire?",

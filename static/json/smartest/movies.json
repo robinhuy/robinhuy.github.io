@@ -1,5 +1,13 @@
 [
   {
+    "question": "At what age did Bruce Lee die?",
+    "answer": ""
+  },
+  {
+    "question": "Complete the phrase: 'Is it just me, or is this a ______ train!'",
+    "answer": "magical"
+  },
+  {
     "question": "Complete the quote: 'Fate does not favor the weak...'",
     "answer": "and indecisive"
   },
@@ -28,7 +36,15 @@
     "question": "In which movie was the 'mocap' technology used for the first time?"
   },
   {
+    "question": "What award is given for the best Japanese animated film?",
+    "answer": "JIFA"
+  },
+  {
     "question": "What breed of dog is the main character in the animated series 'Boonie Bears'?"
+  },
+  {
+    "question": "What characterizes French surrealism in cinema?",
+    "answer": "Subconscious elements"
   },
   {
     "question": "What device is used to control the movement of a camera along predetermined paths?",
@@ -53,6 +69,10 @@
   {
     "question": "What is the name of the 2020 film about unsuccessful robbers?",
     "answer": "Totally Careless"
+  },
+  {
+    "question": "What is the name of the Indian film about the struggle for independence?",
+    "answer": "Lagaan"
   },
   {
     "question": "What is the name of the Japanese animation award similar to the Oscars?",
@@ -115,6 +135,10 @@
     "answer": "Yura"
   },
   {
+    "question": "What is the name of the show where people compete in boat races?",
+    "answer": ""
+  },
+  {
     "question": "What is the name of the song that Mulan sings in 'Mulan'?",
     "answer": "Reflection"
   },
@@ -153,11 +177,27 @@
     "answer": "The Jazz Singer"
   },
   {
+    "question": "What were special effects made of in silent films?",
+    "answer": "Technical tricks"
+  },
+  {
     "question": "When was the idea of an electronic television system proposed?"
+  },
+  {
+    "question": "Where is the Annecy Award for animated films presented?",
+    "answer": "France"
+  },
+  {
+    "question": "Which 2006 film tells the story of Mexican workers in the USA?",
+    "answer": "Babel"
   },
   {
     "question": "Which Brazilian film depicts life in the favelas?",
     "answer": "City of God"
+  },
+  {
+    "question": "Which British animated film depicts the life of a toad from the canal?",
+    "answer": "From the Canal"
   },
   {
     "question": "Which David Fincher film is about a detective investigating a series of murders based on the seven deadly sins?",
@@ -184,8 +224,20 @@
     "answer": "Paprika"
   },
   {
+    "question": "Which animated film tells the story of a magical cow?",
+    "answer": "The Cow and the Dream"
+  },
+  {
     "question": "Which animated project received the most awards at the Annecy Festival?",
     "answer": "Gravity Falls"
+  },
+  {
+    "question": "Which animation studio is known for films about 'Blastoide'?",
+    "answer": "Animax"
+  },
+  {
+    "question": "Which animation studio released the film 'Akira'?",
+    "answer": "Tokyo Movie Shinsha"
   },
   {
     "question": "Which book by Bulgakov was adapted into a film?",
@@ -203,6 +255,10 @@
     "answer": "IDFA"
   },
   {
+    "question": "Which famous franchise is a remake of the Italian film 'Matrix of Fear'?",
+    "answer": "Scream"
+  },
+  {
     "question": "Which film about cyber-attacks reached a global audience?",
     "answer": "Citizenfour"
   },
@@ -217,6 +273,10 @@
   {
     "question": "Which film is an adaptation of George Orwell's novel '1984'?",
     "answer": "1984"
+  },
+  {
+    "question": "Which film is based on Irvine Welsh's book about drug addicts in Edinburgh?",
+    "answer": "Trainspotting"
   },
   {
     "question": "Which film is known for its detailed exploration of corruption in the Colombian police?",
@@ -236,6 +296,10 @@
   {
     "question": "Which film was produced by Emma Thompson?",
     "answer": "In the Name of the Father"
+  },
+  {
+    "question": "Which film was the first to win an Oscar for Best Visual Effects?",
+    "answer": "Wonder Man"
   },
   {
     "question": "Which former US president organized the 'Political Films' film festival?"
@@ -264,12 +328,36 @@
     "answer": "The Investigation is Led by Kolobki"
   },
   {
+    "question": "Which show covers family issues and conflicts?",
+    "answer": "Family Dramas"
+  },
+  {
     "question": "Which song did Celine Dion perform for the movie 'K-PAX'?",
     "answer": "I'm Alive"
   },
   {
     "question": "Which studio created the anime 'Akagi'?",
     "answer": "Madhouse"
+  },
+  {
+    "question": "Which studio created the anime 'Cowboy Bebop'?",
+    "answer": ""
+  },
+  {
+    "question": "Which studio created the movie 'Jack the Giant Slayer'?",
+    "answer": "Warner Bros."
+  },
+  {
+    "question": "Which studio specialized in silent films?",
+    "answer": "Keystone Studios"
+  },
+  {
+    "question": "Which style uses visual metaphors for deep themes?",
+    "answer": "Symbolism"
+  },
+  {
+    "question": "Who composed the music for the film 'Collateral Beauty'?",
+    "answer": "Theodore Shapiro"
   },
   {
     "question": "Who composed the music for the film 'Dark Matter'?",
@@ -282,6 +370,18 @@
   {
     "question": "Who composed the music for the film 'The Elusive Avengers'?",
     "answer": "Yan Frenkel"
+  },
+  {
+    "question": "Who composed the music for the film 'The Social Network'?",
+    "answer": "Trent Reznor"
+  },
+  {
+    "question": "Who composed the music for the movie 'Joker'?",
+    "answer": "Hildur Guðnadóttir"
+  },
+  {
+    "question": "Who directed 'Soul'?",
+    "answer": "Pete Docter"
   },
   {
     "question": "Who directed 'The World Is Yours'?",
@@ -305,6 +405,10 @@
   },
   {
     "question": "Who is the author of the book 'To Reach the Clouds', which was adapted into a film in 2005?"
+  },
+  {
+    "question": "Who is the director of the film 'Paragraph 175'?",
+    "answer": "Rob Epstein"
   },
   {
     "question": "Who is the director of the film 'Rear Window'?"
@@ -334,6 +438,10 @@
     "answer": "Carrie-Anne Moss"
   },
   {
+    "question": "Who said: 'Only he deserves life and freedom, who every day goes to fight for them'?",
+    "answer": "Goethe"
+  },
+  {
     "question": "Who said: 'Plato is my friend, but truth is more important'?",
     "answer": "Aristotle"
   },
@@ -348,6 +456,10 @@
   {
     "question": "Who won the Golden Lion in 2021?",
     "answer": "Audrey Diwan"
+  },
+  {
+    "question": "Who won the Palme d'Or at the Cannes Film Festival in 2019?",
+    "answer": "Bong Joon-ho"
   },
   {
     "question": "Who wrote the screenplay for the movie 'Gattaca'?",
