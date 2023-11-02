@@ -1,11 +1,19 @@
 [
   {
+    "question": "Do stereoisomers have different spatial arrangements of atoms?",
+    "answer": "Different spatial arrangement of atoms"
+  },
+  {
     "question": "How are nanoscale layers produced?",
     "answer": "Sputtering"
   },
   {
     "question": "How can a molecule with an odd number of electrons be characterized?",
     "answer": "Radical"
+  },
+  {
+    "question": "How is a crystal lattice denoted?",
+    "answer": "Atomic grid"
   },
   {
     "question": "How is the age of fossils determined?",
@@ -27,8 +35,16 @@
     "answer": "1687"
   },
   {
+    "question": "In what year did the term 'robot' first appear?",
+    "answer": "1920"
+  },
+  {
     "question": "In what year was the 'Viking' mission launched?",
     "answer": "1975"
+  },
+  {
+    "question": "In what year was the Hubble Telescope launched?",
+    "answer": "1990"
   },
   {
     "question": "In what year was the electron discovered?",
@@ -52,6 +68,14 @@
   },
   {
     "question": "The Michelson-Morley experiment proved the absence of?"
+  },
+  {
+    "question": "Until what age do stem cells grow?",
+    "answer": "Until 25 years old"
+  },
+  {
+    "question": "What actions are associated with an earthquake plan?",
+    "answer": "Evacuation"
   },
   {
     "question": "What algorithm is used for mapping?",
@@ -90,6 +114,10 @@
     "answer": "Seismic activity"
   },
   {
+    "question": "What are the most distant and brightest objects in the Universe called?",
+    "answer": "Quasars"
+  },
+  {
     "question": "What are the particles called that carry forces?",
     "answer": ""
   },
@@ -102,6 +130,10 @@
     "answer": "Quasars"
   },
   {
+    "question": "What are the regions of space with intense magnetic fields called?",
+    "answer": "Magnetars"
+  },
+  {
     "question": "What are zoophilous plants?",
     "answer": "Pollinated by animals"
   },
@@ -110,12 +142,20 @@
     "answer": "Antagonists"
   },
   {
+    "question": "What causes the change in pressure with altitude?",
+    "answer": "Temperature gradient"
+  },
+  {
     "question": "What causes the change in temperature when ascending to a height?",
     "answer": "Adiabatic process"
   },
   {
     "question": "What command is used in Linux to copy files?",
     "answer": "cp"
+  },
+  {
+    "question": "What device is used to measure the speed of sound in a medium?",
+    "answer": ""
   },
   {
     "question": "What device is used to work with a laser?",
@@ -158,8 +198,16 @@
     "answer": "Landforms"
   },
   {
+    "question": "What does gerontology study?",
+    "answer": "The study of aging"
+  },
+  {
     "question": "What does limnology study?",
     "answer": ""
+  },
+  {
+    "question": "What does micropaleontology study?",
+    "answer": "Microscopic fossils"
   },
   {
     "question": "What does paleobotany study?",
@@ -198,6 +246,10 @@
     "answer": "Integral"
   },
   {
+    "question": "What does the wave function describe in quantum mechanics?",
+    "answer": ""
+  },
+  {
     "question": "What factor affects the humidity level?",
     "answer": "Temperature"
   },
@@ -230,12 +282,24 @@
     "answer": "Cloud"
   },
   {
+    "question": "What is CRISPR/Cas9?",
+    "answer": "genetic technology"
+  },
+  {
+    "question": "What is DNS?",
+    "answer": "Domain Name System"
+  },
+  {
     "question": "What is SLAM used for?",
     "answer": "Navigation"
   },
   {
     "question": "What is SLAM?",
     "answer": "Mapping"
+  },
+  {
+    "question": "What is a biochip?",
+    "answer": "Microarray"
   },
   {
     "question": "What is a cyclone?",
@@ -270,6 +334,10 @@
     "answer": "Pressure map"
   },
   {
+    "question": "What is an updraft?",
+    "answer": "Convection"
+  },
+  {
     "question": "What is analyzed first?",
     "answer": "Preliminary data"
   },
@@ -284,6 +352,10 @@
   {
     "question": "What is cosmic microwave background radiation?",
     "answer": "Relic radiation"
+  },
+  {
+    "question": "What is dark matter made of?",
+    "answer": "Unknown particles"
   },
   {
     "question": "What is deduction?",
@@ -306,12 +378,24 @@
     "answer": "Hemoglobin"
   },
   {
+    "question": "What is hypoxia?",
+    "answer": "Lack of oxygen"
+  },
+  {
+    "question": "What is isomerization?",
+    "answer": "Change of structure"
+  },
+  {
     "question": "What is lysozyme?",
     "answer": "Enzyme"
   },
   {
     "question": "What is magmatic differentiation?",
     "answer": "Separation of magma"
+  },
+  {
+    "question": "What is meristem?",
+    "answer": ""
   },
   {
     "question": "What is peptidoglycan?",
@@ -340,6 +424,10 @@
   {
     "question": "What is the complexity level of quantum dots?",
     "answer": "High"
+  },
+  {
+    "question": "What is the concept called where functions and data are combined in a single object?",
+    "answer": ""
   },
   {
     "question": "What is the device called for analyzing the quantum properties of light?",
@@ -372,6 +460,10 @@
   {
     "question": "What is the function of a spectrophotometer?",
     "answer": "Spectrum analysis"
+  },
+  {
+    "question": "What is the function of ependymal cells?",
+    "answer": ""
   },
   {
     "question": "What is the geological activity of oceanic plates called?",
@@ -410,8 +502,16 @@
     "answer": "Machine learning"
   },
   {
+    "question": "What is the method of creating structures that involves layering atoms called?",
+    "answer": "Layered epitaxy"
+  },
+  {
     "question": "What is the method of detecting exoplanets called, where their gravitational effect on a star is measured?",
     "answer": "Doppler method"
+  },
+  {
+    "question": "What is the method of inserting new genes into an organism called?",
+    "answer": "Genetic transformation"
   },
   {
     "question": "What is the molar mass of H2SO4?",
@@ -424,6 +524,10 @@
   {
     "question": "What is the name of a form of sustainable agriculture?",
     "answer": "Agroecofarm"
+  },
+  {
+    "question": "What is the name of a hypothetical object with a mass equal to the mass of the entire Universe?",
+    "answer": "Twin Universe"
   },
   {
     "question": "What is the name of skin cancer?",
@@ -473,6 +577,10 @@
     "answer": "Eutrophication"
   },
   {
+    "question": "What is the procedure called for removing part of an organ?",
+    "answer": "Resection"
+  },
+  {
     "question": "What is the process of breaking down rocks called?",
     "answer": "Erosion"
   },
@@ -491,6 +599,10 @@
   {
     "question": "What is the process of nitrogen transformation in the organism called?",
     "answer": "Nitrogen fixation"
+  },
+  {
+    "question": "What is the process of removing an electron from an atom called?",
+    "answer": "Ionization"
   },
   {
     "question": "What is the process of solving problems by breaking down a task into subtasks called?",
@@ -515,6 +627,10 @@
   {
     "question": "What is the self-assembly technique often used for in nanotechnology?",
     "answer": "Creating nanodevices"
+  },
+  {
+    "question": "What is the smallest species of primates?",
+    "answer": "Mouse lemur"
   },
   {
     "question": "What is the study of microorganisms on the skin surface called?",
@@ -588,6 +704,10 @@
     "answer": "Long-term potentiation"
   },
   {
+    "question": "What method is used for dating archaeological finds?",
+    "answer": "Radiometric"
+  },
+  {
     "question": "What method is used to study bacterial DNA?",
     "answer": "Sequencing"
   },
@@ -608,12 +728,24 @@
     "answer": ""
   },
   {
+    "question": "What molting process occurs in reptiles?",
+    "answer": "Shedding old skin"
+  },
+  {
     "question": "What network protocol is used for the internet?",
     "answer": "TCP/IP"
   },
   {
+    "question": "What percentage of animal species are invertebrates?",
+    "answer": ""
+  },
+  {
     "question": "What phenomenon explains the gravitational effect on light?",
     "answer": "Gravitational lensing"
+  },
+  {
+    "question": "What phenomenon is described by the theory of quantum entanglement?",
+    "answer": "Entangled states"
   },
   {
     "question": "What phenomenon is observed in the spectrum after light passes through a prism?",
@@ -622,6 +754,18 @@
   {
     "question": "What phenomenon leads to the formation of a black hole?",
     "answer": "Gravitational collapse"
+  },
+  {
+    "question": "What precedes the main earthquake?",
+    "answer": "Foreshocks"
+  },
+  {
+    "question": "What principle is the operation of a hydraulic press based on?",
+    "answer": "Pascal's Law"
+  },
+  {
+    "question": "What process enhances signal transmission between neurons?",
+    "answer": "Potentiation"
   },
   {
     "question": "What products are formed during the complete combustion of hydrocarbons?",
@@ -638,6 +782,14 @@
   {
     "question": "What quantity is measured in Henry?",
     "answer": "Inductance"
+  },
+  {
+    "question": "What radiometric method is used for dating organic remains?",
+    "answer": "Carbon-14"
+  },
+  {
+    "question": "What regulates the process of gas exchange in leaves?",
+    "answer": ""
   },
   {
     "question": "What robots can assist in medical surgeries?",
@@ -716,6 +868,14 @@
     "answer": "Tohoku 2011"
   },
   {
+    "question": "What was the name of the first humanoid robot introduced to humanity?",
+    "answer": "ASIMO"
+  },
+  {
+    "question": "What waters cause monsoons?",
+    "answer": "Warm waters"
+  },
+  {
     "question": "When was the term 'quantum' introduced?",
     "answer": "1900"
   },
@@ -734,6 +894,10 @@
   {
     "question": "Where was the virus first isolated?",
     "answer": "In a tobacco plant"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path?",
+    "answer": "Dijkstra's"
   },
   {
     "question": "Which animal can stand on one leg for a long time?",
@@ -770,6 +934,14 @@
     "answer": "Microglia"
   },
   {
+    "question": "Which chemical bond is the strongest?",
+    "answer": "Covalent"
+  },
+  {
+    "question": "Which chemical element was first discovered by Marie Curie?",
+    "answer": "Polonium"
+  },
+  {
     "question": "Which clouds cause rain showers?",
     "answer": "Nimbostratus"
   },
@@ -778,12 +950,20 @@
     "answer": "Cumulonimbus"
   },
   {
+    "question": "Which constellation contains the star Vega?",
+    "answer": "Lyra"
+  },
+  {
     "question": "Which country suffers the most from hurricanes due to its geographical location?",
     "answer": "Philippines"
   },
   {
     "question": "Which creatures are considered living fossils?",
     "answer": "Coelacanths"
+  },
+  {
+    "question": "Which element contains 79 protons?",
+    "answer": "Gold"
   },
   {
     "question": "Which element destroys the ozone layer?",
@@ -802,8 +982,16 @@
     "answer": "Leaf color"
   },
   {
+    "question": "Which field of engineering develops autonomous machines?",
+    "answer": ""
+  },
+  {
     "question": "Which functional group contains two oxygen atoms?",
     "answer": "Carboxyl"
+  },
+  {
+    "question": "Which galaxy is a satellite of the Milky Way?",
+    "answer": "Large Magellanic Cloud"
   },
   {
     "question": "Which gas was first isolated as a noble gas?",
@@ -834,6 +1022,10 @@
     "answer": "Turing Machine"
   },
   {
+    "question": "Which of these animals is a lobe-finned fish?",
+    "answer": "Coelacanth"
+  },
+  {
     "question": "Which organisms live at low temperatures?",
     "answer": "Psychrophiles"
   },
@@ -846,8 +1038,16 @@
     "answer": "Reticular formation"
   },
   {
+    "question": "Which part of the flower turns into a fruit?",
+    "answer": "Ovary"
+  },
+  {
     "question": "Which part of the seed nourishes the embryo?",
     "answer": "Endosperm"
+  },
+  {
+    "question": "Which particle has the smallest mass?",
+    "answer": ""
   },
   {
     "question": "Which particle is predicted by the electroweak theory?",
@@ -878,6 +1078,10 @@
     "answer": "Chemistry"
   },
   {
+    "question": "Which science studies the physical methods of measuring time?",
+    "answer": "Chronometry"
+  },
+  {
     "question": "Which scientist suggested the existence of microbes on other planets?",
     "answer": "Carl Sagan"
   },
@@ -906,6 +1110,10 @@
     "answer": "Stratospheric"
   },
   {
+    "question": "Who developed the method of falsification?",
+    "answer": "Karl Popper"
+  },
+  {
     "question": "Who developed the theory of panspermia?"
   },
   {
@@ -915,6 +1123,14 @@
   {
     "question": "Who discovered chemosynthesis?",
     "answer": "Sergei Winogradsky"
+  },
+  {
+    "question": "Who discovered electromagnetic radiation?",
+    "answer": "James Maxwell"
+  },
+  {
+    "question": "Who discovered the starch-iodine reagent?",
+    "answer": "Friedrich Schönbein"
   },
   {
     "question": "Who first proposed the quantum theory of light?",
