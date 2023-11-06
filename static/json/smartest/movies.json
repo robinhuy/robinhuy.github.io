@@ -20,6 +20,10 @@
     "answer": "end"
   },
   {
+    "question": "Complete the phrase: 'Well, there you have it...'",
+    "answer": "hello"
+  },
+  {
     "question": "Complete the quote: 'Fate does not favor the weak...'",
     "answer": "and indecisive"
   },
@@ -113,7 +117,15 @@
     "question": "In which film was computer graphics first used?"
   },
   {
+    "question": "In which movie scene does the composition 'Ride of the Valkyries' play?",
+    "answer": "Apocalypse Now"
+  },
+  {
     "question": "In which movie was the 'mocap' technology used for the first time?"
+  },
+  {
+    "question": "In which show do they play survival games?",
+    "answer": "Survivor"
   },
   {
     "question": "In which song does Shrek sing about his swamp?",
@@ -138,6 +150,18 @@
   {
     "question": "What are the special light maps for 3D scenes called?",
     "answer": "Lightmaps"
+  },
+  {
+    "question": "What award is given at the film festival in Varna, Bulgaria?",
+    "answer": "Golden Rose"
+  },
+  {
+    "question": "What award is given for the best achievements in editing?",
+    "answer": "Eddie Awards"
+  },
+  {
+    "question": "What award is given for the best animated films in Canada?",
+    "answer": "Canadian Screen Awards"
   },
   {
     "question": "What breed of dog is the main character in the animated series 'Boonie Bears'?"
@@ -169,6 +193,18 @@
   {
     "question": "What does the Screen Actors Guild of the USA award?",
     "answer": ""
+  },
+  {
+    "question": "What function does a review serve?",
+    "answer": "Analyze a film"
+  },
+  {
+    "question": "What genre does a film belong to if it contains elements of both comedy and tragedy?",
+    "answer": "Drama"
+  },
+  {
+    "question": "What genre includes stories about heroes and feats?",
+    "answer": "Epic"
   },
   {
     "question": "What genre of literature often contains epic events and storylines?",
@@ -235,6 +271,14 @@
     "answer": "Dobrynya"
   },
   {
+    "question": "What is the name of Quentin Tarantino's first directorial film?",
+    "answer": "Reservoir Dogs"
+  },
+  {
+    "question": "What is the name of Quentin Tarantino's iconic crime film?",
+    "answer": "Pulp Fiction"
+  },
+  {
     "question": "What is the name of Roman Polanski's 1980 film?",
     "answer": "Tess"
   },
@@ -275,6 +319,10 @@
     "answer": "Black Swan"
   },
   {
+    "question": "What is the name of the 2013 horror film starring Danny Glover and Ashley Bell?",
+    "answer": "The Last Exorcism Part II"
+  },
+  {
     "question": "What is the name of the 2014 film based on Gillian Flynn's book about the mysterious disappearance of a woman?",
     "answer": "Gone Girl"
   },
@@ -287,8 +335,16 @@
     "answer": "Totally Careless"
   },
   {
+    "question": "What is the name of the American adaptation of the French film 'Pierrot le Fou'?",
+    "answer": "Crazy Pete"
+  },
+  {
     "question": "What is the name of the American adaptation of the film 'Несломленный'?",
     "answer": "Unbroken"
+  },
+  {
+    "question": "What is the name of the American version of the film 'Scent of a Woman'?",
+    "answer": "Scent of a Woman"
   },
   {
     "question": "What is the name of the Franco-Japanese film about a futuristic detective?",
@@ -305,6 +361,14 @@
   {
     "question": "What is the name of the Japanese award for achievements in animation?",
     "answer": "Kojima Award"
+  },
+  {
+    "question": "What is the name of the Japanese version of the anime 'Blue Lantern'?",
+    "answer": "Azure Path"
+  },
+  {
+    "question": "What is the name of the Nolan film with elements of time paradoxes?",
+    "answer": ""
   },
   {
     "question": "What is the name of the Norwegian adaptation of the novel 'The Catcher in the Rye'?",
@@ -339,6 +403,10 @@
     "answer": "Belmont Ghosts"
   },
   {
+    "question": "What is the name of the TV series where a chemistry teacher becomes a drug lord?",
+    "answer": "Breaking Bad"
+  },
+  {
     "question": "What is the name of the actress who played Paulina Klinger in the series 'Paula'?",
     "answer": "Laura Campagnondo"
   },
@@ -355,12 +423,20 @@
     "answer": "Henry J. Waternoose"
   },
   {
+    "question": "What is the name of the antagonist in the movie 'Ghostbusters'?",
+    "answer": "Gozer"
+  },
+  {
     "question": "What is the name of the assistant robot in 'Asterix'?",
     "answer": "Beng"
   },
   {
     "question": "What is the name of the award for scientific and technical achievements in cinema?",
     "answer": "Scientific Oscar"
+  },
+  {
+    "question": "What is the name of the award for the best animated film in Italy?",
+    "answer": ""
   },
   {
     "question": "What is the name of the award for the best independent animated film at the Annecy Festival?",
@@ -375,6 +451,10 @@
     "answer": "Toby"
   },
   {
+    "question": "What is the name of the cat from the cartoon 'Dinosaur Parade'?",
+    "answer": "Chester"
+  },
+  {
     "question": "What is the name of the category awarded at the Annecy Festival for innovation in animation?",
     "answer": "Creative Challenge"
   },
@@ -387,8 +467,20 @@
     "answer": ""
   },
   {
+    "question": "What is the name of the city in the TV series 'Breaking Bad'?",
+    "answer": ""
+  },
+  {
     "question": "What is the name of the city where the events of 'The Legend of Korra' take place?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of the computer system from the movie 'Terminator'?",
+    "answer": "Skynet"
+  },
+  {
+    "question": "What is the name of the cult science fiction series about parallel universes?",
+    "answer": "Sliders"
   },
   {
     "question": "What is the name of the director of the film 'Childhood of Bagroosha'?",
@@ -397,6 +489,10 @@
   {
     "question": "What is the name of the director of the film 'V for Vendetta'?",
     "answer": "James McTeigue"
+  },
+  {
+    "question": "What is the name of the documentary about human organ trafficking?",
+    "answer": "Tales From the Organ Trade"
   },
   {
     "question": "What is the name of the duck in the cartoon 'Darkwing Duck'?",
@@ -411,8 +507,16 @@
     "answer": "The Iron Cross"
   },
   {
+    "question": "What is the name of the famous Spanish film about revolution?",
+    "answer": "Land and Freedom"
+  },
+  {
     "question": "What is the name of the film about monuments to animals?",
     "answer": "Peter and Jane"
+  },
+  {
+    "question": "What is the name of the film about the Sicilian mafia released in 2006?",
+    "answer": "Black Mass"
   },
   {
     "question": "What is the name of the film based on Jill Paton Walsh's novel about a crime in a monastery?",
@@ -455,6 +559,10 @@
     "answer": "Lapis"
   },
   {
+    "question": "What is the name of the group of mutants in the series 'The X-Files'?",
+    "answer": "The Islanders"
+  },
+  {
     "question": "What is the name of the hare in the cartoon 'Nu, Pogodi!'?",
     "answer": "Hare"
   },
@@ -477,6 +585,10 @@
   {
     "question": "What is the name of the knight in 'Monster House'?",
     "answer": "Harold"
+  },
+  {
+    "question": "What is the name of the last film featuring Heath Ledger?",
+    "answer": "The Imaginarium of Doctor Parnassus"
   },
   {
     "question": "What is the name of the main character and driver in the movie 'Fast & Furious'?",
@@ -519,6 +631,10 @@
     "answer": "Lucius Vorenus"
   },
   {
+    "question": "What is the name of the main villain in 'Futurama'?",
+    "answer": "Mom"
+  },
+  {
     "question": "What is the name of the mouse in the cartoon 'Rick and Morty'?",
     "answer": "Snuffles"
   },
@@ -529,6 +645,10 @@
   {
     "question": "What is the name of the movie about a group of friends on a fishing trip?",
     "answer": "The Big Catch"
+  },
+  {
+    "question": "What is the name of the movie about the future where people don't age?",
+    "answer": "In Time"
   },
   {
     "question": "What is the name of the movie that features the characters Thelma and Louise?",
@@ -563,6 +683,10 @@
     "answer": "Rodney"
   },
   {
+    "question": "What is the name of the second part of Tim Burton's Batman trilogy?",
+    "answer": "Batman Returns"
+  },
+  {
     "question": "What is the name of the series by Julio Torres and Ana Fabíola Isabel Guzmán?",
     "answer": "Los Espookys"
   },
@@ -577,6 +701,10 @@
   {
     "question": "What is the name of the show with song parodies?",
     "answer": "Parody Show"
+  },
+  {
+    "question": "What is the name of the song in the movie 'How to Train Your Dragon' during Hiccup and Toothless's flight together?",
+    "answer": "Test Drive"
   },
   {
     "question": "What is the name of the song that Mulan sings in 'Mulan'?",
@@ -595,12 +723,24 @@
     "answer": "Silver Sword"
   },
   {
+    "question": "What is the name of the very first secret organization from the James Bond film?",
+    "answer": "SPECTRE"
+  },
+  {
+    "question": "What is the name of the villainess from the 'Chronicles of Narnia' franchise?",
+    "answer": "White Witch"
+  },
+  {
     "question": "What is the process of combining frames called?",
     "answer": "Compositing"
   },
   {
     "question": "What is the process of combining images to create depth called?",
     "answer": "Matting"
+  },
+  {
+    "question": "What is the process of combining multiple videos into one called?",
+    "answer": "compositing"
   },
   {
     "question": "What is the process of creating a character's skeleton called?",
@@ -626,6 +766,10 @@
     "answer": "Photorealism"
   },
   {
+    "question": "What is the technique called that creates special effects by drawing each frame?",
+    "answer": "Rotoscoping"
+  },
+  {
     "question": "What is the technique of non-linear video editing called?",
     "answer": "Non-linear editing"
   },
@@ -639,6 +783,14 @@
   },
   {
     "question": "What is used for detailed renders?"
+  },
+  {
+    "question": "What is used to control camera movement in animation?",
+    "answer": "Camera track"
+  },
+  {
+    "question": "What is used to control camera movements?",
+    "answer": "Camera tracking"
   },
   {
     "question": "What is used to create volumetric and realistic shadows?",
@@ -677,6 +829,10 @@
     "answer": "Double exposure"
   },
   {
+    "question": "What term refers to the addition of 3D objects into real scenes?",
+    "answer": "Integration"
+  },
+  {
     "question": "What term refers to the process of creating intermediate frames in animation?",
     "answer": "Tweening"
   },
@@ -693,6 +849,10 @@
     "answer": ""
   },
   {
+    "question": "What was the first film to use computer animation?",
+    "answer": "Westworld"
+  },
+  {
     "question": "What was the first sound film?",
     "answer": "The Jazz Singer"
   },
@@ -705,8 +865,16 @@
     "answer": "James Stewart"
   },
   {
+    "question": "What was the name of the creator of the animated character Krosh?",
+    "answer": ""
+  },
+  {
     "question": "What was the name of the first Soviet television?",
     "answer": "KOPA"
+  },
+  {
+    "question": "What was the name of the first color television broadcast?",
+    "answer": "Telemir"
   },
   {
     "question": "What was the name of the first feature-length film?",
@@ -723,6 +891,10 @@
   {
     "question": "What was the storytelling like in silent films?",
     "answer": "visual"
+  },
+  {
+    "question": "What was the title of Friedrich Murnau's first film?",
+    "answer": "Satanas"
   },
   {
     "question": "When did the testing of the first television system begin?",
@@ -748,12 +920,28 @@
     "question": "When was the idea of an electronic television system proposed?"
   },
   {
+    "question": "When was the program 'Vremya' first broadcast on central Soviet television?",
+    "answer": ""
+  },
+  {
+    "question": "Where is the 'Eros' award for animation presented?",
+    "answer": ""
+  },
+  {
     "question": "Where is the Expo prize awarded?",
     "answer": "Toronto"
   },
   {
     "question": "Where was Keanu Reeves born?",
     "answer": "Lebanon"
+  },
+  {
+    "question": "Which 2006 film tells the story of Mexican workers in the USA?",
+    "answer": ""
+  },
+  {
+    "question": "Which American director has won the 'Palme d'Or' twice?",
+    "answer": "Francis Ford Coppola"
   },
   {
     "question": "Which Brazilian TV series became an international hit?",
@@ -780,6 +968,14 @@
     "answer": ""
   },
   {
+    "question": "Which German director made 'Metropolis'?",
+    "answer": "Fritz Lang"
+  },
+  {
+    "question": "Which German director made the film 'Nosferatu'?",
+    "answer": "Friedrich Wilhelm Murnau"
+  },
+  {
     "question": "Which Harold Lloyd comedy became a classic?",
     "answer": "Safety Last!"
   },
@@ -796,12 +992,24 @@
     "answer": "Best Original Score"
   },
   {
+    "question": "Which Spanish animation studio won the Goya Award in 2011?",
+    "answer": "Ilion Animation Studios"
+  },
+  {
     "question": "Which Spanish film about the fight for justice was released in the 2000s?",
     "answer": "The Platform"
   },
   {
+    "question": "Which TV series is an adaptation of the Scandinavian series 'The Bridge'?",
+    "answer": "The Tunnel"
+  },
+  {
     "question": "Which TV series tells the story of an Algerian migrant's life in the 1960s?",
     "answer": ""
+  },
+  {
+    "question": "Which actor starred in the movie 'Oldboy'?",
+    "answer": "Choi Min-sik"
   },
   {
     "question": "Which actors became popular during the silent film era?",
@@ -836,6 +1044,14 @@
     "answer": "Paprika"
   },
   {
+    "question": "Which animated film first used the multiplane camera?",
+    "answer": "The Old Mill"
+  },
+  {
+    "question": "Which animated film from Germany tells the story of a gnome's journey?",
+    "answer": "Gnomes on the Road"
+  },
+  {
     "question": "Which animated film is about a crane?",
     "answer": ""
   },
@@ -846,6 +1062,10 @@
   {
     "question": "Which animated film won the 'Golden Bear' award at the Berlin Film Festival?",
     "answer": "Howl's Moving Castle"
+  },
+  {
+    "question": "Which animated film won the Animation Guild Award for Best Film?",
+    "answer": ""
   },
   {
     "question": "Which animated film won the Goya Award in 2021?",
@@ -872,8 +1092,16 @@
     "answer": "Skydance Animation"
   },
   {
+    "question": "Which author's book was adapted into the film 'The Pianist'?",
+    "answer": "Władysław Szpilman"
+  },
+  {
     "question": "Which award in Europe recognizes achievements in animation?",
     "answer": ""
+  },
+  {
+    "question": "Which award is annually given for achievements in animation in Russia?",
+    "answer": "Icarus"
   },
   {
     "question": "Which award is given for outstanding directorial contribution to British cinema?",
@@ -919,6 +1147,14 @@
     "question": "Which company dominated the color television market in the USSR?"
   },
   {
+    "question": "Which composer wrote the music for the film 'The Proposition'?",
+    "answer": "Nick Cave"
+  },
+  {
+    "question": "Which director is known for the films 'Oldboy', 'Stoker', and 'The Handmaiden'?",
+    "answer": ""
+  },
+  {
     "question": "Which director made the documentary film 'Roger & Me'?",
     "answer": "Michael Moore"
   },
@@ -953,6 +1189,10 @@
   {
     "question": "Which film award is given for outstanding achievements in editing?",
     "answer": "ACE Eddie"
+  },
+  {
+    "question": "Which film by Peter Jackson is related to the events of World War I?",
+    "answer": "They Shall Not Grow Old"
   },
   {
     "question": "Which film company was the first to release a silent film?",
@@ -995,6 +1235,10 @@
     "answer": "1984"
   },
   {
+    "question": "Which film is an adaptation of the novel 'The Island' by Westerfeld?",
+    "answer": "The Island"
+  },
+  {
     "question": "Which film is based on Joseph Heller's book about World War II?",
     "answer": "Catch-22"
   },
@@ -1005,6 +1249,14 @@
   {
     "question": "Which film is considered a symbol of space travel cinema?",
     "answer": "2001: A Space Odyssey"
+  },
+  {
+    "question": "Which film is considered the first in the history of cinema?",
+    "answer": "The Arrival of a Train"
+  },
+  {
+    "question": "Which film is dedicated to the life of Jordan Peterson?",
+    "answer": "The Real Time Loop"
   },
   {
     "question": "Which film is known for its detailed exploration of corruption in the Colombian police?",
@@ -1023,6 +1275,10 @@
     "answer": "Fahrenheit 9/11"
   },
   {
+    "question": "Which film tells the story of Bashar al-Assad's life?",
+    "answer": "A Syrian Love Story"
+  },
+  {
     "question": "Which film tells the story of the MS-13 gang?",
     "answer": "Salvador Today"
   },
@@ -1035,7 +1291,15 @@
     "answer": "Un Chien Andalou"
   },
   {
+    "question": "Which film was directed by Ayakashi Decade?",
+    "answer": "Hedgehog Man-Rabbit"
+  },
+  {
     "question": "Which film was directed by Cecil B. DeMille?"
+  },
+  {
+    "question": "Which film was directed by Federico Fellini?",
+    "answer": "La Dolce Vita"
   },
   {
     "question": "Which film was directed by François Truffaut?",
@@ -1060,6 +1324,10 @@
   {
     "question": "Which film was the first to use CGI special effects?",
     "answer": "Westworld"
+  },
+  {
+    "question": "Which film was the first to use a fully computer-generated character?",
+    "answer": ""
   },
   {
     "question": "Which film widely used the strategy of combining live-action and CGI?",
@@ -1090,12 +1358,24 @@
     "answer": "On Body and Soul"
   },
   {
+    "question": "Which film won the Golden Bear in 2020?",
+    "answer": "Synonyms"
+  },
+  {
     "question": "Which film won the Golden Globe for Best Motion Picture - Musical or Comedy in 2022?",
     "answer": "West Side Story"
   },
   {
     "question": "Which film won the Oscar for Best Picture in 2017?",
     "answer": "Moonlight"
+  },
+  {
+    "question": "Which film won the Palme d'Or at the Cannes Film Festival in 2021?",
+    "answer": "Titane"
+  },
+  {
+    "question": "Which film won the main award at the Sundance Film Festival in 2021?",
+    "answer": "CODA"
   },
   {
     "question": "Which former US president organized the 'Political Films' film festival?"
@@ -1125,12 +1405,24 @@
     "answer": "Glass"
   },
   {
+    "question": "Which movement focuses on documentary and reality?",
+    "answer": "Italian Neorealism"
+  },
+  {
+    "question": "Which movement is associated with Daniil Ivanovich Plyushchikov?",
+    "answer": "Socialist realism"
+  },
+  {
     "question": "Which movement is known for the use of grotesque?",
     "answer": "German Expressionism"
   },
   {
     "question": "Which movie is about a group of scientists discovering a portal to another world?",
     "answer": "Stargate"
+  },
+  {
+    "question": "Which movie is about a maniac with a chainsaw?",
+    "answer": "The Texas Chainsaw Massacre"
   },
   {
     "question": "Which movie is about teenagers spending the summer on a damp farm?",
@@ -1172,12 +1464,24 @@
     "answer": "Fight Club"
   },
   {
+    "question": "Which novel was the basis for the film 'A Beautiful Mind'?",
+    "answer": "Sylvia Nasar"
+  },
+  {
     "question": "Which novel was the basis for the film 'Vanity Fair'?",
     "answer": ""
   },
   {
     "question": "Which part of a review compares films?",
     "answer": "Comparative analysis"
+  },
+  {
+    "question": "Which part of a review describes key scenes without spoilers?",
+    "answer": "Scene evaluation"
+  },
+  {
+    "question": "Which part of the film is evaluated in a review?",
+    "answer": "directing"
   },
   {
     "question": "Which program is dedicated to investigations?",
@@ -1202,6 +1506,10 @@
   {
     "question": "Which show is dedicated to discussing movies and TV series?",
     "answer": "Review"
+  },
+  {
+    "question": "Which show is dedicated to nature?",
+    "answer": "In the World of Animals"
   },
   {
     "question": "Which song did Celine Dion perform for the movie 'K-PAX'?",
@@ -1232,6 +1540,10 @@
     "answer": "Wit Studio"
   },
   {
+    "question": "Which technology enhances the detail of models?",
+    "answer": "Subdivision"
+  },
+  {
     "question": "Which tool allows you to paint on 3D models?",
     "answer": "ZBrush"
   },
@@ -1248,6 +1560,10 @@
     "answer": "Randy Newman"
   },
   {
+    "question": "Who composed the music for 'Death Note'?",
+    "answer": "Yoshihisa Hirano"
+  },
+  {
     "question": "Who composed the music for 'The Cat's House'?",
     "answer": "Milhaud"
   },
@@ -1258,6 +1574,10 @@
   {
     "question": "Who composed the music for the animated film 'Iron Heart'?",
     "answer": "L. Williams"
+  },
+  {
+    "question": "Who composed the music for the film \"Gran Torino\"?",
+    "answer": ""
   },
   {
     "question": "Who composed the music for the film '12 Years a Slave'?",
@@ -1284,6 +1604,10 @@
     "answer": "Michael Andrews"
   },
   {
+    "question": "Who composed the music for the film 'Empire of the Sun'?",
+    "answer": "John Williams"
+  },
+  {
     "question": "Who composed the music for the film 'The 13th Warrior'?",
     "answer": "Jerry Goldsmith"
   },
@@ -1296,12 +1620,20 @@
     "answer": "Alexandre Desplat"
   },
   {
+    "question": "Who composed the music for the film 'The Postman Always Rings Twice'?",
+    "answer": "Miklós Rózsa"
+  },
+  {
     "question": "Who composed the music for the film 'The Third Man'?",
     "answer": "Anton Karas"
   },
   {
     "question": "Who composed the music for the movie 'Fight Club'?",
     "answer": "The Dust Brothers"
+  },
+  {
+    "question": "Who composed the music for the musical 'The Phantom of the Opera'?",
+    "answer": "Andrew Lloyd Webber"
   },
   {
     "question": "Who composed the music for the series 'True Detective'?",
@@ -1312,6 +1644,10 @@
     "answer": "Alan Silvestri"
   },
   {
+    "question": "Who composed the soundtrack for the movie 'The Grand Budapest Hotel'?",
+    "answer": "Alexandre Desplat"
+  },
+  {
     "question": "Who created the character 'Garfield'?",
     "answer": "Jim Davis"
   },
@@ -1320,12 +1656,20 @@
     "answer": "Ron Howard"
   },
   {
+    "question": "Who directed 'Coraline'?",
+    "answer": ""
+  },
+  {
     "question": "Who directed 'Crisis'?",
     "answer": "Makoto Shinkai"
   },
   {
     "question": "Who directed 'Soul'?",
     "answer": "Pete Docter"
+  },
+  {
+    "question": "Who directed 'Spirit: Stallion of the Cimarron'?",
+    "answer": "Kelly Asbury"
   },
   {
     "question": "Who directed 'Tad, the Lost Explorer'?",
@@ -1356,8 +1700,16 @@
     "answer": "Michel Ocelot"
   },
   {
+    "question": "Who directed the animated film 'Abominable'?",
+    "answer": ""
+  },
+  {
     "question": "Who directed the animated film 'Angel's Egg'?",
     "answer": "Mamoru Oshii"
+  },
+  {
+    "question": "Who directed the animated film 'Dandelion Boy'?",
+    "answer": "Manfred Kersten"
   },
   {
     "question": "Who directed the animated film 'Finding Dory'?",
@@ -1384,6 +1736,10 @@
     "answer": "Mary Harron"
   },
   {
+    "question": "Who directed the film 'Flight of Mind'?",
+    "answer": "Peter Gabriel"
+  },
+  {
     "question": "Who directed the film 'Mia and the White Lion'?",
     "answer": "Gilles de Maistre"
   },
@@ -1404,6 +1760,10 @@
     "answer": "Akira Kurosawa"
   },
   {
+    "question": "Who directed the film 'Sherlock Jr.'?",
+    "answer": "Buster Keaton"
+  },
+  {
     "question": "Who directed the film 'Soldier's Father'?",
     "answer": ""
   },
@@ -1416,6 +1776,10 @@
     "answer": "Errol Morris"
   },
   {
+    "question": "Who founded 'CNBC'?",
+    "answer": "Robert Wright"
+  },
+  {
     "question": "Who founded the Annie Award?",
     "answer": "Ralph Bakshi"
   },
@@ -1426,6 +1790,10 @@
   {
     "question": "Who is known as the 'King of the Internet'?",
     "answer": "Kim Ki-duk"
+  },
+  {
+    "question": "Who is the antagonist in the animated series 'Gargoyles'?",
+    "answer": "Demona"
   },
   {
     "question": "Who is the author of the book 'Amnesia'?",
@@ -1441,6 +1809,14 @@
   {
     "question": "Who is the composer of the animated film 'Spirit: Stallion of the Cimarron'?",
     "answer": "Hans Zimmer"
+  },
+  {
+    "question": "Who is the composer of the songs in 'The Jungle Book'?",
+    "answer": "Richard Sherman"
+  },
+  {
+    "question": "Who is the creator of Lara Croft?",
+    "answer": "Toby Gard"
   },
   {
     "question": "Who is the creator of the TV series 'Arrow'?",
@@ -1471,6 +1847,14 @@
     "answer": "Pete Docter"
   },
   {
+    "question": "Who is the director of the cult German film 'Downfall'?",
+    "answer": "Oliver Hirschbiegel"
+  },
+  {
+    "question": "Who is the director of the film \"Pi\"?",
+    "answer": "Darren Aronofsky"
+  },
+  {
     "question": "Who is the director of the film 'Amélie'?",
     "answer": "Jean-Pierre Jeunet"
   },
@@ -1490,12 +1874,20 @@
     "question": "Who is the director of the film 'Rear Window'?"
   },
   {
+    "question": "Who is the director of the film 'Shutter Island'?",
+    "answer": "Martin Scorsese"
+  },
+  {
     "question": "Who is the director of the film 'The Sea Wolves'?",
     "answer": "Andrew V. McLaglen"
   },
   {
     "question": "Who is the director of the film 'Where the Water Goes'?",
     "answer": "Werner Herzog"
+  },
+  {
+    "question": "Who is the director of the movie 'Disaster'?",
+    "answer": "Michael Knight"
   },
   {
     "question": "Who is the director of the movie 'Pi'?",
@@ -1524,6 +1916,18 @@
   {
     "question": "Who is the pioneer of CGI in cinema?",
     "answer": "George Lucas"
+  },
+  {
+    "question": "Who is the scientist villain in the animated series 'Weird Science'?",
+    "answer": "Dr. Evil"
+  },
+  {
+    "question": "Who is the successor to the King of Equestria in the series 'My Little Pony: Friendship is Magic'?",
+    "answer": "Twilight Sparkle"
+  },
+  {
+    "question": "Who manages the tree on 'Ellada'?",
+    "answer": "Miki Ruso"
   },
   {
     "question": "Who performed the song 'Bibbidi-Bobbidi-Boo' in the movie 'Cinderella'?",
@@ -1578,6 +1982,10 @@
     "answer": ""
   },
   {
+    "question": "Who played the role of Tom Buckley in the movie 'Bonnie and Clyde'?",
+    "answer": "Warren Beatty"
+  },
+  {
     "question": "Who played the role of Trinity in 'The Matrix'?",
     "answer": "Carrie-Anne Moss"
   },
@@ -1590,6 +1998,10 @@
     "answer": "NARAS"
   },
   {
+    "question": "Who produced 'Lost'?",
+    "answer": "J.J. Abrams"
+  },
+  {
     "question": "Who produced the series 'True Detective'?",
     "answer": "Nic Pizzolatto"
   },
@@ -1600,6 +2012,18 @@
   {
     "question": "Who said the phrase: 'Forever'?",
     "answer": "Smurfette"
+  },
+  {
+    "question": "Who said the phrase: 'This is not my day'?",
+    "answer": ""
+  },
+  {
+    "question": "Who said: 'I am Life'?",
+    "answer": "Doctor Who"
+  },
+  {
+    "question": "Who said: 'I was waiting for you'?",
+    "answer": "Professor X"
   },
   {
     "question": "Who said: 'I'll think about it tomorrow'?",
@@ -1650,20 +2074,48 @@
     "answer": "Tatum O'Neal"
   },
   {
+    "question": "Who won the Oscar for Best Actor in 2021?",
+    "answer": ""
+  },
+  {
     "question": "Who won the Oscar for Best Actress in 2020?",
     "answer": "Renée Zellweger"
+  },
+  {
+    "question": "Who won the Palme d'Or for the film 'Parasite'?",
+    "answer": "Bong Joon-ho"
+  },
+  {
+    "question": "Who won the Palme d'Or in 2016?",
+    "answer": "Ken Loach"
   },
   {
     "question": "Who wrote 'Radical Sabbatical'?",
     "answer": ""
   },
   {
+    "question": "Who wrote 'The Screen's Form'?",
+    "answer": "Serge Daney"
+  },
+  {
+    "question": "Who wrote the book 'On Screen and Behind the Scenes'?",
+    "answer": "Christopher Nolan"
+  },
+  {
     "question": "Who wrote the screenplay for the film 'Pride and Prejudice'?",
     "answer": "Deborah Moggach"
   },
   {
+    "question": "Who wrote the screenplay for the movie \"Blade Runner 2049\"?",
+    "answer": "Hampton Fancher"
+  },
+  {
     "question": "Who wrote the screenplay for the movie 'American History X'?",
     "answer": "David McKenna"
+  },
+  {
+    "question": "Who wrote the screenplay for the movie 'Casablanca'?",
+    "answer": ""
   },
   {
     "question": "Who wrote the screenplay for the movie 'Fight Club'?",
