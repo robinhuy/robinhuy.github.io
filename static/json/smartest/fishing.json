@@ -1,5 +1,9 @@
 [
   {
+    "question": "How can you determine the weight of a fish without scales?",
+    "answer": "By length"
+  },
+  {
     "question": "How is the buoyancy of fishing tackle regulated?",
     "answer": "Floats"
   },
@@ -10,6 +14,22 @@
   {
     "question": "How often should you soak fish before cooking?",
     "answer": "Depends on the recipe"
+  },
+  {
+    "question": "How to hold the fish while reeling it in?",
+    "answer": ""
+  },
+  {
+    "question": "How to prevent line tangling when casting?",
+    "answer": ""
+  },
+  {
+    "question": "In which ancient country was fishing with the use of poisons developed?",
+    "answer": "Ancient Egypt"
+  },
+  {
+    "question": "In which century did the use of multi-pronged harpoons begin?",
+    "answer": "15th century"
   },
   {
     "question": "In which country did the first fish traps appear?",
@@ -24,6 +44,10 @@
     "answer": "Reducing tension"
   },
   {
+    "question": "What are some resorts in Russia?",
+    "answer": "Sochi"
+  },
+  {
     "question": "What bait is suitable for catching large burbot?",
     "answer": "Frog"
   },
@@ -36,12 +60,20 @@
     "answer": "Essential oils"
   },
   {
+    "question": "What color bait do fishermen most often choose?",
+    "answer": "Red"
+  },
+  {
     "question": "What depth does the burbot prefer?",
     "answer": "Deep"
   },
   {
     "question": "What determines success in fly fishing technique?",
     "answer": "Casting the fly"
+  },
+  {
+    "question": "What determines the working characteristics of a fishing rod?",
+    "answer": "Test"
   },
   {
     "question": "What device is used for underwater environment analysis?",
@@ -54,6 +86,10 @@
   {
     "question": "What does a trout eat?",
     "answer": "Insects"
+  },
+  {
+    "question": "What does the choice of bait affect?",
+    "answer": "Catch"
   },
   {
     "question": "What does the soldierfish eat?",
@@ -72,12 +108,24 @@
     "answer": "Frenzel"
   },
   {
+    "question": "What factors influence the choice of a fly fishing spot?",
+    "answer": "Wind and shade"
+  },
+  {
+    "question": "What fish inhabits fast-flowing rivers?",
+    "answer": "Trout"
+  },
+  {
     "question": "What fish was the most valuable in Ancient Japan?",
     "answer": ""
   },
   {
     "question": "What fishing gear is effective in winter?",
     "answer": "Fly fishing"
+  },
+  {
+    "question": "What fishing technique was popular among the Eskimos?",
+    "answer": "Fish trap"
   },
   {
     "question": "What fishing technique was used in Ancient China?",
@@ -92,6 +140,10 @@
     "answer": "Spawning"
   },
   {
+    "question": "What gear is needed for pike fishing?",
+    "answer": "Professional"
+  },
+  {
     "question": "What is a nod?",
     "answer": "Bite indicator"
   },
@@ -100,8 +152,28 @@
     "answer": "Particularly long"
   },
   {
+    "question": "What is a shock leader used for?",
+    "answer": "To soften the cast"
+  },
+  {
+    "question": "What is better to use for accurate casting?",
+    "answer": "Braided line"
+  },
+  {
+    "question": "What is necessary for the safety of fishermen on ice?",
+    "answer": "Anchor"
+  },
+  {
+    "question": "What is needed to participate in a fishing competition?",
+    "answer": "Tackle and license"
+  },
+  {
     "question": "What is the best bait for night fishing?",
     "answer": "Larva"
+  },
+  {
+    "question": "What is the best reeling technique for large fish?",
+    "answer": "Gentle"
   },
   {
     "question": "What is the best water temperature for ice fishing?",
@@ -114,6 +186,10 @@
   {
     "question": "What is the device called that secures the fishing line on the reel?",
     "answer": "Drag"
+  },
+  {
+    "question": "What is the largest fish in the Amazon Basin?",
+    "answer": "Arapaima"
   },
   {
     "question": "What is the lifespan of a trout?",
@@ -152,6 +228,18 @@
     "answer": "with a feeder"
   },
   {
+    "question": "What is used to make jigs?",
+    "answer": "Metal"
+  },
+  {
+    "question": "What is used to measure the tension of a fishing line?",
+    "answer": ""
+  },
+  {
+    "question": "What material is used for a lightweight jig?",
+    "answer": ""
+  },
+  {
     "question": "What reduces the risk of ear barotrauma?",
     "answer": "Equalizing pressure"
   },
@@ -164,8 +252,48 @@
     "answer": "Line"
   },
   {
+    "question": "What technique helps to better hide from fish underwater?",
+    "answer": "Camouflage"
+  },
+  {
+    "question": "What technique helps to hold your breath underwater?",
+    "answer": "Apnea"
+  },
+  {
+    "question": "What technique is particularly useful for fly fishing in shallow waters?",
+    "answer": "dry fly fishing"
+  },
+  {
     "question": "What technique is used for casting?",
     "answer": "Loop"
+  },
+  {
+    "question": "What technologies predict fish behavior?",
+    "answer": "Electronic analyzers"
+  },
+  {
+    "question": "What technology helps monitor the condition of fishing gear?",
+    "answer": "Sensors"
+  },
+  {
+    "question": "What technology reduces resistance during casting?",
+    "answer": "Anti-friction coating"
+  },
+  {
+    "question": "What thickness of fishing line is used for catching large bream?",
+    "answer": "0.2-0.3 mm"
+  },
+  {
+    "question": "What to do in case of quota violations?",
+    "answer": ""
+  },
+  {
+    "question": "What tool is necessary for deep-sea fishing?",
+    "answer": ""
+  },
+  {
+    "question": "What type of fishing bait is used most often?",
+    "answer": "Live bait"
   },
   {
     "question": "What type of fishing hooks has a barb to hold the bait?",
@@ -184,6 +312,14 @@
     "answer": "Spinning rod"
   },
   {
+    "question": "What type of smoking is used for long-term storage?",
+    "answer": "Cold smoking"
+  },
+  {
+    "question": "What was the first bait?",
+    "answer": "Pieces of food"
+  },
+  {
     "question": "What was the name of the important fishing document in England in the 15th century?",
     "answer": "The Book of St. Albans"
   },
@@ -196,8 +332,24 @@
     "answer": "Medium"
   },
   {
+    "question": "What weight can a large catfish reach?",
+    "answer": "up to 100 kg"
+  },
+  {
+    "question": "What woolen clothing should be avoided when fishing?",
+    "answer": "Sweater"
+  },
+  {
+    "question": "Where is the best place to swim?",
+    "answer": "in a swimming pool"
+  },
+  {
     "question": "Which device can detect weak electric discharges from fish?",
     "answer": "Electroreceptor"
+  },
+  {
+    "question": "Which fish can jump up to 3 meters high?",
+    "answer": "Tarpon"
   },
   {
     "question": "Which fish has a transparent head?",
@@ -208,8 +360,16 @@
     "answer": ""
   },
   {
+    "question": "Which fish is associated with the legend of huge sunken pike-perch?",
+    "answer": "Pike-perch"
+  },
+  {
     "question": "Which fish is best caught at night?",
     "answer": "Zander"
+  },
+  {
+    "question": "Which fish is called the 'sea frog'?",
+    "answer": "Anglerfish"
   },
   {
     "question": "Which fish is called the 'stonefish' due to its ability to hide?",
@@ -228,6 +388,10 @@
     "answer": ""
   },
   {
+    "question": "Which fish is immune to poison?",
+    "answer": "Moray eel"
+  },
+  {
     "question": "Which fish is known as the 'queen of the rivers'?",
     "answer": ""
   },
@@ -236,16 +400,40 @@
     "answer": "Arowana"
   },
   {
+    "question": "Which fish is known for its massive body and large head?",
+    "answer": "Coelacanth"
+  },
+  {
     "question": "Which fish is protected?",
     "answer": "Red-listed"
+  },
+  {
+    "question": "Which fish is valued for its large size?",
+    "answer": "Grouper"
   },
   {
     "question": "Which fish is valued for its trophy qualities?",
     "answer": "Sturgeon"
   },
   {
+    "question": "Which fish lives in warm waters?",
+    "answer": "Tilapia"
+  },
+  {
+    "question": "Which fish lives only at depths greater than 2000 meters?",
+    "answer": ""
+  },
+  {
     "question": "Which fish prefers clean and cool water bodies?",
     "answer": "Trout"
+  },
+  {
+    "question": "Which fish resembles a leaf in appearance?",
+    "answer": "Leafy seadragon"
+  },
+  {
+    "question": "Which fishing rod casting technique is more complex?",
+    "answer": "Downstream"
   },
   {
     "question": "Which fishing rod should be chosen for fishing in a current?",
@@ -264,6 +452,10 @@
     "answer": "Munter hitch"
   },
   {
+    "question": "Which knot is often used by sailors?",
+    "answer": "Bowline knot"
+  },
+  {
     "question": "Which knot is often used for tying a hook?",
     "answer": "Palomar"
   },
@@ -272,12 +464,20 @@
     "answer": "Bimini"
   },
   {
+    "question": "Which knot is recommended for use in freshwater?",
+    "answer": "Freshwater knot"
+  },
+  {
     "question": "Which knot is suitable for saltwater?",
     "answer": "Bowline"
   },
   {
     "question": "Which knot should be used for monofilament fishing line?",
     "answer": "Blood Knot"
+  },
+  {
+    "question": "Which maps show changes in elevation?",
+    "answer": "topographic"
   },
   {
     "question": "Which part of the fish is used to make fish stock?",
@@ -304,8 +504,16 @@
     "answer": "Reel"
   },
   {
+    "question": "Which tackle is best suited for catching large fish?",
+    "answer": "Baitcasting reel"
+  },
+  {
     "question": "Which technology provides the best lure casting?",
     "answer": "Electric motor"
+  },
+  {
+    "question": "Who invented the first mechanical hook?",
+    "answer": "The English"
   },
   {
     "question": "Who invented the modern spinning reel?",

@@ -43,6 +43,10 @@
     "answer": "1001"
   },
   {
+    "question": "How many horsepower does the Ferrari LaFerrari have?",
+    "answer": "963"
+  },
+  {
     "question": "How many horsepower does the McLaren P1 have?",
     "answer": ""
   },
@@ -118,6 +122,10 @@
     "answer": "1970"
   },
   {
+    "question": "In what year was Yamaha founded?",
+    "answer": ""
+  },
+  {
     "question": "In what year was the ABS system introduced into mass production?",
     "answer": ""
   },
@@ -179,6 +187,10 @@
   },
   {
     "question": "What are coilovers installed for?",
+    "answer": ""
+  },
+  {
+    "question": "What are high technical skills necessary for?",
     "answer": ""
   },
   {
@@ -260,6 +272,10 @@
     "answer": ""
   },
   {
+    "question": "What does a catalytic converter do in the exhaust system?",
+    "answer": "Cleans the exhaust"
+  },
+  {
     "question": "What does a coilover suspension do?",
     "answer": ""
   },
@@ -316,6 +332,10 @@
     "answer": "Scans"
   },
   {
+    "question": "What gets charged during braking in hybrid cars?",
+    "answer": "Battery"
+  },
+  {
     "question": "What helps a motorcycle engine work more efficiently?",
     "answer": "Turbocharger"
   },
@@ -344,6 +364,10 @@
     "answer": "Regenerative braking"
   },
   {
+    "question": "What increases the autonomy of cars?",
+    "answer": ""
+  },
+  {
     "question": "What is 'ADAS'?",
     "answer": "Advanced Driver Assistance Systems"
   },
@@ -354,6 +378,10 @@
   {
     "question": "What is V2X communication?",
     "answer": "Vehicle-to-everything"
+  },
+  {
+    "question": "What is a 'CAN bus' in a car?",
+    "answer": "Data transmission"
   },
   {
     "question": "What is a 'dry clutch' in a motorcycle?",
@@ -431,12 +459,20 @@
     "answer": "3.8 liters"
   },
   {
+    "question": "What is the engine displacement of the Suzuki Hayabusa model (in cc)?",
+    "answer": "1340"
+  },
+  {
     "question": "What is the function of an intercooler?",
     "answer": "Cooling the air"
   },
   {
     "question": "What is the horsepower of the Koenigsegg Agera RS?",
     "answer": "1160 hp"
+  },
+  {
+    "question": "What is the lap time of the Porsche 918 Spyder on the Nürburgring?",
+    "answer": "6:57"
   },
   {
     "question": "What is the main feature of a motocross bike?"
@@ -493,8 +529,16 @@
     "answer": "Driver Assistance System"
   },
   {
+    "question": "What is the name of the American club that organizes classic car races?",
+    "answer": "Classic Car Club of America"
+  },
+  {
     "question": "What is the name of the British electric vehicle manufacturer?",
     "answer": "Lotus"
+  },
+  {
+    "question": "What is the name of the Croatian electric car manufacturer?",
+    "answer": "Rimac"
   },
   {
     "question": "What is the name of the Ferrari sports model from the 1960s?",
@@ -622,6 +666,14 @@
     "question": "What is the technology for recognizing traffic signs called?"
   },
   {
+    "question": "What is the term for the total rotational force produced by an engine?",
+    "answer": "Torque"
+  },
+  {
+    "question": "What is the test drive on a racing track called?",
+    "answer": "Track day"
+  },
+  {
     "question": "What is the title of the chief official in the race directorate?",
     "answer": "Race director"
   },
@@ -658,11 +710,19 @@
     "answer": "Special additives"
   },
   {
+    "question": "What is used to increase engine power?",
+    "answer": "Supercharger"
+  },
+  {
     "question": "What is used to treat rust on metal?",
     "answer": "Rust remover"
   },
   {
     "question": "What is worn out if a motorcycle brakes poorly?"
+  },
+  {
+    "question": "What material is often used as a substitute for metal in cars?",
+    "answer": "Composites"
   },
   {
     "question": "What material is replacing metal in modern cars?",
@@ -899,6 +959,10 @@
     "answer": "New York Auto Show"
   },
   {
+    "question": "Where are the hill climb competitions held?",
+    "answer": "Goodwood Festival"
+  },
+  {
     "question": "Where do classic car owners meet?",
     "answer": "ClassiClub"
   },
@@ -939,12 +1003,20 @@
     "answer": "International Sports Car Club"
   },
   {
+    "question": "Which automotive community organizes a gathering at Lake Baikal?",
+    "answer": "Off-road Baikal"
+  },
+  {
     "question": "Which brand created the first mass-produced electric car?",
     "answer": "Nissan"
   },
   {
     "question": "Which brand is associated with three-wheeled cars?",
     "answer": "Morgan"
+  },
+  {
+    "question": "Which brand is known for its electric motorcycles?",
+    "answer": ""
   },
   {
     "question": "Which brand manufactures Atlantis motorcycles?",
@@ -971,6 +1043,10 @@
     "answer": "Chevrolet"
   },
   {
+    "question": "Which brand owns the Bentley marque?",
+    "answer": "Volkswagen"
+  },
+  {
     "question": "Which brand produced the Cord 810 model?",
     "answer": "Cord"
   },
@@ -987,6 +1063,10 @@
     "answer": "Nissan"
   },
   {
+    "question": "Which brand was founded in Italy for the production of sports motorcycles?",
+    "answer": "Ducati"
+  },
+  {
     "question": "Which car became the first mass-produced electric vehicle?",
     "answer": "Nissan Leaf"
   },
@@ -997,6 +1077,10 @@
   {
     "question": "Which car brand was founded by Henry Leland?",
     "answer": "Cadillac"
+  },
+  {
+    "question": "Which car component reduces aerodynamic drag?",
+    "answer": "Body kit"
   },
   {
     "question": "Which car is considered the most successful in WRC history?",
@@ -1016,6 +1100,10 @@
   {
     "question": "Which car model has a hybrid engine?",
     "answer": "Porsche 918"
+  },
+  {
+    "question": "Which car model is a Korean sports car?",
+    "answer": "Hyundai Genesis"
   },
   {
     "question": "Which car owners' club organizes the event 'Le Rally du Portugal'?",
@@ -1136,6 +1224,10 @@
     "answer": "Motor-generator"
   },
   {
+    "question": "Which component is responsible for supplying fuel to the engine?",
+    "answer": "Fuel pump"
+  },
+  {
     "question": "Which component is responsible for the movement of an electric vehicle?",
     "answer": "Electric motor"
   },
@@ -1163,6 +1255,10 @@
     "answer": "Argentina"
   },
   {
+    "question": "Which country is famous for its highways?",
+    "answer": "USA"
+  },
+  {
     "question": "Which country manufactures Zontes motorcycles?",
     "answer": "China"
   },
@@ -1171,12 +1267,20 @@
     "answer": "China"
   },
   {
+    "question": "Which device increases braking force?",
+    "answer": ""
+  },
+  {
     "question": "Which device is used to check the operation of a battery?",
     "answer": "Voltmeter"
   },
   {
     "question": "Which driver became the world champion in 2005 and 2006?",
     "answer": "Fernando Alonso"
+  },
+  {
+    "question": "Which driver has achieved the most podium finishes?",
+    "answer": "Lewis Hamilton"
   },
   {
     "question": "Which driver won the Drift Masters 2021 final?",
@@ -1219,6 +1323,10 @@
   {
     "question": "Which motorcycle brand is associated with a monocoque?",
     "answer": "MV Agusta"
+  },
+  {
+    "question": "Which motorcycle brand is known for the S1000RR model?",
+    "answer": "BMW"
   },
   {
     "question": "Which motorcycle brand was founded in Italy in 1926?",
@@ -1277,6 +1385,10 @@
   {
     "question": "Which part is replaced when there is noise in the suspension?",
     "answer": "Shock absorber"
+  },
+  {
+    "question": "Which part of a motorcycle's braking system is critically important?",
+    "answer": "Brake pads"
   },
   {
     "question": "Which part of a racing car provides maximum downforce?",

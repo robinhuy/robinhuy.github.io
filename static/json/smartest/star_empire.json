@@ -8,6 +8,10 @@
     "answer": "800 years"
   },
   {
+    "question": "For what did Han and Chewbacca gain fame among the rebels?",
+    "answer": "heroism"
+  },
+  {
     "question": "How can Jedi restore their strength in battle?",
     "answer": "Battle Meditation"
   },
@@ -52,8 +56,20 @@
     "answer": "Secret surveillance"
   },
   {
+    "question": "How did Obi-Wan ensure the secrecy of his operations in complex conditions?",
+    "answer": "Encoding"
+  },
+  {
     "question": "How did Obi-Wan improve his persuasion skills in negotiations?",
     "answer": "Meditation and practice"
+  },
+  {
+    "question": "How did Obi-Wan use his knowledge of the Force at a crucial moment?",
+    "answer": ""
+  },
+  {
+    "question": "How did Obi-Wan use his knowledge of the terrain for a tactical advantage?",
+    "answer": ""
   },
   {
     "question": "How did Yoda approach the study of ancient Jedi texts?",
@@ -64,12 +80,20 @@
     "answer": "Restoration"
   },
   {
+    "question": "How did Yoda influence the Jedi Council?",
+    "answer": ""
+  },
+  {
     "question": "How did Yoda inspire students on the path of the Jedi?",
     "answer": "By example"
   },
   {
     "question": "How did the Clone Wars affect the political structure of the Republic?",
     "answer": "Decline of democracy"
+  },
+  {
+    "question": "How did the Clone Wars change the governance structure of the Galactic Republic?",
+    "answer": "Centralization"
   },
   {
     "question": "How did the Clone Wars change the perception of the Jedi in society?",
@@ -86,6 +110,10 @@
   {
     "question": "How did the Jedi maintain the balance of the Force in the Galaxy?",
     "answer": "Through harmony"
+  },
+  {
+    "question": "How did the Jedi preserve their knowledge over the centuries?",
+    "answer": "Through archives"
   },
   {
     "question": "How did the Mandalorians adapt to changes in the galaxy?",
@@ -122,6 +150,10 @@
   {
     "question": "How do Mandalorians form alliances in the galaxy?",
     "answer": ""
+  },
+  {
+    "question": "How do Mandalorians maintain the fighting spirit among their warriors?",
+    "answer": "Through traditions"
   },
   {
     "question": "How do Mandalorians maintain their identity?",
@@ -168,6 +200,10 @@
     "answer": "Drain Life"
   },
   {
+    "question": "How do the Sith emphasize their superiority?",
+    "answer": "Power"
+  },
+  {
     "question": "How do the Sith enhance their abilities through the dark side?",
     "answer": "Dark arts"
   },
@@ -192,11 +228,19 @@
     "answer": "Dark manipulation"
   },
   {
+    "question": "How do the Sith use their emotions in training?",
+    "answer": "Through passion"
+  },
+  {
     "question": "How do the Sith view death?",
     "answer": "Weakness"
   },
   {
     "question": "How do the Sith's methods of creating weapons differ from others?"
+  },
+  {
+    "question": "How does Chewbacca react to danger?",
+    "answer": ""
   },
   {
     "question": "How does Chewbacca show his loyalty to Han?",
@@ -233,6 +277,10 @@
   {
     "question": "How does the dark side affect personality?",
     "answer": "Distortion"
+  },
+  {
+    "question": "How does the dark side contribute to the destruction of social connections?",
+    "answer": "Isolates"
   },
   {
     "question": "How does the dark side interpret power and authority?",
@@ -317,6 +365,14 @@
     "question": "What Force technique allows Jedi to regain consciousness after using the Dark Side?"
   },
   {
+    "question": "What Force technique was used to create a doppelgänger?",
+    "answer": ""
+  },
+  {
+    "question": "What Jedi technique allows maintaining peace and tranquility in the galaxy?",
+    "answer": ""
+  },
+  {
     "question": "What Jedi technique remains a secret to the Sith?",
     "answer": "Soul merging"
   },
@@ -357,6 +413,10 @@
     "answer": "Be careful"
   },
   {
+    "question": "What allows Jedi to find harmony within themselves?",
+    "answer": "Humility"
+  },
+  {
     "question": "What allows Jedi to maintain their connection with the Force?",
     "answer": ""
   },
@@ -373,6 +433,10 @@
     "answer": ""
   },
   {
+    "question": "What are the risks of studying the dark side?",
+    "answer": "Loss of control"
+  },
+  {
     "question": "What are the stars called that change brightness due to pulsation?",
     "answer": "Cepheids"
   },
@@ -382,6 +446,10 @@
   },
   {
     "question": "What artifact is the key to the immortality of the Sith?",
+    "answer": "Sith Holocron"
+  },
+  {
+    "question": "What artifact was Darth Vader searching for?",
     "answer": "Sith Holocron"
   },
   {
@@ -412,6 +480,10 @@
     "answer": "Elimination of the general"
   },
   {
+    "question": "What caused the disagreement between the Jedi and the Chancellor?",
+    "answer": "Militarization of the Republic"
+  },
+  {
     "question": "What celestial body serves as a key element in smuggling routes beyond the known galaxy?",
     "answer": "Kessel"
   },
@@ -438,6 +510,10 @@
   {
     "question": "What concept became central in the teachings of the Jedi?",
     "answer": "Balance of the Force"
+  },
+  {
+    "question": "What concept was key in early philosophy?",
+    "answer": "Harmony"
   },
   {
     "question": "What cultural concept of the Mandalorians influences their social structure?",
@@ -524,6 +600,10 @@
     "answer": "The Dark Schism"
   },
   {
+    "question": "What event determined the direction of Jedi philosophy?",
+    "answer": "The Great Schism"
+  },
+  {
     "question": "What event drastically changed Darth Vader's life and led to his complete immersion in the dark side?",
     "answer": "Battle on Mustafar"
   },
@@ -564,6 +644,10 @@
     "answer": "Sith Uprising"
   },
   {
+    "question": "What event marked the fall of the Sith in the era of the New Republic?",
+    "answer": "Defeat of Palpatine"
+  },
+  {
     "question": "What event played a significant role in the unification of the first Jedi?",
     "answer": "The Cosmic Prophecy"
   },
@@ -600,8 +684,20 @@
     "answer": "Crisis"
   },
   {
+    "question": "What events led to the transformation of the Empire after Vader?",
+    "answer": "Death of the Emperor"
+  },
+  {
+    "question": "What events triggered Darth Vader's internal conflict and his return to the light side of the Force?",
+    "answer": "Love for Luke"
+  },
+  {
     "question": "What factor determined the outcome of battles in the Clone Wars?",
     "answer": "Tactical leadership"
+  },
+  {
+    "question": "What factor determines the luminosity of a star in a galaxy?",
+    "answer": ""
   },
   {
     "question": "What factor makes the Dark Side dangerous for the mind?",
@@ -638,8 +734,16 @@
     "answer": "Pulse charge"
   },
   {
+    "question": "What fighting style was the basis of Luke's skill in the final duel on the Death Star?",
+    "answer": "Djem So"
+  },
+  {
     "question": "What goal united Han and Chewbacca after leaving the Empire?",
     "answer": "Freedom"
+  },
+  {
+    "question": "What hidden threat did Obi-Wan discover during his mission in the Galactic Republic?",
+    "answer": "Clone Army"
   },
   {
     "question": "What hidden threat did Obi-Wan discover thanks to his perceptive abilities?",
@@ -652,6 +756,10 @@
   {
     "question": "What impact did Anakin's training have on his transformation into Darth Vader?",
     "answer": "Lack of trust"
+  },
+  {
+    "question": "What impact did Obi-Wan's training have on his role in the Jedi Council?",
+    "answer": "Wisdom and maturity"
   },
   {
     "question": "What impact did the Clone Wars have on the Galaxy's economy?",
@@ -710,6 +818,10 @@
     "answer": "leader"
   },
   {
+    "question": "What is Luke's role in the restoration of the Jedi Order?",
+    "answer": "Restorer of the Order"
+  },
+  {
     "question": "What is the Sith's attitude towards death?",
     "answer": ""
   },
@@ -736,6 +848,10 @@
   {
     "question": "What is the historical significance of the Mandalorian War in the galaxy?",
     "answer": "Galactic Schism"
+  },
+  {
+    "question": "What is the key function of energy shields on starships?",
+    "answer": "Deflecting attacks"
   },
   {
     "question": "What is the main advantage of droids in battles?",
@@ -788,6 +904,14 @@
   {
     "question": "What is the primary function of a blaster in the hands of a stormtrooper?",
     "answer": "Attacking enemies"
+  },
+  {
+    "question": "What is the primary function of a hyperdrive in combat situations?",
+    "answer": "High-speed travel"
+  },
+  {
+    "question": "What is the primary purpose of Star Destroyers?",
+    "answer": "Space control"
   },
   {
     "question": "What is the process of forming new stars in the interstellar medium called?",
@@ -850,6 +974,10 @@
     "answer": "Galactic Standard"
   },
   {
+    "question": "What language does Han understand but not speak?",
+    "answer": "Shyriiwook"
+  },
+  {
     "question": "What legacy did the Jedi leave after the Clone Wars?",
     "answer": "Peacekeeping tradition"
   },
@@ -890,6 +1018,10 @@
     "answer": "Meditation"
   },
   {
+    "question": "What method did Yoda use to teach control over emotions?",
+    "answer": "Reflection method"
+  },
+  {
     "question": "What method did the Empire use to control planets?",
     "answer": "Blockade"
   },
@@ -902,6 +1034,10 @@
     "answer": "Ion cannon"
   },
   {
+    "question": "What method of the dark side provokes internal conflict?",
+    "answer": "Hatred"
+  },
+  {
     "question": "What methods did Yoda use to maintain inner balance among the Jedi?",
     "answer": "Spiritual practices"
   },
@@ -912,6 +1048,10 @@
   {
     "question": "What mode of transportation do hunters most commonly choose for completing missions?",
     "answer": ""
+  },
+  {
+    "question": "What moment in Anakin's life was pivotal for understanding the role of family in his destiny?",
+    "answer": "The death of his mother"
   },
   {
     "question": "What moment in Jedi history does Yoda consider his failure?",
@@ -942,6 +1082,10 @@
     "answer": "The Corellian Renegade"
   },
   {
+    "question": "What nickname did Han's mentor give him?",
+    "answer": "Captain"
+  },
+  {
     "question": "What object became a symbol of power among the Mandalorians?",
     "answer": ""
   },
@@ -950,12 +1094,20 @@
     "answer": "Order 66"
   },
   {
+    "question": "What path do those who seek to become a Jedi choose?",
+    "answer": "Peace and balance"
+  },
+  {
     "question": "What path leads to a true Jedi?",
     "answer": "Serving others"
   },
   {
     "question": "What phenomenon is characterized by the significant compression of a star due to gravitational collapse?",
     "answer": "Black hole"
+  },
+  {
+    "question": "What philosophical concept became the foundation of Jedi training?",
+    "answer": "Light and Darkness"
   },
   {
     "question": "What philosophical concept dominates Mandalorian tactics?",
@@ -976,6 +1128,10 @@
   {
     "question": "What philosophical principle of Darth Vader contradicted the Jedi teachings?",
     "answer": "Power through fear"
+  },
+  {
+    "question": "What philosophy defines the path of the Jedi?",
+    "answer": "Service to the Force"
   },
   {
     "question": "What philosophy did Yoda consider dangerous?",
@@ -1059,7 +1215,15 @@
     "answer": "Gravity"
   },
   {
+    "question": "What property of a star determines its ability to form a planetary system?",
+    "answer": "Mass"
+  },
+  {
     "question": "What prophecy changed the fate of the Skywalker family?",
+    "answer": ""
+  },
+  {
+    "question": "What prophecy is associated with the Chosen One in the Star Wars universe?",
     "answer": ""
   },
   {
@@ -1079,6 +1243,10 @@
     "answer": "Bravery"
   },
   {
+    "question": "What quality makes Yoda an outstanding sage?",
+    "answer": "Wisdom"
+  },
+  {
     "question": "What quality sets Han Solo apart from other smugglers?",
     "answer": "Charisma"
   },
@@ -1095,6 +1263,10 @@
     "answer": "Master-apprentice"
   },
   {
+    "question": "What resource was considered strategically important for the operation of hyperdrives in Imperial ships?",
+    "answer": "Kyber crystals"
+  },
+  {
     "question": "What revelation changed Luke's perception of his family?",
     "answer": "True parentage"
   },
@@ -1103,12 +1275,24 @@
     "answer": ""
   },
   {
+    "question": "What role did Darth Vader's helmet play in his survival?",
+    "answer": "Life support"
+  },
+  {
     "question": "What role did Han play in the cantina?",
     "answer": "Smuggler"
   },
   {
+    "question": "What role did Obi-Wan Kenobi play in a complex diplomatic mission that required his presence?",
+    "answer": ""
+  },
+  {
     "question": "What role did Yoda play in restoring the balance of the Force?",
     "answer": "Spiritual leadership"
+  },
+  {
+    "question": "What role did ancient mentors play in the formation of the Jedi?",
+    "answer": "Mentors of the path"
   },
   {
     "question": "What role did stormtrooper weapons play in the Empire's strategy?",
@@ -1163,6 +1347,10 @@
     "answer": ""
   },
   {
+    "question": "What star route connects Coruscant with other systems?",
+    "answer": "Hydian Way"
+  },
+  {
     "question": "What strategic advantage did Han and Chewbacca provide to the rebels on Hoth?",
     "answer": "Reconnaissance"
   },
@@ -1185,6 +1373,10 @@
   {
     "question": "What strategic decision saved Obi-Wan's team from being surrounded?",
     "answer": "Night raid"
+  },
+  {
+    "question": "What strategic element determined the khan's victory?",
+    "answer": "Surprise attack"
   },
   {
     "question": "What strategic maneuver ensured the Empire's control?",
@@ -1230,6 +1422,10 @@
     "answer": ""
   },
   {
+    "question": "What tactic allowed Jedi to maintain an advantage against stronger opponents?",
+    "answer": "Defense"
+  },
+  {
     "question": "What tactic did Darth Vader use to manipulate his enemies?",
     "answer": "Psychological pressure"
   },
@@ -1246,6 +1442,10 @@
     "answer": "Infiltration"
   },
   {
+    "question": "What tactic did Obi-Wan use to minimize risks?",
+    "answer": "Cautious planning"
+  },
+  {
     "question": "What tactic did the Empire use to maintain control over the systems?",
     "answer": "Strategy of fear"
   },
@@ -1260,6 +1460,10 @@
   {
     "question": "What tactical action saved Han and Chewbacca from pursuit?",
     "answer": "Evasion"
+  },
+  {
+    "question": "What tactical advantage did Obi-Wan use against his former apprentice in the Tatooine desert?",
+    "answer": "High ground"
   },
   {
     "question": "What tactical maneuver did Darth Vader use in the Battle of Endor?",
@@ -1279,6 +1483,14 @@
   {
     "question": "What technique allowed Obi-Wan to escape a dangerous trap?",
     "answer": "Parkour"
+  },
+  {
+    "question": "What technique allows Jedi to connect their minds for enhancement?",
+    "answer": "Unity Meditation"
+  },
+  {
+    "question": "What technique allows the Sith to absorb energy?",
+    "answer": "Force Absorption"
   },
   {
     "question": "What technique allows the Sith to extend life?",
@@ -1303,6 +1515,10 @@
   {
     "question": "What technique did the Jedi use to enhance their abilities in battle?",
     "answer": "Battle Meditation"
+  },
+  {
+    "question": "What technique did the Jedi use to protect against radiation attacks?",
+    "answer": "Force Shield"
   },
   {
     "question": "What technique do the Sith use to enhance their physical abilities in battle?",
@@ -1369,6 +1585,10 @@
     "answer": "Kyber crystal"
   },
   {
+    "question": "What type of explosive is used to breach enemy fortifications?",
+    "answer": "Thermal detonator"
+  },
+  {
     "question": "What type of galactic objects often serve as sources of powerful energy emissions?",
     "answer": "Quasars"
   },
@@ -1383,6 +1603,10 @@
   {
     "question": "What type of transport was used for crossing rivers?",
     "answer": "River transport"
+  },
+  {
+    "question": "What type of transport was used to support ground troops in the Clone Wars?",
+    "answer": "AT-TE"
   },
   {
     "question": "What type of troops formed the backbone of the Republic's army?",
@@ -1421,8 +1645,16 @@
     "answer": "Piloting"
   },
   {
+    "question": "What unique trait distinguishes Han Solo?",
+    "answer": "Bravery"
+  },
+  {
     "question": "What unusual natural phenomenon is observed on the planet known for its exotic magnetic fields?",
     "answer": "Electromagnetic storms"
+  },
+  {
+    "question": "What vehicle did Obi-Wan pilot on a mission in the Rishi Sector?",
+    "answer": ""
   },
   {
     "question": "What vehicle did the Empire use for patrolling cities?",
@@ -1453,6 +1685,14 @@
     "answer": "Loyalty to his son or the Emperor"
   },
   {
+    "question": "What was Darth Vader's main weakness?",
+    "answer": ""
+  },
+  {
+    "question": "What was Darth Vader's name in childhood?",
+    "answer": "Anakin Skywalker"
+  },
+  {
     "question": "What was Han Solo's main source of income before meeting the Rebels?",
     "answer": "Smuggling"
   },
@@ -1471,6 +1711,10 @@
   {
     "question": "What was the goal of the Mandalorians in their military campaigns?",
     "answer": "Conquest"
+  },
+  {
+    "question": "What was the main strategic approach of the Empire to conquer new territories?",
+    "answer": "Military expansion"
   },
   {
     "question": "What was the name of Darth Vader's flagship?",
@@ -1608,8 +1852,20 @@
     "answer": "Count Dooku"
   },
   {
+    "question": "Which Jedi played a key role in the rescue of Coruscant?",
+    "answer": "Obi-Wan"
+  },
+  {
     "question": "Which Jedi played a significant role in the defense of Coruscant?",
     "answer": "Yoda"
+  },
+  {
+    "question": "Which Jedi used stealth tactics in a duel against the Sith on Coruscant?",
+    "answer": "Yoda"
+  },
+  {
+    "question": "Which Jedi used the Soresu style in defense?",
+    "answer": "Obi-Wan Kenobi"
   },
   {
     "question": "Which Jedi was nicknamed 'The Chosen One'?",
@@ -1633,6 +1889,10 @@
   {
     "question": "Which Sith is known for his strategies of manipulating emotions in duels?",
     "answer": ""
+  },
+  {
+    "question": "Which Sith led the Galactic Empire alongside Darth Vader?",
+    "answer": "Emperor Palpatine"
   },
   {
     "question": "Which Sith mastered the technique of Jar'Kai?",
@@ -1691,6 +1951,10 @@
     "answer": "Domination"
   },
   {
+    "question": "Which attribute of Darth Vader symbolizes his connection to the Emperor?",
+    "answer": "Red lightsaber"
+  },
+  {
     "question": "Which battle became the symbol of victory over the Emperor in 'Star Wars'?",
     "answer": "On the Death Star"
   },
@@ -1705,6 +1969,10 @@
   {
     "question": "Which body emits light in the visible spectrum?",
     "answer": ""
+  },
+  {
+    "question": "Which bounty hunter alliance attempted to seize key planets of the Republic?",
+    "answer": "Shadow Syndicate"
   },
   {
     "question": "Which bounty hunter first appeared in 'The Clone Wars'?",
@@ -1739,6 +2007,10 @@
     "answer": "Dengar"
   },
   {
+    "question": "Which bounty hunter is known for his green helmet?",
+    "answer": "Boba Fett"
+  },
+  {
     "question": "Which bounty hunter is known for his hatred of Jedi and used a lightsaber?",
     "answer": "General Grievous"
   },
@@ -1748,6 +2020,14 @@
   {
     "question": "Which bounty hunter is known for his planetary invasions?",
     "answer": "Bossk"
+  },
+  {
+    "question": "Which bounty hunter made a deal with a Sith for an artifact?",
+    "answer": "Dengar"
+  },
+  {
+    "question": "Which bounty hunter owned artifacts from ancient civilizations?",
+    "answer": "Cad Bane"
   },
   {
     "question": "Which bounty hunter planned an attack on Coruscant alone?",
@@ -1777,11 +2057,19 @@
     "question": "Which bounty hunter used illusion tricks to capture targets?"
   },
   {
+    "question": "Which bounty hunter used unique projectiles?",
+    "answer": ""
+  },
+  {
     "question": "Which bounty hunter was known for his collaboration with the Empire?"
   },
   {
     "question": "Which celestial body has the highest density among the known ones?",
     "answer": ""
+  },
+  {
+    "question": "Which celestial body in the Solar System has the greatest mass?",
+    "answer": "The Sun"
   },
   {
     "question": "Which character became a tool of oppression for the Empire?",
@@ -1794,6 +2082,10 @@
   {
     "question": "Which character joined Vader after the fall of the Republic?",
     "answer": ""
+  },
+  {
+    "question": "Which character led the creation of the Galactic Empire?",
+    "answer": "Emperor Palpatine"
   },
   {
     "question": "Which clone commander was close to Jedi Anakin Skywalker?",
@@ -1819,6 +2111,14 @@
     "answer": "Civil War"
   },
   {
+    "question": "Which conflict led the Jedi to create the Galactic Republic?",
+    "answer": "The Rakatan War"
+  },
+  {
+    "question": "Which conflict marked the beginning of the division of beliefs?",
+    "answer": "Sith vs Jedi"
+  },
+  {
     "question": "Which confrontation became legendary in Jedi history?",
     "answer": ""
   },
@@ -1830,6 +2130,10 @@
     "answer": "Tunisia"
   },
   {
+    "question": "Which creatures in 'Star Wars' were trained by the Jedi?",
+    "answer": "Yoda"
+  },
+  {
     "question": "Which creatures in the galaxy were the first to explore the potential of the Force?",
     "answer": "Ancient Sages"
   },
@@ -1839,6 +2143,10 @@
   },
   {
     "question": "Which device provides an advantage in battle by distorting the opponent's perception?"
+  },
+  {
+    "question": "Which droid became an important part of the Separatists' operation?",
+    "answer": "General Grievous"
   },
   {
     "question": "Which droid specializes in encryption?",
@@ -1936,12 +2244,24 @@
     "answer": "Sith War"
   },
   {
+    "question": "Which internal struggle of Anakin had the greatest impact on the Skywalker dynasty?",
+    "answer": "Fear of loss"
+  },
+  {
+    "question": "Which item of clothing worn by Han Solo became iconic?",
+    "answer": ""
+  },
+  {
     "question": "Which key element of the Dark Side of the Force is inclined to subjugate the will of others?",
     "answer": "Mind manipulation"
   },
   {
     "question": "Which legendary ship participated in the Battle of Yavin?",
     "answer": "Millennium Falcon"
+  },
+  {
+    "question": "Which lightsaber duel determined the outcome of the war?",
+    "answer": "Obi-Wan vs Anakin"
   },
   {
     "question": "Which master used 'Form II' for dueling?",
@@ -1994,6 +2314,10 @@
   {
     "question": "Which path leads to harmony?",
     "answer": "Jedi"
+  },
+  {
+    "question": "Which period of galactic history is associated with the emergence of the Jedi?",
+    "answer": "Pre-Republic Era"
   },
   {
     "question": "Which philosophical principle allowed Darth Vader to justify his actions?",
@@ -2076,6 +2400,10 @@
     "answer": "ILM"
   },
   {
+    "question": "Which teacher passed on the knowledge of the Force to the Sith?",
+    "answer": "Darth Bane"
+  },
+  {
     "question": "Which technique allowed for revolutionary special effects in 'Star Wars'?",
     "answer": "Optical printing"
   },
@@ -2112,6 +2440,10 @@
     "answer": "Bo-Katan"
   },
   {
+    "question": "Who built the droid army for the Separatists?",
+    "answer": ""
+  },
+  {
     "question": "Who challenged Darth Maul in their first encounter?",
     "answer": "Obi-Wan Kenobi"
   },
@@ -2132,6 +2464,14 @@
     "answer": "Darth Sidious"
   },
   {
+    "question": "Who created the first lightsaber?",
+    "answer": "The ancient Jedi"
+  },
+  {
+    "question": "Who created the unique sound effects for the original 'Star Wars' films?",
+    "answer": "Ben Burtt"
+  },
+  {
     "question": "Who defeated Yoda in a duel?",
     "answer": "Darth Sidious"
   },
@@ -2146,6 +2486,10 @@
   {
     "question": "Who encountered Darth Maul in the first duel of the prequels?",
     "answer": "Qui-Gon Jinn"
+  },
+  {
+    "question": "Who fought on the Dark Side on Endor?",
+    "answer": ""
   },
   {
     "question": "Who fought with a lightsaber against Finn at the Starkiller Base?",
@@ -2236,7 +2580,15 @@
     "answer": ""
   },
   {
+    "question": "Who was the Emperor during Darth Vader's time?",
+    "answer": ""
+  },
+  {
     "question": "Who was the Supreme Chancellor at the beginning of the Clone Wars?",
+    "answer": "Palpatine"
+  },
+  {
+    "question": "Who was the first Emperor of the Galactic Empire?",
     "answer": "Palpatine"
   },
   {
@@ -2250,6 +2602,10 @@
   {
     "question": "Who was the main conceptual artist who created the planet designs for the series?",
     "answer": "Ralph McQuarrie"
+  },
+  {
+    "question": "Who was the template for the clones?",
+    "answer": "Jango Fett"
   },
   {
     "question": "Who were the opponents of the Sith in the war?",
