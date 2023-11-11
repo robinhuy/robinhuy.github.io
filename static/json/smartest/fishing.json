@@ -1,11 +1,31 @@
 [
   {
+    "question": "For what type of fishing is fly fishing used?",
+    "answer": "Trout fishing"
+  },
+  {
+    "question": "For which type of fish is an active lure characteristic?",
+    "answer": "Zander"
+  },
+  {
     "question": "How can you determine the weight of a fish without scales?",
     "answer": "By length"
   },
   {
+    "question": "How does a chameleon fish change its color?",
+    "answer": "Light conditions"
+  },
+  {
+    "question": "How does poaching affect water bodies?",
+    "answer": "Destructively"
+  },
+  {
     "question": "How is the buoyancy of fishing tackle regulated?",
     "answer": "Floats"
+  },
+  {
+    "question": "How often should you change your toothbrush head?",
+    "answer": "Every 3 months"
   },
   {
     "question": "How often should you drill new holes when ice fishing?",
@@ -20,7 +40,15 @@
     "answer": ""
   },
   {
+    "question": "How to increase the casting power?",
+    "answer": "Long swing"
+  },
+  {
     "question": "How to prevent line tangling when casting?",
+    "answer": ""
+  },
+  {
+    "question": "How to remove bones from fish?",
     "answer": ""
   },
   {
@@ -36,6 +64,10 @@
     "answer": "Egypt"
   },
   {
+    "question": "Is it allowed to fish during the spawning season?",
+    "answer": "No"
+  },
+  {
     "question": "To which type of lure lights are crucian carps most attracted at night?",
     "answer": "Fireflies"
   },
@@ -44,8 +76,32 @@
     "answer": "Reducing tension"
   },
   {
+    "question": "What additional equipment is necessary for ice fishing?",
+    "answer": "Fish finder"
+  },
+  {
+    "question": "What affects accuracy?",
+    "answer": "balance"
+  },
+  {
+    "question": "What are isobaths?",
+    "answer": "Depth lines"
+  },
+  {
     "question": "What are some resorts in Russia?",
     "answer": "Sochi"
+  },
+  {
+    "question": "What are spinnerbaits used for?",
+    "answer": ""
+  },
+  {
+    "question": "What are the dangers of violating fishing regulations?",
+    "answer": "Fines"
+  },
+  {
+    "question": "What auxiliary tool facilitates the transportation of equipment?",
+    "answer": "Sled"
   },
   {
     "question": "What bait is suitable for catching large burbot?",
@@ -56,12 +112,24 @@
     "answer": "Fishing box"
   },
   {
+    "question": "What can be used to prevent the fishing line from breaking?",
+    "answer": ""
+  },
+  {
     "question": "What can be used to scent baits?",
     "answer": "Essential oils"
   },
   {
     "question": "What color bait do fishermen most often choose?",
     "answer": "Red"
+  },
+  {
+    "question": "What color is considered the best for a fly fishing lure in clear weather?",
+    "answer": "Light"
+  },
+  {
+    "question": "What controls the tension of the fishing line?",
+    "answer": "Drag"
   },
   {
     "question": "What depth does the burbot prefer?",
@@ -76,12 +144,32 @@
     "answer": "Test"
   },
   {
+    "question": "What device is necessary for navigation on water?",
+    "answer": "GPS"
+  },
+  {
     "question": "What device is used for underwater environment analysis?",
     "answer": "Sonar"
   },
   {
+    "question": "What devices reduce vibrations on a boat?",
+    "answer": "Shock absorbers"
+  },
+  {
+    "question": "What do athletes wear for convenience when throwing?",
+    "answer": "Gloves"
+  },
+  {
+    "question": "What do they use to catch burbot in winter?",
+    "answer": "Live bait"
+  },
+  {
     "question": "What does a nautical chart depict?",
     "answer": "Sea charts"
+  },
+  {
+    "question": "What does a nautical chart show?",
+    "answer": ""
   },
   {
     "question": "What does a trout eat?",
@@ -92,12 +180,20 @@
     "answer": "Catch"
   },
   {
+    "question": "What does the friction brake of a reel do?",
+    "answer": "Controls tension"
+  },
+  {
     "question": "What does the soldierfish eat?",
     "answer": "Plankton"
   },
   {
     "question": "What element is included in an effective tackle for catching predatory fish?",
     "answer": "Lure"
+  },
+  {
+    "question": "What events are often held at fishing lodges?",
+    "answer": ""
   },
   {
     "question": "What factor is most important for successful ice fishing?",
@@ -112,6 +208,10 @@
     "answer": "Wind and shade"
   },
   {
+    "question": "What feature of the fishing line affects the casting distance?",
+    "answer": "weight"
+  },
+  {
     "question": "What fish inhabits fast-flowing rivers?",
     "answer": "Trout"
   },
@@ -122,6 +222,22 @@
   {
     "question": "What fishing gear is effective in winter?",
     "answer": "Fly fishing"
+  },
+  {
+    "question": "What fishing gear is used for hand fishing?",
+    "answer": "Ice chisel"
+  },
+  {
+    "question": "What fishing method involves casting nets from a ship?",
+    "answer": "Trawling"
+  },
+  {
+    "question": "What fishing technique is used for predatory fish?",
+    "answer": "Trolling"
+  },
+  {
+    "question": "What fishing technique uses a polarizing lure?",
+    "answer": "Jigging"
   },
   {
     "question": "What fishing technique was popular among the Eskimos?",
@@ -144,6 +260,18 @@
     "answer": "Professional"
   },
   {
+    "question": "What helps keep fishermen on slippery ice?",
+    "answer": "Anti-slip pads"
+  },
+  {
+    "question": "What helps underwater hunters breathe underwater?",
+    "answer": "special device"
+  },
+  {
+    "question": "What information does a navigation chart display?",
+    "answer": ""
+  },
+  {
     "question": "What is a nod?",
     "answer": "Bite indicator"
   },
@@ -160,12 +288,28 @@
     "answer": "Braided line"
   },
   {
+    "question": "What is considered a good visibility distance in water?",
+    "answer": "20 meters"
+  },
+  {
+    "question": "What is considered a quota violation?",
+    "answer": "Overfishing"
+  },
+  {
     "question": "What is necessary for the safety of fishermen on ice?",
     "answer": "Anchor"
   },
   {
+    "question": "What is needed for deep-sea fishing?",
+    "answer": "Winch"
+  },
+  {
     "question": "What is needed to participate in a fishing competition?",
     "answer": "Tackle and license"
+  },
+  {
+    "question": "What is often used to determine the depth of water?",
+    "answer": ""
   },
   {
     "question": "What is the best bait for night fishing?",
@@ -188,6 +332,10 @@
     "answer": "Drag"
   },
   {
+    "question": "What is the diameter of a golf hole?",
+    "answer": "10.8 cm"
+  },
+  {
     "question": "What is the largest fish in the Amazon Basin?",
     "answer": "Arapaima"
   },
@@ -200,20 +348,40 @@
     "answer": ""
   },
   {
+    "question": "What is the mapping of the underwater landscape called?",
+    "answer": "Bathymetry"
+  },
+  {
     "question": "What is the minimum strength a fishing rod should have for catching trophy fish?",
     "answer": "10 kg"
+  },
+  {
+    "question": "What is the name of high-quality fishing line?",
+    "answer": "Fluorocarbon"
   },
   {
     "question": "What is the name of the fishing rod used for long-distance casting?",
     "answer": "Spod rod"
   },
   {
+    "question": "What is the name of the fishing tackle with multiple hooks?",
+    "answer": "Samodur"
+  },
+  {
     "question": "What is the name of the knot used for catching large fish?",
     "answer": "Palomar knot"
   },
   {
+    "question": "What is the name of the multi-toothed lure used for catching pike?",
+    "answer": "Wobbler"
+  },
+  {
     "question": "What is the name of the spring fishing tournament?",
     "answer": "Vesnyanka"
+  },
+  {
+    "question": "What is the name of the tackle with a sinker and several hooks?",
+    "answer": ""
   },
   {
     "question": "What is the process of salting fish for long-term storage called?",
@@ -224,8 +392,20 @@
     "answer": "Identifying fish habitats"
   },
   {
+    "question": "What is the typical length of a fly fishing rod?",
+    "answer": "9 feet"
+  },
+  {
     "question": "What is the working principle of feeder fishing?",
     "answer": "with a feeder"
+  },
+  {
+    "question": "What is used for winter fishing in shallow water?",
+    "answer": "Jigging Rap"
+  },
+  {
+    "question": "What is used to imitate the movement of an insect on the water?",
+    "answer": ""
   },
   {
     "question": "What is used to make jigs?",
@@ -236,12 +416,20 @@
     "answer": ""
   },
   {
-    "question": "What lure can be used for night fishing?",
+    "question": "What lines are used to indicate depths on maps?",
+    "answer": "Isobaths"
+  },
+  {
+    "question": "What lure should be chosen for fishing at depth?",
     "answer": "Spinner"
   },
   {
     "question": "What material is used for a lightweight jig?",
     "answer": ""
+  },
+  {
+    "question": "What negatively affects water bodies?",
+    "answer": "Poaching"
   },
   {
     "question": "What reduces the risk of ear barotrauma?",
@@ -252,8 +440,28 @@
     "answer": "in circles"
   },
   {
+    "question": "What should you do if you discover water pollution?",
+    "answer": "Report it to the authorities"
+  },
+  {
+    "question": "What skills are needed for a fisherman in competitions?",
+    "answer": "Accuracy and patience"
+  },
+  {
+    "question": "What tackle is effective for catching predatory fish in winter?",
+    "answer": "Jigging Rap"
+  },
+  {
     "question": "What tackle is used for fly fishing?",
     "answer": "Line"
+  },
+  {
+    "question": "What tactic is effective for catching large carp?",
+    "answer": ""
+  },
+  {
+    "question": "What tactic is used for catching catfish?",
+    "answer": "long casting"
   },
   {
     "question": "What technique helps to better hide from fish underwater?",
@@ -276,12 +484,24 @@
     "answer": "Electronic analyzers"
   },
   {
+    "question": "What technology allows tracking fish that are ahead?",
+    "answer": "Forward scanning"
+  },
+  {
+    "question": "What technology allows you to know in advance about the approaching fish?",
+    "answer": "Aquascope"
+  },
+  {
     "question": "What technology helps monitor the condition of fishing gear?",
     "answer": "Sensors"
   },
   {
     "question": "What technology reduces resistance during casting?",
     "answer": "Anti-friction coating"
+  },
+  {
+    "question": "What term refers to the use of multiple hooks on a single fishing line?",
+    "answer": "Samolov"
   },
   {
     "question": "What thickness of fishing line is used for catching large bream?",
@@ -296,12 +516,24 @@
     "answer": ""
   },
   {
+    "question": "What type of cast is particularly popular among experienced fly fishermen?",
+    "answer": "Spey cast"
+  },
+  {
+    "question": "What type of fish is commonly used as bait for trophy catfish?",
+    "answer": "Crucian carp"
+  },
+  {
     "question": "What type of fishing bait is used most often?",
     "answer": "Live bait"
   },
   {
     "question": "What type of fishing hooks has a barb to hold the bait?",
     "answer": "Carp hook"
+  },
+  {
+    "question": "What type of fishing hooks were used in antiquity?",
+    "answer": "Bone"
   },
   {
     "question": "What type of fishing involves the use of fly fishing tackle?",
@@ -312,6 +544,14 @@
     "answer": "Braided line"
   },
   {
+    "question": "What type of fishing rod is used for long-distance casting for roach?",
+    "answer": "Match rod"
+  },
+  {
+    "question": "What type of jig is used for ice fishing?",
+    "answer": "tungsten"
+  },
+  {
     "question": "What type of rod is often used for catfish fishing?",
     "answer": "Spinning rod"
   },
@@ -320,12 +560,24 @@
     "answer": "Cold smoking"
   },
   {
+    "question": "What type of tackle is optimal for fishing in a current?",
+    "answer": "Feeder"
+  },
+  {
+    "question": "What types of facilities do professional athletes choose?",
+    "answer": "Sports facilities"
+  },
+  {
     "question": "What was the ancient Roman method of fishing using hooks called?",
     "answer": "Piscatio"
   },
   {
     "question": "What was the first bait?",
     "answer": "Pieces of food"
+  },
+  {
+    "question": "What was the name of the ancient Chinese method of fishing?",
+    "answer": "Cormorant"
   },
   {
     "question": "What was the name of the important fishing document in England in the 15th century?",
@@ -340,16 +592,60 @@
     "answer": "Medium"
   },
   {
+    "question": "What weather is preferred for ice fishing?",
+    "answer": "Clear"
+  },
+  {
     "question": "What weight can a large catfish reach?",
     "answer": "up to 100 kg"
+  },
+  {
+    "question": "What were the first fishing floats made from?",
+    "answer": "Cork bark"
   },
   {
     "question": "What woolen clothing should be avoided when fishing?",
     "answer": "Sweater"
   },
   {
+    "question": "When did the first bronze hooks appear?",
+    "answer": "3000 years ago"
+  },
+  {
+    "question": "When is it allowed to fish in the pond?",
+    "answer": "After getting permission from the inspector"
+  },
+  {
+    "question": "When is twitching used?",
+    "answer": "Predator fishing"
+  },
+  {
+    "question": "Where do people fish in winter?",
+    "answer": "On the ice"
+  },
+  {
     "question": "Where is the best place to swim?",
     "answer": "in a swimming pool"
+  },
+  {
+    "question": "Which bases are specially equipped for winter fishing?",
+    "answer": ""
+  },
+  {
+    "question": "Which boots are best for ice fishing?",
+    "answer": "With thermal insulation"
+  },
+  {
+    "question": "Which country became famous for the dish 'boiled anchovy'?",
+    "answer": ""
+  },
+  {
+    "question": "Which country invented modern fishing lines?",
+    "answer": "USA"
+  },
+  {
+    "question": "Which country is the birthplace of fly fishing?",
+    "answer": "England"
   },
   {
     "question": "Which device can detect weak electric discharges from fish?",
@@ -392,6 +688,10 @@
     "answer": "Vacuum fish"
   },
   {
+    "question": "Which fish is capable of moving backwards?",
+    "answer": "Knifefish"
+  },
+  {
     "question": "Which fish is capable of surviving in low-temperature conditions?",
     "answer": ""
   },
@@ -404,6 +704,14 @@
     "answer": ""
   },
   {
+    "question": "Which fish is known for its 'dance' during courtship?",
+    "answer": "Mandarinfish"
+  },
+  {
+    "question": "Which fish is known for its ability to 'walk' on land?",
+    "answer": "Mudskipper"
+  },
+  {
     "question": "Which fish is known for its length of up to 2 meters?",
     "answer": "Arowana"
   },
@@ -412,8 +720,20 @@
     "answer": "Coelacanth"
   },
   {
+    "question": "Which fish is nicknamed 'white hunter'?",
+    "answer": ""
+  },
+  {
+    "question": "Which fish is particularly active at night?",
+    "answer": "Squid"
+  },
+  {
     "question": "Which fish is protected?",
     "answer": "Red-listed"
+  },
+  {
+    "question": "Which fish is relatively safe for beginner aquarists?",
+    "answer": "Small species of fish"
   },
   {
     "question": "Which fish is valued for its large size?",
@@ -424,12 +744,20 @@
     "answer": "Sturgeon"
   },
   {
+    "question": "Which fish lives in the cold waters of Antarctica?",
+    "answer": "Antarctic dragonfish"
+  },
+  {
     "question": "Which fish lives in warm waters?",
     "answer": "Tilapia"
   },
   {
     "question": "Which fish lives only at depths greater than 2000 meters?",
     "answer": ""
+  },
+  {
+    "question": "Which fish need protection?",
+    "answer": "Rare species"
   },
   {
     "question": "Which fish prefers clean and cool water bodies?",
@@ -440,6 +768,14 @@
     "answer": "Leafy seadragon"
   },
   {
+    "question": "Which fishing bases specialize in winter fishing?",
+    "answer": ""
+  },
+  {
+    "question": "Which fishing lodge is best suited for a family vacation?",
+    "answer": "Lodge with amenities"
+  },
+  {
     "question": "Which fishing rod casting technique is more complex?",
     "answer": "Downstream"
   },
@@ -448,12 +784,24 @@
     "answer": "Heavy feeder"
   },
   {
+    "question": "Which fishing tackle element affects the casting distance?",
+    "answer": "Fishing line"
+  },
+  {
     "question": "Which fishing tackle includes a feeder?",
+    "answer": "Feeder"
+  },
+  {
+    "question": "Which fishing technique involves the use of shrink tubing?",
     "answer": "Feeder"
   },
   {
     "question": "Which fishing technique requires special equipment called 'spring'?",
     "answer": "Feeder"
+  },
+  {
+    "question": "Which fly fishing technique is designed for deep water fishing?",
+    "answer": "Nymphing"
   },
   {
     "question": "Which knot holds well under tension?",
@@ -464,12 +812,24 @@
     "answer": "Munter hitch"
   },
   {
+    "question": "Which knot is best suited for wet line?",
+    "answer": "Albright"
+  },
+  {
     "question": "Which knot is often used by sailors?",
     "answer": "Bowline knot"
   },
   {
     "question": "Which knot is often used for tying a hook?",
     "answer": "Palomar"
+  },
+  {
+    "question": "Which knot is often used for tying thick fishing lines?",
+    "answer": "Blood knot"
+  },
+  {
+    "question": "Which knot is often used to join two fishing lines?",
+    "answer": "Bimini twist"
   },
   {
     "question": "Which knot is popular for deep-sea fishing?",
@@ -484,12 +844,24 @@
     "answer": "Bowline"
   },
   {
+    "question": "Which knot is used to attach a leader to the main fishing line?",
+    "answer": "Grinner"
+  },
+  {
+    "question": "Which knot offers the best tensile strength?",
+    "answer": "Sanguri"
+  },
+  {
     "question": "Which knot should be used for monofilament fishing line?",
     "answer": "Blood Knot"
   },
   {
     "question": "Which maps show changes in elevation?",
     "answer": "topographic"
+  },
+  {
+    "question": "Which method of preserving fish retains its flavor for a long time?",
+    "answer": "Drying"
   },
   {
     "question": "Which part of the fish is used to make fish stock?",
@@ -500,8 +872,16 @@
     "answer": "Riffle"
   },
   {
+    "question": "Which reel is preferable for long-distance fishing?",
+    "answer": "Carp reel"
+  },
+  {
     "question": "Which river flow is most suitable for fly fishing?",
     "answer": ""
+  },
+  {
+    "question": "Which river is known for a large number of big fish?",
+    "answer": "Amur"
   },
   {
     "question": "Which rivers are best suited for fly fishing?",
@@ -520,15 +900,39 @@
     "answer": "Baitcasting reel"
   },
   {
+    "question": "Which technique is difficult for beginner fly fishers?",
+    "answer": "Double haul"
+  },
+  {
+    "question": "Which technology provides a map of the bottom of a body of water?",
+    "answer": "Sonar"
+  },
+  {
     "question": "Which technology provides the best lure casting?",
     "answer": "Electric motor"
+  },
+  {
+    "question": "Who caught the largest shark?",
+    "answer": ""
   },
   {
     "question": "Who invented the first mechanical hook?",
     "answer": "The English"
   },
   {
+    "question": "Who invented the modern fishing reel?",
+    "answer": "Samuel Phillips"
+  },
+  {
     "question": "Who invented the modern spinning reel?",
     "answer": ""
+  },
+  {
+    "question": "Who wrote the first treatise on fishing in Europe?",
+    "answer": "Dame Juliana Berners"
+  },
+  {
+    "question": "Why is it not allowed to catch fish with nets?",
+    "answer": "Harm to the ecosystem"
   }
 ]
