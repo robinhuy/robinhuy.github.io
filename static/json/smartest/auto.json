@@ -16,6 +16,10 @@
     "answer": "Slipping"
   },
   {
+    "question": "How do drum brakes work?",
+    "answer": "Compress"
+  },
+  {
     "question": "How does the 'green wave' system work?",
     "answer": "Traffic light synchronization"
   },
@@ -90,8 +94,16 @@
     "answer": "Every two years"
   },
   {
+    "question": "How often should spark plugs be checked?",
+    "answer": "Every 10,000 km"
+  },
+  {
     "question": "How to adjust a carburetor?",
     "answer": "According to the manual"
+  },
+  {
+    "question": "How to avoid being blinded by car headlights?",
+    "answer": "Look away to the side"
   },
   {
     "question": "How to avoid hydroplaning on a wet road?",
@@ -106,12 +118,20 @@
     "answer": ""
   },
   {
+    "question": "How to fix an oil leak?",
+    "answer": "Replace the gasket"
+  },
+  {
     "question": "In what year did Lewis Hamilton make his debut?",
     "answer": ""
   },
   {
     "question": "In what year did Michael Schumacher return to Formula 1?",
     "answer": "2010"
+  },
+  {
+    "question": "In what year did the BMW 2002 model debut?",
+    "answer": "1968"
   },
   {
     "question": "In what year did the Chrysler Imperial model debut?",
@@ -174,12 +194,20 @@
     "answer": "ECU"
   },
   {
+    "question": "On which side do you overtake in most countries?",
+    "answer": "On the left"
+  },
+  {
     "question": "What actions should be taken during hydroplaning?",
     "answer": "Release the accelerator"
   },
   {
     "question": "What actions should be taken if the fuel filter is clogged?",
     "answer": "Replace the filter"
+  },
+  {
+    "question": "What actions should be taken in fog?",
+    "answer": "Reduce speed"
   },
   {
     "question": "What allows you to see obstacles in blind spots?",
@@ -332,6 +360,10 @@
     "answer": "Scans"
   },
   {
+    "question": "What gear helps protect a motorcyclist from injuries?",
+    "answer": "Protective"
+  },
+  {
     "question": "What gets charged during braking in hybrid cars?",
     "answer": "Battery"
   },
@@ -358,6 +390,10 @@
   {
     "question": "What helps to avoid accidents at an intersection?",
     "answer": "Following traffic rules"
+  },
+  {
+    "question": "What hybrid cars are called 'mild' hybrids?",
+    "answer": "Mild hybrid"
   },
   {
     "question": "What improves fuel efficiency during braking?",
@@ -429,6 +465,14 @@
   },
   {
     "question": "What is done during engine diagnostics?"
+  },
+  {
+    "question": "What is part of a motorcycle engine?",
+    "answer": "Piston"
+  },
+  {
+    "question": "What is recuperation in hybrid cars?",
+    "answer": "Energy recovery"
   },
   {
     "question": "What is the 0 to 100 km/h acceleration time for the Tesla Model S Plaid?",
@@ -553,6 +597,10 @@
     "answer": "Catalytic converter"
   },
   {
+    "question": "What is the name of the fastest Tesla?",
+    "answer": ""
+  },
+  {
     "question": "What is the name of the fire extinguishing device used in a motorcycle?",
     "answer": "Fire extinguisher"
   },
@@ -565,6 +613,10 @@
     "answer": "Spa-Francorchamps"
   },
   {
+    "question": "What is the name of the most expensive car ever sold?",
+    "answer": "Ferrari 250 GTO"
+  },
+  {
     "question": "What is the name of the oil cooling system?",
     "answer": "Oil cooler"
   },
@@ -575,6 +627,10 @@
   {
     "question": "What is the name of the racetrack in Mexico?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of the sensor that monitors the position of the crankshaft?",
+    "answer": "Hall sensor"
   },
   {
     "question": "What is the name of the sport touring model from Kawasaki?",
@@ -591,6 +647,10 @@
   {
     "question": "What is the name of the system that assists with lane changing?",
     "answer": "Lane Change Assist"
+  },
+  {
+    "question": "What is the name of the system that enhances road lighting at night?",
+    "answer": "Adaptive headlights"
   },
   {
     "question": "What is the name of the system that recognizes road signs?"
@@ -659,11 +719,19 @@
     "answer": "Connected Car"
   },
   {
+    "question": "What is the technology called that projects information onto the windshield?",
+    "answer": "Head-Up Display"
+  },
+  {
     "question": "What is the technology for fast charging electric vehicles called?",
     "answer": "DC Fast Charging"
   },
   {
     "question": "What is the technology for recognizing traffic signs called?"
+  },
+  {
+    "question": "What is the technology for voice control called?",
+    "answer": "Speech recognition"
   },
   {
     "question": "What is the term for the total rotational force produced by an engine?",
@@ -700,6 +768,10 @@
   {
     "question": "What is the type of engine with a rotating piston called?",
     "answer": "Rotary"
+  },
+  {
+    "question": "What is the type of hybrid with a constant drive electric motor called?",
+    "answer": "Series hybrid"
   },
   {
     "question": "What is torque used for?",
@@ -744,6 +816,10 @@
     "answer": "Rivers"
   },
   {
+    "question": "What new category appeared in motorsport in 2021?",
+    "answer": "Classic"
+  },
+  {
     "question": "What percentage of the track in Saudi Arabia is made up of dunes?",
     "answer": "75%"
   },
@@ -786,6 +862,10 @@
   {
     "question": "What should you do in case of an unexpected stop?",
     "answer": "Turn on the hazard lights"
+  },
+  {
+    "question": "What substance is used for protection against corrosion?",
+    "answer": "Anti-corrosion coating"
   },
   {
     "question": "What system helps keep a motorcycle in a horizontal position?",
@@ -879,6 +959,10 @@
     "answer": "450 hp"
   },
   {
+    "question": "What was the name of the Bentley model from the 1950s?",
+    "answer": "R Type"
+  },
+  {
     "question": "What was the name of the first American production car?",
     "answer": "Duryea Motor Wagon"
   },
@@ -911,12 +995,20 @@
     "answer": "Continental"
   },
   {
+    "question": "When did Subaru start manufacturing cars?",
+    "answer": "1954"
+  },
+  {
     "question": "When did the New York Auto Show begin?",
     "answer": "1900"
   },
   {
     "question": "When did the first hybrid cars appear?",
     "answer": "Late 1990s"
+  },
+  {
+    "question": "When should winter tires be used?",
+    "answer": "When the temperature is below 7°C"
   },
   {
     "question": "When should you brake on a wet road?",
@@ -983,6 +1075,14 @@
     "answer": "Ayrton Senna"
   },
   {
+    "question": "Which British brand produced the MGA model?",
+    "answer": "MG"
+  },
+  {
+    "question": "Which Honda supercar debuted in 2016?",
+    "answer": "NSX"
+  },
+  {
     "question": "Which Mazda sports car was released in 1990?",
     "answer": ""
   },
@@ -1019,6 +1119,10 @@
     "answer": ""
   },
   {
+    "question": "Which brand is known for the Veyron model?",
+    "answer": "Bugatti"
+  },
+  {
     "question": "Which brand manufactures Atlantis motorcycles?",
     "answer": "Benelli"
   },
@@ -1037,6 +1141,10 @@
   {
     "question": "Which brand manufactures the Ghost model?",
     "answer": "Rolls-Royce"
+  },
+  {
+    "question": "Which brand manufactures the Quattroporte model?",
+    "answer": "Maserati"
   },
   {
     "question": "Which brand manufactures the Silverado model?",
@@ -1085,6 +1193,10 @@
   {
     "question": "Which car is considered the most successful in WRC history?",
     "answer": "Citroën C4"
+  },
+  {
+    "question": "Which car is known for its 'gullwing doors'?",
+    "answer": "Mercedes 300SL"
   },
   {
     "question": "Which car manufacturer is associated with the legendary Countach model?"
@@ -1204,6 +1316,10 @@
     "answer": "General Motors"
   },
   {
+    "question": "Which company was the first to release a compact crossover?",
+    "answer": "Toyota"
+  },
+  {
     "question": "Which component improves brake cooling?",
     "answer": "Air ducts"
   },
@@ -1214,6 +1330,10 @@
   {
     "question": "Which component is responsible for aerodynamic downforce?",
     "answer": "Wing"
+  },
+  {
+    "question": "Which component is responsible for automatically turning off the turn signal?",
+    "answer": "Turn signal relay"
   },
   {
     "question": "Which component is responsible for controlling tire temperature?",
@@ -1248,6 +1368,10 @@
     "answer": "Crankshaft damper"
   },
   {
+    "question": "Which component reduces oil consumption?",
+    "answer": ""
+  },
+  {
     "question": "Which component regulates the airflow in an engine?"
   },
   {
@@ -1257,6 +1381,10 @@
   {
     "question": "Which country is famous for its highways?",
     "answer": "USA"
+  },
+  {
+    "question": "Which country is popular for motorcycle tours in the Cordilleras?",
+    "answer": "Peru"
   },
   {
     "question": "Which country manufactures Zontes motorcycles?",
@@ -1283,12 +1411,20 @@
     "answer": "Lewis Hamilton"
   },
   {
+    "question": "Which driver was the first to complete a lap at the Yas Marina Circuit in Abu Dhabi?",
+    "answer": "Kimi Räikkönen"
+  },
+  {
     "question": "Which driver won the Drift Masters 2021 final?",
     "answer": "James Deane"
   },
   {
     "question": "Which driver won the world championship five times?",
     "answer": "Juan Manuel Fangio"
+  },
+  {
+    "question": "Which element is important for drifting?",
+    "answer": "limited-slip differential"
   },
   {
     "question": "Which engine component creates a spark?",
@@ -1306,8 +1442,16 @@
     "answer": "Festival of Speed"
   },
   {
+    "question": "Which iconic sports car was produced by Maserati in the 1960s?",
+    "answer": "Ghibli"
+  },
+  {
     "question": "Which ignition system does not require spark plugs?",
     "answer": "Diesel"
+  },
+  {
+    "question": "Which model became the roaring beast for Aston Martin?",
+    "answer": "V8 Vantage"
   },
   {
     "question": "Which model is known as a powerful sportbike from Suzuki?",
@@ -1337,6 +1481,10 @@
     "answer": "KTM"
   },
   {
+    "question": "Which motorcycle component contains the engine inside?",
+    "answer": "Crankcase"
+  },
+  {
     "question": "Which motorcycle component forces air into the cylinders?",
     "answer": "Turbocharger"
   },
@@ -1345,8 +1493,16 @@
     "answer": "Pump"
   },
   {
+    "question": "Which motorcycle is considered the heaviest?",
+    "answer": "Cruiser"
+  },
+  {
     "question": "Which motorcycle is often used for riding on snow?",
     "answer": "Snowbike"
+  },
+  {
+    "question": "Which motorcycle is popular for its incredible speed and innovative technology?",
+    "answer": "Sportbike"
   },
   {
     "question": "Which motorcycle is suitable for aggressive riding?",
@@ -1439,8 +1595,16 @@
     "answer": "ECU"
   },
   {
+    "question": "Which system ensures stable movement of a car during turns?",
+    "answer": "Stabilization system"
+  },
+  {
     "question": "Which system forces air into the engine cylinders?",
     "answer": "Turbocharging"
+  },
+  {
+    "question": "Which system projects information onto the windshield?",
+    "answer": "HUD"
   },
   {
     "question": "Which team has the most Constructors' Championship titles in Formula 1?",
@@ -1473,6 +1637,10 @@
   {
     "question": "Which type of transmission provides seamless shifting?",
     "answer": ""
+  },
+  {
+    "question": "Which vehicle based on Jeep was created during World War II?",
+    "answer": "Willys"
   },
   {
     "question": "Which wrench is used to adjust the clutch?",
