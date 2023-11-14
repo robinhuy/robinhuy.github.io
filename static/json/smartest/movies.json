@@ -28,8 +28,16 @@
     "answer": "and indecisive"
   },
   {
+    "question": "For which film did Joel Coen write the screenplay?",
+    "answer": "No Country for Old Men"
+  },
+  {
     "question": "From which TV series is the phrase 'You are my soul'?",
     "answer": "Unreal Groove"
+  },
+  {
+    "question": "From which movie is the phrase: 'A few well-armed men'?",
+    "answer": "Men in Black"
   },
   {
     "question": "From which movie is the phrase: 'I have a bad feeling about this'?",
@@ -53,6 +61,10 @@
   {
     "question": "How many 'Golden Bear' statuettes are awarded at the Berlinale?",
     "answer": "11"
+  },
+  {
+    "question": "How many categories are there in the Golden Globe Awards?",
+    "answer": "25"
   },
   {
     "question": "How many days does the Locarno Film Festival last?",
@@ -130,6 +142,10 @@
   {
     "question": "In which song does Shrek sing about his swamp?",
     "answer": "Welcome to Duloc"
+  },
+  {
+    "question": "Name the first animated show on television.",
+    "answer": "Felix the Cat"
   },
   {
     "question": "On which planet does the action frequently take place in the series 'The Mandalorian'?",
@@ -365,6 +381,10 @@
   {
     "question": "What is the name of the Japanese version of the anime 'Blue Lantern'?",
     "answer": "Azure Path"
+  },
+  {
+    "question": "What is the name of the Mexican love drama?",
+    "answer": "Roberta Cruz"
   },
   {
     "question": "What is the name of the Nolan film with elements of time paradoxes?",
@@ -615,6 +635,10 @@
     "answer": "Cody Banks"
   },
   {
+    "question": "What is the name of the main character in the movie '12 Years a Slave'?",
+    "answer": "Solomon Northup"
+  },
+  {
     "question": "What is the name of the main character in the movie 'Fight Club'?",
     "answer": "Tyler Durden"
   },
@@ -776,6 +800,10 @@
   {
     "question": "What is the technology called that captures the movements of real objects for animation?",
     "answer": "Motion capture"
+  },
+  {
+    "question": "What is the term for a brief description of a film?",
+    "answer": "Synopsis"
   },
   {
     "question": "What is the term for a texture in 3D graphics?",
@@ -1314,6 +1342,10 @@
     "answer": "In the Name of the Father"
   },
   {
+    "question": "Which film was produced by Galina Volchek?",
+    "answer": "The Cranes Are Flying"
+  },
+  {
     "question": "Which film was the directorial debut of Sofia Coppola?",
     "answer": "The Virgin Suicides"
   },
@@ -1700,6 +1732,10 @@
     "answer": "Michel Ocelot"
   },
   {
+    "question": "Who directed the animated film \"Spaghetti at Night\"?",
+    "answer": "Gianluca Liculli"
+  },
+  {
     "question": "Who directed the animated film 'Abominable'?",
     "answer": ""
   },
@@ -1821,6 +1857,10 @@
   {
     "question": "Who is the creator of the TV series 'Arrow'?",
     "answer": ""
+  },
+  {
+    "question": "Who is the creator of the series 'The Crown'?",
+    "answer": "Peter Morgan"
   },
   {
     "question": "Who is the director and producer of the series 'Peaky Blinders'?",
@@ -2018,6 +2058,10 @@
     "answer": ""
   },
   {
+    "question": "Who said: 'Fight or flee'?",
+    "answer": "Wise mentor"
+  },
+  {
     "question": "Who said: 'I am Life'?",
     "answer": "Doctor Who"
   },
@@ -2124,6 +2168,10 @@
   {
     "question": "Who wrote the screenplay for the movie 'Gattaca'?",
     "answer": "Andrew Niccol"
+  },
+  {
+    "question": "Who wrote the screenplay for the movie 'Schindler's List'?",
+    "answer": "Steven Zaillian"
   },
   {
     "question": "Who wrote the screenplay for the movie 'The Princess and the Frog'?",
