@@ -4,6 +4,10 @@
     "answer": "18 years old"
   },
   {
+    "question": "How did Arya Stark find motivation to continue her path of vengeance?",
+    "answer": "List of enemies"
+  },
+  {
     "question": "How did Arya Stark learn what it means to be Faceless?",
     "answer": "Through pain"
   },
@@ -40,6 +44,10 @@
     "answer": "Flexibility"
   },
   {
+    "question": "How did Jon Snow's diplomacy with the Wildlings change the political landscape of the North?",
+    "answer": "Alliance for peace"
+  },
+  {
     "question": "How did Tyrion Lannister demonstrate his wisdom?",
     "answer": "By giving advice"
   },
@@ -54,6 +62,10 @@
   {
     "question": "How did the Iron Throne change the military strategy of rulers?",
     "answer": "Centralization of power"
+  },
+  {
+    "question": "How did the Lannisters use rumors and gossip in their political struggle?",
+    "answer": "Manipulation"
   },
   {
     "question": "How did the Lannisters usually achieve their goals?",
@@ -84,6 +96,10 @@
     "answer": "Symbolic significance"
   },
   {
+    "question": "In which city did mages control the exchange of rare magical knowledge in Essos?",
+    "answer": "Asshai"
+  },
+  {
     "question": "What abilities did Arya Stark develop to survive?",
     "answer": "Disguise"
   },
@@ -94,6 +110,10 @@
   {
     "question": "What action led Jon to a conflict with the wildlings?",
     "answer": ""
+  },
+  {
+    "question": "What ancient creature, according to legends, was an ally of House Greyjoy?",
+    "answer": "Kraken"
   },
   {
     "question": "What ancient ritual did the Starks perform during an execution?",
@@ -132,6 +152,14 @@
     "answer": "Freedom"
   },
   {
+    "question": "What element in Targaryen myths strengthened their claims to the throne?",
+    "answer": "Dragon blood"
+  },
+  {
+    "question": "What enemy threatened the North?",
+    "answer": ""
+  },
+  {
     "question": "What enemy weakness did Tyrion exploit for the success of his strategy?",
     "answer": "Disunity"
   },
@@ -142,6 +170,14 @@
   {
     "question": "What event caused Arya Stark to create her list of vengeance?",
     "answer": ""
+  },
+  {
+    "question": "What event demonstrated the power of dragons in the Targaryen wars?",
+    "answer": "The Fall of Harrenhal"
+  },
+  {
+    "question": "What event did the Lannisters use to weaken their political opponents?",
+    "answer": "The Red Wedding"
   },
   {
     "question": "What event hardened Tyrion Lannister's character?",
@@ -188,6 +224,14 @@
     "answer": "The decline of the Targaryens"
   },
   {
+    "question": "What event was significant in the Battle of the Narrow Sea?",
+    "answer": "Burning of the fleet"
+  },
+  {
+    "question": "What event was the first act of Robert's Rebellion?",
+    "answer": "Abduction of Lyanna"
+  },
+  {
     "question": "What events changed Pike's policy?",
     "answer": ""
   },
@@ -210,6 +254,10 @@
   {
     "question": "What important lesson did Arya learn from her blindness?",
     "answer": "Understanding of sounds"
+  },
+  {
+    "question": "What important lesson did Tyrion learn from Varys?",
+    "answer": "The power of information"
   },
   {
     "question": "What is Jon Snow's real name?",
@@ -250,6 +298,10 @@
   {
     "question": "What key skill helped Tyrion Lannister in negotiations?",
     "answer": "Wit"
+  },
+  {
+    "question": "What key strategy allowed Daenerys to gather a diverse army?",
+    "answer": "Liberation"
   },
   {
     "question": "What knowledge is required from candidates to become maesters?",
@@ -336,6 +388,10 @@
     "answer": "Loyalty"
   },
   {
+    "question": "What rituals were used to protect caravans?",
+    "answer": "Protective rituals"
+  },
+  {
     "question": "What role did Bran Stark play in the war against the Night King?",
     "answer": "Three-Eyed Raven"
   },
@@ -420,6 +476,10 @@
     "answer": "Changing the plan"
   },
   {
+    "question": "What tactic did the Lannisters use against their enemies?",
+    "answer": "Manipulation"
+  },
+  {
     "question": "What title did Tyrion Lannister receive after the Battle of the Blackwater?",
     "answer": "Hand of the King"
   },
@@ -458,6 +518,10 @@
   {
     "question": "What was the main motivation for the rebellion against King Aerys II?",
     "answer": "Tyranny"
+  },
+  {
+    "question": "What was the most difficult decision made by Tyrion Lannister?",
+    "answer": "Forming a political alliance"
   },
   {
     "question": "What was the name of Robb Stark's direwolf?",
@@ -500,6 +564,10 @@
     "answer": "Flying ships"
   },
   {
+    "question": "Which ally betrayed Daenerys?",
+    "answer": "Varys"
+  },
+  {
     "question": "Which ally of Jon played a key role in the capture of Winterfell?",
     "answer": "Sansa Stark"
   },
@@ -514,6 +582,10 @@
   {
     "question": "Which army helped the Starks reclaim Winterfell?",
     "answer": ""
+  },
+  {
+    "question": "Which army led the siege of Pyke?",
+    "answer": "Stark Army"
   },
   {
     "question": "Which authoritative character from House Lannister actively used manipulation to control the court?",
@@ -542,6 +614,10 @@
   {
     "question": "Which divine forest was important to the Starks?",
     "answer": "Winterfell"
+  },
+  {
+    "question": "Which dragon fought in the Battle of the Gullet?",
+    "answer": "Caraxes"
   },
   {
     "question": "Which dragon helped in the Battle of the Blackwater Bay?",
@@ -576,6 +652,10 @@
     "answer": "Alliance with Dorne"
   },
   {
+    "question": "Which house actively sought marriage alliances in the southern lands?",
+    "answer": "Martells"
+  },
+  {
     "question": "Which house benefited from marriage with the Targaryens?",
     "answer": "Velaryon"
   },
@@ -608,12 +688,20 @@
     "answer": "Frey"
   },
   {
+    "question": "Which house was famous for its gardeners and green thumbs?",
+    "answer": ""
+  },
+  {
     "question": "Which house was known for its naval raids and strong connection to the sea?",
     "answer": "Greyjoys"
   },
   {
     "question": "Which knight remained loyal to King Aerys?",
     "answer": "Ser Arthur"
+  },
+  {
+    "question": "Which lands were controlled by House Glover?",
+    "answer": "The North"
   },
   {
     "question": "Which maester is known for his writings about dragons?",
@@ -634,6 +722,10 @@
   {
     "question": "Which member of House Lannister was known as an outcast among their relatives?",
     "answer": "Tyrion Lannister"
+  },
+  {
+    "question": "Which organization trains maesters?",
+    "answer": "The Citadel"
   },
   {
     "question": "Which prophecy foretold the war for Westeros?",
@@ -664,12 +756,20 @@
     "answer": "Medicine"
   },
   {
+    "question": "Which trade guild possessed magical knowledge?",
+    "answer": "Alchemists' Guild"
+  },
+  {
     "question": "Which tree symbolizes the knowledge of maesters?",
     "answer": "Weirwood"
   },
   {
     "question": "Which vision warns about the 'burning of the throne'?",
     "answer": "Daenerys' vision"
+  },
+  {
+    "question": "Who became the first Lord Commander of the Night's Watch?",
+    "answer": "Jeor Mormont"
   },
   {
     "question": "Who built the Great Northern Wall?",

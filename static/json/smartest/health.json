@@ -1,7 +1,23 @@
 [
   {
+    "question": "What changes are observed in brain activity during REM sleep?",
+    "answer": "High cortical activity"
+  },
+  {
     "question": "What changes occur in protein synthesis during chronic stress?",
     "answer": "Decrease"
+  },
+  {
+    "question": "What changes occur in the circadian rhythms of aging people?",
+    "answer": "Phase shift"
+  },
+  {
+    "question": "What changes occur in the lungs with chronic bronchitis?",
+    "answer": "Excess mucus"
+  },
+  {
+    "question": "What does the diagnosis of endogenous moments include?",
+    "answer": "Psychodiagnostics"
   },
   {
     "question": "What effect does choline have on the brain?",
@@ -12,6 +28,10 @@
     "answer": "Sleep disruption"
   },
   {
+    "question": "What happens to the alveoli in emphysema?",
+    "answer": "Stretching"
+  },
+  {
     "question": "What heart condition can be caused by hypertrophic cardiomyopathy?",
     "answer": "Sudden death"
   },
@@ -20,12 +40,20 @@
     "answer": "Hypercortisolism"
   },
   {
+    "question": "What is the function of the hormone leptin?",
+    "answer": ""
+  },
+  {
     "question": "What is the main active element of cytokine action?",
     "answer": "Immunoregulation"
   },
   {
     "question": "What is the role of short-chain fatty acids in the gut?",
     "answer": "Prevention of inflammation"
+  },
+  {
+    "question": "What measures should be implemented at the state level to reduce cancer incidence?",
+    "answer": "Education and screening"
   },
   {
     "question": "What methods are used in the treatment of obsessive-compulsive disorder?",
@@ -40,6 +68,10 @@
     "answer": "Phytic acid"
   },
   {
+    "question": "Which anatomical structure controls the opening and closing of heart valves?",
+    "answer": ""
+  },
+  {
     "question": "Which cells maintain the homeostasis of bone tissue?",
     "answer": ""
   },
@@ -48,12 +80,20 @@
     "answer": "Cytochromes P450"
   },
   {
+    "question": "Which gene is responsible for the production of MHC classes?",
+    "answer": "HLA gene"
+  },
+  {
     "question": "Which immune system cells are most susceptible to suppression under chronic stress?",
     "answer": "T-lymphocytes"
   },
   {
     "question": "Which medications are commonly used to treat chronic heart failure?",
     "answer": "ACE inhibitors"
+  },
+  {
+    "question": "Which molecules recognize pathogens and trigger an immune response?",
+    "answer": "Toll-like receptors"
   },
   {
     "question": "Which neurohormonal system is activated in heart failure?",
@@ -78,5 +118,9 @@
   {
     "question": "Which study first demonstrated the importance of sleep for strengthening the immune system?",
     "answer": "Carrera Experiment"
+  },
+  {
+    "question": "Which vitamins are synthesized in the body from cholesterol?",
+    "answer": "D"
   }
 ]

@@ -8,12 +8,32 @@
     "answer": "OPEC embargo"
   },
   {
+    "question": "What does a tariff restriction include?",
+    "answer": "Import quotas"
+  },
+  {
+    "question": "What does aggregate demand include?",
+    "answer": "All expenditures"
+  },
+  {
+    "question": "What does marginal cost take into account?",
+    "answer": "The last unit"
+  },
+  {
     "question": "What does the central limit theorem describe?",
     "answer": "Normal distribution"
   },
   {
     "question": "What does the cost of ownership include?",
     "answer": "Expenses"
+  },
+  {
+    "question": "What economic phenomenon was observed in Japan in the 1990s?",
+    "answer": "Economic bubble"
+  },
+  {
+    "question": "What factors are important for economic growth?",
+    "answer": "Technology"
   },
   {
     "question": "What happens during stagflation?",
@@ -24,8 +44,40 @@
     "answer": "Controls monopolies"
   },
   {
+    "question": "What is demand elasticity?",
+    "answer": "Price sensitivity"
+  },
+  {
+    "question": "What is hedging?",
+    "answer": "Risk insurance"
+  },
+  {
+    "question": "What is hypothesis testing?",
+    "answer": "Statistical"
+  },
+  {
+    "question": "What is meant by economic stabilization?",
+    "answer": "Reduction of inflation"
+  },
+  {
+    "question": "What is the expenditure multiplier?",
+    "answer": "Expenditure effect"
+  },
+  {
+    "question": "What is the name of the estimation method that minimizes error?",
+    "answer": "Least squares method"
+  },
+  {
+    "question": "What is the term for an increase in exports?",
+    "answer": "Export growth"
+  },
+  {
     "question": "What makes an economy more resilient?",
     "answer": "Diversification"
+  },
+  {
+    "question": "What measure is aimed at reducing the budget deficit?",
+    "answer": "Reducing expenses"
   },
   {
     "question": "What method is used to reduce standard errors in statistics?",
@@ -40,8 +92,28 @@
     "answer": "Apple"
   },
   {
+    "question": "Which econometric method is based on maximizing likelihood?",
+    "answer": "Maximum likelihood method"
+  },
+  {
+    "question": "Which financial document shows a company's profit?",
+    "answer": "Income statement"
+  },
+  {
     "question": "Which indicator characterizes economic inequality?",
     "answer": "Gini coefficient"
+  },
+  {
+    "question": "Which model explains long-term economic growth?",
+    "answer": "Solow model"
+  },
+  {
+    "question": "Which statistical technique is used to test the significance of predictors?",
+    "answer": "Fisher's Test"
+  },
+  {
+    "question": "Who founded the first bank?",
+    "answer": "Medici"
   },
   {
     "question": "Who introduced the term 'capitalism'?",
