@@ -1,5 +1,9 @@
 [
   {
+    "question": "At what distance from a school zone can you start overtaking?",
+    "answer": "100 meters"
+  },
+  {
     "question": "At which auto show are futuristic concepts often showcased?",
     "answer": "Geneva Motor Show"
   },
@@ -10,6 +14,10 @@
   {
     "question": "From what year did they start installing ABS on motorcycles?",
     "answer": "1992"
+  },
+  {
+    "question": "How can you distinguish winter tires?",
+    "answer": "By the sipes"
   },
   {
     "question": "How can you identify a clutch malfunction?",
@@ -72,6 +80,10 @@
   {
     "question": "How many members does the MG Car Club have in the UK?",
     "answer": "over 30,000"
+  },
+  {
+    "question": "How many races are there in a NASCAR season?",
+    "answer": "36"
   },
   {
     "question": "How many stages must be completed to win?",
@@ -190,6 +202,10 @@
     "answer": "2007"
   },
   {
+    "question": "In which year did the maximum number of accidents occur?",
+    "answer": "1986"
+  },
+  {
     "question": "Name the engine control unit.",
     "answer": "ECU"
   },
@@ -222,7 +238,15 @@
     "answer": ""
   },
   {
+    "question": "What are the signs with a blue border called?",
+    "answer": ""
+  },
+  {
     "question": "What benefit do manufacturers gain from participating in auto shows?"
+  },
+  {
+    "question": "What brake pads should be installed on a motorcycle?",
+    "answer": "Compatible"
   },
   {
     "question": "What can be charged from the power grid?",
@@ -231,6 +255,10 @@
   {
     "question": "What can be used to replace a damaged gasket?",
     "answer": ""
+  },
+  {
+    "question": "What can cause an engine to overheat?",
+    "answer": "Lack of antifreeze"
   },
   {
     "question": "What can cause the 'Check Engine' light to turn on?",
@@ -292,6 +320,10 @@
     "answer": "Buggy"
   },
   {
+    "question": "What does 'V2G' mean?",
+    "answer": "Vehicle-to-Grid"
+  },
+  {
     "question": "What does 'turbocharger upgrade' mean?",
     "answer": "Increase in pressure"
   },
@@ -306,6 +338,10 @@
   {
     "question": "What does a coilover suspension do?",
     "answer": ""
+  },
+  {
+    "question": "What does a forged piston do?",
+    "answer": "Increases strength"
   },
   {
     "question": "What does the abbreviation Volvo mean?",
@@ -438,6 +474,10 @@
   {
     "question": "What is a motocross bike?",
     "answer": "For off-road"
+  },
+  {
+    "question": "What is a motorcycle with an engine capacity of more than 600 cc called?",
+    "answer": "High-capacity bike"
   },
   {
     "question": "What is a planetary gear system?",
@@ -656,6 +696,10 @@
     "question": "What is the name of the system that recognizes road signs?"
   },
   {
+    "question": "What is the name of the system that warns about a collision?",
+    "answer": "Collision Warning"
+  },
+  {
     "question": "What is the name of the updated version of the Harley-Davidson Fat Boy?",
     "answer": "Fat Boy 114"
   },
@@ -666,6 +710,10 @@
   {
     "question": "What is the penalty for driving under the influence?",
     "answer": "High"
+  },
+  {
+    "question": "What is the process of mixing fuel and air called?",
+    "answer": "Carburetion"
   },
   {
     "question": "What is the process of returning energy to the battery during braking called?",
@@ -750,6 +798,10 @@
     "answer": "175 km/h"
   },
   {
+    "question": "What is the top speed of the BMW M4 GTS?",
+    "answer": "305 km/h"
+  },
+  {
     "question": "What is the top speed of the Chevrolet Corvette ZR1?",
     "answer": "345 km/h"
   },
@@ -764,6 +816,10 @@
   {
     "question": "What is the top speed of the Lamborghini Huracán Performante?",
     "answer": "325 km/h"
+  },
+  {
+    "question": "What is the top speed of the Porsche 911 GT2 RS?",
+    "answer": "340 km/h"
   },
   {
     "question": "What is the type of engine with a rotating piston called?",
@@ -824,6 +880,10 @@
     "answer": "75%"
   },
   {
+    "question": "What regulates the oil pressure in an engine?",
+    "answer": "Relief valve"
+  },
+  {
     "question": "What should be checked when a car hasn't been used for a long time?",
     "answer": "Battery"
   },
@@ -842,6 +902,10 @@
   {
     "question": "What should you do if the brake hose breaks?",
     "answer": ""
+  },
+  {
+    "question": "What should you do if there is a cooling system malfunction?",
+    "answer": "Check the radiator"
   },
   {
     "question": "What should you do if you have a flat tire?",
@@ -892,6 +956,10 @@
     "answer": "Solar battery"
   },
   {
+    "question": "What tool is needed to remove a sprocket?",
+    "answer": "Puller"
+  },
+  {
     "question": "What tool is used for mounting and dismounting tires?",
     "answer": "Tire changer"
   },
@@ -902,6 +970,10 @@
   {
     "question": "What type of battery is most commonly used in modern hybrid cars?",
     "answer": "Lithium-ion"
+  },
+  {
+    "question": "What type of charging is the fastest for electric vehicles?",
+    "answer": "DC Fast"
   },
   {
     "question": "What type of cooling is used in Ducati Panigale V4 engines?",
@@ -939,6 +1011,10 @@
     "answer": "SSV"
   },
   {
+    "question": "What type of riding involves crossing a river on a motorcycle?",
+    "answer": "Fording"
+  },
+  {
     "question": "What type of tires in Formula 1 is considered the softest?",
     "answer": "Hyper Soft"
   },
@@ -951,12 +1027,20 @@
     "answer": "Driverless car"
   },
   {
+    "question": "What type of wheels are preferred for drifting?",
+    "answer": "Light and durable"
+  },
+  {
     "question": "What type of wheels improves handling?",
     "answer": "Alloy"
   },
   {
     "question": "What was the horsepower of the Dodge Viper V10 engine?",
     "answer": "450 hp"
+  },
+  {
+    "question": "What was the name of the 1967 Pontiac model?",
+    "answer": ""
   },
   {
     "question": "What was the name of the Bentley model from the 1950s?",
@@ -977,6 +1061,10 @@
   {
     "question": "What was the name of the first Nissan model?",
     "answer": "DAT Car"
+  },
+  {
+    "question": "What was the name of the first Renault model?",
+    "answer": "Renault Voiturette"
   },
   {
     "question": "What was the name of the first production car?",
@@ -1005,6 +1093,10 @@
   {
     "question": "When did the first hybrid cars appear?",
     "answer": "Late 1990s"
+  },
+  {
+    "question": "When does the battery charge in a hybrid car?",
+    "answer": ""
   },
   {
     "question": "When should winter tires be used?",
@@ -1107,6 +1199,10 @@
     "answer": "Off-road Baikal"
   },
   {
+    "question": "Which brand created car models starting with the letter 'F'?",
+    "answer": "Ferrari"
+  },
+  {
     "question": "Which brand created the first mass-produced electric car?",
     "answer": "Nissan"
   },
@@ -1149,6 +1245,10 @@
   {
     "question": "Which brand manufactures the Silverado model?",
     "answer": "Chevrolet"
+  },
+  {
+    "question": "Which brand manufactures the Titan motorcycle?",
+    "answer": "Harley-Davidson"
   },
   {
     "question": "Which brand owns the Bentley marque?",
@@ -1555,6 +1655,10 @@
     "answer": "Drive shaft"
   },
   {
+    "question": "Which racing driver is nicknamed 'The Man from Tampa'?",
+    "answer": "Fred Lorz"
+  },
+  {
     "question": "Which racing team is based in Woking?",
     "answer": "McLaren"
   },
@@ -1565,6 +1669,10 @@
   {
     "question": "Which show features 'Concept Cars'?",
     "answer": "Geneva Motor Show"
+  },
+  {
+    "question": "Which show includes a hill climb?",
+    "answer": "Goodwood"
   },
   {
     "question": "Which show is famous for debuting new luxury cars?",
