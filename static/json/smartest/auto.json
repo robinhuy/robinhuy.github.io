@@ -110,6 +110,10 @@
     "answer": "Every 10,000 km"
   },
   {
+    "question": "How often should you check the frame fastenings?",
+    "answer": "Regularly"
+  },
+  {
     "question": "How to adjust a carburetor?",
     "answer": "According to the manual"
   },
@@ -235,6 +239,14 @@
   },
   {
     "question": "What are high technical skills necessary for?",
+    "answer": ""
+  },
+  {
+    "question": "What are mild hybrid cars?",
+    "answer": "With a small battery"
+  },
+  {
+    "question": "What are the distinctive doors of the Mercedes-Benz 300SL called?",
     "answer": ""
   },
   {
@@ -468,6 +480,10 @@
     "answer": ""
   },
   {
+    "question": "What is a bypass used for?",
+    "answer": "Pressure control"
+  },
+  {
     "question": "What is a hybrid engine?",
     "answer": "An engine of two types"
   },
@@ -507,6 +523,10 @@
     "question": "What is done during engine diagnostics?"
   },
   {
+    "question": "What is one of the main expenses in maintaining an electric vehicle?",
+    "answer": "Battery replacement"
+  },
+  {
     "question": "What is part of a motorcycle engine?",
     "answer": "Piston"
   },
@@ -521,6 +541,10 @@
   {
     "question": "What is the average speed of cars in the race?",
     "answer": "80-130 km/h"
+  },
+  {
+    "question": "What is the device called that controls the fuel consumption of a motorcycle?",
+    "answer": "Econometer"
   },
   {
     "question": "What is the difference between summer tires and winter tires?",
@@ -568,6 +592,10 @@
   {
     "question": "What is the main function of a turbine in an engine?",
     "answer": "Boost"
+  },
+  {
+    "question": "What is the main structure of a Formula 1 chassis called?",
+    "answer": "Monocoque"
   },
   {
     "question": "What is the mechanism called that converts the movement of a piston into rotational motion?",
@@ -635,6 +663,10 @@
   {
     "question": "What is the name of the emissions control system?",
     "answer": "Catalytic converter"
+  },
+  {
+    "question": "What is the name of the famous French racer known as 'Le Monstre'?",
+    "answer": "Charles Goudsoud"
   },
   {
     "question": "What is the name of the fastest Tesla?",
@@ -751,6 +783,10 @@
     "answer": "less than 3 seconds"
   },
   {
+    "question": "What is the system called that allows controlling speed and distance to the vehicle ahead?",
+    "answer": ""
+  },
+  {
     "question": "What is the system called that controls a motorcycle at low speeds?",
     "answer": "Stabilization"
   },
@@ -802,6 +838,10 @@
     "answer": "305 km/h"
   },
   {
+    "question": "What is the top speed of the Bugatti Veyron?",
+    "answer": "407 km/h"
+  },
+  {
     "question": "What is the top speed of the Chevrolet Corvette ZR1?",
     "answer": "345 km/h"
   },
@@ -820,6 +860,10 @@
   {
     "question": "What is the top speed of the Porsche 911 GT2 RS?",
     "answer": "340 km/h"
+  },
+  {
+    "question": "What is the top speed of the Porsche 959?",
+    "answer": "317 km/h"
   },
   {
     "question": "What is the type of engine with a rotating piston called?",
@@ -940,6 +984,10 @@
     "answer": "Night vision"
   },
   {
+    "question": "What technology allows a car to interact with other vehicles?",
+    "answer": "V2V communication"
+  },
+  {
     "question": "What technology allows cars to exchange data?",
     "answer": "V2V"
   },
@@ -970,6 +1018,10 @@
   {
     "question": "What type of battery is most commonly used in modern hybrid cars?",
     "answer": "Lithium-ion"
+  },
+  {
+    "question": "What type of cars are used in Formula E races?",
+    "answer": "Electric cars"
   },
   {
     "question": "What type of charging is the fastest for electric vehicles?",
@@ -1051,8 +1103,16 @@
     "answer": "Duryea Motor Wagon"
   },
   {
+    "question": "What was the name of the first BMW model?",
+    "answer": "BMW 3/15"
+  },
+  {
     "question": "What was the name of the first Ferrari model?",
     "answer": "125 S"
+  },
+  {
+    "question": "What was the name of the first Japanese car that gained popularity?",
+    "answer": "Toyota Crown"
   },
   {
     "question": "What was the name of the first Maserati sports car?",
@@ -1153,6 +1213,10 @@
   {
     "question": "Where does the famous Pikes Peak race take place?",
     "answer": "USA"
+  },
+  {
+    "question": "Where is it especially important not to mix up your hands on the steering wheel?",
+    "answer": "On the highway"
   },
   {
     "question": "Which BMW car became popular among racers in the 1970s?",
@@ -1289,6 +1353,10 @@
   {
     "question": "Which car component reduces aerodynamic drag?",
     "answer": "Body kit"
+  },
+  {
+    "question": "Which car is called the 'turbo legend'?",
+    "answer": "Nissan Skyline"
   },
   {
     "question": "Which car is considered the most successful in WRC history?",
@@ -1458,6 +1526,10 @@
   {
     "question": "Which component of a car controls the turbo pressure?",
     "answer": "Boost controller"
+  },
+  {
+    "question": "Which component of a car is responsible for removing exhaust gases?",
+    "answer": "Exhaust manifold"
   },
   {
     "question": "Which component of the ignition system transforms voltage?",
@@ -1641,6 +1713,10 @@
   {
     "question": "Which part is replaced when there is noise in the suspension?",
     "answer": "Shock absorber"
+  },
+  {
+    "question": "Which part needs to be replaced when there is noise in the suspension?",
+    "answer": "Bushings"
   },
   {
     "question": "Which part of a motorcycle's braking system is critically important?",

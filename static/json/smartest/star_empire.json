@@ -32,6 +32,10 @@
     "answer": "Doubt in the dark side"
   },
   {
+    "question": "How did Han Solo demonstrate his strategic genius during the Battle of Yavin?",
+    "answer": "Saving Luke"
+  },
+  {
     "question": "How did Jedi training methods change after the Clone Wars?",
     "answer": "Became secretive"
   },
@@ -78,6 +82,10 @@
   {
     "question": "How did Yoda perceive Vader after his fall?",
     "answer": "Palpatine's apprentice"
+  },
+  {
+    "question": "How did Yoda perceive training Luke?",
+    "answer": "A challenge"
   },
   {
     "question": "How did the Clone Wars affect the political structure of the Republic?",
@@ -166,6 +174,10 @@
   {
     "question": "How do Mandalorians pass on their traditions to new generations?",
     "answer": "Through training"
+  },
+  {
+    "question": "How do Mandalorians protect their culture amidst intergalactic conflicts?",
+    "answer": ""
   },
   {
     "question": "How do Mandalorians train new warriors?",
@@ -267,6 +279,18 @@
     "answer": "Technology"
   },
   {
+    "question": "How does Darkseid train his troops for war?",
+    "answer": "Harsh discipline"
+  },
+  {
+    "question": "How does Darkseid use the Omega Beams?",
+    "answer": ""
+  },
+  {
+    "question": "How does Doctor Fate acquire his magical abilities?",
+    "answer": ""
+  },
+  {
     "question": "How does Lex Luthor assess the risks of his actions?",
     "answer": "carefully"
   },
@@ -291,6 +315,10 @@
     "answer": ""
   },
   {
+    "question": "How does magic interact with the forces of nature in DC?",
+    "answer": "Enhances the elements"
+  },
+  {
     "question": "How does the Dark Side affect social connections?",
     "answer": "Severs relationships"
   },
@@ -303,6 +331,14 @@
     "answer": "Manipulation of fear"
   },
   {
+    "question": "How does the Flash affect the multiverse when altering timelines?",
+    "answer": "Domino effect"
+  },
+  {
+    "question": "How does the Flash interact with other speedsters thanks to the Speed Force?",
+    "answer": "Synchronization"
+  },
+  {
     "question": "How does the Flash protect temporal integrity?",
     "answer": "Minimizes interference"
   },
@@ -313,6 +349,10 @@
   {
     "question": "How does the Joker use society's fears to achieve his goals?",
     "answer": "Psychological terror"
+  },
+  {
+    "question": "How does the Joker usually laugh?",
+    "answer": "Ha-ha-ha"
   },
   {
     "question": "How does the dark side affect personality?",
@@ -337,6 +377,10 @@
   {
     "question": "How does the dark side promise accelerated growth of power?",
     "answer": "Through anger"
+  },
+  {
+    "question": "How does the symbiosis of technology and tradition manifest in Batman's actions?",
+    "answer": "Gadgets, martial arts"
   },
   {
     "question": "How is 'Wookiee' translated?",
@@ -407,6 +451,10 @@
     "answer": "Disney"
   },
   {
+    "question": "What Force ability allows one to see the future?",
+    "answer": "Foresight"
+  },
+  {
     "question": "What Force management tactic did Yoda prefer?",
     "answer": "Balance tactic"
   },
@@ -437,6 +485,10 @@
     "answer": "Soul merging"
   },
   {
+    "question": "What ability allows Superman to fly?",
+    "answer": ""
+  },
+  {
     "question": "What ability characterizes the masters of the Dark Side?",
     "answer": "Force Lightning"
   },
@@ -463,6 +515,10 @@
   {
     "question": "What ability is used to suppress the will of an opponent?",
     "answer": "Force Dominate"
+  },
+  {
+    "question": "What actions did Darth Vader take that led to the destruction of the Jedi Order?",
+    "answer": "Order 66"
   },
   {
     "question": "What advantage can the Sith use to destabilize an opponent?",
@@ -495,6 +551,14 @@
   {
     "question": "What ancient conflict led to the split between the Jedi and the Sith?",
     "answer": "Sith War"
+  },
+  {
+    "question": "What animal symbolizes the strength of the Mandalorians?",
+    "answer": "Mythosaur"
+  },
+  {
+    "question": "What approach did Yoda use to achieve harmony in the Force?",
+    "answer": "Balance"
   },
   {
     "question": "What approach does Yoda use in managing the Force?",
@@ -572,8 +636,20 @@
     "answer": "Kessel"
   },
   {
+    "question": "What challenge does Superman often overcome while protecting humanity?",
+    "answer": "Ethical conflict"
+  },
+  {
+    "question": "What challenge was decisive for Luke in his becoming a Jedi?",
+    "answer": "Battle with Vader"
+  },
+  {
     "question": "What characteristic makes Chewbacca stand out among other Wookiees?",
     "answer": "High intelligence"
+  },
+  {
+    "question": "What childhood event highlights Joker's transition to villainy?",
+    "answer": "Childhood trauma"
   },
   {
     "question": "What choice was decisive for Luke in the fight against darkness?",
@@ -608,6 +684,10 @@
     "answer": ""
   },
   {
+    "question": "What creature guards the magical gates in DC Comics?",
+    "answer": "Gargoyle"
+  },
+  {
     "question": "What cultural concept of the Mandalorians influences their social structure?",
     "answer": "Clan system"
   },
@@ -618,6 +698,14 @@
   {
     "question": "What decision by Leia changed the course of the Galactic Civil War?",
     "answer": "Supporting the Rebels"
+  },
+  {
+    "question": "What decision of Luke Skywalker influenced the fate of the Jedi?",
+    "answer": "Training new Jedi"
+  },
+  {
+    "question": "What defensive tool do Jedi use against blasters?",
+    "answer": "Lightsabers"
   },
   {
     "question": "What determines the shape and structure of a galaxy?",
@@ -638,6 +726,10 @@
   {
     "question": "What device is used to jam a ship's navigation system?",
     "answer": "Jammer"
+  },
+  {
+    "question": "What did Darth Vader pay special attention to in the training of the Sith?",
+    "answer": "The power of the Force"
   },
   {
     "question": "What did the ancient Sith alchemists study?",
@@ -680,6 +772,10 @@
     "answer": "Intuition"
   },
   {
+    "question": "What element is used to fight Parallax?",
+    "answer": "Green energy"
+  },
+  {
     "question": "What element of communication distinguishes Chewbacca from other characters?",
     "answer": "Growling"
   },
@@ -716,12 +812,28 @@
     "answer": "Battle on Mustafar"
   },
   {
+    "question": "What event in the character's life became the catalyst for his feud with the superhero from Krypton?",
+    "answer": "Catastrophe"
+  },
+  {
+    "question": "What event is the Jedi teaching based on?",
+    "answer": "Mysteries of the Force"
+  },
+  {
     "question": "What event led to the change in the social structure of the Mandalorians?",
     "answer": "Civil war"
   },
   {
+    "question": "What event led to the creation of the first Robin?",
+    "answer": ""
+  },
+  {
     "question": "What event led to the disappearance of the ancient Sith?",
     "answer": "Galactic War"
+  },
+  {
+    "question": "What event led to the disbandment of the Justice League and its subsequent reformation?",
+    "answer": ""
   },
   {
     "question": "What event led to the revelation of Luke Skywalker's parentage?",
@@ -816,6 +928,10 @@
     "answer": "Learning about her father"
   },
   {
+    "question": "What event was key in Leia's decision to help the rebels?",
+    "answer": ""
+  },
+  {
     "question": "What event was key in the history of the emergence of the Jedi?",
     "answer": "Crisis"
   },
@@ -884,6 +1000,14 @@
   {
     "question": "What fighting style was the basis of Luke's skill in the final duel on the Death Star?",
     "answer": "Djem So"
+  },
+  {
+    "question": "What force can temporarily block the abilities of all members of the Justice League?",
+    "answer": "Black energy"
+  },
+  {
+    "question": "What forces power the Green Lantern's ring?",
+    "answer": "Willpower"
   },
   {
     "question": "What goal united Han and Chewbacca after leaving the Empire?",
@@ -972,6 +1096,10 @@
   {
     "question": "What influence did Yoda have on the Jedi Council?",
     "answer": "Moral compass"
+  },
+  {
+    "question": "What influence does the Joker have on his followers?",
+    "answer": "Manipulation"
   },
   {
     "question": "What information did Obi-Wan relay to the Jedi Council after his mission on Geonosis?",
@@ -1082,12 +1210,20 @@
     "answer": "B2"
   },
   {
+    "question": "What is the moral foundation of the Corps?",
+    "answer": "Code of Honor"
+  },
+  {
     "question": "What is the most powerful trait of the Dark Side?",
     "answer": ""
   },
   {
     "question": "What is the most studied object in the Andromeda Galaxy?",
     "answer": "Globular cluster"
+  },
+  {
+    "question": "What is the name of Aquaman's hometown on land?",
+    "answer": "Amnesty Bay"
   },
   {
     "question": "What is the name of the Jedi code?",
@@ -1102,8 +1238,16 @@
     "answer": "Death Star"
   },
   {
+    "question": "What is the name of the fictional underwater kingdom?",
+    "answer": ""
+  },
+  {
     "question": "What is the name of the founder of the Sinestro Corps?",
     "answer": "Sinestro"
+  },
+  {
+    "question": "What is the name of the group of Flash's enemies?",
+    "answer": "Rogues Gallery"
   },
   {
     "question": "What is the name of the homeland of the Amazons in the comics?",
@@ -1178,6 +1322,10 @@
     "answer": "Energy Duplicate"
   },
   {
+    "question": "What is the true purpose of the artifact used to control the Enchantress?",
+    "answer": "Enhancing power"
+  },
+  {
     "question": "What issues did Darth Vader have with the technologies of his suit?",
     "answer": ""
   },
@@ -1238,6 +1386,14 @@
     "answer": "Balance of the Force"
   },
   {
+    "question": "What lesson became critically important for Luke in his fight against the dark side?",
+    "answer": "Emotional control"
+  },
+  {
+    "question": "What lesson did Luke learn from his mistakes on the path of a Jedi?",
+    "answer": "Humility"
+  },
+  {
     "question": "What lighting technique was used to create atmosphere in painting?",
     "answer": "Rembrandt"
   },
@@ -1256,6 +1412,10 @@
   {
     "question": "What material is used to create a lightsaber in 'Star Wars'?",
     "answer": "Kyber crystals"
+  },
+  {
+    "question": "What material provides armor with high resistance?",
+    "answer": "Beskar"
   },
   {
     "question": "What material was used to create the armor of clone troopers in 'Star Wars'?",
@@ -1312,6 +1472,10 @@
   {
     "question": "What methods did the Empire use to control information?",
     "answer": "Censorship and propaganda"
+  },
+  {
+    "question": "What methods does Lex Luthor use to achieve success in the technology business?",
+    "answer": "Innovation"
   },
   {
     "question": "What methods does Lex Luthor use to hide his true intentions in public activities?",
@@ -1422,6 +1586,10 @@
     "answer": "Peace vs power"
   },
   {
+    "question": "What philosophical principle is characteristic of the Sith?",
+    "answer": ""
+  },
+  {
     "question": "What philosophical principle of Darth Vader contradicted the Jedi teachings?",
     "answer": "Power through fear"
   },
@@ -1444,6 +1612,10 @@
   {
     "question": "What place does martial arts hold in Mandalorian culture?",
     "answer": "Primary occupation"
+  },
+  {
+    "question": "What place empowered the heroine Violet Harper from the 'Justice League'?",
+    "answer": "Sangvin"
   },
   {
     "question": "What place held symbolic significance for Darth Vader?",
@@ -1603,6 +1775,10 @@
     "answer": "True parentage"
   },
   {
+    "question": "What ritual do Mandalorians perform to join a clan?",
+    "answer": ""
+  },
+  {
     "question": "What role did Darth Vader play in the Empire?",
     "answer": ""
   },
@@ -1651,12 +1827,24 @@
     "answer": "Main base"
   },
   {
+    "question": "What role does the Fortress of Solitude play in Superman's life on Earth?",
+    "answer": "Repository of knowledge"
+  },
+  {
     "question": "What role does the Speed Force play in the Flash comics?",
     "answer": "Energy source"
   },
   {
+    "question": "What role does the central battery on Oa play?",
+    "answer": ""
+  },
+  {
     "question": "What role was assigned to the Jedi Council in galactic conflicts?",
     "answer": "Peacekeepers"
+  },
+  {
+    "question": "What secret knowledge is stored in the ancient manuscripts of Atlantis?",
+    "answer": "History of magic"
   },
   {
     "question": "What secret mission led to a clash between bounty hunters and the Resistance?",
@@ -1804,6 +1992,10 @@
   {
     "question": "What style did the Jedi prefer for defense?",
     "answer": "Soresu"
+  },
+  {
+    "question": "What symbol adorns Wonder Woman's armor, reflecting her heritage?",
+    "answer": "Golden crown"
   },
   {
     "question": "What symbol unites the Mandalorians in their struggle?",
@@ -2013,6 +2205,14 @@
     "answer": "Anger"
   },
   {
+    "question": "What traits make Lex Luthor a dangerous opponent?",
+    "answer": "Intellect"
+  },
+  {
+    "question": "What trial did Chewbacca overcome to earn respect?",
+    "answer": "Life Debt"
+  },
+  {
     "question": "What trial does Yoda conduct for the Jedi?",
     "answer": "Cave"
   },
@@ -2093,6 +2293,10 @@
     "answer": "The Force"
   },
   {
+    "question": "What unique detective skill does Batman possess that allows him to solve complex cases?",
+    "answer": "Intuition"
+  },
+  {
     "question": "What unique skill helped Han evade captors?",
     "answer": "Piloting"
   },
@@ -2161,6 +2365,10 @@
     "answer": "Red Five"
   },
   {
+    "question": "What was Luke's dearest wish?",
+    "answer": "Peace in the galaxy"
+  },
+  {
     "question": "What was Obi-Wan's main tactical objective in the Battle of Coruscant?",
     "answer": ""
   },
@@ -2171,6 +2379,10 @@
   {
     "question": "What was the goal of the Mandalorians in their military campaigns?",
     "answer": "Conquest"
+  },
+  {
+    "question": "What was the impact of the Clone Wars on the morale of the population?",
+    "answer": "Pessimism"
   },
   {
     "question": "What was the key role for the first Jedi leaders?",
@@ -2264,6 +2476,10 @@
     "answer": "Bowcaster"
   },
   {
+    "question": "What weapon does Darkseid use?",
+    "answer": "Omega Beams"
+  },
+  {
     "question": "What weapon does the Techno Union use?",
     "answer": "Plasma rifle"
   },
@@ -2290,6 +2506,10 @@
   {
     "question": "What were the main principles of Darth Vader's life after joining the Sith?",
     "answer": "Power and strength"
+  },
+  {
+    "question": "What world is the source of power for the members of the Violet Corps?",
+    "answer": "Zamaron"
   },
   {
     "question": "When was the 'Fior' technique first used?",
@@ -2330,6 +2550,10 @@
   {
     "question": "Which DC villain seeks to destroy worlds using the power of antimatter?",
     "answer": "Anti-Monitor"
+  },
+  {
+    "question": "Which DC villain seeks world domination through technology?",
+    "answer": "Lex Luthor"
   },
   {
     "question": "Which DC villain uses technology to control the minds of others?",
@@ -2400,6 +2624,10 @@
     "answer": "Magneto"
   },
   {
+    "question": "Which Sith became known as the Emperor's apprentice and wore black attire?",
+    "answer": "Darth Vader"
+  },
+  {
     "question": "Which Sith controlled Mandalore?",
     "answer": "Maul"
   },
@@ -2463,6 +2691,22 @@
     "answer": ""
   },
   {
+    "question": "Which Star Wars episode was filmed under a code name?",
+    "answer": "Episode VI"
+  },
+  {
+    "question": "Which Star Wars film was the first to use 3D technology?",
+    "answer": "Attack of the Clones"
+  },
+  {
+    "question": "Which Wookiee was a friend of Chewbacca?",
+    "answer": "Tarfful"
+  },
+  {
+    "question": "Which actor played Superman in the 2013 movie?",
+    "answer": ""
+  },
+  {
     "question": "Which ancient artifact is associated with the origin of the Jedi?",
     "answer": "Kyber Crystal"
   },
@@ -2485,6 +2729,10 @@
   {
     "question": "Which artifact enhances the abilities of a Spellcaster?",
     "answer": "Chronos Crystal"
+  },
+  {
+    "question": "Which artifact grants Aquaman his power?",
+    "answer": "Trident"
   },
   {
     "question": "Which artifact protects against darkness?",
@@ -2537,6 +2785,10 @@
   {
     "question": "Which bounty hunter alliance attempted to seize key planets of the Republic?",
     "answer": "Shadow Syndicate"
+  },
+  {
+    "question": "Which bounty hunter became famous for hunting smugglers?",
+    "answer": "Dengar"
   },
   {
     "question": "Which bounty hunter escaped from the largest prison of the Empire?",
@@ -2594,6 +2846,10 @@
     "answer": "Dengar"
   },
   {
+    "question": "Which bounty hunter managed to integrate ancient technologies into their operations?",
+    "answer": ""
+  },
+  {
     "question": "Which bounty hunter owned artifacts from ancient civilizations?",
     "answer": "Cad Bane"
   },
@@ -2626,6 +2882,10 @@
     "answer": "Cad Bane"
   },
   {
+    "question": "Which bounty hunter used explosives?",
+    "answer": "Dengar"
+  },
+  {
     "question": "Which bounty hunter used illusion tricks to capture targets?"
   },
   {
@@ -2648,6 +2908,10 @@
     "answer": ""
   },
   {
+    "question": "Which celestial body in DC is mentioned as the historical cradle for one of Earth's greatest defenders?",
+    "answer": "Krypton"
+  },
+  {
     "question": "Which celestial body in the Solar System has the greatest mass?",
     "answer": "The Sun"
   },
@@ -2668,6 +2932,10 @@
     "answer": "Tim Drake"
   },
   {
+    "question": "Which character in 'Suicide Squad' has stealth infiltration skills?",
+    "answer": "Deadshot"
+  },
+  {
     "question": "Which character is known for their strategic manipulations to dominate the world?",
     "answer": "Lex Luthor"
   },
@@ -2678,6 +2946,10 @@
   {
     "question": "Which character led the creation of the Galactic Empire?",
     "answer": "Emperor Palpatine"
+  },
+  {
+    "question": "Which character used unique armor for protection against superhuman threats?",
+    "answer": "Batman"
   },
   {
     "question": "Which character uses a flamethrower in the team?",
@@ -2698,6 +2970,10 @@
   {
     "question": "Which clone was distinguished from others by independent thinking?",
     "answer": "Captain Rex"
+  },
+  {
+    "question": "Which comic became pivotal in the development of the Joker character in 1988?",
+    "answer": "The Killing Joke"
   },
   {
     "question": "Which company was involved in the production and distribution of the original films?",
@@ -2753,6 +3029,10 @@
     "question": "Which device provides an advantage in battle by distorting the opponent's perception?"
   },
   {
+    "question": "Which director made the original 'Star Wars' trilogy?",
+    "answer": "George Lucas"
+  },
+  {
     "question": "Which droid became an important part of the Separatists' operation?",
     "answer": "General Grievous"
   },
@@ -2797,6 +3077,10 @@
     "answer": "Palpatine"
   },
   {
+    "question": "Which enemy uses musical motifs?",
+    "answer": ""
+  },
+  {
     "question": "Which entity embodies the balance of the Force?",
     "answer": ""
   },
@@ -2821,6 +3105,14 @@
     "answer": "'The Hidden Fortress'"
   },
   {
+    "question": "Which film was the first to be shot in IMAX format?",
+    "answer": "The Hidden Threat"
+  },
+  {
+    "question": "Which film was the first to include battle scenes created using CGI?",
+    "answer": "The Phantom Menace"
+  },
+  {
     "question": "Which film was the first to use Pre-Visualization technology?",
     "answer": ""
   },
@@ -2841,6 +3133,10 @@
     "answer": "Star Wars: A New Hope"
   },
   {
+    "question": "Which film was the first to use the method of previsualization for planning scenes?",
+    "answer": ""
+  },
+  {
     "question": "Which fleet served the Empire?",
     "answer": "Imperial Fleet"
   },
@@ -2851,6 +3147,10 @@
   {
     "question": "Which general led the separatist forces in many battles?",
     "answer": "General Grievous"
+  },
+  {
+    "question": "Which gods participated in the creation of Themyscira?",
+    "answer": "Athena and Hera"
   },
   {
     "question": "Which group of Jedi specializes in diplomacy?",
@@ -2868,6 +3168,10 @@
     "answer": "Sith War"
   },
   {
+    "question": "Which hunter had unique armor modifications?",
+    "answer": "Zuckuss"
+  },
+  {
     "question": "Which internal struggle of Anakin had the greatest impact on the Skywalker dynasty?",
     "answer": "Fear of loss"
   },
@@ -2878,6 +3182,10 @@
   {
     "question": "Which key element of the Dark Side of the Force is inclined to subjugate the will of others?",
     "answer": "Mind manipulation"
+  },
+  {
+    "question": "Which kingdom is associated with the story of the defenders of an ancient civilization?",
+    "answer": "Atlantis"
   },
   {
     "question": "Which legendary ship participated in the Battle of Yavin?",
@@ -2896,6 +3204,10 @@
     "answer": "Mace Windu"
   },
   {
+    "question": "Which member of the Justice League has telepathic and teleportation abilities?",
+    "answer": "Martian Manhunter"
+  },
+  {
     "question": "Which member of the Justice League has the ability to time travel without using artifacts?",
     "answer": "The Flash"
   },
@@ -2906,6 +3218,10 @@
   {
     "question": "Which mysterious planet did Koriand'r leave to join Earth?",
     "answer": "Tamaran"
+  },
+  {
+    "question": "Which mystical creature tried to absorb the powers of the League for its own benefit?",
+    "answer": "Morningstar"
   },
   {
     "question": "Which natural phenomenon became a symbol in the teachings of the first Jedi?",
@@ -2922,6 +3238,14 @@
   {
     "question": "Which of Batman's allies is known for his role in the Gotham City Police Department?",
     "answer": ""
+  },
+  {
+    "question": "Which of Batman's sidekicks is a martial arts expert?",
+    "answer": "Cassandra Cain"
+  },
+  {
+    "question": "Which of Batman's sidekicks uses the alias Spoiler?",
+    "answer": "Stephanie Brown"
   },
   {
     "question": "Which of Batman's sidekicks was part of 'Young Justice'?",
@@ -2978,6 +3302,10 @@
   {
     "question": "Which philosophical concept forms the basis of Jedi ethics?",
     "answer": "Zen Buddhism"
+  },
+  {
+    "question": "Which philosophical doctrine is most closely aligned with Batman's ethical code?",
+    "answer": ""
   },
   {
     "question": "Which philosophical principle allowed Darth Vader to justify his actions?",
@@ -3040,7 +3368,15 @@
     "answer": "Kamino"
   },
   {
+    "question": "Which planet was the place of exile for the last Sith?",
+    "answer": "Exegol"
+  },
+  {
     "question": "Which political figure played a key role in the transition of the Republic into the Galactic Empire?",
+    "answer": "Palpatine"
+  },
+  {
+    "question": "Which political leader played a significant role in igniting the conflict of the Clone Wars?",
     "answer": "Palpatine"
   },
   {
@@ -3052,8 +3388,20 @@
     "answer": "Vortixx"
   },
   {
+    "question": "Which scientist became Batman's arch-enemy?",
+    "answer": "Hugo Strange"
+  },
+  {
+    "question": "Which sector of the galaxy produced Jordan?",
+    "answer": "2814"
+  },
+  {
     "question": "Which ship is often associated with bounty hunters?",
     "answer": ""
+  },
+  {
+    "question": "Which spell in the DC universe aids in restoring balance?",
+    "answer": "Elemental Balance"
   },
   {
     "question": "Which star in the Milky Way has the highest luminosity?",
@@ -3072,6 +3420,10 @@
     "answer": "Synchronia"
   },
   {
+    "question": "Which star symbolizes wisdom in the Jedi teachings?",
+    "answer": "Star of Wisdom"
+  },
+  {
     "question": "Which studio animated the droids?",
     "answer": "ILM"
   },
@@ -3086,6 +3438,14 @@
   {
     "question": "Which superhero from the Batman universe is known for his martial arts skills and detective abilities?",
     "answer": ""
+  },
+  {
+    "question": "Which superhero from the Justice League uses a power ring to create objects?",
+    "answer": "Green Lantern"
+  },
+  {
+    "question": "Which superhero most often opposes Darkseid?",
+    "answer": "Superman"
   },
   {
     "question": "Which teacher passed on the knowledge of the Force to the Sith?",
@@ -3116,6 +3476,14 @@
     "answer": "Grand Moff Tarkin"
   },
   {
+    "question": "Which villain from the DC universe has the ability to alter reality at will?",
+    "answer": "Mxyzptlk"
+  },
+  {
+    "question": "Which villain from the DC universe is capable of hypnotizing and manipulating minds?",
+    "answer": "Psi"
+  },
+  {
     "question": "Which villain from the DC universe is known for their manipulations with poisons?",
     "answer": "Poison Ivy"
   },
@@ -3130,6 +3498,10 @@
   {
     "question": "Which villain is known for having a split personality, often depicted as two opposites?",
     "answer": "Two-Face"
+  },
+  {
+    "question": "Which villain is known for their scientific experiments?",
+    "answer": "Doctor Sivana"
   },
   {
     "question": "Which villain manipulates reality using a mystical helmet?",
@@ -3232,12 +3604,20 @@
     "answer": ""
   },
   {
+    "question": "Who in the Justice League is nicknamed \"The Fastest Man Alive\"?",
+    "answer": "The Flash"
+  },
+  {
     "question": "Who inspired Han Solo to become a smuggler?",
     "answer": "Galactic swindler"
   },
   {
     "question": "Who introduced the use of the Makashi style among the Jedi?",
     "answer": ""
+  },
+  {
+    "question": "Who is Yoda's apprentice in the original trilogy?",
+    "answer": "Luke"
   },
   {
     "question": "Who is Zatanna's magical mentor?",
@@ -3294,6 +3674,10 @@
   {
     "question": "Who used ancient technology to capture targets?",
     "answer": "Embo"
+  },
+  {
+    "question": "Who used the 'Option B' strategy in a duel?",
+    "answer": ""
   },
   {
     "question": "Who used unorthodox fencing methods in the battle with Palpatine?",
@@ -3360,6 +3744,10 @@
     "answer": "Darth Maul"
   },
   {
+    "question": "Who was the first friend of Luke Skywalker?",
+    "answer": ""
+  },
+  {
     "question": "Who was the first to use the Ataru fighting form?",
     "answer": "Yoda"
   },
@@ -3382,6 +3770,10 @@
   {
     "question": "Who were trained by the ancient Jedi?",
     "answer": "Mirialans"
+  },
+  {
+    "question": "Who wore the Red Hood mantle before the Joker?",
+    "answer": "Jason Todd"
   },
   {
     "question": "Whom did Obi-Wan warn about the death of their mother?",
