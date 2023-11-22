@@ -8,6 +8,26 @@
     "answer": "Mjölnir"
   },
   {
+    "question": "What bus number in 'Avengers: Infinity War' refers to Spider-Man's debut?",
+    "answer": "1962"
+  },
+  {
+    "question": "What challenge was key to regaining lost abilities?",
+    "answer": "Battle with an enemy"
+  },
+  {
+    "question": "What change in consciousness led to a significant turning point in the character's fate?",
+    "answer": "Reevaluation of goals"
+  },
+  {
+    "question": "What cosmic threat did Hulk face in the battle for Earth?",
+    "answer": "Chitauri"
+  },
+  {
+    "question": "What dimension is opposed to the world of wizards?",
+    "answer": "Dark"
+  },
+  {
     "question": "What do magicians in Marvel use to create illusions?",
     "answer": "Illusory charms"
   },
@@ -20,8 +40,32 @@
     "answer": ""
   },
   {
+    "question": "What event initiated the 'Secret Wars'?",
+    "answer": "Conflict with the Beyonder"
+  },
+  {
+    "question": "What event led to the creation of an alternate version of Iron Man?",
+    "answer": "War with Thanos"
+  },
+  {
+    "question": "What event led to the creation of the alternate reality 'Days of Future Past'?",
+    "answer": "The assassination of a senator"
+  },
+  {
+    "question": "What event reunited the Avengers after the 'Civil War'?",
+    "answer": "The return of Captain America"
+  },
+  {
+    "question": "What event was key to reuniting the Avengers after their disbandment?",
+    "answer": "The appearance of Thanos"
+  },
+  {
     "question": "What is the device called that allows travel to alternate worlds?",
     "answer": "Negative Zone Portal"
+  },
+  {
+    "question": "What is the name of Colossus's sister?",
+    "answer": ""
   },
   {
     "question": "What is the name of Falcon's daughter?",
@@ -48,12 +92,52 @@
     "answer": "Sigurd's Shield"
   },
   {
+    "question": "What power in Marvel allows a sorcerer to see distorted time?",
+    "answer": "Chronoscopy"
+  },
+  {
+    "question": "What quality helps Ant-Man overcome difficulties?",
+    "answer": "Resourcefulness"
+  },
+  {
+    "question": "What role does Shuri play in Wakandan society?",
+    "answer": "Inventor"
+  },
+  {
+    "question": "What role does the mutant Nightcrawler play in the team?",
+    "answer": "Teleportation"
+  },
+  {
+    "question": "What scientific project led to the team gaining superpowers?",
+    "answer": "Space flight"
+  },
+  {
+    "question": "What ship is used by the heroes for space travel?",
+    "answer": ""
+  },
+  {
     "question": "What skill did Thor master thanks to Odin?",
     "answer": "Strategy"
   },
   {
+    "question": "What strategy does the hero use to explore new worlds?",
+    "answer": "Exploratory"
+  },
+  {
+    "question": "What technology did the Fantastic Four use to create a protective field around the Earth?",
+    "answer": "Omega Shield"
+  },
+  {
     "question": "What title does Deadpool hold among mercenaries?",
     "answer": "Merc with a Mouth"
+  },
+  {
+    "question": "Which Deadpool comic series has the most issues?",
+    "answer": "Deadpool Vol. 1"
+  },
+  {
+    "question": "Which Marvel character appears as a statue in the arena in the movie 'Thor: Ragnarok'?",
+    "answer": ""
   },
   {
     "question": "Which Marvel character used alchemy to create an army of creatures?",
@@ -64,28 +148,128 @@
     "answer": "Ares"
   },
   {
+    "question": "Which Marvel villain attempted to alter the course of time to prevent their own defeat?",
+    "answer": "Kang"
+  },
+  {
+    "question": "Which Marvel villain attempted to use radiation as a weapon against the Hulk?",
+    "answer": "The Leader"
+  },
+  {
+    "question": "Which Marvel villain has the ability to alter his molecular structure and is a longtime enemy of the Fantastic Four?",
+    "answer": "Molecule Man"
+  },
+  {
     "question": "Which Marvel villain used technology to clone superheroes?",
     "answer": "High Evolutionary"
+  },
+  {
+    "question": "Which Marvel villain wanted to team up with other versions of himself to conquer the multiverse?",
+    "answer": "Kang"
   },
   {
     "question": "Which character created a spell to protect Earth from magical threats?",
     "answer": "The Ancient One"
   },
   {
+    "question": "Which character is a cyborg?",
+    "answer": "Nebula"
+  },
+  {
+    "question": "Which character is known as The Thing?",
+    "answer": "Ben Grimm"
+  },
+  {
+    "question": "Which character often leads the team into battle?",
+    "answer": "Captain America"
+  },
+  {
     "question": "Which character possesses intelligence beyond human limits?",
     "answer": "Mister Fantastic"
+  },
+  {
+    "question": "Which comic book supervillain created a cult in New York City?",
+    "answer": "Carnage"
   },
   {
     "question": "Which comic led Captain America to fight against his allies?",
     "answer": "Civil War"
   },
   {
+    "question": "Which comic marks the first meeting of Deadpool with Spider-Man?",
+    "answer": "Spider-Man #10"
+  },
+  {
+    "question": "Which decorative element in the movie 'Black Panther' references the comics?",
+    "answer": "totem"
+  },
+  {
+    "question": "Which dimension did they explore first?",
+    "answer": "Negative Zone"
+  },
+  {
+    "question": "Which enemy uses time manipulation to alter the course of history?",
+    "answer": "Immortus"
+  },
+  {
     "question": "Which magical alliance maintains the balance between dimensions?",
     "answer": "Sorokers"
   },
   {
+    "question": "Which member of the Avengers team was the first to meet Captain America after his awakening in the modern world?",
+    "answer": "Nick Fury"
+  },
+  {
+    "question": "Which musical instrument plays an important role in the movie 'Captain America: The First Avenger'?",
+    "answer": "Guitar"
+  },
+  {
+    "question": "Which organization opposes magical threats?",
+    "answer": "S.H.I.E.L.D."
+  },
+  {
+    "question": "Which organization was hunting Deadpool?",
+    "answer": "Weapon X"
+  },
+  {
+    "question": "Which powers were enhanced after 'M-Day'?",
+    "answer": "Telekinesis"
+  },
+  {
+    "question": "Which storyline involves Peter Parker in an intergalactic conflict?",
+    "answer": ""
+  },
+  {
+    "question": "Which superhero became the leader of the Avengers after Steve Rogers left?",
+    "answer": "Falcon"
+  },
+  {
+    "question": "Which superhero has the ability of accelerated healing and was part of the 'Weapon X' program?",
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Which superhero joined the Avengers team last in the original comics?",
+    "answer": "Captain America"
+  },
+  {
+    "question": "Which superhero mentored Peter Parker in 'Civil War'?",
+    "answer": "Iron Man"
+  },
+  {
     "question": "Which superhero possesses magical abilities?",
     "answer": "Doctor Strange"
+  },
+  {
+    "question": "Which technologies were critical for defeating Ultron?",
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "Which technology company created the armored suit for Spider-Man?",
+    "answer": "Stark Industries"
+  },
+  {
+    "question": "Which version of Spider-Man is from universe 1610?",
+    "answer": "Ultimate"
   },
   {
     "question": "Which villain used their ability to manipulate sonic energy to fight heroes?",
@@ -96,8 +280,20 @@
     "answer": ""
   },
   {
+    "question": "Which villain was created to fight Spider-Man through genetic experiments?",
+    "answer": "Carnage"
+  },
+  {
+    "question": "Which villain was the first to discover Peter Parker's identity?",
+    "answer": "Green Goblin"
+  },
+  {
     "question": "Who became T'Challa's enemy in the battle for the throne of Wakanda?",
     "answer": "Killmonger"
+  },
+  {
+    "question": "Who became the enemy after 'One More Day'?",
+    "answer": "Mephisto"
   },
   {
     "question": "Who became the leader of the resistance in the 'Age of Apocalypse'?",
@@ -108,7 +304,23 @@
     "answer": "The Avengers"
   },
   {
+    "question": "Who is known for their cunning among the Asgardian gods?",
+    "answer": ""
+  },
+  {
+    "question": "Who is the founder of the Fantastic Four?",
+    "answer": "Reed Richards"
+  },
+  {
     "question": "Who leads Kamar-Taj?",
     "answer": "The Ancient One"
+  },
+  {
+    "question": "Who was Spider-Man's enemy in the 'Secret Wars' crossover?",
+    "answer": "Doctor Doom"
+  },
+  {
+    "question": "Who was the scientific genius who created an artificial intelligence that became a threat to the entire Earth?",
+    "answer": "Hank Pym"
   }
 ]
