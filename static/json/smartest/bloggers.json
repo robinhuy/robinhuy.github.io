@@ -1,5 +1,13 @@
 [
   {
+    "question": "How many episodes are currently in the podcast 'Business Stories'?",
+    "answer": "50"
+  },
+  {
+    "question": "How many hours per week does a top football streamer stream?",
+    "answer": "20 hours"
+  },
+  {
     "question": "How many subscribers does 'Kukhnya Naiznanku' have?",
     "answer": "Pasha Tekhnika"
   },
@@ -32,8 +40,16 @@
     "answer": "Peru"
   },
   {
+    "question": "In which podcast are technologies discussed with humor?",
+    "answer": ""
+  },
+  {
     "question": "In which podcast do they discuss creating startups?",
     "answer": "Startup School"
+  },
+  {
+    "question": "On which channel are kitchen gadget reviews regularly released?",
+    "answer": ""
   },
   {
     "question": "On which device was the first popular podcasting launched?",
@@ -92,12 +108,20 @@
     "answer": ""
   },
   {
+    "question": "What is often discussed in the podcast 'World of Science'?",
+    "answer": "Scientific experiments"
+  },
+  {
     "question": "What is often present in a podcast interview?",
     "answer": "Answers"
   },
   {
     "question": "What is popular for VR streaming?",
     "answer": "Natalya Polyakova"
+  },
+  {
+    "question": "What is the art of photographing nature called?",
+    "answer": ""
   },
   {
     "question": "What is the largest island in the world?",
@@ -136,8 +160,20 @@
     "answer": "xQc"
   },
   {
+    "question": "What is the name of the jazz channel?",
+    "answer": "JazzSphere"
+  },
+  {
     "question": "What is the name of the podcast that tells funny stories about animals?",
     "answer": "Animal Jokes"
+  },
+  {
+    "question": "What is the name of the popular music streamer who often plays the guitar?",
+    "answer": "Sungha Jung"
+  },
+  {
+    "question": "What is the name of the tallest waterfall in the world?",
+    "answer": "Angel Falls"
   },
   {
     "question": "What is the process of darkening and lightening specific areas of the face called?",
@@ -172,12 +208,20 @@
     "answer": "Monthly"
   },
   {
+    "question": "What unique natural phenomenon can be seen in Iceland?",
+    "answer": "Northern Lights"
+  },
+  {
     "question": "What video format is popular for vlogs?",
     "answer": "MP4"
   },
   {
     "question": "What word describes a video that attracts the attention of a wide audience?",
     "answer": "Viral"
+  },
+  {
+    "question": "When did YouTube Live start broadcasting?",
+    "answer": "2008"
   },
   {
     "question": "Which actor directed the film \"Into the Wild\"?",
@@ -196,6 +240,10 @@
     "answer": "Lisa Eldridge"
   },
   {
+    "question": "Which blog debunks musical myths?",
+    "answer": "Musical Myths"
+  },
+  {
     "question": "Which blog is dedicated to learning foreign languages?",
     "answer": "Danil Vetrov"
   },
@@ -206,6 +254,10 @@
   {
     "question": "Which blogger covers topics on healthy eating?",
     "answer": "Anna Smirnova"
+  },
+  {
+    "question": "Which blogger developed the course 'Healthy Back'?",
+    "answer": ""
   },
   {
     "question": "Which blogger discusses digital gadgets?",
@@ -252,6 +304,10 @@
     "answer": "Brandon Truaxe"
   },
   {
+    "question": "Which blogger runs the channel 'Chemistry Made Simple'?",
+    "answer": "Vladimir Sokolov"
+  },
+  {
     "question": "Which blogger shares knowledge about history?",
     "answer": ""
   },
@@ -260,12 +316,24 @@
     "answer": "Thriller"
   },
   {
+    "question": "Which blogger teaches mathematics?",
+    "answer": "Andrey Sidorov"
+  },
+  {
     "question": "Which channel is dedicated to music festivals?",
     "answer": "Festival Chronicle"
   },
   {
+    "question": "Which channel often shares soup recipes?",
+    "answer": "Soup TV"
+  },
+  {
     "question": "Which channel talks about ecology?",
     "answer": "Ecozone"
+  },
+  {
+    "question": "Which country is known for its high-altitude hiking trails?",
+    "answer": "Nepal"
   },
   {
     "question": "Which culinary blogger often shares grill recipes?",
@@ -316,6 +384,10 @@
     "answer": "Night vision camera"
   },
   {
+    "question": "Which podcast includes interviews with successful entrepreneurs?",
+    "answer": "How I Built This"
+  },
+  {
     "question": "Which podcast is dedicated to astrophysics?",
     "answer": "iPod"
   },
@@ -364,6 +436,10 @@
     "answer": "Lingua Blog"
   },
   {
+    "question": "Which streamer is known for their live sessions using a loop station?",
+    "answer": "LoopMaster"
+  },
+  {
     "question": "Which streamer is known for their skill in Valorant?",
     "answer": ""
   },
@@ -382,6 +458,10 @@
   {
     "question": "Which streamer performs live jazz improvisations?",
     "answer": "JazzPlayer"
+  },
+  {
+    "question": "Which streamer previously used the nickname Danil_s?",
+    "answer": ""
   },
   {
     "question": "Which streamer regularly performs piano covers?",
@@ -424,6 +504,14 @@
     "answer": ""
   },
   {
+    "question": "Who hosts the podcast 'Do Business'?",
+    "answer": "Alexey Ivanov"
+  },
+  {
+    "question": "Who hosts the podcast 'Harmony of the Soul'?",
+    "answer": "Natalia Orlova"
+  },
+  {
     "question": "Who hosts the podcast 'Trëkha'?",
     "answer": "Lectures"
   },
@@ -440,6 +528,10 @@
     "answer": "PewDiePie"
   },
   {
+    "question": "Who is known for the channel 'Chef's Breakfast'?",
+    "answer": "Alexey Alexandrov"
+  },
+  {
     "question": "Who is known for their retro looks?",
     "answer": "Lucia Vander"
   },
@@ -450,6 +542,10 @@
   {
     "question": "Who is the author of the 'sand eyes' concept?",
     "answer": ""
+  },
+  {
+    "question": "Who is the author of the blog 'Biology is Interesting'?",
+    "answer": "Maria Zakharova"
   },
   {
     "question": "Who is the creator of the TechnoBuffalo channel?",
