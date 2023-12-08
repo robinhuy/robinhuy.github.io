@@ -1,7 +1,83 @@
 [
   {
+    "question": "How do peptides contribute to skin rejuvenation?",
+    "answer": "Stimulation of tissue reconstruction"
+  },
+  {
+    "question": "How do vitamins C and E affect skin aging?",
+    "answer": "Fight against free radicals"
+  },
+  {
+    "question": "How does chondroitin sulfate affect cartilage tissue?",
+    "answer": "Increases elasticity"
+  },
+  {
+    "question": "How does chronic sleep deprivation affect metabolism?",
+    "answer": "Slowing down"
+  },
+  {
+    "question": "How does vitamin A deficiency affect bones?",
+    "answer": "Increases brittleness"
+  },
+  {
+    "question": "How long does it take for full acclimatization at altitude?",
+    "answer": "1-2 weeks"
+  },
+  {
+    "question": "How to properly combine cosmetic ingredients?",
+    "answer": "Study compatibility"
+  },
+  {
+    "question": "In which processes is niacin (vitamin B3) involved?",
+    "answer": "Energy metabolism"
+  },
+  {
+    "question": "The specificity of T-cells is determined by?",
+    "answer": "TCR receptors"
+  },
+  {
+    "question": "What VO2 max value is considered high for untrained individuals?",
+    "answer": "60 ml/kg"
+  },
+  {
+    "question": "What activities can improve the adaptation of elderly people to climate change?",
+    "answer": "Hardening"
+  },
+  {
+    "question": "What anti-aging treatments are most effective for mature skin?",
+    "answer": "Laser therapy"
+  },
+  {
+    "question": "What are the signs that may indicate the possibility of schizophrenia?",
+    "answer": "Delusions"
+  },
+  {
+    "question": "What biochemical changes occur in the body during an acute stress response?",
+    "answer": "Release of adrenaline"
+  },
+  {
+    "question": "What can random mutations lead to?",
+    "answer": "Genetic diseases"
+  },
+  {
+    "question": "What cellular mechanisms are involved in the development of atherosclerosis?",
+    "answer": "Macrophages"
+  },
+  {
     "question": "What changes are observed in brain activity during REM sleep?",
     "answer": "High cortical activity"
+  },
+  {
+    "question": "What changes in brain structure are most commonly observed in people with obsessive-compulsive disorder?",
+    "answer": "Gray matter abnormalities"
+  },
+  {
+    "question": "What changes occur in hypothalamic activity during stress?",
+    "answer": "Increase"
+  },
+  {
+    "question": "What changes occur in lung tissue with fibrosis?",
+    "answer": "Thickening"
   },
   {
     "question": "What changes occur in protein synthesis during chronic stress?",
@@ -16,6 +92,18 @@
     "answer": "Excess mucus"
   },
   {
+    "question": "What diagnostic methods are used to detect ischemia?",
+    "answer": "Coronary angiography"
+  },
+  {
+    "question": "What dietary approach helps reduce inflammation in elderly people?",
+    "answer": "Antioxidant diet"
+  },
+  {
+    "question": "What does psychodiagnostics include?",
+    "answer": "Personality assessment"
+  },
+  {
     "question": "What does the diagnosis of endogenous moments include?",
     "answer": "Psychodiagnostics"
   },
@@ -24,12 +112,60 @@
     "answer": "Improvement of memory"
   },
   {
+    "question": "What effect does chronic stress have on neurogenesis?",
+    "answer": "Slows down"
+  },
+  {
+    "question": "What effect does chronic stress have on sleep structure?",
+    "answer": "Disrupts"
+  },
+  {
+    "question": "What effect does cortisol have on memory during chronic stress?",
+    "answer": "Impairment"
+  },
+  {
+    "question": "What effect does somatic therapy have on stress?",
+    "answer": "Stress reduction"
+  },
+  {
     "question": "What effect does the suppression of melatonin synthesis have on the body?",
     "answer": "Sleep disruption"
   },
   {
+    "question": "What effects do anabolic workouts have on bone mass?",
+    "answer": "Increase bone mass"
+  },
+  {
+    "question": "What factors help prevent sarcopenia in the elderly?",
+    "answer": "Exercise and proteins"
+  },
+  {
+    "question": "What factors influence the development of phobias?",
+    "answer": "Genetics"
+  },
+  {
+    "question": "What form of vitamin B12 is active?",
+    "answer": "Methylcobalamin"
+  },
+  {
+    "question": "What functions does REM sleep perform?",
+    "answer": "Memory consolidation"
+  },
+  {
+    "question": "What genetic mutations are associated with hypertension?",
+    "answer": "Endothelial mutations"
+  },
+  {
     "question": "What happens to the alveoli in emphysema?",
     "answer": "Stretching"
+  },
+  {
+    "question": "What happens to the bone marrow as it ages, affecting its hematopoietic function?",
+    "answer": "Replacement by adipose tissue"
+  },
+  {
+    "question": "What happens to the brain during chronic sleep deprivation?",
+    "answer": "Cognitive function deterioration"
   },
   {
     "question": "What heart condition can be caused by hypertrophic cardiomyopathy?",
@@ -40,44 +176,308 @@
     "answer": "Hypercortisolism"
   },
   {
+    "question": "What hormonal imbalance leads to the development of obesity and diabetes?",
+    "answer": "Insulin resistance"
+  },
+  {
+    "question": "What hormones are secreted by the anterior pituitary gland?",
+    "answer": "Gonadotropins"
+  },
+  {
+    "question": "What indicates the photodynamic incompatibility of cosmetic components?",
+    "answer": "Burning sensation"
+  },
+  {
+    "question": "What ingredients are ideal for skin prone to rosacea?",
+    "answer": "Flavonoids"
+  },
+  {
+    "question": "What is the disorder called where a person loses the ability to understand and express emotions?",
+    "answer": "Alexithymia"
+  },
+  {
+    "question": "What is the effect of glutamic acid on nerves?",
+    "answer": "Stimulates"
+  },
+  {
     "question": "What is the main active element of cytokine action?",
     "answer": "Immunoregulation"
+  },
+  {
+    "question": "What is the main cause of delayed sleep phase syndrome in teenagers?",
+    "answer": "Hormonal changes"
+  },
+  {
+    "question": "What is the most accurate method for determining skin type?",
+    "answer": "Dermatological analysis"
+  },
+  {
+    "question": "What is the name of the protein that regulates bone mineral density?",
+    "answer": "Osteocalcin"
+  },
+  {
+    "question": "What is the name of the protein that stimulates bone tissue formation?",
+    "answer": "Osteopontin"
+  },
+  {
+    "question": "What is the optimal macronutrient ratio for recovery after workouts?",
+    "answer": "3:1 carbs-protein"
+  },
+  {
+    "question": "What is the procedure of coronary bypass surgery?",
+    "answer": "Artery bypass"
+  },
+  {
+    "question": "What is the relationship between salt consumption and bone density?",
+    "answer": "Decreases density"
+  },
+  {
+    "question": "What is the role of genetics in the development of cardiovascular diseases?",
+    "answer": "High significance"
   },
   {
     "question": "What is the role of short-chain fatty acids in the gut?",
     "answer": "Prevention of inflammation"
   },
   {
+    "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
+    "answer": "95-100%"
+  },
+  {
     "question": "What measures should be implemented at the state level to reduce cancer incidence?",
     "answer": "Education and screening"
+  },
+  {
+    "question": "What mechanism controls the interaction between the pituitary gland and the thyroid gland?",
+    "answer": "Hypothalamic-pituitary axis"
+  },
+  {
+    "question": "What mechanism triggers an allergic reaction?",
+    "answer": "Activation of IgE"
+  },
+  {
+    "question": "What metabolic adaptation occurs with regular running?",
+    "answer": "Increase in mitochondria"
   },
   {
     "question": "What methods are used in the treatment of obsessive-compulsive disorder?",
     "answer": "Behavioral therapy"
   },
   {
+    "question": "What methods are used to treat borderline personality disorder?",
+    "answer": "Dialectical behavior therapy"
+  },
+  {
+    "question": "What neurochemical changes are often associated with the development of bipolar disorder?",
+    "answer": "Serotonin imbalance"
+  },
+  {
+    "question": "What pathology is characterized by thickening of the heart walls without enlargement of the chambers?",
+    "answer": "Myocardial hypertrophy"
+  },
+  {
+    "question": "What physiological phenomenon limits the duration of aerobic exercise?",
+    "answer": "Muscle fatigue"
+  },
+  {
     "question": "What process is initiated by the activation of helper T-cells?",
     "answer": "Clonal expansion"
+  },
+  {
+    "question": "What program is used to improve cognitive functions in elderly people?",
+    "answer": "Brain Fitness"
+  },
+  {
+    "question": "What role do antioxidants play during physical exercise?",
+    "answer": "Protect against oxidation"
+  },
+  {
+    "question": "What role do osteocytes play in bone tissue?",
+    "answer": "Support structure"
+  },
+  {
+    "question": "What role does GABA play in the sleep process?",
+    "answer": "Inhibition of neurons"
+  },
+  {
+    "question": "What stress factors affect the immune system?",
+    "answer": "Psychological"
+  },
+  {
+    "question": "What structural changes are possible in the brain with chronic stress?",
+    "answer": "Hippocampal atrophy"
+  },
+  {
+    "question": "What structural changes can occur in the heart with chronic hypertension?",
+    "answer": "myocardial hypertrophy"
   },
   {
     "question": "What substance in grains and beans binds iron and other minerals, reducing their absorption?",
     "answer": "Phytic acid"
   },
   {
+    "question": "What substance is a calcium antagonist in the body?",
+    "answer": "Magnesium"
+  },
+  {
+    "question": "What substance is necessary for the synthesis of neurotransmitters?",
+    "answer": "Tryptophan"
+  },
+  {
+    "question": "What substance protects the heart from free radicals?",
+    "answer": "Antioxidants"
+  },
+  {
+    "question": "What term describes the increase in blood and plasma volumes during training?",
+    "answer": "Plasma hypertrophy"
+  },
+  {
+    "question": "What tests are used to identify predisposition to genetic diseases?",
+    "answer": "Genetic test"
+  },
+  {
+    "question": "What type of cells produce mucous secretion in the respiratory tract?",
+    "answer": "Goblet cells"
+  },
+  {
+    "question": "What type of diet helps prevent Alzheimer's disease?",
+    "answer": "Mediterranean"
+  },
+  {
+    "question": "What type of interferons is primarily responsible for protection against viral infections?",
+    "answer": "Interferon alpha/beta"
+  },
+  {
+    "question": "Which amino acids are considered essential?",
+    "answer": "Leucine"
+  },
+  {
+    "question": "Which biologically active substances are synthesized simultaneously with cortisol in the adrenal glands?",
+    "answer": "Catecholamines"
+  },
+  {
+    "question": "Which cell is necessary for the activation of the humoral immune response?",
+    "answer": "T-helper cell"
+  },
+  {
+    "question": "Which cells are involved in immune memory?",
+    "answer": "B-lymphocytes"
+  },
+  {
+    "question": "Which cells produce incretin hormones?",
+    "answer": "Enteroendocrine cells"
+  },
+  {
+    "question": "Which chemicals cause inflammation of the alveoli?",
+    "answer": "Cytokines"
+  },
+  {
+    "question": "Which complement activation pathway is triggered by antibodies?",
+    "answer": "classical pathway"
+  },
+  {
+    "question": "Which compound serves as a precursor to coenzyme Q10?",
+    "answer": "Mevalonic acid"
+  },
+  {
+    "question": "Which conditions of valvular heart pathology require immediate surgical intervention?",
+    "answer": "Acute insufficiency"
+  },
+  {
+    "question": "Which contrast method can detect blood clots in the lungs?",
+    "answer": "Angiography"
+  },
+  {
+    "question": "Which diseases are associated with asbestos exposure to the lungs?",
+    "answer": "Asbestosis"
+  },
+  {
     "question": "Which enzymes are involved in steroid synthesis?",
     "answer": "Cytochromes P450"
+  },
+  {
+    "question": "Which foods can help in the prevention of dementia?",
+    "answer": "Nuts"
+  },
+  {
+    "question": "Which form of magnesium is best absorbed?",
+    "answer": "Magnesium citrate"
+  },
+  {
+    "question": "Which form of vitamin B9 is the most bioavailable?",
+    "answer": "Methylfolate"
   },
   {
     "question": "Which gene is responsible for the production of MHC classes?",
     "answer": "HLA gene"
   },
   {
+    "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
+    "answer": "Marfan"
+  },
+  {
+    "question": "Which hormone is responsible for stimulating lactotropic cells?",
+    "answer": "Prolactin"
+  },
+  {
+    "question": "Which hormones stimulate bone tissue synthesis?",
+    "answer": "Detachment from oneself"
+  },
+  {
+    "question": "Which hypothalamic hormone controls the secretion of adrenocorticotropic hormone?",
+    "answer": "Corticotropin-releasing factor"
+  },
+  {
+    "question": "Which hypothesis explains the need for brain cleansing during sleep?",
+    "answer": "Glymphatic theory"
+  },
+  {
     "question": "Which immune system cells are most susceptible to suppression under chronic stress?",
     "answer": "T-lymphocytes"
   },
   {
+    "question": "Which immune system molecule plays a central role in the activation of T-lymphocytes?",
+    "answer": "MHC"
+  },
+  {
+    "question": "Which ingredients prevent collagen damage in the skin?",
+    "answer": "Bakuchiol"
+  },
+  {
+    "question": "Which lung cells produce immune responses?",
+    "answer": "Macrophages"
+  },
+  {
     "question": "Which medications are commonly used to treat chronic heart failure?",
     "answer": "ACE inhibitors"
+  },
+  {
+    "question": "Which medications are used to control inflammatory processes in asthma?",
+    "answer": "Glucocorticoids"
+  },
+  {
+    "question": "Which methodology is most commonly used to assess the quality of hygiene procedures?",
+    "answer": "AUDIT"
+  },
+  {
+    "question": "Which moisturizer formula is best suited for dehydrated skin?",
+    "answer": "Hyaluronic acid"
+  },
+  {
+    "question": "Which molecule is important for antigen recognition and the initiation of the adaptive immune response?",
+    "answer": "MHC"
+  },
+  {
+    "question": "Which molecule is involved in the regulation of bone resorption through osteoclasts?",
+    "answer": "RANKL"
+  },
+  {
+    "question": "Which molecules bind to cortisol receptors during a stress response?",
+    "answer": "Glucocorticoids"
+  },
+  {
+    "question": "Which molecules detect and bind pathogens?",
+    "answer": "Antibodies"
   },
   {
     "question": "Which molecules recognize pathogens and trigger an immune response?",
@@ -88,16 +488,48 @@
     "answer": "Renin-angiotensin"
   },
   {
+    "question": "Which neuropeptide is produced in the stomach and increases appetite?",
+    "answer": "Ghrelin"
+  },
+  {
+    "question": "Which nutrient is necessary to maintain normal progesterone levels?",
+    "answer": "Vitamin D"
+  },
+  {
     "question": "Which organ produces somatostatin?",
     "answer": "Pancreas"
+  },
+  {
+    "question": "Which part of the brain inhibits stress-threshold reflexes during anxiety?",
+    "answer": "Prefrontal cortex"
   },
   {
     "question": "Which part of the respiratory system is responsible for maintaining constant pressure in the lungs?",
     "answer": "Surfactant"
   },
   {
+    "question": "Which plant protein is best absorbed by the body?",
+    "answer": "soy"
+  },
+  {
+    "question": "Which preventive method helps to avoid the recurrence of malignant tumors?",
+    "answer": "Radiotherapy"
+  },
+  {
     "question": "Which process is involved in bone tissue remodeling?",
     "answer": "Bone resorption"
+  },
+  {
+    "question": "Which process of increasing the amino acid chain is associated with muscle hypertrophy?",
+    "answer": "Protein translation"
+  },
+  {
+    "question": "Which protein signals to attract other immune system cells?",
+    "answer": "cytokine"
+  },
+  {
+    "question": "Which proteins are part of the bone matrix?",
+    "answer": "Collagens"
   },
   {
     "question": "Which structures on the cell surface are involved in immune responses?",
@@ -108,7 +540,63 @@
     "answer": "Carrera Experiment"
   },
   {
+    "question": "Which substance enhances the secretion of corticotropin-releasing hormone during stress?",
+    "answer": "Ghrelin"
+  },
+  {
+    "question": "Which substance is considered an important marker of bone remodeling?",
+    "answer": "Deoxypyridinoline"
+  },
+  {
+    "question": "Which substances are considered comedogenic in cosmetics?",
+    "answer": "Mineral oil"
+  },
+  {
+    "question": "Which supplement contains the highest percentage of zinc?",
+    "answer": "Zinc gluconate"
+  },
+  {
+    "question": "Which trace elements are involved in the formation of enzymes?",
+    "answer": "Copper, zinc"
+  },
+  {
+    "question": "Which vitamin aids in the conversion of tryptophan to niacin?",
+    "answer": "Vitamin B6"
+  },
+  {
+    "question": "Which vitamin is a cofactor for serotonin synthesis?",
+    "answer": "Pyridoxine"
+  },
+  {
+    "question": "Which vitamin is a cofactor in amino acid metabolism?",
+    "answer": "B6"
+  },
+  {
+    "question": "Which vitamin is important for converting folic acid into its active form?",
+    "answer": "Vitamin B12"
+  },
+  {
+    "question": "Which vitamin is key for the synthesis of nucleic acids?",
+    "answer": "Folic acid"
+  },
+  {
+    "question": "Which vitamin is known for its role in the synthesis of glutathione, a major antioxidant in cells?",
+    "answer": "Vitamin B2"
+  },
+  {
+    "question": "Which vitamins and minerals are essential for the health of tendons and ligaments?",
+    "answer": "C and manganese"
+  },
+  {
+    "question": "Which vitamins are cofactors for enzymes?",
+    "answer": "B6 and B2"
+  },
+  {
     "question": "Which vitamins are synthesized in the body from cholesterol?",
     "answer": "D"
+  },
+  {
+    "question": "Which workouts lead to greater activation of fast glycolytic fibers?",
+    "answer": "High-intensity"
   }
 ]
