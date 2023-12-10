@@ -20,6 +20,10 @@
     "answer": "Weekly"
   },
   {
+    "question": "How often are podcasts released?",
+    "answer": "Weekly"
+  },
+  {
     "question": "How often are videos released on the 'Kitchen Secrets' channel?",
     "answer": "Dan Schreiber"
   },
@@ -104,6 +108,10 @@
     "answer": ""
   },
   {
+    "question": "What format of performances is often used by music streamers?",
+    "answer": "Live performance"
+  },
+  {
     "question": "What helps to recover faster?",
     "answer": ""
   },
@@ -120,12 +128,20 @@
     "answer": "Comments, likes"
   },
   {
+    "question": "What is IRL?",
+    "answer": "In real life"
+  },
+  {
     "question": "What is a video blog?",
     "answer": "Video diary"
   },
   {
     "question": "What is important to consider when training for endurance?",
     "answer": ""
+  },
+  {
+    "question": "What is often discussed in podcasts?",
+    "answer": "Ideas"
   },
   {
     "question": "What is often discussed in the podcast 'World of Science'?",
@@ -188,12 +204,20 @@
     "answer": "JazzSphere"
   },
   {
+    "question": "What is the name of the podcast hosted by Tatyana Lazareva?",
+    "answer": "Lazareva TV"
+  },
+  {
     "question": "What is the name of the podcast that tells funny stories about animals?",
     "answer": "Animal Jokes"
   },
   {
     "question": "What is the name of the popular music streamer who often plays the guitar?",
     "answer": "Sungha Jung"
+  },
+  {
+    "question": "What is the name of the streamer who plays the ukulele?",
+    "answer": "Tom Green"
   },
   {
     "question": "What is the name of the tallest waterfall in the world?",
@@ -336,6 +360,10 @@
     "answer": "ItalGourmet"
   },
   {
+    "question": "Which blogger often uses bright color schemes in makeup?",
+    "answer": "Patrick Starrr"
+  },
+  {
     "question": "Which blogger runs a channel about cooking fish and seafood?",
     "answer": "Brandon Truaxe"
   },
@@ -396,6 +424,10 @@
     "answer": ""
   },
   {
+    "question": "Which music streamer is known for their live covers?",
+    "answer": "GuitarHero"
+  },
+  {
     "question": "Which place is known for its white buildings?",
     "answer": "Santorini"
   },
@@ -436,6 +468,14 @@
     "answer": ""
   },
   {
+    "question": "Which podcast mixes music and humor?",
+    "answer": "Musicomedy"
+  },
+  {
+    "question": "Which podcast often combines humor and politics?",
+    "answer": "Politically Joking"
+  },
+  {
     "question": "Which podcast popularizes science and is considered one of the best in this field?",
     "answer": "Radiolab"
   },
@@ -468,6 +508,10 @@
     "answer": "Synthwave"
   },
   {
+    "question": "Which streamer has the most followers on Twitch?",
+    "answer": "Igor Lazarev"
+  },
+  {
     "question": "Which streamer is known for their Dead by Daylight streams?",
     "answer": "Ohmwrecker"
   },
@@ -478,6 +522,10 @@
   {
     "question": "Which streamer is known for their live sessions using a loop station?",
     "answer": "LoopMaster"
+  },
+  {
+    "question": "Which streamer is known for their running sessions?",
+    "answer": "Nikolay Loginov"
   },
   {
     "question": "Which streamer is known for their skill in Valorant?",
@@ -498,6 +546,10 @@
   {
     "question": "Which streamer performs live jazz improvisations?",
     "answer": "JazzPlayer"
+  },
+  {
+    "question": "Which streamer performs their own songs in hip-hop style?",
+    "answer": "Watsky"
   },
   {
     "question": "Which streamer previously used the nickname Danil_s?",
@@ -548,6 +600,10 @@
     "answer": ""
   },
   {
+    "question": "Who hosts the podcast 'Conversations about Chemistry'?",
+    "answer": "Maria Ivanova"
+  },
+  {
     "question": "Who hosts the podcast 'Do Business'?",
     "answer": "Alexey Ivanov"
   },
@@ -570,6 +626,10 @@
   {
     "question": "Who is a popular streamer on YouTube and one of the first to start streaming their games?",
     "answer": "PewDiePie"
+  },
+  {
+    "question": "Who is called the 'Marathon Streamer'?",
+    "answer": "Ilya Zimin"
   },
   {
     "question": "Who is known for the channel 'Chef's Breakfast'?",
@@ -620,6 +680,10 @@
     "answer": "Ninja"
   },
   {
+    "question": "Who is the podcast 'Successful People' aimed at?",
+    "answer": "Entrepreneurs"
+  },
+  {
     "question": "Who is widely known for their music broadcasts?",
     "answer": "Eurie"
   },
@@ -630,6 +694,14 @@
   {
     "question": "Who performs their songs on the piano live?",
     "answer": "Sophie Xeon"
+  },
+  {
+    "question": "Who reviews new albums?",
+    "answer": "Igor Kuznetsov"
+  },
+  {
+    "question": "Who runs a blog about physics?",
+    "answer": "Dmitry Kuznetsov"
   },
   {
     "question": "Who runs a channel about philosophy?",
@@ -658,5 +730,9 @@
   {
     "question": "Who talks about space and astronomy?",
     "answer": "Oleg Vasilyev"
+  },
+  {
+    "question": "Who was the first streamer on YouTube?",
+    "answer": "Jawed Karim"
   }
 ]

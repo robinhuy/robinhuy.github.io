@@ -12,6 +12,14 @@
     "answer": "Loons"
   },
   {
+    "question": "How can you determine the age of a trap by its condition?",
+    "answer": "By rust"
+  },
+  {
+    "question": "How do decoys attract ducks?",
+    "answer": "Sound of a duck"
+  },
+  {
     "question": "How do prolonged frosts affect ducks?",
     "answer": "Decrease in activity"
   },
@@ -20,8 +28,28 @@
     "answer": "By tracks"
   },
   {
+    "question": "How long does jerky last?",
+    "answer": "Months"
+  },
+  {
+    "question": "How many centuries has falconry existed?",
+    "answer": "At least 12"
+  },
+  {
+    "question": "How many ducklings usually hatch in one brood?",
+    "answer": "6-12"
+  },
+  {
     "question": "How many types of hunting are regulated by law?",
     "answer": "Python"
+  },
+  {
+    "question": "How many years has the tradition of hunting existed?",
+    "answer": "Millennia"
+  },
+  {
+    "question": "How to climb a tall tree?",
+    "answer": "With foot loops"
   },
   {
     "question": "How to determine if a berry is edible?",
@@ -36,8 +64,20 @@
     "answer": "Weight"
   },
   {
+    "question": "How to minimize freezing of feet?",
+    "answer": "Warm socks"
+  },
+  {
+    "question": "How to properly marinate meat?",
+    "answer": "in a cool place"
+  },
+  {
     "question": "How to treat meat for parasites?",
     "answer": "Freezing"
+  },
+  {
+    "question": "In what type of terrain is it best to hunt in the summer?",
+    "answer": "Marshy"
   },
   {
     "question": "In which month is it optimal to hunt in the winter season?",
@@ -64,12 +104,24 @@
     "answer": "Irish Wolfhound"
   },
   {
+    "question": "What actions are prohibited when fishing?",
+    "answer": "Poisonous baits"
+  },
+  {
     "question": "What additional device is used for shooting in the dark?",
     "answer": "Duck"
   },
   {
+    "question": "What are modern sleeping bags for winter hunting filled with?",
+    "answer": "Synthetic down"
+  },
+  {
     "question": "What are the hunting methods called that require knowledge of animal routes?",
     "answer": "Stalking"
+  },
+  {
+    "question": "What are the requirements for a hunting license?",
+    "answer": "Validity period, photograph"
   },
   {
     "question": "What are the standard distances for aiming with hunting crossbows?",
@@ -84,16 +136,36 @@
     "answer": "At night"
   },
   {
+    "question": "What breed of dog is suitable for hunting in dense forests?",
+    "answer": "Laika"
+  },
+  {
     "question": "What breed of dog is used for hunting in dense forests?",
     "answer": "Norwich Terrier"
+  },
+  {
+    "question": "What camera features are necessary for observing animals at night?",
+    "answer": "Infrared mode"
   },
   {
     "question": "What can be caught in a pit trap?",
     "answer": "Moose"
   },
   {
+    "question": "What characteristic is important for long-distance shooting?",
+    "answer": "Accuracy"
+  },
+  {
     "question": "What clothing item protects against insect bites?",
     "answer": "Mosquito net"
+  },
+  {
+    "question": "What cooking method is best suited for thick meat?",
+    "answer": "Braising"
+  },
+  {
+    "question": "What device helps to hear sounds from afar?",
+    "answer": "Portable amplifier"
   },
   {
     "question": "What device reduces recoil in a rifle?",
@@ -104,12 +176,28 @@
     "answer": "Optical sights"
   },
   {
+    "question": "What does hunting ethics ensure?",
+    "answer": "Humanity and respect"
+  },
+  {
     "question": "What does the balance of a rifle measure?",
     "answer": "Center of gravity"
   },
   {
+    "question": "What element is important for silent hunting?",
+    "answer": "Silencer"
+  },
+  {
+    "question": "What equipment helps track the movement of wild animals?",
+    "answer": "Camera"
+  },
+  {
     "question": "What exotic animal inhabits the rainforests of Africa?",
     "answer": "stalking"
+  },
+  {
+    "question": "What factor determines the best places for hunting wild boar?",
+    "answer": "Availability of food"
   },
   {
     "question": "What factor is important for a successful hunt?",
@@ -128,44 +216,116 @@
     "answer": "Algae"
   },
   {
+    "question": "What function is important for a trail camera?",
+    "answer": "Motion detector"
+  },
+  {
     "question": "What helps cameras transmit data over long distances?",
     "answer": "Cellular connection"
+  },
+  {
+    "question": "What helps to stabilize a stance?",
+    "answer": "trekking poles"
+  },
+  {
+    "question": "What hunting innovations became popular in the 19th century?",
+    "answer": "Rifles"
   },
   {
     "question": "What hunting method involves quiet movement?",
     "answer": "Detecting heat"
   },
   {
+    "question": "What hunting method is convenient in a dense forest?",
+    "answer": "Short gun"
+  },
+  {
+    "question": "What hunting method is popular for catching hares?",
+    "answer": "Burrow hunting"
+  },
+  {
     "question": "What hunting method is popular for catching pheasants?",
     "answer": "Ambush"
+  },
+  {
+    "question": "What hunting tactic is popular among predators?",
+    "answer": "Camouflage"
+  },
+  {
+    "question": "What hunting technique is most commonly used for hunting large animals?",
+    "answer": "Driven hunt"
   },
   {
     "question": "What important aspect of hunting is related to animals?",
     "answer": "Know the species"
   },
   {
+    "question": "What ingredient is often added to bait for martens?",
+    "answer": "Meat"
+  },
+  {
     "question": "What is a 'gas-operated mechanism'?",
     "answer": "At the grip"
+  },
+  {
+    "question": "What is a national park?",
+    "answer": "Protected area"
+  },
+  {
+    "question": "What is a shot from an ambush called?",
+    "answer": "aimed"
+  },
+  {
+    "question": "What is a thermal imager used for in hunting?",
+    "answer": "Detecting heat"
   },
   {
     "question": "What is a wand used for in falconry?",
     "answer": "Command"
   },
   {
+    "question": "What is better to use for long-term camera operation in the forest?",
+    "answer": "Solar panels"
+  },
+  {
+    "question": "What is brisket suitable for?",
+    "answer": "For stewing"
+  },
+  {
     "question": "What is important for the stealth of a camera?",
     "answer": "Regulated hunting"
+  },
+  {
+    "question": "What is most important when hunting deer?",
+    "answer": "Silence and stealth"
   },
   {
     "question": "What is needed for a successful tracker hunt?",
     "answer": "Survival skills"
   },
   {
+    "question": "What is the benefit of providing first aid for an injury?",
+    "answer": "Effectiveness"
+  },
+  {
     "question": "What is the best way to avoid hypothermia?",
     "answer": "Pay attention to clothing"
   },
   {
+    "question": "What is the best way to calm an injured wild animal?",
+    "answer": "Steadiness and calmness"
+  },
+  {
     "question": "What is the best way to navigate in the forest?",
     "answer": "Compass or map"
+  },
+  {
+    "question": "What is the device called that measures the velocity of a bullet?",
+    "answer": "chronograph"
+  },
+  {
+    "question": "What is the device used for cocking a crossbow called?",
+    "answer": "Cocking lever"
   },
   {
     "question": "What is the importance of a hunter's ethical code?",
@@ -178,6 +338,22 @@
   {
     "question": "What is the maximum range of modern crossbows?",
     "answer": "Up to 100 meters"
+  },
+  {
+    "question": "What is the most common violation in nature reserves?",
+    "answer": "Hunting"
+  },
+  {
+    "question": "What is the name of the \"Duck Hunters\" team?",
+    "answer": "Duck Hunters"
+  },
+  {
+    "question": "What is the name of the element that holds the cartridge in the magazine?",
+    "answer": "Spring-loaded follower"
+  },
+  {
+    "question": "What is the name of the hunting method that uses costumes to blend in with nature?",
+    "answer": "Camouflage hunting"
   },
   {
     "question": "What is the penalty for hunting rare animal species?",
@@ -202,6 +378,10 @@
   {
     "question": "What is the standard frame rate used in the film industry?",
     "answer": "Orenburgsky"
+  },
+  {
+    "question": "What is the tool called for precise fitting of an arrowhead?",
+    "answer": "Chisel"
   },
   {
     "question": "What is the type of hunting called that does not use technical means?",
@@ -248,8 +428,16 @@
     "answer": "Striker"
   },
   {
+    "question": "What mechanism is used for shooting without the operator's involvement?",
+    "answer": "Automatic"
+  },
+  {
     "question": "What method helps preserve game meat in the field?",
     "answer": "Jerking"
+  },
+  {
+    "question": "What method helps prevent meat spoilage in field conditions?",
+    "answer": "Smoking"
   },
   {
     "question": "What method of hunting is the most environmentally friendly?",
@@ -266,6 +454,18 @@
   {
     "question": "What piece of equipment is put on a falcon?",
     "answer": "Hood"
+  },
+  {
+    "question": "What poison is often used in animal traps?",
+    "answer": "Strychnine"
+  },
+  {
+    "question": "What process helps to remove moisture?",
+    "answer": "Drying"
+  },
+  {
+    "question": "What process is used for removing the entrails?",
+    "answer": "evisceration"
   },
   {
     "question": "What regulates the appointment of hunting?",
@@ -288,8 +488,24 @@
     "answer": "Long"
   },
   {
+    "question": "What should be considered when choosing a location for camera installation?",
+    "answer": "Installation height"
+  },
+  {
     "question": "What should be considered when hunting species with low populations?",
     "answer": "Hunting ban"
+  },
+  {
+    "question": "What skill is important for shooting?",
+    "answer": "Aiming"
+  },
+  {
+    "question": "What skill is important when training falcons?",
+    "answer": "Obedience"
+  },
+  {
+    "question": "What skill is useful for starting a fire?",
+    "answer": "Flint"
   },
   {
     "question": "What sound quality is necessary for a camera in the forest?",
@@ -312,8 +528,20 @@
     "answer": "Carabiner"
   },
   {
+    "question": "What tool is used for navigation in the forest?",
+    "answer": "Compass"
+  },
+  {
     "question": "What tool is used for tracking footprints?",
     "answer": "Tracker"
+  },
+  {
+    "question": "What tool is used for training falcons?",
+    "answer": "Hood"
+  },
+  {
+    "question": "What tool is used to start a fire?",
+    "answer": "Flint and steel"
   },
   {
     "question": "What transport is necessary for winter hunting?",
@@ -332,6 +560,14 @@
     "answer": "Traps"
   },
   {
+    "question": "What type of ammunition is most commonly used by hunters?",
+    "answer": "Expansive"
+  },
+  {
+    "question": "What type of arctic fox is most often caught using traps?",
+    "answer": "Northern"
+  },
+  {
     "question": "What type of call is best to use for duck hunting?",
     "answer": "Training"
   },
@@ -348,8 +584,24 @@
     "answer": "Storks"
   },
   {
+    "question": "What type of hunting is the most difficult in winter?",
+    "answer": "Hunting rabbits"
+  },
+  {
+    "question": "What type of shooting is used to hit flying game?",
+    "answer": "Instinctive shooting"
+  },
+  {
+    "question": "What type of trap is called a pillow trap?",
+    "answer": "Pillow trap"
+  },
+  {
     "question": "What type of trap is the least humane?",
     "answer": "Steel-jaw trap"
+  },
+  {
+    "question": "What type of traps are used for bears?",
+    "answer": "Large traps"
   },
   {
     "question": "What types of bolts are used in modern crossbows?",
@@ -376,12 +628,20 @@
     "answer": "Large caliber rifle"
   },
   {
+    "question": "What weapon is typically used for hunting big game?",
+    "answer": "rifle"
+  },
+  {
     "question": "What weather conditions are favorable for bird hunting?",
     "answer": "Dawn"
   },
   {
     "question": "What weather conditions are preferable for lynx hunting?",
     "answer": "Scythians"
+  },
+  {
+    "question": "What were the hunting scenes depicted on Ancient Roman mosaics called?",
+    "answer": "Venatio"
   },
   {
     "question": "When does the autumn partridge hunting season open?",
@@ -396,8 +656,28 @@
     "answer": "Indonesia"
   },
   {
+    "question": "Where do aye-ayes live?",
+    "answer": "Madagascar"
+  },
+  {
+    "question": "Where is the sight window located on a bow?",
+    "answer": "At the grip"
+  },
+  {
     "question": "Which Russian nature reserve is known for its steppes?",
     "answer": "Passive infrared"
+  },
+  {
+    "question": "Which animal inhabits dense forests?",
+    "answer": "Tapir"
+  },
+  {
+    "question": "Which animal is sometimes referred to by hunters as the 'Pegasus of the jungle'?",
+    "answer": "Bat"
+  },
+  {
+    "question": "Which animals cannot be hunted?",
+    "answer": "Endangered species"
   },
   {
     "question": "Which bird is capable of hovering in place?",
@@ -414,6 +694,10 @@
   {
     "question": "Which bird is often used to train dogs for hunting waterfowl?",
     "answer": "Rhodesian Ridgebacks"
+  },
+  {
+    "question": "Which bird makes the call 'tfoo-tfoo'?",
+    "answer": "Chukar partridge"
   },
   {
     "question": "Which birds migrate over significant distances?",
@@ -436,6 +720,10 @@
     "answer": "Shar Pei"
   },
   {
+    "question": "Which dog breed is known for its bravery and endurance?",
+    "answer": "Boerboel"
+  },
+  {
     "question": "Which dog breed is known for its endurance and energy?",
     "answer": "Hound"
   },
@@ -444,12 +732,20 @@
     "answer": "Australian Shepherd"
   },
   {
+    "question": "Which dog breed is the most versatile for hunting?",
+    "answer": "Weimaraner"
+  },
+  {
     "question": "Which dogs help in hunting large game?",
     "answer": "Chemical weapons"
   },
   {
     "question": "Which duck has the longest wings?",
     "answer": "Scaup"
+  },
+  {
+    "question": "Which duck is known for its speed?",
+    "answer": "Wigeon"
   },
   {
     "question": "Which duck prefers salty water?",
@@ -472,8 +768,24 @@
     "answer": "Neolithic"
   },
   {
+    "question": "Which exotic animal eagerly hunts in the desert?",
+    "answer": "Fennec Fox"
+  },
+  {
+    "question": "Which exotic animals use branches as treadmills?",
+    "answer": "Tiger frogs"
+  },
+  {
     "question": "Which feathers are considered valuable?",
     "answer": "rifle"
+  },
+  {
+    "question": "Which feathers are trimmed on hawks before training?",
+    "answer": "Wings"
+  },
+  {
+    "question": "Which hunting method requires good physical fitness?",
+    "answer": "Stalking"
   },
   {
     "question": "Which hunting method requires keen eyesight?",
@@ -482,6 +794,10 @@
   {
     "question": "Which item makes it easier to carry a load?",
     "answer": "Sled"
+  },
+  {
+    "question": "Which marsh bird is known for its long beak?",
+    "answer": "Snipe"
   },
   {
     "question": "Which of these birds is listed in the Red Book?",
@@ -500,6 +816,10 @@
     "answer": "Shape"
   },
   {
+    "question": "Which part of the carcass is best suited for roasting?",
+    "answer": "Tenderloin"
+  },
+  {
     "question": "Which part of the game is usually marinated first?",
     "answer": "Fillet"
   },
@@ -508,12 +828,32 @@
     "answer": "Stalking"
   },
   {
+    "question": "Which period marks the beginning of the use of traps?",
+    "answer": "Middle Ages"
+  },
+  {
     "question": "Which principle is always mandatory?",
     "answer": "The principle of transparency"
   },
   {
+    "question": "Which processing method minimally affects the taste of meat?",
+    "answer": "Drying"
+  },
+  {
+    "question": "Which region was known for its abundance of hunting grounds in the Mongol Empire?",
+    "answer": "Siberia"
+  },
+  {
     "question": "Which tool helps to start a fire faster?",
     "answer": "Weather factor"
+  },
+  {
+    "question": "Which trap operates by means of pressure?",
+    "answer": "Spring trap"
+  },
+  {
+    "question": "Which type of bow has a longer lifespan?",
+    "answer": "Composite bow"
   },
   {
     "question": "Which type of hunting requires patience?",
@@ -528,6 +868,10 @@
     "answer": "The state"
   },
   {
+    "question": "Who is hunted in May?",
+    "answer": "Wild boar"
+  },
+  {
     "question": "Who regulates hunting in hunting grounds?",
     "answer": "Hunting Inspectorate"
   },
@@ -538,5 +882,9 @@
   {
     "question": "Who was the god of hunting in ancient Slavic mythology?",
     "answer": "Pollination"
+  },
+  {
+    "question": "Whose permission is required for hunting?",
+    "answer": "Inspector"
   }
 ]

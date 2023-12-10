@@ -4,6 +4,10 @@
     "answer": "Milos Forman"
   },
   {
+    "question": "At what age did Bruce Lee die?",
+    "answer": "32"
+  },
+  {
     "question": "Complete the phrase: 'Is it just me, or is this a ______ train!'",
     "answer": "magical"
   },
@@ -50,6 +54,10 @@
   {
     "question": "From which movie is the quote: 'No one makes the same mistake twice'?",
     "answer": "The Matrix"
+  },
+  {
+    "question": "From which movie is the quote: 'Think globally, act locally'?",
+    "answer": "Inferno"
   },
   {
     "question": "From which movie is the quote: 'You are not my brother'?"
@@ -130,6 +138,14 @@
     "answer": "Mr. Robot"
   },
   {
+    "question": "In which animated film is the story of two girls in China told?",
+    "answer": "On the Rice Fields"
+  },
+  {
+    "question": "In which decade did the 'French New Wave' originate?",
+    "answer": "1950s"
+  },
+  {
     "question": "In which film did James Cameron make his directorial debut?",
     "answer": "Piranha II: The Spawning"
   },
@@ -186,6 +202,10 @@
   {
     "question": "What are traditional Japanese theatrical performances called?",
     "answer": "Kabuki"
+  },
+  {
+    "question": "What award did the film 'Howl's Moving Castle' receive?",
+    "answer": "Saturn"
   },
   {
     "question": "What award is given at the International Animation Film Festival in Korea?",
@@ -299,6 +319,14 @@
     "answer": "Interpolation"
   },
   {
+    "question": "What is the name of Aang's hometown in 'Avatar: The Last Airbender'?",
+    "answer": "Southern Air Temple"
+  },
+  {
+    "question": "What is the name of Christopher Nolan's first film?",
+    "answer": "Following"
+  },
+  {
     "question": "What is the name of Christopher Nolan's wife?",
     "answer": "Emma Thomas"
   },
@@ -403,12 +431,24 @@
     "answer": "Roberta Cruz"
   },
   {
+    "question": "What is the name of the Nolan film with elements of time paradoxes?",
+    "answer": "Tenet"
+  },
+  {
     "question": "What is the name of the Norwegian adaptation of the novel 'The Catcher in the Rye'?",
     "answer": "The Catcher in the Rye"
   },
   {
     "question": "What is the name of the Polish animated film about adventures in the forest?",
     "answer": "Birch in the Forest"
+  },
+  {
+    "question": "What is the name of the Russian adaptation of the American film 'The Physician'?",
+    "answer": "Teacher of Medicine"
+  },
+  {
+    "question": "What is the name of the Russian adaptation of the British series 'Luther'?",
+    "answer": "Mosgaz"
   },
   {
     "question": "What is the name of the Russian version of the American TV series 'Supergirl'?",
@@ -479,8 +519,16 @@
     "answer": "Genie"
   },
   {
+    "question": "What is the name of the bird in 'Finding Dory'?",
+    "answer": "Becky"
+  },
+  {
     "question": "What is the name of the boy who became a robot in 'Astro Boy'?",
     "answer": "Toby"
+  },
+  {
+    "question": "What is the name of the capital of Pandora in the movie 'Avatar'?",
+    "answer": "Hometree"
   },
   {
     "question": "What is the name of the cat from the cartoon 'Dinosaur Parade'?",
@@ -493,6 +541,10 @@
   {
     "question": "What is the name of the character who controls robots?",
     "answer": "Zigrid"
+  },
+  {
+    "question": "What is the name of the city in the TV series 'Breaking Bad'?",
+    "answer": "Albuquerque"
   },
   {
     "question": "What is the name of the computer system from the movie 'Terminator'?",
@@ -531,6 +583,10 @@
     "answer": "Land and Freedom"
   },
   {
+    "question": "What is the name of the famous Swedish drama about addiction?",
+    "answer": "Bad Roads"
+  },
+  {
     "question": "What is the name of the film about monuments to animals?",
     "answer": "Peter and Jane"
   },
@@ -545,6 +601,10 @@
   {
     "question": "What is the name of the film based on Somerset Maugham's novel 'Theatre'?",
     "answer": "Theatre"
+  },
+  {
+    "question": "What is the name of the film based on Victor Hugo's novel 'Notre-Dame de Paris'?",
+    "answer": "The Hunchback of Notre-Dame"
   },
   {
     "question": "What is the name of the film based on the novel by Karin Slaughter?",
@@ -711,6 +771,14 @@
     "answer": "Rodney"
   },
   {
+    "question": "What is the name of the satellite service of the ambitious tenant of the main character in the animated series 'B: The Beginning'?",
+    "answer": "Zebra Cartel"
+  },
+  {
+    "question": "What is the name of the screenwriter of the movie 'Arrival'?",
+    "answer": "Eric Heisserer"
+  },
+  {
     "question": "What is the name of the second part of Tim Burton's Batman trilogy?",
     "answer": "Batman Returns"
   },
@@ -841,6 +909,10 @@
     "answer": "global illumination"
   },
   {
+    "question": "What method is used to create textures for 3D models?",
+    "answer": "UV mapping"
+  },
+  {
     "question": "What method is used to synchronize camera movements with computer graphics?",
     "answer": "Camera technique"
   },
@@ -937,6 +1009,10 @@
     "answer": "Satanas"
   },
   {
+    "question": "What were special effects made of in silent films?",
+    "answer": "Technical tricks"
+  },
+  {
     "question": "When did the testing of the first television system begin?",
     "answer": "1925"
   },
@@ -962,6 +1038,10 @@
   },
   {
     "question": "When was the idea of an electronic television system proposed?"
+  },
+  {
+    "question": "Where is the Annecy Award for animated films presented?",
+    "answer": "France"
   },
   {
     "question": "Where is the Expo prize awarded?",
@@ -1020,6 +1100,10 @@
     "answer": "Best Original Score"
   },
   {
+    "question": "Which Pedro Almodóvar film won an Oscar in 2003?",
+    "answer": "Talk to Her"
+  },
+  {
     "question": "Which Spanish animation studio won the Goya Award in 2011?",
     "answer": "Ilion Animation Studios"
   },
@@ -1034,6 +1118,10 @@
   {
     "question": "Which Washington politician manipulates in 'House of Cards'?",
     "answer": "Frank Underwood"
+  },
+  {
+    "question": "Which actor became famous thanks to the TV series 'Glukhari'?",
+    "answer": "Maxim Averin"
   },
   {
     "question": "Which actor starred in the movie 'Oldboy'?",
@@ -1064,6 +1152,10 @@
     "answer": "Halle Berry"
   },
   {
+    "question": "Which actress was the first to receive an 'Oscar'?",
+    "answer": "Janet Gaynor"
+  },
+  {
     "question": "Which algorithm is used for smoothing animation?",
     "answer": "Interpolation"
   },
@@ -1088,6 +1180,10 @@
     "answer": "Raccoon and Co"
   },
   {
+    "question": "Which animated film tells the story of a robot's life on Earth?",
+    "answer": "WALL-E"
+  },
+  {
     "question": "Which animated film won the 'Golden Bear' award at the Berlin Film Festival?",
     "answer": "Howl's Moving Castle"
   },
@@ -1100,8 +1196,20 @@
     "answer": "Gravity Falls"
   },
   {
+    "question": "Which animation studio created short films in the musical genre?",
+    "answer": "Pixar"
+  },
+  {
+    "question": "Which animation studio created the anime 'Oldboy'?",
+    "answer": "Madhouse"
+  },
+  {
     "question": "Which animation studio created the cartoon 'Voltron: Legendary Defender'?",
     "answer": "DreamWorks Animation"
+  },
+  {
+    "question": "Which animation studio created the film 'Chicken Run'?",
+    "answer": "Aardman Animations"
   },
   {
     "question": "Which animation studio is known for creating 'Nyam-Nyam Neon'?",
@@ -1140,6 +1248,10 @@
     "answer": "Dexter"
   },
   {
+    "question": "Which character from the animated film 'Anons' is an astronaut?",
+    "answer": "Zark"
+  },
+  {
     "question": "Which cinematic movement was associated with the pursuit of a slice of life?",
     "answer": "Italian Neorealism"
   },
@@ -1163,8 +1275,16 @@
     "answer": "Nick Cave"
   },
   {
+    "question": "Which critic became famous thanks to his YouTube channel?",
+    "answer": "Anton Dolin"
+  },
+  {
     "question": "Which director made the documentary film 'Roger & Me'?",
     "answer": "Michael Moore"
+  },
+  {
+    "question": "Which director made the film 'Un Chien Andalou'?",
+    "answer": "Luis Buñuel"
   },
   {
     "question": "Which director made the films 'The Dreamers' and 'Last Tango in Paris'?",
@@ -1213,6 +1333,10 @@
   {
     "question": "Which film delves into the topic of arms manufacturers in the USA?",
     "answer": "Lord of War"
+  },
+  {
+    "question": "Which film depicts the harsh living conditions in Antarctica?",
+    "answer": "Encounters at the End of the World"
   },
   {
     "question": "Which film explores the culture of a tribe in the Amazon?",
@@ -1265,6 +1389,10 @@
   {
     "question": "Which film is considered the first in the history of cinema?",
     "answer": "The Arrival of a Train"
+  },
+  {
+    "question": "Which film is considered the pinnacle of German Expressionism?",
+    "answer": "The Cabinet of Dr. Caligari"
   },
   {
     "question": "Which film is dedicated to the life of Jordan Peterson?",
@@ -1370,8 +1498,16 @@
     "answer": "Gone with the Wind"
   },
   {
+    "question": "Which film was the first to receive the 'Palme d'Or' at the Cannes Film Festival?",
+    "answer": "The Grapes of Wrath"
+  },
+  {
     "question": "Which film was the first to use CGI special effects?",
     "answer": "Westworld"
+  },
+  {
+    "question": "Which film was the first winner of the Cannes Film Festival?",
+    "answer": "Eternal Love"
   },
   {
     "question": "Which film widely used the strategy of combining live-action and CGI?",
@@ -1530,6 +1666,10 @@
   {
     "question": "Which novel is the movie 'Fight Club' based on?",
     "answer": "Fight Club"
+  },
+  {
+    "question": "Which novel was the basis for the TV series 'Game of Thrones'?",
+    "answer": "A Song of Ice and Fire"
   },
   {
     "question": "Which novel was the basis for the film 'A Beautiful Mind'?",
@@ -1919,8 +2059,16 @@
     "answer": "Richard Sherman"
   },
   {
+    "question": "Who is the composer of the soundtrack for the film 'Brideshead Revisited'?",
+    "answer": "Jeff Zanelli"
+  },
+  {
     "question": "Who is the creator of Lara Croft?",
     "answer": "Toby Gard"
+  },
+  {
+    "question": "Who is the creator of the TV series 'Arrow'?",
+    "answer": "Greg Berlanti"
   },
   {
     "question": "Who is the creator of the series 'The Crown'?",
@@ -2014,6 +2162,10 @@
     "answer": "Jack"
   },
   {
+    "question": "Who is the main character in the movie 'Braveheart'?",
+    "answer": "William Wallace"
+  },
+  {
     "question": "Who is the main character in the movie 'Lost Highway'?",
     "answer": "Fred Madison"
   },
@@ -2052,6 +2204,14 @@
   {
     "question": "Who performed the song 'For the Dancing and the Dreaming' in the movie 'How to Train Your Dragon 2'?",
     "answer": "Gerard Butler"
+  },
+  {
+    "question": "Who performed the song 'We Know the Way' in the movie 'Moana'?",
+    "answer": "Lin-Manuel Miranda"
+  },
+  {
+    "question": "Who performs the song 'When You Believe' in the movie 'The Prince of Egypt'?",
+    "answer": "Whitney Houston"
   },
   {
     "question": "Who played Hannibal Lecter in the movie 'The Silence of the Lambs'?",
@@ -2136,6 +2296,14 @@
   {
     "question": "Who said the phrase: 'Wisdom comes with experience'?",
     "answer": "Albus Dumbledore"
+  },
+  {
+    "question": "Who said the phrase: 'You must feel fear'?",
+    "answer": "Lucifer"
+  },
+  {
+    "question": "Who said: 'Every story has a beginning'?",
+    "answer": "Narrator"
   },
   {
     "question": "Who said: 'Fight or flee'?",
