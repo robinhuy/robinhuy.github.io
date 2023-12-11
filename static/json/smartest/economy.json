@@ -4,8 +4,16 @@
     "answer": "Interest rates"
   },
   {
+    "question": "In what year did Germany introduce the Deutsche Mark?",
+    "answer": "1948"
+  },
+  {
     "question": "What caused the oil crisis of the 1970s?",
     "answer": "OPEC embargo"
+  },
+  {
+    "question": "What causes economic instability?",
+    "answer": "shocks and cycles"
   },
   {
     "question": "What does a tariff restriction include?",
@@ -28,8 +36,20 @@
     "answer": "Expenses"
   },
   {
+    "question": "What does the indifference curve model describe?",
+    "answer": "Consumer preferences"
+  },
+  {
+    "question": "What does the theory of rational expectations include?",
+    "answer": "Forecasts of economic agents"
+  },
+  {
     "question": "What economic phenomenon was observed in Japan in the 1990s?",
     "answer": "Economic bubble"
+  },
+  {
+    "question": "What element is important in the IS-LM model?",
+    "answer": "Interest rate"
   },
   {
     "question": "What factors are important for economic growth?",
@@ -42,6 +62,10 @@
   {
     "question": "What is antitrust regulation?",
     "answer": "Controls monopolies"
+  },
+  {
+    "question": "What is autocorrelation?",
+    "answer": "Reduction of inflation"
   },
   {
     "question": "What is demand elasticity?",
@@ -60,12 +84,24 @@
     "answer": "Reduction of inflation"
   },
   {
+    "question": "What is stagnation?",
+    "answer": "Slowing down of growth rates"
+  },
+  {
     "question": "What is the expenditure multiplier?",
     "answer": "Expenditure effect"
   },
   {
+    "question": "What is the market called with a single buyer?",
+    "answer": "Monopsony"
+  },
+  {
     "question": "What is the name of the estimation method that minimizes error?",
     "answer": "Least squares method"
+  },
+  {
+    "question": "What is the term for a long-term economic development strategy?",
+    "answer": "Economic planning"
   },
   {
     "question": "What is the term for an increase in exports?",
@@ -96,12 +132,20 @@
     "answer": "Maximum likelihood method"
   },
   {
+    "question": "Which economic theory claims that high taxes reduce incentives to work and invest?",
+    "answer": "Laffer Curve"
+  },
+  {
     "question": "Which financial document shows a company's profit?",
     "answer": "Income statement"
   },
   {
     "question": "Which indicator characterizes economic inequality?",
     "answer": "Gini coefficient"
+  },
+  {
+    "question": "Which model analyzes competition between two firms?",
+    "answer": "Duopoly model"
   },
   {
     "question": "Which model explains long-term economic growth?",
