@@ -134,8 +134,16 @@
     "answer": "Reduce speed"
   },
   {
+    "question": "How to avoid skidding?",
+    "answer": "Smooth handling"
+  },
+  {
     "question": "How to change the oil in a motorcycle?",
     "answer": "Drain plug"
+  },
+  {
+    "question": "How to determine the need for an oil change?",
+    "answer": "By mileage"
   },
   {
     "question": "How to fix an oil leak?",
@@ -336,6 +344,10 @@
     "answer": "Increases strength"
   },
   {
+    "question": "What does a sports muffler do?",
+    "answer": "Reduces resistance"
+  },
+  {
     "question": "What does the choice of car wheels depend on?",
     "answer": "Wheel size"
   },
@@ -374,6 +386,10 @@
   {
     "question": "What ensures the safety of competition participants?",
     "answer": "Police officers"
+  },
+  {
+    "question": "What famous route runs through the southern United States?",
+    "answer": "Route 66"
   },
   {
     "question": "What function do the side edges of the car body serve?",
@@ -456,6 +472,10 @@
     "answer": "Pressure control"
   },
   {
+    "question": "What is a compression gauge used for?",
+    "answer": "measuring compression"
+  },
+  {
     "question": "What is a hybrid engine?",
     "answer": "An engine of two types"
   },
@@ -505,6 +525,10 @@
   {
     "question": "What is recuperation in hybrid cars?",
     "answer": "Energy recovery"
+  },
+  {
+    "question": "What is responsible for climate control?",
+    "answer": "Climate system"
   },
   {
     "question": "What is the average speed of cars in the race?",
@@ -691,6 +715,10 @@
   {
     "question": "What is the name of the sports car manufacturing company founded by Carroll Shelby?",
     "answer": "Shelby"
+  },
+  {
+    "question": "What is the name of the sports car owners' community in Russia?",
+    "answer": "Supercar Owners Russia"
   },
   {
     "question": "What is the name of the sports car series from Toyota?",
@@ -898,6 +926,10 @@
   {
     "question": "What new category appeared in motorsport in 2021?",
     "answer": "Classic"
+  },
+  {
+    "question": "What percentage of fuel does a hybrid car save?",
+    "answer": "Up to 50%"
   },
   {
     "question": "What percentage of the track in Saudi Arabia is made up of dunes?",
@@ -1231,6 +1263,10 @@
     "answer": "NSX"
   },
   {
+    "question": "Which Mazda sports car was released in 1990?",
+    "answer": "RX-7"
+  },
+  {
     "question": "Which Mercedes-Benz model is considered a symbol of automotive design from the 1930s?",
     "answer": "500K"
   },
@@ -1323,6 +1359,10 @@
     "answer": "Nissan"
   },
   {
+    "question": "Which brand produces the Tornado series motorcycles?",
+    "answer": "Benelli"
+  },
+  {
     "question": "Which brand was founded in Italy for the production of sports motorcycles?",
     "answer": "Ducati"
   },
@@ -1384,6 +1424,10 @@
   {
     "question": "Which category of vehicles has been participating in the rally since 2021?",
     "answer": "Classic"
+  },
+  {
+    "question": "Which category of vehicles was excluded from the competition?",
+    "answer": "Prototypes"
   },
   {
     "question": "Which city most frequently hosts the start of the Tour de France?",
@@ -1545,6 +1589,10 @@
   {
     "question": "Which country was the first to introduce electric buses?",
     "answer": "China"
+  },
+  {
+    "question": "Which device increases braking force?",
+    "answer": "Vacuum booster"
   },
   {
     "question": "Which device is used to check the operation of a battery?",
@@ -1826,6 +1874,10 @@
     "answer": "Albrecht von Goertz"
   },
   {
+    "question": "Who drove for Toyota in 2004?",
+    "answer": "Jarno Trulli"
+  },
+  {
     "question": "Who is a multiple-time WRC champion?"
   },
   {
@@ -1867,6 +1919,10 @@
   {
     "question": "Who won the first Formula E race?",
     "answer": "Lucas di Grassi"
+  },
+  {
+    "question": "Why are camshafts installed?",
+    "answer": "Improvement of valve timing"
   },
   {
     "question": "Why do hybrid cars cause less harm to the environment?",
