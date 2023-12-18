@@ -96,6 +96,10 @@
     "answer": "Disguise"
   },
   {
+    "question": "How did Catelyn Stark attempt to influence the outcome of the Battle of the Blackwater?",
+    "answer": "Negotiations"
+  },
+  {
     "question": "How did Cersei come to power in King's Landing?",
     "answer": "Through intrigue"
   },
@@ -122,6 +126,10 @@
   {
     "question": "How did Daenerys ensure the loyalty of her allies?",
     "answer": "personal charisma"
+  },
+  {
+    "question": "How did Daenerys ensure the loyalty of her soldiers?",
+    "answer": "Personal example"
   },
   {
     "question": "How did Daenerys ensure the loyalty of her troops?",
@@ -158,6 +166,10 @@
   {
     "question": "How did Daenerys use her dragons to achieve strategic goals?",
     "answer": "Intimidation"
+  },
+  {
+    "question": "How did House Bolton establish its dominance in the North?",
+    "answer": "Betrayal"
   },
   {
     "question": "How did House Lannister secure its financial power?",
@@ -376,6 +388,14 @@
     "answer": "Intrigue"
   },
   {
+    "question": "How did the Northerners plan to defend Winterfell from the Bolton invasion?",
+    "answer": "Fortifications"
+  },
+  {
+    "question": "How did the Starks prevent conflicts in the North?",
+    "answer": "Diplomacy"
+  },
+  {
     "question": "How did the Targaryens control the fire spread by dragons?",
     "answer": "Secret rituals"
   },
@@ -396,6 +416,10 @@
     "answer": "Teaching"
   },
   {
+    "question": "How did the meeting with Daenerys affect Jon Snow's alliance with other houses?",
+    "answer": "Strengthened the alliance"
+  },
+  {
     "question": "How did trade relations change after the fall of the Valyrian Empire?",
     "answer": "Significantly"
   },
@@ -408,8 +432,20 @@
     "answer": "Impartiality"
   },
   {
+    "question": "How do maesters influence the decisions of lords?",
+    "answer": "Advice"
+  },
+  {
+    "question": "How do maesters interact with power?",
+    "answer": "Advise lords"
+  },
+  {
     "question": "How do maesters maintain peace between houses?",
     "answer": "Negotiations"
+  },
+  {
+    "question": "How do maesters pass on knowledge to new generations?",
+    "answer": "Through teaching"
   },
   {
     "question": "How do maesters study the history of Westeros?",
@@ -504,12 +540,20 @@
     "answer": "By blood"
   },
   {
+    "question": "How many knights serve in the Royal Guard?",
+    "answer": "Seven"
+  },
+  {
     "question": "How many links are in a maester's chain?",
     "answer": "12"
   },
   {
     "question": "How many swords were used to create the Iron Throne?",
     "answer": "1000"
+  },
+  {
+    "question": "How was magic used to protect trade routes in Essos?",
+    "answer": "Creation of shields"
   },
   {
     "question": "How was the Iron Throne used to assert the legitimacy of power?",
@@ -672,6 +716,10 @@
     "answer": "Flayed Man"
   },
   {
+    "question": "What blood is important for the Targaryens?",
+    "answer": "Valyrian"
+  },
+  {
     "question": "What caused Tyrion to betray his house?",
     "answer": "Betrayal of the family"
   },
@@ -682,6 +730,10 @@
   {
     "question": "What celestial symbol was considered an omen of great changes?",
     "answer": "Red comet"
+  },
+  {
+    "question": "What challenges did Daenerys Targaryen face while conquering Essos?",
+    "answer": "Political intrigues"
   },
   {
     "question": "What challenges did Daenerys face in governing the conquered lands?",
@@ -960,6 +1012,10 @@
     "answer": "The Red Wedding"
   },
   {
+    "question": "What event led to the rebirth of dragons?",
+    "answer": "Birth of Daenerys"
+  },
+  {
     "question": "What event led to the rise of House Targaryen to the throne?",
     "answer": "The Conquest of Dragons"
   },
@@ -990,6 +1046,10 @@
   {
     "question": "What event prompted John to change his political strategy?",
     "answer": "Defeat of the enemy"
+  },
+  {
+    "question": "What event prompted the Ironborn to change their traditional policy?",
+    "answer": "Balon's Rebellion"
   },
   {
     "question": "What event served as a catalyst for changing Jon's view on allies?",
@@ -1028,12 +1088,20 @@
     "answer": "The death of her parents"
   },
   {
+    "question": "What event was a turning point for Arya?",
+    "answer": "The death of her mother"
+  },
+  {
     "question": "What event was a turning point for the fate of Westeros?",
     "answer": "The Red Wedding"
   },
   {
     "question": "What event was a turning point in John's life?",
     "answer": "The Uprising at the Wall"
+  },
+  {
+    "question": "What event was a turning point in the fate of House Baratheon?",
+    "answer": "Robert's Rebellion"
   },
   {
     "question": "What event was foretold in the vision of snowfall in the Red Keep?",
@@ -1088,6 +1156,10 @@
     "answer": "Ocean currents"
   },
   {
+    "question": "What external factors helped Arya in her development?",
+    "answer": "Support from allies"
+  },
+  {
     "question": "What external threats are most dangerous for the Ironborn?",
     "answer": "strategic alliances"
   },
@@ -1118,6 +1190,10 @@
   {
     "question": "What factor limits the political influence of the Ironborn?",
     "answer": "Isolation"
+  },
+  {
+    "question": "What factor played a decisive role in the Battle of Stone Sept?",
+    "answer": "Geography of the area"
   },
   {
     "question": "What factor played a key role in the Battle of Moat Cailin?",
@@ -1156,6 +1232,10 @@
     "answer": "Expansion of influence"
   },
   {
+    "question": "What happened to Bran after the fall?",
+    "answer": "Gained visions"
+  },
+  {
     "question": "What helped Arya in fighting her enemies?",
     "answer": "Cunning"
   },
@@ -1170,6 +1250,10 @@
   {
     "question": "What historical events changed the political strategy of the Ironborn?",
     "answer": "The War of the Kings"
+  },
+  {
+    "question": "What historical events changed the social structures of the Ironborn?",
+    "answer": "Wars"
   },
   {
     "question": "What image was formed of Tyrion in the eyes of society?",
@@ -1214,6 +1298,10 @@
   {
     "question": "What impact did the marriage between the Tully and Arryn houses have on the political landscape of Westeros?",
     "answer": "Strengthening of the alliance"
+  },
+  {
+    "question": "What impact did the meeting with the Brotherhood Without Banners have on Arya?",
+    "answer": "Moral lessons"
   },
   {
     "question": "What important alliance did Jon Snow form to protect Westeros from an external threat?",
@@ -1352,6 +1440,10 @@
     "answer": "Meereen"
   },
   {
+    "question": "What is the name of the general assembly of knights where important decisions are made?",
+    "answer": "Great Conclave"
+  },
+  {
     "question": "What is the name of the order of knights that guards the ruler?",
     "answer": "Royal Guard"
   },
@@ -1378,6 +1470,10 @@
   {
     "question": "What is the process of initiation for maesters?",
     "answer": "Forging the chain"
+  },
+  {
+    "question": "What is the relationship between the Stark and Lannister houses?",
+    "answer": "enmity"
   },
   {
     "question": "What is the ritual called that brings the Ironborn back home after long sea voyages?",
@@ -1410,6 +1506,10 @@
   {
     "question": "What is the tradition associated with funerals among the Ironborn called?",
     "answer": "Sea burial"
+  },
+  {
+    "question": "What item did Arya take from the Hall of Faces after her training?",
+    "answer": "Face"
   },
   {
     "question": "What key battle strengthened the position of House Frey?",
@@ -1540,6 +1640,10 @@
     "answer": "Charm"
   },
   {
+    "question": "What magical element was essential for enhancing trade in Essos?",
+    "answer": "Magical crystals"
+  },
+  {
     "question": "What magical element was primarily used to enhance trade caravans?",
     "answer": "Obsidian"
   },
@@ -1570,6 +1674,10 @@
   {
     "question": "What magical power helped the Starks to resist their enemies?",
     "answer": "Warging"
+  },
+  {
+    "question": "What magical practice helped in long-distance travel?",
+    "answer": "Teleportation"
   },
   {
     "question": "What magical practice is most common in Asshai?",
@@ -1610,6 +1718,10 @@
   {
     "question": "What measures did the Targaryens take to protect their dragons?",
     "answer": "Building lairs"
+  },
+  {
+    "question": "What method did Arya Stark use to learn about her enemies' weaknesses?",
+    "answer": "Espionage"
   },
   {
     "question": "What method did Daenerys use to stabilize the captured territories?",
@@ -1736,11 +1848,19 @@
     "answer": "Kingslayer"
   },
   {
+    "question": "What nickname did Jon Snow earn for his deeds in the North?",
+    "answer": "Lord Snow"
+  },
+  {
     "question": "What nickname did Sansa Stark receive in King's Landing?",
     "answer": "Lady of Winterfell"
   },
   {
     "question": "What nickname did Tyrion Lannister receive due to his physical characteristics?",
+    "answer": "The Imp"
+  },
+  {
+    "question": "What nickname did Tyrion Lannister's enemies use for him?",
     "answer": "The Imp"
   },
   {
@@ -1908,12 +2028,20 @@
     "answer": "Three-Eyed Raven"
   },
   {
+    "question": "What role did Dagmer Cleftjaw play in the politics of the Ironborn?",
+    "answer": "Military leader"
+  },
+  {
     "question": "What role did House Tarly play in the war against Daenerys?",
     "answer": "Allies of the Lannisters"
   },
   {
     "question": "What role did John play in the Northern alliances?",
     "answer": "Leading"
+  },
+  {
+    "question": "What role did John play in the coalition against a common enemy?",
+    "answer": "Leader"
   },
   {
     "question": "What role did Jon Snow's personal beliefs play in his decisions in political and military matters?",
@@ -1940,8 +2068,16 @@
     "answer": "Key"
   },
   {
+    "question": "What role did dragons play in the conquest of Westeros?",
+    "answer": "Main"
+  },
+  {
     "question": "What role did her advisors play in the process of conquests?",
     "answer": "Strategists"
+  },
+  {
+    "question": "What role did intelligence play in Tyrion Lannister's fate?",
+    "answer": "Key"
   },
   {
     "question": "What role did intrigues play in the downfall of House Bolton?",
@@ -2040,6 +2176,10 @@
     "answer": "marriage"
   },
   {
+    "question": "What skill became crucial for Arya in her quest for revenge?",
+    "answer": "Adaptation"
+  },
+  {
     "question": "What skill did Arya Stark learn from the Faceless Men?",
     "answer": "Changing appearance"
   },
@@ -2050,6 +2190,10 @@
   {
     "question": "What skill helps Arya Stark in her journeys?",
     "answer": "disguise"
+  },
+  {
+    "question": "What skill is necessary for creating healing potions?",
+    "answer": "Herbology"
   },
   {
     "question": "What skill is necessary for studying ancient languages?",
@@ -2124,6 +2268,10 @@
     "answer": "Territorial protection"
   },
   {
+    "question": "What strategic element did Robb Stark use in the Battle of the Whispering Wood?",
+    "answer": "Encirclement"
+  },
+  {
     "question": "What strategic element played a role in the Stark's victory at the Battle of Winterfell?",
     "answer": "Underground tunnels"
   },
@@ -2180,6 +2328,10 @@
     "answer": "Seizing power"
   },
   {
+    "question": "What strategic move was decisive in the Battle of the Golden Tooth?",
+    "answer": "Flank ambush"
+  },
+  {
     "question": "What strategic resource was critically important for Pike?",
     "answer": "Timber for ships"
   },
@@ -2202,6 +2354,10 @@
   {
     "question": "What strategy allowed the Targaryens to capture King's Landing?",
     "answer": "Dragon attack"
+  },
+  {
+    "question": "What strategy did Daenerys follow to establish peace in the liberated cities?",
+    "answer": "Integration"
   },
   {
     "question": "What strategy did Daenerys use to integrate different cultures?",
@@ -2280,8 +2436,16 @@
     "answer": "Dragon"
   },
   {
+    "question": "What symbol is depicted on the Targaryen house sigil?",
+    "answer": "Dragon"
+  },
+  {
     "question": "What symbol is depicted on the cloaks of the knights of the Royal Guard?",
     "answer": "White cloak"
+  },
+  {
+    "question": "What symbol of power does the ruler of Pyke use?",
+    "answer": "Crown of seaweed"
   },
   {
     "question": "What symbolism is associated with the Iron Throne in folklore?",
@@ -2302,6 +2466,10 @@
   {
     "question": "What tactic did Euron Greyjoy choose to win the naval battle at the Narrow Sea?",
     "answer": "Maneuverability"
+  },
+  {
+    "question": "What tactic did Jaime Lannister choose for the attack on Riverrun?",
+    "answer": "Siege engines"
   },
   {
     "question": "What tactic did John use to strengthen the defense?",
@@ -2448,6 +2616,10 @@
     "answer": "White Knights"
   },
   {
+    "question": "What title do the mentors of the Citadel hold?",
+    "answer": "Archmaester"
+  },
+  {
     "question": "What title does the commander of the Guard hold?",
     "answer": "Lord Commander"
   },
@@ -2502,6 +2674,10 @@
   {
     "question": "What type of vision predominated in John's leadership decisions?",
     "answer": "Strategic"
+  },
+  {
+    "question": "What types of magical weapons were used in the protective orders of Essos?",
+    "answer": "Enchanting"
   },
   {
     "question": "What unique ability did Arya acquire during her training in Braavos?",
@@ -2632,6 +2808,10 @@
     "answer": "Tyranny"
   },
   {
+    "question": "What was the main motive for Loras Tyrell's marriage?",
+    "answer": "Political alliance"
+  },
+  {
     "question": "What was the main plan in the battle for the Iron Throne?",
     "answer": "Direct assault"
   },
@@ -2760,6 +2940,10 @@
     "answer": "Crossbows"
   },
   {
+    "question": "What weapon was used to fight the White Walkers?",
+    "answer": "Dragonglass"
+  },
+  {
     "question": "What were the consequences of the Battle of the Blackwater for Stannis Baratheon?",
     "answer": "Loss of fleet"
   },
@@ -2830,6 +3014,10 @@
   {
     "question": "Which Lannister sought to protect their family, even sacrificing their principles?",
     "answer": "Jaime"
+  },
+  {
+    "question": "Which Lannister tried to control the Iron Throne through her children?",
+    "answer": "Cersei"
   },
   {
     "question": "Which Lannister used their family to achieve political goals?",
@@ -3054,6 +3242,10 @@
   {
     "question": "Which city in Essos is known as a trading hub for dragon eggs?",
     "answer": "Pentos"
+  },
+  {
+    "question": "Which city in Essos is known as the center of the spice trade?",
+    "answer": "Qarth"
   },
   {
     "question": "Which city in Essos is known for having portals to other dimensions?",
@@ -3284,6 +3476,10 @@
     "answer": "Alliance with Dorne"
   },
   {
+    "question": "Which house actively sought allies in the southern lands through marriage?",
+    "answer": "Martell"
+  },
+  {
     "question": "Which house actively sought marriage alliances in the southern lands?",
     "answer": "Martells"
   },
@@ -3348,6 +3544,10 @@
     "answer": "Lannisters"
   },
   {
+    "question": "Which house entered into marriage to ensure its security from attacks?",
+    "answer": "Arryns"
+  },
+  {
     "question": "Which house formed a marriage alliance to stabilize the political situation in the Riverlands?",
     "answer": "Tully"
   },
@@ -3390,6 +3590,10 @@
   {
     "question": "Which house historically had the support of the northern lords?",
     "answer": "Starks"
+  },
+  {
+    "question": "Which house in Westeros is known for intrigues and manipulations?",
+    "answer": "Boltons"
   },
   {
     "question": "Which house is associated with the motto 'Family, Duty, Honor'?",
@@ -3448,6 +3652,10 @@
     "answer": "House Lannister"
   },
   {
+    "question": "Which house possessed ancient relics in the form of Valyrian swords?",
+    "answer": "House Baratheon"
+  },
+  {
     "question": "Which house provided strategic support to the Lannisters?",
     "answer": "Frey"
   },
@@ -3502,6 +3710,10 @@
   {
     "question": "Which house used marriages to maintain neutrality in the War of the Five Kings?",
     "answer": "Frey"
+  },
+  {
+    "question": "Which house was a key ally of the Lannisters through marriage?",
+    "answer": "Tyrells"
   },
   {
     "question": "Which house was an ally of the Starks in their fight against the Lannisters?",
@@ -3796,6 +4008,10 @@
     "answer": "Necromancy"
   },
   {
+    "question": "Which of the maesters left the Citadel to serve kings?",
+    "answer": "Qyburn"
+  },
+  {
     "question": "Which of these events did Tyrion not experience?",
     "answer": "Christmas in Westeros"
   },
@@ -3844,6 +4060,10 @@
     "answer": "Dance of the Dragons"
   },
   {
+    "question": "Which prophecy foretold the journey beyond the Wall?",
+    "answer": "Three-Eyed"
+  },
+  {
     "question": "Which prophecy foretold the war for Westeros?",
     "answer": "Song of Ice"
   },
@@ -3868,12 +4088,20 @@
     "answer": "Song of Ice"
   },
   {
+    "question": "Which prophecy speaks of 'the dragon born in the storm'?",
+    "answer": "Targaryen Prophecy"
+  },
+  {
     "question": "Which prophecy warns about the 'fate of the Targaryens'?",
     "answer": "Prophecy in Pentos"
   },
   {
     "question": "Which prophecy warns about the 'three heads of the dragon'?",
     "answer": "The Prophecy of the Targaryens"
+  },
+  {
+    "question": "Which prophetess predicted the fate of Cersei Lannister?",
+    "answer": "Maggy the Frog"
   },
   {
     "question": "Which prophetess predicted the fate of Jon Snow?",
@@ -3980,6 +4208,10 @@
     "answer": "Game of Thrones"
   },
   {
+    "question": "Who appointed Jaime to the Kingsguard?",
+    "answer": "Aerys II"
+  },
+  {
     "question": "Who appointed Ser Barristan as Lord Commander?",
     "answer": "Robert Baratheon"
   },
@@ -3992,12 +4224,20 @@
     "answer": "Tywin"
   },
   {
+    "question": "Who arranged the important marriage alliance in King's Landing?",
+    "answer": "Littlefinger"
+  },
+  {
     "question": "Who arranged the marriage of Ramsay Bolton?",
     "answer": "Roose Bolton"
   },
   {
     "question": "Who became Jon's unexpected ally in the fight for the North?",
     "answer": "Wildlings"
+  },
+  {
+    "question": "Who became Robb Stark's wife?",
+    "answer": "Talisa Maegyr"
   },
   {
     "question": "Who became king after the Battle of the Blackwater?",
@@ -4082,6 +4322,10 @@
   {
     "question": "Who developed the treatment protocols in the Citadel?",
     "answer": "Gormon"
+  },
+  {
+    "question": "Who did Arya disguise herself as to kill Walder Frey?",
+    "answer": "A maid"
   },
   {
     "question": "Who did Jon Snow trust with his secrets the most?",
@@ -4360,6 +4604,10 @@
     "answer": "Bran Stark"
   },
   {
+    "question": "Who supported Jon in his campaign against the Boltons?",
+    "answer": "Mormont"
+  },
+  {
     "question": "Who supported Jon in the fight against the Boltons?",
     "answer": "Starks"
   },
@@ -4414,6 +4662,10 @@
   {
     "question": "Who was an important ally of Tyrion Lannister?",
     "answer": "Varys"
+  },
+  {
+    "question": "Who was appointed as the Lord Commander of the Kingsguard after the death of the previous commander?",
+    "answer": "Balon Swann"
   },
   {
     "question": "Who was appointed as the commander of the Lannister army in the War of the North?",
