@@ -4,6 +4,10 @@
     "answer": "Vision"
   },
   {
+    "question": "Captain America fights for freedom and justice. What internal conflicts does he face in the process?",
+    "answer": "Moral dilemmas"
+  },
+  {
     "question": "Captain America is known for his commitment to what?",
     "answer": "Justice"
   },
@@ -94,6 +98,10 @@
   {
     "question": "How does Wakanda manage resource distribution?",
     "answer": "Secretly"
+  },
+  {
+    "question": "How does Wakanda preserve its cultural heritage?",
+    "answer": "Education"
   },
   {
     "question": "How does a change in Banner's state of mind affect the Hulk?",
@@ -296,6 +304,10 @@
     "answer": "1701"
   },
   {
+    "question": "What access code in the movie 'Iron Man 3' refers to his debut?",
+    "answer": "1963"
+  },
+  {
     "question": "What acting trait distinguishes Ant-Man from other heroes?",
     "answer": "Sarcastic humor"
   },
@@ -330,6 +342,10 @@
   {
     "question": "What altruistic act by one of the characters was key to uniting the team?",
     "answer": "Self-sacrifice"
+  },
+  {
+    "question": "What ancient artifact is a source of power for wizards in Marvel?",
+    "answer": "Grimoire"
   },
   {
     "question": "What ancient script is used in the movie 'Doctor Strange' to display spells?",
@@ -401,6 +417,10 @@
   },
   {
     "question": "What artifact does Doctor Strange use to manipulate time?",
+    "answer": "Eye of Agamotto"
+  },
+  {
+    "question": "What artifact does Doctor Strange wear?",
     "answer": "Eye of Agamotto"
   },
   {
@@ -656,6 +676,10 @@
     "answer": "Infinity Gauntlet"
   },
   {
+    "question": "What device, developed by Tony Stark, became key in his strategy against global threats?",
+    "answer": "Protection Module"
+  },
+  {
     "question": "What dimension did the Fantastic Four discover in their first adventure?",
     "answer": "Negative Zone"
   },
@@ -776,6 +800,10 @@
     "answer": "Destruction of the Universe"
   },
   {
+    "question": "What event caused Bruce Banner to transform into the Hulk for the first time?",
+    "answer": "Bomb test"
+  },
+  {
     "question": "What event caused Captain America to question traditional values and side with the Resistance?",
     "answer": "Civil War"
   },
@@ -798,6 +826,10 @@
   {
     "question": "What event caused the disappearance of all mutants?",
     "answer": "M-Day"
+  },
+  {
+    "question": "What event caused the emergence of alternate realities in Marvel comics?",
+    "answer": "Secret Wars"
   },
   {
     "question": "What event caused the hero to become a superhero?",
@@ -972,12 +1004,20 @@
     "answer": "The Rise of the Phoenix"
   },
   {
+    "question": "What event led to the rift between Iron Man and Captain America?",
+    "answer": "Civil War"
+  },
+  {
     "question": "What event led to the transformation of the Hulk?",
     "answer": "Gamma radiation"
   },
   {
     "question": "What event made Carol Danvers reconsider her purpose as Captain Marvel?",
     "answer": "Kree-Skrull War"
+  },
+  {
+    "question": "What event marked the beginning of the Infinity War?",
+    "answer": "The search for the Infinity Stones"
   },
   {
     "question": "What event marked the beginning of the Marvel Zombies universe?",
@@ -1048,6 +1088,10 @@
     "answer": "House of M"
   },
   {
+    "question": "What event united the heroes against Thanos?",
+    "answer": "Infinity War"
+  },
+  {
     "question": "What event was key to reuniting the Avengers after their disbandment?",
     "answer": "The appearance of Thanos"
   },
@@ -1094,6 +1138,10 @@
   {
     "question": "What feeling does the main character consider their advantage?",
     "answer": "Courage"
+  },
+  {
+    "question": "What helps wizards see the future?",
+    "answer": "Crystal ball"
   },
   {
     "question": "What hidden threat did Ant-Man discover in S.H.I.E.L.D.'s technological arsenal?",
@@ -1328,6 +1376,14 @@
     "answer": "Technological progress"
   },
   {
+    "question": "What is the main role of Ant-Man in the superhero team?",
+    "answer": "reconnaissance"
+  },
+  {
+    "question": "What is the main threat to the multiverse?",
+    "answer": "Dormammu"
+  },
+  {
     "question": "What is the most efficient method of transportation in space?",
     "answer": "Rocket engine"
   },
@@ -1516,12 +1572,20 @@
     "answer": "Sakaar"
   },
   {
+    "question": "What is the name of the planet where Peter Quill found the Orb?",
+    "answer": "Morag"
+  },
+  {
     "question": "What is the name of the planet where Thanos was born?",
     "answer": "Titan"
   },
   {
     "question": "What is the name of the project in which Steve Rogers was chosen to participate to become a super soldier and protector of America?",
     "answer": "Project Rebirth"
+  },
+  {
+    "question": "What is the name of the protocol used to coordinate the Avengers team?",
+    "answer": "Avengers Protocol"
   },
   {
     "question": "What is the name of the prototype armor for hostage rescue?",
@@ -1542,6 +1606,10 @@
   {
     "question": "What is the name of the spell that allows Doctor Strange to unveil mystical secrets?",
     "answer": "Eye of Agamotto"
+  },
+  {
+    "question": "What is the name of the storyline where Spider-Man fights clones?",
+    "answer": "Clone Saga"
   },
   {
     "question": "What is the name of the superhero team created to fight alien threats that Spider-Man joined?",
@@ -1570,6 +1638,10 @@
   {
     "question": "What is the name of the villain who has survived for centuries thanks to mystical rituals?",
     "answer": "Kang"
+  },
+  {
+    "question": "What is the name of the villain who seeks to destroy everything for power?",
+    "answer": "Mephisto"
   },
   {
     "question": "What is the name of the villain with a unique mask who controls the criminal underworld?",
@@ -1632,6 +1704,10 @@
     "answer": "Reactor"
   },
   {
+    "question": "What is the storyline called where Peter Parker has to balance his superhero duties with school life?",
+    "answer": "The Amazing Spider-Man"
+  },
+  {
     "question": "What is the storyline called where Peter Parker works with Black Cat?",
     "answer": "Spider-Man/Black Cat"
   },
@@ -1686,6 +1762,10 @@
   {
     "question": "What item was decisive in the battle against Thanos?",
     "answer": "Infinity Stones"
+  },
+  {
+    "question": "What key element is used for time travel in the Marvel Cinematic Universe (MCU)?",
+    "answer": "Quantum energy"
   },
   {
     "question": "What key element of Stark's technology gave him an advantage?",
@@ -1790,6 +1870,14 @@
   {
     "question": "What makes Doctor Strange unique among other Marvel heroes?",
     "answer": "Magic"
+  },
+  {
+    "question": "What measures does Wakanda take to maintain social unity?",
+    "answer": "Communication"
+  },
+  {
+    "question": "What measures does Wakanda use to protect its technologies?",
+    "answer": "Secretive"
   },
   {
     "question": "What mechanism allows armor to form around the wearer in seconds?",
@@ -1912,6 +2000,10 @@
     "answer": "3000"
   },
   {
+    "question": "What object was used for time travel in 'Avengers: Endgame'?",
+    "answer": "Quantum machine"
+  },
+  {
     "question": "What object was used to create Vision in the movie 'Avengers: Age of Ultron'?",
     "answer": "Loki's Scepter"
   },
@@ -1936,8 +2028,16 @@
     "answer": "Multiverse"
   },
   {
+    "question": "What philosophical ideas shape Wakanda's approach to innovation?",
+    "answer": "Harmony"
+  },
+  {
     "question": "What philosophical principle underlies the governance of Wakanda?",
     "answer": "Isolationism"
+  },
+  {
+    "question": "What philosophical principle underlies the rule of the King of Wakanda?",
+    "answer": "Ubuntu"
   },
   {
     "question": "What philosophy does Wakanda follow in international relations?",
@@ -2316,6 +2416,14 @@
     "answer": "Quinjet"
   },
   {
+    "question": "What spaceship did the galactic heroes use for their travels?",
+    "answer": "Benatar"
+  },
+  {
+    "question": "What spell allows Doctor Strange to turn back time?",
+    "answer": "Time Reversal"
+  },
+  {
     "question": "What spell does Clea use to tear dimensions apart?",
     "answer": "Reality Rift"
   },
@@ -2334,6 +2442,10 @@
   {
     "question": "What spell does Doctor Strange use to create mirror dimensions?",
     "answer": "Mirror Zone"
+  },
+  {
+    "question": "What spell does Illyana Rasputin use to control dark forces?",
+    "answer": "Dark Sword"
   },
   {
     "question": "What spell does Loki use to travel between worlds?",
@@ -2374,6 +2486,10 @@
   {
     "question": "What strategy does Ant-Man use to fight enemies?",
     "answer": "tactical thinking"
+  },
+  {
+    "question": "What strategy does Scott Lang choose to address issues related to his past?",
+    "answer": "Redemption"
   },
   {
     "question": "What strategy does the hero use to explore new worlds?",
@@ -2552,6 +2668,10 @@
     "answer": "Black Panther"
   },
   {
+    "question": "What traditions form the basis of Wakanda's society?",
+    "answer": "Clan customs"
+  },
+  {
     "question": "What trial did Thor undergo to prove his strength and worthiness?",
     "answer": "Odin's Tournament"
   },
@@ -2640,6 +2760,10 @@
     "answer": "Surgeon"
   },
   {
+    "question": "What was Thor's objective in the battle of Jotunheim?",
+    "answer": "To protect Asgard"
+  },
+  {
     "question": "What was the beginning of the war in 'Secret Wars' 1984?",
     "answer": "Battleworld"
   },
@@ -2682,6 +2806,10 @@
   {
     "question": "What was the name of the first major Marvel crossover event?",
     "answer": "Secret Wars"
+  },
+  {
+    "question": "What was the name of the operation aimed at creating a super soldier?",
+    "answer": "Operation Rebirth"
   },
   {
     "question": "What was the reason behind the Avengers' decision to use quantum technology for time travel?",
@@ -2808,6 +2936,10 @@
     "answer": "Beta Ray Bill"
   },
   {
+    "question": "Which Marvel character created a device that copies the powers of heroes for their own purposes?",
+    "answer": "Taskmaster"
+  },
+  {
     "question": "Which Marvel character first appeared in comics alongside Captain America?",
     "answer": "Bucky Barnes"
   },
@@ -2842,6 +2974,10 @@
   {
     "question": "Which Marvel character used alchemy to create an army of creatures?",
     "answer": "Magus"
+  },
+  {
+    "question": "Which Marvel character used magical artifacts to alter reality?",
+    "answer": "Doctor Doom"
   },
   {
     "question": "Which Marvel character uses magic to control minds for their own purposes?",
@@ -3012,6 +3148,10 @@
     "answer": "Mysterio"
   },
   {
+    "question": "Which Marvel villain is known for their ability to create illusions and manipulate reality based on their victims' fears?",
+    "answer": "Mephisto"
+  },
+  {
     "question": "Which Marvel villain is known for their attempts to create a perfect world through chaos and destruction?",
     "answer": "Doctor Doom"
   },
@@ -3084,6 +3224,10 @@
     "answer": "Mysterio"
   },
   {
+    "question": "Which Marvel villain uses magic to achieve their villainous goals?",
+    "answer": "Diablo"
+  },
+  {
     "question": "Which Marvel villain uses sonic energy as a weapon?",
     "answer": "Shriek"
   },
@@ -3098,6 +3242,10 @@
   {
     "question": "Which Marvel villain uses telepathy to manipulate others?",
     "answer": "Emma Frost"
+  },
+  {
+    "question": "Which Marvel villain uses their abilities to manipulate radiation?",
+    "answer": "Abomination"
   },
   {
     "question": "Which Marvel villain uses their knowledge of quantum mechanics to manipulate the world for their own purposes?",
@@ -3180,6 +3328,10 @@
     "answer": "Snake"
   },
   {
+    "question": "Which animal is closely associated with Deadpool?",
+    "answer": "Unicorn"
+  },
+  {
     "question": "Which antagonist seeks to destroy worlds to achieve their goals?",
     "answer": "Annihilus"
   },
@@ -3216,6 +3368,10 @@
     "answer": "Mandarin"
   },
   {
+    "question": "Which artifact allowed Spider-Man to temporarily gain magical abilities?",
+    "answer": "Mandus Ring"
+  },
+  {
     "question": "Which artifact allows Doctor Strange to see through illusions?",
     "answer": "The Mirror of Vishanti"
   },
@@ -3232,8 +3388,16 @@
     "answer": "Infinity Stone"
   },
   {
+    "question": "Which artifact can alter timelines?",
+    "answer": "Eye of Agamotto"
+  },
+  {
     "question": "Which artifact can create a portal to any dimension in Marvel?",
     "answer": "Seal of the Gates"
+  },
+  {
+    "question": "Which artifact can manipulate reality and is accessible only to the chosen ones?",
+    "answer": "Reality Stone"
   },
   {
     "question": "Which artifact caused the events in 'Infinity War'?",
@@ -3242,6 +3406,10 @@
   {
     "question": "Which artifact changed the fate of Captain Marvel?",
     "answer": "Nega-Bands"
+  },
+  {
+    "question": "Which artifact controls time?",
+    "answer": "Eye of Agamotto"
   },
   {
     "question": "Which artifact enhances magical abilities?",
@@ -3312,8 +3480,16 @@
     "answer": "Genius"
   },
   {
+    "question": "Which aspect of quantum research is crucial?",
+    "answer": "Temporal"
+  },
+  {
     "question": "Which battle marked the appearance of Captain Marvel in the MCU?",
     "answer": "Battle at Torfa"
+  },
+  {
+    "question": "Which battle was significant for Captain Marvel in space?",
+    "answer": "Kree-Skrull War"
   },
   {
     "question": "Which beings grant magic in Wakanda?",
@@ -3422,6 +3598,14 @@
   {
     "question": "Which character in 'The Avengers' is capable of manipulating electromagnetic fields?",
     "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "Which character in 'The Avengers' possesses the technology to create the future?",
+    "answer": "Tony Stark"
+  },
+  {
+    "question": "Which character in Marvel comics is associated with the Mandarin Rings?",
+    "answer": "Mandarin"
   },
   {
     "question": "Which character in Marvel comics is known as 'The Man Without Fear'?",
@@ -3604,6 +3788,10 @@
     "answer": "James Rhodes"
   },
   {
+    "question": "Which character, known as Mysterio, became an enemy of Spider-Man?",
+    "answer": "Mysterio"
+  },
+  {
     "question": "Which chemical element did Norman Osborn use for experiments?",
     "answer": "Ozform"
   },
@@ -3622,6 +3810,10 @@
   {
     "question": "Which comic book character does Deadpool often interact with?",
     "answer": "Cable"
+  },
+  {
+    "question": "Which comic book character is capable of mind control?",
+    "answer": "Professor X"
   },
   {
     "question": "Which comic book character was a close ally of Captain America and later gained their own superhero identity?",
@@ -3668,6 +3860,10 @@
     "answer": "House of M"
   },
   {
+    "question": "Which comic describes the clash of heroes with gods?",
+    "answer": "War of the Realms"
+  },
+  {
     "question": "Which comic describes the heroes' battle against an alien threat?",
     "answer": "Secret Invasion"
   },
@@ -3696,6 +3892,10 @@
     "answer": "Infinity Gauntlet"
   },
   {
+    "question": "Which comic was the first to feature the Galactic Patrol fighting Thanos?",
+    "answer": "Iron Man #55"
+  },
+  {
     "question": "Which comic was the first where Quicksilver and Scarlet Witch joined the Avengers?",
     "answer": "Avengers #16"
   },
@@ -3718,6 +3918,10 @@
   {
     "question": "Which cosmic artifact caused mass conflicts in the comics?",
     "answer": "Infinity Stones"
+  },
+  {
+    "question": "Which cosmic being, initially hostile, became an ally of the galactic heroes?",
+    "answer": "Adam Warlock"
   },
   {
     "question": "Which country in the Marvel world has the most advanced technology?",
@@ -3798,6 +4002,10 @@
   {
     "question": "Which element from 'Iron Man' is connected to 'The Avengers'?",
     "answer": "Shield"
+  },
+  {
+    "question": "Which element in 'Captain America' refers to the 1940s?",
+    "answer": "Radio"
   },
   {
     "question": "Which element in the movie 'Doctor Strange' references classic films?",
@@ -4028,8 +4236,16 @@
     "answer": "Battle of New York"
   },
   {
+    "question": "Which intergalactic artifact has the ability to manipulate time streams?",
+    "answer": "Chronosphere"
+  },
+  {
     "question": "Which intergalactic being helped Captain Marvel realize her power?",
     "answer": "Supreme Intelligence"
+  },
+  {
+    "question": "Which intergalactic conflict led Captain Marvel to new allies?",
+    "answer": "Kree-Skrull"
   },
   {
     "question": "Which intergalactic conflict led to the formation of the galactic heroes?",
@@ -4092,6 +4308,10 @@
     "answer": "Nick Fury"
   },
   {
+    "question": "Which member of the Fantastic Four is known for their outstanding intelligence?",
+    "answer": "Reed Richards"
+  },
+  {
     "question": "Which mission led to the formation of the Avengers team?",
     "answer": "Loki and the Tesseract"
   },
@@ -4118,6 +4338,10 @@
   {
     "question": "Which mutant can absorb the memories of others?",
     "answer": "Rogue"
+  },
+  {
+    "question": "Which mutant can change the shape of their body?",
+    "answer": "Mystique"
   },
   {
     "question": "Which mutant can change their appearance?",
@@ -4176,6 +4400,10 @@
     "answer": "Dazzler"
   },
   {
+    "question": "Which mysterious region of space is considered the dwelling place of ancient beings?",
+    "answer": "Dark Matter"
+  },
+  {
     "question": "Which mythical creature helped Odin in creating a magical artifact in Asgard?",
     "answer": "Dwarves of Nidavellir"
   },
@@ -4216,12 +4444,20 @@
     "answer": "S.H.I.E.L.D."
   },
   {
+    "question": "Which parallel world was originally discovered thanks to the efforts of the Fantastic Four?",
+    "answer": "Earth-616"
+  },
+  {
     "question": "Which part of Deadpool's body symbolizes his regeneration?",
     "answer": "whole body"
   },
   {
     "question": "Which philosophical aspect greatly influences Doctor Strange's worldview?",
     "answer": "Dharma"
+  },
+  {
+    "question": "Which philosophical movement best reflects the inner struggle of the Hulk?",
+    "answer": "Existentialism"
   },
   {
     "question": "Which planet is protected by the faction of warring tribes that the heroes joined?",
@@ -4492,6 +4728,14 @@
     "answer": "The Avengers"
   },
   {
+    "question": "Which superhero used an ancient artifact to manipulate time?",
+    "answer": "Doctor Strange"
+  },
+  {
+    "question": "Which superhero uses advanced technology to fight crime?",
+    "answer": "Iron Man"
+  },
+  {
     "question": "Which superhero was Captain America's opponent in Marvel's Civil War?",
     "answer": "Iron Man"
   },
@@ -4588,6 +4832,10 @@
     "answer": "Throne"
   },
   {
+    "question": "Which team did Deadpool support?",
+    "answer": "X-Force"
+  },
+  {
     "question": "Which team protects the galaxy from threats?",
     "answer": "Guardians of the Galaxy"
   },
@@ -4626,6 +4874,10 @@
   {
     "question": "Which version of armor is capable of functioning underwater?",
     "answer": "Hydro Armor"
+  },
+  {
+    "question": "Which villain attempted to destroy Spider-Man using a symbiote?",
+    "answer": "Venom"
   },
   {
     "question": "Which villain attempts to resurrect a dead world using black magic?",
@@ -4684,6 +4936,10 @@
     "answer": "Doctor Doom"
   },
   {
+    "question": "Which villain led corporate espionage against Stark Industries?",
+    "answer": "Obadiah Stane"
+  },
+  {
     "question": "Which villain led the attack on Wakanda?",
     "answer": "Killmonger"
   },
@@ -4736,6 +4992,10 @@
     "answer": "Klaxon"
   },
   {
+    "question": "Which villain uses mechanical tentacles in combat?",
+    "answer": "Doctor Octopus"
+  },
+  {
     "question": "Which villain uses technology to create an army of drones and is an outstanding inventor?",
     "answer": "Ultron"
   },
@@ -4774,6 +5034,10 @@
   {
     "question": "Who became Iron Man after Tony Stark?",
     "answer": "Riri Williams"
+  },
+  {
+    "question": "Who became Peter's ally in the fight against the goblins?",
+    "answer": "Harry Osborn"
   },
   {
     "question": "Who became T'Challa's enemy in the battle for the throne of Wakanda?",
@@ -4896,6 +5160,10 @@
     "answer": "Siryn"
   },
   {
+    "question": "Who directed the first part of 'Guardians of the Galaxy'?",
+    "answer": "James Gunn"
+  },
+  {
     "question": "Who directed the movie 'Captain Marvel'?",
     "answer": "Anna Boden"
   },
@@ -4962,6 +5230,10 @@
   {
     "question": "Who is Rogue's father?",
     "answer": "Unknown"
+  },
+  {
+    "question": "Who is a frequent enemy of Spider-Man that uses technological wings?",
+    "answer": "Vulture"
   },
   {
     "question": "Who is a member of the 'Guardians of the Galaxy'?",
@@ -5104,6 +5376,10 @@
     "answer": "Todd McFarlane"
   },
   {
+    "question": "Who possesses the ability to travel through time and space?",
+    "answer": "Cable"
+  },
+  {
     "question": "Who seeks to conquer the world using the abilities to manipulate reality and magic?",
     "answer": "Madame Masque"
   },
@@ -5138,6 +5414,10 @@
   {
     "question": "Who was Captain Marvel's key ally in her most important mission?",
     "answer": "Team 'Alpha'"
+  },
+  {
+    "question": "Who was Peter Parker's first love in the comics?",
+    "answer": "X-Men"
   },
   {
     "question": "Who was Spider-Man's enemy in the 'Secret Wars' crossover?",
