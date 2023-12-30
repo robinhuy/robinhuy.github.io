@@ -36,6 +36,10 @@
     "answer": "4"
   },
   {
+    "question": "How many keys does a piano have?",
+    "answer": "88"
+  },
+  {
     "question": "How many songs are in the album 'Reputation'?",
     "answer": "15"
   },
@@ -100,8 +104,16 @@
     "answer": "1989"
   },
   {
+    "question": "In what year was the album 'After Hours' released?",
+    "answer": "2020"
+  },
+  {
     "question": "In what year was the album 'The Eminem Show' released?",
     "answer": ""
+  },
+  {
+    "question": "In what year was the album 'The Low End Theory' released?",
+    "answer": "1991"
   },
   {
     "question": "In what year was the award for Best Hip-Hop Album first given?",
@@ -140,6 +152,10 @@
     "answer": "Madrid"
   },
   {
+    "question": "In which country were the EMAs held in 2021?",
+    "answer": "Hungary"
+  },
+  {
     "question": "In which musical genre are dark reggae lyrics spread?",
     "answer": "Dubplate"
   },
@@ -162,6 +178,10 @@
   {
     "question": "On which label did the Wu-Tang Clan start?",
     "answer": ""
+  },
+  {
+    "question": "Since what year has the Rock Werchter festival been held?",
+    "answer": "1974"
   },
   {
     "question": "The song 'Falling Slowly' is from which movie?",
@@ -190,6 +210,10 @@
   {
     "question": "What city is the hometown of the band Scorpions?",
     "answer": "Hanover"
+  },
+  {
+    "question": "What did Billy Corgan found?",
+    "answer": "The Smashing Pumpkins"
   },
   {
     "question": "What does the term 'build-up' mean in a dubstep track?",
@@ -296,8 +320,16 @@
     "answer": ""
   },
   {
+    "question": "What is the genre of music that combines elements of jazz and blues called?",
+    "answer": "Swing"
+  },
+  {
     "question": "What is the instrumental part in progressive rock called?",
     "answer": "Interlude"
+  },
+  {
+    "question": "What is the main theme of the movie 'Memories of Those Years'?",
+    "answer": "Outcome"
   },
   {
     "question": "What is the main vocal style in opera called?",
@@ -314,6 +346,10 @@
   {
     "question": "What is the name of DJ Alan Walker's debut album?",
     "answer": "Different World"
+  },
+  {
+    "question": "What is the name of DJ Kygo's album released in 2016?",
+    "answer": "Cloud Nine"
   },
   {
     "question": "What is the name of David Bowie's last album?",
@@ -334,6 +370,10 @@
   {
     "question": "What is the name of Flume's 2012 album?",
     "answer": "Flume"
+  },
+  {
+    "question": "What is the name of Jay-Z's 1996 album?",
+    "answer": "Reasonable Doubt"
   },
   {
     "question": "What is the name of Kendrick Lamar's debut album?",
@@ -360,12 +400,20 @@
     "answer": "Animals"
   },
   {
+    "question": "What is the name of Mike Oldfield's instrumental album from the 70s?",
+    "answer": "Tubular Bells"
+  },
+  {
     "question": "What is the name of Mozart's violin concerto with orchestra?",
     "answer": "Concerto No. 3"
   },
   {
     "question": "What is the name of New Order's second studio album?",
     "answer": "Power, Corruption & Lies"
+  },
+  {
+    "question": "What is the name of Prokofiev's famous ballet?",
+    "answer": "Romeo and Juliet"
   },
   {
     "question": "What is the name of Radiohead's 2016 album?",
@@ -396,6 +444,14 @@
     "answer": "Mashup"
   },
   {
+    "question": "What is the name of the Aphex Twin album released in 1996?",
+    "answer": "Richard D. James Album"
+  },
+  {
+    "question": "What is the name of the Bob Dylan album released in 1975?",
+    "answer": "Blood on the Tracks"
+  },
+  {
     "question": "What is the name of the British DJ and producer known by the stage name Aphex Twin?",
     "answer": ""
   },
@@ -416,6 +472,10 @@
     "answer": "Cabasa"
   },
   {
+    "question": "What is the name of the Wu-Tang Clan album?",
+    "answer": "Franke Previte"
+  },
+  {
     "question": "What is the name of the album released by DJ Skrillex in 2014?",
     "answer": ""
   },
@@ -430,6 +490,10 @@
   {
     "question": "What is the name of the award for the best single of the year?",
     "answer": "Best British Single"
+  },
+  {
+    "question": "What is the name of the ballet by Adan?",
+    "answer": "Giselle"
   },
   {
     "question": "What is the name of the composer of 'The Tales of Hoffmann'?",
@@ -480,6 +544,10 @@
     "answer": "Fender Telecaster"
   },
   {
+    "question": "What is the name of the first drum machine?",
+    "answer": "Rhythmicon"
+  },
+  {
     "question": "What is the name of the first woman to win a Grammy for Album of the Year?",
     "answer": "Judy Garland"
   },
@@ -520,12 +588,24 @@
     "answer": "Cueca"
   },
   {
+    "question": "What is the name of the popular drum and bass subgenre with a heavy sound?",
+    "answer": "Neurofunk"
+  },
+  {
     "question": "What is the name of the popular house subgenre with the fastest tempo?",
     "answer": "Tech house"
   },
   {
+    "question": "What is the name of the popular rhythm in reggae?",
+    "answer": "Syncopation"
+  },
+  {
     "question": "What is the name of the singer who performed the hits 'Forever and Ever, Amen' and 'I'm Gonna Love You Forever'?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of the song by Bon Iver released in 2011?",
+    "answer": "Holocene"
   },
   {
     "question": "What is the name of the song from the movie 'The Hobbit: An Unexpected Journey'?",
@@ -534,6 +614,10 @@
   {
     "question": "What is the name of the third studio album by the Backstreet Boys?",
     "answer": "Hits"
+  },
+  {
+    "question": "What is the name of the tool used to tune an orchestra?",
+    "answer": "Tuning fork"
   },
   {
     "question": "What is the name of Ólafur Arnalds' album 'Eulogy for Evolution'?",
@@ -600,8 +684,16 @@
     "answer": ""
   },
   {
+    "question": "What national instrument is known in Finland?",
+    "answer": "Kantele"
+  },
+  {
     "question": "What new category was introduced at the EMA in 2015?",
     "answer": "Best Live Act"
+  },
+  {
+    "question": "What notations were used in early recordings?",
+    "answer": "Neumes"
   },
   {
     "question": "What rhythmic element is key in funk?",
@@ -620,12 +712,24 @@
     "answer": ""
   },
   {
+    "question": "What song became a hit for the group En Vogue in 1990?",
+    "answer": "Hold On"
+  },
+  {
     "question": "What song was a hit for the band Spandau Ballet?",
     "answer": "True"
   },
   {
     "question": "What song was the 'Top Hit' of 2022?",
     "answer": "Levitating"
+  },
+  {
+    "question": "What strings were originally used in musical instruments?",
+    "answer": "Gut"
+  },
+  {
+    "question": "What style combines drum and bass with jazz?",
+    "answer": "Jazzstep"
   },
   {
     "question": "What style is influenced by 'Piedmont Blues'?",
@@ -642,6 +746,14 @@
   {
     "question": "What style of music was popular in the USA in the 1930s?",
     "answer": "Swing jazz"
+  },
+  {
+    "question": "What technique does composer Pierre Boulez use?",
+    "answer": "Serialism"
+  },
+  {
+    "question": "What technique is characteristic of La Monte Young's works?",
+    "answer": "drone"
   },
   {
     "question": "What technique is used to create beats in rap?",
@@ -662,6 +774,10 @@
   {
     "question": "What was the name of Cyndi Lauper's debut album?",
     "answer": "She's So Unusual"
+  },
+  {
+    "question": "What was the name of Haydn's first known composition?",
+    "answer": "Steve Jones"
   },
   {
     "question": "What was the name of Mahler's last project?",
@@ -704,6 +820,10 @@
     "answer": "Émile Valsch"
   },
   {
+    "question": "What was the name of the instrument with 12 strings and a square body?",
+    "answer": "Zither"
+  },
+  {
     "question": "What was the original name of the band Radiohead?",
     "answer": "Joni Mitchell"
   },
@@ -730,6 +850,10 @@
   {
     "question": "When was Daft Punk's album 'Homework' released?",
     "answer": "1997"
+  },
+  {
+    "question": "Where did the first mass performance of a jazz orchestra take place?",
+    "answer": "New York"
   },
   {
     "question": "Where do drum and bass parties often take place?",
@@ -760,6 +884,10 @@
     "answer": "Mikel Angelo"
   },
   {
+    "question": "Which DJ is known for the Defected show?",
+    "answer": "Simon Dunmore"
+  },
+  {
     "question": "Which Daft Punk album is considered a classic in house music?",
     "answer": "Homework"
   },
@@ -776,12 +904,24 @@
     "answer": "Babylon The Bandit"
   },
   {
+    "question": "Which album became iconic in the 70s?",
+    "answer": "The Dark Side of the Moon"
+  },
+  {
+    "question": "Which album became the best-selling in 2004?",
+    "answer": "Confessions"
+  },
+  {
     "question": "Which album by Mother Love Bone became their main one?",
     "answer": "Apple"
   },
   {
     "question": "Which album did Marvin Gaye release in 1971?",
     "answer": "What's Going On"
+  },
+  {
+    "question": "Which album did Radiohead release in 2007?",
+    "answer": "In Rainbows"
   },
   {
     "question": "Which album did Sly and the Family Stone release in 1971?",
@@ -884,6 +1024,10 @@
     "answer": "Electronic Music"
   },
   {
+    "question": "Which category was introduced at the AMAs in 2019?",
+    "answer": "Best Social Artist"
+  },
+  {
     "question": "Which category was introduced at the EMA in 2016?",
     "answer": "Best Latin"
   },
@@ -924,6 +1068,10 @@
     "answer": "2002"
   },
   {
+    "question": "Which famous album was recorded at the Village Vanguard?",
+    "answer": "Sunday at the Village Vanguard"
+  },
+  {
     "question": "Which famous drum and bass track was made famous by DJ Aphrodite?",
     "answer": "Stalker"
   },
@@ -958,6 +1106,10 @@
   {
     "question": "Which folk singer released the album 'Blue' in 1971?",
     "answer": ""
+  },
+  {
+    "question": "Which foreign artist was the first to receive a BRIT Award?",
+    "answer": "Frankie Goes to Hollywood"
   },
   {
     "question": "Which genre includes elements of blues and electronics?",
@@ -1004,6 +1156,10 @@
     "answer": "Sitar"
   },
   {
+    "question": "Which instrument has keys and a drum?",
+    "answer": "Timpani"
+  },
+  {
     "question": "Which instrument is associated with Iran?",
     "answer": "Tar"
   },
@@ -1028,6 +1184,14 @@
     "answer": ""
   },
   {
+    "question": "Which instrument is used in classical music?",
+    "answer": "Bassoon"
+  },
+  {
+    "question": "Which instrument produces brass sounds?",
+    "answer": "French horn"
+  },
+  {
     "question": "Which instrument produces sound using a single metal tongue?",
     "answer": "Folk music"
   },
@@ -1048,6 +1212,10 @@
     "answer": "John Coltrane"
   },
   {
+    "question": "Which label was founded by the group Run-D.M.C.?",
+    "answer": "Profile Records"
+  },
+  {
     "question": "Which metal genre often features anti-Christian themes?",
     "answer": "Black metal"
   },
@@ -1064,6 +1232,10 @@
     "answer": "Death metal"
   },
   {
+    "question": "Which music category was added in 2003 at the music awards?",
+    "answer": "Best Rap Performer"
+  },
+  {
     "question": "Which music genre emphasizes drums and bass?",
     "answer": "Dub"
   },
@@ -1072,12 +1244,24 @@
     "answer": ""
   },
   {
+    "question": "Which music genre is associated with fast rhythms and an emphasis on bass?",
+    "answer": "Techno"
+  },
+  {
     "question": "Which music genre uses distortion?",
     "answer": ""
   },
   {
     "question": "Which music genre uses elements of post-industrial sound?",
     "answer": ""
+  },
+  {
+    "question": "Which music video won the 'Best Art Direction' award in 2014?",
+    "answer": "Arcade Fire - Reflektor"
+  },
+  {
+    "question": "Which music video won the 'Best Dance Video' award in 2019?",
+    "answer": "Call You Mine"
   },
   {
     "question": "Which music video won the 'Best Editing' award in 2016?",
@@ -1098,6 +1282,10 @@
   {
     "question": "Which musical composition was written by Mussorgsky?",
     "answer": "Night on Bald Mountain"
+  },
+  {
+    "question": "Which musical form typically consists of four movements?",
+    "answer": "Symphony"
   },
   {
     "question": "Which musical genre uses mathematical structures?",
@@ -1132,6 +1320,10 @@
     "answer": "Ornette Coleman"
   },
   {
+    "question": "Which musician is associated with the project The Orb?",
+    "answer": "Alex Paterson"
+  },
+  {
     "question": "Which musician is known as the leader of the band Fugazi?",
     "answer": "Ian MacKaye"
   },
@@ -1158,6 +1350,10 @@
   {
     "question": "Which publication was key to the development of techno in Detroit?",
     "answer": "'Techno! The New Dance Sound of Detroit'"
+  },
+  {
+    "question": "Which rapper is known for his fast-paced style?",
+    "answer": "Twista"
   },
   {
     "question": "Which romance does Fyodor Chaliapin perform?",
@@ -1194,6 +1390,10 @@
   {
     "question": "Which song became iconic for Joan Baez?",
     "answer": "Paul Simon"
+  },
+  {
+    "question": "Which song became the Billboard hit of the year 2019?",
+    "answer": "Old Town Road"
   },
   {
     "question": "Which song did Alanis Morissette perform in the 2010s?",
@@ -1276,6 +1476,10 @@
     "answer": ""
   },
   {
+    "question": "Which symphony is called 'Unfinished'?",
+    "answer": "Schubert's Symphony"
+  },
+  {
     "question": "Which track did Travis Scott release in 2018?",
     "answer": "Sicko Mode"
   },
@@ -1286,6 +1490,10 @@
   {
     "question": "Which work by Pärt was written in the 'remound' style?",
     "answer": "Trio"
+  },
+  {
+    "question": "Which work was composed by Johann Sebastian Bach?",
+    "answer": "Brandenburg Concertos"
   },
   {
     "question": "Who composed 'Duke Bluebeard's Castle'?",
@@ -1302,6 +1510,10 @@
   {
     "question": "Who composed Symphony No. 9?",
     "answer": "Anton Bruckner"
+  },
+  {
+    "question": "Who composed the 'Gothic Suite'?",
+    "answer": "Léon Boëllmann"
   },
   {
     "question": "Who composed the 'Spring' Sonata?",
@@ -1432,6 +1644,10 @@
     "answer": "Johannes Brahms"
   },
   {
+    "question": "Who is the bassist of the band Tool?",
+    "answer": "Justin Chancellor"
+  },
+  {
     "question": "Who is the composer for the movie 'Ghost'?",
     "answer": ""
   },
@@ -1440,12 +1656,24 @@
     "answer": "Nielsen"
   },
   {
+    "question": "Who is the composer of 'Scheherazade'?",
+    "answer": "Rimsky-Korsakov"
+  },
+  {
     "question": "Who is the composer of the symphony 'Manfred'?",
     "answer": ""
   },
   {
     "question": "Who is the founder of the band 'Tangerine Dream'?",
     "answer": ""
+  },
+  {
+    "question": "Who is the founder of the bossa nova style?",
+    "answer": "João Gilberto"
+  },
+  {
+    "question": "Who is the most frequent winner of the BRIT Award?",
+    "answer": "Robbie Williams"
   },
   {
     "question": "Who is the vocalist of the band Dimmu Borgir?",
@@ -1492,6 +1720,10 @@
     "answer": "Frankie Valli"
   },
   {
+    "question": "Who produced 'Return of the Jedi'?",
+    "answer": "Rick McCallum"
+  },
+  {
     "question": "Who received the 'Artist of the Decade' award in 2010?",
     "answer": "Eminem"
   },
@@ -1536,12 +1768,24 @@
     "answer": "Charles Mingus"
   },
   {
+    "question": "Who was a member of the 'Modern Jazz Quartet'?",
+    "answer": "John Lewis"
+  },
+  {
+    "question": "Who was a pioneer in the use of synthesizers in rock music?",
+    "answer": "Pink Floyd"
+  },
+  {
     "question": "Who was named the best female country artist in 2020?",
     "answer": "Maren Morris"
   },
   {
     "question": "Who was the Producer of the Year at the 2020 BRIT Awards?",
     "answer": "Fred Again"
+  },
+  {
+    "question": "Who was the author of the treatise 'Ars Nova'?",
+    "answer": "Philippe de Vitry"
   },
   {
     "question": "Who was the famous composer Boethius?",
@@ -1584,6 +1828,14 @@
     "answer": "Quorthon"
   },
   {
+    "question": "Who was the founder of the band Nine Inch Nails?",
+    "answer": "Trent Reznor"
+  },
+  {
+    "question": "Who was the frontman of the band Parliament-Funkadelic?",
+    "answer": "Evanescence"
+  },
+  {
     "question": "Who was the frontman of the band The Misfits?",
     "answer": "Howard Shore"
   },
@@ -1610,6 +1862,10 @@
   {
     "question": "Who won Best New Artist at the 2017 EMA?",
     "answer": "Dua Lipa"
+  },
+  {
+    "question": "Who won the 'Best Local Act' award in the UK and Ireland in 2019?",
+    "answer": "Little Mix"
   },
   {
     "question": "Who won the 'Best Neo-Soul Album' award in 2019?",
@@ -1644,6 +1900,14 @@
     "answer": ""
   },
   {
+    "question": "Who won the award for Best Rock Album in 2007?",
+    "answer": "30 Seconds to Mars"
+  },
+  {
+    "question": "Who won the award for Best Soundtrack in 2019?",
+    "answer": "Queen"
+  },
+  {
     "question": "Who won the first Grammy Award for Album of the Year?",
     "answer": "Henry Mancini"
   },
@@ -1658,5 +1922,9 @@
   {
     "question": "Who wrote 'Paganini'?",
     "answer": ""
+  },
+  {
+    "question": "Who wrote 'The Triumphal Symphony'?",
+    "answer": "Richard Wagner"
   }
 ]

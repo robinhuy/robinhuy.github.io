@@ -4,12 +4,20 @@
     "answer": "70-100 cm"
   },
   {
+    "question": "At what distance from the surface should plants be watered?",
+    "answer": "20-30 cm"
+  },
+  {
     "question": "At what distance should dahlias be planted from each other?",
     "answer": "60-90 cm"
   },
   {
     "question": "How are pests controlled in organic gardening?",
     "answer": "Biological method"
+  },
+  {
+    "question": "How long do red cabbage seeds remain viable?",
+    "answer": "Sprayer"
   },
   {
     "question": "How long does it take for tomatoes to ripen?",
@@ -44,8 +52,16 @@
     "answer": "Filtration"
   },
   {
+    "question": "One method of grafting trees?",
+    "answer": "Coppicing"
+  },
+  {
     "question": "What are Japanese gardens decorated with?",
     "answer": "Rocks and sand"
+  },
+  {
+    "question": "What are elevations in the landscape commonly called?",
+    "answer": "Hills"
   },
   {
     "question": "What are the types of biological enemies of pests?",
@@ -56,8 +72,16 @@
     "answer": "Soil warming"
   },
   {
+    "question": "What area does one apple tree occupy?",
+    "answer": "10-20 m²"
+  },
+  {
     "question": "What device is used for shredding branches?",
     "answer": "shredder"
+  },
+  {
+    "question": "What device prevents backflow of water into the system?",
+    "answer": "Check valve"
   },
   {
     "question": "What does a Japanese garden represent?",
@@ -76,6 +100,10 @@
     "answer": "Biotopes"
   },
   {
+    "question": "What equipment is used to remove old turf?",
+    "answer": "Aerator"
+  },
+  {
     "question": "What flower is the official symbol of Japan?",
     "answer": "Chrysanthemum"
   },
@@ -92,8 +120,20 @@
     "answer": "2 meters"
   },
   {
+    "question": "What helps improve soil drainage?",
+    "answer": "Sand"
+  },
+  {
     "question": "What helps improve the ventilation of a compost pile?",
     "answer": "Turning"
+  },
+  {
+    "question": "What helps to save water in drip irrigation?",
+    "answer": "Controller"
+  },
+  {
+    "question": "What humidity do compost worms prefer?",
+    "answer": "Moderate"
   },
   {
     "question": "What important task should be done when preparing a greenhouse for winter?",
@@ -112,12 +152,20 @@
     "answer": "Measuring humidity"
   },
   {
+    "question": "What is a natural method of pest control?",
+    "answer": "Mulching"
+  },
+  {
     "question": "What is added to compost to improve its structure?",
     "answer": "Sawdust"
   },
   {
     "question": "What is added to improve the drainage of compost?",
     "answer": "Sand"
+  },
+  {
+    "question": "What is an effective method for mosquito control?",
+    "answer": "Biological methods"
   },
   {
     "question": "What is an element of vertical gardening?",
@@ -136,8 +184,20 @@
     "answer": "Heaters"
   },
   {
+    "question": "What is often used to create a landscape?",
+    "answer": "Terracing"
+  },
+  {
     "question": "What is often used to reinforce the frame of a greenhouse?",
     "answer": "Beams"
+  },
+  {
+    "question": "What is the advantage of sprinkler systems?",
+    "answer": "Cover large areas"
+  },
+  {
+    "question": "What is the area of a standard modular greenhouse?",
+    "answer": "annually"
   },
   {
     "question": "What is the best thing to water plants with?",
@@ -164,6 +224,10 @@
     "answer": "Heater"
   },
   {
+    "question": "What is the function of a pressure regulator in an irrigation system?",
+    "answer": "Pressure regulation"
+  },
+  {
     "question": "What is the function of agrotextile?",
     "answer": "Protection from frost"
   },
@@ -174,6 +238,14 @@
   {
     "question": "What is the method of creating terraces on slopes called?",
     "answer": "Terracing"
+  },
+  {
+    "question": "What is the method of growing vegetables without using soil called?",
+    "answer": "Hydroponics"
+  },
+  {
+    "question": "What is the method of using different crops to improve soil called?",
+    "answer": "Crop rotation"
   },
   {
     "question": "What is the name of a garden corner designed for relaxation and meditation?",
@@ -224,12 +296,32 @@
     "answer": "Trowel"
   },
   {
+    "question": "What is the tool called for working with stone?",
+    "answer": "Pickaxe"
+  },
+  {
     "question": "What is used to control weeds?",
     "answer": "Herbicides"
   },
   {
+    "question": "What is used to loosen the soil after rain?",
+    "answer": "Cultivator"
+  },
+  {
+    "question": "What is used to protect tomatoes from late blight?",
+    "answer": "Fungicides"
+  },
+  {
     "question": "What is used to reinforce slopes?",
     "answer": "Geogrids"
+  },
+  {
+    "question": "What is used to reinforce the soil on slopes?",
+    "answer": "Gabions"
+  },
+  {
+    "question": "What level of moisture is important for compost?",
+    "answer": "Moderate"
   },
   {
     "question": "What material improves the drainage of a compost pile?",
@@ -252,6 +344,10 @@
     "answer": "Polyculture"
   },
   {
+    "question": "What methods of controlling nematodes are popular?",
+    "answer": "Biological"
+  },
+  {
     "question": "What methods of maintaining fertility are used in organic farming?",
     "answer": "Green manure"
   },
@@ -266,6 +362,10 @@
   {
     "question": "What natural remedy is effective against spider mites?",
     "answer": "Phytoseiulus"
+  },
+  {
+    "question": "What parameter is important to consider when watering plants?",
+    "answer": "Soil moisture"
   },
   {
     "question": "What pest control method is environmentally friendly?",
@@ -284,12 +384,20 @@
     "answer": "Herbs"
   },
   {
+    "question": "What prevents overheating in a greenhouse?",
+    "answer": "ventilation"
+  },
+  {
     "question": "What protects plants from pests at the molecular level?",
     "answer": "Genetic modification"
   },
   {
     "question": "What role do microorganisms play in the ecosystem?",
     "answer": "Decomposition of organic matter"
+  },
+  {
+    "question": "What should be considered when choosing polycarbonate for a greenhouse?",
+    "answer": "thickness and UV protection"
   },
   {
     "question": "What should you do if aphids appear on plants?",
@@ -320,6 +428,10 @@
     "answer": "Mulching"
   },
   {
+    "question": "What technique is used to create green arches?",
+    "answer": "Weaving"
+  },
+  {
     "question": "What temperature can biomass withstand?",
     "answer": "From 50 to 70°C"
   },
@@ -336,8 +448,20 @@
     "answer": "Mulcher"
   },
   {
+    "question": "What tool is used for picking fruits?",
+    "answer": "Composting"
+  },
+  {
+    "question": "What tool is used for seed stratification?",
+    "answer": "Stratifier"
+  },
+  {
     "question": "What type of fertilizer is used for citrus plants?",
     "answer": "nitrogen-phosphorus"
+  },
+  {
+    "question": "What type of fertilizers are best suited for flowers?",
+    "answer": "Organic"
   },
   {
     "question": "What type of greenhouse is best suited for obtaining an early harvest?",
@@ -364,6 +488,18 @@
     "answer": "Meat"
   },
   {
+    "question": "When can you use ready compost?",
+    "answer": "After 6 months"
+  },
+  {
+    "question": "Which berries are resistant to cold?",
+    "answer": "Gooseberry"
+  },
+  {
+    "question": "Which composters are best suited for processing large volumes of waste?",
+    "answer": "Thermal composters"
+  },
+  {
     "question": "Which crops are often grown in organic gardens?",
     "answer": "Alfalfa"
   },
@@ -380,6 +516,10 @@
     "answer": "Crop rotation"
   },
   {
+    "question": "Which fertilizers are natural?",
+    "answer": "Peach"
+  },
+  {
     "question": "Which flower blooms for only one day?",
     "answer": "Hibiscus"
   },
@@ -392,12 +532,24 @@
     "answer": "Edelweiss"
   },
   {
+    "question": "Which flower was used to create a natural incubator?",
+    "answer": "orchid"
+  },
+  {
     "question": "Which flowers can be propagated by cuttings?",
     "answer": "Geranium"
   },
   {
+    "question": "Which flowers can survive outdoors in winter?",
+    "answer": "dahlia"
+  },
+  {
     "question": "Which flowers come alive at night?",
     "answer": "Moonflowers"
+  },
+  {
+    "question": "Which flowers symbolize eternal love and devotion?",
+    "answer": "Tulips"
   },
   {
     "question": "Which fruit cannot withstand frost?",
@@ -406,6 +558,10 @@
   {
     "question": "Which fruit contains vitamins K and A?",
     "answer": "Apricot"
+  },
+  {
+    "question": "Which fruit crop requires a lot of water?",
+    "answer": "Strawberry"
   },
   {
     "question": "Which fruit is a symbol of the Carthage location?",
@@ -422,6 +578,10 @@
   {
     "question": "Which garden element is used to create relief?",
     "answer": "Terraces"
+  },
+  {
+    "question": "Which garden style prefers the use of stones and gravel?",
+    "answer": "Japanese garden"
   },
   {
     "question": "Which insecticide is used to treat roses?",
@@ -460,12 +620,28 @@
     "answer": "Whitefly"
   },
   {
+    "question": "Which pest often affects apple trees?",
+    "answer": "Codling moth"
+  },
+  {
+    "question": "Which pest often attacks eggplants?",
+    "answer": "Colorado potato beetle"
+  },
+  {
     "question": "Which pests are fond of carrots?",
     "answer": "Carrot fly"
   },
   {
     "question": "Which pests cause damage to vineyards?",
     "answer": "phylloxera"
+  },
+  {
+    "question": "Which plant easily withstands frost?",
+    "answer": "Viburnum"
+  },
+  {
+    "question": "Which plant grows on walls and vertical surfaces?",
+    "answer": "Ivy"
   },
   {
     "question": "Which plant is called 'cat's ears'?",
@@ -512,6 +688,14 @@
     "answer": "Annuals"
   },
   {
+    "question": "Which plants prefer shade?",
+    "answer": "Ferns"
+  },
+  {
+    "question": "Which plants require support when growing?",
+    "answer": "Grapes"
+  },
+  {
     "question": "Which shape of a greenhouse retains heat better?",
     "answer": "Dome-shaped"
   },
@@ -522,6 +706,14 @@
   {
     "question": "Which soil treatment method involves complete digging?",
     "answer": "Plowing"
+  },
+  {
+    "question": "Which technique helps improve soil?",
+    "answer": "Vermicomposting"
+  },
+  {
+    "question": "Which technique involves the use of water elements?",
+    "answer": "Hydroponics"
   },
   {
     "question": "Which tree has flowers with five petals?",
