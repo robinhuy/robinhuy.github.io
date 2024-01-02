@@ -92,6 +92,10 @@
     "answer": "Changing appearance"
   },
   {
+    "question": "How did Arya use her stealth ability while completing tasks in Westeros?",
+    "answer": "Hid from enemies"
+  },
+  {
     "question": "How did Arya use the skills she acquired in Braavos?",
     "answer": "Disguise"
   },
@@ -194,6 +198,10 @@
   {
     "question": "How did John handle internal conflicts within his team?",
     "answer": "Diplomatically"
+  },
+  {
+    "question": "How did John influence the morale of his allies?",
+    "answer": "Supported"
   },
   {
     "question": "How did John influence the morale of his troops?",
@@ -340,6 +348,10 @@
     "answer": "Changed the dynamics"
   },
   {
+    "question": "How did the Iron Throne cause numerous conflicts?",
+    "answer": "The pursuit of power"
+  },
+  {
     "question": "How did the Iron Throne change the international relations of Westeros?",
     "answer": "Aggressive diplomacy"
   },
@@ -478,6 +490,10 @@
   {
     "question": "How do the Ironborn maintain their military power?",
     "answer": "shipbuilding"
+  },
+  {
+    "question": "How do the Ironborn manage their strategic resources?",
+    "answer": "Fleet control"
   },
   {
     "question": "How do the Ironborn preserve their culture?",
@@ -696,6 +712,10 @@
     "answer": "Enemies and intrigues"
   },
   {
+    "question": "What art is studied for the creation of medicinal products?",
+    "answer": "Pharmacology"
+  },
+  {
     "question": "What artifact allowed the Targaryens to control dragons and maintain their power?",
     "answer": "Dragon horn"
   },
@@ -802,6 +822,10 @@
   {
     "question": "What color of helmets symbolizes belonging to the Royal Guard?",
     "answer": "White"
+  },
+  {
+    "question": "What conditions are necessary for dragon hatching?",
+    "answer": "Heat and magic"
   },
   {
     "question": "What conflicts are associated with the Iron Throne?",
@@ -992,6 +1016,10 @@
     "answer": "The Red Wedding"
   },
   {
+    "question": "What event changed the composition of the Kingsguard after the death of Robert Baratheon?",
+    "answer": "Conquest of the Red Keep"
+  },
+  {
     "question": "What event demonstrated the power of dragons in the Targaryen wars?",
     "answer": "The Fall of Harrenhal"
   },
@@ -1026,6 +1054,10 @@
   {
     "question": "What event in Winterfell changed the fate of the North?",
     "answer": "Battle of the Bastards"
+  },
+  {
+    "question": "What event in the North marked the beginning of winter?",
+    "answer": "The Fall of Winterfell"
   },
   {
     "question": "What event led to a change in Daenerys' strategy in Essos?",
@@ -1144,6 +1176,10 @@
     "answer": "The Red Wedding"
   },
   {
+    "question": "What event was a turning point in Daenerys' conquests in Essos?",
+    "answer": "Liberation of the slaves"
+  },
+  {
     "question": "What event was a turning point in John's life?",
     "answer": "The Uprising at the Wall"
   },
@@ -1206,6 +1242,10 @@
   {
     "question": "What external factors helped Arya in her development?",
     "answer": "Support from allies"
+  },
+  {
+    "question": "What external threat endangers the positions of the Ironborn?",
+    "answer": "Westerosi armies"
   },
   {
     "question": "What external threats are most dangerous for the Ironborn?",
@@ -1308,6 +1348,10 @@
     "answer": "Wars"
   },
   {
+    "question": "What historical role did House Frey play in the War of the Five Kings?",
+    "answer": "Betrayal of the Starks"
+  },
+  {
     "question": "What image was formed of Tyrion in the eyes of society?",
     "answer": "Unpredictable"
   },
@@ -1404,6 +1448,10 @@
     "answer": "Astrolabe"
   },
   {
+    "question": "What internal and external conflicts complicated Daenerys's rule?",
+    "answer": "Betrayals of allies"
+  },
+  {
     "question": "What internal conflicts arose within Daenerys's army?",
     "answer": "Ethnic disagreements"
   },
@@ -1434,6 +1482,10 @@
   {
     "question": "What is one factor that determines the independence of the Ironborn?",
     "answer": "Naval power"
+  },
+  {
+    "question": "What is one implicit political consequence of Balon's defeat?",
+    "answer": "Weakening of power"
   },
   {
     "question": "What is one tradition of the Ironborn that shapes their seafaring culture?",
@@ -1642,6 +1694,10 @@
   {
     "question": "What legacy did Lord Rickard Karstark leave behind?",
     "answer": "Loyalty to the Starks"
+  },
+  {
+    "question": "What legacy did Tyrion Lannister leave after the War of the Five Kings?",
+    "answer": "Political reforms"
   },
   {
     "question": "What legend is associated with the creation of a Valyrian sword?",
@@ -2076,6 +2132,10 @@
     "answer": "Empathy"
   },
   {
+    "question": "What quality of John allowed him to overcome difficulties in the Night's Watch?",
+    "answer": "Steadfastness"
+  },
+  {
     "question": "What quality of Tyrion Lannister helped him in difficult negotiations?",
     "answer": "Calmness"
   },
@@ -2126,6 +2186,10 @@
   {
     "question": "What role did John play in the coalition against a common enemy?",
     "answer": "Leader"
+  },
+  {
+    "question": "What role did Jon Snow play in diplomatic negotiations with the Wildlings that changed the course of the war in the North?",
+    "answer": "Peacemaker"
   },
   {
     "question": "What role did Jon Snow's personal beliefs play in his decisions in political and military matters?",
@@ -2496,6 +2560,10 @@
     "answer": "Offensive"
   },
   {
+    "question": "What strategy did Tyrion choose for success in intrigues?",
+    "answer": "Situation analysis"
+  },
+  {
     "question": "What strategy did Tyrion develop for the siege of the city?",
     "answer": "Diversion"
   },
@@ -2724,6 +2792,10 @@
     "answer": "Prince of Dorne"
   },
   {
+    "question": "What title did the leader of the Night's Watch hold?",
+    "answer": "Lord Commander"
+  },
+  {
     "question": "What title do the knights of the Royal Guard bear to signify their membership?",
     "answer": "White Knights"
   },
@@ -2852,8 +2924,16 @@
     "answer": "Throne"
   },
   {
+    "question": "What was Daenerys' goal in her journey to the east?",
+    "answer": "Conquest of lands"
+  },
+  {
     "question": "What was Daenerys' main goal in her campaign against Slaver's Bay?",
     "answer": "Freeing the slaves"
+  },
+  {
+    "question": "What was Daenerys' main strategy to win the hearts of the people of Essos?",
+    "answer": "Justice"
   },
   {
     "question": "What was Jon Snow's attitude towards power and how did it influence his decisions?",
@@ -3098,6 +3178,10 @@
   {
     "question": "What were the consequences of the Ironborn Rebellion?",
     "answer": "Weakening of influence"
+  },
+  {
+    "question": "What were the consequences of the Martells' alliance with the Iron Islands?",
+    "answer": "Increased influence"
   },
   {
     "question": "What were the consequences of the fall of the Targaryen dynasty?",
@@ -3764,6 +3848,10 @@
     "answer": "Lannisters"
   },
   {
+    "question": "Which house is known for its loyalty to the Starks?",
+    "answer": "Manderly"
+  },
+  {
     "question": "Which house is known for its motto 'Fire and Blood'?",
     "answer": "House Targaryen"
   },
@@ -4008,6 +4096,10 @@
     "answer": "Barristan Selmy"
   },
   {
+    "question": "Which knight was appointed to the Kingsguard after the Battle of the Blackwater?",
+    "answer": "Ser Loras"
+  },
+  {
     "question": "Which knight was chosen to protect the royal family when the invaders approached the Red Keep?",
     "answer": "Jaime Lannister"
   },
@@ -4120,6 +4212,10 @@
     "answer": "Astromagic"
   },
   {
+    "question": "Which marriage changed the balance of power in the North?",
+    "answer": "Stark and Bolton"
+  },
+  {
     "question": "Which marriage contributed to the unification of the North?",
     "answer": "Starks and Arryns"
   },
@@ -4170,6 +4266,10 @@
   {
     "question": "Which of the Starks was trained by the Faceless Men?",
     "answer": "Arya Stark"
+  },
+  {
+    "question": "Which of the dragon eggs was considered a symbol of hope for House Targaryen?",
+    "answer": "Red egg"
   },
   {
     "question": "Which of the knights of the Kingsguard remained loyal to Cersei?",
@@ -4300,6 +4400,10 @@
     "answer": "White Knife"
   },
   {
+    "question": "Which river separates Westeros and the Iron Islands?",
+    "answer": "Mander River"
+  },
+  {
     "question": "Which ruler of the Iron Throne was known for their cruelty?",
     "answer": "Maegor I"
   },
@@ -4322,6 +4426,10 @@
   {
     "question": "Which skill of a maester is associated with healing?",
     "answer": "Medicine"
+  },
+  {
+    "question": "Which social groups had the greatest influence on the politics of the Iron Throne?",
+    "answer": "Aristocracy"
   },
   {
     "question": "Which society did Jon lead?",
@@ -4568,6 +4676,10 @@
     "answer": "Petyr Baelish"
   },
   {
+    "question": "Who had a significant influence on Tyrion Lannister's worldview?",
+    "answer": "Varys"
+  },
+  {
     "question": "Who had a vision about the awakening of the 'Old Gods' in the North?",
     "answer": "Lyuta"
   },
@@ -4690,6 +4802,10 @@
   {
     "question": "Who is the keeper of wisdom and knowledge in Westeros?",
     "answer": "Archmaester"
+  },
+  {
+    "question": "Who killed Jon Snow?",
+    "answer": "Olly"
   },
   {
     "question": "Who killed King Aerys II?",
@@ -4820,6 +4936,10 @@
     "answer": "Syrio Forel"
   },
   {
+    "question": "Who took the throne after Robert Baratheon?",
+    "answer": "Joffrey Baratheon"
+  },
+  {
     "question": "Who trained Arya Stark in Braavos?",
     "answer": "Jaqen H'ghar"
   },
@@ -4902,6 +5022,10 @@
   {
     "question": "Who was known for their knowledge in the field of science in Westeros?",
     "answer": "The Citadel"
+  },
+  {
+    "question": "Who was married to Selyse Florent?",
+    "answer": "Stannis Baratheon"
   },
   {
     "question": "Who was married to Tyrion Lannister?",
