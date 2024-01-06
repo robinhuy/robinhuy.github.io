@@ -16,6 +16,10 @@
     "answer": "Focus on her goal"
   },
   {
+    "question": "How did Arya Stark deal with her internal conflict during her journey of vengeance?",
+    "answer": "Self-reflection"
+  },
+  {
     "question": "How did Arya Stark decide to travel to Braavos after leaving Westeros?",
     "answer": "Coin"
   },
@@ -86,6 +90,10 @@
   {
     "question": "How did Arya strengthen her resolve?",
     "answer": "Experience"
+  },
+  {
+    "question": "How did Arya successfully infiltrate Riverrun to take revenge on the Freys?",
+    "answer": "By pretending to be a maid"
   },
   {
     "question": "How did Arya use her disguise skills on her path to revenge?",
@@ -380,6 +388,10 @@
     "answer": "Isolation and discreditation"
   },
   {
+    "question": "How did the Lannisters deal with threats to their plans?",
+    "answer": "Elimination"
+  },
+  {
     "question": "How did the Lannisters eliminate competitors among other houses?",
     "answer": "Intrigue"
   },
@@ -624,6 +636,10 @@
     "answer": "The Goldfield"
   },
   {
+    "question": "On which island is Dragon's Lair located?",
+    "answer": "Dragonstone"
+  },
+  {
     "question": "To which family by origin does Joffrey Baratheon belong on his mother's side?",
     "answer": "Lannisters"
   },
@@ -722,6 +738,10 @@
   {
     "question": "What approach did John use for negotiations with opponents?",
     "answer": "Conciliatory"
+  },
+  {
+    "question": "What approach did John use to unite the disparate factions?",
+    "answer": "Diplomatic"
   },
   {
     "question": "What approach did the Lannisters use to ensure the stability of their power?",
@@ -1232,6 +1252,10 @@
     "answer": "The Uprising at the Wall"
   },
   {
+    "question": "What event was a turning point in Tyrion Lannister's life?",
+    "answer": "The Lannister Trial"
+  },
+  {
     "question": "What event was a turning point in the fate of House Baratheon?",
     "answer": "Robert's Rebellion"
   },
@@ -1484,6 +1508,10 @@
     "answer": "Alliance with the Targaryens"
   },
   {
+    "question": "What influence did John have on the course of the war?",
+    "answer": "Strategic"
+  },
+  {
     "question": "What influence did the ancient Valyrians have on the culture of magic in Essos?",
     "answer": "Significant"
   },
@@ -1652,6 +1680,10 @@
     "answer": "Strengthening the economy"
   },
   {
+    "question": "What is the role of the Iron Throne in uniting Westeros under one rule?",
+    "answer": "Centralization"
+  },
+  {
     "question": "What is the significance of the Iron Fleet for the Ironborn?",
     "answer": "Naval power"
   },
@@ -1714,6 +1746,10 @@
   {
     "question": "What key historical factors defined the traditions of the Ironborn?",
     "answer": "Seafaring raids"
+  },
+  {
+    "question": "What key lesson did Arya learn from her training in Braavos?",
+    "answer": "Discipline"
   },
   {
     "question": "What key skill did Arya learn in the House of Black and White?",
@@ -1992,6 +2028,10 @@
     "answer": "White Walkers"
   },
   {
+    "question": "What mystical element in Targaryen culture strengthened their claims to the throne and was associated with dragons?",
+    "answer": "Prophecy of Azor Ahai"
+  },
+  {
     "question": "What mythical creature was popular in the myths of Essos?",
     "answer": "Dragon"
   },
@@ -2070,6 +2110,10 @@
   {
     "question": "What nickname did Tyrion Lannister's enemies use for him?",
     "answer": "The Imp"
+  },
+  {
+    "question": "What oath binds the knights of the Royal Guard to absolute loyalty?",
+    "answer": "The White Oath"
   },
   {
     "question": "What oath did Jon Snow take in the Night's Watch?",
@@ -2170,6 +2214,10 @@
   {
     "question": "What prophecy is associated with the 'Song of the Exiled King'?",
     "answer": "Golden Song"
+  },
+  {
+    "question": "What prophecy is associated with the Night King?",
+    "answer": "The Long Night"
   },
   {
     "question": "What prophecy is associated with the Red Wedding?",
@@ -2298,6 +2346,10 @@
   {
     "question": "What role did dragon prophecies play in the politics of the cities of Essos?",
     "answer": "Key"
+  },
+  {
+    "question": "What role did dragons play in Daenerys' strategy to achieve her goals?",
+    "answer": "Fear and power"
   },
   {
     "question": "What role did dragons play in Targaryen politics?",
@@ -2628,6 +2680,10 @@
     "answer": "Uniting the houses"
   },
   {
+    "question": "What strategy did Jon Snow use in the 'Battle of the Bastards'?",
+    "answer": "Frontal assault"
+  },
+  {
     "question": "What strategy did Jon Snow use in the Battle of Winterfell?",
     "answer": "Trenches and fire"
   },
@@ -2822,6 +2878,10 @@
   {
     "question": "What tactic was key to Jon Snow's victory in the Battle of the North?",
     "answer": "Circular defense"
+  },
+  {
+    "question": "What tactic was used in the Battle of the Trident?",
+    "answer": "Ambush at the river"
   },
   {
     "question": "What tactical element did the Starks use in the Battle of the Green Field?",
@@ -3204,6 +3264,10 @@
     "answer": "Winterfell"
   },
   {
+    "question": "What was the name of the ancient artifact that protected Westeros from the Others?",
+    "answer": "Dragonglass"
+  },
+  {
     "question": "What was the name of the place where the Stark's power was concentrated?",
     "answer": "Winterfell"
   },
@@ -3262,6 +3326,14 @@
   {
     "question": "What was the significance of the Red Wedding in the political context?",
     "answer": "The downfall of the Starks"
+  },
+  {
+    "question": "What was the significance of the Targaryen alliance with the Dornish house?",
+    "answer": "Dynastic stability"
+  },
+  {
+    "question": "What was the significance of the alliance between Loras Tyrell and Renly Baratheon?",
+    "answer": "Strategic alliance"
   },
   {
     "question": "What was the significance of the marriage between the Starks and the Boltons in the context of the War of the Five Kings?",
@@ -3354,6 +3426,10 @@
   {
     "question": "Where did Tyrion first demonstrate his diplomatic talent?",
     "answer": "The Eyrie"
+  },
+  {
+    "question": "Where is the Citadel located in the world of Westeros?",
+    "answer": "In Oldtown"
   },
   {
     "question": "Which Lannister became influential at court due to wealth?",
@@ -3492,6 +3568,10 @@
     "answer": "History"
   },
   {
+    "question": "Which aspect of maester training is considered the most difficult to master?",
+    "answer": "Combining knowledge"
+  },
+  {
     "question": "Which authoritative character from House Lannister actively used manipulation to control the court?",
     "answer": "Tywin Lannister"
   },
@@ -3533,6 +3613,10 @@
   },
   {
     "question": "Which battle was decisive for Robert's Rebellion?",
+    "answer": "Battle of the Trident"
+  },
+  {
+    "question": "Which battle was decisive in the War of the Baratheon Rebellion?",
     "answer": "Battle of the Trident"
   },
   {
@@ -3964,6 +4048,10 @@
     "answer": "House Martell"
   },
   {
+    "question": "Which house had the motto 'We Do Not Sow'?",
+    "answer": "Greyjoys"
+  },
+  {
     "question": "Which house has been the keeper of knowledge in Westeros for centuries?",
     "answer": "Hightowers"
   },
@@ -4114,6 +4202,10 @@
   {
     "question": "Which house used marriages to maintain neutrality in the War of the Five Kings?",
     "answer": "Frey"
+  },
+  {
+    "question": "Which house used marriages to strengthen its naval positions?",
+    "answer": "Greyjoy"
   },
   {
     "question": "Which house was a key ally of the Lannisters through marriage?",
@@ -4300,6 +4392,10 @@
     "answer": "Dragonstone"
   },
   {
+    "question": "Which lord betrayed Robert at the crucial moment?",
+    "answer": "Bolton"
+  },
+  {
     "question": "Which lord is known as 'Lord of the Eyrie' in Westeros?",
     "answer": "Arryn"
   },
@@ -4346,6 +4442,10 @@
   {
     "question": "Which magical order controlled trade in Essos?",
     "answer": "Dragon Knights"
+  },
+  {
+    "question": "Which magical order controls trade in the city of Kart?",
+    "answer": "Thirteen"
   },
   {
     "question": "Which magical order in Essos is known for its prophecies?",
@@ -4894,6 +4994,10 @@
   {
     "question": "Who had a vision of the ice zombies?",
     "answer": "Bran Stark"
+  },
+  {
+    "question": "Who had a vision of their own death?",
+    "answer": "Tyrion"
   },
   {
     "question": "Who had the vision of the 'song of ice and fire'?",
