@@ -12569,5 +12569,573 @@
     {
         "question": "What phenomenon describes the change in angular sizes of distant galaxies?",
         "answer": "Cosmological expansion"
+    },
+    {
+        "question": "By what criterion is a genetic vector chosen?",
+        "answer": "Physical properties"
+    },
+    {
+        "question": "How are recombinant proteins produced?",
+        "answer": "Using DNA technologies"
+    },
+    {
+        "question": "How do quantum computers implement parallel computing?",
+        "answer": "Superposition"
+    },
+    {
+        "question": "How does AR improve logistics?",
+        "answer": "Route optimization"
+    },
+    {
+        "question": "How is augmented reality used in the automotive industry?",
+        "answer": "Navigation"
+    },
+    {
+        "question": "How many bytes are in the SHA-256 hash function?",
+        "answer": "32"
+    },
+    {
+        "question": "Name of the creator of Android?",
+        "answer": "Andy Rubin"
+    },
+    {
+        "question": "Name one type of virtualization.",
+        "answer": "Full virtualization"
+    },
+    {
+        "question": "What are CDNs used for?",
+        "answer": "Access speed"
+    },
+    {
+        "question": "What are robots afraid of?",
+        "answer": "Overload"
+    },
+    {
+        "question": "What are the types of MITM attacks?",
+        "answer": "Man-in-the-Middle"
+    },
+    {
+        "question": "What backs cryptocurrency?",
+        "answer": "Algorithms"
+    },
+    {
+        "question": "What can qubits differ in?",
+        "answer": "States"
+    },
+    {
+        "question": "What cells are used in gene therapy?",
+        "answer": "Somatic cells"
+    },
+    {
+        "question": "What consensus is used in the Polkadot network?",
+        "answer": "Nominated Proof of Stake"
+    },
+    {
+        "question": "What device is used to measure the magnetic field in space?",
+        "answer": "Magnetometer"
+    },
+    {
+        "question": "What device measures cosmic radiation?",
+        "answer": "Radiation sensor"
+    },
+    {
+        "question": "What does a consensus algorithm mean?",
+        "answer": "General agreement"
+    },
+    {
+        "question": "What does a quantum algorithm use for encryption?",
+        "answer": "Randomness"
+    },
+    {
+        "question": "What does an encoder do?",
+        "answer": "Encodes data"
+    },
+    {
+        "question": "What does blockchain technology allow to create?",
+        "answer": "Digital assets"
+    },
+    {
+        "question": "What does the abbreviation MFA stand for?",
+        "answer": "Multi-Factor Authentication"
+    },
+    {
+        "question": "What does the term 'electronic intelligence' mean?",
+        "answer": "Electronic espionage"
+    },
+    {
+        "question": "What instruments are used to analyze the atmospheres of planets?",
+        "answer": "Spectrometers"
+    },
+    {
+        "question": "What is Big Data?",
+        "answer": "Large volumes of data"
+    },
+    {
+        "question": "What is CVE?",
+        "answer": "Common Vulnerabilities"
+    },
+    {
+        "question": "What is ERC-20?",
+        "answer": "Token standard"
+    },
+    {
+        "question": "What is Grover's algorithm used for?",
+        "answer": "Search"
+    },
+    {
+        "question": "What is IP68?",
+        "answer": "Degree of protection against water and dust"
+    },
+    {
+        "question": "What is IPv6?",
+        "answer": "Internet Protocol"
+    },
+    {
+        "question": "What is Proof of Stake?",
+        "answer": "proof of stake"
+    },
+    {
+        "question": "What is TWRP?",
+        "answer": "Recovery shell"
+    },
+    {
+        "question": "What is Terraform used for?",
+        "answer": "Infrastructure management"
+    },
+    {
+        "question": "What is Terraform?",
+        "answer": "Infrastructure as Code"
+    },
+    {
+        "question": "What is a compiler?",
+        "answer": "A program that translates code"
+    },
+    {
+        "question": "What is a framework?",
+        "answer": "A set of tools for software development"
+    },
+    {
+        "question": "What is a fullerene?",
+        "answer": "A form of carbon"
+    },
+    {
+        "question": "What is a quantum dot made of?",
+        "answer": "Semiconductor"
+    },
+    {
+        "question": "What is a qubit in a mixed state called?",
+        "answer": "Mixed qubit"
+    },
+    {
+        "question": "What is an oracle in blockchain?",
+        "answer": "Data provider"
+    },
+    {
+        "question": "What is backpropagation?",
+        "answer": "Training algorithm"
+    },
+    {
+        "question": "What is considered a cyber attack?",
+        "answer": "DDoS"
+    },
+    {
+        "question": "What is enhanced by VR?",
+        "answer": "Immersion"
+    },
+    {
+        "question": "What is obtained as a result of bacterial transformation by the method of conjugation?",
+        "answer": "Recombinants"
+    },
+    {
+        "question": "What is one of the issues with using cloud technologies?",
+        "answer": "Security"
+    },
+    {
+        "question": "What is quantum decoherence used for?",
+        "answer": "Stabilization of systems"
+    },
+    {
+        "question": "What is quantum entanglement?",
+        "answer": "Connection of qubits"
+    },
+    {
+        "question": "What is responsible for data analysis in the IoT ecosystem?",
+        "answer": "Analytics"
+    },
+    {
+        "question": "What is sharding?",
+        "answer": "Data partitioning"
+    },
+    {
+        "question": "What is the function of a hash function?",
+        "answer": "Creating a fingerprint"
+    },
+    {
+        "question": "What is the goal of self-learning AI systems?",
+        "answer": "Improving performance"
+    },
+    {
+        "question": "What is the main issue that can occur during 3D printing?",
+        "answer": "Warping"
+    },
+    {
+        "question": "What is the method of artificially combining genetic material from different sources called?",
+        "answer": "Genetic recombination"
+    },
+    {
+        "question": "What is the name of learning using labeled data?",
+        "answer": "Supervised learning"
+    },
+    {
+        "question": "What is the name of the generative model that represents some data in terms of others, such as images in the style of text?",
+        "answer": "VAE"
+    },
+    {
+        "question": "What is the name of the person who first proposed the concept of blockchain?",
+        "answer": "Satoshi Nakamoto"
+    },
+    {
+        "question": "What is the name of the quantum algorithm for searching a database?",
+        "answer": "Grover's Algorithm"
+    },
+    {
+        "question": "What is the name of the sensor that detects infrared radiation?",
+        "answer": "Pyrometer"
+    },
+    {
+        "question": "What is the name of the server virtualization technology?",
+        "answer": "Hyper-V"
+    },
+    {
+        "question": "What is the name of the technology that increases memory through compression?",
+        "answer": "zRAM"
+    },
+    {
+        "question": "What is the primary application of AlphaFold?",
+        "answer": "predicting protein structures"
+    },
+    {
+        "question": "What is the primary application of nanomaterials?",
+        "answer": "Optimization of properties"
+    },
+    {
+        "question": "What is the process of DNA doubling called?",
+        "answer": "Replication"
+    },
+    {
+        "question": "What is the process of composting called?",
+        "answer": "Aerobic decomposition"
+    },
+    {
+        "question": "What is the process of obtaining energy from atomic nuclei called?",
+        "answer": "Nuclear energy"
+    },
+    {
+        "question": "What is the process of the destruction of a quantum state called?",
+        "answer": "Decoherence"
+    },
+    {
+        "question": "What is the process of using other planets to launch spacecraft into orbit called?",
+        "answer": "Gravity assist"
+    },
+    {
+        "question": "What is the purpose of an IDS?",
+        "answer": "Threat detection"
+    },
+    {
+        "question": "What is the science called that studies atomic and molecular layer deposition?",
+        "answer": "Atomic Layer Epitaxy"
+    },
+    {
+        "question": "What is the technology called that allows a smartphone to function as a computer?",
+        "answer": "DeX"
+    },
+    {
+        "question": "What is the term for exploiting vulnerabilities in software?",
+        "answer": "Exploiting"
+    },
+    {
+        "question": "What is the term for the disturbance of a quantum state due to external factors?",
+        "answer": "Decoherence"
+    },
+    {
+        "question": "What is used for transaction verification?",
+        "answer": "Nodes"
+    },
+    {
+        "question": "What is used to cool quantum processors?",
+        "answer": "Liquid helium"
+    },
+    {
+        "question": "What makes validation decentralized?",
+        "answer": "All participants"
+    },
+    {
+        "question": "What material is often used in tissue bioprinting?",
+        "answer": "Bioplastics"
+    },
+    {
+        "question": "What material is used for supercapacitors?",
+        "answer": "Graphene"
+    },
+    {
+        "question": "What method is used for genome sequencing?",
+        "answer": "Sanger sequencing"
+    },
+    {
+        "question": "What method is used for manufacturing nanoscale transistors?",
+        "answer": "Photolithography"
+    },
+    {
+        "question": "What method is used to introduce genes into cells outside the chromosome?",
+        "answer": "Transfection"
+    },
+    {
+        "question": "What method is used to verify a user's identity using multiple factors?",
+        "answer": "Multi-factor authentication"
+    },
+    {
+        "question": "What problem is solved by the Proof of Work (PoW) algorithm?",
+        "answer": "Double spending"
+    },
+    {
+        "question": "What procedures help reduce carbon dioxide (CO2) emissions?",
+        "answer": "Carbon sequestration"
+    },
+    {
+        "question": "What process is used for cloning?",
+        "answer": "Somatic cloning"
+    },
+    {
+        "question": "What process powers fuel cells?",
+        "answer": "Chemical reaction"
+    },
+    {
+        "question": "What process produces electricity?",
+        "answer": "Generation"
+    },
+    {
+        "question": "What property of nanomaterials is important for solar panels?",
+        "answer": "Conductivity"
+    },
+    {
+        "question": "What provides continuous network monitoring?",
+        "answer": "Threat detection systems"
+    },
+    {
+        "question": "What resolution is suitable for a high-quality VR experience?",
+        "answer": "4K"
+    },
+    {
+        "question": "What skill does augmented reality train in manufacturing?",
+        "answer": "accuracy"
+    },
+    {
+        "question": "What state can eliminate errors in quantum computing?",
+        "answer": "Quantum correction"
+    },
+    {
+        "question": "What technique is used to reduce the expression of specific genes?",
+        "answer": "RNA interference"
+    },
+    {
+        "question": "What technology allows a robot to see?",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "What technology allows the accumulation of energy from solar panels?",
+        "answer": "Batteries"
+    },
+    {
+        "question": "What technology is used for extracting oil from reservoirs?",
+        "answer": "Hydraulic fracturing"
+    },
+    {
+        "question": "What technology is used to create detailed maps in autonomous vehicles?",
+        "answer": "HD Mapping"
+    },
+    {
+        "question": "What test does NASA use to check equipment resistance to vibrations?",
+        "answer": "Vibration test"
+    },
+    {
+        "question": "What type of adhesion is used for smoothing?",
+        "answer": "Cyclography"
+    },
+    {
+        "question": "What type of data is most commonly exchanged by IoT devices?",
+        "answer": "Telemetry"
+    },
+    {
+        "question": "What type of energy is obtained from biomass?",
+        "answer": "Bioenergy"
+    },
+    {
+        "question": "What type of energy is obtained from organic waste and agricultural products?",
+        "answer": "Bioenergy"
+    },
+    {
+        "question": "What type of energy is used for heating homes with heat pumps?",
+        "answer": "Geothermal energy"
+    },
+    {
+        "question": "What type of modification is used to study gene function?",
+        "answer": "Gene knockout"
+    },
+    {
+        "question": "What type of robot can perform complex tasks in space?",
+        "answer": "Multi-axis robot"
+    },
+    {
+        "question": "What type of robots are used to explore the surface of Mars?",
+        "answer": "Rovers"
+    },
+    {
+        "question": "What was the TALEN technology created for?",
+        "answer": "Edit genes"
+    },
+    {
+        "question": "Where is the largest solar power plant located?",
+        "answer": "India"
+    },
+    {
+        "question": "Which company did Rony Abovitz found for developing augmented reality?",
+        "answer": "Magic Leap"
+    },
+    {
+        "question": "Which company partnered with Lyft to test self-driving cars?",
+        "answer": "Aptiv"
+    },
+    {
+        "question": "Which company was the first to introduce a VR headset to the general public?",
+        "answer": "Meta"
+    },
+    {
+        "question": "Which country is leading in the development of lunar missions?",
+        "answer": "USA"
+    },
+    {
+        "question": "Which country leads in solar power production?",
+        "answer": "China"
+    },
+    {
+        "question": "Which data is protected cryptographically?",
+        "answer": "Encrypted"
+    },
+    {
+        "question": "Which electron is characterized by high mobility in graphene?",
+        "answer": "Dirac"
+    },
+    {
+        "question": "Which element is used in spacecraft fuel?",
+        "answer": "Helium-3"
+    },
+    {
+        "question": "Which engine uses ion technology?",
+        "answer": "Ion engine"
+    },
+    {
+        "question": "Which equation preserves quantum states over time?",
+        "answer": "Schrödinger's equation"
+    },
+    {
+        "question": "Which field studies the application of nanoparticles in medicine?",
+        "answer": "Nanobiomedicine"
+    },
+    {
+        "question": "Which gene is used in gene therapy to fight cancer?",
+        "answer": "p53 gene"
+    },
+    {
+        "question": "Which important experiment confirmed the existence of superposition and entanglement?",
+        "answer": "Double-slit experiment"
+    },
+    {
+        "question": "Which instrument has atomic precision?",
+        "answer": "Scanning tunneling microscope"
+    },
+    {
+        "question": "Which method allows the use of metal for 3D printing?",
+        "answer": "Selective Laser Sintering"
+    },
+    {
+        "question": "Which method reduces overfitting?",
+        "answer": "Regularization"
+    },
+    {
+        "question": "Which of the following improves the conductivity of materials?",
+        "answer": "Silver nanostructures"
+    },
+    {
+        "question": "Which organization assigns international safety standards?",
+        "answer": "ISO"
+    },
+    {
+        "question": "Which plants are used for phytoremediation technology?",
+        "answer": "Sunflower"
+    },
+    {
+        "question": "Which printers use metal powders for printing?",
+        "answer": "SLM"
+    },
+    {
+        "question": "Which process improves the properties of materials in nanotechnology?",
+        "answer": "Defect control"
+    },
+    {
+        "question": "Which protocol protects emails?",
+        "answer": "PGP"
+    },
+    {
+        "question": "Which rocket uses methane engines?",
+        "answer": "Starship"
+    },
+    {
+        "question": "Which science studies the interaction of nanoparticles with cells?",
+        "answer": "Nanobiology"
+    },
+    {
+        "question": "Which sensor is used to measure angular velocity?",
+        "answer": "Gyroscope"
+    },
+    {
+        "question": "Which sensor is useful for measuring vibration?",
+        "answer": "Gyroscopic"
+    },
+    {
+        "question": "Which service increases resources on demand?",
+        "answer": "Auto Scaling"
+    },
+    {
+        "question": "Which smartphone is considered the first Android device?",
+        "answer": "HTC Dream"
+    },
+    {
+        "question": "Which technology anchors a 3D model to the real world?",
+        "answer": "SLAM"
+    },
+    {
+        "question": "Which technology helps to avoid collisions?",
+        "answer": "ADAS"
+    },
+    {
+        "question": "Which technology is used to create isolated containers?",
+        "answer": "Docker"
+    },
+    {
+        "question": "Which vehicles can use AR for navigation guidance?",
+        "answer": "Cars"
+    },
+    {
+        "question": "Who can validate transactions in a public blockchain?",
+        "answer": "Anyone"
+    },
+    {
+        "question": "Who is considered a pioneer in the field of nanotechnology?",
+        "answer": "Eric Drexler"
+    },
+    {
+        "question": "Who proposed the idea of manipulating atoms?",
+        "answer": "Eric Drexler"
     }
 ]

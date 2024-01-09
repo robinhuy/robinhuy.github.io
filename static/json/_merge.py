@@ -22,6 +22,7 @@ files_to_merge = [
     "music.json",
     "science.json",
     "space.json",
+    "technology.json",
 ]
 
 # Tạo danh sách để chứa các object từ các file được chỉ định
