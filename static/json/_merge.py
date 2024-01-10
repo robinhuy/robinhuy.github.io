@@ -4,7 +4,7 @@ import json
 # Đường dẫn tới thư mục category
 folder_path = "./smartest"
 # Đường dẫn tới file gộp
-output_file = os.path.join(folder_path, "all.json")
+output_file = os.path.join(folder_path, "all_battle.json")
 
 # Danh sách các file cần merge
 files_to_merge = [
