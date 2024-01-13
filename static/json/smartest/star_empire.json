@@ -993,6 +993,10 @@
     "answer": "The Force"
   },
   {
+    "question": "What artifact did Darth Vader use to suppress will?",
+    "answer": "The Dark Side"
+  },
+  {
     "question": "What artifact did the Sith use to enhance their abilities?",
     "answer": "Sith Holocron"
   },
@@ -1248,6 +1252,10 @@
     "answer": "Gravity"
   },
   {
+    "question": "What device allowed the Empire to control the climate on conquered worlds?",
+    "answer": "Climate Controller"
+  },
+  {
     "question": "What device do Jedi use to enhance their abilities?",
     "answer": "Force Crystal"
   },
@@ -1326,6 +1334,10 @@
   {
     "question": "What does the phrase 'oya' mean in Mando'a?",
     "answer": "Victory"
+  },
+  {
+    "question": "What editing style affects the dynamism of fight scenes?",
+    "answer": "Dynamic"
   },
   {
     "question": "What effect became the hallmark of the visual style of the 'Matrix' franchise?",
@@ -1492,6 +1504,10 @@
     "answer": "Smuggling"
   },
   {
+    "question": "What event led to the change in the philosophy of the ancient Jedi?",
+    "answer": "The Force War"
+  },
+  {
     "question": "What event led to the change in the social structure of the Mandalorians?",
     "answer": "Civil war"
   },
@@ -1642,6 +1658,10 @@
   {
     "question": "What event was a turning point in Yoda's life?",
     "answer": "Order 66"
+  },
+  {
+    "question": "What event was a turning point in the fate of Han Solo and Chewbacca among the rebels?",
+    "answer": "Battle of Yavin"
   },
   {
     "question": "What event was decisive for Leia on her journey?",
@@ -1858,6 +1878,14 @@
     "answer": "Warrior Ethos"
   },
   {
+    "question": "What important choice did Luke make on his path to becoming a Jedi?",
+    "answer": "Leave Tatooine"
+  },
+  {
+    "question": "What important decision did Obi-Wan make when he learned about the creation of the clone army?",
+    "answer": "Inform the Council"
+  },
+  {
     "question": "What important discovery did Leia make about her origins?",
     "answer": "The Force within her"
   },
@@ -1980,6 +2008,10 @@
   {
     "question": "What is Yoda's connection with Force Ghosts?",
     "answer": "Training"
+  },
+  {
+    "question": "What is Yoda's tactic in training students?",
+    "answer": "Immersion in the Force"
   },
   {
     "question": "What is considered a symbol of leadership in Mandalorian culture?",
@@ -2118,6 +2150,10 @@
     "answer": "Code of Honor"
   },
   {
+    "question": "What is the most powerful trait of the Dark Side?",
+    "answer": "Temptation"
+  },
+  {
     "question": "What is the most significant element of Han and Chewbacca's friendship?",
     "answer": "trust"
   },
@@ -2182,6 +2218,10 @@
     "answer": "Deflecting attacks"
   },
   {
+    "question": "What is the period of instability called that a star undergoes before becoming a supernova?",
+    "answer": "Pre-supernova"
+  },
+  {
     "question": "What is the phenomenon called when a star changes its emission spectrum due to its motion?",
     "answer": "Doppler effect"
   },
@@ -2238,8 +2278,16 @@
     "answer": "Habitable zone"
   },
   {
+    "question": "What is the region around a star where planet formation is possible called?",
+    "answer": "Protoplanetary disk"
+  },
+  {
     "question": "What is the role of Sith weapons in their philosophy?",
     "answer": "Power through fear"
+  },
+  {
+    "question": "What is the role of emotions for users of the Dark Side?",
+    "answer": "Enhances abilities"
   },
   {
     "question": "What is the role of the dark side in personality transformation?",
@@ -2594,6 +2642,10 @@
     "answer": "Spaceship"
   },
   {
+    "question": "What model of spaceship did Han Solo pilot?",
+    "answer": "YT-1300"
+  },
+  {
     "question": "What moment changed Anakin's fate forever?",
     "answer": "The Emperor's decision"
   },
@@ -2620,6 +2672,10 @@
   {
     "question": "What mystical attribute accompanies Chewbacca?",
     "answer": "Crossbow"
+  },
+  {
+    "question": "What name did Leia take after adoption?",
+    "answer": "Organa"
   },
   {
     "question": "What name did Obi-Wan use to introduce himself to Luke on Tatooine?",
@@ -2752,6 +2808,10 @@
   {
     "question": "What philosophy of the Mandalorians shapes their warrior path?",
     "answer": "Jha'karar"
+  },
+  {
+    "question": "What philosophy underlies the teachings of the Jedi?",
+    "answer": "Balance of the Force"
   },
   {
     "question": "What philosophy underlies the teachings of the Sith?",
@@ -3067,6 +3127,10 @@
     "answer": "Territory control"
   },
   {
+    "question": "What role did the Mandalorians play in the Clone Wars?",
+    "answer": "Mercenaries"
+  },
+  {
     "question": "What role did the Skywalkers play in the restoration of the Jedi Order?",
     "answer": "Key figures"
   },
@@ -3165,6 +3229,10 @@
   {
     "question": "What ship did the famous bounty hunter use in the Clone Wars?",
     "answer": "Slave I"
+  },
+  {
+    "question": "What ships were used for evacuation on Kamino?",
+    "answer": "Lambda-class shuttles"
   },
   {
     "question": "What ships were used to transport the troops of the Republic?",
@@ -3669,6 +3737,10 @@
     "answer": "Light of the Force"
   },
   {
+    "question": "What term was used to refer to the early mentors of the Jedi?",
+    "answer": "Je'daii"
+  },
+  {
     "question": "What title did Anakin Skywalker hold?",
     "answer": "Knight"
   },
@@ -4031,6 +4103,10 @@
   {
     "question": "What was the main purpose of creating the Empire?",
     "answer": "Control over the galaxy"
+  },
+  {
+    "question": "What was the main source of Darth Vader's internal conflict in his later years?",
+    "answer": "Rishi"
   },
   {
     "question": "What was the main strategic approach of the Empire to conquer new territories?",
@@ -4763,6 +4839,10 @@
     "answer": "Embo"
   },
   {
+    "question": "Which bounty hunter formed a temporary alliance with a Jedi for a common goal?",
+    "answer": "Aurra Sing"
+  },
+  {
     "question": "Which bounty hunter froze Han Solo in carbonite?",
     "answer": "Boba Fett"
   },
@@ -5145,6 +5225,10 @@
     "answer": "On Ahch-To"
   },
   {
+    "question": "Which duel changed the balance of the Force?",
+    "answer": "Luke vs. Vader"
+  },
+  {
     "question": "Which duel was pivotal in Anakin Skywalker's fate?",
     "answer": "Mustafar"
   },
@@ -5448,6 +5532,10 @@
     "answer": "Zam Wesell"
   },
   {
+    "question": "Which of the hunters worked with Ord Mantell?",
+    "answer": "Bossk"
+  },
+  {
     "question": "Which order opposed the Empire?",
     "answer": "Jedi Order"
   },
@@ -5692,6 +5780,10 @@
     "answer": "2814"
   },
   {
+    "question": "Which ship carries a superlaser on board?",
+    "answer": "Death Star"
+  },
+  {
     "question": "Which side of the Force focuses on selfish desires?",
     "answer": "Dark"
   },
@@ -5928,6 +6020,10 @@
     "answer": "Qui-Gon Jinn"
   },
   {
+    "question": "Who fought Dooku on Geonosis?",
+    "answer": "Anakin and Obi-Wan"
+  },
+  {
     "question": "Who fought Emperor Palpatine to save the Galaxy?",
     "answer": "Anakin"
   },
@@ -6144,6 +6240,10 @@
     "answer": "Palpatine"
   },
   {
+    "question": "Who was the chief architect of the Galactic Empire's policy aimed at suppressing rebellions?",
+    "answer": "Tarkin"
+  },
+  {
     "question": "Who was the director of 'The Empire Strikes Back'?",
     "answer": "Irvin Kershner"
   },
@@ -6302,5 +6402,9 @@
   {
     "question": "With whom did Yoda discuss the future of the Jedi in the Temple?",
     "answer": "Mace Windu"
+  },
+  {
+    "question": "With whom did Yoda share his secret wisdom?",
+    "answer": "Luke"
   }
 ]
