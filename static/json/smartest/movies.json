@@ -335,6 +335,10 @@
     "answer": "Spectre"
   },
   {
+    "question": "What is the name of Johnny Test's sister in the animated series 'Johnny Test'?",
+    "answer": "Susan"
+  },
+  {
     "question": "What is the name of Pandura in the cartoon 'Three Heroes and the Sea King'?",
     "answer": "Dobrynya"
   },
@@ -345,6 +349,10 @@
   {
     "question": "What is the name of Quentin Tarantino's iconic crime film?",
     "answer": "Pulp Fiction"
+  },
+  {
+    "question": "What is the name of Ray Parker Jr.'s song in the movie 'Ghostbusters'?",
+    "answer": "Ghostbusters"
   },
   {
     "question": "What is the name of Roman Polanski's 1980 film?",
@@ -371,8 +379,16 @@
     "answer": "In the Mood for Love"
   },
   {
+    "question": "What is the name of an animated character without textures?",
+    "answer": "Clay render"
+  },
+  {
     "question": "What is the name of the 2010 film in which Natalie Portman was the lead actress?",
     "answer": "Black Swan"
+  },
+  {
+    "question": "What is the name of the 2013 horror film by James Wan?",
+    "answer": "The Conjuring"
   },
   {
     "question": "What is the name of the 2013 horror film starring Danny Glover and Ashley Bell?",
@@ -479,6 +495,10 @@
     "answer": "Belmont Ghosts"
   },
   {
+    "question": "What is the name of the TV series about the development of robots?",
+    "answer": "Westworld"
+  },
+  {
     "question": "What is the name of the TV series where a chemistry teacher becomes a drug lord?",
     "answer": "Breaking Bad"
   },
@@ -549,6 +569,10 @@
   {
     "question": "What is the name of the computer system from the movie 'Terminator'?",
     "answer": "Skynet"
+  },
+  {
+    "question": "What is the name of the creator of the movie 'Phantom Samurai'?",
+    "answer": "Thomas Cullen"
   },
   {
     "question": "What is the name of the cult science fiction series about parallel universes?",
@@ -731,6 +755,10 @@
     "answer": "The Big Catch"
   },
   {
+    "question": "What is the name of the movie about adventures in the Amazon jungle?",
+    "answer": "Heart of the Jungle"
+  },
+  {
     "question": "What is the name of the movie about the future where people don't age?",
     "answer": "In Time"
   },
@@ -781,6 +809,10 @@
   {
     "question": "What is the name of the second part of Tim Burton's Batman trilogy?",
     "answer": "Batman Returns"
+  },
+  {
+    "question": "What is the name of the series about the adventures of an orc knight?",
+    "answer": "Orc Knight"
   },
   {
     "question": "What is the name of the series by Julio Torres and Ana Fabíola Isabel Guzmán?",
@@ -878,6 +910,10 @@
     "answer": "Non-linear editing"
   },
   {
+    "question": "What is the technique of replacing one image with another called?",
+    "answer": "Keying"
+  },
+  {
     "question": "What is the technology called that allows creating a real environment in animation?",
     "answer": "Virtual reality"
   },
@@ -892,6 +928,10 @@
   {
     "question": "What is the term for a texture in 3D graphics?",
     "answer": "Texture"
+  },
+  {
+    "question": "What is used for creating real-time special effects?",
+    "answer": "Compositing monitor"
   },
   {
     "question": "What is used for detailed renders?"
@@ -927,6 +967,10 @@
   {
     "question": "What song is played in the finale of the movie 'Saw 3'?",
     "answer": "Release the Pressure"
+  },
+  {
+    "question": "What song plays during Olaf's first appearance in 'Frozen'?",
+    "answer": "In Summer"
   },
   {
     "question": "What technique combines live-action filming and CGI?",
@@ -1228,6 +1272,10 @@
     "answer": "Władysław Szpilman"
   },
   {
+    "question": "Which award in Europe recognizes achievements in animation?",
+    "answer": "Annie Award"
+  },
+  {
     "question": "Which award is annually given for achievements in animation in Russia?",
     "answer": "Icarus"
   },
@@ -1279,6 +1327,10 @@
     "answer": "Anton Dolin"
   },
   {
+    "question": "Which director made the cult film about dancers 'Flashdance'?",
+    "answer": "Adrian Lyne"
+  },
+  {
     "question": "Which director made the documentary film 'Roger & Me'?",
     "answer": "Michael Moore"
   },
@@ -1305,6 +1357,10 @@
   {
     "question": "Which documentary film is about the protest against corporations?",
     "answer": "The Corporation"
+  },
+  {
+    "question": "Which famous director has won the Golden Lion at the Venice Film Festival four times?",
+    "answer": "Andrei Tarkovsky"
   },
   {
     "question": "Which famous franchise is a remake of the Italian film 'Matrix of Fear'?",
@@ -1337,6 +1393,10 @@
   {
     "question": "Which film depicts the harsh living conditions in Antarctica?",
     "answer": "Encounters at the End of the World"
+  },
+  {
+    "question": "Which film did Denis Villeneuve direct that features space worms?",
+    "answer": "Dune"
   },
   {
     "question": "Which film explores the culture of a tribe in the Amazon?",
@@ -1504,6 +1564,10 @@
   {
     "question": "Which film was the first to use CGI special effects?",
     "answer": "Westworld"
+  },
+  {
+    "question": "Which film was the first to win an Oscar for visual effects?",
+    "answer": "Star Wars"
   },
   {
     "question": "Which film was the first winner of the Cannes Film Festival?",
@@ -1704,6 +1768,10 @@
     "answer": "The Prestige"
   },
   {
+    "question": "Which series is Brazilian with the title 'Água Negra'?",
+    "answer": "Água Negra"
+  },
+  {
     "question": "Which show consists of investigations?",
     "answer": "The Investigation is Led by Kolobki"
   },
@@ -1728,12 +1796,20 @@
     "answer": "AutoRig Pro"
   },
   {
+    "question": "Which software is used for texturing 3D models?",
+    "answer": "Substance Painter"
+  },
+  {
     "question": "Which song did Celine Dion perform for the movie 'K-PAX'?",
     "answer": "I'm Alive"
   },
   {
     "question": "Which song did Elton John perform for the animated film 'Christmas Story'?",
     "answer": "Step Into Christmas"
+  },
+  {
+    "question": "Which studio created 'Black Clover'?",
+    "answer": "Pierrot"
   },
   {
     "question": "Which studio created the animated film 'The Secret of Kells'?",
@@ -1820,6 +1896,10 @@
     "answer": "John Williams"
   },
   {
+    "question": "Who composed the music for the film 'Interstate 60'?",
+    "answer": "Mark Thomas"
+  },
+  {
     "question": "Who composed the music for the film 'Sleep'?",
     "answer": "Michael Abels"
   },
@@ -1850,6 +1930,10 @@
   {
     "question": "Who composed the music for the movie 'Fight Club'?",
     "answer": "The Dust Brothers"
+  },
+  {
+    "question": "Who composed the music for the movie 'Joker'?",
+    "answer": "Hildur Guðnadóttir"
   },
   {
     "question": "Who composed the music for the musical 'The Phantom of the Opera'?",
@@ -1920,8 +2004,16 @@
     "answer": "Phillip Aytoun"
   },
   {
+    "question": "Who directed 'Waltz with Bashir'?",
+    "answer": "Ari Folman"
+  },
+  {
     "question": "Who directed the 1941 animated film 'Dumbo'?",
     "answer": "Samuel Armstrong"
+  },
+  {
+    "question": "Who directed the 1952 animated film 'The Scarlet Flower'?",
+    "answer": "Lev Atamanov"
   },
   {
     "question": "Who directed the 2013 remake of the movie 'Evil Dead'?",
@@ -1952,6 +2044,10 @@
     "answer": "Oleg Malamuzh"
   },
   {
+    "question": "Who directed the animated film 'Monster and the Legend'?",
+    "answer": "Kornél Mundruczó"
+  },
+  {
     "question": "Who directed the animated film 'Shrek 2'?",
     "answer": "Andrew Adamson"
   },
@@ -1968,8 +2064,16 @@
     "answer": "Mary Harron"
   },
   {
+    "question": "Who directed the film 'Father of a Soldier'?",
+    "answer": "Rezo Chkheidze"
+  },
+  {
     "question": "Who directed the film 'Flight of Mind'?",
     "answer": "Peter Gabriel"
+  },
+  {
+    "question": "Who directed the film 'Frankenstein' based on Mary Shelley's novel?",
+    "answer": "Kenneth Branagh"
   },
   {
     "question": "Who directed the film 'Mia and the White Lion'?",
@@ -2049,6 +2153,10 @@
   {
     "question": "Who is the author of the documentary film 'Flight of the Mind'?",
     "answer": "Dan Brown"
+  },
+  {
+    "question": "Who is the character designer for 'Ice Age'?",
+    "answer": "Peter de Sève"
   },
   {
     "question": "Who is the composer of the animated film 'Spirit: Stallion of the Cimarron'?",
@@ -2218,6 +2326,10 @@
     "answer": "Anthony Hopkins"
   },
   {
+    "question": "Who played Leonard Shelby in the movie 'Memento'?",
+    "answer": "Guy Pearce"
+  },
+  {
     "question": "Who played Newt Scamander in the movie 'Fantastic Beasts'?",
     "answer": "Eddie Redmayne"
   },
@@ -2256,6 +2368,10 @@
   {
     "question": "Who played the role of Hamlet in the 1996 film 'Hamlet'?",
     "answer": "Kenneth Branagh"
+  },
+  {
+    "question": "Who played the role of King Kong in the film of the same name?",
+    "answer": "Andy Serkis"
   },
   {
     "question": "Who played the role of Tom Buckley in the movie 'Bonnie and Clyde'?",
@@ -2300,6 +2416,10 @@
   {
     "question": "Who said the phrase: 'You must feel fear'?",
     "answer": "Lucifer"
+  },
+  {
+    "question": "Who said: 'Another Day in Paradise'?",
+    "answer": "Phil Collins"
   },
   {
     "question": "Who said: 'Every story has a beginning'?",
@@ -2350,6 +2470,10 @@
     "answer": "Sergei Eisenstein"
   },
   {
+    "question": "Who was one of the producers behind the movie 'Alien'?",
+    "answer": "Walter Hill"
+  },
+  {
     "question": "Who was the director of the film \"Formula of Love\"?",
     "answer": "Mark Zakharov"
   },
@@ -2392,6 +2516,10 @@
   {
     "question": "Who wrote the book 'On Screen and Behind the Scenes'?",
     "answer": "Christopher Nolan"
+  },
+  {
+    "question": "Who wrote the screenplay for the film 'In the Mood for Love'?",
+    "answer": "Wong Kar-wai"
   },
   {
     "question": "Who wrote the screenplay for the film 'Pride and Prejudice'?",
