@@ -40,6 +40,10 @@
     "answer": "88"
   },
   {
+    "question": "How many movements are in Beethoven's Symphony No. 6?",
+    "answer": "5"
+  },
+  {
     "question": "How many songs are in the album 'Reputation'?",
     "answer": "15"
   },
@@ -544,6 +548,10 @@
     "answer": "Giselle"
   },
   {
+    "question": "What is the name of the building that houses the Country Music Hall of Fame?",
+    "answer": "Country Music Hall of Fame"
+  },
+  {
     "question": "What is the name of the composer of 'The Tales of Hoffmann'?",
     "answer": "Offenbach"
   },
@@ -916,6 +924,10 @@
     "answer": "Zither"
   },
   {
+    "question": "What was the name of the medieval musical work by Léonin?",
+    "answer": "Magnus Liber"
+  },
+  {
     "question": "What was the original name of the band Radiohead?",
     "answer": "Joni Mitchell"
   },
@@ -1270,6 +1282,10 @@
   {
     "question": "Which instrument became popular in rock music thanks to The Beatles?",
     "answer": "Sitar"
+  },
+  {
+    "question": "Which instrument can produce harmonics?",
+    "answer": "violin"
   },
   {
     "question": "Which instrument has keys and a drum?",
