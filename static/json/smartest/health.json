@@ -1,5 +1,13 @@
 [
   {
+    "question": "At which stage does active division of B-lymphocytes occur?",
+    "answer": "Clonal expansion"
+  },
+  {
+    "question": "How do circadian rhythms affect melatonin levels?",
+    "answer": "Regulate"
+  },
+  {
     "question": "How do peptides contribute to skin rejuvenation?",
     "answer": "Stimulation of tissue reconstruction"
   },
@@ -14,6 +22,10 @@
   {
     "question": "How does chronic sleep deprivation affect metabolism?",
     "answer": "Slowing down"
+  },
+  {
+    "question": "How does cortisol affect metabolism?",
+    "answer": "Increases glucose"
   },
   {
     "question": "How does vitamin A deficiency affect bones?",
@@ -72,6 +84,10 @@
     "answer": "Gray matter abnormalities"
   },
   {
+    "question": "What changes occur in bone tissue composition during chronic anemia?",
+    "answer": "Decreased mineralization"
+  },
+  {
     "question": "What changes occur in hypothalamic activity during stress?",
     "answer": "Increase"
   },
@@ -104,6 +120,10 @@
     "answer": "Personality assessment"
   },
   {
+    "question": "What does the concept of 'psychological immunity' in stress management include?",
+    "answer": "Experiences and reactions"
+  },
+  {
     "question": "What does the diagnosis of endogenous moments include?",
     "answer": "Psychodiagnostics"
   },
@@ -124,6 +144,14 @@
     "answer": "Impairment"
   },
   {
+    "question": "What effect does magnesium deficiency have on bone tissue?",
+    "answer": "Weakening"
+  },
+  {
+    "question": "What effect does prolonged hypoxia have on the heart?",
+    "answer": "Necrosis"
+  },
+  {
     "question": "What effect does somatic therapy have on stress?",
     "answer": "Stress reduction"
   },
@@ -134,6 +162,10 @@
   {
     "question": "What effects do anabolic workouts have on bone mass?",
     "answer": "Increase bone mass"
+  },
+  {
+    "question": "What factors can contribute to the development of post-traumatic stress disorder?",
+    "answer": "genetic factors"
   },
   {
     "question": "What factors help prevent sarcopenia in the elderly?",
@@ -148,12 +180,28 @@
     "answer": "Methylcobalamin"
   },
   {
+    "question": "What function does the complement system perform in fighting infection?",
+    "answer": "Lysis of pathogens"
+  },
+  {
+    "question": "What function does the thyroid-stimulating hormone perform in the body?",
+    "answer": "Regulates the thyroid gland"
+  },
+  {
     "question": "What functions does REM sleep perform?",
     "answer": "Memory consolidation"
   },
   {
+    "question": "What functions does slow-wave sleep have?",
+    "answer": "energy restoration"
+  },
+  {
     "question": "What genetic mutations are associated with hypertension?",
     "answer": "Endothelial mutations"
+  },
+  {
+    "question": "What happens to hormone secretion during deep sleep?",
+    "answer": "Increases"
   },
   {
     "question": "What happens to the alveoli in emphysema?",
@@ -192,12 +240,24 @@
     "answer": "Flavonoids"
   },
   {
+    "question": "What is affective instability?",
+    "answer": "Emotional changes"
+  },
+  {
+    "question": "What is an antigen-presenting cell?",
+    "answer": "immune system cell"
+  },
+  {
     "question": "What is the disorder called where a person loses the ability to understand and express emotions?",
     "answer": "Alexithymia"
   },
   {
     "question": "What is the effect of glutamic acid on nerves?",
     "answer": "Stimulates"
+  },
+  {
+    "question": "What is the impact of elevated cortisol levels during prolonged stress?",
+    "answer": "Metabolic disruption"
   },
   {
     "question": "What is the main active element of cytokine action?",
@@ -210,6 +270,10 @@
   {
     "question": "What is the most accurate method for determining skin type?",
     "answer": "Dermatological analysis"
+  },
+  {
+    "question": "What is the name of the molecule that initiates the inflammatory response?",
+    "answer": "histamine"
   },
   {
     "question": "What is the name of the protein that regulates bone mineral density?",
@@ -232,12 +296,20 @@
     "answer": "Decreases density"
   },
   {
+    "question": "What is the role of antioxidants during intense workouts?",
+    "answer": "Cell protection"
+  },
+  {
     "question": "What is the role of genetics in the development of cardiovascular diseases?",
     "answer": "High significance"
   },
   {
     "question": "What is the role of short-chain fatty acids in the gut?",
     "answer": "Prevention of inflammation"
+  },
+  {
+    "question": "What is the significance of the aerobic threshold for training?",
+    "answer": "Maximum efficiency"
   },
   {
     "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
@@ -252,8 +324,24 @@
     "answer": "Hypothalamic-pituitary axis"
   },
   {
+    "question": "What mechanism is responsible for regulating sleep at the brain level?",
+    "answer": "Suprachiasmatic nucleus"
+  },
+  {
     "question": "What mechanism triggers an allergic reaction?",
     "answer": "Activation of IgE"
+  },
+  {
+    "question": "What mechanism triggers the release of adrenaline during stress?",
+    "answer": "Fight-or-flight"
+  },
+  {
+    "question": "What mechanism triggers the synthesis of hormones in the adrenal cortex?",
+    "answer": "Hypothalamic-pituitary axis"
+  },
+  {
+    "question": "What mechanisms are used to regulate emotions?",
+    "answer": "Self-regulation"
   },
   {
     "question": "What metabolic adaptation occurs with regular running?",
@@ -276,12 +364,28 @@
     "answer": "Myocardial hypertrophy"
   },
   {
+    "question": "What pharmacological agents are used to treat chronic bronchitis?",
+    "answer": "Antibiotics"
+  },
+  {
     "question": "What physiological phenomenon limits the duration of aerobic exercise?",
     "answer": "Muscle fatigue"
   },
   {
+    "question": "What process involves the interaction of L- and F-antibodies?",
+    "answer": "Agglutination"
+  },
+  {
     "question": "What process is initiated by the activation of helper T-cells?",
     "answer": "Clonal expansion"
+  },
+  {
+    "question": "What process is key in the development of autoimmune diseases?",
+    "answer": "Activation of autoantibodies"
+  },
+  {
+    "question": "What processes are regulated by the ventrolateral preoptic nucleus (VLPO)?",
+    "answer": "Sleep"
   },
   {
     "question": "What program is used to improve cognitive functions in elderly people?",
@@ -290,6 +394,10 @@
   {
     "question": "What role do antioxidants play during physical exercise?",
     "answer": "Protect against oxidation"
+  },
+  {
+    "question": "What role do estrogens play in the skeletal system?",
+    "answer": "Reduction of resorption"
   },
   {
     "question": "What role do osteocytes play in bone tissue?",
@@ -310,6 +418,10 @@
   {
     "question": "What structural changes can occur in the heart with chronic hypertension?",
     "answer": "myocardial hypertrophy"
+  },
+  {
+    "question": "What studies confirm the link between physical activity and reduced risk of cancer?",
+    "answer": "Clinical studies"
   },
   {
     "question": "What substance in grains and beans binds iron and other minerals, reducing their absorption?",
@@ -348,6 +460,10 @@
     "answer": "Interferon alpha/beta"
   },
   {
+    "question": "What type of periodization is necessary to prevent a training plateau?",
+    "answer": "Periodization"
+  },
+  {
     "question": "Which amino acids are considered essential?",
     "answer": "Leucine"
   },
@@ -364,8 +480,16 @@
     "answer": "B-lymphocytes"
   },
   {
+    "question": "Which cells express MHC class II?",
+    "answer": "Dendritic cells"
+  },
+  {
     "question": "Which cells produce incretin hormones?",
     "answer": "Enteroendocrine cells"
+  },
+  {
+    "question": "Which cells secrete cytokines to regulate the immune response?",
+    "answer": "T-helper cells"
   },
   {
     "question": "Which chemicals cause inflammation of the alveoli?",
@@ -388,12 +512,28 @@
     "answer": "Angiography"
   },
   {
+    "question": "Which diet reduces the risk of cancer?",
+    "answer": "Mediterranean diet"
+  },
+  {
+    "question": "Which disease is associated with an excess of parathyroid hormone?",
+    "answer": "Hyperparathyroidism"
+  },
+  {
     "question": "Which diseases are associated with asbestos exposure to the lungs?",
     "answer": "Asbestosis"
   },
   {
     "question": "Which enzymes are involved in steroid synthesis?",
     "answer": "Cytochromes P450"
+  },
+  {
+    "question": "Which exercises are best for improving proprioception function?",
+    "answer": "Functional"
+  },
+  {
+    "question": "Which factor of combination therapy is most effective in treating heart failure?",
+    "answer": "Diuretics"
   },
   {
     "question": "Which foods can help in the prevention of dementia?",
@@ -410,6 +550,10 @@
   {
     "question": "Which gene is responsible for the production of MHC classes?",
     "answer": "HLA gene"
+  },
+  {
+    "question": "Which groups of people should undergo annual screening for lung cancer?",
+    "answer": "Smokers"
   },
   {
     "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
@@ -444,8 +588,20 @@
     "answer": "Bakuchiol"
   },
   {
+    "question": "Which ions play a key role in the contraction of the heart muscle?",
+    "answer": "Calcium ions"
+  },
+  {
+    "question": "Which lobe of the lung is most vulnerable to atelectasis?",
+    "answer": "Middle"
+  },
+  {
     "question": "Which lung cells produce immune responses?",
     "answer": "Macrophages"
+  },
+  {
+    "question": "Which lung structure is most susceptible to fibrosis?",
+    "answer": "Interstitial tissue"
   },
   {
     "question": "Which medications are commonly used to treat chronic heart failure?",
@@ -456,8 +612,16 @@
     "answer": "Glucocorticoids"
   },
   {
+    "question": "Which metabolite of vitamin B6 is the active form?",
+    "answer": "Pyridoxal phosphate"
+  },
+  {
     "question": "Which methodology is most commonly used to assess the quality of hygiene procedures?",
     "answer": "AUDIT"
+  },
+  {
+    "question": "Which micronutrients contribute to DNA synthesis?",
+    "answer": "Folate"
   },
   {
     "question": "Which moisturizer formula is best suited for dehydrated skin?",
@@ -492,6 +656,14 @@
     "answer": "Ghrelin"
   },
   {
+    "question": "Which neuropeptides are associated with the regulation of anxiety?",
+    "answer": "CRF"
+  },
+  {
+    "question": "Which neurotransmitters are actively released during stress?",
+    "answer": "Norepinephrine"
+  },
+  {
     "question": "Which nutrient is necessary to maintain normal progesterone levels?",
     "answer": "Vitamin D"
   },
@@ -506,6 +678,10 @@
   {
     "question": "Which part of the respiratory system is responsible for maintaining constant pressure in the lungs?",
     "answer": "Surfactant"
+  },
+  {
+    "question": "Which physiological process is associated with stress-induced tachycardia?",
+    "answer": "Sympathetic activation"
   },
   {
     "question": "Which plant protein is best absorbed by the body?",
@@ -584,8 +760,16 @@
     "answer": "Vitamin B2"
   },
   {
+    "question": "Which vitamin-containing enzyme is involved in the Krebs cycle?",
+    "answer": "Aconitase"
+  },
+  {
     "question": "Which vitamins and minerals are essential for the health of tendons and ligaments?",
     "answer": "C and manganese"
+  },
+  {
+    "question": "Which vitamins are coenzymes?",
+    "answer": "B"
   },
   {
     "question": "Which vitamins are cofactors for enzymes?",

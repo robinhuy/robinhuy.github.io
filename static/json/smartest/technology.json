@@ -68,6 +68,10 @@
     "answer": "Radiation sensor"
   },
   {
+    "question": "What do vulnerability scanners do?",
+    "answer": "Find vulnerabilities"
+  },
+  {
     "question": "What does a consensus algorithm mean?",
     "answer": "General agreement"
   },
@@ -82,6 +86,10 @@
   {
     "question": "What does blockchain technology allow to create?",
     "answer": "Digital assets"
+  },
+  {
+    "question": "What does malware do?",
+    "answer": "Harms the system"
   },
   {
     "question": "What does the abbreviation MFA stand for?",
@@ -210,6 +218,10 @@
   {
     "question": "What is the method of artificially combining genetic material from different sources called?",
     "answer": "Genetic recombination"
+  },
+  {
+    "question": "What is the name of a robot controlled remotely by a human?",
+    "answer": "Ion engine"
   },
   {
     "question": "What is the name of learning using labeled data?",
