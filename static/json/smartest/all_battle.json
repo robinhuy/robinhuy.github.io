@@ -5225,6 +5225,30 @@
         "answer": "Alter the structure"
     },
     {
+        "question": "How do zones support international trade?",
+        "answer": "Reduction of tariffs"
+    },
+    {
+        "question": "How does a change in the heat balance affect global climate change?",
+        "answer": "Changes the temperature"
+    },
+    {
+        "question": "How does climate change affect the processes of humus formation?",
+        "answer": "Decrease or increase"
+    },
+    {
+        "question": "How does global warming affect ocean currents?",
+        "answer": "Slows down"
+    },
+    {
+        "question": "How does seismic activity affect river valleys?",
+        "answer": "Change in flow"
+    },
+    {
+        "question": "How does the chemical composition of the oceans change during active volcanic activity?",
+        "answer": "Increase in acidity"
+    },
+    {
         "question": "How does the presence of permafrost affect flora?",
         "answer": "Limits growth"
     },
@@ -5232,8 +5256,20 @@
         "question": "How does urbanization affect the unemployment rate?"
     },
     {
+        "question": "How is the age of rocks determined by radiometric dating?",
+        "answer": "Isotopic analysis"
+    },
+    {
+        "question": "How is the structure of global finance changing under the influence of globalization?",
+        "answer": "Diversification of assets"
+    },
+    {
         "question": "In which Eastern European country is the currency named after a national symbol?",
         "answer": "Moldovan leu"
+    },
+    {
+        "question": "In which country does the name of the currency originate from a word meaning trade route in ancient times?",
+        "answer": "Iran"
     },
     {
         "question": "In which country has the average life expectancy increased by 10 years since 1990?",
@@ -5262,8 +5298,16 @@
         "answer": "Atmospheric waves"
     },
     {
+        "question": "What atmospheric process causes hurricane winds and heavy rains in the tropics?",
+        "answer": "Cyclone"
+    },
+    {
         "question": "What cataclysm is caused by underwater earthquakes?",
         "answer": "Tsunami"
+    },
+    {
+        "question": "What catastrophic process can lead to the complete destruction of ecosystems over large areas in a short time?",
+        "answer": "Volcanic eruption"
     },
     {
         "question": "What challenges do global cities face in the context of globalization?",
@@ -5289,6 +5333,18 @@
         "answer": "Temperature"
     },
     {
+        "question": "What effect does the colloidal fraction have on soil structure?",
+        "answer": "Stability"
+    },
+    {
+        "question": "What explains the movement of lithospheric plates over the asthenosphere?",
+        "answer": "Convection"
+    },
+    {
+        "question": "What factor influences the formation of river terraces?",
+        "answer": "Soil erosion"
+    },
+    {
         "question": "What factors contribute to the international competitiveness of zones?",
         "answer": "Innovation and technology"
     },
@@ -5305,28 +5361,80 @@
         "answer": "Soil temperature"
     },
     {
+        "question": "What factors influence the formation of a desert biome?",
+        "answer": "Low precipitation"
+    },
+    {
+        "question": "What factors influence the formation of forest-steppe ecosystems?",
+        "answer": "Moisture balance"
+    },
+    {
         "question": "What factors influence the formation of rare earth metal deposits?",
         "answer": "Hydrothermal processes"
+    },
+    {
+        "question": "What factors influence the formation of tornadoes?",
+        "answer": "Different temperatures"
+    },
+    {
+        "question": "What factors influence the rate of coastal cliff erosion?",
+        "answer": "Wave energy"
+    },
+    {
+        "question": "What factors primarily influence the distribution of biomes on continents?",
+        "answer": "Climatic conditions"
     },
     {
         "question": "What forces cause continental drift?",
         "answer": "Convection"
     },
     {
+        "question": "What geological factors influence the formation of volcanoes in a region?",
+        "answer": "Plate tectonics"
+    },
+    {
+        "question": "What geological phenomenon causes continental drift?",
+        "answer": "Tectonic processes"
+    },
+    {
         "question": "What impact do migration processes have on the genetic diversity of species?",
         "answer": "Gene flow"
+    },
+    {
+        "question": "What impact do volcanic eruptions have on the formation of mountain ranges?",
+        "answer": "Tectonic activity"
     },
     {
         "question": "What is the capital of Easter Island?",
         "answer": "Hanga Roa"
     },
     {
+        "question": "What is the capital of Eritrea?",
+        "answer": "Asmara"
+    },
+    {
         "question": "What is the capital of Zimbabwe?",
         "answer": "Harare"
     },
     {
+        "question": "What is the longest river in Asia?",
+        "answer": "Yangtze"
+    },
+    {
+        "question": "What is the most common ecosystem on Arctic islands?",
+        "answer": "Tundra"
+    },
+    {
+        "question": "What is the most pressing issue for agriculture in the monsoon zone?",
+        "answer": "Floods"
+    },
+    {
         "question": "What is the name of the peninsula that was a key location in medieval trade between the East and the West?",
         "answer": "Arabian"
+    },
+    {
+        "question": "What is the name of the river that forms the border between Mali and Senegal?",
+        "answer": "Senegal"
     },
     {
         "question": "What is the name of the zone where lithospheric plates diverge?",
@@ -5349,6 +5457,10 @@
         "answer": "Obsidian"
     },
     {
+        "question": "What method is used to study the dynamics of tectonic plates?",
+        "answer": "Satellite geodesy"
+    },
+    {
         "question": "What morphological changes occur in Arctic glaciers?",
         "answer": "Ice recrystallization"
     },
@@ -5357,8 +5469,16 @@
         "answer": "Heavy rains and melting"
     },
     {
+        "question": "What phenomenon can cause sea level changes due to tectonic activity?",
+        "answer": "Isostatic equilibrium"
+    },
+    {
         "question": "What phenomenon contributes to the movement of lithospheric plates?",
         "answer": "Mantle"
+    },
+    {
+        "question": "What phenomenon explains the similarity of flora in South America and Africa?",
+        "answer": "Continental drift"
     },
     {
         "question": "What phenomenon is characteristic of the tectonic plate boundaries in the Pacific Ocean?",
@@ -5377,8 +5497,20 @@
         "answer": "Tectonic activity"
     },
     {
+        "question": "What process contributes to soil weathering in Arctic zones?",
+        "answer": "Physical"
+    },
+    {
+        "question": "What process controls the formation of thermocline layers in the seas?",
+        "answer": "Temperature stratification"
+    },
+    {
         "question": "What process leads to the formation of oceanic plateaus?",
         "answer": "Plate tectonics"
+    },
+    {
+        "question": "What process leads to the formation of volcanic geysers?",
+        "answer": "Hydrothermal activity"
     },
     {
         "question": "What processes affect global climate change at the ecosystem level?",
@@ -5409,20 +5541,44 @@
         "answer": "Evaporation of moisture"
     },
     {
+        "question": "What role do hydrothermal solutions play in the formation of gold deposits?",
+        "answer": "Transport of metals"
+    },
+    {
         "question": "What role do natural zones play in the global cycle of substances?",
         "answer": "Carbon balance"
+    },
+    {
+        "question": "What role does hydrothermal activity play in geological processes?",
+        "answer": "Ore formation"
     },
     {
         "question": "What role does hydrothermal activity play in the formation of ore deposits?",
         "answer": "Significant role"
     },
     {
+        "question": "What social changes were caused by migration in Eastern Europe in the 21st century?",
+        "answer": "Emigration"
+    },
+    {
         "question": "What structure connects the Scandinavian and Jutland peninsulas?",
         "answer": "Øresund Bridge"
     },
     {
+        "question": "What substance determines the buffering capacity of soil?",
+        "answer": "Humus"
+    },
+    {
         "question": "What survival mechanisms do animals in the desert use to conserve moisture?",
         "answer": "Minimizing losses"
+    },
+    {
+        "question": "What tool helps in mapping tectonic faults?",
+        "answer": "Ground-penetrating radar"
+    },
+    {
+        "question": "What type of plate boundary is characterized by horizontal movement without rupture?",
+        "answer": "Transform"
     },
     {
         "question": "What type of plate movement leads to the formation of mountain ranges?",
@@ -5445,8 +5601,16 @@
         "answer": "Volcano"
     },
     {
+        "question": "Which city in Asia is considered a leader in medical research and innovation?",
+        "answer": "Singapore"
+    },
+    {
         "question": "Which city in Asia is the main trading hub for gemstones?",
         "answer": "Hong Kong"
+    },
+    {
+        "question": "Which city in North America is known for its innovations in sustainable architecture?",
+        "answer": "Vancouver"
     },
     {
         "question": "Which city in Oceania stands out as a leading center for marine research and oceanography?"
@@ -5458,6 +5622,14 @@
     {
         "question": "Which country has the largest number of SEZs?",
         "answer": "China"
+    },
+    {
+        "question": "Which country is known for creating the first successful Special Economic Zone (SEZ)?",
+        "answer": "China"
+    },
+    {
+        "question": "Which country leads in silver production?",
+        "answer": "Mexico"
     },
     {
         "question": "Which element is most important for the prosperity of economic zones in North America?",
@@ -5476,12 +5648,20 @@
         "answer": "Arctic Council"
     },
     {
+        "question": "Which landscape element is most susceptible to deflation?",
+        "answer": "Sand"
+    },
+    {
         "question": "Which macro factor has the greatest impact on the regions of Eastern Europe?",
         "answer": "Economy"
     },
     {
         "question": "Which mountain on the equator is illuminated by the sun all day?",
         "answer": "Kenya"
+    },
+    {
+        "question": "Which parameter controls the viscosity of mantle flows?",
+        "answer": "Temperature regime"
     },
     {
         "question": "Which peak in the Himalayas has the largest vertical drop?",
@@ -5492,8 +5672,28 @@
         "answer": "Migration flows"
     },
     {
+        "question": "Which process significantly influences the formation of thick humus horizons?",
+        "answer": "humification"
+    },
+    {
+        "question": "Which processes play a key role in climate change at the local level?",
+        "answer": "Evaporation"
+    },
+    {
         "question": "Which railway route crosses the largest number of climate zones?",
         "answer": "Trans-Siberian Railway"
+    },
+    {
+        "question": "Which region in Europe is known as a center for automotive research and development?",
+        "answer": "Bavaria"
+    },
+    {
+        "question": "Which region in the world is known for the largest production of titanium ore?",
+        "answer": "Australia"
+    },
+    {
+        "question": "Which region most actively uses agrotechnologies to increase crop yields?",
+        "answer": "North America"
     },
     {
         "question": "Which region of the world is most vulnerable to changes in demographic structure due to migration?",
@@ -5512,6 +5712,10 @@
         "answer": "Aksu"
     },
     {
+        "question": "Which river is considered the most famous in China?",
+        "answer": "Yellow River"
+    },
+    {
         "question": "Which river is the longest on the Arabian Peninsula?",
         "answer": "Wadi Al-Rummah"
     },
@@ -5528,8 +5732,20 @@
         "answer": "Northern"
     },
     {
+        "question": "Which volcanic eruption lasted the longest in human history?",
+        "answer": "Kilauea, 1983-2018"
+    },
+    {
         "question": "Who was the first European to cross the Sahara Desert?",
         "answer": "Louis Jussieu"
+    },
+    {
+        "question": "At which stage does active division of B-lymphocytes occur?",
+        "answer": "Clonal expansion"
+    },
+    {
+        "question": "How do circadian rhythms affect melatonin levels?",
+        "answer": "Regulate"
     },
     {
         "question": "How do peptides contribute to skin rejuvenation?",
@@ -5546,6 +5762,10 @@
     {
         "question": "How does chronic sleep deprivation affect metabolism?",
         "answer": "Slowing down"
+    },
+    {
+        "question": "How does cortisol affect metabolism?",
+        "answer": "Increases glucose"
     },
     {
         "question": "How does vitamin A deficiency affect bones?",
@@ -5604,6 +5824,10 @@
         "answer": "Gray matter abnormalities"
     },
     {
+        "question": "What changes occur in bone tissue composition during chronic anemia?",
+        "answer": "Decreased mineralization"
+    },
+    {
         "question": "What changes occur in hypothalamic activity during stress?",
         "answer": "Increase"
     },
@@ -5636,6 +5860,10 @@
         "answer": "Personality assessment"
     },
     {
+        "question": "What does the concept of 'psychological immunity' in stress management include?",
+        "answer": "Experiences and reactions"
+    },
+    {
         "question": "What does the diagnosis of endogenous moments include?",
         "answer": "Psychodiagnostics"
     },
@@ -5656,6 +5884,14 @@
         "answer": "Impairment"
     },
     {
+        "question": "What effect does magnesium deficiency have on bone tissue?",
+        "answer": "Weakening"
+    },
+    {
+        "question": "What effect does prolonged hypoxia have on the heart?",
+        "answer": "Necrosis"
+    },
+    {
         "question": "What effect does somatic therapy have on stress?",
         "answer": "Stress reduction"
     },
@@ -5666,6 +5902,10 @@
     {
         "question": "What effects do anabolic workouts have on bone mass?",
         "answer": "Increase bone mass"
+    },
+    {
+        "question": "What factors can contribute to the development of post-traumatic stress disorder?",
+        "answer": "genetic factors"
     },
     {
         "question": "What factors help prevent sarcopenia in the elderly?",
@@ -5680,12 +5920,28 @@
         "answer": "Methylcobalamin"
     },
     {
+        "question": "What function does the complement system perform in fighting infection?",
+        "answer": "Lysis of pathogens"
+    },
+    {
+        "question": "What function does the thyroid-stimulating hormone perform in the body?",
+        "answer": "Regulates the thyroid gland"
+    },
+    {
         "question": "What functions does REM sleep perform?",
         "answer": "Memory consolidation"
     },
     {
+        "question": "What functions does slow-wave sleep have?",
+        "answer": "energy restoration"
+    },
+    {
         "question": "What genetic mutations are associated with hypertension?",
         "answer": "Endothelial mutations"
+    },
+    {
+        "question": "What happens to hormone secretion during deep sleep?",
+        "answer": "Increases"
     },
     {
         "question": "What happens to the alveoli in emphysema?",
@@ -5724,12 +5980,24 @@
         "answer": "Flavonoids"
     },
     {
+        "question": "What is affective instability?",
+        "answer": "Emotional changes"
+    },
+    {
+        "question": "What is an antigen-presenting cell?",
+        "answer": "immune system cell"
+    },
+    {
         "question": "What is the disorder called where a person loses the ability to understand and express emotions?",
         "answer": "Alexithymia"
     },
     {
         "question": "What is the effect of glutamic acid on nerves?",
         "answer": "Stimulates"
+    },
+    {
+        "question": "What is the impact of elevated cortisol levels during prolonged stress?",
+        "answer": "Metabolic disruption"
     },
     {
         "question": "What is the main active element of cytokine action?",
@@ -5742,6 +6010,10 @@
     {
         "question": "What is the most accurate method for determining skin type?",
         "answer": "Dermatological analysis"
+    },
+    {
+        "question": "What is the name of the molecule that initiates the inflammatory response?",
+        "answer": "histamine"
     },
     {
         "question": "What is the name of the protein that regulates bone mineral density?",
@@ -5764,12 +6036,20 @@
         "answer": "Decreases density"
     },
     {
+        "question": "What is the role of antioxidants during intense workouts?",
+        "answer": "Cell protection"
+    },
+    {
         "question": "What is the role of genetics in the development of cardiovascular diseases?",
         "answer": "High significance"
     },
     {
         "question": "What is the role of short-chain fatty acids in the gut?",
         "answer": "Prevention of inflammation"
+    },
+    {
+        "question": "What is the significance of the aerobic threshold for training?",
+        "answer": "Maximum efficiency"
     },
     {
         "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
@@ -5784,8 +6064,24 @@
         "answer": "Hypothalamic-pituitary axis"
     },
     {
+        "question": "What mechanism is responsible for regulating sleep at the brain level?",
+        "answer": "Suprachiasmatic nucleus"
+    },
+    {
         "question": "What mechanism triggers an allergic reaction?",
         "answer": "Activation of IgE"
+    },
+    {
+        "question": "What mechanism triggers the release of adrenaline during stress?",
+        "answer": "Fight-or-flight"
+    },
+    {
+        "question": "What mechanism triggers the synthesis of hormones in the adrenal cortex?",
+        "answer": "Hypothalamic-pituitary axis"
+    },
+    {
+        "question": "What mechanisms are used to regulate emotions?",
+        "answer": "Self-regulation"
     },
     {
         "question": "What metabolic adaptation occurs with regular running?",
@@ -5808,12 +6104,28 @@
         "answer": "Myocardial hypertrophy"
     },
     {
+        "question": "What pharmacological agents are used to treat chronic bronchitis?",
+        "answer": "Antibiotics"
+    },
+    {
         "question": "What physiological phenomenon limits the duration of aerobic exercise?",
         "answer": "Muscle fatigue"
     },
     {
+        "question": "What process involves the interaction of L- and F-antibodies?",
+        "answer": "Agglutination"
+    },
+    {
         "question": "What process is initiated by the activation of helper T-cells?",
         "answer": "Clonal expansion"
+    },
+    {
+        "question": "What process is key in the development of autoimmune diseases?",
+        "answer": "Activation of autoantibodies"
+    },
+    {
+        "question": "What processes are regulated by the ventrolateral preoptic nucleus (VLPO)?",
+        "answer": "Sleep"
     },
     {
         "question": "What program is used to improve cognitive functions in elderly people?",
@@ -5822,6 +6134,10 @@
     {
         "question": "What role do antioxidants play during physical exercise?",
         "answer": "Protect against oxidation"
+    },
+    {
+        "question": "What role do estrogens play in the skeletal system?",
+        "answer": "Reduction of resorption"
     },
     {
         "question": "What role do osteocytes play in bone tissue?",
@@ -5842,6 +6158,10 @@
     {
         "question": "What structural changes can occur in the heart with chronic hypertension?",
         "answer": "myocardial hypertrophy"
+    },
+    {
+        "question": "What studies confirm the link between physical activity and reduced risk of cancer?",
+        "answer": "Clinical studies"
     },
     {
         "question": "What substance in grains and beans binds iron and other minerals, reducing their absorption?",
@@ -5880,6 +6200,10 @@
         "answer": "Interferon alpha/beta"
     },
     {
+        "question": "What type of periodization is necessary to prevent a training plateau?",
+        "answer": "Periodization"
+    },
+    {
         "question": "Which amino acids are considered essential?",
         "answer": "Leucine"
     },
@@ -5896,8 +6220,16 @@
         "answer": "B-lymphocytes"
     },
     {
+        "question": "Which cells express MHC class II?",
+        "answer": "Dendritic cells"
+    },
+    {
         "question": "Which cells produce incretin hormones?",
         "answer": "Enteroendocrine cells"
+    },
+    {
+        "question": "Which cells secrete cytokines to regulate the immune response?",
+        "answer": "T-helper cells"
     },
     {
         "question": "Which chemicals cause inflammation of the alveoli?",
@@ -5920,12 +6252,28 @@
         "answer": "Angiography"
     },
     {
+        "question": "Which diet reduces the risk of cancer?",
+        "answer": "Mediterranean diet"
+    },
+    {
+        "question": "Which disease is associated with an excess of parathyroid hormone?",
+        "answer": "Hyperparathyroidism"
+    },
+    {
         "question": "Which diseases are associated with asbestos exposure to the lungs?",
         "answer": "Asbestosis"
     },
     {
         "question": "Which enzymes are involved in steroid synthesis?",
         "answer": "Cytochromes P450"
+    },
+    {
+        "question": "Which exercises are best for improving proprioception function?",
+        "answer": "Functional"
+    },
+    {
+        "question": "Which factor of combination therapy is most effective in treating heart failure?",
+        "answer": "Diuretics"
     },
     {
         "question": "Which foods can help in the prevention of dementia?",
@@ -5942,6 +6290,10 @@
     {
         "question": "Which gene is responsible for the production of MHC classes?",
         "answer": "HLA gene"
+    },
+    {
+        "question": "Which groups of people should undergo annual screening for lung cancer?",
+        "answer": "Smokers"
     },
     {
         "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
@@ -5976,8 +6328,20 @@
         "answer": "Bakuchiol"
     },
     {
+        "question": "Which ions play a key role in the contraction of the heart muscle?",
+        "answer": "Calcium ions"
+    },
+    {
+        "question": "Which lobe of the lung is most vulnerable to atelectasis?",
+        "answer": "Middle"
+    },
+    {
         "question": "Which lung cells produce immune responses?",
         "answer": "Macrophages"
+    },
+    {
+        "question": "Which lung structure is most susceptible to fibrosis?",
+        "answer": "Interstitial tissue"
     },
     {
         "question": "Which medications are commonly used to treat chronic heart failure?",
@@ -5988,8 +6352,16 @@
         "answer": "Glucocorticoids"
     },
     {
+        "question": "Which metabolite of vitamin B6 is the active form?",
+        "answer": "Pyridoxal phosphate"
+    },
+    {
         "question": "Which methodology is most commonly used to assess the quality of hygiene procedures?",
         "answer": "AUDIT"
+    },
+    {
+        "question": "Which micronutrients contribute to DNA synthesis?",
+        "answer": "Folate"
     },
     {
         "question": "Which moisturizer formula is best suited for dehydrated skin?",
@@ -6024,6 +6396,14 @@
         "answer": "Ghrelin"
     },
     {
+        "question": "Which neuropeptides are associated with the regulation of anxiety?",
+        "answer": "CRF"
+    },
+    {
+        "question": "Which neurotransmitters are actively released during stress?",
+        "answer": "Norepinephrine"
+    },
+    {
         "question": "Which nutrient is necessary to maintain normal progesterone levels?",
         "answer": "Vitamin D"
     },
@@ -6038,6 +6418,10 @@
     {
         "question": "Which part of the respiratory system is responsible for maintaining constant pressure in the lungs?",
         "answer": "Surfactant"
+    },
+    {
+        "question": "Which physiological process is associated with stress-induced tachycardia?",
+        "answer": "Sympathetic activation"
     },
     {
         "question": "Which plant protein is best absorbed by the body?",
@@ -6116,8 +6500,16 @@
         "answer": "Vitamin B2"
     },
     {
+        "question": "Which vitamin-containing enzyme is involved in the Krebs cycle?",
+        "answer": "Aconitase"
+    },
+    {
         "question": "Which vitamins and minerals are essential for the health of tendons and ligaments?",
         "answer": "C and manganese"
+    },
+    {
+        "question": "Which vitamins are coenzymes?",
+        "answer": "B"
     },
     {
         "question": "Which vitamins are cofactors for enzymes?",
@@ -9666,6 +10058,10 @@
         "answer": "88"
     },
     {
+        "question": "How many movements are in Beethoven's Symphony No. 6?",
+        "answer": "5"
+    },
+    {
         "question": "How many songs are in the album 'Reputation'?",
         "answer": "15"
     },
@@ -9786,6 +10182,10 @@
         "answer": "Manchester"
     },
     {
+        "question": "In which city was the EMA ceremony held in 2007?",
+        "answer": "Munich"
+    },
+    {
         "question": "In which city were the EMAs held in 2010?",
         "answer": "Madrid"
     },
@@ -9820,6 +10220,10 @@
     {
         "question": "Name the first song to win an Oscar.",
         "answer": "The Continental"
+    },
+    {
+        "question": "Name the music style that was popular in New York in the 1970s?",
+        "answer": "Hip-hop"
     },
     {
         "question": "On which label did the Wu-Tang Clan start?",
@@ -10102,6 +10506,10 @@
         "answer": "In Croce Curriculum Musicus"
     },
     {
+        "question": "What is the name of The Chemical Brothers' 1997 album?",
+        "answer": "Dig Your Own Hole"
+    },
+    {
         "question": "What is the name of The Velvet Underground's debut album?",
         "answer": "The Velvet Underground & Nico"
     },
@@ -10168,6 +10576,10 @@
     {
         "question": "What is the name of the ballet by Adan?",
         "answer": "Giselle"
+    },
+    {
+        "question": "What is the name of the building that houses the Country Music Hall of Fame?",
+        "answer": "Country Music Hall of Fame"
     },
     {
         "question": "What is the name of the composer of 'The Tales of Hoffmann'?",
@@ -10352,6 +10764,10 @@
     {
         "question": "What is the style of country music with elements of blues called?",
         "answer": "Americana"
+    },
+    {
+        "question": "What is the subgenre of drum and bass with an aggressive sound and complex rhythms called?",
+        "answer": "Neurofunk"
     },
     {
         "question": "What is the subgenre of techno with elements of ambient called?",
@@ -10542,6 +10958,10 @@
         "answer": "Zither"
     },
     {
+        "question": "What was the name of the medieval musical work by Léonin?",
+        "answer": "Magnus Liber"
+    },
+    {
         "question": "What was the original name of the band Radiohead?",
         "answer": "Joni Mitchell"
     },
@@ -10568,6 +10988,10 @@
     {
         "question": "When was Daft Punk's album 'Homework' released?",
         "answer": "1997"
+    },
+    {
+        "question": "Where did gangsta rap originate?",
+        "answer": "South Central"
     },
     {
         "question": "Where did the first mass performance of a jazz orchestra take place?",
@@ -10636,6 +11060,10 @@
     {
         "question": "Which album by Mother Love Bone became their main one?",
         "answer": "Apple"
+    },
+    {
+        "question": "Which album did Led Zeppelin release in 1971?",
+        "answer": "Led Zeppelin IV"
     },
     {
         "question": "Which album did Marvin Gaye release in 1971?",
@@ -10896,6 +11324,10 @@
     {
         "question": "Which instrument became popular in rock music thanks to The Beatles?",
         "answer": "Sitar"
+    },
+    {
+        "question": "Which instrument can produce harmonics?",
+        "answer": "violin"
     },
     {
         "question": "Which instrument has keys and a drum?",
@@ -11286,6 +11718,10 @@
         "answer": "Brandenburg Concertos"
     },
     {
+        "question": "Who became popular thanks to the album 'Street Songs'?",
+        "answer": "Rick James"
+    },
+    {
         "question": "Who composed 'Duke Bluebeard's Castle'?",
         "answer": "Béla Bartók"
     },
@@ -11516,6 +11952,10 @@
     {
         "question": "Who performed the opening number at the MTV VMA 2021?",
         "answer": "Madonna"
+    },
+    {
+        "question": "Who performed the song 'Chop Suey!'?",
+        "answer": "System of a Down"
     },
     {
         "question": "Who performed the song 'Gimme Some Lovin''?",
@@ -11756,6 +12196,10 @@
     {
         "question": "Who wrote 'The Triumphal Symphony'?",
         "answer": "Richard Wagner"
+    },
+    {
+        "question": "Whose 1970s album is 'There Goes Rhymin' Simon'?",
+        "answer": "Paul Simon"
     },
     {
         "question": "Do stereoisomers have different spatial arrangements of atoms?",
@@ -12923,6 +13367,10 @@
         "answer": "Radiation sensor"
     },
     {
+        "question": "What do vulnerability scanners do?",
+        "answer": "Find vulnerabilities"
+    },
+    {
         "question": "What does a consensus algorithm mean?",
         "answer": "General agreement"
     },
@@ -12937,6 +13385,10 @@
     {
         "question": "What does blockchain technology allow to create?",
         "answer": "Digital assets"
+    },
+    {
+        "question": "What does malware do?",
+        "answer": "Harms the system"
     },
     {
         "question": "What does the abbreviation MFA stand for?",
@@ -13065,6 +13517,10 @@
     {
         "question": "What is the method of artificially combining genetic material from different sources called?",
         "answer": "Genetic recombination"
+    },
+    {
+        "question": "What is the name of a robot controlled remotely by a human?",
+        "answer": "Ion engine"
     },
     {
         "question": "What is the name of learning using labeled data?",
