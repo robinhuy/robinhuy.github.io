@@ -4,6 +4,14 @@
     "answer": "Different spatial arrangement of atoms"
   },
   {
+    "question": "During which phenomenon does the doubling of the image of objects occur?",
+    "answer": "Mirage"
+  },
+  {
+    "question": "Find the derivative of the function y = x³.",
+    "answer": "3x²"
+  },
+  {
     "question": "How are nanoscale layers produced?",
     "answer": "Sputtering"
   },
@@ -33,6 +41,10 @@
   {
     "question": "In what year did Newton publish 'Mathematical Principles of Natural Philosophy'?",
     "answer": "1687"
+  },
+  {
+    "question": "In what year did the earthquake in Chile with a magnitude of 9.5 occur?",
+    "answer": "1960"
   },
   {
     "question": "In what year did the term 'robot' first appear?",
@@ -82,8 +94,32 @@
     "answer": "SLAM"
   },
   {
+    "question": "What algorithm is used for working with hash tables?",
+    "answer": "Hash function"
+  },
+  {
+    "question": "What allows the study of galaxy evolution?",
+    "answer": "Theory of relativity"
+  },
+  {
+    "question": "What are autosomes?",
+    "answer": "Non-sex chromosomes"
+  },
+  {
     "question": "What are carboxylic acids used for?",
     "answer": "Production of esters"
+  },
+  {
+    "question": "What are endospores?",
+    "answer": "Protective structures"
+  },
+  {
+    "question": "What are enzymes called?",
+    "answer": "Biocatalysts"
+  },
+  {
+    "question": "What are fingerprint patterns used for?",
+    "answer": "Identity identification"
   },
   {
     "question": "What are iron nanoparticles used for?",
@@ -96,6 +132,10 @@
   {
     "question": "What are plants that grow without soil called?",
     "answer": "Hydroponic"
+  },
+  {
+    "question": "What are plants that live on trees called?",
+    "answer": "Epiphytes"
   },
   {
     "question": "What are robot vacuums?",
@@ -118,12 +158,20 @@
     "answer": "Enzymes"
   },
   {
+    "question": "What are the proteins involved in gene regulation called?",
+    "answer": "Transcription factors"
+  },
+  {
     "question": "What are the regions of galaxies with high energy consumption called?",
     "answer": "Quasars"
   },
   {
     "question": "What are the regions of space with intense magnetic fields called?",
     "answer": "Magnetars"
+  },
+  {
+    "question": "What are the short but strong regional winds in deserts called?",
+    "answer": "Sirocco"
   },
   {
     "question": "What are zoophilous plants?",
@@ -142,8 +190,24 @@
     "answer": "Adiabatic process"
   },
   {
+    "question": "What changes during a quantum leap?",
+    "answer": "energy state"
+  },
+  {
+    "question": "What chemicals transmit nerve impulses?",
+    "answer": "neurotransmitters"
+  },
+  {
     "question": "What command is used in Linux to copy files?",
     "answer": "cp"
+  },
+  {
+    "question": "What determines the structure of a protein?",
+    "answer": "Sequence of amino acids"
+  },
+  {
+    "question": "What device is used to study surfaces?",
+    "answer": "Scanning microscope"
   },
   {
     "question": "What device is used to work with a laser?",
@@ -174,8 +238,16 @@
     "answer": "Revolutions per minute"
   },
   {
+    "question": "What does an urbanist do?",
+    "answer": "Urban planning"
+  },
+  {
     "question": "What does cytogenetics study?",
     "answer": "Chromosomes"
+  },
+  {
+    "question": "What does cytology study?",
+    "answer": "Cells"
   },
   {
     "question": "What does endocrinology study?",
@@ -190,8 +262,16 @@
     "answer": "The study of aging"
   },
   {
+    "question": "What does hydrolysis lead to?",
+    "answer": "Breakdown of molecules"
+  },
+  {
     "question": "What does micropaleontology study?",
     "answer": "Microscopic fossils"
+  },
+  {
+    "question": "What does organic chemistry study?",
+    "answer": "Carbon compounds"
   },
   {
     "question": "What does paleobotany study?",
@@ -228,6 +308,10 @@
   {
     "question": "What does the symbol ∫ represent in mathematics?",
     "answer": "Integral"
+  },
+  {
+    "question": "What does the wave function describe in quantum mechanics?",
+    "answer": "Probability of finding"
   },
   {
     "question": "What factor affects the humidity level?",
@@ -282,6 +366,10 @@
     "answer": "Low pressure"
   },
   {
+    "question": "What is a lathe used for?",
+    "answer": "Metalworking"
+  },
+  {
     "question": "What is a nephelometer used for?",
     "answer": "Measuring turbidity"
   },
@@ -294,8 +382,16 @@
     "answer": "Systematic error"
   },
   {
+    "question": "What is an autoclave used for?",
+    "answer": "Sterilization of equipment"
+  },
+  {
     "question": "What is an electrocardiograph used for?",
     "answer": "Measuring heart rhythms"
+  },
+  {
+    "question": "What is an important stage in scientific research?",
+    "answer": "Data analysis"
   },
   {
     "question": "What is an irrational number?",
@@ -318,6 +414,10 @@
     "answer": "The limit of the observable universe"
   },
   {
+    "question": "What is cosmic inflation?",
+    "answer": "Phase of expansion"
+  },
+  {
     "question": "What is cosmic microwave background radiation?",
     "answer": "Relic radiation"
   },
@@ -334,12 +434,24 @@
     "answer": "Intestinal epithelium"
   },
   {
+    "question": "What is done at a CNC factory?",
+    "answer": "Process materials"
+  },
+  {
+    "question": "What is ecdysis?",
+    "answer": "Shedding of the chitinous exoskeleton"
+  },
+  {
     "question": "What is epigenetics?",
     "answer": "Regulation of genes without changing DNA"
   },
   {
     "question": "What is epsilon in mathematics?",
     "answer": "A small quantity"
+  },
+  {
+    "question": "What is fossilized wood called?",
+    "answer": "Petrified wood"
   },
   {
     "question": "What is found in red blood cells and carries oxygen?",
@@ -362,12 +474,24 @@
     "answer": "Separation of magma"
   },
   {
+    "question": "What is oxygen balance?",
+    "answer": "Equilibrium of O2"
+  },
+  {
     "question": "What is peptidoglycan?",
     "answer": "Cell wall"
   },
   {
+    "question": "What is population genetics?",
+    "answer": "Genetics of populations"
+  },
+  {
     "question": "What is protein denaturation?",
     "answer": "Change in structure"
+  },
+  {
+    "question": "What is quantum decoherence?",
+    "answer": "Destruction of superposition"
   },
   {
     "question": "What is referred to as the process of 'deposition' in meteorology?",
@@ -376,6 +500,14 @@
   {
     "question": "What is the accumulation of toxins in the food chain called?",
     "answer": "Biomagnification"
+  },
+  {
+    "question": "What is the acidic base in aspirin?",
+    "answer": "Salicylic"
+  },
+  {
+    "question": "What is the antiderivative of a function?",
+    "answer": "Integral"
   },
   {
     "question": "What is the basic principle of radar operation?",
@@ -388,6 +520,18 @@
   {
     "question": "What is the complexity level of quantum dots?",
     "answer": "High"
+  },
+  {
+    "question": "What is the definition of determining the sequence of genes?",
+    "answer": "Sequencing"
+  },
+  {
+    "question": "What is the depth of the epicenter of the strongest earthquakes?",
+    "answer": "More than 70 km"
+  },
+  {
+    "question": "What is the derivative of cos(x)?",
+    "answer": "-sin(x)"
   },
   {
     "question": "What is the device called for analyzing the quantum properties of light?",
@@ -414,6 +558,10 @@
     "answer": "Black hole"
   },
   {
+    "question": "What is the focal depth range of an earthquake?",
+    "answer": "10-700 km"
+  },
+  {
     "question": "What is the formula for variance?",
     "answer": "Σ(x - μ)²/n"
   },
@@ -422,8 +570,16 @@
     "answer": "Spectrum analysis"
   },
   {
+    "question": "What is the function of ependymal cells?",
+    "answer": "Production of cerebrospinal fluid"
+  },
+  {
     "question": "What is the geological activity of oceanic plates called?",
     "answer": "Spreading"
+  },
+  {
+    "question": "What is the greatest common divisor (GCD) of the numbers 56 and 98?",
+    "answer": "14"
   },
   {
     "question": "What is the hypothesis called that suggests life originated from space?",
@@ -432,6 +588,10 @@
   {
     "question": "What is the hypothesis related to the possibility of life originating in space?",
     "answer": "Panspermia"
+  },
+  {
+    "question": "What is the hypothetical region called where gravity surpasses all forces?",
+    "answer": "Black hole"
   },
   {
     "question": "What is the large structure that connects the hemispheres of the brain called?",
@@ -448,6 +608,18 @@
   {
     "question": "What is the method called for teaching robots new actions?",
     "answer": "Machine learning"
+  },
+  {
+    "question": "What is the method called that allows the study of gravitational effects of distant objects?",
+    "answer": "Gravitational lensing"
+  },
+  {
+    "question": "What is the method called that uses atomic or molecular forces to create nanoscale structures?",
+    "answer": "Nanolithography"
+  },
+  {
+    "question": "What is the method called where the gravity of a massive object focuses the light of distant stars or galaxies?",
+    "answer": "Gravitational lensing"
   },
   {
     "question": "What is the method of creating structures that involves layering atoms called?",
@@ -470,6 +642,10 @@
     "answer": "Spectroscopy"
   },
   {
+    "question": "What is the most effective navigation method for robots?",
+    "answer": "SLAM"
+  },
+  {
     "question": "What is the name of a form of sustainable agriculture?",
     "answer": "Agroecofarm"
   },
@@ -478,8 +654,24 @@
     "answer": "Twin Universe"
   },
   {
+    "question": "What is the name of a strong whirlwind on the seashore?",
+    "answer": "Tornado"
+  },
+  {
+    "question": "What is the name of a wetland characterized by constant moisture and vegetation?",
+    "answer": "Peatland"
+  },
+  {
     "question": "What is the name of skin cancer?",
     "answer": "Melanoma"
+  },
+  {
+    "question": "What is the name of the ancient mammal with cusps?",
+    "answer": "Morganucodon"
+  },
+  {
+    "question": "What is the name of the bird whose remains are often found in sedimentary rocks?",
+    "answer": "Archaeopteryx"
   },
   {
     "question": "What is the name of the bone disease?",
@@ -490,8 +682,28 @@
     "answer": "Universal machine"
   },
   {
+    "question": "What is the name of the gas released during reactions of carbon dioxide and water?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the name of the genome sequencing method?",
+    "answer": "Sanger sequencing"
+  },
+  {
+    "question": "What is the name of the hypothetical form of matter with negative mass?",
+    "answer": "Negative matter"
+  },
+  {
+    "question": "What is the name of the mammal that lived during the Triassic period?",
+    "answer": "Synodont"
+  },
+  {
     "question": "What is the name of the method for staining bacteria?",
     "answer": "Gram method"
+  },
+  {
+    "question": "What is the name of the oldest geological era?",
+    "answer": "Archean"
   },
   {
     "question": "What is the name of the stone formation that has preserved ancient water?",
@@ -500,6 +712,14 @@
   {
     "question": "What is the name of the tectonic fault in California?",
     "answer": "San Andreas"
+  },
+  {
+    "question": "What is the name of the underground location where an earthquake begins?",
+    "answer": "Hypocenter"
+  },
+  {
+    "question": "What is the name of the zone between the tropics characterized by weak winds?",
+    "answer": "Doldrums"
   },
   {
     "question": "What is the name of wind erosion?",
@@ -533,8 +753,20 @@
     "answer": "SLAM"
   },
   {
+    "question": "What is the process of creating tissue structures called?",
+    "answer": "Tissue engineering"
+  },
+  {
     "question": "What is the process of gene removal called?",
     "answer": "Gene copying"
+  },
+  {
+    "question": "What is the process of melting glass called?",
+    "answer": "Glass melting"
+  },
+  {
+    "question": "What is the process of mountain formation called?",
+    "answer": "Orogeny"
   },
   {
     "question": "What is the process of mountain range formation called?",
@@ -557,12 +789,20 @@
     "answer": "Carbon storage"
   },
   {
+    "question": "What is the process of testing materials for strength called?",
+    "answer": "Testing"
+  },
+  {
     "question": "What is the process of young plants growing called?",
     "answer": "Germination"
   },
   {
     "question": "What is the removal of a muscle called?",
     "answer": "Myectomy"
+  },
+  {
+    "question": "What is the role of enzymes?",
+    "answer": "Catalysts"
   },
   {
     "question": "What is the self-assembly technique often used for in nanotechnology?",
@@ -579,6 +819,14 @@
   {
     "question": "What is the term for critical self-examination in science?",
     "answer": "Methodology"
+  },
+  {
+    "question": "What is the term for heart pain?",
+    "answer": "Cardialgia"
+  },
+  {
+    "question": "What is the term for the lack of one or more nutrients?",
+    "answer": "Nutrient deficiency"
   },
   {
     "question": "What is the term for the tendency of blood to clot?",
@@ -598,6 +846,10 @@
   {
     "question": "What is the theory that unifies gravity and quantum mechanics called?",
     "answer": "String Theory"
+  },
+  {
+    "question": "What is the value of the gravitational constant?",
+    "answer": "6.67430 × 10⁻¹¹"
   },
   {
     "question": "What is thermodynamics?",
@@ -628,6 +880,10 @@
     "answer": "Network"
   },
   {
+    "question": "What material did Mikhail Lomonosov synthesize for the first time?",
+    "answer": "Glass"
+  },
+  {
     "question": "What materials are used for nanoparticle research?",
     "answer": "Nanochips"
   },
@@ -642,6 +898,10 @@
   {
     "question": "What mechanism involves the enhancement of signal transmission efficiency in a neuron?",
     "answer": "Long-term potentiation"
+  },
+  {
+    "question": "What method is used for cleaning polluted water bodies?",
+    "answer": "Bioremediation"
   },
   {
     "question": "What method is used for dating archaeological finds?",
@@ -672,6 +932,18 @@
     "answer": "TCP/IP"
   },
   {
+    "question": "What organic molecules can be found on comets?",
+    "answer": "Amines"
+  },
+  {
+    "question": "What phenomenon causes the tilt of the wind on mountain slopes?",
+    "answer": "Katabatic"
+  },
+  {
+    "question": "What phenomenon describes the interaction between two entangled particles regardless of distance?",
+    "answer": "Quantum entanglement"
+  },
+  {
     "question": "What phenomenon explains the gravitational effect on light?",
     "answer": "Gravitational lensing"
   },
@@ -700,12 +972,32 @@
     "answer": "Potentiation"
   },
   {
+    "question": "What process forms stalactites?",
+    "answer": "Deposition of carbonates"
+  },
+  {
+    "question": "What process improves memory?",
+    "answer": "Consolidation"
+  },
+  {
+    "question": "What process leads to genetic recombination in bacteria?",
+    "answer": "Transformation"
+  },
+  {
     "question": "What products are formed during the complete combustion of hydrocarbons?",
     "answer": "CO2 and H2O"
   },
   {
     "question": "What promising technologies are being developed for information storage using nanotechnology?",
     "answer": "Nanomemory"
+  },
+  {
+    "question": "What property is special for nanomaterials?",
+    "answer": "High conductivity"
+  },
+  {
+    "question": "What property of nanoparticles makes them useful in medical diagnostics?",
+    "answer": "High reactivity"
   },
   {
     "question": "What quantity is measured in Henry?",
@@ -722,6 +1014,10 @@
   {
     "question": "What role do nanoparticles play?",
     "answer": "Catalytic"
+  },
+  {
+    "question": "What structure is composed of axons covered with myelin?",
+    "answer": "White matter"
   },
   {
     "question": "What studies gravitational waves?",
@@ -746,6 +1042,10 @@
   {
     "question": "What technology allows genome sequencing?",
     "answer": "NGS"
+  },
+  {
+    "question": "What technology allows robots to operate autonomously?",
+    "answer": "Algorithms"
   },
   {
     "question": "What temperature is required for sterilization in an autoclave?",
@@ -796,6 +1096,14 @@
     "answer": "Warm waters"
   },
   {
+    "question": "What winds are formed due to the Earth's rotation?",
+    "answer": "Easterly winds"
+  },
+  {
+    "question": "When was the first nanorobot created?",
+    "answer": "1990s"
+  },
+  {
     "question": "When was the term 'quantum' introduced?",
     "answer": "1900"
   },
@@ -804,8 +1112,24 @@
     "answer": "The Caribbean"
   },
   {
+    "question": "Where in the Solar System is a subsurface ocean located?",
+    "answer": "Enceladus"
+  },
+  {
+    "question": "Where is a CNC machine used?",
+    "answer": "Metalworking"
+  },
+  {
+    "question": "Where is the heart of a giraffe located?",
+    "answer": "60 cm from the head"
+  },
+  {
     "question": "Where is the pollen grain located?",
     "answer": "Androecium"
+  },
+  {
+    "question": "Where was the first controlled nuclear reaction conducted?",
+    "answer": "University of Chicago"
   },
   {
     "question": "Where was the virus first isolated?",
@@ -828,11 +1152,19 @@
     "answer": "Prefrontal cortex"
   },
   {
+    "question": "Which astronomer proved the existence of gravitational lenses?",
+    "answer": "Fritz Zwicky"
+  },
+  {
     "question": "Which atoms are subject to substitution in aromatic compounds?"
   },
   {
     "question": "Which bacteria fix nitrogen in plant nodules?",
     "answer": "rhizobia"
+  },
+  {
+    "question": "Which brain cell is responsible for immune defense?",
+    "answer": "Microglia"
   },
   {
     "question": "Which cells contain chloroplasts?"
@@ -862,12 +1194,24 @@
     "answer": "Cumulonimbus"
   },
   {
+    "question": "Which codon terminates protein synthesis?",
+    "answer": "Stop codon"
+  },
+  {
+    "question": "Which component is essential for the precise operation of a manipulator?",
+    "answer": "Servo motor"
+  },
+  {
     "question": "Which constellation contains the star Vega?",
     "answer": "Lyra"
   },
   {
     "question": "Which country suffers the most from hurricanes due to its geographical location?",
     "answer": "Philippines"
+  },
+  {
+    "question": "Which country was the first to introduce a clean air law?",
+    "answer": "United Kingdom"
   },
   {
     "question": "Which creatures are considered living fossils?",
@@ -882,6 +1226,10 @@
     "answer": "Freon"
   },
   {
+    "question": "Which equation describes the interaction of iron with oxygen?",
+    "answer": "Fe + O2"
+  },
+  {
     "question": "Which equation uses an exponent?",
     "answer": "Exponential"
   },
@@ -892,6 +1240,14 @@
   {
     "question": "Which factor does not affect plant growth?",
     "answer": "Leaf color"
+  },
+  {
+    "question": "Which fossil is considered an ancestor of amphibians?",
+    "answer": "Tiktaalik"
+  },
+  {
+    "question": "Which fossils help to understand the evolution of mammals?",
+    "answer": "Transitional forms"
   },
   {
     "question": "Which functional group contains two oxygen atoms?",
@@ -918,6 +1274,34 @@
     "answer": "Philosophy of science"
   },
   {
+    "question": "Which microorganism causes malaria?",
+    "answer": "Plasmodium"
+  },
+  {
+    "question": "Which microorganisms are capable of nitrification?",
+    "answer": "Nitrifying bacteria"
+  },
+  {
+    "question": "Which mission is exploring Titan's atmosphere?",
+    "answer": "Cassini-Huygens"
+  },
+  {
+    "question": "Which molecule forms the basis of the biochemistry of life?",
+    "answer": "DNA"
+  },
+  {
+    "question": "Which nanomaterial is often used in sensors?",
+    "answer": "Zinc"
+  },
+  {
+    "question": "Which neurotransmitter inhibits neuronal activity?",
+    "answer": "GABA"
+  },
+  {
+    "question": "Which numbers are there more of: natural or rational?",
+    "answer": "Rational"
+  },
+  {
     "question": "Which of the following fields is a metascience?",
     "answer": "Epistemology"
   },
@@ -930,8 +1314,16 @@
     "answer": "Coelacanth"
   },
   {
+    "question": "Which organisms are involved in bioremediation?",
+    "answer": "Microbes"
+  },
+  {
     "question": "Which organisms live at low temperatures?",
     "answer": "Psychrophiles"
+  },
+  {
+    "question": "Which part of the brain is responsible for facial recognition?",
+    "answer": "Fusiform gyrus"
   },
   {
     "question": "Which part of the brain is responsible for hormone regulation?",
@@ -962,32 +1354,84 @@
     "answer": "Tobacco"
   },
   {
+    "question": "Which process leads to an increase in genetic diversity within a population?",
+    "answer": "Mutation"
+  },
+  {
+    "question": "Which programming language is most commonly used for machine learning?",
+    "answer": "Python"
+  },
+  {
     "question": "Which protocol do autonomous robots most commonly follow?",
     "answer": "ROS"
+  },
+  {
+    "question": "Which reptile is found only in Australia?",
+    "answer": "Flat-headed leaf-tailed gecko"
+  },
+  {
+    "question": "Which researcher proposed the panspermia hypothesis?",
+    "answer": "Svante Arrhenius"
+  },
+  {
+    "question": "Which robot assists in surgery?",
+    "answer": "da Vinci"
   },
   {
     "question": "Which robot has a gray cortex?",
     "answer": "Humanoid"
   },
   {
+    "question": "Which robot has a sixth sense?",
+    "answer": "Modern"
+  },
+  {
     "question": "Which robot is used for observing space objects?",
     "answer": "Space"
+  },
+  {
+    "question": "Which robots include manipulators?",
+    "answer": "Industrial"
   },
   {
     "question": "Which science deals with synthesis?",
     "answer": "Chemistry"
   },
   {
+    "question": "Which science studies the methods of scientific knowledge?",
+    "answer": "Epistemology"
+  },
+  {
     "question": "Which science studies the physical methods of measuring time?",
     "answer": "Chronometry"
+  },
+  {
+    "question": "Which scientist discovered continental drift?",
+    "answer": "Alfred Wegener"
   },
   {
     "question": "Which scientist suggested the existence of microbes on other planets?",
     "answer": "Carl Sagan"
   },
   {
+    "question": "Which snake is the most venomous?",
+    "answer": "Inland Taipan"
+  },
+  {
+    "question": "Which structure provides the transport of nutrients within the cell?",
+    "answer": "Endoplasmic reticulum"
+  },
+  {
     "question": "Which structures are responsible for storing starch?",
     "answer": "Amyloplasts"
+  },
+  {
+    "question": "Which substance crosses the plasma membrane?",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which substitution in a DNA molecule causes alloplasia?",
+    "answer": "Adenine to Thymine"
   },
   {
     "question": "Which system is activated during stress?",
@@ -996,6 +1440,14 @@
   {
     "question": "Which technology is important for nanoelectronics?",
     "answer": "Photolithography"
+  },
+  {
+    "question": "Which theory describes the instantaneous connection between particles regardless of distance?",
+    "answer": "Quantum entanglement"
+  },
+  {
+    "question": "Which theory unifies electromagnetic and weak interactions?",
+    "answer": "Electroweak theory"
   },
   {
     "question": "Which vaccine helps prevent polio?",
@@ -1025,6 +1477,10 @@
     "answer": "James Maxwell"
   },
   {
+    "question": "Who discovered the quantum nature of light?",
+    "answer": "Albert Einstein"
+  },
+  {
     "question": "Who discovered the starch-iodine reagent?",
     "answer": "Friedrich Schönbein"
   },
@@ -1035,6 +1491,18 @@
   {
     "question": "Who first proposed the theory of panspermia?",
     "answer": "Svante Arrhenius"
+  },
+  {
+    "question": "Who first synthesized urea?",
+    "answer": "Friedrich Wöhler"
+  },
+  {
+    "question": "Who formulated the plate theory?",
+    "answer": "Karl Love"
+  },
+  {
+    "question": "Who introduced the concept of 'paradigm' in science?",
+    "answer": "Thomas Kuhn"
   },
   {
     "question": "Who introduced the term 'robot'?",
@@ -1055,6 +1523,14 @@
   {
     "question": "Who performs heart surgeries?",
     "answer": "Cardiac surgeon"
+  },
+  {
+    "question": "Who proposed the classification system for living organisms?",
+    "answer": "Linnaeus"
+  },
+  {
+    "question": "Who proposed the concept of an expanding Universe?",
+    "answer": "Alexander Friedmann"
   },
   {
     "question": "Who proposed the first theory of evolution?",
