@@ -4,12 +4,24 @@
     "answer": "Defense"
   },
   {
+    "question": "How do sea cucumbers clean their insides when threatened?",
+    "answer": "Eject their organs"
+  },
+  {
+    "question": "How long do macaques live?",
+    "answer": "35 years"
+  },
+  {
     "question": "How many species of monitor lizards are there?",
     "answer": "80"
   },
   {
     "question": "In which nature reserve do red pandas live?",
     "answer": "Sikhote-Alin"
+  },
+  {
+    "question": "To which class do echinoderms with long tentacles belong?",
+    "answer": "Holothuroidea"
   },
   {
     "question": "What animals inhabit the Yamal Nature Reserve?",
@@ -20,12 +32,32 @@
     "answer": "Book lungs"
   },
   {
+    "question": "What does the notochord in lancelets represent?",
+    "answer": "Rigid rod"
+  },
+  {
+    "question": "What is the molting process in arthropods called?",
+    "answer": "Ecdysis"
+  },
+  {
     "question": "What is the stage of development called when an insect turns into a pupa?",
     "answer": "Pupa"
   },
   {
+    "question": "What length can a reticulated python reach?",
+    "answer": "up to 10 meters"
+  },
+  {
     "question": "What organisms does an anteater prefer to eat?",
     "answer": "Termites"
+  },
+  {
+    "question": "What speed can the fastest whales reach?",
+    "answer": "40 km/h"
+  },
+  {
+    "question": "Where are the eyes of starfish located?",
+    "answer": "At the tips of their arms"
   },
   {
     "question": "Where are the lateral line organs located on a shark?",
@@ -36,12 +68,20 @@
     "answer": "Chameleon"
   },
   {
+    "question": "Which animal hunts at close range?",
+    "answer": "Wolf"
+  },
+  {
     "question": "Which animal is a native of the Himalayas?",
     "answer": "yak"
   },
   {
     "question": "Which animal lives deep in the ocean and has a transparent body?",
     "answer": "Actinaria"
+  },
+  {
+    "question": "Which animals eat hay?",
+    "answer": "Sheep"
   },
   {
     "question": "Which bird has a crest on its head and a hooked beak?",
@@ -68,6 +108,14 @@
     "answer": "cricket"
   },
   {
+    "question": "Which insect is often found in fogs?",
+    "answer": "Mosquito"
+  },
+  {
+    "question": "Which insect makes an unusual sound when threatened?",
+    "answer": "Dung beetle"
+  },
+  {
     "question": "Which insects glow in the dark?",
     "answer": "fireflies"
   },
@@ -84,7 +132,15 @@
     "answer": "Baboon"
   },
   {
+    "question": "Which primates can swim?",
+    "answer": "Proboscis monkeys"
+  },
+  {
     "question": "Which reserve does Mount Elbrus belong to?",
     "answer": "Kabardino-Balkarian"
+  },
+  {
+    "question": "Which snail produces venom?",
+    "answer": "Cone snail"
   }
 ]
