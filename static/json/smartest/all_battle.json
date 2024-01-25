@@ -4,12 +4,24 @@
         "answer": "Defense"
     },
     {
+        "question": "How do sea cucumbers clean their insides when threatened?",
+        "answer": "Eject their organs"
+    },
+    {
+        "question": "How long do macaques live?",
+        "answer": "35 years"
+    },
+    {
         "question": "How many species of monitor lizards are there?",
         "answer": "80"
     },
     {
         "question": "In which nature reserve do red pandas live?",
         "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "To which class do echinoderms with long tentacles belong?",
+        "answer": "Holothuroidea"
     },
     {
         "question": "What animals inhabit the Yamal Nature Reserve?",
@@ -20,12 +32,32 @@
         "answer": "Book lungs"
     },
     {
+        "question": "What does the notochord in lancelets represent?",
+        "answer": "Rigid rod"
+    },
+    {
+        "question": "What is the molting process in arthropods called?",
+        "answer": "Ecdysis"
+    },
+    {
         "question": "What is the stage of development called when an insect turns into a pupa?",
         "answer": "Pupa"
     },
     {
+        "question": "What length can a reticulated python reach?",
+        "answer": "up to 10 meters"
+    },
+    {
         "question": "What organisms does an anteater prefer to eat?",
         "answer": "Termites"
+    },
+    {
+        "question": "What speed can the fastest whales reach?",
+        "answer": "40 km/h"
+    },
+    {
+        "question": "Where are the eyes of starfish located?",
+        "answer": "At the tips of their arms"
     },
     {
         "question": "Where are the lateral line organs located on a shark?",
@@ -36,12 +68,20 @@
         "answer": "Chameleon"
     },
     {
+        "question": "Which animal hunts at close range?",
+        "answer": "Wolf"
+    },
+    {
         "question": "Which animal is a native of the Himalayas?",
         "answer": "yak"
     },
     {
         "question": "Which animal lives deep in the ocean and has a transparent body?",
         "answer": "Actinaria"
+    },
+    {
+        "question": "Which animals eat hay?",
+        "answer": "Sheep"
     },
     {
         "question": "Which bird has a crest on its head and a hooked beak?",
@@ -68,6 +108,14 @@
         "answer": "cricket"
     },
     {
+        "question": "Which insect is often found in fogs?",
+        "answer": "Mosquito"
+    },
+    {
+        "question": "Which insect makes an unusual sound when threatened?",
+        "answer": "Dung beetle"
+    },
+    {
         "question": "Which insects glow in the dark?",
         "answer": "fireflies"
     },
@@ -84,8 +132,16 @@
         "answer": "Baboon"
     },
     {
+        "question": "Which primates can swim?",
+        "answer": "Proboscis monkeys"
+    },
+    {
         "question": "Which reserve does Mount Elbrus belong to?",
         "answer": "Kabardino-Balkarian"
+    },
+    {
+        "question": "Which snail produces venom?",
+        "answer": "Cone snail"
     },
     {
         "question": "At what distance from a school zone can you start overtaking?",
@@ -12214,12 +12270,20 @@
         "answer": "3x²"
     },
     {
+        "question": "For which phenomenon is decoherence important?",
+        "answer": "Quantum computing"
+    },
+    {
         "question": "How are nanoscale layers produced?",
         "answer": "Sputtering"
     },
     {
         "question": "How can a molecule with an odd number of electrons be characterized?",
         "answer": "Radical"
+    },
+    {
+        "question": "How does temperature change with altitude?",
+        "answer": "Decreases"
     },
     {
         "question": "How is a crystal lattice denoted?",
@@ -12231,6 +12295,10 @@
     },
     {
         "question": "How many base pairs are in the human genome?"
+    },
+    {
+        "question": "How many diagonals does a hexagon have?",
+        "answer": "9"
     },
     {
         "question": "How many spins does an electron have?",
@@ -12247,6 +12315,10 @@
     {
         "question": "In what year did the earthquake in Chile with a magnitude of 9.5 occur?",
         "answer": "1960"
+    },
+    {
+        "question": "In what year did the earthquake in Haiti occur?",
+        "answer": "2010"
     },
     {
         "question": "In what year did the term 'robot' first appear?",
@@ -12308,6 +12380,10 @@
         "answer": "Non-sex chromosomes"
     },
     {
+        "question": "What are bacteria with a triple-layered cell wall called?",
+        "answer": "Gram-negative"
+    },
+    {
         "question": "What are carboxylic acids used for?",
         "answer": "Production of esters"
     },
@@ -12326,6 +12402,18 @@
     {
         "question": "What are iron nanoparticles used for?",
         "answer": "Water purification"
+    },
+    {
+        "question": "What are machine learning algorithms?",
+        "answer": "Learning from data"
+    },
+    {
+        "question": "What are organisms called that feed on dead organic matter?",
+        "answer": "saprophytes"
+    },
+    {
+        "question": "What are pathogenic bacteria?",
+        "answer": "Cause diseases"
     },
     {
         "question": "What are plants called that convert sunlight into energy?",
@@ -12356,6 +12444,10 @@
         "answer": "Quasars"
     },
     {
+        "question": "What are the particles called that carry forces?",
+        "answer": "Bosons"
+    },
+    {
         "question": "What are the proteins called that accelerate chemical reactions?",
         "answer": "Enzymes"
     },
@@ -12374,6 +12466,10 @@
     {
         "question": "What are the short but strong regional winds in deserts called?",
         "answer": "Sirocco"
+    },
+    {
+        "question": "What are the structures of the root called?",
+        "answer": "Rhizoids"
     },
     {
         "question": "What are zoophilous plants?",
@@ -12404,6 +12500,10 @@
         "answer": "cp"
     },
     {
+        "question": "What contributes to the protection of nature?",
+        "answer": "Reclamation"
+    },
+    {
         "question": "What determines the structure of a protein?",
         "answer": "Sequence of amino acids"
     },
@@ -12428,8 +12528,16 @@
         "answer": "Polymerase Chain Reaction"
     },
     {
+        "question": "What does Hooke's Law describe?",
+        "answer": "Deformation of bodies"
+    },
+    {
         "question": "What does a compiler program do?",
         "answer": "Translates code"
+    },
+    {
+        "question": "What does a heat flow meter measure?",
+        "answer": "heat flow meter"
     },
     {
         "question": "What does a spectrometer measure?",
@@ -12470,6 +12578,14 @@
     {
         "question": "What does micropaleontology study?",
         "answer": "Microscopic fossils"
+    },
+    {
+        "question": "What does modeling do?",
+        "answer": "Imitates processes"
+    },
+    {
+        "question": "What does oncology study?",
+        "answer": "Tumors"
     },
     {
         "question": "What does organic chemistry study?",
@@ -12532,6 +12648,10 @@
         "answer": "low"
     },
     {
+        "question": "What happens during a severe allergic reaction?",
+        "answer": "Anaphylaxis"
+    },
+    {
         "question": "What happens when measuring the state of a quantum system?",
         "answer": "Wave function collapse"
     },
@@ -12564,6 +12684,10 @@
         "answer": "Microarray"
     },
     {
+        "question": "What is a consequence of quantum entanglement?",
+        "answer": "Quantum entanglement"
+    },
+    {
         "question": "What is a cyclone?",
         "answer": "Low pressure"
     },
@@ -12586,6 +12710,10 @@
     {
         "question": "What is an autoclave used for?",
         "answer": "Sterilization of equipment"
+    },
+    {
+        "question": "What is an ecosystem?",
+        "answer": "A community of organisms"
     },
     {
         "question": "What is an electrocardiograph used for?",
@@ -12616,12 +12744,20 @@
         "answer": "The limit of the observable universe"
     },
     {
+        "question": "What is chirality?",
+        "answer": "Asymmetry"
+    },
+    {
         "question": "What is cosmic inflation?",
         "answer": "Phase of expansion"
     },
     {
         "question": "What is cosmic microwave background radiation?",
         "answer": "Relic radiation"
+    },
+    {
+        "question": "What is crossing over?",
+        "answer": "Exchange of chromosome segments"
     },
     {
         "question": "What is dark matter made of?",
@@ -12650,6 +12786,10 @@
     {
         "question": "What is epsilon in mathematics?",
         "answer": "A small quantity"
+    },
+    {
+        "question": "What is formed during a combustion reaction?",
+        "answer": "Oxides"
     },
     {
         "question": "What is fossilized wood called?",
@@ -12716,6 +12856,10 @@
         "answer": "Echolocation"
     },
     {
+        "question": "What is the boundary between two layers of the Earth's crust called?",
+        "answer": "Stratigraphic boundary"
+    },
+    {
         "question": "What is the building block of proteins?",
         "answer": "Amino acids"
     },
@@ -12746,6 +12890,14 @@
     {
         "question": "What is the device called for measuring the density of a substance?",
         "answer": "Densimeter"
+    },
+    {
+        "question": "What is the device used for DNA analysis called?",
+        "answer": "Genetic analyzer"
+    },
+    {
+        "question": "What is the dew point?",
+        "answer": "condensation temperature"
     },
     {
         "question": "What is the effect called that occurs due to gravity?",
@@ -12780,6 +12932,10 @@
         "answer": "Spreading"
     },
     {
+        "question": "What is the gravitational phenomenon in the Universe called?",
+        "answer": "Dark matter"
+    },
+    {
         "question": "What is the greatest common divisor (GCD) of the numbers 56 and 98?",
         "answer": "14"
     },
@@ -12800,8 +12956,28 @@
         "answer": "Corpus callosum"
     },
     {
+        "question": "What is the law of conservation of energy?",
+        "answer": "Energy is conserved"
+    },
+    {
+        "question": "What is the limit of the sequence 1/n as n approaches infinity?",
+        "answer": "0"
+    },
+    {
+        "question": "What is the main method used in quantum physics?",
+        "answer": "Mathematical modeling"
+    },
+    {
         "question": "What is the measure of a material's density called?",
         "answer": "Density"
+    },
+    {
+        "question": "What is the mesosphere?",
+        "answer": "Layer of the atmosphere"
+    },
+    {
+        "question": "What is the method called for detecting exoplanets by measuring the change in a star's brightness?",
+        "answer": "Transit method"
     },
     {
         "question": "What is the method called for determining the location of an earthquake's epicenter?",
@@ -12842,6 +13018,10 @@
     {
         "question": "What is the most common method for determining the chemical composition of stars?",
         "answer": "Spectroscopy"
+    },
+    {
+        "question": "What is the most common structure in the Universe?",
+        "answer": "Superclusters of galaxies"
     },
     {
         "question": "What is the most effective navigation method for robots?",
@@ -12896,6 +13076,10 @@
         "answer": "Negative matter"
     },
     {
+        "question": "What is the name of the icy wind?",
+        "answer": "Buran"
+    },
+    {
         "question": "What is the name of the mammal that lived during the Triassic period?",
         "answer": "Synodont"
     },
@@ -12941,6 +13125,14 @@
     {
         "question": "What is the phenomenon called when water bodies are filled with algae?",
         "answer": "Eutrophication"
+    },
+    {
+        "question": "What is the phenomenon called where a particle exists in multiple states simultaneously?",
+        "answer": "Superposition"
+    },
+    {
+        "question": "What is the plant tissue called that ensures growth in length?",
+        "answer": "Meristem"
     },
     {
         "question": "What is the procedure called for removing part of an organ?",
@@ -12995,8 +13187,16 @@
         "answer": "Testing"
     },
     {
+        "question": "What is the process of transmitting information called?",
+        "answer": "Communication"
+    },
+    {
         "question": "What is the process of young plants growing called?",
         "answer": "Germination"
+    },
+    {
+        "question": "What is the purpose of bioremediation?",
+        "answer": "Environmental cleanup"
     },
     {
         "question": "What is the removal of a muscle called?",
@@ -13017,6 +13217,10 @@
     {
         "question": "What is the study of microorganisms on the skin surface called?",
         "answer": "Dermatomycology"
+    },
+    {
+        "question": "What is the sudden change in the velocity vector of a star called?",
+        "answer": "Spatial jump"
     },
     {
         "question": "What is the term for critical self-examination in science?",
@@ -13048,6 +13252,10 @@
     {
         "question": "What is the theory that unifies gravity and quantum mechanics called?",
         "answer": "String Theory"
+    },
+    {
+        "question": "What is the unit of charge?",
+        "answer": "Coulomb"
     },
     {
         "question": "What is the value of the gravitational constant?",
@@ -13090,12 +13298,20 @@
         "answer": "Nanochips"
     },
     {
+        "question": "What measures air density?",
+        "answer": "aerometer"
+    },
+    {
         "question": "What measures air quality?",
         "answer": "Gas analyzer"
     },
     {
         "question": "What measures can prevent destruction from earthquakes?",
         "answer": "Seismic-resistant construction"
+    },
+    {
+        "question": "What measures the intensity of earthquakes?",
+        "answer": "Mercalli scale"
     },
     {
         "question": "What mechanism involves the enhancement of signal transmission efficiency in a neuron?",
@@ -13124,6 +13340,14 @@
     {
         "question": "What methods are used to study earthquakes in seismology?",
         "answer": "Seismographs"
+    },
+    {
+        "question": "What methods help to warn about an approaching earthquake?",
+        "answer": "Seismic survey"
+    },
+    {
+        "question": "What methods include the collection of qualitative data?",
+        "answer": "observation"
     },
     {
         "question": "What molting process occurs in reptiles?",
@@ -13182,6 +13406,10 @@
         "answer": "Consolidation"
     },
     {
+        "question": "What process is used for the production of bioplastic?",
+        "answer": "polymerization"
+    },
+    {
         "question": "What process leads to genetic recombination in bacteria?",
         "answer": "Transformation"
     },
@@ -13194,12 +13422,20 @@
         "answer": "Nanomemory"
     },
     {
+        "question": "What property is characteristic of bosons?",
+        "answer": "integer spin"
+    },
+    {
         "question": "What property is special for nanomaterials?",
         "answer": "High conductivity"
     },
     {
         "question": "What property of nanoparticles makes them useful in medical diagnostics?",
         "answer": "High reactivity"
+    },
+    {
+        "question": "What property of robots is key to their autonomy?",
+        "answer": "Self-learning"
     },
     {
         "question": "What quantity is measured in Henry?",
@@ -13262,6 +13498,10 @@
         "answer": "Meiosis"
     },
     {
+        "question": "What type of fossils does micropaleontology study?",
+        "answer": "Foraminifera"
+    },
+    {
         "question": "What type of memory is associated with the sequence of events?",
         "answer": "Episodic"
     },
@@ -13286,6 +13526,10 @@
         "answer": "JMA"
     },
     {
+        "question": "What was the first interplanetary probe?",
+        "answer": "Mariner 2"
+    },
+    {
         "question": "What was the largest earthquake in Japan?",
         "answer": "Tohoku 2011"
     },
@@ -13308,6 +13552,10 @@
     {
         "question": "When was the term 'quantum' introduced?",
         "answer": "1900"
+    },
+    {
+        "question": "Where are fossils best preserved?",
+        "answer": "In sedimentary rocks"
     },
     {
         "question": "Where do the strongest hurricanes occur?",
@@ -13365,6 +13613,10 @@
         "answer": "rhizobia"
     },
     {
+        "question": "Which bacterium is used in plant genetic engineering?",
+        "answer": "Agrobacterium"
+    },
+    {
         "question": "Which brain cell is responsible for immune defense?",
         "answer": "Microglia"
     },
@@ -13386,6 +13638,10 @@
     {
         "question": "Which chemical element was first discovered by Marie Curie?",
         "answer": "Polonium"
+    },
+    {
+        "question": "Which city was heavily affected by the earthquake in Italy in 2009?",
+        "answer": "L'Aquila"
     },
     {
         "question": "Which clouds cause rain showers?",
@@ -13418,6 +13674,10 @@
     {
         "question": "Which creatures are considered living fossils?",
         "answer": "Coelacanths"
+    },
+    {
+        "question": "Which discovery is associated with John Keeble?",
+        "answer": "Carbon monoxide"
     },
     {
         "question": "Which element contains 79 protons?",
@@ -13464,12 +13724,20 @@
         "answer": "Argon"
     },
     {
+        "question": "Which group is characteristic of ketones?",
+        "answer": "Carbonyl group"
+    },
+    {
         "question": "Which instrument makes an electric discharge visible?",
         "answer": "Oscilloscope"
     },
     {
         "question": "Which method considers only observable data?",
         "answer": "Positivism"
+    },
+    {
+        "question": "Which method involves data synthesis?",
+        "answer": "Analytical"
     },
     {
         "question": "Which methodology analyzes scientific principles and methods?",
@@ -13484,12 +13752,24 @@
         "answer": "Nitrifying bacteria"
     },
     {
+        "question": "Which microorganisms breathe using methane?",
+        "answer": "Methanotrophs"
+    },
+    {
+        "question": "Which microorganisms use carbon dioxide?",
+        "answer": "Bacteria"
+    },
+    {
         "question": "Which mission is exploring Titan's atmosphere?",
         "answer": "Cassini-Huygens"
     },
     {
         "question": "Which molecule forms the basis of the biochemistry of life?",
         "answer": "DNA"
+    },
+    {
+        "question": "Which moon of Jupiter is the largest?",
+        "answer": "Ganymede"
     },
     {
         "question": "Which nanomaterial is often used in sensors?",
@@ -13536,6 +13816,10 @@
         "answer": "Reticular formation"
     },
     {
+        "question": "Which part of the brain regulates emotions?",
+        "answer": "Limbic system"
+    },
+    {
         "question": "Which part of the flower turns into a fruit?",
         "answer": "Ovary"
     },
@@ -13550,6 +13834,14 @@
     {
         "question": "Which particle is responsible for mediating electromagnetic interaction?",
         "answer": "Photon"
+    },
+    {
+        "question": "Which planet has the greatest orbital inclination?",
+        "answer": "Pluto"
+    },
+    {
+        "question": "Which planet in our Solar System is a gas giant?",
+        "answer": "Jupiter"
     },
     {
         "question": "Which plant is often used in genetic engineering?",
@@ -13640,6 +13932,10 @@
         "answer": "Sympathetic"
     },
     {
+        "question": "Which system is responsible for the 'fight or flight' response?",
+        "answer": "Sympathetic"
+    },
+    {
         "question": "Which technology is important for nanoelectronics?",
         "answer": "Photolithography"
     },
@@ -13671,6 +13967,10 @@
         "answer": "John Corliss"
     },
     {
+        "question": "Who discovered blood circulation?",
+        "answer": "William Harvey"
+    },
+    {
         "question": "Who discovered chemosynthesis?",
         "answer": "Sergei Winogradsky"
     },
@@ -13679,12 +13979,24 @@
         "answer": "James Maxwell"
     },
     {
+        "question": "Who discovered nitrogen fixation?",
+        "answer": "Sergei Winogradsky"
+    },
+    {
+        "question": "Who discovered the gravitational constant?",
+        "answer": "Cavendish"
+    },
+    {
         "question": "Who discovered the quantum nature of light?",
         "answer": "Albert Einstein"
     },
     {
         "question": "Who discovered the starch-iodine reagent?",
         "answer": "Friedrich Schönbein"
+    },
+    {
+        "question": "Who first proposed the concept of atoms?",
+        "answer": "Democritus"
     },
     {
         "question": "Who first proposed the quantum theory of light?",
@@ -13723,6 +14035,14 @@
         "answer": "Louis Pasteur"
     },
     {
+        "question": "Who is considered the founder of nanotechnology?",
+        "answer": "Richard Feynman"
+    },
+    {
+        "question": "Who is considered the founder of zoology?",
+        "answer": "Aristotle"
+    },
+    {
         "question": "Who performs heart surgeries?",
         "answer": "Cardiac surgeon"
     },
@@ -13755,8 +14075,16 @@
         "answer": "Karl Schwarzschild"
     },
     {
+        "question": "Who was the largest of the plesiosaurs?",
+        "answer": "Elasmosaurus"
+    },
+    {
         "question": "Who was the largest terrestrial predator in the Permian period?",
         "answer": "Dimetrodon"
+    },
+    {
+        "question": "Whose work depends on solar panels?",
+        "answer": "Mars rovers"
     },
     {
         "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
