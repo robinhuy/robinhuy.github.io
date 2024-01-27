@@ -4493,6 +4493,10 @@
         "answer": "Biological method"
     },
     {
+        "question": "How is a mini-greenhouse used?",
+        "answer": "Growing seedlings"
+    },
+    {
         "question": "How long do red cabbage seeds remain viable?",
         "answer": "Sprayer"
     },
@@ -4511,6 +4515,10 @@
     {
         "question": "How often should you turn compost?",
         "answer": "Every week"
+    },
+    {
+        "question": "How often should you water the garden?",
+        "answer": "It depends on the climate"
     },
     {
         "question": "How often should young fruit trees be watered?",
@@ -4559,6 +4567,10 @@
     {
         "question": "What area does one apple tree occupy?",
         "answer": "10-20 m²"
+    },
+    {
+        "question": "What can be used to control humidity in a greenhouse?",
+        "answer": "Humidifiers"
     },
     {
         "question": "What contributes to biological pest control?",
@@ -4737,6 +4749,10 @@
         "answer": "Protection from frost"
     },
     {
+        "question": "What is the main enemy of grapevines?",
+        "answer": "Phylloxera"
+    },
+    {
         "question": "What is the main principle of integrated pest management?",
         "answer": "Combination of methods"
     },
@@ -4807,6 +4823,10 @@
     {
         "question": "What is used to control weeds?",
         "answer": "Herbicides"
+    },
+    {
+        "question": "What is used to lift large stones?",
+        "answer": "Winch"
     },
     {
         "question": "What is used to loosen the soil after rain?",
@@ -6596,8 +6616,16 @@
         "answer": "By rust"
     },
     {
+        "question": "How can you renew a hunting license?",
+        "answer": "Contact the inspection"
+    },
+    {
         "question": "How do decoys attract ducks?",
         "answer": "Sound of a duck"
+    },
+    {
+        "question": "How do hunters often track game at night?",
+        "answer": "With a thermal imager"
     },
     {
         "question": "How do prolonged frosts affect ducks?",
@@ -6606,6 +6634,10 @@
     {
         "question": "How does a hunter find an animal?",
         "answer": "By tracks"
+    },
+    {
+        "question": "How does a thermal imaging camera work?",
+        "answer": "By heat"
     },
     {
         "question": "How long does jerky last?",
@@ -6626,6 +6658,10 @@
     {
         "question": "How many years has the tradition of hunting existed?",
         "answer": "Millennia"
+    },
+    {
+        "question": "How much does an adult moose weigh?",
+        "answer": "500 kg"
     },
     {
         "question": "How to climb a tall tree?",
@@ -6656,6 +6692,10 @@
         "answer": "Freezing"
     },
     {
+        "question": "In what climate do pelicans live?",
+        "answer": "Warm"
+    },
+    {
         "question": "In what type of terrain is it best to hunt in the summer?",
         "answer": "Marshy"
     },
@@ -6666,6 +6706,10 @@
     {
         "question": "In which month is it prohibited to hunt most game species?",
         "answer": "Night sight"
+    },
+    {
+        "question": "In which region did the first organized hunts occur?",
+        "answer": "Ancient Egypt"
     },
     {
         "question": "In which region were birds of prey used for hunting?",
@@ -6692,6 +6736,10 @@
         "answer": "Duck"
     },
     {
+        "question": "What animal do hunters call the 'giant pig'?",
+        "answer": "Hippopotamus"
+    },
+    {
         "question": "What are modern sleeping bags for winter hunting filled with?",
         "answer": "Synthetic down"
     },
@@ -6712,6 +6760,10 @@
         "answer": "Blood"
     },
     {
+        "question": "What breed of dog is ideal for bird hunting?",
+        "answer": "Labrador"
+    },
+    {
         "question": "What breed of dog is often used for hunting in difficult conditions?",
         "answer": "At night"
     },
@@ -6724,12 +6776,20 @@
         "answer": "Norwich Terrier"
     },
     {
+        "question": "What breed of dog is used for truffle hunting?",
+        "answer": "Lagotto"
+    },
+    {
         "question": "What camera features are necessary for observing animals at night?",
         "answer": "Infrared mode"
     },
     {
         "question": "What can be caught in a pit trap?",
         "answer": "Moose"
+    },
+    {
+        "question": "What can restrict access to hunting grounds?",
+        "answer": "Protected area status"
     },
     {
         "question": "What characteristic is important for long-distance shooting?",
@@ -6740,12 +6800,20 @@
         "answer": "Mosquito net"
     },
     {
+        "question": "What conditions are important for training falcons?",
+        "answer": "Silence"
+    },
+    {
         "question": "What cooking method is best suited for thick meat?",
         "answer": "Braising"
     },
     {
         "question": "What device helps to hear sounds from afar?",
         "answer": "Portable amplifier"
+    },
+    {
+        "question": "What device is used for night hunting?",
+        "answer": "Thermal imager"
     },
     {
         "question": "What device reduces recoil in a rifle?",
@@ -6772,12 +6840,24 @@
         "answer": "Camera"
     },
     {
+        "question": "What equipment is necessary for bear hunting?",
+        "answer": "Firearm"
+    },
+    {
+        "question": "What equipment prevents slipping on ice?",
+        "answer": "ice cleats"
+    },
+    {
         "question": "What exotic animal inhabits the rainforests of Africa?",
         "answer": "stalking"
     },
     {
         "question": "What factor determines the best places for hunting wild boar?",
         "answer": "Availability of food"
+    },
+    {
+        "question": "What factor is considered when choosing a hunting location?",
+        "answer": "Availability of water"
     },
     {
         "question": "What factor is important for a successful hunt?",
@@ -6788,12 +6868,24 @@
         "answer": "Hazel grouse"
     },
     {
+        "question": "What factor reduces the effectiveness of a trap?",
+        "answer": "Noise"
+    },
+    {
         "question": "What feature is important for successful night hunting?",
         "answer": "Illumination"
     },
     {
         "question": "What food do ducks prefer?",
         "answer": "Algae"
+    },
+    {
+        "question": "What frame rate is better suited for smooth video?",
+        "answer": "60 fps"
+    },
+    {
+        "question": "What function can a thermal imager perform?",
+        "answer": "Detecting heat"
     },
     {
         "question": "What function is important for a trail camera?",
@@ -6836,6 +6928,10 @@
         "answer": "Driven hunt"
     },
     {
+        "question": "What hunting technique is traditional for indigenous peoples?",
+        "answer": "Bow hunting"
+    },
+    {
         "question": "What important aspect of hunting is related to animals?",
         "answer": "Know the species"
     },
@@ -6872,8 +6968,16 @@
         "answer": "For stewing"
     },
     {
+        "question": "What is important for hunting?",
+        "answer": "Camouflage"
+    },
+    {
         "question": "What is important for the stealth of a camera?",
         "answer": "Regulated hunting"
+    },
+    {
+        "question": "What is measured in MOA in scopes?",
+        "answer": "Angle of inclination"
     },
     {
         "question": "What is most important when hunting deer?",
@@ -6882,6 +6986,10 @@
     {
         "question": "What is needed for a successful tracker hunt?",
         "answer": "Survival skills"
+    },
+    {
+        "question": "What is required for successful shooting?",
+        "answer": "Training"
     },
     {
         "question": "What is the benefit of providing first aid for an injury?",
@@ -6904,6 +7012,10 @@
         "answer": "chronograph"
     },
     {
+        "question": "What is the device for measuring wind called?",
+        "answer": "Anemometer"
+    },
+    {
         "question": "What is the device used for cocking a crossbow called?",
         "answer": "Cocking lever"
     },
@@ -6916,12 +7028,32 @@
         "answer": "Hunting Law"
     },
     {
+        "question": "What is the maximum range of an infrared camera?",
+        "answer": "up to 20 m"
+    },
+    {
         "question": "What is the maximum range of modern crossbows?",
         "answer": "Up to 100 meters"
     },
     {
         "question": "What is the most common violation in nature reserves?",
         "answer": "Hunting"
+    },
+    {
+        "question": "What is the most common violation occurring in forests?",
+        "answer": "Poaching"
+    },
+    {
+        "question": "What is the most important thing to do in case of an injury while hiking?",
+        "answer": "Treat the wound"
+    },
+    {
+        "question": "What is the most traditional method of making fire?",
+        "answer": "Friction"
+    },
+    {
+        "question": "What is the name of a large cartridge pouch?",
+        "answer": "Pouch"
     },
     {
         "question": "What is the name of the \"Duck Hunters\" team?",
@@ -6954,6 +7086,18 @@
     {
         "question": "What is the purpose of a muzzle brake?",
         "answer": "Reducing recoil"
+    },
+    {
+        "question": "What is the purpose of a suppressor in a firearm?",
+        "answer": "Noise reduction"
+    },
+    {
+        "question": "What is the purpose of using salt in marination?",
+        "answer": "Tenderizing meat"
+    },
+    {
+        "question": "What is the science of falconry called?",
+        "answer": "Falconry"
     },
     {
         "question": "What is the standard frame rate used in the film industry?",
@@ -6994,6 +7138,18 @@
     {
         "question": "What large bird lives in Papua New Guinea?",
         "answer": "Cassowary"
+    },
+    {
+        "question": "What lures are used for deer hunting?",
+        "answer": "Sound calls"
+    },
+    {
+        "question": "What material is most commonly used for making modern crossbow strings?",
+        "answer": "Synthetic"
+    },
+    {
+        "question": "What material is often used for making hunting knives?",
+        "answer": "Steel"
     },
     {
         "question": "What measures distance?",
@@ -7056,6 +7212,14 @@
         "answer": "Licenses"
     },
     {
+        "question": "What resistance does a bird of prey show when tethered to a position?",
+        "answer": "Small"
+    },
+    {
+        "question": "What rich flavor does wild boar meat have?",
+        "answer": "Dark"
+    },
+    {
         "question": "What rights must a hunter respect?",
         "answer": "Animals"
     },
@@ -7076,6 +7240,14 @@
         "answer": "Hunting ban"
     },
     {
+        "question": "What should be the weapon for hunting a boar?",
+        "answer": "Heavy and powerful"
+    },
+    {
+        "question": "What should you do in rainy weather?",
+        "answer": "Find shelter"
+    },
+    {
         "question": "What skill is important for shooting?",
         "answer": "Aiming"
     },
@@ -7090,6 +7262,18 @@
     {
         "question": "What sound quality is necessary for a camera in the forest?",
         "answer": "Clear"
+    },
+    {
+        "question": "What tactic is used to attract game?",
+        "answer": "Sound lure"
+    },
+    {
+        "question": "What technique is used to attract frogs?",
+        "answer": "Imitation of calls"
+    },
+    {
+        "question": "What temperature is often used for cold smoking?",
+        "answer": "25-30°C"
     },
     {
         "question": "What tool is essential for starting a fire?",
@@ -7152,6 +7336,10 @@
         "answer": "Training"
     },
     {
+        "question": "What type of camera is used for shooting in motion?",
+        "answer": "Action camera"
+    },
+    {
         "question": "What type of crossbow has horizontal limbs?",
         "answer": "Recurve"
     },
@@ -7184,12 +7372,24 @@
         "answer": "Large traps"
     },
     {
+        "question": "What type of traps are used for hunting rabbits?",
+        "answer": "Snares"
+    },
+    {
+        "question": "What type of weapon is most commonly used for hunting?",
+        "answer": "Smoothbore"
+    },
+    {
         "question": "What types of bolts are used in modern crossbows?",
         "answer": "Carbon"
     },
     {
         "question": "What types of weapons are prohibited by international agreements?",
         "answer": "24 FPS"
+    },
+    {
+        "question": "What was the name of hunting with cheetahs?",
+        "answer": "Cheetah hunting"
     },
     {
         "question": "What was the name of the first known domesticated hunting bird?",
@@ -7208,6 +7408,10 @@
         "answer": "Large caliber rifle"
     },
     {
+        "question": "What weapon is preferred for close combat in hunting?",
+        "answer": "Spear"
+    },
+    {
         "question": "What weapon is typically used for hunting big game?",
         "answer": "rifle"
     },
@@ -7224,6 +7428,14 @@
         "answer": "Venatio"
     },
     {
+        "question": "When did the first hunting dogs appear?",
+        "answer": "Neolithic era"
+    },
+    {
+        "question": "When did the use of firearms begin?",
+        "answer": "15th century"
+    },
+    {
         "question": "When does the autumn partridge hunting season open?",
         "answer": "September"
     },
@@ -7238,6 +7450,10 @@
     {
         "question": "Where do aye-ayes live?",
         "answer": "Madagascar"
+    },
+    {
+        "question": "Where do people prefer to train falcons?",
+        "answer": "Open fields"
     },
     {
         "question": "Where is the sight window located on a bow?",
@@ -7260,6 +7476,10 @@
         "answer": "Endangered species"
     },
     {
+        "question": "Which bird is called the 'Royal'?",
+        "answer": "Royal Eagle"
+    },
+    {
         "question": "Which bird is capable of hovering in place?",
         "answer": "driven hunting"
     },
@@ -7280,12 +7500,24 @@
         "answer": "Chukar partridge"
     },
     {
+        "question": "Which bird performs courtship dances?",
+        "answer": "Crane"
+    },
+    {
         "question": "Which birds migrate over significant distances?",
         "answer": "5 types"
     },
     {
+        "question": "Which breed of dog barks differently than the others?",
+        "answer": "Basenji"
+    },
+    {
         "question": "Which breed of dog is known for its tracking ability?",
         "answer": "Bloodhound"
+    },
+    {
+        "question": "Which breed of dog was originally used for hunting in the desert?",
+        "answer": "Saluki"
     },
     {
         "question": "Which camera can operate underwater?",
@@ -7294,6 +7526,10 @@
     {
         "question": "Which cooking method is considered the healthiest?",
         "answer": "Diy"
+    },
+    {
+        "question": "Which dog breed can work in harsh conditions?",
+        "answer": "Pay attention to clothing"
     },
     {
         "question": "Which dog breed is distinguished by its wrinkled skin?",
@@ -7314,6 +7550,10 @@
     {
         "question": "Which dog breed is the most versatile for hunting?",
         "answer": "Weimaraner"
+    },
+    {
+        "question": "Which dog breed works in water, on land, and in hard-to-reach places?",
+        "answer": "German Wirehaired Pointer"
     },
     {
         "question": "Which dogs help in hunting large game?",
@@ -7356,12 +7596,20 @@
         "answer": "Tiger frogs"
     },
     {
+        "question": "Which feathers are clipped to control flight in birds?",
+        "answer": "primary"
+    },
+    {
         "question": "Which feathers are considered valuable?",
         "answer": "rifle"
     },
     {
         "question": "Which feathers are trimmed on hawks before training?",
         "answer": "Wings"
+    },
+    {
+        "question": "Which food in the forest has the highest nutritional value?",
+        "answer": "Nuts"
     },
     {
         "question": "Which hunting method requires good physical fitness?",
@@ -7372,6 +7620,10 @@
         "answer": "Collimator"
     },
     {
+        "question": "Which item is most suitable for creating a shelter?",
+        "answer": "Tarp"
+    },
+    {
         "question": "Which item makes it easier to carry a load?",
         "answer": "Sled"
     },
@@ -7380,12 +7632,32 @@
         "answer": "Snipe"
     },
     {
+        "question": "Which method minimizes meat loss?",
+        "answer": "Manual cutting"
+    },
+    {
+        "question": "Which method of cooking meat retains the most juice?",
+        "answer": "Roasting"
+    },
+    {
+        "question": "Which of the following conditions affects video quality?",
+        "answer": "Lighting"
+    },
+    {
         "question": "Which of these birds is listed in the Red Book?",
         "answer": "Great Bustard"
     },
     {
         "question": "Which organization regulates hunting in Russia?",
         "answer": "Ministry of Natural Resources"
+    },
+    {
+        "question": "Which pants are best suited for winter hunting?",
+        "answer": "Insulated"
+    },
+    {
+        "question": "Which part of a crossbow ensures reliability?",
+        "answer": "Lock"
     },
     {
         "question": "Which part of hunting requires a license?",
@@ -7402,6 +7674,10 @@
     {
         "question": "Which part of the game is usually marinated first?",
         "answer": "Fillet"
+    },
+    {
+        "question": "Which part of the plant is not consumed as food?",
+        "answer": "Bark"
     },
     {
         "question": "Which peoples used the bow for hunting?",
