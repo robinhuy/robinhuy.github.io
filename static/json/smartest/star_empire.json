@@ -72,6 +72,10 @@
     "answer": "From Vader"
   },
   {
+    "question": "How did Luke find out about his relation to Leia?",
+    "answer": "Conversation with Yoda"
+  },
+  {
     "question": "How did Obi-Wan Kenobi develop his diplomatic skills in complex negotiations?",
     "answer": "Practice"
   },
@@ -396,6 +400,10 @@
     "answer": "Drain Life"
   },
   {
+    "question": "How do the Sith achieve full control over the Force?",
+    "answer": "Ambition"
+  },
+  {
     "question": "How do the Sith achieve immortality through manipulation of the Force?",
     "answer": "Essence transfer"
   },
@@ -669,6 +677,10 @@
   {
     "question": "In which battle did Obi-Wan Kenobi demonstrate his strategic genius by using diversion tactics to defeat a numerically superior enemy force?",
     "answer": "Battle of Kamino"
+  },
+  {
+    "question": "In which battle did Yoda lead the Republic forces?",
+    "answer": "Battle of Geonosis"
   },
   {
     "question": "In which episode did Leia first learn about her connection to the Force?",
@@ -1564,6 +1576,10 @@
     "answer": "Battle of Endor"
   },
   {
+    "question": "What event marked the beginning of a major conflict in the Clone Wars?",
+    "answer": "Battle of Geonosis"
+  },
+  {
     "question": "What event marked the beginning of a new stage in the Sith Wars?",
     "answer": "The Fall of the Jedi"
   },
@@ -1676,6 +1692,10 @@
     "answer": "Betrayal of an ally"
   },
   {
+    "question": "What event was key in the establishment of the New Republic?",
+    "answer": "The Fall of the Emperor"
+  },
+  {
     "question": "What event was key in the formation of the Galactic Empire?",
     "answer": "The end of the Clone Wars"
   },
@@ -1690,6 +1710,10 @@
   {
     "question": "What event was the climax of the second Jedi uprising?",
     "answer": "Battle of Endor"
+  },
+  {
+    "question": "What event was the key moment that led to Anakin Skywalker becoming Darth Vader?",
+    "answer": "Order 66"
   },
   {
     "question": "What event was the turning point in Darth Vader's transition to the dark side?",
@@ -1714,6 +1738,10 @@
   {
     "question": "What explains the unique resilience of Mandalorian armor in battle?",
     "answer": "Beskar"
+  },
+  {
+    "question": "What factor contributed to Chewbacca's friendship with Luke?",
+    "answer": "Trust"
   },
   {
     "question": "What factor determined the outcome of battles in the Clone Wars?",
@@ -1764,6 +1792,10 @@
   {
     "question": "What famous phrase characterizes the relationship between Han and Leia?",
     "answer": "I love you"
+  },
+  {
+    "question": "What feat made Han Solo a hero in the eyes of the Alliance?",
+    "answer": "Destruction of the Death Star"
   },
   {
     "question": "What feature makes Chewbacca's crossbow unique?",
@@ -1842,6 +1874,10 @@
     "answer": "Balance of the Force"
   },
   {
+    "question": "What ideology did the Empire use to govern the galaxy?",
+    "answer": "Totalitarianism"
+  },
+  {
     "question": "What ideology was the basis of the Galactic Empire's policy?",
     "answer": "Sith Code"
   },
@@ -1866,6 +1902,10 @@
     "answer": "Reorganization"
   },
   {
+    "question": "What impact did the Skywalker family have on the Galactic Civil War?",
+    "answer": "Decisive role"
+  },
+  {
     "question": "What impact did the destruction of the Death Star have on the galaxy?",
     "answer": "Cancellation of the project"
   },
@@ -1880,6 +1920,10 @@
   {
     "question": "What important choice did Luke make on his path to becoming a Jedi?",
     "answer": "Leave Tatooine"
+  },
+  {
+    "question": "What important decision did Obi-Wan make on Coruscant?",
+    "answer": "Secret alliance"
   },
   {
     "question": "What important decision did Obi-Wan make when he learned about the creation of the clone army?",
@@ -2394,6 +2438,10 @@
     "answer": "Plans for a coup"
   },
   {
+    "question": "What key role did Obi-Wan play in the Clone Wars?",
+    "answer": "Strategic leader"
+  },
+  {
     "question": "What key role did the Jedi play in the Old Republic?",
     "answer": "Keepers of peace"
   },
@@ -2488,6 +2536,10 @@
   {
     "question": "What material is Mandalorian armor made from?",
     "answer": "Beskar"
+  },
+  {
+    "question": "What material is used in the composition of stormtrooper armor?",
+    "answer": "Plastoid"
   },
   {
     "question": "What material is used to create a lightsaber in 'Star Wars'?",
@@ -2650,6 +2702,10 @@
     "answer": "The Emperor's decision"
   },
   {
+    "question": "What moment changed Han Solo's perception among the rebels forever?",
+    "answer": "Attack on the Death Star"
+  },
+  {
     "question": "What moment in Anakin's life was pivotal for understanding the role of family in his destiny?",
     "answer": "The death of his mother"
   },
@@ -2724,6 +2780,10 @@
   {
     "question": "What path leads to a true Jedi?",
     "answer": "Serving others"
+  },
+  {
+    "question": "What path to power do the Sith prefer?",
+    "answer": "Conflict"
   },
   {
     "question": "What phenomenon can lead to the formation of new star systems after the death of old ones?",
@@ -2976,6 +3036,10 @@
   },
   {
     "question": "What prophecy is associated with the fate of the Skywalker family?",
+    "answer": "The Chosen One"
+  },
+  {
+    "question": "What prophecy played a significant role in Anakin Skywalker's life?",
     "answer": "The Chosen One"
   },
   {
@@ -3335,6 +3399,10 @@
     "answer": "Returning to the fight"
   },
   {
+    "question": "What strategic decision did Obi-Wan make to prevent the attack on Naboo?",
+    "answer": "Blockade"
+  },
+  {
     "question": "What strategic decision saved Obi-Wan's team from being surrounded?",
     "answer": "Night raid"
   },
@@ -3369,6 +3437,10 @@
   {
     "question": "What strategy did Han choose for the defense of Hoth?",
     "answer": "Retreating fire"
+  },
+  {
+    "question": "What strategy did Luke use to restore the Jedi Order?",
+    "answer": "Studying ancient texts"
   },
   {
     "question": "What strategy did Obi-Wan Kenobi use during the capture of the Separatist base?",
@@ -3532,6 +3604,10 @@
   {
     "question": "What tactical maneuver did Luke use on Endor?",
     "answer": "Stealth attack"
+  },
+  {
+    "question": "What tactical measures did Obi-Wan use to prevent a disaster on Coruscant?",
+    "answer": "Warning"
   },
   {
     "question": "What tactical role do droids play in galactic-scale battles?",
@@ -4280,6 +4356,10 @@
     "answer": "Red lightsaber"
   },
   {
+    "question": "What weapon uses energy for directed destruction of objects?",
+    "answer": "Blaster"
+  },
+  {
     "question": "What weapon was developed for use in the Clone Wars?",
     "answer": "Star Destroyer"
   },
@@ -4342,6 +4422,10 @@
   {
     "question": "Which 'Star Wars' episode was the first to use 70 mm IMAX technology?",
     "answer": "Attack of the Clones"
+  },
+  {
+    "question": "Which 'Star Wars' film contributed to the development of motion capture technology?",
+    "answer": "The Phantom Menace"
   },
   {
     "question": "Which 'Star Wars' film was the first in history to include fully CGI scenes?",
@@ -4910,8 +4994,16 @@
     "answer": "Aurra Sing"
   },
   {
+    "question": "Which bounty hunter piloted the ship 'Slave I'?",
+    "answer": "Boba Fett"
+  },
+  {
     "question": "Which bounty hunter planned an attack on Coruscant alone?",
     "answer": "Saber"
+  },
+  {
+    "question": "Which bounty hunter possessed cloaking technology that was considered lost?",
+    "answer": "Embo"
   },
   {
     "question": "Which bounty hunter specialized in capturing Jedi for the Empire?",
@@ -4931,6 +5023,10 @@
   },
   {
     "question": "Which bounty hunter used a flying disc in combat?",
+    "answer": "Embo"
+  },
+  {
+    "question": "Which bounty hunter used a special crossbow?",
     "answer": "Embo"
   },
   {
@@ -5018,6 +5114,10 @@
   {
     "question": "Which bounty hunter worked for the Empire in covert operations?",
     "answer": "Aurra Sing"
+  },
+  {
+    "question": "Which celestial body can become a supernova?",
+    "answer": "Massive star"
   },
   {
     "question": "Which celestial body in DC is mentioned as the historical cradle for one of Earth's greatest defenders?",
@@ -5219,6 +5319,10 @@
   {
     "question": "Which droid was used for analytical analysis?",
     "answer": "Tactical droid"
+  },
+  {
+    "question": "Which droid was used for training soldiers?",
+    "answer": "Training droid"
   },
   {
     "question": "Which duel became the symbol of a new era of the Jedi?",
@@ -5928,6 +6032,10 @@
     "answer": "Odas San"
   },
   {
+    "question": "Who became the key figure in the conflict between the forces of Light and Darkness?",
+    "answer": "Anakin Skywalker"
+  },
+  {
     "question": "Who became the leader of the Mandalorians after the civil war?",
     "answer": "Bo-Katan"
   },
@@ -6116,6 +6224,10 @@
     "answer": "John Mollo"
   },
   {
+    "question": "Who played a key role in the development of Jedi philosophy?",
+    "answer": "Ancient Masters"
+  },
+  {
     "question": "Who played the role of Princess Leia in the original trilogy?",
     "answer": "Carrie Fisher"
   },
@@ -6138,6 +6250,10 @@
   {
     "question": "Who trained Luke in the ways of the Force?",
     "answer": "Yoda"
+  },
+  {
+    "question": "Who trained Yoda in the art of the Jedi?",
+    "answer": "No one"
   },
   {
     "question": "Who used 'Form III' in the final duel?",
@@ -6338,6 +6454,10 @@
   {
     "question": "Who were trained by the ancient Jedi?",
     "answer": "Mirialans"
+  },
+  {
+    "question": "Who wielded a gold-colored lightsaber?",
+    "answer": "Rey"
   },
   {
     "question": "Who wore the Red Hood mantle before the Joker?",
