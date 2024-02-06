@@ -13250,11 +13250,19 @@
         "answer": "Radiometric method"
     },
     {
+        "question": "How is the composition of distant galaxies studied?",
+        "answer": "Spectroscopy"
+    },
+    {
         "question": "How many base pairs are in the human genome?"
     },
     {
         "question": "How many diagonals does a hexagon have?",
         "answer": "9"
+    },
+    {
+        "question": "How many moons does Jupiter have as of 2021?",
+        "answer": "79"
     },
     {
         "question": "How many spins does an electron have?",
@@ -13301,8 +13309,16 @@
         "answer": "Mesozoic"
     },
     {
+        "question": "In which period did the mass extinction 66 million years ago begin?",
+        "answer": "Cretaceous"
+    },
+    {
         "question": "In which robots is AI used for communication?",
         "answer": "Service robots"
+    },
+    {
+        "question": "Name the type of volcano with a flat summit.",
+        "answer": "Shield volcano"
     },
     {
         "question": "On which continent have some of the oldest fossils been found?",
@@ -13310,6 +13326,10 @@
     },
     {
         "question": "The Michelson-Morley experiment proved the absence of?"
+    },
+    {
+        "question": "Type of geological structure of mountains?",
+        "answer": "Anticline"
     },
     {
         "question": "Until what age do stem cells grow?",
@@ -13334,6 +13354,10 @@
     {
         "question": "What are autosomes?",
         "answer": "Non-sex chromosomes"
+    },
+    {
+        "question": "What are axons in the peripheral nervous system covered with?",
+        "answer": "Schwann cells"
     },
     {
         "question": "What are bacteria with a triple-layered cell wall called?",
@@ -13364,6 +13388,10 @@
         "answer": "Learning from data"
     },
     {
+        "question": "What are microorganisms smaller than 1 micrometer called?",
+        "answer": "Pico-microbes"
+    },
+    {
         "question": "What are organisms called that feed on dead organic matter?",
         "answer": "saprophytes"
     },
@@ -13374,6 +13402,10 @@
     {
         "question": "What are plants called that convert sunlight into energy?",
         "answer": "Photosynthetics"
+    },
+    {
+        "question": "What are plants called that live for one season?",
+        "answer": "Annuals"
     },
     {
         "question": "What are plants that grow without soil called?",
@@ -13464,6 +13496,14 @@
         "answer": "Sequence of amino acids"
     },
     {
+        "question": "What device is used for DNA analysis?",
+        "answer": "Sequencer"
+    },
+    {
+        "question": "What device is used to measure the speed of sound in a medium?",
+        "answer": "Sonic locator"
+    },
+    {
         "question": "What device is used to study surfaces?",
         "answer": "Scanning microscope"
     },
@@ -13472,12 +13512,24 @@
         "answer": "Laser level"
     },
     {
+        "question": "What device visualizes magnetic fields?",
+        "answer": "Magnetoscope"
+    },
+    {
+        "question": "What did Ernest Rutherford discover?",
+        "answer": "Nucleus of the atom"
+    },
+    {
         "question": "What do all viruses have?",
         "answer": "Genome"
     },
     {
         "question": "What do endocrine glands do?",
         "answer": "Produce hormones"
+    },
+    {
+        "question": "What do nanotechnologies work with?",
+        "answer": "Atoms, molecules"
     },
     {
         "question": "What do the letters in the abbreviation PCR stand for?",
@@ -13492,6 +13544,10 @@
         "answer": "Translates code"
     },
     {
+        "question": "What does a differential equation describe?",
+        "answer": "Dynamic process"
+    },
+    {
         "question": "What does a heat flow meter measure?",
         "answer": "heat flow meter"
     },
@@ -13502,6 +13558,10 @@
     {
         "question": "What does a tachometer measure?",
         "answer": "Revolutions per minute"
+    },
+    {
+        "question": "What does a vacuum pump do?",
+        "answer": "Removes air"
     },
     {
         "question": "What does an urbanist do?",
@@ -13584,8 +13644,20 @@
         "answer": "Integral"
     },
     {
+        "question": "What does the term 'amphoterism' mean?",
+        "answer": "Duality"
+    },
+    {
+        "question": "What does the term 'biocenosis' describe?",
+        "answer": "Community of organisms"
+    },
+    {
         "question": "What does the wave function describe in quantum mechanics?",
         "answer": "Probability of finding"
+    },
+    {
+        "question": "What element is the primary source of energy in stars?",
+        "answer": "Hydrogen"
     },
     {
         "question": "What factor affects the humidity level?",
@@ -13604,8 +13676,16 @@
         "answer": "low"
     },
     {
+        "question": "What function do the teeth of a toothless clam serve?",
+        "answer": "holding food"
+    },
+    {
         "question": "What happens during a severe allergic reaction?",
         "answer": "Anaphylaxis"
+    },
+    {
+        "question": "What happens when a quantum system is measured?",
+        "answer": "Collapse of the wave function"
     },
     {
         "question": "What happens when measuring the state of a quantum system?",
@@ -13640,6 +13720,10 @@
         "answer": "Microarray"
     },
     {
+        "question": "What is a catadromous fish?",
+        "answer": "A fish that migrates to the sea"
+    },
+    {
         "question": "What is a consequence of quantum entanglement?",
         "answer": "Quantum entanglement"
     },
@@ -13648,8 +13732,16 @@
         "answer": "Low pressure"
     },
     {
+        "question": "What is a gyroscope used for?",
+        "answer": "Measuring angular velocity"
+    },
+    {
         "question": "What is a lathe used for?",
         "answer": "Metalworking"
+    },
+    {
+        "question": "What is a nanomedical research method?",
+        "answer": "Nanosonding"
     },
     {
         "question": "What is a nephelometer used for?",
@@ -13660,12 +13752,28 @@
         "answer": "Targeted drug delivery"
     },
     {
+        "question": "What is a quantum fluctuation?",
+        "answer": "Temporary change"
+    },
+    {
+        "question": "What is a redox reaction?",
+        "answer": "A process in which the oxidation states of atoms change"
+    },
+    {
         "question": "What is a systematic error in an experiment called?",
         "answer": "Systematic error"
     },
     {
+        "question": "What is an API?",
+        "answer": "Application Programming Interface"
+    },
+    {
         "question": "What is an autoclave used for?",
         "answer": "Sterilization of equipment"
+    },
+    {
+        "question": "What is an autosomal disease?",
+        "answer": "Hereditary pathology"
     },
     {
         "question": "What is an ecosystem?",
@@ -13748,6 +13856,10 @@
         "answer": "Oxides"
     },
     {
+        "question": "What is formed during the oxidation of ethanol?",
+        "answer": "Acetic acid"
+    },
+    {
         "question": "What is fossilized wood called?",
         "answer": "Petrified wood"
     },
@@ -13756,8 +13868,16 @@
         "answer": "Hemoglobin"
     },
     {
+        "question": "What is gene therapy?",
+        "answer": "Genome editing for treatment"
+    },
+    {
         "question": "What is hypoxia?",
         "answer": "Lack of oxygen"
+    },
+    {
+        "question": "What is integration?",
+        "answer": "Summation"
     },
     {
         "question": "What is isomerization?",
@@ -13770,6 +13890,10 @@
     {
         "question": "What is magmatic differentiation?",
         "answer": "Separation of magma"
+    },
+    {
+        "question": "What is measured in anthropometry?",
+        "answer": "Human body measurements"
     },
     {
         "question": "What is oxygen balance?",
@@ -13796,6 +13920,10 @@
         "answer": "Transition of gas to liquid"
     },
     {
+        "question": "What is seismic exploration?",
+        "answer": "Searching for oil fields"
+    },
+    {
         "question": "What is the accumulation of toxins in the food chain called?",
         "answer": "Biomagnification"
     },
@@ -13810,6 +13938,10 @@
     {
         "question": "What is the basic principle of radar operation?",
         "answer": "Echolocation"
+    },
+    {
+        "question": "What is the basis for describing quantum systems?",
+        "answer": "Wave function"
     },
     {
         "question": "What is the boundary between two layers of the Earth's crust called?",
@@ -13848,12 +13980,20 @@
         "answer": "Densimeter"
     },
     {
+        "question": "What is the device called for measuring the flow rate of a liquid?",
+        "answer": "Flowmeter"
+    },
+    {
         "question": "What is the device used for DNA analysis called?",
         "answer": "Genetic analyzer"
     },
     {
         "question": "What is the dew point?",
         "answer": "condensation temperature"
+    },
+    {
+        "question": "What is the diagonal of a square called?",
+        "answer": "Diagonal"
     },
     {
         "question": "What is the effect called that occurs due to gravity?",
@@ -13874,6 +14014,10 @@
     {
         "question": "What is the formula for variance?",
         "answer": "Σ(x - μ)²/n"
+    },
+    {
+        "question": "What is the function of a cyclone?",
+        "answer": "air movement"
     },
     {
         "question": "What is the function of a spectrophotometer?",
@@ -13920,12 +14064,28 @@
         "answer": "0"
     },
     {
+        "question": "What is the main cause of monsoons?",
+        "answer": "Temperature contrast"
+    },
+    {
+        "question": "What is the main component of the Earth?",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the main hypothesis explaining the accelerated expansion of the Universe?",
+        "answer": "Dark energy"
+    },
+    {
         "question": "What is the main method used in quantum physics?",
         "answer": "Mathematical modeling"
     },
     {
         "question": "What is the measure of a material's density called?",
         "answer": "Density"
+    },
+    {
+        "question": "What is the medical device called that delivers medication through the respiratory tract?",
+        "answer": "Inhaler"
     },
     {
         "question": "What is the mesosphere?",
@@ -13946,6 +14106,10 @@
     {
         "question": "What is the method called that allows the study of gravitational effects of distant objects?",
         "answer": "Gravitational lensing"
+    },
+    {
+        "question": "What is the method called that is used to measure distance using a laser?",
+        "answer": "Laser ranging"
     },
     {
         "question": "What is the method called that uses atomic or molecular forces to create nanoscale structures?",
@@ -14004,6 +14168,10 @@
         "answer": "Melanoma"
     },
     {
+        "question": "What is the name of the 3D printing method?",
+        "answer": "Additive"
+    },
+    {
         "question": "What is the name of the ancient mammal with cusps?",
         "answer": "Morganucodon"
     },
@@ -14016,8 +14184,20 @@
         "answer": "Osteoporosis"
     },
     {
+        "question": "What is the name of the book considered the foundation of modern physics?",
+        "answer": "Mathematical Principles"
+    },
+    {
+        "question": "What is the name of the coldest type of stars?",
+        "answer": "Red dwarfs"
+    },
+    {
         "question": "What is the name of the first Turing machine?",
         "answer": "Universal machine"
+    },
+    {
+        "question": "What is the name of the first law of thermodynamics?",
+        "answer": "Law of Conservation of Energy"
     },
     {
         "question": "What is the name of the gas released during reactions of carbon dioxide and water?",
@@ -14034,6 +14214,10 @@
     {
         "question": "What is the name of the icy wind?",
         "answer": "Buran"
+    },
+    {
+        "question": "What is the name of the malignant blood disease?",
+        "answer": "Leukemia"
     },
     {
         "question": "What is the name of the mammal that lived during the Triassic period?",
@@ -14093,6 +14277,10 @@
     {
         "question": "What is the procedure called for removing part of an organ?",
         "answer": "Resection"
+    },
+    {
+        "question": "What is the process of breaking down a rock called?",
+        "answer": "Weathering"
     },
     {
         "question": "What is the process of breaking down rocks called?",
@@ -14218,6 +14406,10 @@
         "answer": "6.67430 × 10⁻¹¹"
     },
     {
+        "question": "What is the waste treatment method called that produces compost and biogas?",
+        "answer": "Anaerobic digestion"
+    },
+    {
         "question": "What is thermodynamics?",
         "answer": "The science of heat"
     },
@@ -14272,6 +14464,10 @@
     {
         "question": "What mechanism involves the enhancement of signal transmission efficiency in a neuron?",
         "answer": "Long-term potentiation"
+    },
+    {
+        "question": "What method allows obtaining alkenes?",
+        "answer": "Dehydration"
     },
     {
         "question": "What method is used for cleaning polluted water bodies?",
@@ -14330,6 +14526,14 @@
         "answer": "Gravitational lensing"
     },
     {
+        "question": "What phenomenon in thermodynamics was discovered by Carnot?",
+        "answer": "Heat engine"
+    },
+    {
+        "question": "What phenomenon is associated with cooling in the Pacific Ocean?",
+        "answer": "La Niña"
+    },
+    {
         "question": "What phenomenon is described by the theory of quantum entanglement?",
         "answer": "Entangled states"
     },
@@ -14340,6 +14544,10 @@
     {
         "question": "What phenomenon leads to the formation of a black hole?",
         "answer": "Gravitational collapse"
+    },
+    {
+        "question": "What poisonous mammal is found in Australia?",
+        "answer": "Platypus"
     },
     {
         "question": "What precedes the main earthquake?",
@@ -14362,6 +14570,10 @@
         "answer": "Consolidation"
     },
     {
+        "question": "What process is necessary for the formation of oil?",
+        "answer": "Decomposition of organic matter"
+    },
+    {
         "question": "What process is used for the production of bioplastic?",
         "answer": "polymerization"
     },
@@ -14376,6 +14588,10 @@
     {
         "question": "What promising technologies are being developed for information storage using nanotechnology?",
         "answer": "Nanomemory"
+    },
+    {
+        "question": "What properties are key for nanomaterials?",
+        "answer": "Mechanical"
     },
     {
         "question": "What property is characteristic of bosons?",
@@ -14394,12 +14610,24 @@
         "answer": "Self-learning"
     },
     {
+        "question": "What provides verification?",
+        "answer": "Data confirmation"
+    },
+    {
         "question": "What quantity is measured in Henry?",
         "answer": "Inductance"
     },
     {
         "question": "What radiometric method is used for dating organic remains?",
         "answer": "Carbon-14"
+    },
+    {
+        "question": "What regulates the process of gas exchange in leaves?",
+        "answer": "Stomata"
+    },
+    {
+        "question": "What robots are used in medicine for diagnostics?",
+        "answer": "Endoscope robots"
     },
     {
         "question": "What robots can assist in medical surgeries?",
@@ -14410,12 +14638,28 @@
         "answer": "Catalytic"
     },
     {
+        "question": "What science studies animal behavior?",
+        "answer": "Ethology"
+    },
+    {
+        "question": "What structure connects the two hemispheres of the brain?",
+        "answer": "Corpus callosum"
+    },
+    {
         "question": "What structure is composed of axons covered with myelin?",
         "answer": "White matter"
     },
     {
+        "question": "What studies are conducted using IR spectroscopy?",
+        "answer": "molecular analysis"
+    },
+    {
         "question": "What studies gravitational waves?",
         "answer": "Laser interferometers"
+    },
+    {
+        "question": "What substance is necessary for the synthesis of acetylcholine?",
+        "answer": "Choline"
     },
     {
         "question": "What substance is transported by the phloem?",
@@ -14432,6 +14676,10 @@
     {
         "question": "What technique is often used for observing nanostructures?",
         "answer": "Scanning probe microscopy"
+    },
+    {
+        "question": "What technique is used to create nanoscale devices?",
+        "answer": "Electron beam lithography"
     },
     {
         "question": "What technology allows genome sequencing?",
@@ -14464,6 +14712,10 @@
     {
         "question": "What type of mutation can change an amino acid in a protein?",
         "answer": "Missense"
+    },
+    {
+        "question": "What type of radiation can satellites detect?",
+        "answer": "Microwaves"
     },
     {
         "question": "What type of reaction involves the breaking of a C-H bond?",
@@ -14546,8 +14798,16 @@
         "answer": "Dijkstra's"
     },
     {
+        "question": "Which animal has the largest cerebral cortex?",
+        "answer": "Elephant"
+    },
+    {
         "question": "Which animal has the most teeth?",
         "answer": "Snail"
+    },
+    {
+        "question": "Which animal jumps the longest distances relative to its size?",
+        "answer": "Flea"
     },
     {
         "question": "Which animal was the first to conquer the air?",
@@ -14571,6 +14831,10 @@
     {
         "question": "Which bacterium is used in plant genetic engineering?",
         "answer": "Agrobacterium"
+    },
+    {
+        "question": "Which belt in the Solar System is composed of icy objects?",
+        "answer": "Kuiper Belt"
     },
     {
         "question": "Which brain cell is responsible for immune defense?",
@@ -14644,6 +14908,14 @@
         "answer": "Freon"
     },
     {
+        "question": "Which element emits alpha particles?",
+        "answer": "Uranium"
+    },
+    {
+        "question": "Which element is deposited on materials using the chemical vapor deposition technique?",
+        "answer": "Silicon"
+    },
+    {
         "question": "Which equation describes the interaction of iron with oxygen?",
         "answer": "Fe + O2"
     },
@@ -14658,6 +14930,18 @@
     {
         "question": "Which factor does not affect plant growth?",
         "answer": "Leaf color"
+    },
+    {
+        "question": "Which field of engineering develops autonomous machines?",
+        "answer": "Mechatronics"
+    },
+    {
+        "question": "Which fish can swim backwards?",
+        "answer": "Catfish"
+    },
+    {
+        "question": "Which fish is considered the closest ancestor of amphibians?",
+        "answer": "Tiktaalik"
     },
     {
         "question": "Which fossil is considered an ancestor of amphibians?",
@@ -14686,6 +14970,10 @@
     {
         "question": "Which instrument makes an electric discharge visible?",
         "answer": "Oscilloscope"
+    },
+    {
+        "question": "Which method allows determining the depth of an earthquake's focus?",
+        "answer": "Hypocentral method"
     },
     {
         "question": "Which method considers only observable data?",
@@ -14740,8 +15028,20 @@
         "answer": "Rational"
     },
     {
+        "question": "Which ocean is the most polluted?",
+        "answer": "Pacific"
+    },
+    {
         "question": "Which of the following fields is a metascience?",
         "answer": "Epistemology"
+    },
+    {
+        "question": "Which of the following is a compiler?",
+        "answer": "GCC"
+    },
+    {
+        "question": "Which of the listed earthquakes are the most destructive?",
+        "answer": "Surface"
     },
     {
         "question": "Which of the listed machines is a state-changing automaton?",
@@ -14752,12 +15052,20 @@
         "answer": "Coelacanth"
     },
     {
+        "question": "Which of these technologies helps reduce water pollution?",
+        "answer": "Biofiltration"
+    },
+    {
         "question": "Which organisms are involved in bioremediation?",
         "answer": "Microbes"
     },
     {
         "question": "Which organisms live at low temperatures?",
         "answer": "Psychrophiles"
+    },
+    {
+        "question": "Which part of the brain controls basic life functions?",
+        "answer": "Brainstem"
     },
     {
         "question": "Which part of the brain is responsible for facial recognition?",
@@ -14784,12 +15092,20 @@
         "answer": "Endosperm"
     },
     {
+        "question": "Which particle has an antiparticle?",
+        "answer": "Electron"
+    },
+    {
         "question": "Which particle is predicted by the electroweak theory?",
         "answer": "Higgs boson"
     },
     {
         "question": "Which particle is responsible for mediating electromagnetic interaction?",
         "answer": "Photon"
+    },
+    {
+        "question": "Which particle is the carrier of gravity?",
+        "answer": "Graviton"
     },
     {
         "question": "Which planet has the greatest orbital inclination?",
@@ -14806,6 +15122,10 @@
     {
         "question": "Which process leads to an increase in genetic diversity within a population?",
         "answer": "Mutation"
+    },
+    {
+        "question": "Which process reduces the number of chromosomes by half?",
+        "answer": "meiosis"
     },
     {
         "question": "Which programming language is most commonly used for machine learning?",
@@ -14848,6 +15168,10 @@
         "answer": "Chemistry"
     },
     {
+        "question": "Which science studies ancient flora?",
+        "answer": "Palynology"
+    },
+    {
         "question": "Which science studies the methods of scientific knowledge?",
         "answer": "Epistemology"
     },
@@ -14876,6 +15200,10 @@
         "answer": "Amyloplasts"
     },
     {
+        "question": "Which structures can change color depending on their size?",
+        "answer": "Quantum dots"
+    },
+    {
         "question": "Which substance crosses the plasma membrane?",
         "answer": "Oxygen"
     },
@@ -14896,12 +15224,20 @@
         "answer": "Photolithography"
     },
     {
+        "question": "Which telescope first discovered exoplanets?",
+        "answer": "Kepler"
+    },
+    {
         "question": "Which theory describes the instantaneous connection between particles regardless of distance?",
         "answer": "Quantum entanglement"
     },
     {
         "question": "Which theory unifies electromagnetic and weak interactions?",
         "answer": "Electroweak theory"
+    },
+    {
+        "question": "Which type of rock is indicated by the absence of layering?",
+        "answer": "Igneous"
     },
     {
         "question": "Which vaccine helps prevent polio?",
@@ -14923,6 +15259,10 @@
         "answer": "John Corliss"
     },
     {
+        "question": "Who developed the theory of the origin of life in the primordial soup?",
+        "answer": "Alexander Oparin"
+    },
+    {
         "question": "Who discovered blood circulation?",
         "answer": "William Harvey"
     },
@@ -14939,8 +15279,16 @@
         "answer": "Sergei Winogradsky"
     },
     {
+        "question": "Who discovered the element helium?",
+        "answer": "Pierre Janssen"
+    },
+    {
         "question": "Who discovered the gravitational constant?",
         "answer": "Cavendish"
+    },
+    {
+        "question": "Who discovered the phenomenon of chemosynthesis?",
+        "answer": "Sergei Winogradsky"
     },
     {
         "question": "Who discovered the quantum nature of light?",
@@ -14949,6 +15297,10 @@
     {
         "question": "Who discovered the starch-iodine reagent?",
         "answer": "Friedrich Schönbein"
+    },
+    {
+        "question": "Who first described the laws of inheritance?",
+        "answer": "Mendel"
     },
     {
         "question": "Who first proposed the concept of atoms?",
@@ -14967,12 +15319,24 @@
         "answer": "Friedrich Wöhler"
     },
     {
+        "question": "Who formulated the first mathematical theory of light propagation?",
+        "answer": "Huygens"
+    },
+    {
         "question": "Who formulated the plate theory?",
         "answer": "Karl Love"
     },
     {
         "question": "Who introduced the concept of 'paradigm' in science?",
         "answer": "Thomas Kuhn"
+    },
+    {
+        "question": "Who introduced the concept of the 'electron'?",
+        "answer": "J.J. Thomson"
+    },
+    {
+        "question": "Who introduced the term 'antibiotic'?",
+        "answer": "Selman Waksman"
     },
     {
         "question": "Who introduced the term 'robot'?",
