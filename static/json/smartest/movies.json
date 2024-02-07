@@ -87,6 +87,10 @@
     "answer": "11"
   },
   {
+    "question": "How many Oscars did the movie 'Titanic' win?",
+    "answer": "11"
+  },
+  {
     "question": "How many categories are there in the Golden Globe Awards?",
     "answer": "25"
   },
@@ -109,6 +113,10 @@
   {
     "question": "In what year was 'Cinderella' released?",
     "answer": "1950"
+  },
+  {
+    "question": "In what year was Alain Delon born?",
+    "answer": "1935"
   },
   {
     "question": "In what year was Martin Scorsese's first film released?",
@@ -198,6 +206,10 @@
   {
     "question": "On which show are books and movies discussed?",
     "answer": "KinoChtenie"
+  },
+  {
+    "question": "On which work is the film 'The Silence of the Lambs' based?",
+    "answer": "The Silence of the Lambs"
   },
   {
     "question": "What TV shows do the characters of the animated series 'Pinky and the Brain' watch?",
@@ -327,6 +339,10 @@
     "answer": "detailed review"
   },
   {
+    "question": "What is a shader?",
+    "answer": "A rendering program"
+  },
+  {
     "question": "What is an autobiography in literature?",
     "answer": "A description of the author's life"
   },
@@ -439,6 +455,10 @@
     "answer": "Gone Girl"
   },
   {
+    "question": "What is the name of the 2014 thriller starring Jake Gyllenhaal?",
+    "answer": "Nightcrawler"
+  },
+  {
     "question": "What is the name of the 2020 film about unsuccessful robbers?",
     "answer": "Totally Careless"
   },
@@ -459,6 +479,10 @@
     "answer": "The Incredible Race"
   },
   {
+    "question": "What is the name of the American remake of the Korean film 'Closed School'?",
+    "answer": "School 2013"
+  },
+  {
     "question": "What is the name of the American remake of the film 'Suspiria'?",
     "answer": "Suspiria"
   },
@@ -467,12 +491,20 @@
     "answer": "Scent of a Woman"
   },
   {
+    "question": "What is the name of the British TV series about a group of doctors from the fictional Holby City hospital?",
+    "answer": "Holby City"
+  },
+  {
     "question": "What is the name of the Franco-Japanese film about a futuristic detective?",
     "answer": "Rael Politique"
   },
   {
     "question": "What is the name of the French animated film about a submarine captain?",
     "answer": "Captain Nemo"
+  },
+  {
+    "question": "What is the name of the Japanese animated film about a fighter for the future of Earth?",
+    "answer": "Nausicaä of the Valley of the Wind"
   },
   {
     "question": "What is the name of the Japanese animation award similar to the Oscars?",
@@ -549,6 +581,10 @@
   {
     "question": "What is the name of the actress who played Paulina Klinger in the series 'Paula'?",
     "answer": "Laura Campagnondo"
+  },
+  {
+    "question": "What is the name of the animated film about a flying castle?",
+    "answer": "Howl's Moving Castle"
   },
   {
     "question": "What is the name of the animated film where the characters live in a castle?",
@@ -657,6 +693,10 @@
   {
     "question": "What is the name of the famous Swedish drama about addiction?",
     "answer": "Bad Roads"
+  },
+  {
+    "question": "What is the name of the film about jazz musician Charlie Parker?",
+    "answer": "Bird"
   },
   {
     "question": "What is the name of the film about monuments to animals?",
@@ -1097,6 +1137,10 @@
     "answer": "Tweening"
   },
   {
+    "question": "What type of music typically accompanied silent films?",
+    "answer": "Piano music"
+  },
+  {
     "question": "What was the basis for French surrealism films?",
     "answer": "The subconscious"
   },
@@ -1194,6 +1238,10 @@
   {
     "question": "Where was Keanu Reeves born?",
     "answer": "Lebanon"
+  },
+  {
+    "question": "Which 2006 film tells the story of Mexican workers in the USA?",
+    "answer": "Babel"
   },
   {
     "question": "Which American director has won the 'Palme d'Or' twice?",
@@ -1521,6 +1569,10 @@
   {
     "question": "Which film about cyber-attacks reached a global audience?",
     "answer": "Citizenfour"
+  },
+  {
+    "question": "Which film award is given for achievements in Asian cinema?",
+    "answer": "Asian Film"
   },
   {
     "question": "Which film award is given for outstanding achievements in editing?",
@@ -1916,6 +1968,14 @@
     "answer": "Sylvia Nasar"
   },
   {
+    "question": "Which novel was the basis for the film 'Vanity Fair'?",
+    "answer": "Vanity Fair"
+  },
+  {
+    "question": "Which of Pedro Almodóvar's films won the Palme d'Or?",
+    "answer": "Pain and Glory"
+  },
+  {
     "question": "Which of these plays was written by Harold Pinter?",
     "answer": "The Lover"
   },
@@ -2220,6 +2280,14 @@
     "answer": "Makoto Shinkai"
   },
   {
+    "question": "Who directed 'Indiana Jones and the Dial of Destiny'?",
+    "answer": "James Mangold"
+  },
+  {
+    "question": "Who directed 'Kubo and the Two Strings'?",
+    "answer": "Travis Knight"
+  },
+  {
     "question": "Who directed 'Ruby'?",
     "answer": "Trevor Jamieson"
   },
@@ -2328,6 +2396,10 @@
     "answer": "David Lynch"
   },
   {
+    "question": "Who directed the film 'Breaking the Waves'?",
+    "answer": "Lars von Trier"
+  },
+  {
     "question": "Who directed the film 'Father of a Soldier'?",
     "answer": "Rezo Chkheidze"
   },
@@ -2378,6 +2450,10 @@
   {
     "question": "Who directed the movie \"World War Z\"?",
     "answer": "Marc Forster"
+  },
+  {
+    "question": "Who directed the remake of the film 'Suspiria'?",
+    "answer": "Luca Guadagnino"
   },
   {
     "question": "Who founded 'CNBC'?",
@@ -2630,6 +2706,10 @@
     "answer": "Casey Affleck"
   },
   {
+    "question": "Who played the lead role in the movie 'Amadeus'?",
+    "answer": "Tom Hulce"
+  },
+  {
     "question": "Who played the lead role in the movie 'Apocalypse Now'?",
     "answer": "Martin Sheen"
   },
@@ -2664,6 +2744,10 @@
   {
     "question": "Who played the role of Merlin in the movie 'King Arthur: Legend of the Sword'?",
     "answer": "Aidan Gillen"
+  },
+  {
+    "question": "Who played the role of Scarlett O'Hara in the film 'Gone with the Wind'?",
+    "answer": "Vivien Leigh"
   },
   {
     "question": "Who played the role of Tom Buckley in the movie 'Bonnie and Clyde'?",
