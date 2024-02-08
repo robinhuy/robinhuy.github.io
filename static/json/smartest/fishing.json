@@ -88,8 +88,16 @@
     "answer": "Fines"
   },
   {
+    "question": "What are the ideal conditions for fly fishing?",
+    "answer": "Clear water"
+  },
+  {
     "question": "What auxiliary tool facilitates the transportation of equipment?",
     "answer": "Sled"
+  },
+  {
+    "question": "What bait is preferred for trophy fishing?",
+    "answer": "Boilies"
   },
   {
     "question": "What bait is suitable for catching large burbot?",
@@ -208,8 +216,16 @@
     "answer": "Trawling"
   },
   {
+    "question": "What fishing technique is used at night for predatory fish?",
+    "answer": "Bottom fishing"
+  },
+  {
     "question": "What fishing technique is used for predatory fish?",
     "answer": "Trolling"
+  },
+  {
+    "question": "What fishing technique is used in strong currents?",
+    "answer": "Feeder fishing"
   },
   {
     "question": "What fishing technique uses a polarizing lure?",
@@ -460,6 +476,10 @@
     "answer": "Crucian carp"
   },
   {
+    "question": "What type of fish prefers still water?",
+    "answer": "Tench"
+  },
+  {
     "question": "What type of fishing bait is used most often?",
     "answer": "Live bait"
   },
@@ -478,6 +498,10 @@
   {
     "question": "What type of fishing rod is used for long-distance casting for roach?",
     "answer": "Match rod"
+  },
+  {
+    "question": "What type of jig is popular for ice fishing?",
+    "answer": "Devil"
   },
   {
     "question": "What type of jig is used for ice fishing?",
@@ -570,6 +594,10 @@
   {
     "question": "Which country is the birthplace of fly fishing?",
     "answer": "England"
+  },
+  {
+    "question": "Which country was the first to introduce fishing licenses?",
+    "answer": "France"
   },
   {
     "question": "Which device can detect weak electric discharges from fish?",
@@ -730,6 +758,10 @@
   {
     "question": "Which knot is often used to join two fishing lines?",
     "answer": "Bimini twist"
+  },
+  {
+    "question": "Which knot is popular among professional anglers?",
+    "answer": "Palomar"
   },
   {
     "question": "Which knot is popular for deep-sea fishing?",
