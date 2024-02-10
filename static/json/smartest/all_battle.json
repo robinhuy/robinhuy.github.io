@@ -12760,6 +12760,10 @@
         "answer": "32"
     },
     {
+        "question": "At which rock music festival does the film 'Taking Woodstock' take place?",
+        "answer": "Woodstock"
+    },
+    {
         "question": "Complete the phrase: 'Is it just me, or is this a ______ train!'",
         "answer": "magical"
     },
@@ -12914,6 +12918,14 @@
         "answer": "On the Rice Fields"
     },
     {
+        "question": "In which animated movie does the song 'Immortals' by Fall Out Boy appear?",
+        "answer": "Big Hero 6"
+    },
+    {
+        "question": "In which country is 'Team Tyumentsev' produced?",
+        "answer": "Russia"
+    },
+    {
         "question": "In which decade did the 'French New Wave' originate?",
         "answer": "1950s"
     },
@@ -13051,6 +13063,10 @@
         "answer": "Black comedy"
     },
     {
+        "question": "What function controls a polygonal mesh?",
+        "answer": "Rigging"
+    },
+    {
         "question": "What function does a review serve?",
         "answer": "Analyze a film"
     },
@@ -13073,6 +13089,10 @@
     {
         "question": "What is '3D rigging'?",
         "answer": "Bone system"
+    },
+    {
+        "question": "What is 'rigging' used for in animation?",
+        "answer": "Setting up movements"
     },
     {
         "question": "What is Phong shading?",
@@ -13275,6 +13295,10 @@
         "answer": "Roberta Cruz"
     },
     {
+        "question": "What is the name of the Na'vi tribe leader in the movie 'Avatar'?",
+        "answer": "Tsu'tey"
+    },
+    {
         "question": "What is the name of the Nolan film with elements of time paradoxes?",
         "answer": "Tenet"
     },
@@ -13331,6 +13355,10 @@
         "answer": "Breaking Bad"
     },
     {
+        "question": "What is the name of the actor who played Sherlock Holmes in the BBC series?",
+        "answer": "Benedict Cumberbatch"
+    },
+    {
         "question": "What is the name of the actress who played Paulina Klinger in the series 'Paula'?",
         "answer": "Laura Campagnondo"
     },
@@ -13357,6 +13385,10 @@
     {
         "question": "What is the name of the assistant robot in 'Asterix'?",
         "answer": "Beng"
+    },
+    {
+        "question": "What is the name of the award at the Glasgow Film Festival?",
+        "answer": "Glasgow Award"
     },
     {
         "question": "What is the name of the award for scientific and technical achievements in cinema?",
@@ -13447,6 +13479,10 @@
         "answer": "Bad Roads"
     },
     {
+        "question": "What is the name of the film about Lawrence of Arabia?",
+        "answer": "Lawrence of Arabia"
+    },
+    {
         "question": "What is the name of the film about jazz musician Charlie Parker?",
         "answer": "Bird"
     },
@@ -13521,6 +13557,10 @@
     {
         "question": "What is the name of the hare in the cartoon 'Nu, Pogodi!'?",
         "answer": "Hare"
+    },
+    {
+        "question": "What is the name of the heroine, a married mother, in the series 'Big Little Lies'?",
+        "answer": "Madeline Martha Mackenzie"
     },
     {
         "question": "What is the name of the ice cream seller in 'Zootopia'?",
@@ -13627,6 +13667,10 @@
         "answer": "Heart of the Jungle"
     },
     {
+        "question": "What is the name of the movie about artificial intelligence developed to perform service tasks?",
+        "answer": "eXistenZ"
+    },
+    {
         "question": "What is the name of the movie about the future where people don't age?",
         "answer": "In Time"
     },
@@ -13703,6 +13747,10 @@
         "answer": "Psychics Investigate"
     },
     {
+        "question": "What is the name of the show where participants share recipes for dishes?",
+        "answer": "Culinary Secrets"
+    },
+    {
         "question": "What is the name of the show where people compete in boat races?",
         "answer": "Water Adventures"
     },
@@ -13717,6 +13765,10 @@
     {
         "question": "What is the name of the skeleton man from 'The Nightmare Before Christmas'?",
         "answer": "Jack Skellington"
+    },
+    {
+        "question": "What is the name of the song from 'Shrek Forever After'?",
+        "answer": "Darlin' (for Ya)"
     },
     {
         "question": "What is the name of the song in the movie 'How to Train Your Dragon' during Hiccup and Toothless's flight together?",
@@ -13917,6 +13969,10 @@
         "answer": "James Stewart"
     },
     {
+        "question": "What was the name of the film about the Hong Kong flu epidemic?",
+        "answer": "Plague of the World"
+    },
+    {
         "question": "What was the name of the film that first used stop-motion animation technique?",
         "answer": "The Adventures of Prince Achmed"
     },
@@ -13986,6 +14042,10 @@
     {
         "question": "Where is the Expo prize awarded?",
         "answer": "Toronto"
+    },
+    {
+        "question": "Where is the quote 'The Flowers of Evil are tied into a bouquet' from?",
+        "answer": "The Flowers of Evil"
     },
     {
         "question": "Where was Keanu Reeves born?",
@@ -14068,6 +14128,10 @@
         "answer": "Everybody Hurts"
     },
     {
+        "question": "Which Russian director won an award at the Venice Film Festival in 2021?",
+        "answer": "Andrey Zvyagintsev"
+    },
+    {
         "question": "Which Spanish animation studio won the Goya Award in 2011?",
         "answer": "Ilion Animation Studios"
     },
@@ -14134,6 +14198,10 @@
     {
         "question": "Which animated film from Germany tells the story of a gnome's journey?",
         "answer": "Gnomes on the Road"
+    },
+    {
+        "question": "Which animated film is about a crane?",
+        "answer": "The Big Trip"
     },
     {
         "question": "Which animated film is about children's songs?",
@@ -14617,12 +14685,20 @@
         "answer": "Cyberpunk"
     },
     {
+        "question": "Which genre includes elements of mysticism and mystery?",
+        "answer": "Mystery"
+    },
+    {
         "question": "Which genre includes historical settings and eras?",
         "answer": "Costume drama"
     },
     {
         "question": "Which genre includes space travel and exploration?",
         "answer": "Space opera"
+    },
+    {
+        "question": "Which genre includes urban and rural life?",
+        "answer": "Drama"
     },
     {
         "question": "Which genre involves confrontation with natural disasters?",
@@ -14904,6 +14980,10 @@
         "answer": "Carmine Coppola"
     },
     {
+        "question": "Who composed the music for the film 'Argo'?",
+        "answer": "Alexandre Desplat"
+    },
+    {
         "question": "Who composed the music for the film 'Chocolat'?",
         "answer": "Rachel Portman"
     },
@@ -14926,6 +15006,10 @@
     {
         "question": "Who composed the music for the film 'Empire of the Sun'?",
         "answer": "John Williams"
+    },
+    {
+        "question": "Who composed the music for the film 'Escape from Alcatraz'?",
+        "answer": "Jerry Fielding"
     },
     {
         "question": "Who composed the music for the film 'Finding Neverland'?",
@@ -15116,6 +15200,10 @@
         "answer": "Andrew Stanton"
     },
     {
+        "question": "Who directed the animated film 'Horror Vacation'?",
+        "answer": "Alex Zvolak"
+    },
+    {
         "question": "Who directed the animated film 'Mademoiselle Zazie'?",
         "answer": "Laurent Boileau"
     },
@@ -15133,6 +15221,10 @@
     },
     {
         "question": "Who directed the animated film 'Song of the Sea'?",
+        "answer": "Tomm Moore"
+    },
+    {
+        "question": "Who directed the animated film 'The Secret of Kells'?",
         "answer": "Tomm Moore"
     },
     {
@@ -15331,6 +15423,10 @@
         "answer": "Jean-Pierre Jeunet"
     },
     {
+        "question": "Who is the director of the film 'Blackthorn Mission'?",
+        "answer": "Mateus Suse"
+    },
+    {
         "question": "Who is the director of the film 'Burning'?",
         "answer": "Lee Chang-dong"
     },
@@ -15502,6 +15598,10 @@
         "answer": "Vivien Leigh"
     },
     {
+        "question": "Who played the role of The Mountain in 'Game of Thrones'?",
+        "answer": "Hafþór Björnsson"
+    },
+    {
         "question": "Who played the role of Tom Buckley in the movie 'Bonnie and Clyde'?",
         "answer": "Warren Beatty"
     },
@@ -15528,6 +15628,14 @@
     {
         "question": "Who produced the film '10 Things I Hate About You'?",
         "answer": "Andrew Lazar"
+    },
+    {
+        "question": "Who produced the film 'Goodfellas'?",
+        "answer": "Irwin Winkler"
+    },
+    {
+        "question": "Who produced the film 'Mad Max: Fury Road'?",
+        "answer": "George Miller"
     },
     {
         "question": "Who produced the series 'True Detective'?",
@@ -15702,6 +15810,10 @@
         "answer": "David McKenna"
     },
     {
+        "question": "Who wrote the screenplay for the movie 'Casablanca'?",
+        "answer": "Julius Epstein"
+    },
+    {
         "question": "Who wrote the screenplay for the movie 'Fight Club'?",
         "answer": "Jim Uhls"
     },
@@ -15874,6 +15986,10 @@
         "answer": "2017"
     },
     {
+        "question": "In what year did DJ Carl Cox debut?",
+        "answer": "1980"
+    },
+    {
         "question": "In what year did Lady Gaga release the album 'The Fame'?",
         "answer": "2008"
     },
@@ -15886,8 +16002,16 @@
         "answer": "2002"
     },
     {
+        "question": "In what year did the Rock in Rio festival start?",
+        "answer": "1985"
+    },
+    {
         "question": "In what year did the song 'If I Didn't Have You' win the Oscar?",
         "answer": "2002"
+    },
+    {
+        "question": "In what year did the song 'Streets of Philadelphia' win an Oscar?",
+        "answer": "1994"
     },
     {
         "question": "In what year was Arvo Pärt born?",
@@ -16146,6 +16270,10 @@
         "answer": "Cavaquinho"
     },
     {
+        "question": "What instrument was used in experimental electronic music of the 1970s?",
+        "answer": "Modular synthesizer"
+    },
+    {
         "question": "What is 'conceptual music'?",
         "answer": "The idea is more important"
     },
@@ -16196,6 +16324,14 @@
     {
         "question": "What is syncopation in music?",
         "answer": "Edgar Froese"
+    },
+    {
+        "question": "What is the combination of rap and rock music called?",
+        "answer": "Rap Rock"
+    },
+    {
+        "question": "What is the effect called that gives the bass a 'punch' in dubstep?",
+        "answer": "Sidechain"
     },
     {
         "question": "What is the genre of electronic music that originated in Germany called?",
@@ -16376,6 +16512,10 @@
     {
         "question": "What is the name of the British DJ and producer known by the stage name Aphex Twin?",
         "answer": ""
+    },
+    {
+        "question": "What is the name of the DIY punk rock festival in the USA?",
+        "answer": "Punk Rock Bowling"
     },
     {
         "question": "What is the name of the Depeche Mode album released in 1987?",
@@ -16574,6 +16714,10 @@
         "answer": "Holocene"
     },
     {
+        "question": "What is the name of the song from the movie 'A Star Is Born' that won an Oscar?",
+        "answer": "Evergreen"
+    },
+    {
         "question": "What is the name of the song from the movie 'The Hobbit: An Unexpected Journey'?",
         "answer": "Misty Mountains"
     },
@@ -16710,6 +16854,10 @@
         "answer": "Hold On"
     },
     {
+        "question": "What song did Vanessa Carlton release in 2002?",
+        "answer": "A Thousand Miles"
+    },
+    {
         "question": "What song was a hit for the band Spandau Ballet?",
         "answer": "True"
     },
@@ -16732,6 +16880,10 @@
     {
         "question": "What style mixes blues and modern soul?",
         "answer": ""
+    },
+    {
+        "question": "What style of jazz is popular in Poland?",
+        "answer": "European jazz"
     },
     {
         "question": "What style of music emerged in the 1990s in the United Kingdom?",
@@ -16874,6 +17026,10 @@
         "answer": "USA"
     },
     {
+        "question": "Where did Gregorian music develop?",
+        "answer": "In monasteries"
+    },
+    {
         "question": "Where did gangsta rap originate?",
         "answer": "South Central"
     },
@@ -16932,6 +17088,10 @@
     {
         "question": "Which Mexican singer is known for the song 'Hasta Que Te Conocí'?",
         "answer": "Juan Gabriel"
+    },
+    {
+        "question": "Which Paul Anka song became a hit in 1964?",
+        "answer": "Diana"
     },
     {
         "question": "Which Steel Pulse album won a Grammy Award?",
@@ -17234,6 +17394,10 @@
         "answer": "Frankie Goes to Hollywood"
     },
     {
+        "question": "Which funk band released the hit 'Fantastic Voyage'?",
+        "answer": "Lakeside"
+    },
+    {
         "question": "Which genre includes elements of blues and electronics?",
         "answer": "Electro-blues"
     },
@@ -17334,6 +17498,10 @@
         "answer": "Bassoon"
     },
     {
+        "question": "Which instrument often dominates in dub music?",
+        "answer": "Bass guitar"
+    },
+    {
         "question": "Which instrument produces brass sounds?",
         "answer": "French horn"
     },
@@ -17358,6 +17526,10 @@
         "answer": "Trombone"
     },
     {
+        "question": "Which jazz musician composed music for films?",
+        "answer": "John Lewis"
+    },
+    {
         "question": "Which jazz musician recorded the album 'Blue Train'?",
         "answer": "John Coltrane"
     },
@@ -17368,6 +17540,10 @@
     {
         "question": "Which member of The Rolling Stones left the band in 1993?",
         "answer": "Bill Wyman"
+    },
+    {
+        "question": "Which metal genre emphasizes technicality?",
+        "answer": "Tech-metal"
     },
     {
         "question": "Which metal genre often features anti-Christian themes?",
@@ -17400,6 +17576,10 @@
     {
         "question": "Which metal subgenre uses tritone chords?",
         "answer": "Death metal"
+    },
+    {
+        "question": "Which method is important for creating rhythm in house music?",
+        "answer": "Sampling"
     },
     {
         "question": "Which monument is known from the songs of troubadours?",
@@ -17486,6 +17666,10 @@
         "answer": "Night on Bald Mountain"
     },
     {
+        "question": "Which musical form has an ABA structure?",
+        "answer": "ternary form"
+    },
+    {
         "question": "Which musical form typically consists of four movements?",
         "answer": "Symphony"
     },
@@ -17556,6 +17740,10 @@
     {
         "question": "Which of these artists is a pioneer of techno?",
         "answer": "Juan Atkins"
+    },
+    {
+        "question": "Which of these artists is considered a pioneer of techno music?",
+        "answer": "Derrick May"
     },
     {
         "question": "Which of these bands is not part of the grunge scene?",
@@ -17686,6 +17874,10 @@
         "answer": "Chloe Dancer"
     },
     {
+        "question": "Which song was recognized as the 'Top Hit' in 2018?",
+        "answer": "Havana"
+    },
+    {
         "question": "Which song won in 2010?",
         "answer": "We Belong Together"
     },
@@ -17696,6 +17888,10 @@
     {
         "question": "Which song won the Oscar for Best Original Song in 2008?",
         "answer": "Falling Slowly"
+    },
+    {
+        "question": "Which song won the Oscar in 1985?",
+        "answer": "Say You, Say Me"
     },
     {
         "question": "Which song won the Oscar in 2006?",
@@ -17738,6 +17934,10 @@
         "answer": "Inner City Life"
     },
     {
+        "question": "Which track made High Contrast famous?",
+        "answer": "'Days Go By'"
+    },
+    {
         "question": "Which video won the 'Push Performance of the Year' award in 2019?",
         "answer": "Sweet But Psycho"
     },
@@ -17756,6 +17956,10 @@
     {
         "question": "Who composed 'Duke Bluebeard's Castle'?",
         "answer": "Béla Bartók"
+    },
+    {
+        "question": "Who composed 'Gluck'?",
+        "answer": "Gluck"
     },
     {
         "question": "Who composed 'Messe de Nostre Dame'?",
@@ -17822,6 +18026,10 @@
         "answer": "Skalkovsky"
     },
     {
+        "question": "Who composed the music for the song 'Raindrops Keep Fallin' on My Head'?",
+        "answer": "Burt Bacharach"
+    },
+    {
         "question": "Who composed the opera 'Alceste'?",
         "answer": "C. W. Gluck"
     },
@@ -17836,6 +18044,10 @@
     {
         "question": "Who composed the opera 'Le Grand Macabre'?",
         "answer": "György Ligeti"
+    },
+    {
+        "question": "Who composed the opera 'Orfeo'?",
+        "answer": "Christoph Gluck"
     },
     {
         "question": "Who composed the quartet 'Black Angels'?",
@@ -17900,6 +18112,10 @@
     {
         "question": "Who has won the most AMA awards?",
         "answer": "Taylor Swift"
+    },
+    {
+        "question": "Who hosted the EMA ceremony in 2020?",
+        "answer": "Little Mix"
     },
     {
         "question": "Who hosted the MTV VMAs in 2016?",
@@ -18002,6 +18218,10 @@
         "answer": "João Gilberto"
     },
     {
+        "question": "Who is the lead vocalist of the band Bad Religion?",
+        "answer": "Greg Graffin"
+    },
+    {
         "question": "Who is the most frequent winner of the BRIT Award?",
         "answer": "Robbie Williams"
     },
@@ -18058,6 +18278,10 @@
         "answer": "Huey Lewis"
     },
     {
+        "question": "Who performed the song 'Wuthering Heights'?",
+        "answer": "Kate Bush"
+    },
+    {
         "question": "Who performed the song 'You Keep Me Hangin' On'?",
         "answer": "The Supremes"
     },
@@ -18092,6 +18316,10 @@
     {
         "question": "Who released the album 'Grace' in 1994?",
         "answer": "Jeff Buckley"
+    },
+    {
+        "question": "Who released the album 'Parallel Lines'?",
+        "answer": "Blondie"
     },
     {
         "question": "Who released the album 'Process' in 2017?",
@@ -18262,6 +18490,10 @@
         "answer": "Kacey Musgraves"
     },
     {
+        "question": "Who won the Grammy for Best Contemporary Classical Album in 2014?",
+        "answer": "John Adams"
+    },
+    {
         "question": "Who won the Grammy for Best New Artist in 2004?",
         "answer": "Evanescence"
     },
@@ -18276,6 +18508,10 @@
     {
         "question": "Who won the award for Best Soundtrack in 2019?",
         "answer": "Queen"
+    },
+    {
+        "question": "Who won the award for the best quartet?",
+        "answer": "The Beatles"
     },
     {
         "question": "Who won the first Grammy Award for Album of the Year?",

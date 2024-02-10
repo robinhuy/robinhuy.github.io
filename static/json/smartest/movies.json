@@ -8,6 +8,10 @@
     "answer": "32"
   },
   {
+    "question": "At which rock music festival does the film 'Taking Woodstock' take place?",
+    "answer": "Woodstock"
+  },
+  {
     "question": "Complete the phrase: 'Is it just me, or is this a ______ train!'",
     "answer": "magical"
   },
@@ -162,6 +166,14 @@
     "answer": "On the Rice Fields"
   },
   {
+    "question": "In which animated movie does the song 'Immortals' by Fall Out Boy appear?",
+    "answer": "Big Hero 6"
+  },
+  {
+    "question": "In which country is 'Team Tyumentsev' produced?",
+    "answer": "Russia"
+  },
+  {
     "question": "In which decade did the 'French New Wave' originate?",
     "answer": "1950s"
   },
@@ -299,6 +311,10 @@
     "answer": "Black comedy"
   },
   {
+    "question": "What function controls a polygonal mesh?",
+    "answer": "Rigging"
+  },
+  {
     "question": "What function does a review serve?",
     "answer": "Analyze a film"
   },
@@ -321,6 +337,10 @@
   {
     "question": "What is '3D rigging'?",
     "answer": "Bone system"
+  },
+  {
+    "question": "What is 'rigging' used for in animation?",
+    "answer": "Setting up movements"
   },
   {
     "question": "What is Phong shading?",
@@ -523,6 +543,10 @@
     "answer": "Roberta Cruz"
   },
   {
+    "question": "What is the name of the Na'vi tribe leader in the movie 'Avatar'?",
+    "answer": "Tsu'tey"
+  },
+  {
     "question": "What is the name of the Nolan film with elements of time paradoxes?",
     "answer": "Tenet"
   },
@@ -579,6 +603,10 @@
     "answer": "Breaking Bad"
   },
   {
+    "question": "What is the name of the actor who played Sherlock Holmes in the BBC series?",
+    "answer": "Benedict Cumberbatch"
+  },
+  {
     "question": "What is the name of the actress who played Paulina Klinger in the series 'Paula'?",
     "answer": "Laura Campagnondo"
   },
@@ -605,6 +633,10 @@
   {
     "question": "What is the name of the assistant robot in 'Asterix'?",
     "answer": "Beng"
+  },
+  {
+    "question": "What is the name of the award at the Glasgow Film Festival?",
+    "answer": "Glasgow Award"
   },
   {
     "question": "What is the name of the award for scientific and technical achievements in cinema?",
@@ -695,6 +727,10 @@
     "answer": "Bad Roads"
   },
   {
+    "question": "What is the name of the film about Lawrence of Arabia?",
+    "answer": "Lawrence of Arabia"
+  },
+  {
     "question": "What is the name of the film about jazz musician Charlie Parker?",
     "answer": "Bird"
   },
@@ -769,6 +805,10 @@
   {
     "question": "What is the name of the hare in the cartoon 'Nu, Pogodi!'?",
     "answer": "Hare"
+  },
+  {
+    "question": "What is the name of the heroine, a married mother, in the series 'Big Little Lies'?",
+    "answer": "Madeline Martha Mackenzie"
   },
   {
     "question": "What is the name of the ice cream seller in 'Zootopia'?",
@@ -875,6 +915,10 @@
     "answer": "Heart of the Jungle"
   },
   {
+    "question": "What is the name of the movie about artificial intelligence developed to perform service tasks?",
+    "answer": "eXistenZ"
+  },
+  {
     "question": "What is the name of the movie about the future where people don't age?",
     "answer": "In Time"
   },
@@ -951,6 +995,10 @@
     "answer": "Psychics Investigate"
   },
   {
+    "question": "What is the name of the show where participants share recipes for dishes?",
+    "answer": "Culinary Secrets"
+  },
+  {
     "question": "What is the name of the show where people compete in boat races?",
     "answer": "Water Adventures"
   },
@@ -965,6 +1013,10 @@
   {
     "question": "What is the name of the skeleton man from 'The Nightmare Before Christmas'?",
     "answer": "Jack Skellington"
+  },
+  {
+    "question": "What is the name of the song from 'Shrek Forever After'?",
+    "answer": "Darlin' (for Ya)"
   },
   {
     "question": "What is the name of the song in the movie 'How to Train Your Dragon' during Hiccup and Toothless's flight together?",
@@ -1165,6 +1217,10 @@
     "answer": "James Stewart"
   },
   {
+    "question": "What was the name of the film about the Hong Kong flu epidemic?",
+    "answer": "Plague of the World"
+  },
+  {
     "question": "What was the name of the film that first used stop-motion animation technique?",
     "answer": "The Adventures of Prince Achmed"
   },
@@ -1234,6 +1290,10 @@
   {
     "question": "Where is the Expo prize awarded?",
     "answer": "Toronto"
+  },
+  {
+    "question": "Where is the quote 'The Flowers of Evil are tied into a bouquet' from?",
+    "answer": "The Flowers of Evil"
   },
   {
     "question": "Where was Keanu Reeves born?",
@@ -1316,6 +1376,10 @@
     "answer": "Everybody Hurts"
   },
   {
+    "question": "Which Russian director won an award at the Venice Film Festival in 2021?",
+    "answer": "Andrey Zvyagintsev"
+  },
+  {
     "question": "Which Spanish animation studio won the Goya Award in 2011?",
     "answer": "Ilion Animation Studios"
   },
@@ -1382,6 +1446,10 @@
   {
     "question": "Which animated film from Germany tells the story of a gnome's journey?",
     "answer": "Gnomes on the Road"
+  },
+  {
+    "question": "Which animated film is about a crane?",
+    "answer": "The Big Trip"
   },
   {
     "question": "Which animated film is about children's songs?",
@@ -1865,12 +1933,20 @@
     "answer": "Cyberpunk"
   },
   {
+    "question": "Which genre includes elements of mysticism and mystery?",
+    "answer": "Mystery"
+  },
+  {
     "question": "Which genre includes historical settings and eras?",
     "answer": "Costume drama"
   },
   {
     "question": "Which genre includes space travel and exploration?",
     "answer": "Space opera"
+  },
+  {
+    "question": "Which genre includes urban and rural life?",
+    "answer": "Drama"
   },
   {
     "question": "Which genre involves confrontation with natural disasters?",
@@ -2152,6 +2228,10 @@
     "answer": "Carmine Coppola"
   },
   {
+    "question": "Who composed the music for the film 'Argo'?",
+    "answer": "Alexandre Desplat"
+  },
+  {
     "question": "Who composed the music for the film 'Chocolat'?",
     "answer": "Rachel Portman"
   },
@@ -2174,6 +2254,10 @@
   {
     "question": "Who composed the music for the film 'Empire of the Sun'?",
     "answer": "John Williams"
+  },
+  {
+    "question": "Who composed the music for the film 'Escape from Alcatraz'?",
+    "answer": "Jerry Fielding"
   },
   {
     "question": "Who composed the music for the film 'Finding Neverland'?",
@@ -2364,6 +2448,10 @@
     "answer": "Andrew Stanton"
   },
   {
+    "question": "Who directed the animated film 'Horror Vacation'?",
+    "answer": "Alex Zvolak"
+  },
+  {
     "question": "Who directed the animated film 'Mademoiselle Zazie'?",
     "answer": "Laurent Boileau"
   },
@@ -2381,6 +2469,10 @@
   },
   {
     "question": "Who directed the animated film 'Song of the Sea'?",
+    "answer": "Tomm Moore"
+  },
+  {
+    "question": "Who directed the animated film 'The Secret of Kells'?",
     "answer": "Tomm Moore"
   },
   {
@@ -2579,6 +2671,10 @@
     "answer": "Jean-Pierre Jeunet"
   },
   {
+    "question": "Who is the director of the film 'Blackthorn Mission'?",
+    "answer": "Mateus Suse"
+  },
+  {
     "question": "Who is the director of the film 'Burning'?",
     "answer": "Lee Chang-dong"
   },
@@ -2750,6 +2846,10 @@
     "answer": "Vivien Leigh"
   },
   {
+    "question": "Who played the role of The Mountain in 'Game of Thrones'?",
+    "answer": "Hafþór Björnsson"
+  },
+  {
     "question": "Who played the role of Tom Buckley in the movie 'Bonnie and Clyde'?",
     "answer": "Warren Beatty"
   },
@@ -2776,6 +2876,14 @@
   {
     "question": "Who produced the film '10 Things I Hate About You'?",
     "answer": "Andrew Lazar"
+  },
+  {
+    "question": "Who produced the film 'Goodfellas'?",
+    "answer": "Irwin Winkler"
+  },
+  {
+    "question": "Who produced the film 'Mad Max: Fury Road'?",
+    "answer": "George Miller"
   },
   {
     "question": "Who produced the series 'True Detective'?",
@@ -2948,6 +3056,10 @@
   {
     "question": "Who wrote the screenplay for the movie 'American History X'?",
     "answer": "David McKenna"
+  },
+  {
+    "question": "Who wrote the screenplay for the movie 'Casablanca'?",
+    "answer": "Julius Epstein"
   },
   {
     "question": "Who wrote the screenplay for the movie 'Fight Club'?",
