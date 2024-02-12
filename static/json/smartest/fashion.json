@@ -8,6 +8,10 @@
     "answer": "About 20"
   },
   {
+    "question": "How old was Iris Apfel when she started her career in fashion?",
+    "answer": "50 years old"
+  },
+  {
     "question": "How to reduce the ecological footprint?",
     "answer": "Reducing waste"
   },
@@ -28,8 +32,16 @@
     "answer": "1903"
   },
   {
+    "question": "In which city did the famous street style originate?",
+    "answer": "New York"
+  },
+  {
     "question": "In which country is the Boa Vista Fashion Week held?",
     "answer": "Cape Verde"
+  },
+  {
+    "question": "To which era does the Empire style belong?",
+    "answer": "Napoleonic"
   },
   {
     "question": "Trend of the 2020s: sustainable fashion?",
@@ -50,6 +62,10 @@
   {
     "question": "What accessory often complements a suit?",
     "answer": "Cufflinks"
+  },
+  {
+    "question": "What accessory was often used as a brooch in ancient times?",
+    "answer": "fibula"
   },
   {
     "question": "What are ancient gems called?",
@@ -88,6 +104,10 @@
     "answer": "Blouse"
   },
   {
+    "question": "What clothing items are characteristic of Parisian fashion?",
+    "answer": "Scarves, berets"
+  },
+  {
     "question": "What clothing style became fashionable in the 1940s?",
     "answer": "New Look"
   },
@@ -96,12 +116,24 @@
     "answer": "Avant-garde"
   },
   {
+    "question": "What clothing style includes retro elements?",
+    "answer": "Retro chic"
+  },
+  {
+    "question": "What did the unisex style symbolize in the 1990s?",
+    "answer": "Bombers"
+  },
+  {
     "question": "What do 2D printers print?",
     "answer": "Documents"
   },
   {
     "question": "What do men wear to formal events?",
     "answer": "Tuxedo"
+  },
+  {
+    "question": "What does 'sustainable fashion' mean?",
+    "answer": "Environmentally friendly"
   },
   {
     "question": "What does 'патентная кожа' mean?",
@@ -116,12 +148,20 @@
     "answer": "Met Gala"
   },
   {
+    "question": "What event takes place in Los Angeles and is dedicated to street fashion?",
+    "answer": "Made LA"
+  },
+  {
     "question": "What fashion show is held in June and January in London?",
     "answer": "London Fashion Week Men's"
   },
   {
     "question": "What fashion style was popular in the 19th century?",
     "answer": "Victorian"
+  },
+  {
+    "question": "What footwear is associated with the Gothic style?",
+    "answer": "Doc Martens"
   },
   {
     "question": "What footwear is popular in Japan?",
@@ -138,6 +178,10 @@
   {
     "question": "What is 'biodegradable clothing'?",
     "answer": "Naturally decomposes"
+  },
+  {
+    "question": "What is 'upcycling'?",
+    "answer": "Repurposing items"
   },
   {
     "question": "What is VR technology used for in fashion?",
@@ -168,8 +212,16 @@
     "answer": "Yohji Yamamoto"
   },
   {
+    "question": "What is the material made from orange peel called?",
+    "answer": "Orange Fiber"
+  },
+  {
     "question": "What is the most prestigious event in the fashion world?",
     "answer": "Paris Fashion Week"
+  },
+  {
+    "question": "What is the name of a ring with a seal?",
+    "answer": "Signet ring"
   },
   {
     "question": "What is the name of clothing that displays notifications?",
@@ -180,8 +232,24 @@
     "answer": "Oxfords"
   },
   {
+    "question": "What is the name of the Gucci men's collection for Spring-Summer 2020?",
+    "answer": "Epilogue"
+  },
+  {
+    "question": "What is the name of the clothing used to accentuate the waist?",
+    "answer": "Corset"
+  },
+  {
     "question": "What is the name of the creative director of Balenciaga?",
     "answer": "Demna Gvasalia"
+  },
+  {
+    "question": "What is the name of the fabric that changes color?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the name of the fabric that reacts to light?",
+    "answer": "Photoreactive"
   },
   {
     "question": "What is the name of the fashion week on Sixth Avenue in New York?",
@@ -212,12 +280,28 @@
     "answer": "Eco-fashion goal"
   },
   {
+    "question": "What is the style called that involves wearing multiple layers of clothing?",
+    "answer": "Layering"
+  },
+  {
+    "question": "What is the substance used to create an elegant shine in varnishes and paints called?",
+    "answer": "Mother-of-pearl"
+  },
+  {
     "question": "What is the technique of giving new life to old items called?",
     "answer": "Upcycling"
   },
   {
     "question": "What is used in jewelry to create patterns?",
     "answer": "Enamel"
+  },
+  {
+    "question": "What is usually chosen for stylish evening outfits?",
+    "answer": "Tuxedo"
+  },
+  {
+    "question": "What material is most commonly used for outerwear?",
+    "answer": "Neoprene"
   },
   {
     "question": "What music genre does singer Taylor Swift prefer?",
@@ -230,6 +314,10 @@
   {
     "question": "What pattern is popular for blazers?",
     "answer": "Glen check"
+  },
+  {
+    "question": "What piece of jewelry does a princess wear?",
+    "answer": "Tiara"
   },
   {
     "question": "What popular pattern is used in jewelry?",
@@ -248,12 +336,24 @@
     "answer": "Fitted"
   },
   {
+    "question": "What strategy helps reduce waste in fashion?",
+    "answer": "Upcycling"
+  },
+  {
+    "question": "What style did Elsa Schiaparelli adhere to in her works?",
+    "answer": "Surrealism"
+  },
+  {
     "question": "What style of clothing is most often chosen for school?",
     "answer": "Classic"
   },
   {
     "question": "What style of necklace did Egyptian pharaohs wear?",
     "answer": "Pectoral necklace"
+  },
+  {
+    "question": "What style of suits was popular in the 1990s?",
+    "answer": "Casual"
   },
   {
     "question": "What style was popular for evening wear in 2023?",
@@ -280,6 +380,10 @@
     "answer": "VR"
   },
   {
+    "question": "What technology is used to reduce waste?",
+    "answer": "Zero-waste manufacturing"
+  },
+  {
     "question": "What trend contributes to more conscious consumption in fashion?",
     "answer": "Conscious consumption"
   },
@@ -296,8 +400,24 @@
     "answer": "Mesh boots"
   },
   {
+    "question": "What type of clothing became a popular element of street fashion since the 1980s?",
+    "answer": "Hoodie"
+  },
+  {
     "question": "What type of clothing can change color?",
     "answer": "Smart"
+  },
+  {
+    "question": "What type of clothing is popular in Japanese street fashion?",
+    "answer": "Harajuku"
+  },
+  {
+    "question": "What type of collar on a shirt is considered classic?",
+    "answer": "Kent"
+  },
+  {
+    "question": "What type of footwear became popular in the 1960s?",
+    "answer": "platform boots"
   },
   {
     "question": "What type of footwear can change size?",
@@ -310,6 +430,10 @@
   {
     "question": "What type of footwear is associated with luxury leisure?",
     "answer": "Loafers"
+  },
+  {
+    "question": "What type of footwear is suitable for rock climbing?",
+    "answer": "Climbing shoes"
   },
   {
     "question": "What type of glasses were popular in fashion during the 1960s?",
@@ -348,8 +472,16 @@
     "answer": "Balenciaga"
   },
   {
+    "question": "Which actress is known for her outfits at the Met Gala?",
+    "answer": "Rihanna"
+  },
+  {
     "question": "Which brand created the concert costumes for Beyoncé's 'Formation' tour?",
     "answer": "Balmain"
+  },
+  {
+    "question": "Which brand created the dresses for the movie 'Sex and the City'?",
+    "answer": "Vivienne Westwood"
   },
   {
     "question": "Which brand created the famous red shoes with a bow?",
@@ -360,12 +492,24 @@
     "answer": "Officine Panerai"
   },
   {
+    "question": "Which brand did Audrey Hepburn wear in the movie 'Breakfast at Tiffany's'?",
+    "answer": "Givenchy"
+  },
+  {
+    "question": "Which brand does Bella Hadid prefer?",
+    "answer": "Balenciaga"
+  },
+  {
     "question": "Which brand introduced the trend for premium sneakers?",
     "answer": "Balenciaga"
   },
   {
     "question": "Which brand introduces 'Nude' shoes?",
     "answer": "Christian Louboutin"
+  },
+  {
+    "question": "Which brand is famous for its briefcases and business accessories?",
+    "answer": "Montblanc"
   },
   {
     "question": "Which brand is famous for its fedoras?",
@@ -388,6 +532,10 @@
     "answer": "Stella McCartney"
   },
   {
+    "question": "Which brand is known for its fashion shows, famous performances, and innovations?",
+    "answer": "Alexander McQueen"
+  },
+  {
     "question": "Which brand is known for its iconic striped sweaters?",
     "answer": "Comme des Garçons"
   },
@@ -404,8 +552,16 @@
     "answer": "Oscar de la Renta"
   },
   {
+    "question": "Which brand is renowned for its luxurious leather goods, including belts and wallets?",
+    "answer": "Hermès"
+  },
+  {
     "question": "Which brand often collaborates with artists to create unique collections?",
     "answer": "Louis Vuitton"
+  },
+  {
+    "question": "Which brand organizes Paris Fashion Week?",
+    "answer": "FHCM"
   },
   {
     "question": "Which brand organizes its show in Monte Carlo?",
@@ -420,12 +576,52 @@
     "answer": "Carhartt"
   },
   {
+    "question": "Which brand produces clothing with patriotic motifs?",
+    "answer": "Patriotic"
+  },
+  {
+    "question": "Which brand produces the legendary Baracuta jacket models?",
+    "answer": "Baracuta"
+  },
+  {
+    "question": "Which brand released the first deodorant?",
+    "answer": "Mum"
+  },
+  {
+    "question": "Which brand released the first heart-shaped glasses?",
+    "answer": "Lolita"
+  },
+  {
+    "question": "Which brand specializes in loafers?",
+    "answer": "Gucci"
+  },
+  {
     "question": "Which brand was the first to introduce the grunge style?",
     "answer": "Comme des Garçons"
   },
   {
+    "question": "Which brand was the first to use eco-leather?",
+    "answer": "Stella McCartney"
+  },
+  {
+    "question": "Which brand's watches are considered luxury?",
+    "answer": "Rolex"
+  },
+  {
+    "question": "Which clothing manufacturing method supports sustainable fashion?",
+    "answer": "Slow fashion"
+  },
+  {
+    "question": "Which company sponsored the Met Gala in 2022?",
+    "answer": "Gucci"
+  },
+  {
     "question": "Which company uses mushrooms to create materials?",
     "answer": "MycoWorks"
+  },
+  {
+    "question": "Which company was the first to start producing 3D-printed clothing?",
+    "answer": "Adidas"
   },
   {
     "question": "Which decade popularized vinyl fabrics in fashion?",
@@ -434,6 +630,18 @@
   {
     "question": "Which design practice minimizes waste?",
     "answer": "Zero waste"
+  },
+  {
+    "question": "Which designer became famous for the debut collection 'Stairway to Heaven'?",
+    "answer": "Giorgio Armani"
+  },
+  {
+    "question": "Which designer collection included suits made from recycled plastic?",
+    "answer": "Eco-collection"
+  },
+  {
+    "question": "Which designer created dresses from metal and plastic?",
+    "answer": "Paco Rabanne"
   },
   {
     "question": "Which designer created the famous non-logo T-shirts?",
@@ -456,8 +664,16 @@
     "answer": "Yohji Yamamoto"
   },
   {
+    "question": "Which designer introduced elastic fabrics into Haute Couture?",
+    "answer": "Azzedine Alaïa"
+  },
+  {
     "question": "Which designer is known for collaborations with famous musicians?",
     "answer": "Rick Owens"
+  },
+  {
+    "question": "Which designer is known for his innovations in men's fashion?",
+    "answer": "Thom Browne"
   },
   {
     "question": "Which designer is known for their avant-garde approaches in fashion?",
@@ -468,6 +684,10 @@
     "answer": "Elie Saab"
   },
   {
+    "question": "Which designer is known for their unusual experimental forms in clothing?",
+    "answer": "Rei Kawakubo"
+  },
+  {
     "question": "Which designer most frequently dressed Lady Gaga?",
     "answer": "Alexander McQueen"
   },
@@ -476,12 +696,20 @@
     "answer": "Jean-Paul Gaultier"
   },
   {
+    "question": "Which designer was the first to use plexiglass in shoes?",
+    "answer": "Salvatore Ferragamo"
+  },
+  {
     "question": "Which device creates digital objects?",
     "answer": "3D printer"
   },
   {
     "question": "Which dress did Blake Lively choose for the Met Gala 2018?",
     "answer": "Versace"
+  },
+  {
+    "question": "Which dress style accentuates the figure?",
+    "answer": "empire"
   },
   {
     "question": "Which fabric is rarely used in high fashion?",
@@ -536,12 +764,20 @@
     "answer": "Gorpcore"
   },
   {
+    "question": "Which gemstone is nicknamed 'the tear of the gods'?",
+    "answer": "opal"
+  },
+  {
     "question": "Which gemstone is often set in gold?",
     "answer": "Ruby"
   },
   {
     "question": "Which gemstone is often used to adorn high-end watches?",
     "answer": "diamond"
+  },
+  {
+    "question": "Which of the following is biodegradable?",
+    "answer": "Hemp"
   },
   {
     "question": "Which of the following trends is an eco-trend?",
@@ -560,8 +796,16 @@
     "answer": "Hourglass"
   },
   {
+    "question": "Which stone is considered a symbol of wisdom?",
+    "answer": "Amethyst"
+  },
+  {
     "question": "Which street fashion item is popular among artists?",
     "answer": "Beret"
+  },
+  {
+    "question": "Which street fashion style is associated with radical political movements and self-expression?",
+    "answer": "Punk"
   },
   {
     "question": "Which style came back into fashion in spring 2023?",
@@ -584,6 +828,10 @@
     "answer": "Clogs"
   },
   {
+    "question": "Which type of footwear is characterized by an open toe and heel?",
+    "answer": "Mules"
+  },
+  {
     "question": "Which type of production is less harmful to nature?",
     "answer": "Handmade"
   },
@@ -596,12 +844,24 @@
     "answer": "Sienna Miller"
   },
   {
+    "question": "Who created the brand Kenzo?",
+    "answer": "Kenzo Takada"
+  },
+  {
     "question": "Who created the brand L.A.M.B.?",
     "answer": "Gwen Stefani"
   },
   {
+    "question": "Who designed the costumes for the movie 'The Fifth Element'?",
+    "answer": "Jean-Paul Gaultier"
+  },
+  {
     "question": "Who first popularized the bomber jacket?",
     "answer": "U.S. Air Force"
+  },
+  {
+    "question": "Who founded the CFDA foundation?",
+    "answer": "Eleanor Lambert"
   },
   {
     "question": "Who founded the fashion house Hermès?",
@@ -620,6 +880,14 @@
     "answer": "Vivienne Westwood"
   },
   {
+    "question": "Who introduced the unisex style in fashion?",
+    "answer": "André Courrèges"
+  },
+  {
+    "question": "Who is known for theatrical shows?",
+    "answer": "Jean-Paul Gaultier"
+  },
+  {
     "question": "Who is known for using architecture in fashion?",
     "answer": "Iris van Herpen"
   },
@@ -630,6 +898,10 @@
   {
     "question": "Who is the creative director of Dior?",
     "answer": "Maria Grazia Chiuri"
+  },
+  {
+    "question": "Who is the designer known for their avant-garde work?",
+    "answer": "Rei Kawakubo"
   },
   {
     "question": "Who is the designer of the brand 'JW Anderson'?",
@@ -656,8 +928,20 @@
     "answer": "Mary Quant"
   },
   {
+    "question": "Who was at the origins of the popularity of the fashion house 'Valentino'?",
+    "answer": "Valentino Garavani"
+  },
+  {
+    "question": "Who was named Designer of the Year at the British Fashion Awards 2018?",
+    "answer": "Kim Jones"
+  },
+  {
     "question": "Who was the artistic director of Dior in 1989?",
     "answer": "Gianfranco Ferré"
+  },
+  {
+    "question": "Who was the creative director of Chanel from 1983 to 2019?",
+    "answer": "Karl Lagerfeld"
   },
   {
     "question": "Who was the designer of Björk's famous swan dress?",

@@ -11,6 +11,7 @@ files_to_merge = [
     "animals.json",
     "auto.json",
     "bloggers.json",
+    "cooking.json",
     "economy.json",
     "fashion.json",
     "fishing.json",

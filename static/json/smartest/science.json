@@ -138,6 +138,10 @@
     "answer": "Theory of relativity"
   },
   {
+    "question": "What are amphoteric oxides?",
+    "answer": "Oxides with two properties"
+  },
+  {
     "question": "What are autosomes?",
     "answer": "Non-sex chromosomes"
   },
@@ -202,12 +206,20 @@
     "answer": "Epiphytes"
   },
   {
+    "question": "What are ribosomes?",
+    "answer": "Organelles"
+  },
+  {
     "question": "What are robot vacuums?",
     "answer": "Appliances"
   },
   {
     "question": "What are the inert forms of bacteria called?",
     "answer": "Endospores"
+  },
+  {
+    "question": "What are the long tails of comets called?",
+    "answer": "Ion tails"
   },
   {
     "question": "What are the main methods of earthquake warning?",
@@ -254,6 +266,10 @@
     "answer": "Antagonists"
   },
   {
+    "question": "What causes miosis?",
+    "answer": "Light"
+  },
+  {
     "question": "What causes the change in pressure with altitude?",
     "answer": "Temperature gradient"
   },
@@ -266,6 +282,10 @@
     "answer": "energy state"
   },
   {
+    "question": "What characterizes a chemical reaction?",
+    "answer": "Change"
+  },
+  {
     "question": "What chemicals transmit nerve impulses?",
     "answer": "neurotransmitters"
   },
@@ -276,6 +296,10 @@
   {
     "question": "What contributes to the protection of nature?",
     "answer": "Reclamation"
+  },
+  {
+    "question": "What determines the amount of solar energy reaching the Earth?",
+    "answer": "Albedo"
   },
   {
     "question": "What determines the structure of a protein?",
@@ -322,6 +346,10 @@
     "answer": "Polymerase Chain Reaction"
   },
   {
+    "question": "What does 'DNA' stand for?",
+    "answer": "Deoxyribonucleic acid"
+  },
+  {
     "question": "What does Hooke's Law describe?",
     "answer": "Deformation of bodies"
   },
@@ -366,6 +394,10 @@
     "answer": "Glands of internal secretion"
   },
   {
+    "question": "What does falsification involve?",
+    "answer": "Refutation of a hypothesis"
+  },
+  {
     "question": "What does geomorphology study?",
     "answer": "Landforms"
   },
@@ -376,6 +408,10 @@
   {
     "question": "What does hydrolysis lead to?",
     "answer": "Breakdown of molecules"
+  },
+  {
+    "question": "What does logic deal with in science?",
+    "answer": "analyzing arguments"
   },
   {
     "question": "What does micropaleontology study?",
@@ -438,12 +474,20 @@
     "answer": "Community of organisms"
   },
   {
+    "question": "What does the theory of inflation include?",
+    "answer": "Rapid expansion of the Universe"
+  },
+  {
     "question": "What does the wave function describe in quantum mechanics?",
     "answer": "Probability of finding"
   },
   {
     "question": "What element is the primary source of energy in stars?",
     "answer": "Hydrogen"
+  },
+  {
+    "question": "What elements are stars made of?",
+    "answer": "Hydrogen and helium"
   },
   {
     "question": "What factor affects the humidity level?",
@@ -470,6 +514,10 @@
     "answer": "Anaphylaxis"
   },
   {
+    "question": "What happens during depolarization?",
+    "answer": "Change in potential"
+  },
+  {
     "question": "What happens when a quantum system is measured?",
     "answer": "Collapse of the wave function"
   },
@@ -492,6 +540,10 @@
   {
     "question": "What is DNS?",
     "answer": "Domain Name System"
+  },
+  {
+    "question": "What is Popper's criterion?",
+    "answer": "Falsifiability"
   },
   {
     "question": "What is SLAM used for?",
@@ -544,6 +596,10 @@
   {
     "question": "What is a redox reaction?",
     "answer": "A process in which the oxidation states of atoms change"
+  },
+  {
+    "question": "What is a set of points called?",
+    "answer": "Line"
   },
   {
     "question": "What is a systematic error in an experiment called?",
@@ -642,6 +698,10 @@
     "answer": "Oxides"
   },
   {
+    "question": "What is formed during the hydrolysis of an ester?",
+    "answer": "Alcohol and acid"
+  },
+  {
     "question": "What is formed during the oxidation of ethanol?",
     "answer": "Acetic acid"
   },
@@ -678,6 +738,10 @@
     "answer": "Separation of magma"
   },
   {
+    "question": "What is mateism?",
+    "answer": "Artificial seismic events"
+  },
+  {
     "question": "What is measured in anthropometry?",
     "answer": "Human body measurements"
   },
@@ -702,12 +766,24 @@
     "answer": "Destruction of superposition"
   },
   {
+    "question": "What is quartzite?",
+    "answer": "Metamorphic rock"
+  },
+  {
     "question": "What is referred to as the process of 'deposition' in meteorology?",
     "answer": "Transition of gas to liquid"
   },
   {
     "question": "What is seismic exploration?",
     "answer": "Searching for oil fields"
+  },
+  {
+    "question": "What is spin?",
+    "answer": "Intrinsic angular momentum"
+  },
+  {
+    "question": "What is superposition?",
+    "answer": "Combination of states"
   },
   {
     "question": "What is the accumulation of toxins in the food chain called?",
@@ -736,6 +812,10 @@
   {
     "question": "What is the building block of proteins?",
     "answer": "Amino acids"
+  },
+  {
+    "question": "What is the change in the number or structure of chromosomes called?",
+    "answer": "Aneuploidy"
   },
   {
     "question": "What is the complexity level of quantum dots?",
@@ -770,6 +850,10 @@
     "answer": "Flowmeter"
   },
   {
+    "question": "What is the device called for studying the microstructure of materials?",
+    "answer": "Microscope"
+  },
+  {
     "question": "What is the device used for DNA analysis called?",
     "answer": "Genetic analyzer"
   },
@@ -784,6 +868,10 @@
   {
     "question": "What is the effect called that occurs due to gravity?",
     "answer": "Gravitational lensing"
+  },
+  {
+    "question": "What is the essence of critical rationalism?",
+    "answer": "Testing theories"
   },
   {
     "question": "What is the examination of the stomach using a camera called?",
@@ -816,6 +904,10 @@
   {
     "question": "What is the geological activity of oceanic plates called?",
     "answer": "Spreading"
+  },
+  {
+    "question": "What is the gestation period of a sloth?",
+    "answer": "6 months"
   },
   {
     "question": "What is the gravitational phenomenon in the Universe called?",
@@ -934,6 +1026,10 @@
     "answer": "SLAM"
   },
   {
+    "question": "What is the most popular programming language?",
+    "answer": "JavaScript"
+  },
+  {
     "question": "What is the name of a form of sustainable agriculture?",
     "answer": "Agroecofarm"
   },
@@ -1014,6 +1110,10 @@
     "answer": "Gram method"
   },
   {
+    "question": "What is the name of the nature protection system?",
+    "answer": "Conservation"
+  },
+  {
     "question": "What is the name of the oldest geological era?",
     "answer": "Archean"
   },
@@ -1024,6 +1124,10 @@
   {
     "question": "What is the name of the tectonic fault in California?",
     "answer": "San Andreas"
+  },
+  {
+    "question": "What is the name of the theory that describes the interaction of quarks and gluons?",
+    "answer": "Quantum Chromodynamics"
   },
   {
     "question": "What is the name of the underground location where an earthquake begins?",
@@ -1061,12 +1165,20 @@
     "answer": "Meristem"
   },
   {
+    "question": "What is the point called that is farthest from Earth in a satellite's orbit?",
+    "answer": "Apogee"
+  },
+  {
     "question": "What is the procedure called for removing part of an organ?",
     "answer": "Resection"
   },
   {
     "question": "What is the process of breaking down a rock called?",
     "answer": "Weathering"
+  },
+  {
+    "question": "What is the process of breaking down organic matter into methane called?",
+    "answer": "Methanogenesis"
   },
   {
     "question": "What is the process of breaking down rocks called?",
@@ -1129,6 +1241,10 @@
     "answer": "Environmental cleanup"
   },
   {
+    "question": "What is the purpose of verification?",
+    "answer": "checking the truth"
+  },
+  {
     "question": "What is the removal of a muscle called?",
     "answer": "Myectomy"
   },
@@ -1143,6 +1259,10 @@
   {
     "question": "What is the smallest species of primates?",
     "answer": "Mouse lemur"
+  },
+  {
+    "question": "What is the spontaneous evaporation of particles from a black hole called?",
+    "answer": "Hawking radiation"
   },
   {
     "question": "What is the study of microorganisms on the skin surface called?",
@@ -1208,6 +1328,10 @@
     "answer": "Early warning system"
   },
   {
+    "question": "What is used for memory management in the C++ programming language?",
+    "answer": "pointers"
+  },
+  {
     "question": "What is used to control pests in agriculture?",
     "answer": "Biopesticides"
   },
@@ -1254,6 +1378,10 @@
   {
     "question": "What method allows obtaining alkenes?",
     "answer": "Dehydration"
+  },
+  {
+    "question": "What method do cosmologists use to determine the age of the Universe?",
+    "answer": "Hubble's Law"
   },
   {
     "question": "What method is used for cleaning polluted water bodies?",
@@ -1356,6 +1484,10 @@
     "answer": "Consolidation"
   },
   {
+    "question": "What process is important for cross-fertilization?",
+    "answer": "Meiosis"
+  },
+  {
     "question": "What process is necessary for the formation of oil?",
     "answer": "Decomposition of organic matter"
   },
@@ -1452,8 +1584,16 @@
     "answer": "Sugar"
   },
   {
+    "question": "What substance is used for etching glass?",
+    "answer": "Hydrofluoric acid"
+  },
+  {
     "question": "What substances are derived from petroleum?",
     "answer": "Hydrocarbons"
+  },
+  {
+    "question": "What systems track weather changes?",
+    "answer": "Weather satellites"
   },
   {
     "question": "What technique allows the manipulation of atoms to create new materials?",
@@ -1466,6 +1606,10 @@
   {
     "question": "What technique is used to create nanoscale devices?",
     "answer": "Electron beam lithography"
+  },
+  {
+    "question": "What technology allows for gene editing in living organisms?",
+    "answer": "CRISPR"
   },
   {
     "question": "What technology allows genome sequencing?",
@@ -1552,6 +1696,10 @@
     "answer": "In sedimentary rocks"
   },
   {
+    "question": "Where are serotonin receptors located?",
+    "answer": "Throughout the body"
+  },
+  {
     "question": "Where do the strongest hurricanes occur?",
     "answer": "The Caribbean"
   },
@@ -1580,6 +1728,10 @@
     "answer": "In a tobacco plant"
   },
   {
+    "question": "Where were the oldest microfossils found?",
+    "answer": "Greenland"
+  },
+  {
     "question": "Which algorithm is used to find the shortest path?",
     "answer": "Dijkstra's"
   },
@@ -1594,6 +1746,10 @@
   {
     "question": "Which animal jumps the longest distances relative to its size?",
     "answer": "Flea"
+  },
+  {
+    "question": "Which animal suffers the most from melting ice?",
+    "answer": "Polar bear"
   },
   {
     "question": "Which animal was the first to conquer the air?",
@@ -1625,6 +1781,10 @@
   {
     "question": "Which brain cell is responsible for immune defense?",
     "answer": "Microglia"
+  },
+  {
+    "question": "Which brain structure controls the endocrine system?",
+    "answer": "Hypothalamus"
   },
   {
     "question": "Which cells contain chloroplasts?"
@@ -1682,6 +1842,10 @@
     "answer": "Coelacanths"
   },
   {
+    "question": "Which description depends on numerical data?",
+    "answer": "Quantitative"
+  },
+  {
     "question": "Which discovery is associated with John Keeble?",
     "answer": "Carbon monoxide"
   },
@@ -1698,8 +1862,20 @@
     "answer": "Uranium"
   },
   {
+    "question": "Which element exists in a telephone network?",
+    "answer": "Switch"
+  },
+  {
     "question": "Which element is deposited on materials using the chemical vapor deposition technique?",
     "answer": "Silicon"
+  },
+  {
+    "question": "Which element is known as a corrosion-resistant metal?",
+    "answer": "Titanium"
+  },
+  {
+    "question": "Which epoch began 2.6 million years ago?",
+    "answer": "Pleistocene"
   },
   {
     "question": "Which equation describes the interaction of iron with oxygen?",
@@ -1716,6 +1892,10 @@
   {
     "question": "Which factor does not affect plant growth?",
     "answer": "Leaf color"
+  },
+  {
+    "question": "Which famous fossil is an ancestor of birds?",
+    "answer": "Archaeopteryx"
   },
   {
     "question": "Which field of engineering develops autonomous machines?",
@@ -1754,8 +1934,24 @@
     "answer": "Carbonyl group"
   },
   {
+    "question": "Which group of plants is characterized by the presence of flowers and fruits?",
+    "answer": "Angiosperms"
+  },
+  {
+    "question": "Which insect can move backwards?",
+    "answer": "Cockroach"
+  },
+  {
     "question": "Which instrument makes an electric discharge visible?",
     "answer": "Oscilloscope"
+  },
+  {
+    "question": "Which law describes the motion of planets?",
+    "answer": "Kepler's Law"
+  },
+  {
+    "question": "Which layers of the atmosphere are located above the troposphere?",
+    "answer": "Stratosphere"
   },
   {
     "question": "Which method allows determining the depth of an earthquake's focus?",
@@ -1796,6 +1992,10 @@
   {
     "question": "Which molecule forms the basis of the biochemistry of life?",
     "answer": "DNA"
+  },
+  {
+    "question": "Which molecule is important for fat transport?",
+    "answer": "Lipoprotein"
   },
   {
     "question": "Which moon of Jupiter is the largest?",
@@ -1850,6 +2050,10 @@
     "answer": "Psychrophiles"
   },
   {
+    "question": "Which part of the CPU is responsible for performing arithmetic operations?",
+    "answer": "ALU"
+  },
+  {
     "question": "Which part of the brain controls basic life functions?",
     "answer": "Brainstem"
   },
@@ -1894,6 +2098,10 @@
     "answer": "Graviton"
   },
   {
+    "question": "Which physicist discovered the concept of the electromagnetic field?",
+    "answer": "Maxwell"
+  },
+  {
     "question": "Which planet has the greatest orbital inclination?",
     "answer": "Pluto"
   },
@@ -1904,6 +2112,10 @@
   {
     "question": "Which plant is often used in genetic engineering?",
     "answer": "Tobacco"
+  },
+  {
+    "question": "Which plant organ is primarily responsible for further growth?",
+    "answer": "Bud"
   },
   {
     "question": "Which process leads to an increase in genetic diversity within a population?",
@@ -1920,6 +2132,10 @@
   {
     "question": "Which protocol do autonomous robots most commonly follow?",
     "answer": "ROS"
+  },
+  {
+    "question": "Which reaction detects the presence of antibodies?",
+    "answer": "Serological"
   },
   {
     "question": "Which reptile is found only in Australia?",
@@ -1954,6 +2170,10 @@
     "answer": "Chemistry"
   },
   {
+    "question": "Which science does the method of mathematical modeling belong to?",
+    "answer": "Cybernetics"
+  },
+  {
     "question": "Which science studies ancient flora?",
     "answer": "Palynology"
   },
@@ -1978,6 +2198,10 @@
     "answer": "Inland Taipan"
   },
   {
+    "question": "Which stage of cell division leads to a reduction in the number of chromosomes?",
+    "answer": "Meiosis"
+  },
+  {
     "question": "Which structure provides the transport of nutrients within the cell?",
     "answer": "Endoplasmic reticulum"
   },
@@ -1992,6 +2216,10 @@
   {
     "question": "Which substance crosses the plasma membrane?",
     "answer": "Oxygen"
+  },
+  {
+    "question": "Which substance plays a key role in the transmission of pain signals?",
+    "answer": "Substance P"
   },
   {
     "question": "Which substitution in a DNA molecule causes alloplasia?",
@@ -2034,8 +2262,16 @@
     "answer": "Stratospheric"
   },
   {
+    "question": "Who developed the concept of 'normal science'?",
+    "answer": "Thomas Kuhn"
+  },
+  {
     "question": "Who developed the method of falsification?",
     "answer": "Karl Popper"
+  },
+  {
+    "question": "Who developed the system of animal classification?",
+    "answer": "Carl Linnaeus"
   },
   {
     "question": "Who developed the theory of panspermia?"
@@ -2165,12 +2401,24 @@
     "answer": "Jean-Baptiste Lamarck"
   },
   {
+    "question": "Who proposed the model of the inflationary universe?",
+    "answer": "Alan Guth"
+  },
+  {
     "question": "Who proposed the term 'geosyncline'?",
     "answer": "James Hall"
   },
   {
+    "question": "Who proposed the term 'nanotechnology'?",
+    "answer": "Norio Taniguchi"
+  },
+  {
     "question": "Who treats mental disorders?",
     "answer": "Psychiatrist"
+  },
+  {
+    "question": "Who was the first to describe the ichthyosaur?",
+    "answer": "Mary Anning"
   },
   {
     "question": "Who was the first to measure the speed of light?",
