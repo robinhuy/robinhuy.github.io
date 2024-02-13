@@ -1,15 +1,43 @@
 [
   {
+    "question": "How many games are there in the main Resident Evil series?",
+    "answer": "8"
+  },
+  {
+    "question": "How many levels are there in Candy Crush Saga?",
+    "answer": "10000+ levels"
+  },
+  {
     "question": "In what year was the original Warcraft game released?",
     "answer": "1994"
+  },
+  {
+    "question": "In what year was the original version of the game Doom released?",
+    "answer": "1993"
+  },
+  {
+    "question": "In which board game do players try to build the most powerful civilization?",
+    "answer": "Through the Ages"
+  },
+  {
+    "question": "In which game are there elementals?",
+    "answer": "Divinity: Original Sin"
   },
   {
     "question": "In which game can you become the captain of a spaceship?",
     "answer": "FTL: Faster Than Light"
   },
   {
+    "question": "In which game do you solve puzzles in a world of isometric projections?",
+    "answer": "Fez"
+  },
+  {
     "question": "In which game is the character Jesse Faden featured?",
     "answer": "Control"
+  },
+  {
+    "question": "What creature helps in the game Monument Valley 2?",
+    "answer": "Crow"
   },
   {
     "question": "What engine was used to develop the game Grand Theft Auto V?",
@@ -20,16 +48,72 @@
     "answer": "motion capture"
   },
   {
+    "question": "What is the genre of the game Dark Souls?",
+    "answer": "Role-playing"
+  },
+  {
+    "question": "What is the homeland of the Khuzaits in Mount & Blade?",
+    "answer": "Khuzait"
+  },
+  {
+    "question": "What is the largest esports organization?",
+    "answer": "ESL"
+  },
+  {
+    "question": "What is the main tournament held for the game StarCraft II?",
+    "answer": "WCS"
+  },
+  {
+    "question": "What is the most prestigious Hearthstone tournament?",
+    "answer": "World Championship"
+  },
+  {
+    "question": "What is the name of a major gaming event?",
+    "answer": "Tournament"
+  },
+  {
     "question": "What is the name of the Chinese logic game consisting of wooden or plastic sticks that need to be woven in the correct order?",
     "answer": "Mikado"
+  },
+  {
+    "question": "What is the name of the esports player known as 'F0rest'?",
+    "answer": "Patrik Lindberg"
+  },
+  {
+    "question": "What is the name of the famous puzzle creator?",
+    "answer": "Martin Gardner"
+  },
+  {
+    "question": "What is the name of the first classic arcade game?",
+    "answer": "Space Invaders"
+  },
+  {
+    "question": "What is the name of the hunting simulator?",
+    "answer": "theHunter"
   },
   {
     "question": "What is the name of the main character in the 'Resident Evil' game series?",
     "answer": "Leon Kennedy"
   },
   {
+    "question": "What is the name of the main character in the game Sekiro: Shadows Die Twice?",
+    "answer": "Wolf"
+  },
+  {
+    "question": "What is the name of the open-world game by Ubisoft released in 2020?",
+    "answer": "Assassin's Creed Valhalla"
+  },
+  {
+    "question": "What is the name of the post-apocalyptic role-playing game developed by InXile Entertainment?",
+    "answer": "Wasteland 3"
+  },
+  {
     "question": "What is the name of the space battle simulation game?",
     "answer": "EVE Online"
+  },
+  {
+    "question": "What is the ultimate goal set for players in the game 'No Man's Sky'?",
+    "answer": "Center of the galaxy"
   },
   {
     "question": "What puzzles use mathematical operations?",
@@ -40,12 +124,36 @@
     "answer": "CRL"
   },
   {
+    "question": "What type of cards are used to create combinations in Yu-Gi-Oh!?",
+    "answer": "Synchro"
+  },
+  {
+    "question": "Which AR game allows you to draw in the real world?",
+    "answer": "Just a Line"
+  },
+  {
     "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
     "answer": "Vintage"
   },
   {
+    "question": "Which StarCraft II tournament is considered the most prestigious?",
+    "answer": "WCS Global Finals"
+  },
+  {
+    "question": "Which VR game allows you to command a virtual fleet?",
+    "answer": "Star Trek: Bridge Crew"
+  },
+  {
+    "question": "Which VR game allows you to control the movements of a pirate ship?",
+    "answer": "Sea of Pirates"
+  },
+  {
     "question": "Which VR game is associated with programming robots?",
     "answer": "Human Resource Machine"
+  },
+  {
+    "question": "Which company owns Oculus?",
+    "answer": "Facebook"
   },
   {
     "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -56,16 +164,48 @@
     "answer": "Total War"
   },
   {
+    "question": "Which game includes cards with the type 'Ice Lander'?",
+    "answer": "Flesh and Blood"
+  },
+  {
     "question": "Which game introduced the health pack system and health regeneration?",
     "answer": "Wolfenstein 3D"
+  },
+  {
+    "question": "Which game is known for its release in 2020?",
+    "answer": "Cyberpunk 2077"
+  },
+  {
+    "question": "Which game series is known for its difficulty and rolling mechanics?",
+    "answer": "Dark Souls"
   },
   {
     "question": "Which game takes place in a world of flights and skies?",
     "answer": "Sky: Children of the Light"
   },
   {
+    "question": "Which game was the first to introduce an achievement system?",
+    "answer": "Halo 3"
+  },
+  {
     "question": "Which indie game is a mix of strategy and puzzles?",
     "answer": "Papers, Please"
+  },
+  {
+    "question": "Which puzzle can be solved by moving rings?",
+    "answer": "Tower of Hanoi"
+  },
+  {
+    "question": "Which studio developed the game The Last Guardian?",
+    "answer": "Team Ico"
+  },
+  {
+    "question": "Which virtual reality game allows players to explore dungeons?",
+    "answer": "The Mage's Tale"
+  },
+  {
+    "question": "Who is the main antagonist in the Half-Life game series?",
+    "answer": "Nihilanth"
   },
   {
     "question": "Who is the main enemy in the game Bloodborne?",
@@ -74,6 +214,10 @@
   {
     "question": "Who is the main protagonist of the Assassin's Creed game series?",
     "answer": "Desmond Miles"
+  },
+  {
+    "question": "Who was the commentator at The Overwatch League tournament?",
+    "answer": "MonteCristo"
   },
   {
     "question": "Who won the 2023 World Chess Championship?",
