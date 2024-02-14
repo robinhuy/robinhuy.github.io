@@ -2825,6 +2825,10 @@
         "answer": "Boiling and baking"
     },
     {
+        "question": "How many layers are there usually in a standard cake?",
+        "answer": "3-4"
+    },
+    {
         "question": "How many servings of fruit are recommended to eat per day?",
         "answer": "5 servings"
     },
@@ -2873,6 +2877,10 @@
         "answer": "Khadji"
     },
     {
+        "question": "What dish is prepared for the Loy Krathong festival in Thailand?",
+        "answer": "Sticky rice"
+    },
+    {
         "question": "What does 'maderization' do to wine?",
         "answer": "Adds sweetness"
     },
@@ -2917,6 +2925,10 @@
         "answer": "Chiriuchu"
     },
     {
+        "question": "What is added to canned foods to extend their shelf life?",
+        "answer": "Preservative"
+    },
+    {
         "question": "What is added to canned tomatoes for a spicy taste?",
         "answer": "Chili"
     },
@@ -2945,8 +2957,20 @@
         "answer": "Blanching"
     },
     {
+        "question": "What is the dish made from raw fish called?",
+        "answer": "Tartare"
+    },
+    {
+        "question": "What is the main ingredient in Hungarian pörkölt?",
+        "answer": "Beef"
+    },
+    {
         "question": "What is the method of freezing using very low temperatures called?",
         "answer": "Cryogenic freezing"
+    },
+    {
+        "question": "What is the method of preparing egg white desserts by adding hot syrup to the egg whites called?",
+        "answer": "Italian meringue"
     },
     {
         "question": "What is the name of the Canadian alcoholic beverage made from grains?",
@@ -3017,6 +3041,10 @@
         "answer": "Barbecue"
     },
     {
+        "question": "What is the name of the popular dessert created by Ferran Adrià?",
+        "answer": "Raspberry Foam"
+    },
+    {
         "question": "What is the name of the rice dessert popular in India?",
         "answer": "Kheer"
     },
@@ -3031,6 +3059,10 @@
     {
         "question": "What is the process of adding cold butter to a hot sauce called?",
         "answer": "Monter au beurre"
+    },
+    {
+        "question": "What is the process of breaking dough into pieces during baking called?",
+        "answer": "Crumbing"
     },
     {
         "question": "What is the process of cooking meat in a pan without oil called?",
@@ -3075,6 +3107,10 @@
     {
         "question": "What national dessert is popular in Syria and contains pistachios?",
         "answer": "Baklava"
+    },
+    {
+        "question": "What national pastry is made in the Czech Republic?",
+        "answer": "Vatrushniky"
     },
     {
         "question": "What popular dish is served at the carnival in Brazil?",
@@ -3123,6 +3159,10 @@
     {
         "question": "What substance is used for flavor extraction in molecular gastronomy?",
         "answer": "CO2"
+    },
+    {
+        "question": "What technique involves the use of mechanical energy to alter the structure of food?",
+        "answer": "Ultrasonic processing"
     },
     {
         "question": "What technique is used for cooking food in a vacuum?",
@@ -3189,8 +3229,16 @@
         "answer": "Bouillabaisse"
     },
     {
+        "question": "Which alcoholic beverage was created by monks?",
+        "answer": "Chartreuse"
+    },
+    {
         "question": "Which ancient people were the first to make sourdough bread?",
         "answer": "Egyptians"
+    },
+    {
+        "question": "Which bean is used for making stews?",
+        "answer": "Lentils"
     },
     {
         "question": "Which berries are commonly used for making kissel?",
@@ -3245,6 +3293,10 @@
         "answer": "Spaghetti"
     },
     {
+        "question": "Which dish was popularized by Auguste Escoffier?",
+        "answer": "Bouillabaisse"
+    },
+    {
         "question": "Which drink was banned in the USA for many years?",
         "answer": "Absinthe"
     },
@@ -3295,6 +3347,14 @@
     {
         "question": "Which spice is the base of the Mexican spice mix?",
         "answer": "Cumin"
+    },
+    {
+        "question": "Which spice is used in Indian cuisine to create aroma in rice dishes?",
+        "answer": "Clove"
+    },
+    {
+        "question": "Which spice is used in Thai cuisine?",
+        "answer": "Lemongrass"
     },
     {
         "question": "Which spice is used to flavor croissants?",
@@ -3705,6 +3765,10 @@
         "answer": "Signet ring"
     },
     {
+        "question": "What is the name of a suit composed of separate pieces?",
+        "answer": "Set"
+    },
+    {
         "question": "What is the name of clothing that displays notifications?",
         "answer": "Interactive clothing"
     },
@@ -3759,6 +3823,10 @@
     {
         "question": "What is the reduction of CO2 emissions associated with?",
         "answer": "Eco-fashion goal"
+    },
+    {
+        "question": "What is the ring called that is worn on a toe?",
+        "answer": "Toe ring"
     },
     {
         "question": "What is the style called that involves wearing multiple layers of clothing?",
@@ -3907,6 +3975,10 @@
     {
         "question": "What type of footwear did the Vikings wear?",
         "answer": "Husos"
+    },
+    {
+        "question": "What type of footwear do rockers prefer?",
+        "answer": "Grinders"
     },
     {
         "question": "What type of footwear is associated with luxury leisure?",
@@ -4081,6 +4153,10 @@
         "answer": "Comme des Garçons"
     },
     {
+        "question": "Which brand was the first to use denim in mass fashion?",
+        "answer": "Levi's"
+    },
+    {
         "question": "Which brand was the first to use eco-leather?",
         "answer": "Stella McCartney"
     },
@@ -4173,6 +4249,10 @@
         "answer": "Alexander McQueen"
     },
     {
+        "question": "Which designer most frequently dressed Madonna?",
+        "answer": "Jean-Paul Gaultier"
+    },
+    {
         "question": "Which designer was the first to introduce the concept of unisex in their collections?",
         "answer": "Jean-Paul Gaultier"
     },
@@ -4237,6 +4317,10 @@
         "answer": "Iris van Herpen"
     },
     {
+        "question": "Which fashion house does Beyoncé often choose?",
+        "answer": "Balmain"
+    },
+    {
         "question": "Which fashion house used augmented reality in their 2018 show?",
         "answer": "Burberry"
     },
@@ -4263,6 +4347,10 @@
     {
         "question": "Which of the following trends is an eco-trend?",
         "answer": "Recycled materials"
+    },
+    {
+        "question": "Which perfume brand does Charlize Theron often choose?",
+        "answer": "Dior"
     },
     {
         "question": "Which sensor is often used to track user activity?",
@@ -4333,6 +4421,10 @@
         "answer": "Gwen Stefani"
     },
     {
+        "question": "Who designed costumes for Michael Jackson?",
+        "answer": "Jean-Paul Gaultier"
+    },
+    {
         "question": "Who designed the costumes for the movie 'The Fifth Element'?",
         "answer": "Jean-Paul Gaultier"
     },
@@ -4389,6 +4481,10 @@
         "answer": "Jonathan Anderson"
     },
     {
+        "question": "Who is the editor-in-chief of Vogue in 2023?",
+        "answer": "Anna Wintour"
+    },
+    {
         "question": "Who is the head of the Givenchy brand in 2023?",
         "answer": "Matthew Williams"
     },
@@ -4431,6 +4527,10 @@
     {
         "question": "Who was the main fashion trendsetter of the 1950s?",
         "answer": "Marlene Dietrich"
+    },
+    {
+        "question": "Why is haute couture expensive?",
+        "answer": "Personalized approach"
     },
     {
         "question": "Year of release of the first smartwatches:",
@@ -5293,16 +5393,44 @@
         "answer": "Harm to the ecosystem"
     },
     {
+        "question": "How many games are there in the main Resident Evil series?",
+        "answer": "8"
+    },
+    {
+        "question": "How many levels are there in Candy Crush Saga?",
+        "answer": "10000+ levels"
+    },
+    {
         "question": "In what year was the original Warcraft game released?",
         "answer": "1994"
+    },
+    {
+        "question": "In what year was the original version of the game Doom released?",
+        "answer": "1993"
+    },
+    {
+        "question": "In which board game do players try to build the most powerful civilization?",
+        "answer": "Through the Ages"
+    },
+    {
+        "question": "In which game are there elementals?",
+        "answer": "Divinity: Original Sin"
     },
     {
         "question": "In which game can you become the captain of a spaceship?",
         "answer": "FTL: Faster Than Light"
     },
     {
+        "question": "In which game do you solve puzzles in a world of isometric projections?",
+        "answer": "Fez"
+    },
+    {
         "question": "In which game is the character Jesse Faden featured?",
         "answer": "Control"
+    },
+    {
+        "question": "What creature helps in the game Monument Valley 2?",
+        "answer": "Crow"
     },
     {
         "question": "What engine was used to develop the game Grand Theft Auto V?",
@@ -5313,16 +5441,72 @@
         "answer": "motion capture"
     },
     {
+        "question": "What is the genre of the game Dark Souls?",
+        "answer": "Role-playing"
+    },
+    {
+        "question": "What is the homeland of the Khuzaits in Mount & Blade?",
+        "answer": "Khuzait"
+    },
+    {
+        "question": "What is the largest esports organization?",
+        "answer": "ESL"
+    },
+    {
+        "question": "What is the main tournament held for the game StarCraft II?",
+        "answer": "WCS"
+    },
+    {
+        "question": "What is the most prestigious Hearthstone tournament?",
+        "answer": "World Championship"
+    },
+    {
+        "question": "What is the name of a major gaming event?",
+        "answer": "Tournament"
+    },
+    {
         "question": "What is the name of the Chinese logic game consisting of wooden or plastic sticks that need to be woven in the correct order?",
         "answer": "Mikado"
+    },
+    {
+        "question": "What is the name of the esports player known as 'F0rest'?",
+        "answer": "Patrik Lindberg"
+    },
+    {
+        "question": "What is the name of the famous puzzle creator?",
+        "answer": "Martin Gardner"
+    },
+    {
+        "question": "What is the name of the first classic arcade game?",
+        "answer": "Space Invaders"
+    },
+    {
+        "question": "What is the name of the hunting simulator?",
+        "answer": "theHunter"
     },
     {
         "question": "What is the name of the main character in the 'Resident Evil' game series?",
         "answer": "Leon Kennedy"
     },
     {
+        "question": "What is the name of the main character in the game Sekiro: Shadows Die Twice?",
+        "answer": "Wolf"
+    },
+    {
+        "question": "What is the name of the open-world game by Ubisoft released in 2020?",
+        "answer": "Assassin's Creed Valhalla"
+    },
+    {
+        "question": "What is the name of the post-apocalyptic role-playing game developed by InXile Entertainment?",
+        "answer": "Wasteland 3"
+    },
+    {
         "question": "What is the name of the space battle simulation game?",
         "answer": "EVE Online"
+    },
+    {
+        "question": "What is the ultimate goal set for players in the game 'No Man's Sky'?",
+        "answer": "Center of the galaxy"
     },
     {
         "question": "What puzzles use mathematical operations?",
@@ -5333,12 +5517,36 @@
         "answer": "CRL"
     },
     {
+        "question": "What type of cards are used to create combinations in Yu-Gi-Oh!?",
+        "answer": "Synchro"
+    },
+    {
+        "question": "Which AR game allows you to draw in the real world?",
+        "answer": "Just a Line"
+    },
+    {
         "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
         "answer": "Vintage"
     },
     {
+        "question": "Which StarCraft II tournament is considered the most prestigious?",
+        "answer": "WCS Global Finals"
+    },
+    {
+        "question": "Which VR game allows you to command a virtual fleet?",
+        "answer": "Star Trek: Bridge Crew"
+    },
+    {
+        "question": "Which VR game allows you to control the movements of a pirate ship?",
+        "answer": "Sea of Pirates"
+    },
+    {
         "question": "Which VR game is associated with programming robots?",
         "answer": "Human Resource Machine"
+    },
+    {
+        "question": "Which company owns Oculus?",
+        "answer": "Facebook"
     },
     {
         "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -5349,16 +5557,48 @@
         "answer": "Total War"
     },
     {
+        "question": "Which game includes cards with the type 'Ice Lander'?",
+        "answer": "Flesh and Blood"
+    },
+    {
         "question": "Which game introduced the health pack system and health regeneration?",
         "answer": "Wolfenstein 3D"
+    },
+    {
+        "question": "Which game is known for its release in 2020?",
+        "answer": "Cyberpunk 2077"
+    },
+    {
+        "question": "Which game series is known for its difficulty and rolling mechanics?",
+        "answer": "Dark Souls"
     },
     {
         "question": "Which game takes place in a world of flights and skies?",
         "answer": "Sky: Children of the Light"
     },
     {
+        "question": "Which game was the first to introduce an achievement system?",
+        "answer": "Halo 3"
+    },
+    {
         "question": "Which indie game is a mix of strategy and puzzles?",
         "answer": "Papers, Please"
+    },
+    {
+        "question": "Which puzzle can be solved by moving rings?",
+        "answer": "Tower of Hanoi"
+    },
+    {
+        "question": "Which studio developed the game The Last Guardian?",
+        "answer": "Team Ico"
+    },
+    {
+        "question": "Which virtual reality game allows players to explore dungeons?",
+        "answer": "The Mage's Tale"
+    },
+    {
+        "question": "Who is the main antagonist in the Half-Life game series?",
+        "answer": "Nihilanth"
     },
     {
         "question": "Who is the main enemy in the game Bloodborne?",
@@ -5367,6 +5607,10 @@
     {
         "question": "Who is the main protagonist of the Assassin's Creed game series?",
         "answer": "Desmond Miles"
+    },
+    {
+        "question": "Who was the commentator at The Overwatch League tournament?",
+        "answer": "MonteCristo"
     },
     {
         "question": "Who won the 2023 World Chess Championship?",
@@ -9316,6 +9560,10 @@
         "answer": "End of the Thirty Years' War"
     },
     {
+        "question": "What was the role of burghers in the Reformation?",
+        "answer": "Support"
+    },
+    {
         "question": "What was the role of the League of Nations?",
         "answer": "Dispute resolution"
     },
@@ -11747,6 +11995,10 @@
         "answer": "Christopher Sholes"
     },
     {
+        "question": "Who was the famous leader of the Huns who threatened the Roman Empire?",
+        "answer": "Attila"
+    },
+    {
         "question": "Who was the famous military leader after Genghis Khan?",
         "answer": "Batu Khan"
     },
@@ -12144,6 +12396,10 @@
         "answer": "hare"
     },
     {
+        "question": "For how long is a hunting license issued?",
+        "answer": "1 year"
+    },
+    {
         "question": "For which hunting method is knowledge of the terrain most important?",
         "answer": "Camera trap"
     },
@@ -12154,6 +12410,10 @@
     {
         "question": "How can a hunter attract birds with sound?",
         "answer": "Call"
+    },
+    {
+        "question": "How can you collect drinking water?",
+        "answer": "Collecting dew"
     },
     {
         "question": "How can you determine the age of a trap by its condition?",
@@ -12188,6 +12448,10 @@
         "answer": "Patrolling"
     },
     {
+        "question": "How is the accuracy of a weapon tested?",
+        "answer": "Shooting at targets"
+    },
+    {
         "question": "How long does jerky last?",
         "answer": "Months"
     },
@@ -12210,6 +12474,10 @@
     {
         "question": "How much does an adult moose weigh?",
         "answer": "500 kg"
+    },
+    {
+        "question": "How should you treat your catch?",
+        "answer": "With respect"
     },
     {
         "question": "How to climb a tall tree?",
@@ -12252,6 +12520,10 @@
         "answer": "Marshy"
     },
     {
+        "question": "In what year was the Winchester company founded?",
+        "answer": "1866"
+    },
+    {
         "question": "In which century did falconry become popular in Europe?",
         "answer": "Middle Ages"
     },
@@ -12266,6 +12538,10 @@
     {
         "question": "In which month is it prohibited to hunt most game species?",
         "answer": "Night sight"
+    },
+    {
+        "question": "In which nature reserve are European bison protected?",
+        "answer": "Bryansky Les"
     },
     {
         "question": "In which region did the first organized hunts occur?",
@@ -12312,6 +12588,10 @@
         "answer": "Hippopotamus"
     },
     {
+        "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
+        "answer": "Sable"
+    },
+    {
         "question": "What are modern sleeping bags for winter hunting filled with?",
         "answer": "Synthetic down"
     },
@@ -12334,6 +12614,10 @@
     {
         "question": "What bait attracts foxes?",
         "answer": "Blood"
+    },
+    {
+        "question": "What behavioral trait of ducks is important for hunters to know?",
+        "answer": "migration"
     },
     {
         "question": "What breed of dog is ideal for bird hunting?",
@@ -12432,8 +12716,16 @@
         "answer": "Camera"
     },
     {
+        "question": "What equipment is important for night hunting?",
+        "answer": "Thermal imager"
+    },
+    {
         "question": "What equipment is necessary for bear hunting?",
         "answer": "Firearm"
+    },
+    {
+        "question": "What equipment is put on the feet of falcons?",
+        "answer": "Jessies"
     },
     {
         "question": "What equipment prevents slipping on ice?",
@@ -12446,6 +12738,10 @@
     {
         "question": "What factor determines the best places for hunting wild boar?",
         "answer": "Availability of food"
+    },
+    {
+        "question": "What factor increases the chances of a successful trap hunt?",
+        "answer": "camouflage"
     },
     {
         "question": "What factor is considered when choosing a hunting location?",
@@ -12588,8 +12884,20 @@
         "answer": "Camouflage"
     },
     {
+        "question": "What is important for night photography?",
+        "answer": "High sensitivity"
+    },
+    {
         "question": "What is important for the stealth of a camera?",
         "answer": "Regulated hunting"
+    },
+    {
+        "question": "What is important to consider when hunting in open spaces?",
+        "answer": "Wind"
+    },
+    {
+        "question": "What is important to consider when hunting in the forest?",
+        "answer": "Knowledge of the area"
     },
     {
         "question": "What is measured in MOA in scopes?",
@@ -12604,8 +12912,16 @@
         "answer": "Survival skills"
     },
     {
+        "question": "What is often used to attract quails?",
+        "answer": "Call"
+    },
+    {
         "question": "What is required for successful shooting?",
         "answer": "Training"
+    },
+    {
+        "question": "What is required to obtain a gun permit?",
+        "answer": "Medical examination"
     },
     {
         "question": "What is the benefit of providing first aid for an injury?",
@@ -12684,6 +13000,10 @@
         "answer": "Duck Hunters"
     },
     {
+        "question": "What is the name of the element that holds the cartridge in a gun?",
+        "answer": "Clip"
+    },
+    {
         "question": "What is the name of the element that holds the cartridge in the magazine?",
         "answer": "Spring-loaded follower"
     },
@@ -12698,6 +13018,10 @@
     {
         "question": "What is the name of the special bag for game?",
         "answer": "Toroka"
+    },
+    {
+        "question": "What is the name of this type of optical sight?",
+        "answer": "Collimator"
     },
     {
         "question": "What is the penalty for hunting rare animal species?",
@@ -12736,6 +13060,10 @@
         "answer": "Orenburgsky"
     },
     {
+        "question": "What is the system of designating hunting grounds called?",
+        "answer": "Zoning"
+    },
+    {
         "question": "What is the term for holding an arrow on the bowstring?",
         "answer": "Uzorchak"
     },
@@ -12766,6 +13094,10 @@
     {
         "question": "What is used to check the tension of a bow?",
         "answer": "Weight"
+    },
+    {
+        "question": "What item helps determine direction?",
+        "answer": "Compass"
     },
     {
         "question": "What item is used to warm the shoulders and arms?",
@@ -12874,6 +13206,10 @@
     {
         "question": "What rule in archery helps ensure accuracy?",
         "answer": "Stability"
+    },
+    {
+        "question": "What rules apply in nature reserves?",
+        "answer": "Everything unnecessary is prohibited"
     },
     {
         "question": "What shooting distance is best suited for covert surveillance?",
@@ -13032,6 +13368,10 @@
         "answer": "Trap"
     },
     {
+        "question": "What type of glasses is needed in bright winter weather?",
+        "answer": "Polarized"
+    },
+    {
         "question": "What type of hunting is considered unethical?",
         "answer": "Trophy hunting"
     },
@@ -13054,6 +13394,10 @@
     {
         "question": "What type of shooting is used to hit flying game?",
         "answer": "Instinctive shooting"
+    },
+    {
+        "question": "What type of transport is sometimes used for hunting small game?",
+        "answer": "Quad bike"
     },
     {
         "question": "What type of trap is called a pillow trap?",
@@ -13132,6 +13476,10 @@
         "answer": "Venatio"
     },
     {
+        "question": "When are geese most active?",
+        "answer": "in spring"
+    },
+    {
         "question": "When did the first hunting dogs appear?",
         "answer": "Neolithic era"
     },
@@ -13142,6 +13490,10 @@
     {
         "question": "When does the autumn partridge hunting season open?",
         "answer": "September"
+    },
+    {
+        "question": "When is boar hunting most effective?",
+        "answer": "In the fall"
     },
     {
         "question": "Where are rare birds most commonly hunted?",
@@ -13208,6 +13560,10 @@
         "answer": "driven hunting"
     },
     {
+        "question": "Which bird is known for its complex courtship dances?",
+        "answer": "Black grouse"
+    },
+    {
         "question": "Which bird is known for its loud call?",
         "answer": "Peacock"
     },
@@ -13234,6 +13590,10 @@
     {
         "question": "Which birds are active at dusk?",
         "answer": "Sandpipers"
+    },
+    {
+        "question": "Which birds are caught with a net?",
+        "answer": "Quails"
     },
     {
         "question": "Which birds migrate over significant distances?",
@@ -13388,6 +13748,10 @@
         "answer": "Collimator"
     },
     {
+        "question": "Which hunting method requires the use of hunting dogs?",
+        "answer": "coursing"
+    },
+    {
         "question": "Which hunting technique requires fast movement?",
         "answer": "Drive hunting"
     },
@@ -13512,6 +13876,10 @@
         "answer": "Wild boar"
     },
     {
+        "question": "Who is responsible for protecting nature reserves?",
+        "answer": "Rangers"
+    },
+    {
         "question": "Who oversees hunting?",
         "answer": "Gamekeeper"
     },
@@ -13526,6 +13894,10 @@
     {
         "question": "Who was the god of hunting in ancient Slavic mythology?",
         "answer": "Pollination"
+    },
+    {
+        "question": "Who was the leading producer of crossbows until the 16th century?",
+        "answer": "Italy"
     },
     {
         "question": "Who were the hunters of the saber-toothed tiger?",
@@ -16674,6 +17046,10 @@
         "answer": "Altamont Free Concert"
     },
     {
+        "question": "At which festival do predominantly Japanese rock bands perform?",
+        "answer": "Fuji Rock Festival"
+    },
+    {
         "question": "Django Reinhardt founded which musical style?",
         "answer": "Gypsy jazz"
     },
@@ -16818,6 +17194,10 @@
         "answer": "1974"
     },
     {
+        "question": "In what year was the Eagles' album 'Hotel California' released?",
+        "answer": "1976"
+    },
+    {
         "question": "In what year was the album '3 Feet High and Rising' released?",
         "answer": "1989"
     },
@@ -16868,6 +17248,10 @@
     {
         "question": "In which city did Ludwig van Beethoven die?",
         "answer": "Vienna"
+    },
+    {
+        "question": "In which city did the cabaret 'Cherry Orchard' first open in 1910?",
+        "answer": "Paris"
     },
     {
         "question": "In which city did the rave genre originate?",
@@ -16930,6 +17314,10 @@
         "answer": "Once"
     },
     {
+        "question": "The song from which animated film won an Oscar in 1990?",
+        "answer": "The Little Mermaid"
+    },
+    {
         "question": "What album did Green Day release in 2020?",
         "answer": "Father of All..."
     },
@@ -16940,6 +17328,10 @@
     {
         "question": "What album did the band Mudhoney release in 1988?",
         "answer": "Superfuzz Bigmuff"
+    },
+    {
+        "question": "What animal is used in the title of the track by 'Ed Rush' and 'Optical'?",
+        "answer": "Worm"
     },
     {
         "question": "What are monastic chants called?",
@@ -16966,8 +17358,16 @@
         "answer": "Hanover"
     },
     {
+        "question": "What country show takes place in Texas?",
+        "answer": "Texas Country Showdown"
+    },
+    {
         "question": "What did Billy Corgan found?",
         "answer": "The Smashing Pumpkins"
+    },
+    {
+        "question": "What does a Jamaican call the musical style that includes elements of reggae?",
+        "answer": "Lovers rock"
     },
     {
         "question": "What does the name of the SXSW festival mean?",
@@ -17006,6 +17406,10 @@
         "answer": "Techno"
     },
     {
+        "question": "What genre of electronic music is referred to as IDM?",
+        "answer": "Intelligent Dance Music"
+    },
+    {
         "question": "What genre of music did Al Jarreau perform?",
         "answer": "Jazz-funk"
     },
@@ -17040,6 +17444,10 @@
     {
         "question": "What genre of music was popularized by Cuban musicians and plays an important role in Latin American culture?",
         "answer": "Salsa"
+    },
+    {
+        "question": "What genre was popular in the London underground in the 80s?",
+        "answer": "Acid house"
     },
     {
         "question": "What important musical work did Guido of Arezzo write?",
@@ -17156,6 +17564,10 @@
     {
         "question": "What is the music style called that features a dominant bass sound?",
         "answer": "Trap"
+    },
+    {
+        "question": "What is the name of A Tribe Called Quest's first album?",
+        "answer": "People’s Instinctive Travels"
     },
     {
         "question": "What is the name of Annie Lennox's debut album?",
@@ -17314,6 +17726,10 @@
         "answer": "Bassoon"
     },
     {
+        "question": "What is the name of the Kings of Leon album that brought them worldwide fame?",
+        "answer": "Only by the Night"
+    },
+    {
         "question": "What is the name of the Latin American dance in 2/4 time?",
         "answer": "Paso Doble"
     },
@@ -17324,6 +17740,10 @@
     {
         "question": "What is the name of the Stevie Wonder album released in 1976?",
         "answer": "Songs in the Key of Life"
+    },
+    {
+        "question": "What is the name of the U2 album released in 2000?",
+        "answer": "All That You Can't Leave Behind"
     },
     {
         "question": "What is the name of the Wu-Tang Clan album?",
@@ -17352,6 +17772,10 @@
     {
         "question": "What is the name of the ballet by Adan?",
         "answer": "Giselle"
+    },
+    {
+        "question": "What is the name of the band's hit?",
+        "answer": "Black Sabbath"
     },
     {
         "question": "What is the name of the building that houses the Country Music Hall of Fame?",
@@ -17514,8 +17938,24 @@
         "answer": "Tuning fork"
     },
     {
+        "question": "What is the name of the very first track recorded on a synthesizer?",
+        "answer": "Switched-On Bach"
+    },
+    {
+        "question": "What is the name of the vocal improvisation technique in jazz?",
+        "answer": "Scat"
+    },
+    {
+        "question": "What is the name of the woman who was the first to win a Grammy for Album of the Year?",
+        "answer": "Judy Garland"
+    },
+    {
         "question": "What is the name of Ólafur Arnalds' album 'Eulogy for Evolution'?",
         "answer": "Eulogy for Evolution"
+    },
+    {
+        "question": "What is the process of modulating sound in dubstep called?",
+        "answer": "LFO modulation"
     },
     {
         "question": "What is the real name of DJ Marshmello?",
@@ -17658,6 +18098,10 @@
         "answer": "Jazzstep"
     },
     {
+        "question": "What style combines elements of funk and reggae?",
+        "answer": "Funk rock"
+    },
+    {
         "question": "What style is influenced by 'Piedmont Blues'?",
         "answer": ""
     },
@@ -17704,6 +18148,10 @@
     {
         "question": "What unique notation system was used in medieval music?",
         "answer": ""
+    },
+    {
+        "question": "What was Jim Morrison from The Doors called?",
+        "answer": "The Lizard King"
     },
     {
         "question": "What was Whitney Houston's first single?",
@@ -17788,6 +18236,10 @@
     {
         "question": "What were the music collections for the church called?",
         "answer": "Hymnals"
+    },
+    {
+        "question": "What work was created by Torsten Nielsen?",
+        "answer": "Lurking Inside"
     },
     {
         "question": "What year is considered the beginning of the Golden Age of Hip-Hop?",
@@ -17886,6 +18338,10 @@
         "answer": "Jumpin' Jack Flash"
     },
     {
+        "question": "Which Tupac album was released in 1996?",
+        "answer": "All Eyez on Me"
+    },
+    {
         "question": "Which album became iconic in the 70s?",
         "answer": "The Dark Side of the Moon"
     },
@@ -17912,6 +18368,10 @@
     {
         "question": "Which album did Norah Jones release in 2002?",
         "answer": "Come Away With Me"
+    },
+    {
+        "question": "Which album did Otis Redding release in 1965?",
+        "answer": "Otis Blue"
     },
     {
         "question": "Which album did Radiohead release in 2007?",
@@ -17974,6 +18434,10 @@
         "answer": "Elvis Costello"
     },
     {
+        "question": "Which artist was the first to win a Grammy for an R&B album?",
+        "answer": "Ray Charles"
+    },
+    {
         "question": "Which artist won the 'Best Country Album' award in 2021?",
         "answer": "Chris Stapleton"
     },
@@ -18026,12 +18490,20 @@
         "answer": ""
     },
     {
+        "question": "Which band released the album 'Surrealistic Pillow'?",
+        "answer": "Jefferson Airplane"
+    },
+    {
         "question": "Which band released the album 'The Satanist'?",
         "answer": "Behemoth"
     },
     {
         "question": "Which band released the album 'Use Your Illusion' in the 90s?",
         "answer": "Guns N' Roses"
+    },
+    {
+        "question": "Which band releases their albums on the Epitaph Records label?",
+        "answer": "NOFX"
     },
     {
         "question": "Which band was founded by Jimmy Page?",
@@ -18070,6 +18542,10 @@
         "answer": "Belo Horizonte"
     },
     {
+        "question": "Which company produces the synthesizer Massive, often used in dubstep?",
+        "answer": "Native Instruments"
+    },
+    {
         "question": "Which composer is known for innovative techniques in music?",
         "answer": "Igor Stravinsky"
     },
@@ -18086,6 +18562,10 @@
         "answer": "Johannes Brahms"
     },
     {
+        "question": "Which composer wrote 'A Sinking City'?",
+        "answer": "Paul Haslinger"
+    },
+    {
         "question": "Which composer wrote 'Dance of the Fairies'?",
         "answer": "Claude Debussy"
     },
@@ -18096,6 +18576,10 @@
     {
         "question": "Which composer wrote the cycle 'Aaron's Songs'?",
         "answer": "Leon Kirchner"
+    },
+    {
+        "question": "Which conductor has won the most Grammy Awards?",
+        "answer": "Georg Solti"
     },
     {
         "question": "Which country is known for creating the pan flute?",
@@ -18144,6 +18628,10 @@
     {
         "question": "Which festival is held in Belgium and is known for its musical performances?",
         "answer": "Rock Werchter"
+    },
+    {
+        "question": "Which festival is held on the island of Lollar?",
+        "answer": "Rock am See"
     },
     {
         "question": "Which festival is known for its anti-war slogans?",
@@ -18210,6 +18698,10 @@
         "answer": ""
     },
     {
+        "question": "Which genre of music uses the technique of phasing?",
+        "answer": "Minimalism"
+    },
+    {
         "question": "Which genre uses elements of jazz and funk?",
         "answer": "Future Funk"
     },
@@ -18268,6 +18760,14 @@
     {
         "question": "Which instrument is often used to tune an orchestra?",
         "answer": "Oboe"
+    },
+    {
+        "question": "Which instrument is played on strings and membranes?",
+        "answer": "Dulcimer"
+    },
+    {
+        "question": "Which instrument is played using wooden sticks?",
+        "answer": "Xylophone"
     },
     {
         "question": "Which instrument is preferred in traditional Indian music?",
@@ -18410,12 +18910,24 @@
         "answer": "Folk"
     },
     {
+        "question": "Which music genre is known for its heavy percussion and fast rhythms?",
+        "answer": "Hardcore"
+    },
+    {
         "question": "Which music genre uses distortion?",
         "answer": ""
     },
     {
         "question": "Which music genre uses elements of post-industrial sound?",
         "answer": ""
+    },
+    {
+        "question": "Which music genre was born in the 90s and became popular in rave culture?",
+        "answer": "trance"
+    },
+    {
+        "question": "Which music video won the 'Best Alternative Video' award in 2019?",
+        "answer": "High Hopes"
     },
     {
         "question": "Which music video won the 'Best Art Direction' award in 2014?",
@@ -18474,6 +18986,10 @@
         "answer": ""
     },
     {
+        "question": "Which musical instrument has strings inside?",
+        "answer": "Piano"
+    },
+    {
         "question": "Which musical instrument is often used in rock music?",
         "answer": "Guitar"
     },
@@ -18514,6 +19030,10 @@
         "answer": "Ian MacKaye"
     },
     {
+        "question": "Which musician was awarded for their contribution to funk?",
+        "answer": "Bootsy Collins"
+    },
+    {
         "question": "Which of the following artists is part of a funk band?",
         "answer": "Bootsy Collins"
     },
@@ -18532,6 +19052,10 @@
     {
         "question": "Which of these bands is not part of the grunge scene?",
         "answer": "Red Hot Chili Peppers"
+    },
+    {
+        "question": "Which performer was at the epicenter of 80s heavy metal?",
+        "answer": "Ozzy Osbourne"
     },
     {
         "question": "Which producer won a Grammy for the album 'Planet Her'?",
@@ -18568,6 +19092,10 @@
     {
         "question": "Which singer popularized funk in the 1970s?",
         "answer": "Tina Turner"
+    },
+    {
+        "question": "Which singer released the album 'In My Mind'?",
+        "answer": "BJ the Chicago Kid"
     },
     {
         "question": "Which singer was the first to receive the Icon Award?",
@@ -18620,6 +19148,10 @@
     {
         "question": "Which song did Lil Nas X perform with Jack Harlow?",
         "answer": "Industry Baby"
+    },
+    {
+        "question": "Which song did Lil Wayne release in 2008?",
+        "answer": "Lollipop"
     },
     {
         "question": "Which song did Nirvana perform on MTV Unplugged in 1993?",
@@ -18906,6 +19438,10 @@
         "answer": "Key & Peele"
     },
     {
+        "question": "Who introduced the staffless linear notation?",
+        "answer": "Guido of Arezzo"
+    },
+    {
         "question": "Who invented the monogram?",
         "answer": "Bach"
     },
@@ -18994,6 +19530,10 @@
         "answer": ""
     },
     {
+        "question": "Who is the founder of the Viennese Classical School?",
+        "answer": "Joseph Haydn"
+    },
+    {
         "question": "Who is the founder of the band 'Tangerine Dream'?",
         "answer": ""
     },
@@ -19078,6 +19618,10 @@
         "answer": "Frankie Valli"
     },
     {
+        "question": "Who popularized the slap technique on the bass guitar in funk?",
+        "answer": "Larry Graham"
+    },
+    {
         "question": "Who produced 'Return of the Jedi'?",
         "answer": "Rick McCallum"
     },
@@ -19112,6 +19656,10 @@
     {
         "question": "Who released the album Polarity in 2020?",
         "answer": "Misanthrop"
+    },
+    {
+        "question": "Who released the song 'Deja Vu' in 2021?",
+        "answer": "Olivia Rodrigo"
     },
     {
         "question": "Who released the song 'I Want You to Want Me' in the 70s?",
@@ -19206,6 +19754,10 @@
         "answer": "Quorthon"
     },
     {
+        "question": "Who was the founder of the band Fugazi?",
+        "answer": "Ian MacKaye"
+    },
+    {
         "question": "Who was the founder of the band Nine Inch Nails?",
         "answer": "Trent Reznor"
     },
@@ -19226,12 +19778,24 @@
         "answer": "Ed Sheeran"
     },
     {
+        "question": "Who was the host of the AMA in 2021?",
+        "answer": "Cardi B"
+    },
+    {
         "question": "Who was the leader of the band Black Flag?",
         "answer": "Greg Ginn"
     },
     {
+        "question": "Who was the leader of the band The Velvet Underground?",
+        "answer": "Lou Reed"
+    },
+    {
         "question": "Who was the producer of Nas' album 'Illmatic'?",
         "answer": ""
+    },
+    {
+        "question": "Who was the vocalist of the band Black Flag?",
+        "answer": "Henry Rollins"
     },
     {
         "question": "Who won 'Top Rock Artist' in 2022?",
@@ -19254,6 +19818,10 @@
         "answer": "The Weeknd"
     },
     {
+        "question": "Who won the 'Best Rock Song' award in 2021?",
+        "answer": "'Monsters'"
+    },
+    {
         "question": "Who won the 'Best Songwriter' award in 2019?",
         "answer": "Taylor Swift"
     },
@@ -19262,12 +19830,20 @@
         "answer": "Simon & Garfunkel"
     },
     {
+        "question": "Who won the BRIT Award for Best International Album in 2017?",
+        "answer": "Beyoncé"
+    },
+    {
         "question": "Who won the BRIT Award for Best International Breakthrough Act in 2015?",
         "answer": "Sam Smith"
     },
     {
         "question": "Who won the Grammy Award for Best Dance/Electronic Album in 2021?",
         "answer": "Kaytranada"
+    },
+    {
+        "question": "Who won the Grammy Award for Best Rock Album in 2020?",
+        "answer": "The Strokes"
     },
     {
         "question": "Who won the Grammy for Album of the Year in 2019?",

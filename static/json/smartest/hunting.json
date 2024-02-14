@@ -4,6 +4,10 @@
     "answer": "hare"
   },
   {
+    "question": "For how long is a hunting license issued?",
+    "answer": "1 year"
+  },
+  {
     "question": "For which hunting method is knowledge of the terrain most important?",
     "answer": "Camera trap"
   },
@@ -14,6 +18,10 @@
   {
     "question": "How can a hunter attract birds with sound?",
     "answer": "Call"
+  },
+  {
+    "question": "How can you collect drinking water?",
+    "answer": "Collecting dew"
   },
   {
     "question": "How can you determine the age of a trap by its condition?",
@@ -48,6 +56,10 @@
     "answer": "Patrolling"
   },
   {
+    "question": "How is the accuracy of a weapon tested?",
+    "answer": "Shooting at targets"
+  },
+  {
     "question": "How long does jerky last?",
     "answer": "Months"
   },
@@ -70,6 +82,10 @@
   {
     "question": "How much does an adult moose weigh?",
     "answer": "500 kg"
+  },
+  {
+    "question": "How should you treat your catch?",
+    "answer": "With respect"
   },
   {
     "question": "How to climb a tall tree?",
@@ -112,6 +128,10 @@
     "answer": "Marshy"
   },
   {
+    "question": "In what year was the Winchester company founded?",
+    "answer": "1866"
+  },
+  {
     "question": "In which century did falconry become popular in Europe?",
     "answer": "Middle Ages"
   },
@@ -126,6 +146,10 @@
   {
     "question": "In which month is it prohibited to hunt most game species?",
     "answer": "Night sight"
+  },
+  {
+    "question": "In which nature reserve are European bison protected?",
+    "answer": "Bryansky Les"
   },
   {
     "question": "In which region did the first organized hunts occur?",
@@ -172,6 +196,10 @@
     "answer": "Hippopotamus"
   },
   {
+    "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
+    "answer": "Sable"
+  },
+  {
     "question": "What are modern sleeping bags for winter hunting filled with?",
     "answer": "Synthetic down"
   },
@@ -194,6 +222,10 @@
   {
     "question": "What bait attracts foxes?",
     "answer": "Blood"
+  },
+  {
+    "question": "What behavioral trait of ducks is important for hunters to know?",
+    "answer": "migration"
   },
   {
     "question": "What breed of dog is ideal for bird hunting?",
@@ -292,8 +324,16 @@
     "answer": "Camera"
   },
   {
+    "question": "What equipment is important for night hunting?",
+    "answer": "Thermal imager"
+  },
+  {
     "question": "What equipment is necessary for bear hunting?",
     "answer": "Firearm"
+  },
+  {
+    "question": "What equipment is put on the feet of falcons?",
+    "answer": "Jessies"
   },
   {
     "question": "What equipment prevents slipping on ice?",
@@ -306,6 +346,10 @@
   {
     "question": "What factor determines the best places for hunting wild boar?",
     "answer": "Availability of food"
+  },
+  {
+    "question": "What factor increases the chances of a successful trap hunt?",
+    "answer": "camouflage"
   },
   {
     "question": "What factor is considered when choosing a hunting location?",
@@ -448,8 +492,20 @@
     "answer": "Camouflage"
   },
   {
+    "question": "What is important for night photography?",
+    "answer": "High sensitivity"
+  },
+  {
     "question": "What is important for the stealth of a camera?",
     "answer": "Regulated hunting"
+  },
+  {
+    "question": "What is important to consider when hunting in open spaces?",
+    "answer": "Wind"
+  },
+  {
+    "question": "What is important to consider when hunting in the forest?",
+    "answer": "Knowledge of the area"
   },
   {
     "question": "What is measured in MOA in scopes?",
@@ -464,8 +520,16 @@
     "answer": "Survival skills"
   },
   {
+    "question": "What is often used to attract quails?",
+    "answer": "Call"
+  },
+  {
     "question": "What is required for successful shooting?",
     "answer": "Training"
+  },
+  {
+    "question": "What is required to obtain a gun permit?",
+    "answer": "Medical examination"
   },
   {
     "question": "What is the benefit of providing first aid for an injury?",
@@ -544,6 +608,10 @@
     "answer": "Duck Hunters"
   },
   {
+    "question": "What is the name of the element that holds the cartridge in a gun?",
+    "answer": "Clip"
+  },
+  {
     "question": "What is the name of the element that holds the cartridge in the magazine?",
     "answer": "Spring-loaded follower"
   },
@@ -558,6 +626,10 @@
   {
     "question": "What is the name of the special bag for game?",
     "answer": "Toroka"
+  },
+  {
+    "question": "What is the name of this type of optical sight?",
+    "answer": "Collimator"
   },
   {
     "question": "What is the penalty for hunting rare animal species?",
@@ -596,6 +668,10 @@
     "answer": "Orenburgsky"
   },
   {
+    "question": "What is the system of designating hunting grounds called?",
+    "answer": "Zoning"
+  },
+  {
     "question": "What is the term for holding an arrow on the bowstring?",
     "answer": "Uzorchak"
   },
@@ -626,6 +702,10 @@
   {
     "question": "What is used to check the tension of a bow?",
     "answer": "Weight"
+  },
+  {
+    "question": "What item helps determine direction?",
+    "answer": "Compass"
   },
   {
     "question": "What item is used to warm the shoulders and arms?",
@@ -734,6 +814,10 @@
   {
     "question": "What rule in archery helps ensure accuracy?",
     "answer": "Stability"
+  },
+  {
+    "question": "What rules apply in nature reserves?",
+    "answer": "Everything unnecessary is prohibited"
   },
   {
     "question": "What shooting distance is best suited for covert surveillance?",
@@ -892,6 +976,10 @@
     "answer": "Trap"
   },
   {
+    "question": "What type of glasses is needed in bright winter weather?",
+    "answer": "Polarized"
+  },
+  {
     "question": "What type of hunting is considered unethical?",
     "answer": "Trophy hunting"
   },
@@ -914,6 +1002,10 @@
   {
     "question": "What type of shooting is used to hit flying game?",
     "answer": "Instinctive shooting"
+  },
+  {
+    "question": "What type of transport is sometimes used for hunting small game?",
+    "answer": "Quad bike"
   },
   {
     "question": "What type of trap is called a pillow trap?",
@@ -992,6 +1084,10 @@
     "answer": "Venatio"
   },
   {
+    "question": "When are geese most active?",
+    "answer": "in spring"
+  },
+  {
     "question": "When did the first hunting dogs appear?",
     "answer": "Neolithic era"
   },
@@ -1002,6 +1098,10 @@
   {
     "question": "When does the autumn partridge hunting season open?",
     "answer": "September"
+  },
+  {
+    "question": "When is boar hunting most effective?",
+    "answer": "In the fall"
   },
   {
     "question": "Where are rare birds most commonly hunted?",
@@ -1068,6 +1168,10 @@
     "answer": "driven hunting"
   },
   {
+    "question": "Which bird is known for its complex courtship dances?",
+    "answer": "Black grouse"
+  },
+  {
     "question": "Which bird is known for its loud call?",
     "answer": "Peacock"
   },
@@ -1094,6 +1198,10 @@
   {
     "question": "Which birds are active at dusk?",
     "answer": "Sandpipers"
+  },
+  {
+    "question": "Which birds are caught with a net?",
+    "answer": "Quails"
   },
   {
     "question": "Which birds migrate over significant distances?",
@@ -1248,6 +1356,10 @@
     "answer": "Collimator"
   },
   {
+    "question": "Which hunting method requires the use of hunting dogs?",
+    "answer": "coursing"
+  },
+  {
     "question": "Which hunting technique requires fast movement?",
     "answer": "Drive hunting"
   },
@@ -1372,6 +1484,10 @@
     "answer": "Wild boar"
   },
   {
+    "question": "Who is responsible for protecting nature reserves?",
+    "answer": "Rangers"
+  },
+  {
     "question": "Who oversees hunting?",
     "answer": "Gamekeeper"
   },
@@ -1386,6 +1502,10 @@
   {
     "question": "Who was the god of hunting in ancient Slavic mythology?",
     "answer": "Pollination"
+  },
+  {
+    "question": "Who was the leading producer of crossbows until the 16th century?",
+    "answer": "Italy"
   },
   {
     "question": "Who were the hunters of the saber-toothed tiger?",
