@@ -1,5 +1,9 @@
 [
   {
+    "question": "At what altitude do ducks migrate?",
+    "answer": "100-300 meters"
+  },
+  {
     "question": "For catching which animal is a snare trap most commonly used?",
     "answer": "hare"
   },
@@ -26,6 +30,10 @@
   {
     "question": "How can you determine the age of a trap by its condition?",
     "answer": "By rust"
+  },
+  {
+    "question": "How can you minimize heat loss at night?",
+    "answer": "Use a warm blanket"
   },
   {
     "question": "How can you renew a hunting license?",
@@ -70,6 +78,10 @@
   {
     "question": "How many ducklings usually hatch in one brood?",
     "answer": "6-12"
+  },
+  {
+    "question": "How many hours a day do young birds train?",
+    "answer": "2-4 hours"
   },
   {
     "question": "How many types of hunting are regulated by law?",
@@ -184,6 +196,10 @@
     "answer": "Irish Wolfhound"
   },
   {
+    "question": "What action is necessary to load a lever-action rifle?",
+    "answer": "Lever reloading"
+  },
+  {
     "question": "What actions are prohibited when fishing?",
     "answer": "Poisonous baits"
   },
@@ -198,6 +214,10 @@
   {
     "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
     "answer": "Sable"
+  },
+  {
+    "question": "What are cameras in rivers useful for?",
+    "answer": "Monitoring fish"
   },
   {
     "question": "What are modern sleeping bags for winter hunting filled with?",
@@ -244,6 +264,10 @@
     "answer": "Norwich Terrier"
   },
   {
+    "question": "What breed of dog is used for hunting squirrels?",
+    "answer": "German Shorthaired Pointer"
+  },
+  {
     "question": "What breed of dog is used for truffle hunting?",
     "answer": "Lagotto"
   },
@@ -288,6 +312,10 @@
     "answer": "Caliber"
   },
   {
+    "question": "What device eliminates odors?",
+    "answer": "Air freshener"
+  },
+  {
     "question": "What device helps to hear sounds from afar?",
     "answer": "Portable amplifier"
   },
@@ -302,6 +330,10 @@
   {
     "question": "What devices can improve shooting accuracy?",
     "answer": "Optical sights"
+  },
+  {
+    "question": "What do deer eat in winter?",
+    "answer": "Bark"
   },
   {
     "question": "What does hunting ethics ensure?",
@@ -384,6 +416,10 @@
     "answer": "Algae"
   },
   {
+    "question": "What food is best to take on a hike?",
+    "answer": "Freeze-dried products"
+  },
+  {
     "question": "What frame rate is better suited for smooth video?",
     "answer": "60 fps"
   },
@@ -448,12 +484,20 @@
     "answer": "Know the species"
   },
   {
+    "question": "What important characteristic affects the shooting range?",
+    "answer": "Focal length"
+  },
+  {
     "question": "What ingredient is often added to bait for martens?",
     "answer": "Meat"
   },
   {
     "question": "What is a 'gas-operated mechanism'?",
     "answer": "At the grip"
+  },
+  {
+    "question": "What is a mandatory part of a first aid kit when hunting?",
+    "answer": "Antiseptic"
   },
   {
     "question": "What is a national park?",
@@ -484,6 +528,10 @@
     "answer": "Stalking"
   },
   {
+    "question": "What is important for a camera in rainy conditions?",
+    "answer": "Water resistance"
+  },
+  {
     "question": "What is important for a falcon's health?",
     "answer": "Proper nutrition"
   },
@@ -500,6 +548,10 @@
     "answer": "Regulated hunting"
   },
   {
+    "question": "What is important in a distress signal?",
+    "answer": "Bright color"
+  },
+  {
     "question": "What is important to consider when hunting in open spaces?",
     "answer": "Wind"
   },
@@ -508,8 +560,16 @@
     "answer": "Knowledge of the area"
   },
   {
+    "question": "What is important when hunting?",
+    "answer": "The animal should not suffer"
+  },
+  {
     "question": "What is measured in MOA in scopes?",
     "answer": "Angle of inclination"
+  },
+  {
+    "question": "What is most commonly used to reduce the recoil of a gun?",
+    "answer": "Recoil pad"
   },
   {
     "question": "What is most important when hunting deer?",
@@ -584,6 +644,10 @@
     "answer": "Poaching"
   },
   {
+    "question": "What is the most commonly used method for hunting small game?",
+    "answer": "stalking"
+  },
+  {
     "question": "What is the most important thing to do in case of an injury while hiking?",
     "answer": "Treat the wound"
   },
@@ -640,6 +704,10 @@
     "answer": "isolation of infections"
   },
   {
+    "question": "What is the primary function of hunting grounds?",
+    "answer": "Population control"
+  },
+  {
     "question": "What is the procedure called that involves attracting birds to a hunter?",
     "answer": "Decoy"
   },
@@ -650,6 +718,10 @@
   {
     "question": "What is the purpose of a muzzle brake?",
     "answer": "Reducing recoil"
+  },
+  {
+    "question": "What is the purpose of a stabilizer in archery?",
+    "answer": "Stabilization of the bow"
   },
   {
     "question": "What is the purpose of a suppressor in a firearm?",
@@ -664,8 +736,16 @@
     "answer": "Falconry"
   },
   {
+    "question": "What is the speed of an arrow shot from a bow?",
+    "answer": "200-350 fps"
+  },
+  {
     "question": "What is the standard frame rate used in the film industry?",
     "answer": "Orenburgsky"
+  },
+  {
+    "question": "What is the system called that uses the energy of gunpowder gases?",
+    "answer": "Automation"
   },
   {
     "question": "What is the system of designating hunting grounds called?",
@@ -724,12 +804,20 @@
     "answer": "Sound calls"
   },
   {
+    "question": "What magnification range is optimal for hunting in the forest?",
+    "answer": "1-4x"
+  },
+  {
     "question": "What material is most commonly used for making modern crossbow strings?",
     "answer": "Synthetic"
   },
   {
     "question": "What material is often used for making hunting knives?",
     "answer": "Steel"
+  },
+  {
+    "question": "What material is preferred for a tent in winter conditions?",
+    "answer": "neoprene"
   },
   {
     "question": "What measures distance?",
@@ -778,6 +866,10 @@
   {
     "question": "What precautions should be taken during hunting?",
     "answer": "Silence"
+  },
+  {
+    "question": "What preparation is important before a hike?",
+    "answer": "Study the route"
   },
   {
     "question": "What process helps to remove moisture?",
@@ -972,6 +1064,10 @@
     "answer": "Field ration"
   },
   {
+    "question": "What type of footwear helps prevent slipping on ice?",
+    "answer": "Spiked shoes"
+  },
+  {
     "question": "What type of gear is used for catching small game?",
     "answer": "Trap"
   },
@@ -998,6 +1094,10 @@
   {
     "question": "What type of hunting requires the use of a specially trained dog?",
     "answer": "Falconry"
+  },
+  {
+    "question": "What type of hunting was popular among Mongolian warriors?",
+    "answer": "Hunting with birds of prey"
   },
   {
     "question": "What type of shooting is used to hit flying game?",
@@ -1064,6 +1164,10 @@
     "answer": "Large caliber rifle"
   },
   {
+    "question": "What weapon is popular for hunting moose?",
+    "answer": "Rifle"
+  },
+  {
     "question": "What weapon is preferred for close combat in hunting?",
     "answer": "Spear"
   },
@@ -1078,6 +1182,10 @@
   {
     "question": "What weather conditions are preferable for lynx hunting?",
     "answer": "Scythians"
+  },
+  {
+    "question": "What weather is preferable for autumn hunting?",
+    "answer": "Windless"
   },
   {
     "question": "What were the hunting scenes depicted on Ancient Roman mosaics called?",
@@ -1096,6 +1204,10 @@
     "answer": "15th century"
   },
   {
+    "question": "When do ducks usually go to the water?",
+    "answer": "Dawn"
+  },
+  {
     "question": "When does the autumn partridge hunting season open?",
     "answer": "September"
   },
@@ -1106,6 +1218,10 @@
   {
     "question": "Where are rare birds most commonly hunted?",
     "answer": "Forests"
+  },
+  {
+    "question": "Where can you find okapi in the wild?",
+    "answer": "Africa"
   },
   {
     "question": "Where can you find the giant lizard, the Komodo dragon, hunting?",
@@ -1144,8 +1260,16 @@
     "answer": "Tapir"
   },
   {
+    "question": "Which animal is often referred to by hunters as the 'forest fugitive'?",
+    "answer": "Wild boar"
+  },
+  {
     "question": "Which animal is sometimes referred to by hunters as the 'Pegasus of the jungle'?",
     "answer": "Bat"
+  },
+  {
+    "question": "Which animals are commonly found in Arctic regions?",
+    "answer": "Reindeer"
   },
   {
     "question": "Which animals cannot be hunted?",
@@ -1156,8 +1280,16 @@
     "answer": "Foxes"
   },
   {
+    "question": "Which animals were traditionally used for hunting by nomads?",
+    "answer": "Falcons"
+  },
+  {
     "question": "Which area is part of protected territories?",
     "answer": "Nature reserve"
+  },
+  {
+    "question": "Which bait element can increase the success of catching a mink?",
+    "answer": "Fish"
   },
   {
     "question": "Which bird is called the 'Royal'?",
@@ -1178,6 +1310,10 @@
   {
     "question": "Which bird is most commonly found in fields?",
     "answer": "Depends on the duck"
+  },
+  {
+    "question": "Which bird is most commonly referred to as 'royal' in hunting?",
+    "answer": "Golden Eagle"
   },
   {
     "question": "Which bird is nicknamed the 'miller bird'?",
@@ -1248,6 +1384,14 @@
     "answer": "Diy"
   },
   {
+    "question": "Which country was the first to establish nature reserves?",
+    "answer": "Germany"
+  },
+  {
+    "question": "Which dog breed can work in cold conditions?",
+    "answer": "Alaskan Malamute"
+  },
+  {
     "question": "Which dog breed can work in harsh conditions?",
     "answer": "Pay attention to clothing"
   },
@@ -1268,6 +1412,10 @@
     "answer": "Hound"
   },
   {
+    "question": "Which dog breed is known for its independent nature?",
+    "answer": "Estonian Hound"
+  },
+  {
     "question": "Which dog breed is known for its intelligence?",
     "answer": "Border Collie"
   },
@@ -1276,8 +1424,16 @@
     "answer": "Mastiff"
   },
   {
+    "question": "Which dog breed is known for its quick reflexes?",
+    "answer": "Greyhound"
+  },
+  {
     "question": "Which dog breed is known for its unique appearance with a multicolored coat?",
     "answer": "Australian Shepherd"
+  },
+  {
+    "question": "Which dog breed is suitable for hunting in difficult weather conditions?",
+    "answer": "Laika"
   },
   {
     "question": "Which dog breed is the most versatile for hunting?",

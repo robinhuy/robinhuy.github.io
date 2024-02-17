@@ -64,6 +64,10 @@
     "answer": "Fireflies"
   },
   {
+    "question": "What action helps to soften the jerks of a fish?",
+    "answer": "Using a drag system"
+  },
+  {
     "question": "What action reduces the likelihood of the fishing line breaking?",
     "answer": "Reducing tension"
   },
@@ -74,6 +78,10 @@
   {
     "question": "What affects accuracy?",
     "answer": "balance"
+  },
+  {
+    "question": "What are bathymetric maps used for?",
+    "answer": "Studying the seafloor topography"
   },
   {
     "question": "What are isobaths?",
@@ -248,6 +256,10 @@
     "answer": "Spawning"
   },
   {
+    "question": "What fly casting technique is considered basic?",
+    "answer": "Loop cast"
+  },
+  {
     "question": "What gear is needed for pike fishing?",
     "answer": "Professional"
   },
@@ -336,6 +348,10 @@
     "answer": "10 kg"
   },
   {
+    "question": "What is the most dietary method of cooking fish?",
+    "answer": "Steaming"
+  },
+  {
     "question": "What is the name of high-quality fishing line?",
     "answer": "Fluorocarbon"
   },
@@ -392,6 +408,10 @@
     "answer": "Spinner"
   },
   {
+    "question": "What material is used for a lightweight jig?",
+    "answer": "Beads"
+  },
+  {
     "question": "What negatively affects water bodies?",
     "answer": "Poaching"
   },
@@ -402,6 +422,10 @@
   {
     "question": "What reeling technique is used for large fish?",
     "answer": "in circles"
+  },
+  {
+    "question": "What should be used to catch a large perch?",
+    "answer": "lures"
   },
   {
     "question": "What should you do if you discover water pollution?",
@@ -604,12 +628,32 @@
     "answer": "Electroreceptor"
   },
   {
+    "question": "Which fish can be aggressive during spearfishing?",
+    "answer": "Moray eel"
+  },
+  {
     "question": "Which fish can jump up to 3 meters high?",
     "answer": "Tarpon"
   },
   {
+    "question": "Which fish can stay on land for a long time?",
+    "answer": "Mudskipper"
+  },
+  {
     "question": "Which fish has a transparent head?",
     "answer": "Barreleye"
+  },
+  {
+    "question": "Which fish has a unique camouflage mechanism?",
+    "answer": "Stonefish"
+  },
+  {
+    "question": "Which fish has spines that are dangerous to humans?",
+    "answer": "Scorpionfish"
+  },
+  {
+    "question": "Which fish has strong teeth and dense scales?",
+    "answer": "Pike"
   },
   {
     "question": "Which fish is associated with the legend of huge sunken pike-perch?",
@@ -764,12 +808,20 @@
     "answer": "Palomar"
   },
   {
+    "question": "Which knot is popular among sailors and fishermen?",
+    "answer": "Bowline"
+  },
+  {
     "question": "Which knot is popular for deep-sea fishing?",
     "answer": "Bimini"
   },
   {
     "question": "Which knot is recommended for use in freshwater?",
     "answer": "Freshwater knot"
+  },
+  {
+    "question": "Which knot is suitable for a double line?",
+    "answer": "Bimini"
   },
   {
     "question": "Which knot is suitable for saltwater?",
@@ -832,6 +884,10 @@
     "answer": "Double haul"
   },
   {
+    "question": "Which technology increases the casting distance of a lure?",
+    "answer": "Magnetic braking"
+  },
+  {
     "question": "Which technology provides a map of the bottom of a body of water?",
     "answer": "Sonar"
   },
@@ -846,6 +902,10 @@
   {
     "question": "Who invented the modern fishing reel?",
     "answer": "Samuel Phillips"
+  },
+  {
+    "question": "Who was the first to use a fishing rod with a reel?",
+    "answer": "Chinese"
   },
   {
     "question": "Who wrote the first treatise on fishing in Europe?",
