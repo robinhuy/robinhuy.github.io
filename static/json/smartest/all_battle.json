@@ -2185,6 +2185,10 @@
         "answer": ""
     },
     {
+        "question": "What feature is important for night streams?",
+        "answer": "Night vision"
+    },
+    {
         "question": "What format is preferred for scientific discussions?",
         "answer": ""
     },
@@ -2217,6 +2221,10 @@
         "answer": "Video diary"
     },
     {
+        "question": "What is discussed in the podcast 'Financial Literacy'?",
+        "answer": "Personal finance"
+    },
+    {
         "question": "What is important to consider when training for endurance?",
         "answer": ""
     },
@@ -2241,8 +2249,20 @@
         "answer": ""
     },
     {
+        "question": "What is the device called for underwater filming?",
+        "answer": "Aquabox"
+    },
+    {
+        "question": "What is the goal of edutainment bloggers?",
+        "answer": "To educate and entertain"
+    },
+    {
         "question": "What is the largest island in the world?",
         "answer": "Adam Carolla"
+    },
+    {
+        "question": "What is the largest lake in Africa?",
+        "answer": "Victoria"
     },
     {
         "question": "What is the name of Anna Sidorova's famous culinary blog?",
@@ -2261,12 +2281,20 @@
         "answer": "Sergey Popov"
     },
     {
+        "question": "What is the name of the author of the classical music blog?",
+        "answer": "Igor Mikhailov"
+    },
+    {
         "question": "What is the name of the author of the philosophy channel?",
         "answer": "Andrey Ivanov"
     },
     {
         "question": "What is the name of the blog with music interviews?",
         "answer": "Musician Hour"
+    },
+    {
+        "question": "What is the name of the channel hosted by Jonathan Morrison?",
+        "answer": "TLD Today"
     },
     {
         "question": "What is the name of the channel that explores musical styles?",
@@ -2283,6 +2311,10 @@
     {
         "question": "What is the name of the jazz channel?",
         "answer": "JazzSphere"
+    },
+    {
+        "question": "What is the name of the music streamer known for their remixes?",
+        "answer": "RemixKing"
     },
     {
         "question": "What is the name of the podcast hosted by Tatyana Lazareva?",
@@ -2313,8 +2345,16 @@
         "answer": "Highlighter"
     },
     {
+        "question": "What is the recommended rest period between workouts?",
+        "answer": "48 hours"
+    },
+    {
         "question": "What is the release frequency of the podcast 'Strategies for Success'?",
         "answer": "Cooking Together"
+    },
+    {
+        "question": "What is the term for filming an event from start to finish?",
+        "answer": "Time-lapse"
     },
     {
         "question": "What is the theme of the podcast about psychology and psychotherapy?",
@@ -2323,6 +2363,14 @@
     {
         "question": "What music genre is often used by DJ streamers?",
         "answer": "TenZ"
+    },
+    {
+        "question": "What show does Oleg Tereshkin host?",
+        "answer": "Gourmet Show"
+    },
+    {
+        "question": "What style of video is popular for walks?",
+        "answer": "Vlog"
     },
     {
         "question": "What type of camera helps to see in the dark?",
@@ -2339,6 +2387,10 @@
     {
         "question": "What type of headphones is preferable for outdoor streaming?",
         "answer": "Monthly"
+    },
+    {
+        "question": "What type of workout does Irina Yakovleva demonstrate?",
+        "answer": "Stretching"
     },
     {
         "question": "What unique natural phenomenon can be seen in Iceland?",
@@ -2377,6 +2429,10 @@
         "answer": "Lisa Eldridge"
     },
     {
+        "question": "Which blog became the first popular one on the internet?",
+        "answer": "Links.net"
+    },
+    {
         "question": "Which blog debunks musical myths?",
         "answer": "Musical Myths"
     },
@@ -2387,6 +2443,10 @@
     {
         "question": "Which blog talks about a healthy lifestyle?",
         "answer": "Health and Sports"
+    },
+    {
+        "question": "Which blogger analyzes alternative rock?",
+        "answer": "Anton Rokov"
     },
     {
         "question": "Which blogger covers topics on healthy eating?",
@@ -2425,6 +2485,10 @@
         "answer": "Ivan Ivanov"
     },
     {
+        "question": "Which blogger is known for their videos about fermented products?",
+        "answer": "Roman Ferment"
+    },
+    {
         "question": "Which blogger is known for their videos about life without makeup?",
         "answer": "Roussy Davis"
     },
@@ -2445,6 +2509,10 @@
         "answer": "Patrick Starrr"
     },
     {
+        "question": "Which blogger promotes HIIT workouts?",
+        "answer": "Denis Orlov"
+    },
+    {
         "question": "Which blogger runs a channel about cooking fish and seafood?",
         "answer": "Brandon Truaxe"
     },
@@ -2457,12 +2525,36 @@
         "answer": ""
     },
     {
+        "question": "Which blogger specializes in creating retro looks?",
+        "answer": "Lisa Eldridge"
+    },
+    {
         "question": "Which blogger specializes in jazz music?",
         "answer": "Thriller"
     },
     {
+        "question": "Which blogger specializes in makeup for horror movies?",
+        "answer": "Glam Gore"
+    },
+    {
+        "question": "Which blogger talks about rare music genres?",
+        "answer": "Rare genres"
+    },
+    {
+        "question": "Which blogger teaches foreign languages?",
+        "answer": "Romanova"
+    },
+    {
         "question": "Which blogger teaches mathematics?",
         "answer": "Andrey Sidorov"
+    },
+    {
+        "question": "Which blogger was the first to review the iPhone 12?",
+        "answer": "Marques Brownlee"
+    },
+    {
+        "question": "Which channel debunks kitchen myths?",
+        "answer": "Myths and Kitchen"
     },
     {
         "question": "Which channel is dedicated to music festivals?",
@@ -2501,6 +2593,10 @@
         "answer": "Anastasia Ivanova"
     },
     {
+        "question": "Which game does streamer G most frequently stream?",
+        "answer": "Dota 2"
+    },
+    {
         "question": "Which genre is not suitable for educational podcasts?",
         "answer": ""
     },
@@ -2533,6 +2629,10 @@
         "answer": "Konstantin Ivanov"
     },
     {
+        "question": "Which podcast focuses on the personal stories of guests?",
+        "answer": "Life Stories"
+    },
+    {
         "question": "Which podcast helps implement effective business strategies?",
         "answer": "Night vision camera"
     },
@@ -2543,6 +2643,10 @@
     {
         "question": "Which podcast is dedicated to astrophysics?",
         "answer": "iPod"
+    },
+    {
+        "question": "Which podcast is known for in-depth interviews with scientists?",
+        "answer": "Scientific Discoveries"
     },
     {
         "question": "Which podcast is particularly popular among school students?",
@@ -2565,12 +2669,24 @@
         "answer": "Investing for Everyone"
     },
     {
+        "question": "Which podcast teaches management skills?",
+        "answer": "Financial Plan"
+    },
+    {
+        "question": "Which popular podcast explores the unseen aspects of design?",
+        "answer": "99% Invisible"
+    },
+    {
         "question": "Which popular travel blogger from Russia is known for his videos about abandoned places?",
         "answer": ""
     },
     {
         "question": "Which programs are used to create special video effects?",
         "answer": ""
+    },
+    {
+        "question": "Which region in South America attracts forest and river enthusiasts?",
+        "answer": "Amazonia"
     },
     {
         "question": "Which service offers live broadcasts of TV channels?",
@@ -2605,6 +2721,10 @@
         "answer": "LoopMaster"
     },
     {
+        "question": "Which streamer is known for their passion for the game Dark Souls?",
+        "answer": "TheHappyHob"
+    },
+    {
         "question": "Which streamer is known for their running sessions?",
         "answer": "Nikolay Loginov"
     },
@@ -2615,6 +2735,14 @@
     {
         "question": "Which streamer is known for their skills in Apex Legends?",
         "answer": "Diegosaurs"
+    },
+    {
+        "question": "Which streamer is most known for their Dota 2 gameplay and sharp tongue?",
+        "answer": "Gorgc"
+    },
+    {
+        "question": "Which streamer is most known for their travel content?",
+        "answer": "IRL Citizen"
     },
     {
         "question": "Which streamer is originally from Japan?",
@@ -2645,8 +2773,24 @@
         "answer": "VR headset"
     },
     {
+        "question": "Which streamer specializes in electronic music?",
+        "answer": "ElectroKid"
+    },
+    {
         "question": "Which streamer specializes in volleyball?",
         "answer": "Alexey Smirnov"
+    },
+    {
+        "question": "Which streamer won the 'Streamer of the Year' award in 2020?",
+        "answer": "DrLupo"
+    },
+    {
+        "question": "Which streaming service supports VR content?",
+        "answer": "YouTube"
+    },
+    {
+        "question": "Which type of blogger most frequently shares tips on space organization?",
+        "answer": "Organizer"
     },
     {
         "question": "Who became the first host of a popular podcast?",
@@ -2655,6 +2799,10 @@
     {
         "question": "Who covers topics on sports and fitness?",
         "answer": "Andrey Novikov"
+    },
+    {
+        "question": "Who created WordPress?",
+        "answer": "Matt Mullenweg"
     },
     {
         "question": "Who created the first video blog?",
@@ -2709,12 +2857,24 @@
         "answer": "PewDiePie"
     },
     {
+        "question": "Who is a well-known marathon runner and streamer?",
+        "answer": "Oleg Nikitin"
+    },
+    {
         "question": "Who is called the 'Marathon Streamer'?",
         "answer": "Ilya Zimin"
     },
     {
         "question": "Who is known for the channel 'Chef's Breakfast'?",
         "answer": "Alexey Alexandrov"
+    },
+    {
+        "question": "Who is known for their bodybuilding videos?",
+        "answer": "Alexey Petrov"
+    },
+    {
+        "question": "Who is known for their guitar improvisations?",
+        "answer": "Jimi Hendrix"
     },
     {
         "question": "Who is known for their retro looks?",
@@ -2733,6 +2893,10 @@
         "answer": "Maria Zakharova"
     },
     {
+        "question": "Who is the creator of LiveJournal?",
+        "answer": "Brad Fitzpatrick"
+    },
+    {
         "question": "Who is the creator of the TechnoBuffalo channel?",
         "answer": "1 million"
     },
@@ -2743,6 +2907,10 @@
     {
         "question": "Who is the host of the podcast 'No Such Thing As A Fish'?",
         "answer": "Greenland"
+    },
+    {
+        "question": "Who is the host of the podcast 'Science Vs'?",
+        "answer": "Wendy Zukerman"
     },
     {
         "question": "Who is the host of the podcast 'Serial'?",
@@ -2769,8 +2937,16 @@
         "answer": "Eurie"
     },
     {
+        "question": "Who launched the Huxley brand?",
+        "answer": "Primera Park"
+    },
+    {
         "question": "Who launched the line of brushes and sponges under the 'Real Techniques' brand?",
         "answer": "Pixiwoo"
+    },
+    {
+        "question": "Who owns the Instagram account 'fit_and_happy'?",
+        "answer": "Evgenia Kovaleva"
     },
     {
         "question": "Who performs their songs on the piano live?",
@@ -2783,6 +2959,10 @@
     {
         "question": "Who runs a blog about physics?",
         "answer": "Dmitry Kuznetsov"
+    },
+    {
+        "question": "Who runs a blog about vinyl?",
+        "answer": "VinylVoyage"
     },
     {
         "question": "Who runs a channel about philosophy?",
@@ -2801,6 +2981,14 @@
         "answer": "Jcarver"
     },
     {
+        "question": "Who talks about ecology?",
+        "answer": "Zelensky"
+    },
+    {
+        "question": "Who talks about music genres in the EDM style?",
+        "answer": "Alina Frolova"
+    },
+    {
         "question": "Who talks about music theory?",
         "answer": "Violetta Zhukova"
     },
@@ -2813,8 +3001,20 @@
         "answer": "Oleg Vasilyev"
     },
     {
+        "question": "Who was the first guest on the podcast 'Creative Meetings'?",
+        "answer": "Olga Chernova"
+    },
+    {
         "question": "Who was the first streamer on YouTube?",
         "answer": "Jawed Karim"
+    },
+    {
+        "question": "Who was the first to be featured in Time magazine as the most influential beauty blogger?",
+        "answer": "Huda Kattan"
+    },
+    {
+        "question": "Who was the first to release the Beautyblender cosmetic sponge?",
+        "answer": "Rea Ann Silva"
     },
     {
         "question": "A popular meat dish in South Africa?",
@@ -3381,16 +3581,60 @@
         "answer": "Interest rates"
     },
     {
+        "question": "How does price regulation affect the market?",
+        "answer": "Changes prices"
+    },
+    {
         "question": "In what year did Germany introduce the Deutsche Mark?",
         "answer": "1948"
+    },
+    {
+        "question": "In which century did the First Industrial Revolution begin?",
+        "answer": "18th century"
+    },
+    {
+        "question": "What affects a country's export level?",
+        "answer": "Currency value"
+    },
+    {
+        "question": "What are IS-LM models?",
+        "answer": "Equilibrium model"
+    },
+    {
+        "question": "What caused the Great Inflation in Germany in the 1920s?",
+        "answer": "Reparations"
     },
     {
         "question": "What caused the oil crisis of the 1970s?",
         "answer": "OPEC embargo"
     },
     {
+        "question": "What causes cost-push inflation?",
+        "answer": "Increase in production costs"
+    },
+    {
         "question": "What causes economic instability?",
         "answer": "shocks and cycles"
+    },
+    {
+        "question": "What characterizes economic cycles?",
+        "answer": "ups and downs"
+    },
+    {
+        "question": "What contributes to sustainable economic growth?",
+        "answer": "Infrastructure projects"
+    },
+    {
+        "question": "What contributes to the development of infrastructure?",
+        "answer": "Investments"
+    },
+    {
+        "question": "What does 'blue chips' mean on the stock exchange?",
+        "answer": "Reliable stocks"
+    },
+    {
+        "question": "What does 'pricing' mean?",
+        "answer": "Price formation"
     },
     {
         "question": "What does a tariff restriction include?",
@@ -3401,12 +3645,36 @@
         "answer": "All expenditures"
     },
     {
+        "question": "What does an autocorrelation plot show?",
+        "answer": "Relationship in time series"
+    },
+    {
+        "question": "What does marginal cost include?",
+        "answer": "Additional income"
+    },
+    {
         "question": "What does marginal cost take into account?",
         "answer": "The last unit"
     },
     {
+        "question": "What does portfolio investment theory describe?",
+        "answer": "Diversification of investments"
+    },
+    {
+        "question": "What does the IS-LM model describe?",
+        "answer": "capital and money markets"
+    },
+    {
+        "question": "What does the Modigliani-Miller theorem describe?",
+        "answer": "Capital structure"
+    },
+    {
         "question": "What does the central limit theorem describe?",
         "answer": "Normal distribution"
+    },
+    {
+        "question": "What does the copper crisis symbolize?",
+        "answer": "Copper shortage"
     },
     {
         "question": "What does the cost of ownership include?",
@@ -3415,6 +3683,14 @@
     {
         "question": "What does the indifference curve model describe?",
         "answer": "Consumer preferences"
+    },
+    {
+        "question": "What does the law of diminishing returns illustrate?",
+        "answer": "Diminishing increment"
+    },
+    {
+        "question": "What does the term 'default' mean?",
+        "answer": "Failure to pay debts"
     },
     {
         "question": "What does the theory of rational expectations include?",
@@ -3429,12 +3705,40 @@
         "answer": "Interest rate"
     },
     {
+        "question": "What event triggered the global economic crisis of the 1930s?",
+        "answer": "Black Thursday"
+    },
+    {
         "question": "What factors are important for economic growth?",
         "answer": "Technology"
     },
     {
         "question": "What happens during stagflation?",
         "answer": "Increase in inflation"
+    },
+    {
+        "question": "What is 'crowding out' in the IS-LM model?",
+        "answer": "Increase in demand"
+    },
+    {
+        "question": "What is a 'beta' coefficient?",
+        "answer": "Stock risk"
+    },
+    {
+        "question": "What is a balance of payments imbalance?",
+        "answer": "Mismatch between exports and imports"
+    },
+    {
+        "question": "What is a bond?",
+        "answer": "Debt instrument"
+    },
+    {
+        "question": "What is a short-term loan secured by securities?",
+        "answer": "Repo"
+    },
+    {
+        "question": "What is antitrust legislation?",
+        "answer": "Antitrust legislation"
     },
     {
         "question": "What is antitrust regulation?",
@@ -3457,6 +3761,10 @@
         "answer": "Statistical"
     },
     {
+        "question": "What is included in variable costs?",
+        "answer": "Energy costs"
+    },
+    {
         "question": "What is meant by economic stabilization?",
         "answer": "Reduction of inflation"
     },
@@ -3473,8 +3781,32 @@
         "answer": "Monopsony"
     },
     {
+        "question": "What is the method of regulating the economy by changing the key interest rate called?",
+        "answer": "Monetarism"
+    },
+    {
         "question": "What is the name of the estimation method that minimizes error?",
         "answer": "Least squares method"
+    },
+    {
+        "question": "What is the name of the model that explains economic growth through innovation?",
+        "answer": "Schumpeter Model"
+    },
+    {
+        "question": "What is the natural rate of unemployment?",
+        "answer": "natural rate"
+    },
+    {
+        "question": "What is the period in the market called a correction?",
+        "answer": "Prices fall"
+    },
+    {
+        "question": "What is the purpose of applying economic sanctions?",
+        "answer": "Restricting trade relations"
+    },
+    {
+        "question": "What is the purpose of tax reforms?",
+        "answer": "Optimization of the system"
     },
     {
         "question": "What is the term for a long-term economic development strategy?",
@@ -3485,28 +3817,76 @@
         "answer": "Export growth"
     },
     {
+        "question": "What issue is often encountered in time series?",
+        "answer": "Autocorrelation"
+    },
+    {
         "question": "What makes an economy more resilient?",
         "answer": "Diversification"
+    },
+    {
+        "question": "What measure helps to reduce inflation?",
+        "answer": "Monetary restriction"
     },
     {
         "question": "What measure is aimed at reducing the budget deficit?",
         "answer": "Reducing expenses"
     },
     {
+        "question": "What measure is used to reduce the economy's dependence on external factors?",
+        "answer": "Import substitution"
+    },
+    {
+        "question": "What method is used for cohort analysis?",
+        "answer": "Cohort analysis"
+    },
+    {
+        "question": "What method is used to assess market value?",
+        "answer": "Fundamental analysis"
+    },
+    {
         "question": "What method is used to reduce standard errors in statistics?",
         "answer": "Bootstrap"
+    },
+    {
+        "question": "What principle states that choices are made to maximize satisfaction with minimal costs?",
+        "answer": "Consumer rationality"
     },
     {
         "question": "What role does international trade policy play?",
         "answer": "Control of exports"
     },
     {
+        "question": "Which clustering method is based on distance?",
+        "answer": "K-means"
+    },
+    {
         "question": "Which company was the first to be listed on NASDAQ?",
         "answer": "Apple"
     },
     {
+        "question": "Which country has the DAX stock index?",
+        "answer": "Germany"
+    },
+    {
+        "question": "Which country was the first to develop mercantilist policy?",
+        "answer": "France"
+    },
+    {
+        "question": "Which country was the first to introduce bank checks?",
+        "answer": "United Kingdom"
+    },
+    {
+        "question": "Which document established the modern international financial system after World War II?",
+        "answer": "Bretton Woods Agreement"
+    },
+    {
         "question": "Which econometric method is based on maximizing likelihood?",
         "answer": "Maximum likelihood method"
+    },
+    {
+        "question": "Which economic model shows the distribution of income and expenses?",
+        "answer": "Keynesian model"
     },
     {
         "question": "Which economic theory claims that high taxes reduce incentives to work and invest?",
@@ -3521,6 +3901,10 @@
         "answer": "Gini coefficient"
     },
     {
+        "question": "Which industry adapts to innovations the fastest?",
+        "answer": "IT sector"
+    },
+    {
         "question": "Which model analyzes competition between two firms?",
         "answer": "Duopoly model"
     },
@@ -3529,8 +3913,20 @@
         "answer": "Solow model"
     },
     {
+        "question": "Which model is used to analyze the relationships between dependent and independent variables?",
+        "answer": "Regression"
+    },
+    {
+        "question": "Which model takes into account the effects of learning in practice?",
+        "answer": "Arrow's Model"
+    },
+    {
         "question": "Which statistical technique is used to test the significance of predictors?",
         "answer": "Fisher's Test"
+    },
+    {
+        "question": "Which test is used to check the stationarity of time series?",
+        "answer": "ADF test"
     },
     {
         "question": "Who founded the first bank?",
@@ -3539,6 +3935,14 @@
     {
         "question": "Who introduced the term 'capitalism'?",
         "answer": "Karl Marx"
+    },
+    {
+        "question": "Who won the Nobel Prize in Economics?",
+        "answer": "Hausman"
+    },
+    {
+        "question": "Why is diversification necessary?",
+        "answer": "Risk reduction"
     },
     {
         "question": "Fabric made from wood",
@@ -4601,6 +5005,10 @@
         "answer": "Fireflies"
     },
     {
+        "question": "What action helps to soften the jerks of a fish?",
+        "answer": "Using a drag system"
+    },
+    {
         "question": "What action reduces the likelihood of the fishing line breaking?",
         "answer": "Reducing tension"
     },
@@ -4611,6 +5019,10 @@
     {
         "question": "What affects accuracy?",
         "answer": "balance"
+    },
+    {
+        "question": "What are bathymetric maps used for?",
+        "answer": "Studying the seafloor topography"
     },
     {
         "question": "What are isobaths?",
@@ -4785,6 +5197,10 @@
         "answer": "Spawning"
     },
     {
+        "question": "What fly casting technique is considered basic?",
+        "answer": "Loop cast"
+    },
+    {
         "question": "What gear is needed for pike fishing?",
         "answer": "Professional"
     },
@@ -4873,6 +5289,10 @@
         "answer": "10 kg"
     },
     {
+        "question": "What is the most dietary method of cooking fish?",
+        "answer": "Steaming"
+    },
+    {
         "question": "What is the name of high-quality fishing line?",
         "answer": "Fluorocarbon"
     },
@@ -4929,6 +5349,10 @@
         "answer": "Spinner"
     },
     {
+        "question": "What material is used for a lightweight jig?",
+        "answer": "Beads"
+    },
+    {
         "question": "What negatively affects water bodies?",
         "answer": "Poaching"
     },
@@ -4939,6 +5363,10 @@
     {
         "question": "What reeling technique is used for large fish?",
         "answer": "in circles"
+    },
+    {
+        "question": "What should be used to catch a large perch?",
+        "answer": "lures"
     },
     {
         "question": "What should you do if you discover water pollution?",
@@ -5141,12 +5569,32 @@
         "answer": "Electroreceptor"
     },
     {
+        "question": "Which fish can be aggressive during spearfishing?",
+        "answer": "Moray eel"
+    },
+    {
         "question": "Which fish can jump up to 3 meters high?",
         "answer": "Tarpon"
     },
     {
+        "question": "Which fish can stay on land for a long time?",
+        "answer": "Mudskipper"
+    },
+    {
         "question": "Which fish has a transparent head?",
         "answer": "Barreleye"
+    },
+    {
+        "question": "Which fish has a unique camouflage mechanism?",
+        "answer": "Stonefish"
+    },
+    {
+        "question": "Which fish has spines that are dangerous to humans?",
+        "answer": "Scorpionfish"
+    },
+    {
+        "question": "Which fish has strong teeth and dense scales?",
+        "answer": "Pike"
     },
     {
         "question": "Which fish is associated with the legend of huge sunken pike-perch?",
@@ -5301,12 +5749,20 @@
         "answer": "Palomar"
     },
     {
+        "question": "Which knot is popular among sailors and fishermen?",
+        "answer": "Bowline"
+    },
+    {
         "question": "Which knot is popular for deep-sea fishing?",
         "answer": "Bimini"
     },
     {
         "question": "Which knot is recommended for use in freshwater?",
         "answer": "Freshwater knot"
+    },
+    {
+        "question": "Which knot is suitable for a double line?",
+        "answer": "Bimini"
     },
     {
         "question": "Which knot is suitable for saltwater?",
@@ -5369,6 +5825,10 @@
         "answer": "Double haul"
     },
     {
+        "question": "Which technology increases the casting distance of a lure?",
+        "answer": "Magnetic braking"
+    },
+    {
         "question": "Which technology provides a map of the bottom of a body of water?",
         "answer": "Sonar"
     },
@@ -5383,6 +5843,10 @@
     {
         "question": "Who invented the modern fishing reel?",
         "answer": "Samuel Phillips"
+    },
+    {
+        "question": "Who was the first to use a fishing rod with a reel?",
+        "answer": "Chinese"
     },
     {
         "question": "Who wrote the first treatise on fishing in Europe?",
@@ -12392,6 +12856,10 @@
         "answer": "Mongols and Western powers"
     },
     {
+        "question": "At what altitude do ducks migrate?",
+        "answer": "100-300 meters"
+    },
+    {
         "question": "For catching which animal is a snare trap most commonly used?",
         "answer": "hare"
     },
@@ -12418,6 +12886,10 @@
     {
         "question": "How can you determine the age of a trap by its condition?",
         "answer": "By rust"
+    },
+    {
+        "question": "How can you minimize heat loss at night?",
+        "answer": "Use a warm blanket"
     },
     {
         "question": "How can you renew a hunting license?",
@@ -12462,6 +12934,10 @@
     {
         "question": "How many ducklings usually hatch in one brood?",
         "answer": "6-12"
+    },
+    {
+        "question": "How many hours a day do young birds train?",
+        "answer": "2-4 hours"
     },
     {
         "question": "How many types of hunting are regulated by law?",
@@ -12576,6 +13052,10 @@
         "answer": "Irish Wolfhound"
     },
     {
+        "question": "What action is necessary to load a lever-action rifle?",
+        "answer": "Lever reloading"
+    },
+    {
         "question": "What actions are prohibited when fishing?",
         "answer": "Poisonous baits"
     },
@@ -12590,6 +13070,10 @@
     {
         "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
         "answer": "Sable"
+    },
+    {
+        "question": "What are cameras in rivers useful for?",
+        "answer": "Monitoring fish"
     },
     {
         "question": "What are modern sleeping bags for winter hunting filled with?",
@@ -12636,6 +13120,10 @@
         "answer": "Norwich Terrier"
     },
     {
+        "question": "What breed of dog is used for hunting squirrels?",
+        "answer": "German Shorthaired Pointer"
+    },
+    {
         "question": "What breed of dog is used for truffle hunting?",
         "answer": "Lagotto"
     },
@@ -12680,6 +13168,10 @@
         "answer": "Caliber"
     },
     {
+        "question": "What device eliminates odors?",
+        "answer": "Air freshener"
+    },
+    {
         "question": "What device helps to hear sounds from afar?",
         "answer": "Portable amplifier"
     },
@@ -12694,6 +13186,10 @@
     {
         "question": "What devices can improve shooting accuracy?",
         "answer": "Optical sights"
+    },
+    {
+        "question": "What do deer eat in winter?",
+        "answer": "Bark"
     },
     {
         "question": "What does hunting ethics ensure?",
@@ -12776,6 +13272,10 @@
         "answer": "Algae"
     },
     {
+        "question": "What food is best to take on a hike?",
+        "answer": "Freeze-dried products"
+    },
+    {
         "question": "What frame rate is better suited for smooth video?",
         "answer": "60 fps"
     },
@@ -12840,12 +13340,20 @@
         "answer": "Know the species"
     },
     {
+        "question": "What important characteristic affects the shooting range?",
+        "answer": "Focal length"
+    },
+    {
         "question": "What ingredient is often added to bait for martens?",
         "answer": "Meat"
     },
     {
         "question": "What is a 'gas-operated mechanism'?",
         "answer": "At the grip"
+    },
+    {
+        "question": "What is a mandatory part of a first aid kit when hunting?",
+        "answer": "Antiseptic"
     },
     {
         "question": "What is a national park?",
@@ -12876,6 +13384,10 @@
         "answer": "Stalking"
     },
     {
+        "question": "What is important for a camera in rainy conditions?",
+        "answer": "Water resistance"
+    },
+    {
         "question": "What is important for a falcon's health?",
         "answer": "Proper nutrition"
     },
@@ -12892,6 +13404,10 @@
         "answer": "Regulated hunting"
     },
     {
+        "question": "What is important in a distress signal?",
+        "answer": "Bright color"
+    },
+    {
         "question": "What is important to consider when hunting in open spaces?",
         "answer": "Wind"
     },
@@ -12900,8 +13416,16 @@
         "answer": "Knowledge of the area"
     },
     {
+        "question": "What is important when hunting?",
+        "answer": "The animal should not suffer"
+    },
+    {
         "question": "What is measured in MOA in scopes?",
         "answer": "Angle of inclination"
+    },
+    {
+        "question": "What is most commonly used to reduce the recoil of a gun?",
+        "answer": "Recoil pad"
     },
     {
         "question": "What is most important when hunting deer?",
@@ -12976,6 +13500,10 @@
         "answer": "Poaching"
     },
     {
+        "question": "What is the most commonly used method for hunting small game?",
+        "answer": "stalking"
+    },
+    {
         "question": "What is the most important thing to do in case of an injury while hiking?",
         "answer": "Treat the wound"
     },
@@ -13032,6 +13560,10 @@
         "answer": "isolation of infections"
     },
     {
+        "question": "What is the primary function of hunting grounds?",
+        "answer": "Population control"
+    },
+    {
         "question": "What is the procedure called that involves attracting birds to a hunter?",
         "answer": "Decoy"
     },
@@ -13042,6 +13574,10 @@
     {
         "question": "What is the purpose of a muzzle brake?",
         "answer": "Reducing recoil"
+    },
+    {
+        "question": "What is the purpose of a stabilizer in archery?",
+        "answer": "Stabilization of the bow"
     },
     {
         "question": "What is the purpose of a suppressor in a firearm?",
@@ -13056,8 +13592,16 @@
         "answer": "Falconry"
     },
     {
+        "question": "What is the speed of an arrow shot from a bow?",
+        "answer": "200-350 fps"
+    },
+    {
         "question": "What is the standard frame rate used in the film industry?",
         "answer": "Orenburgsky"
+    },
+    {
+        "question": "What is the system called that uses the energy of gunpowder gases?",
+        "answer": "Automation"
     },
     {
         "question": "What is the system of designating hunting grounds called?",
@@ -13116,12 +13660,20 @@
         "answer": "Sound calls"
     },
     {
+        "question": "What magnification range is optimal for hunting in the forest?",
+        "answer": "1-4x"
+    },
+    {
         "question": "What material is most commonly used for making modern crossbow strings?",
         "answer": "Synthetic"
     },
     {
         "question": "What material is often used for making hunting knives?",
         "answer": "Steel"
+    },
+    {
+        "question": "What material is preferred for a tent in winter conditions?",
+        "answer": "neoprene"
     },
     {
         "question": "What measures distance?",
@@ -13170,6 +13722,10 @@
     {
         "question": "What precautions should be taken during hunting?",
         "answer": "Silence"
+    },
+    {
+        "question": "What preparation is important before a hike?",
+        "answer": "Study the route"
     },
     {
         "question": "What process helps to remove moisture?",
@@ -13364,6 +13920,10 @@
         "answer": "Field ration"
     },
     {
+        "question": "What type of footwear helps prevent slipping on ice?",
+        "answer": "Spiked shoes"
+    },
+    {
         "question": "What type of gear is used for catching small game?",
         "answer": "Trap"
     },
@@ -13390,6 +13950,10 @@
     {
         "question": "What type of hunting requires the use of a specially trained dog?",
         "answer": "Falconry"
+    },
+    {
+        "question": "What type of hunting was popular among Mongolian warriors?",
+        "answer": "Hunting with birds of prey"
     },
     {
         "question": "What type of shooting is used to hit flying game?",
@@ -13456,6 +14020,10 @@
         "answer": "Large caliber rifle"
     },
     {
+        "question": "What weapon is popular for hunting moose?",
+        "answer": "Rifle"
+    },
+    {
         "question": "What weapon is preferred for close combat in hunting?",
         "answer": "Spear"
     },
@@ -13470,6 +14038,10 @@
     {
         "question": "What weather conditions are preferable for lynx hunting?",
         "answer": "Scythians"
+    },
+    {
+        "question": "What weather is preferable for autumn hunting?",
+        "answer": "Windless"
     },
     {
         "question": "What were the hunting scenes depicted on Ancient Roman mosaics called?",
@@ -13488,6 +14060,10 @@
         "answer": "15th century"
     },
     {
+        "question": "When do ducks usually go to the water?",
+        "answer": "Dawn"
+    },
+    {
         "question": "When does the autumn partridge hunting season open?",
         "answer": "September"
     },
@@ -13498,6 +14074,10 @@
     {
         "question": "Where are rare birds most commonly hunted?",
         "answer": "Forests"
+    },
+    {
+        "question": "Where can you find okapi in the wild?",
+        "answer": "Africa"
     },
     {
         "question": "Where can you find the giant lizard, the Komodo dragon, hunting?",
@@ -13536,8 +14116,16 @@
         "answer": "Tapir"
     },
     {
+        "question": "Which animal is often referred to by hunters as the 'forest fugitive'?",
+        "answer": "Wild boar"
+    },
+    {
         "question": "Which animal is sometimes referred to by hunters as the 'Pegasus of the jungle'?",
         "answer": "Bat"
+    },
+    {
+        "question": "Which animals are commonly found in Arctic regions?",
+        "answer": "Reindeer"
     },
     {
         "question": "Which animals cannot be hunted?",
@@ -13548,8 +14136,16 @@
         "answer": "Foxes"
     },
     {
+        "question": "Which animals were traditionally used for hunting by nomads?",
+        "answer": "Falcons"
+    },
+    {
         "question": "Which area is part of protected territories?",
         "answer": "Nature reserve"
+    },
+    {
+        "question": "Which bait element can increase the success of catching a mink?",
+        "answer": "Fish"
     },
     {
         "question": "Which bird is called the 'Royal'?",
@@ -13570,6 +14166,10 @@
     {
         "question": "Which bird is most commonly found in fields?",
         "answer": "Depends on the duck"
+    },
+    {
+        "question": "Which bird is most commonly referred to as 'royal' in hunting?",
+        "answer": "Golden Eagle"
     },
     {
         "question": "Which bird is nicknamed the 'miller bird'?",
@@ -13640,6 +14240,14 @@
         "answer": "Diy"
     },
     {
+        "question": "Which country was the first to establish nature reserves?",
+        "answer": "Germany"
+    },
+    {
+        "question": "Which dog breed can work in cold conditions?",
+        "answer": "Alaskan Malamute"
+    },
+    {
         "question": "Which dog breed can work in harsh conditions?",
         "answer": "Pay attention to clothing"
     },
@@ -13660,6 +14268,10 @@
         "answer": "Hound"
     },
     {
+        "question": "Which dog breed is known for its independent nature?",
+        "answer": "Estonian Hound"
+    },
+    {
         "question": "Which dog breed is known for its intelligence?",
         "answer": "Border Collie"
     },
@@ -13668,8 +14280,16 @@
         "answer": "Mastiff"
     },
     {
+        "question": "Which dog breed is known for its quick reflexes?",
+        "answer": "Greyhound"
+    },
+    {
         "question": "Which dog breed is known for its unique appearance with a multicolored coat?",
         "answer": "Australian Shepherd"
+    },
+    {
+        "question": "Which dog breed is suitable for hunting in difficult weather conditions?",
+        "answer": "Laika"
     },
     {
         "question": "Which dog breed is the most versatile for hunting?",

@@ -4,16 +4,60 @@
     "answer": "Interest rates"
   },
   {
+    "question": "How does price regulation affect the market?",
+    "answer": "Changes prices"
+  },
+  {
     "question": "In what year did Germany introduce the Deutsche Mark?",
     "answer": "1948"
+  },
+  {
+    "question": "In which century did the First Industrial Revolution begin?",
+    "answer": "18th century"
+  },
+  {
+    "question": "What affects a country's export level?",
+    "answer": "Currency value"
+  },
+  {
+    "question": "What are IS-LM models?",
+    "answer": "Equilibrium model"
+  },
+  {
+    "question": "What caused the Great Inflation in Germany in the 1920s?",
+    "answer": "Reparations"
   },
   {
     "question": "What caused the oil crisis of the 1970s?",
     "answer": "OPEC embargo"
   },
   {
+    "question": "What causes cost-push inflation?",
+    "answer": "Increase in production costs"
+  },
+  {
     "question": "What causes economic instability?",
     "answer": "shocks and cycles"
+  },
+  {
+    "question": "What characterizes economic cycles?",
+    "answer": "ups and downs"
+  },
+  {
+    "question": "What contributes to sustainable economic growth?",
+    "answer": "Infrastructure projects"
+  },
+  {
+    "question": "What contributes to the development of infrastructure?",
+    "answer": "Investments"
+  },
+  {
+    "question": "What does 'blue chips' mean on the stock exchange?",
+    "answer": "Reliable stocks"
+  },
+  {
+    "question": "What does 'pricing' mean?",
+    "answer": "Price formation"
   },
   {
     "question": "What does a tariff restriction include?",
@@ -24,12 +68,36 @@
     "answer": "All expenditures"
   },
   {
+    "question": "What does an autocorrelation plot show?",
+    "answer": "Relationship in time series"
+  },
+  {
+    "question": "What does marginal cost include?",
+    "answer": "Additional income"
+  },
+  {
     "question": "What does marginal cost take into account?",
     "answer": "The last unit"
   },
   {
+    "question": "What does portfolio investment theory describe?",
+    "answer": "Diversification of investments"
+  },
+  {
+    "question": "What does the IS-LM model describe?",
+    "answer": "capital and money markets"
+  },
+  {
+    "question": "What does the Modigliani-Miller theorem describe?",
+    "answer": "Capital structure"
+  },
+  {
     "question": "What does the central limit theorem describe?",
     "answer": "Normal distribution"
+  },
+  {
+    "question": "What does the copper crisis symbolize?",
+    "answer": "Copper shortage"
   },
   {
     "question": "What does the cost of ownership include?",
@@ -38,6 +106,14 @@
   {
     "question": "What does the indifference curve model describe?",
     "answer": "Consumer preferences"
+  },
+  {
+    "question": "What does the law of diminishing returns illustrate?",
+    "answer": "Diminishing increment"
+  },
+  {
+    "question": "What does the term 'default' mean?",
+    "answer": "Failure to pay debts"
   },
   {
     "question": "What does the theory of rational expectations include?",
@@ -52,12 +128,40 @@
     "answer": "Interest rate"
   },
   {
+    "question": "What event triggered the global economic crisis of the 1930s?",
+    "answer": "Black Thursday"
+  },
+  {
     "question": "What factors are important for economic growth?",
     "answer": "Technology"
   },
   {
     "question": "What happens during stagflation?",
     "answer": "Increase in inflation"
+  },
+  {
+    "question": "What is 'crowding out' in the IS-LM model?",
+    "answer": "Increase in demand"
+  },
+  {
+    "question": "What is a 'beta' coefficient?",
+    "answer": "Stock risk"
+  },
+  {
+    "question": "What is a balance of payments imbalance?",
+    "answer": "Mismatch between exports and imports"
+  },
+  {
+    "question": "What is a bond?",
+    "answer": "Debt instrument"
+  },
+  {
+    "question": "What is a short-term loan secured by securities?",
+    "answer": "Repo"
+  },
+  {
+    "question": "What is antitrust legislation?",
+    "answer": "Antitrust legislation"
   },
   {
     "question": "What is antitrust regulation?",
@@ -80,6 +184,10 @@
     "answer": "Statistical"
   },
   {
+    "question": "What is included in variable costs?",
+    "answer": "Energy costs"
+  },
+  {
     "question": "What is meant by economic stabilization?",
     "answer": "Reduction of inflation"
   },
@@ -96,8 +204,32 @@
     "answer": "Monopsony"
   },
   {
+    "question": "What is the method of regulating the economy by changing the key interest rate called?",
+    "answer": "Monetarism"
+  },
+  {
     "question": "What is the name of the estimation method that minimizes error?",
     "answer": "Least squares method"
+  },
+  {
+    "question": "What is the name of the model that explains economic growth through innovation?",
+    "answer": "Schumpeter Model"
+  },
+  {
+    "question": "What is the natural rate of unemployment?",
+    "answer": "natural rate"
+  },
+  {
+    "question": "What is the period in the market called a correction?",
+    "answer": "Prices fall"
+  },
+  {
+    "question": "What is the purpose of applying economic sanctions?",
+    "answer": "Restricting trade relations"
+  },
+  {
+    "question": "What is the purpose of tax reforms?",
+    "answer": "Optimization of the system"
   },
   {
     "question": "What is the term for a long-term economic development strategy?",
@@ -108,28 +240,76 @@
     "answer": "Export growth"
   },
   {
+    "question": "What issue is often encountered in time series?",
+    "answer": "Autocorrelation"
+  },
+  {
     "question": "What makes an economy more resilient?",
     "answer": "Diversification"
+  },
+  {
+    "question": "What measure helps to reduce inflation?",
+    "answer": "Monetary restriction"
   },
   {
     "question": "What measure is aimed at reducing the budget deficit?",
     "answer": "Reducing expenses"
   },
   {
+    "question": "What measure is used to reduce the economy's dependence on external factors?",
+    "answer": "Import substitution"
+  },
+  {
+    "question": "What method is used for cohort analysis?",
+    "answer": "Cohort analysis"
+  },
+  {
+    "question": "What method is used to assess market value?",
+    "answer": "Fundamental analysis"
+  },
+  {
     "question": "What method is used to reduce standard errors in statistics?",
     "answer": "Bootstrap"
+  },
+  {
+    "question": "What principle states that choices are made to maximize satisfaction with minimal costs?",
+    "answer": "Consumer rationality"
   },
   {
     "question": "What role does international trade policy play?",
     "answer": "Control of exports"
   },
   {
+    "question": "Which clustering method is based on distance?",
+    "answer": "K-means"
+  },
+  {
     "question": "Which company was the first to be listed on NASDAQ?",
     "answer": "Apple"
   },
   {
+    "question": "Which country has the DAX stock index?",
+    "answer": "Germany"
+  },
+  {
+    "question": "Which country was the first to develop mercantilist policy?",
+    "answer": "France"
+  },
+  {
+    "question": "Which country was the first to introduce bank checks?",
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Which document established the modern international financial system after World War II?",
+    "answer": "Bretton Woods Agreement"
+  },
+  {
     "question": "Which econometric method is based on maximizing likelihood?",
     "answer": "Maximum likelihood method"
+  },
+  {
+    "question": "Which economic model shows the distribution of income and expenses?",
+    "answer": "Keynesian model"
   },
   {
     "question": "Which economic theory claims that high taxes reduce incentives to work and invest?",
@@ -144,6 +324,10 @@
     "answer": "Gini coefficient"
   },
   {
+    "question": "Which industry adapts to innovations the fastest?",
+    "answer": "IT sector"
+  },
+  {
     "question": "Which model analyzes competition between two firms?",
     "answer": "Duopoly model"
   },
@@ -152,8 +336,20 @@
     "answer": "Solow model"
   },
   {
+    "question": "Which model is used to analyze the relationships between dependent and independent variables?",
+    "answer": "Regression"
+  },
+  {
+    "question": "Which model takes into account the effects of learning in practice?",
+    "answer": "Arrow's Model"
+  },
+  {
     "question": "Which statistical technique is used to test the significance of predictors?",
     "answer": "Fisher's Test"
+  },
+  {
+    "question": "Which test is used to check the stationarity of time series?",
+    "answer": "ADF test"
   },
   {
     "question": "Who founded the first bank?",
@@ -162,5 +358,13 @@
   {
     "question": "Who introduced the term 'capitalism'?",
     "answer": "Karl Marx"
+  },
+  {
+    "question": "Who won the Nobel Prize in Economics?",
+    "answer": "Hausman"
+  },
+  {
+    "question": "Why is diversification necessary?",
+    "answer": "Risk reduction"
   }
 ]
