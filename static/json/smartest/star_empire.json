@@ -76,6 +76,10 @@
     "answer": "Conversation with Yoda"
   },
   {
+    "question": "How did Obi-Wan Kenobi adapt his plans in changing conditions?",
+    "answer": "Flexibility"
+  },
+  {
     "question": "How did Obi-Wan Kenobi develop his diplomatic skills in complex negotiations?",
     "answer": "Practice"
   },
@@ -314,6 +318,14 @@
   {
     "question": "How do Mandalorians define their identity in the galaxy?",
     "answer": "Clan loyalty"
+  },
+  {
+    "question": "How do Mandalorians determine their path in the galaxy?",
+    "answer": "Through combat"
+  },
+  {
+    "question": "How do Mandalorians explain their resilience in conflict situations?",
+    "answer": "Strength of spirit"
   },
   {
     "question": "How do Mandalorians handle conflicts?",
@@ -1364,6 +1376,10 @@
     "answer": "Victory"
   },
   {
+    "question": "What early experience of Han Solo influenced his piloting skills?",
+    "answer": "Smuggling"
+  },
+  {
     "question": "What editing style affects the dynamism of fight scenes?",
     "answer": "Dynamic"
   },
@@ -1464,6 +1480,10 @@
     "answer": "The Force"
   },
   {
+    "question": "What event brought Han and the Alliance closer?",
+    "answer": "Battle of Yavin"
+  },
+  {
     "question": "What event can lead to the formation of a black hole?",
     "answer": "Collapse of a star"
   },
@@ -1478,6 +1498,10 @@
   {
     "question": "What event changed Luke's views on his father?",
     "answer": "Duel on Endor"
+  },
+  {
+    "question": "What event defined Luke's long-term goal in the galaxy?",
+    "answer": "Restoration of the Order"
   },
   {
     "question": "What event defined Yoda's role in the Jedi Order?",
@@ -2358,6 +2382,10 @@
     "answer": "Stellar merger"
   },
   {
+    "question": "What is the purpose of warrior training in Mandalorian culture?",
+    "answer": "Combat skills"
+  },
+  {
     "question": "What is the region around a star called where liquid water can potentially exist on a planet?",
     "answer": "Habitable zone"
   },
@@ -2428,6 +2456,10 @@
   {
     "question": "What is the ultimate goal of studying the dark side?",
     "answer": "Absolute power"
+  },
+  {
+    "question": "What is the weapon called that is used to defend against enemy ships?",
+    "answer": "Ion cannon"
   },
   {
     "question": "What is the weapon called that is used to suppress enemy systems in space combat?",
@@ -2802,6 +2834,10 @@
     "answer": "The Imperial March"
   },
   {
+    "question": "What mysterious phenomenon unites Han and Chewbacca?",
+    "answer": "The Force"
+  },
+  {
     "question": "What mystical attribute accompanies Chewbacca?",
     "answer": "Crossbow"
   },
@@ -2900,6 +2936,10 @@
   {
     "question": "What philosophical concept underlies the Mandalorian way of life?",
     "answer": "Mandalore"
+  },
+  {
+    "question": "What philosophical contradictions led to Darth Vader's internal conflict?",
+    "answer": "Light and darkness"
   },
   {
     "question": "What philosophical difference between the Jedi and the Sith defined their conflict?",
@@ -3179,6 +3219,10 @@
     "answer": "Warlord"
   },
   {
+    "question": "What rare element connects the fates of Han and Chewbacca?",
+    "answer": "Spice"
+  },
+  {
     "question": "What rare mineral became a challenge for Han and Chewbacca?",
     "answer": "Kyberite"
   },
@@ -3237,6 +3281,10 @@
   {
     "question": "What role did Obi-Wan Kenobi play in a complex diplomatic mission that required his presence?",
     "answer": "Mediator"
+  },
+  {
+    "question": "What role did Obi-Wan Kenobi play in preventing the destruction of Coruscant?",
+    "answer": "Leader of the defense"
   },
   {
     "question": "What role did Obi-Wan Kenobi play in the defense of the Republic?",
@@ -3523,6 +3571,10 @@
     "answer": "Control of both sides"
   },
   {
+    "question": "What strategic resource did the Empire seek to control?",
+    "answer": "Hyperspace"
+  },
+  {
     "question": "What strategic significance do the Mandalorians have in galactic conflicts?",
     "answer": "Key allies"
   },
@@ -3563,6 +3615,10 @@
     "answer": "Stealth tactics"
   },
   {
+    "question": "What strategy did Obi-Wan use to uncover the plot on Kamino?",
+    "answer": "Infiltration"
+  },
+  {
     "question": "What strategy do DC mages use to maintain magical balance?",
     "answer": "Energy monitoring"
   },
@@ -3596,6 +3652,10 @@
   {
     "question": "What symbol is most commonly associated with Jedi?",
     "answer": "Lightsaber"
+  },
+  {
+    "question": "What symbol represented the ideology of the Empire in 'Star Wars'?",
+    "answer": "Imperial emblem"
   },
   {
     "question": "What symbol unites the Mandalorians in their struggle?",
@@ -3797,6 +3857,10 @@
     "answer": "Spirit transfer"
   },
   {
+    "question": "What technique did Yoda use to move objects?",
+    "answer": "Telekinesis"
+  },
+  {
     "question": "What technique did the Jedi use to enhance their abilities in battle?",
     "answer": "Battle Meditation"
   },
@@ -3819,6 +3883,10 @@
   {
     "question": "What technique do Jedi use to protect their minds from dark influences?",
     "answer": "Force Resistance"
+  },
+  {
+    "question": "What technique do Jedi use to sense danger?",
+    "answer": "Danger Sense"
   },
   {
     "question": "What technique do the Sith use to control physical objects?",
@@ -3969,6 +4037,10 @@
     "answer": "Movie projector"
   },
   {
+    "question": "What tradition helps preserve Mandalorian identity?",
+    "answer": "Military rituals"
+  },
+  {
     "question": "What tradition was an important part of Jedi life?",
     "answer": "Meditation"
   },
@@ -3987,6 +4059,10 @@
   {
     "question": "What trial did Chewbacca overcome to earn respect?",
     "answer": "Life Debt"
+  },
+  {
+    "question": "What trial did Yoda conduct in the Jedi Temple?",
+    "answer": "Duel with shadows"
   },
   {
     "question": "What trial did Yoda consider necessary for a true Jedi?",
@@ -4031,6 +4107,10 @@
   {
     "question": "What type of droids were actively used by the Separatists at the beginning of the Clone Wars?",
     "answer": "Battle droids"
+  },
+  {
+    "question": "What type of droids were effectively used in battles due to adaptive tactics?",
+    "answer": "Combat droids"
   },
   {
     "question": "What type of energy is released during the gravitational contraction of stars?",
@@ -4193,6 +4273,10 @@
     "answer": "Electromagnetic storms"
   },
   {
+    "question": "What vehicle did Kylo Ren travel in within the Empire?",
+    "answer": "TIE Fighter"
+  },
+  {
     "question": "What vehicle did the Empire use for patrolling cities?",
     "answer": "AT-ST"
   },
@@ -4255,6 +4339,14 @@
   {
     "question": "What was Obi-Wan's main tactical objective in the Battle of Coruscant?",
     "answer": "Rescue the Chancellor"
+  },
+  {
+    "question": "What was the ancient teaching that united the Jedi called?",
+    "answer": "Ashla"
+  },
+  {
+    "question": "What was the color of the lightsaber used by Obi-Wan on Mustafar?",
+    "answer": "Blue"
   },
   {
     "question": "What was the decisive factor in the duel between the two Jedi brothers on the volcanic planet?",
@@ -4359,6 +4451,10 @@
   {
     "question": "What was the name of the founder of the Jedi Order?",
     "answer": "Rai-No"
+  },
+  {
+    "question": "What was the name of the graphic style used in the original trilogy?",
+    "answer": "Retro-futurism"
   },
   {
     "question": "What was the name of the plan to intercept separatist supplies?",
@@ -4502,6 +4598,10 @@
   {
     "question": "What were the main principles of Darth Vader's life after joining the Sith?",
     "answer": "Power and strength"
+  },
+  {
+    "question": "What were the reasons for the conflict between Darth Vader and Luke Skywalker in 'Star Wars'?",
+    "answer": "Father and son"
   },
   {
     "question": "What wisdom of Yoda helps to overcome fear?",
@@ -5228,6 +5328,10 @@
     "question": "Which bounty hunter was known for his collaboration with the Empire?"
   },
   {
+    "question": "Which bounty hunter was known for his hatred of clones?",
+    "answer": "Durge"
+  },
+  {
     "question": "Which bounty hunter was known for his skill in close combat?",
     "answer": "Embo"
   },
@@ -5601,6 +5705,10 @@
     "answer": "The Phantom Menace"
   },
   {
+    "question": "Which film was the first to use motion capture technology?",
+    "answer": "Episode I"
+  },
+  {
     "question": "Which film was the first to use the Dolby Stereo sound system?",
     "answer": "Star Wars: A New Hope"
   },
@@ -5956,6 +6064,10 @@
     "answer": "Alderaan"
   },
   {
+    "question": "Which planet is the cradle of Jedi philosophy?",
+    "answer": "Ahch-To"
+  },
+  {
     "question": "Which planet is the largest in the Solar System?",
     "answer": "Jupiter"
   },
@@ -6262,6 +6374,10 @@
   {
     "question": "Who designed the interiors of the spacecraft?",
     "answer": "Norman Reynolds"
+  },
+  {
+    "question": "Who developed the conceptual architecture for planets?",
+    "answer": "Ralph McQuarrie"
   },
   {
     "question": "Who developed the sound effects for the first film?",
