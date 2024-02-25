@@ -3973,6 +3973,10 @@
         "answer": "1854"
     },
     {
+        "question": "In what year was the Prada brand founded?",
+        "answer": "1913"
+    },
+    {
         "question": "In what year was the first fashion show held?",
         "answer": "1903"
     },
@@ -4103,6 +4107,10 @@
     {
         "question": "What fashion style was popular in the 19th century?",
         "answer": "Victorian"
+    },
+    {
+        "question": "What fashion trend reduces textile waste?",
+        "answer": "Reuse"
     },
     {
         "question": "What footwear is associated with the Gothic style?",
@@ -4323,6 +4331,10 @@
     {
         "question": "What technology helps reduce textile waste?",
         "answer": "Zero-Waste Technology"
+    },
+    {
+        "question": "What technology is used for creating new fabrics?",
+        "answer": "Nanotechnology"
     },
     {
         "question": "What technology is used in smart sneakers?",
@@ -4677,6 +4689,10 @@
         "answer": "empire"
     },
     {
+        "question": "Which fabric is made from mushrooms?",
+        "answer": "Mylo"
+    },
+    {
         "question": "Which fabric is rarely used in high fashion?",
         "answer": "Denim"
     },
@@ -4867,6 +4883,10 @@
     {
         "question": "Who is known for using architecture in fashion?",
         "answer": "Iris van Herpen"
+    },
+    {
+        "question": "Who is often seen in sportswear?",
+        "answer": "Rihanna"
     },
     {
         "question": "Who is referred to as the 'icon of high fashion'?",
@@ -20778,6 +20798,10 @@
         "answer": "Quantum computing"
     },
     {
+        "question": "Gram-negative bacteria have an additional layer of what?",
+        "answer": "Lipopolysaccharide"
+    },
+    {
         "question": "How are nanoscale layers produced?",
         "answer": "Sputtering"
     },
@@ -20809,6 +20833,10 @@
         "answer": "9"
     },
     {
+        "question": "How many electrons can occupy a p-orbital?",
+        "answer": "Six"
+    },
+    {
         "question": "How many moons does Jupiter have as of 2021?",
         "answer": "79"
     },
@@ -20819,6 +20847,10 @@
     {
         "question": "How many teeth does a shark have?",
         "answer": "3000"
+    },
+    {
+        "question": "In what units is magnitude measured?",
+        "answer": "Logarithmic units"
     },
     {
         "question": "In what year did Newton publish 'Mathematical Principles of Natural Philosophy'?",
@@ -20873,7 +20905,15 @@
         "answer": "Australia"
     },
     {
+        "question": "Tectonic plates move due to what?",
+        "answer": "Mantle"
+    },
+    {
         "question": "The Michelson-Morley experiment proved the absence of?"
+    },
+    {
+        "question": "To which class of substances does phenol belong?",
+        "answer": "Phenols"
     },
     {
         "question": "Type of geological structure of mountains?",
@@ -20932,12 +20972,24 @@
         "answer": "Identity identification"
     },
     {
+        "question": "What are homologous chromosomes?",
+        "answer": "Paired chromosomes"
+    },
+    {
         "question": "What are iron nanoparticles used for?",
         "answer": "Water purification"
     },
     {
+        "question": "What are long-term and persistent changes in climate called?",
+        "answer": "Climate changes"
+    },
+    {
         "question": "What are machine learning algorithms?",
         "answer": "Learning from data"
+    },
+    {
+        "question": "What are microorganisms called that live in extremely high salinity conditions?",
+        "answer": "Halophiles"
     },
     {
         "question": "What are microorganisms smaller than 1 micrometer called?",
@@ -20966,6 +21018,14 @@
     {
         "question": "What are plants that live on trees called?",
         "answer": "Epiphytes"
+    },
+    {
+        "question": "What are potential wells called in quantum mechanics?",
+        "answer": "Quantized potential wells"
+    },
+    {
+        "question": "What are prokaryotes?",
+        "answer": "Single-celled organisms"
     },
     {
         "question": "What are ribosomes?",
@@ -21040,8 +21100,16 @@
         "answer": "Adiabatic process"
     },
     {
+        "question": "What cells are used in gene therapy?",
+        "answer": "Somatic cells"
+    },
+    {
         "question": "What changes during a quantum leap?",
         "answer": "energy state"
+    },
+    {
+        "question": "What changes the sea level?",
+        "answer": "Melting ice"
     },
     {
         "question": "What characterizes a chemical reaction?",
@@ -21066,6 +21134,10 @@
     {
         "question": "What determines the structure of a protein?",
         "answer": "Sequence of amino acids"
+    },
+    {
+        "question": "What determines the validity of scientific solutions?",
+        "answer": "Verification"
     },
     {
         "question": "What device is used for DNA analysis?",
@@ -21114,6 +21186,10 @@
     {
         "question": "What does Hooke's Law describe?",
         "answer": "Deformation of bodies"
+    },
+    {
+        "question": "What does REST mean in web development?",
+        "answer": "Architectural style"
     },
     {
         "question": "What does a compiler program do?",
@@ -21172,6 +21248,10 @@
         "answer": "Breakdown of molecules"
     },
     {
+        "question": "What does limnology study?",
+        "answer": "Lakes"
+    },
+    {
         "question": "What does logic deal with in science?",
         "answer": "analyzing arguments"
     },
@@ -21216,6 +21296,10 @@
         "answer": "Behavior"
     },
     {
+        "question": "What does the first law of thermodynamics state?",
+        "answer": "conservation of energy"
+    },
+    {
         "question": "What does the function f(x) do in mathematics?",
         "answer": "The dependence of y on x"
     },
@@ -21252,12 +21336,24 @@
         "answer": "Hydrogen and helium"
     },
     {
+        "question": "What equation did Maxwell propose?",
+        "answer": "Maxwell's Equations"
+    },
+    {
+        "question": "What factor affects climate change?",
+        "answer": "Greenhouse gases"
+    },
+    {
         "question": "What factor affects the humidity level?",
         "answer": "Temperature"
     },
     {
         "question": "What factor is associated with the possibility of life existing on other planets?",
         "answer": "Encephalization factor"
+    },
+    {
+        "question": "What factor most often leads to forest fires?",
+        "answer": "Human factor"
     },
     {
         "question": "What factors influence climatic conditions?",
@@ -21304,6 +21400,14 @@
         "answer": "Domain Name System"
     },
     {
+        "question": "What is GNU/Linux?",
+        "answer": "Operating System"
+    },
+    {
+        "question": "What is PCR used for?",
+        "answer": "DNA cloning"
+    },
+    {
         "question": "What is Popper's criterion?",
         "answer": "Falsifiability"
     },
@@ -21324,6 +21428,14 @@
         "answer": "A fish that migrates to the sea"
     },
     {
+        "question": "What is a chromatograph used for?",
+        "answer": "Separation of a mixture"
+    },
+    {
+        "question": "What is a colloidal solution?",
+        "answer": "Disperse system"
+    },
+    {
         "question": "What is a consequence of quantum entanglement?",
         "answer": "Quantum entanglement"
     },
@@ -21340,12 +21452,28 @@
         "answer": "Metalworking"
     },
     {
+        "question": "What is a light year?",
+        "answer": "The distance that light travels in one year"
+    },
+    {
+        "question": "What is a microbiological matrix?",
+        "answer": "aggregates of bacteria"
+    },
+    {
+        "question": "What is a microbiome?",
+        "answer": "A collection of microorganisms"
+    },
+    {
         "question": "What is a nanomedical research method?",
         "answer": "Nanosonding"
     },
     {
         "question": "What is a nephelometer used for?",
         "answer": "Measuring turbidity"
+    },
+    {
+        "question": "What is a polynomial of the second degree called?",
+        "answer": "quadratic"
     },
     {
         "question": "What is a potential application of magnetite nanoparticles?",
@@ -21556,6 +21684,10 @@
         "answer": "Salicylic"
     },
     {
+        "question": "What is the ancient ancestor of horses?",
+        "answer": "Eohippus"
+    },
+    {
         "question": "What is the antiderivative of a function?",
         "answer": "Integral"
     },
@@ -21740,6 +21872,10 @@
         "answer": "Triangulation"
     },
     {
+        "question": "What is the method called for obtaining satisfactory approximations for solving equations?",
+        "answer": "Newton's Method"
+    },
+    {
         "question": "What is the method called for teaching robots new actions?",
         "answer": "Machine learning"
     },
@@ -21836,6 +21972,10 @@
         "answer": "Red dwarfs"
     },
     {
+        "question": "What is the name of the exoplanet similar to Earth?",
+        "answer": "Kepler-452b"
+    },
+    {
         "question": "What is the name of the first Turing machine?",
         "answer": "Universal machine"
     },
@@ -21892,6 +22032,10 @@
         "answer": "Quantum Chromodynamics"
     },
     {
+        "question": "What is the name of the type of corolla with fused petals?",
+        "answer": "Gamopetaly"
+    },
+    {
         "question": "What is the name of the underground location where an earthquake begins?",
         "answer": "Hypocenter"
     },
@@ -21902,6 +22046,10 @@
     {
         "question": "What is the name of wind erosion?",
         "answer": "Deflation"
+    },
+    {
+        "question": "What is the number i?",
+        "answer": "Imaginary unit"
     },
     {
         "question": "What is the operation of finding a derivative called?",
@@ -21999,6 +22147,10 @@
         "answer": "Germination"
     },
     {
+        "question": "What is the purpose of a theory?",
+        "answer": "Explanation of facts"
+    },
+    {
         "question": "What is the purpose of bioremediation?",
         "answer": "Environmental cleanup"
     },
@@ -22015,6 +22167,10 @@
         "answer": "Catalysts"
     },
     {
+        "question": "What is the scientific theory called that suggests life originated in space and was transferred to Earth?",
+        "answer": "Panspermia"
+    },
+    {
         "question": "What is the self-assembly technique often used for in nanotechnology?",
         "answer": "Creating nanodevices"
     },
@@ -22025,6 +22181,10 @@
     {
         "question": "What is the spontaneous evaporation of particles from a black hole called?",
         "answer": "Hawking radiation"
+    },
+    {
+        "question": "What is the study of ancient organisms in sediments called?",
+        "answer": "Paleontology"
     },
     {
         "question": "What is the study of microorganisms on the skin surface called?",
@@ -22049,6 +22209,10 @@
     {
         "question": "What is the term for the tendency of blood to clot?",
         "answer": "Hypercoagulation"
+    },
+    {
+        "question": "What is the term for the use of Earth's resources?",
+        "answer": "Geoexploitation"
     },
     {
         "question": "What is the test for material strength called?"
@@ -22146,6 +22310,10 @@
         "answer": "Hubble's Law"
     },
     {
+        "question": "What method is used for cell propagation?",
+        "answer": "Passaging"
+    },
+    {
         "question": "What method is used for cleaning polluted water bodies?",
         "answer": "Bioremediation"
     },
@@ -22234,6 +22402,10 @@
         "answer": "Pascal's Law"
     },
     {
+        "question": "What process allows bacteria to exchange genes directly?",
+        "answer": "Conjugation"
+    },
+    {
         "question": "What process enhances signal transmission between neurons?",
         "answer": "Potentiation"
     },
@@ -22248,6 +22420,10 @@
     {
         "question": "What process is important for cross-fertilization?",
         "answer": "Meiosis"
+    },
+    {
+        "question": "What process is involved in the transmission of signals across synapses?",
+        "answer": "Exocytosis"
     },
     {
         "question": "What process is necessary for the formation of oil?",
@@ -22302,6 +22478,10 @@
         "answer": "Carbon-14"
     },
     {
+        "question": "What regulates gene expression?",
+        "answer": "Regulatory proteins"
+    },
+    {
         "question": "What regulates the process of gas exchange in leaves?",
         "answer": "Stomata"
     },
@@ -22316,6 +22496,10 @@
     {
         "question": "What role do nanoparticles play?",
         "answer": "Catalytic"
+    },
+    {
+        "question": "What satellites are used to study deep space?",
+        "answer": "Observatories"
     },
     {
         "question": "What science studies animal behavior?",
@@ -22386,12 +22570,24 @@
         "answer": "121 °C"
     },
     {
+        "question": "What tool is used for DNA analysis?",
+        "answer": "PCR thermocycler"
+    },
+    {
         "question": "What tool is used for cutting metal pipes?",
         "answer": "Pipe cutter"
     },
     {
         "question": "What type of cell division leads to the formation of gametes?",
         "answer": "Meiosis"
+    },
+    {
+        "question": "What type of chemical reaction is characteristic of aromatic hydrocarbons?",
+        "answer": "Electrophilic substitution"
+    },
+    {
+        "question": "What type of chemical reaction is fundamental for hydrocarbons?",
+        "answer": "Substitution"
     },
     {
         "question": "What type of fossils does micropaleontology study?",
@@ -22454,6 +22650,10 @@
         "answer": "1900"
     },
     {
+        "question": "Where are endorphins produced?",
+        "answer": "Pituitary gland"
+    },
+    {
         "question": "Where are fossils best preserved?",
         "answer": "In sedimentary rocks"
     },
@@ -22472,6 +22672,10 @@
     {
         "question": "Where is a CNC machine used?",
         "answer": "Metalworking"
+    },
+    {
+        "question": "Where is the famous fossil 'Lucy' located?",
+        "answer": "Ethiopia"
     },
     {
         "question": "Where is the heart of a giraffe located?",
@@ -22496,6 +22700,10 @@
     {
         "question": "Which algorithm is used to find the shortest path?",
         "answer": "Dijkstra's"
+    },
+    {
+        "question": "Which animal can survive without water longer than a camel?",
+        "answer": "Rat"
     },
     {
         "question": "Which animal has the largest cerebral cortex?",
@@ -22533,6 +22741,10 @@
         "answer": "rhizobia"
     },
     {
+        "question": "Which bacterium causes tuberculosis?",
+        "answer": "Mycobacterium tuberculosis"
+    },
+    {
         "question": "Which bacterium is used in plant genetic engineering?",
         "answer": "Agrobacterium"
     },
@@ -22550,6 +22762,10 @@
     },
     {
         "question": "Which cells contain chloroplasts?"
+    },
+    {
+        "question": "Which cells form the basis of the optic nerve?",
+        "answer": "Ganglion cells"
     },
     {
         "question": "Which cells have a full set of chromosomes?",
@@ -22572,6 +22788,10 @@
         "answer": "L'Aquila"
     },
     {
+        "question": "Which clouds are considered low-level clouds?",
+        "answer": "Cumulus"
+    },
+    {
         "question": "Which clouds cause rain showers?",
         "answer": "Nimbostratus"
     },
@@ -22592,6 +22812,10 @@
         "answer": "Lyra"
     },
     {
+        "question": "Which country leads in the production of industrial robots?",
+        "answer": "Japan"
+    },
+    {
         "question": "Which country suffers the most from hurricanes due to its geographical location?",
         "answer": "Philippines"
     },
@@ -22610,6 +22834,10 @@
     {
         "question": "Which discovery is associated with John Keeble?",
         "answer": "Carbon monoxide"
+    },
+    {
+        "question": "Which disorder is associated with the presence of an abnormal chromosome 21?",
+        "answer": "Down syndrome"
     },
     {
         "question": "Which element contains 79 protons?",
@@ -22634,6 +22862,10 @@
     {
         "question": "Which element is known as a corrosion-resistant metal?",
         "answer": "Titanium"
+    },
+    {
+        "question": "Which element was first isolated by Henri Becquerel?",
+        "answer": "Uranium"
     },
     {
         "question": "Which epoch began 2.6 million years ago?",
@@ -22708,6 +22940,10 @@
         "answer": "Oscilloscope"
     },
     {
+        "question": "Which is the nearest exoplanet located in the habitable zone?",
+        "answer": "Proxima b"
+    },
+    {
         "question": "Which law describes the motion of planets?",
         "answer": "Kepler's Law"
     },
@@ -22780,6 +23016,10 @@
         "answer": "Pacific"
     },
     {
+        "question": "Which of the following applications of nanotechnology in medicine is already in use?",
+        "answer": "Drug delivery"
+    },
+    {
         "question": "Which of the following fields is a metascience?",
         "answer": "Epistemology"
     },
@@ -22804,8 +23044,20 @@
         "answer": "Biofiltration"
     },
     {
+        "question": "Which of these tissues is responsible for the growth of plants in length?",
+        "answer": "Apical meristem"
+    },
+    {
         "question": "Which organisms are involved in bioremediation?",
         "answer": "Microbes"
+    },
+    {
+        "question": "Which organisms are most likely to become fossils?",
+        "answer": "Mollusks"
+    },
+    {
+        "question": "Which organisms are necessary for nitrogen fixation?",
+        "answer": "Bacteria"
     },
     {
         "question": "Which organisms live at low temperatures?",
@@ -22834,6 +23086,10 @@
     {
         "question": "Which part of the brain regulates emotions?",
         "answer": "Limbic system"
+    },
+    {
+        "question": "Which part of the brain regulates motivation and reward?",
+        "answer": "Ventral tegmental area"
     },
     {
         "question": "Which part of the flower turns into a fruit?",
@@ -22932,6 +23188,10 @@
         "answer": "Chemistry"
     },
     {
+        "question": "Which science deals with the design and construction of buildings?",
+        "answer": "Architecture"
+    },
+    {
         "question": "Which science does the method of mathematical modeling belong to?",
         "answer": "Cybernetics"
     },
@@ -22980,6 +23240,10 @@
         "answer": "Oxygen"
     },
     {
+        "question": "Which substance from car exhausts destroys the ozone layer?",
+        "answer": "Nitrogen oxides"
+    },
+    {
         "question": "Which substance plays a key role in the transmission of pain signals?",
         "answer": "Substance P"
     },
@@ -23004,8 +23268,20 @@
         "answer": "Kepler"
     },
     {
+        "question": "Which test for hereditary diseases is called amniocentesis?",
+        "answer": "Amniocentesis"
+    },
+    {
         "question": "Which theory describes the instantaneous connection between particles regardless of distance?",
         "answer": "Quantum entanglement"
+    },
+    {
+        "question": "Which theory explains quantum fluctuations?",
+        "answer": "Quantum field theory"
+    },
+    {
+        "question": "Which theory suggests the existence of multiple parallel universes?",
+        "answer": "Multiverse"
     },
     {
         "question": "Which theory unifies electromagnetic and weak interactions?",
@@ -23079,6 +23355,10 @@
         "answer": "Albert Einstein"
     },
     {
+        "question": "Who discovered the radioactive element uranium?",
+        "answer": "Martin Klaproth"
+    },
+    {
         "question": "Who discovered the starch-iodine reagent?",
         "answer": "Friedrich Schönbein"
     },
@@ -23111,6 +23391,10 @@
         "answer": "Karl Love"
     },
     {
+        "question": "Who founded organic chemistry?",
+        "answer": "Friedrich Wöhler"
+    },
+    {
         "question": "Who introduced the concept of 'paradigm' in science?",
         "answer": "Thomas Kuhn"
     },
@@ -23135,6 +23419,10 @@
         "answer": "Volta"
     },
     {
+        "question": "Who invented the modern logarithmic rule?",
+        "answer": "John Napier"
+    },
+    {
         "question": "Who is considered the founder of microbiology?",
         "answer": "Louis Pasteur"
     },
@@ -23149,6 +23437,10 @@
     {
         "question": "Who performs heart surgeries?",
         "answer": "Cardiac surgeon"
+    },
+    {
+        "question": "Who proposed the atomic theory?",
+        "answer": "Dalton"
     },
     {
         "question": "Who proposed the classification system for living organisms?",
@@ -23173,6 +23465,10 @@
     {
         "question": "Who proposed the term 'nanotechnology'?",
         "answer": "Norio Taniguchi"
+    },
+    {
+        "question": "Who treats blood vessels?",
+        "answer": "Angiologist"
     },
     {
         "question": "Who treats mental disorders?",
