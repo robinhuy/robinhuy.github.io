@@ -1,5 +1,9 @@
 [
   {
+    "question": "At which festival did Nirvana perform for the first time?",
+    "answer": "Reading"
+  },
+  {
     "question": "At which festival did The Rolling Stones first perform in 1969?",
     "answer": "Altamont Free Concert"
   },
@@ -256,6 +260,10 @@
     "answer": "The Continental"
   },
   {
+    "question": "Name the instrument with a double reed.",
+    "answer": "Oboe"
+  },
+  {
     "question": "Name the music style that was popular in New York in the 1970s?",
     "answer": "Hip-hop"
   },
@@ -276,12 +284,20 @@
     "answer": "The Little Mermaid"
   },
   {
+    "question": "What album did A Tribe Called Quest release in 2016?",
+    "answer": "We Got It from Here... Thank You 4 Your Service"
+  },
+  {
     "question": "What album did Green Day release in 2020?",
     "answer": "Father of All..."
   },
   {
     "question": "What album did Radiohead release in 2000?",
     "answer": "Kid A"
+  },
+  {
+    "question": "What album did the band 'Bon Jovi' release in 1986?",
+    "answer": "Slippery When Wet"
   },
   {
     "question": "What album did the band Mudhoney release in 1988?",
@@ -772,6 +788,10 @@
     "answer": "Piano"
   },
   {
+    "question": "What is the name of the famous 1967 rock festival in California?",
+    "answer": "Monterey Pop"
+  },
+  {
     "question": "What is the name of the famous American folk song known from the Civil War period?",
     "answer": "Battle Hymn of the Republic"
   },
@@ -780,12 +800,20 @@
     "answer": "This Land"
   },
   {
+    "question": "What is the name of the famous album by Charles Mingus?",
+    "answer": "The Black Saint and the Sinner Lady"
+  },
+  {
     "question": "What is the name of the famous album by Mudhoney released in 1991?",
     "answer": "Every Good Boy Deserves Fudge"
   },
   {
     "question": "What is the name of the famous opera by Giuseppe Verdi about an Egyptian princess?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of the famous work by Adolphe Adam?",
+    "answer": "Giselle"
   },
   {
     "question": "What is the name of the festival that brought together legendary rock bands in 1985 in London and Philadelphia?",
@@ -802,6 +830,10 @@
   {
     "question": "What is the name of the first drum machine?",
     "answer": "Rhythmicon"
+  },
+  {
+    "question": "What is the name of the first live album by The Smashing Pumpkins?",
+    "answer": "Earphoria"
   },
   {
     "question": "What is the name of the first woman to win a Grammy for Album of the Year?",
@@ -866,6 +898,10 @@
   {
     "question": "What is the name of the popular rhythm in reggae?",
     "answer": "Syncopation"
+  },
+  {
+    "question": "What is the name of the second song on the album 'Nevermind'?",
+    "answer": "In Bloom"
   },
   {
     "question": "What is the name of the singer who performed the hits 'Forever and Ever, Amen' and 'I'm Gonna Love You Forever'?",
@@ -980,12 +1016,20 @@
     "answer": ""
   },
   {
+    "question": "What is the technique used to change the pitch and timbre of sound called?",
+    "answer": "Filtering"
+  },
+  {
     "question": "What is the title of D'Angelo's debut album from 1995?",
     "answer": "Brown Sugar"
   },
   {
     "question": "What is the vocal technique called where a singer uses both chest and head registers?",
     "answer": "Mix"
+  },
+  {
+    "question": "What is the vocal technique called where different registers are used?",
+    "answer": "Yodel"
   },
   {
     "question": "What is the voice type of Plácido Domingo?",
@@ -1216,6 +1260,10 @@
     "answer": "1997"
   },
   {
+    "question": "When was the opera 'Lady Macbeth of the Mtsensk District' written?",
+    "answer": "1934"
+  },
+  {
     "question": "Where are major dubstep music festivals held?",
     "answer": "USA"
   },
@@ -1266,6 +1314,10 @@
   {
     "question": "Which DJ is known for the Defected show?",
     "answer": "Simon Dunmore"
+  },
+  {
+    "question": "Which DJ is nicknamed 'Bald Terror'?",
+    "answer": "Angerfist"
   },
   {
     "question": "Which Daft Punk album is considered a classic in house music?",
@@ -1362,6 +1414,10 @@
   {
     "question": "Which album won the Grammy Award in 1999?",
     "answer": "Supernatural"
+  },
+  {
+    "question": "Which architectural style is associated with a flying buttress?",
+    "answer": "Gothic"
   },
   {
     "question": "Which artist became famous with the album 'Igor'?",
@@ -1532,6 +1588,10 @@
     "answer": "Robert Schumann"
   },
   {
+    "question": "Which composer wrote the 'Symphony of a Thousand'?",
+    "answer": "Gustav Mahler"
+  },
+  {
     "question": "Which composer wrote the cycle 'Aaron's Songs'?",
     "answer": "Leon Kirchner"
   },
@@ -1684,6 +1744,10 @@
     "answer": "Illmatic"
   },
   {
+    "question": "Which hip-hop label was founded by Suge Knight?",
+    "answer": "Death Row Records"
+  },
+  {
     "question": "Which hit did Ava Max perform in the 2020s?",
     "answer": "Kings & Queens"
   },
@@ -1788,6 +1852,10 @@
     "answer": "Tech-metal"
   },
   {
+    "question": "Which metal genre is typically characterized by high technicality and complexity in performance?",
+    "answer": "Technical death metal"
+  },
+  {
     "question": "Which metal genre often features anti-Christian themes?",
     "answer": "Black metal"
   },
@@ -1802,6 +1870,10 @@
   {
     "question": "Which metal subgenre includes elements of jazz and fusion?",
     "answer": "Jazz metal"
+  },
+  {
+    "question": "Which metal subgenre is characterized by elements of heavy riffing?",
+    "answer": "Sludge metal"
   },
   {
     "question": "Which metal subgenre is characterized by the use of death metal vocals and bluesy riffs?",
@@ -1928,6 +2000,10 @@
     "answer": "Symphony"
   },
   {
+    "question": "Which musical genre originated in the Ars Nova period?",
+    "answer": "Isorhythm"
+  },
+  {
     "question": "Which musical genre uses mathematical structures?",
     "answer": "Spectral music"
   },
@@ -2042,6 +2118,10 @@
   {
     "question": "Which romance does Fyodor Chaliapin perform?",
     "answer": "Winter Evening"
+  },
+  {
+    "question": "Which saxophonist wrote 'Giant Steps'?",
+    "answer": "John Coltrane"
   },
   {
     "question": "Which singer became the first major R&B performer?",
@@ -2194,6 +2274,10 @@
   {
     "question": "Which subgenre of blues is characterized by the use of big bands?",
     "answer": "Swing blues"
+  },
+  {
+    "question": "Which subgenre of techno often includes elements of industrial?",
+    "answer": "Industrial techno"
   },
   {
     "question": "Which symphony is called 'Unfinished'?",
@@ -2360,6 +2444,10 @@
     "answer": "Kasra"
   },
   {
+    "question": "Who founded a jazz band?",
+    "answer": "Duke Ellington"
+  },
+  {
     "question": "Who founded the Burning Man festival?",
     "answer": "Larry Harvey"
   },
@@ -2426,6 +2514,10 @@
   {
     "question": "Who is considered the king of techno?",
     "answer": "Carl Cox"
+  },
+  {
+    "question": "Who is considered the pioneer of the trance genre?",
+    "answer": "Klaus Schulze"
   },
   {
     "question": "Who is known as the cover designer for Blue Note?",
@@ -2508,8 +2600,16 @@
     "answer": "Robbie Williams"
   },
   {
+    "question": "Who is the person with the most Grammy nominations in a single year?",
+    "answer": "Quincy Jones"
+  },
+  {
     "question": "Who is the vocalist of the band Dimmu Borgir?",
     "answer": "Shagrath"
+  },
+  {
+    "question": "Who is the youngest AMA winner in the 'Artist of the Year' category?",
+    "answer": "Billie Eilish"
   },
   {
     "question": "Who led the 'German National School'?",
@@ -2610,6 +2710,10 @@
   {
     "question": "Who released the album 'Process' in 2017?",
     "answer": "Sampha"
+  },
+  {
+    "question": "Who released the album 'The Dreaming' in 1982?",
+    "answer": "Kate Bush"
   },
   {
     "question": "Who released the album Polarity in 2020?",
@@ -2730,6 +2834,10 @@
   {
     "question": "Who was the guitarist for the band Soundgarden?",
     "answer": "Kim Thayil"
+  },
+  {
+    "question": "Who was the headliner at the EMA 2016?",
+    "answer": "The Weeknd"
   },
   {
     "question": "Who was the headliner of the EMA in 2015?",
