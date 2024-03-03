@@ -16,12 +16,28 @@
     "answer": "11 hours 5 minutes"
   },
   {
+    "question": "In which aspect of a biathlete's preparation are weather changes most significant?",
+    "answer": "Race strategy"
+  },
+  {
+    "question": "In which track and field discipline is a starting block used?",
+    "answer": "Sprinting"
+  },
+  {
     "question": "In which year was the IOC founded?",
     "answer": "1894"
   },
   {
+    "question": "In which year were the Paralympic Games first held in South America?",
+    "answer": "2016"
+  },
+  {
     "question": "What action is performed to regain control of the ball after a kick?",
     "answer": "Catch"
+  },
+  {
+    "question": "What are the benefits of using hand paddles in swim training?",
+    "answer": "Increased strength"
   },
   {
     "question": "What are the key factors influencing the choice of tactics in a 1500-meter race?",
@@ -30,6 +46,10 @@
   {
     "question": "What are the main differences in rules between rugby union (15s) and rugby league (13s)?",
     "answer": "Number of players"
+  },
+  {
+    "question": "What aspect affects the weight distribution on a barbell?",
+    "answer": "Body centering"
   },
   {
     "question": "What aspect of ski equipment is most important for professional athletes in competitions?",
@@ -44,8 +64,20 @@
     "answer": "Focus on speed"
   },
   {
+    "question": "What chess move is used to temporarily open a line?",
+    "answer": "Undermining move"
+  },
+  {
+    "question": "What criteria are used to classify athletes at the Paralympics?",
+    "answer": "Functional"
+  },
+  {
     "question": "What distance do women cover in the relay?",
     "answer": "5 km"
+  },
+  {
+    "question": "What effect does water temperature have on swimming resistance?",
+    "answer": "Increase in resistance"
   },
   {
     "question": "What element of training helps a horse develop flexibility?",
@@ -56,8 +88,16 @@
     "answer": "Wetsuit"
   },
   {
+    "question": "What event in equestrian sports is called eventing?",
+    "answer": "Cross-country, show jumping, dressage"
+  },
+  {
     "question": "What event is considered the beginning of rugby in the 19th century?",
     "answer": "School incident"
+  },
+  {
+    "question": "What factor determines the difficulty level of a show jumping course?",
+    "answer": "Height of the obstacles"
   },
   {
     "question": "What factor is critical for choosing the starting technique in swimming competitions?",
@@ -72,8 +112,16 @@
     "answer": "Accessibility"
   },
   {
+    "question": "What factors determine the success of strategic maneuvers?",
+    "answer": "Planning and execution"
+  },
+  {
     "question": "What factors influence the choice of a surfboard depending on the type of wave?",
     "answer": "Shape of the wave"
+  },
+  {
+    "question": "What factors influence the selection of new sports for the Paralympic Games?",
+    "answer": "Popularity"
   },
   {
     "question": "What hydrodynamic principles increase speed in swimming?",
@@ -86,6 +134,14 @@
   {
     "question": "What is the key skill required for successfully performing tricks in parkour?",
     "answer": "Flexibility"
+  },
+  {
+    "question": "What is the name of the first president of the NHL?",
+    "answer": "Frank Calder"
+  },
+  {
+    "question": "What is the name of the home arena of the NHL team Toronto Maple Leafs?",
+    "answer": "Scotiabank Arena"
   },
   {
     "question": "What is the name of the most challenging cycling race in Italy?",
@@ -108,16 +164,40 @@
     "answer": "Centers the weight"
   },
   {
+    "question": "What is the technique called where athletes ski using a sail for movement?",
+    "answer": "Skijoring"
+  },
+  {
+    "question": "What is the theory called that explains positional advantages through control over colored squares?",
+    "answer": "Color strategy"
+  },
+  {
     "question": "What is the trophy of the Volleyball Nations League called?",
     "answer": "VNL Cup"
+  },
+  {
+    "question": "What maneuver does a surfer perform to exit the inside of the wave to avoid its collapse?",
+    "answer": "Cross-step"
   },
   {
     "question": "What method of protection is used to defend pawns on one flank?",
     "answer": "Hedging"
   },
   {
+    "question": "What modern workouts help improve a swimmer's coordination?",
+    "answer": "Plyometric exercises"
+  },
+  {
     "question": "What new technology was introduced at the 2008 Paralympics for visually impaired athletes?",
     "answer": "GPS"
+  },
+  {
+    "question": "What physical qualities are important for performing tactical maneuvers in rugby?",
+    "answer": "Speed and strength"
+  },
+  {
+    "question": "What physical quality is critically important for front-line players?",
+    "answer": "Strength and mass"
   },
   {
     "question": "What physiological changes occur during maximum physical exertion?",
@@ -128,8 +208,24 @@
     "answer": "Skating step"
   },
   {
+    "question": "What sport involves skating on ice using skates?",
+    "answer": "Figure skating"
+  },
+  {
+    "question": "What style of play is characterized by passive defense?",
+    "answer": "Defensive"
+  },
+  {
     "question": "What style of tennis play is characterized by constant shots from the back of the court?",
     "answer": "Baseline play"
+  },
+  {
+    "question": "What technique allows a swimmer to reduce water resistance?",
+    "answer": "Streamlining the body"
+  },
+  {
+    "question": "What technique allows athletes to safely maneuver while kayaking in whitewater?",
+    "answer": "Eskimo roll"
   },
   {
     "question": "What technique is used for quickly getting out of the wave zone in windsurfing?",
@@ -140,8 +236,28 @@
     "answer": "Side spin"
   },
   {
+    "question": "What technique is used to minimize the impact of wind on shooting?",
+    "answer": "Ballistic correction"
+  },
+  {
+    "question": "What technique minimizes the risk of injury in the final phase of a snatch?",
+    "answer": "Correct fixation"
+  },
+  {
+    "question": "What technological advancement first appeared in racing to improve safety?",
+    "answer": "ABS"
+  },
+  {
     "question": "What term describes the position of pieces where any move weakens the defense?",
     "answer": "Zugzwang"
+  },
+  {
+    "question": "What theoretical principle states that a rook should be placed behind a passed pawn?",
+    "answer": "Tartakower's Rule"
+  },
+  {
+    "question": "What training method helps biathletes adapt to changing weather conditions on the track?",
+    "answer": "Training in the mountains"
   },
   {
     "question": "What training technique is used to improve reaction to various conditions on the track?",
@@ -150,6 +266,22 @@
   {
     "question": "What type of equestrian sport includes elements of horseback riding and archery?",
     "answer": "Mounted archery"
+  },
+  {
+    "question": "What type of muscle fibers is most engaged in weightlifting?",
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "question": "What type of stroke is used to perform a 'dragonfly'?",
+    "answer": "Overhead"
+  },
+  {
+    "question": "What type of training helps swimmers improve their ability to recover quickly after intense swims?",
+    "answer": "Interval training"
+  },
+  {
+    "question": "What type of training improves reaction time in sprinters?",
+    "answer": "Plyometric exercises"
   },
   {
     "question": "Which Formula 1 driver achieved the most pole positions in a single season?",
@@ -172,8 +304,24 @@
     "answer": "Coordination"
   },
   {
+    "question": "Which aspect of training improves reaction to rotation?",
+    "answer": "Partner play"
+  },
+  {
+    "question": "Which aspect of training is important for improving explosive power in the snatch?",
+    "answer": "Plyometrics"
+  },
+  {
+    "question": "Which basketball player was the first to achieve 50 triple-doubles in the NBA playoffs?",
+    "answer": "LeBron James"
+  },
+  {
     "question": "Which car manufacturer was Ferrari's biggest rival in the 1960s?",
     "answer": "Ford"
+  },
+  {
+    "question": "Which choreographer worked with the 2018 Olympic champions in ice dance?",
+    "answer": "Marie-France Dubreuil"
   },
   {
     "question": "Which city has hosted the most Paralympic Games?",
@@ -182,6 +330,10 @@
   {
     "question": "Which country invented rugby?",
     "answer": "England"
+  },
+  {
+    "question": "Which cyclist was disqualified from the Tour de France for team sabotage?",
+    "answer": "Luis Ocaña"
   },
   {
     "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
@@ -196,12 +348,28 @@
     "answer": "Oliver Smith"
   },
   {
+    "question": "Which cyclist was the first to win all three classic Monument races in different sequences?",
+    "answer": "Greg Van Avermaet"
+  },
+  {
     "question": "Which cyclist was the first to win both the Giro di Lombardia and Milan-San Remo in the same season while riding for different teams?",
     "answer": "Giuseppe Saronni"
   },
   {
+    "question": "Which cyclist was the first to win both the Tour de France and the Vuelta a España in the same year?",
+    "answer": "Bernard Hinault"
+  },
+  {
     "question": "Which design element of skis is responsible for their stability at high speeds?",
     "answer": "Edge geometry"
+  },
+  {
+    "question": "Which discipline requires the horse and rider to overcome obstacles on rough terrain?",
+    "answer": "Cross-country"
+  },
+  {
+    "question": "Which element became decisive in figure skating for the first time in the 1990s?",
+    "answer": "Quadruple toe loop"
   },
   {
     "question": "Which element of an equestrian competition includes a water jump?",
@@ -216,8 +384,24 @@
     "answer": "Lutz"
   },
   {
+    "question": "Which high jump technique revolutionized modern athletics?",
+    "answer": "Fosbury Flop"
+  },
+  {
     "question": "Which horse riding technique minimally uses the reins?",
     "answer": "Bridleless riding"
+  },
+  {
+    "question": "Which jumping technique involves the use of minimal cues?",
+    "answer": "Freestyle"
+  },
+  {
+    "question": "Which pair was the first to perform a quadruple twist lift in pair skating?",
+    "answer": "Aljona Savchenko and Bruno Massot"
+  },
+  {
+    "question": "Which part of the body should be relaxed when swimming freestyle?",
+    "answer": "Head"
   },
   {
     "question": "Which player was the first in history to complete a career with the highest level of achievement in both singles and doubles in the same year?",
@@ -226,6 +410,14 @@
   {
     "question": "Which ski track is considered the windiest?",
     "answer": "Oberhof"
+  },
+  {
+    "question": "Which snowboarding technique requires high precision and coordination?",
+    "answer": "Slalom"
+  },
+  {
+    "question": "Which sport is held at the Summer Paralympics for wheelchair athletes?",
+    "answer": "Wheelchair basketball"
   },
   {
     "question": "Which sport made its debut at the Summer Paralympics in Atlanta?",
@@ -240,8 +432,16 @@
     "answer": "Longboard"
   },
   {
+    "question": "Which technique allows players to better control long shots?",
+    "answer": "Topspin"
+  },
+  {
     "question": "Which tennis player was the first to win Olympic gold in singles twice?",
     "answer": "Nicolás Massú"
+  },
+  {
+    "question": "Which tennis player was the first to withdraw from a tournament due to political beliefs?",
+    "answer": "Jan Kodeš"
   },
   {
     "question": "Who became the first Olympic champion in pair skating in 1964?",
@@ -252,8 +452,24 @@
     "answer": "Sébastien Ogier"
   },
   {
+    "question": "Who invented tennis in its modern form?",
+    "answer": "Walter Wingfield"
+  },
+  {
+    "question": "Who is known by the nickname 'The Nightmare'?",
+    "answer": "Diego Sanchez"
+  },
+  {
+    "question": "Who is the author of the book 'The Vegetarian'?",
+    "answer": "Han Kang"
+  },
+  {
     "question": "Who is the youngest marathon winner in history?",
     "answer": "Ludolf Lechne"
+  },
+  {
+    "question": "Who was the coach of Vitali and Wladimir Klitschko?",
+    "answer": "Emanuel Steward"
   },
   {
     "question": "Who was the first female world champion?",
@@ -264,15 +480,63 @@
     "answer": "Michael Swinton"
   },
   {
+    "question": "Who was the first to run 10,000 meters in under 27 minutes?",
+    "answer": "Haile Gebrselassie"
+  },
+  {
     "question": "Who was the first to run 400 meters in under 44 seconds?",
     "answer": "Michael Johnson"
+  },
+  {
+    "question": "Who was the first to score more than 90 points in an NHL season?",
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "question": "Who was the first to score over 9000 points in the decathlon?",
+    "answer": "Ashton Eaton"
   },
   {
     "question": "Who was the first to surpass the 95-meter mark in hammer throw?",
     "answer": "Yuriy Sedykh"
   },
   {
+    "question": "Who was the first to swim 100 meters freestyle in under 50 seconds?",
+    "answer": "Don Schollander"
+  },
+  {
+    "question": "Who was the first to swim 1500 meters in under 15 minutes?",
+    "answer": "Grant Hackett"
+  },
+  {
+    "question": "Who was the first to use aerodynamic control elements in motorsport?",
+    "answer": "Rossi"
+  },
+  {
+    "question": "Who was the first to win all four Grand Slam tennis tournaments on different surfaces?",
+    "answer": "Andre Agassi"
+  },
+  {
+    "question": "Who was the first to win the Tour de France five times?",
+    "answer": "Jacques Anquetil"
+  },
+  {
+    "question": "Who was the first woman to perform a quadruple salchow in international competition?",
+    "answer": "Alexandra Trusova"
+  },
+  {
+    "question": "Who was the first world boxing champion?",
+    "answer": "Jack Broughton"
+  },
+  {
     "question": "Who was the founder of the boxing technique 'The Philadelphia Shell'?",
     "answer": "Jersey Joe Walcott"
+  },
+  {
+    "question": "Who won the first gold in women's singles figure skating at the 1976 Olympics?",
+    "answer": "Dorothy Hamill"
+  },
+  {
+    "question": "Who won the first season of the Biathlon World Cup?",
+    "answer": "Adolf Wiklund"
   }
 ]
