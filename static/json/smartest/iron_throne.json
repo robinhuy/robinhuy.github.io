@@ -80,6 +80,10 @@
     "answer": "Training"
   },
   {
+    "question": "How did Arya overcome her fears?",
+    "answer": "Perseverance"
+  },
+  {
     "question": "How did Arya realize her true desires?",
     "answer": "Introspection"
   },
@@ -186,6 +190,10 @@
   {
     "question": "How did Daenerys use her dragons to achieve strategic goals?",
     "answer": "Intimidation"
+  },
+  {
+    "question": "How did Daenerys' rule change after her initial conquests in Essos?",
+    "answer": "More control"
   },
   {
     "question": "How did Daenerys' strategy change after conquering the first city in Essos?",
@@ -324,6 +332,10 @@
     "answer": "Manipulating allies"
   },
   {
+    "question": "How did Tyrion avoid execution in Westeros?",
+    "answer": "Escape from prison"
+  },
+  {
     "question": "How did Tyrion deal with manifestations of hostility?",
     "answer": "Sarcasm"
   },
@@ -418,6 +430,10 @@
   {
     "question": "How did the Lannisters protect their interests?",
     "answer": "Tactics"
+  },
+  {
+    "question": "How did the Lannisters secure support among other houses in Westeros?",
+    "answer": "promises of security"
   },
   {
     "question": "How did the Lannisters secure their support in King's Landing?",
@@ -728,6 +744,10 @@
     "answer": "Kraken"
   },
   {
+    "question": "What ancient curse haunted the House of Lannister?",
+    "answer": "Curse of Knowledge"
+  },
+  {
     "question": "What ancient fighting technique did the Starks know?",
     "answer": "Wolf fighting"
   },
@@ -874,6 +894,10 @@
   {
     "question": "What characteristic did the Stark family's sword have?",
     "answer": "Valyrian steel"
+  },
+  {
+    "question": "What characteristic trait distinguished the leaders of House Stark?",
+    "answer": "Honesty"
   },
   {
     "question": "What circumstances led to Jon Snow becoming involved in the conflict with the Wildlings?",
@@ -2012,6 +2036,10 @@
     "answer": "Cultural assimilation"
   },
   {
+    "question": "What method did the Lannisters use as a key strategy to eliminate political opponents?",
+    "answer": "secret assassinations"
+  },
+  {
     "question": "What method did the Targaryens use to assert their power?",
     "answer": "Dragons"
   },
@@ -2380,6 +2408,10 @@
     "answer": "Reliance on honor"
   },
   {
+    "question": "What role did Jon play in the struggle for the Iron Throne in Westeros?",
+    "answer": "Peacemaker"
+  },
+  {
     "question": "What role did Mighty Gregor play in the Storming of Storm's End?",
     "answer": "Defense Commander"
   },
@@ -2526,6 +2558,10 @@
   {
     "question": "What significant act did Robb Stark commit that angered his allies?",
     "answer": "marriage"
+  },
+  {
+    "question": "What significant challenge did Daenerys face in her quest for Westeros?",
+    "answer": "Finding allies"
   },
   {
     "question": "What significant symbol is depicted on the Greyjoy house sigil?",
@@ -2732,12 +2768,20 @@
     "answer": "Dragon attack"
   },
   {
+    "question": "What strategy did Aegon the Conqueror use to assert his power over Westeros?",
+    "answer": "Dragonfire"
+  },
+  {
     "question": "What strategy did Daenerys follow to establish peace in the liberated cities?",
     "answer": "Integration"
   },
   {
     "question": "What strategy did Daenerys use to integrate different cultures?",
     "answer": "Policy of equality"
+  },
+  {
+    "question": "What strategy did Daenerys use to maintain order in the liberated cities?",
+    "answer": "Mixed administration"
   },
   {
     "question": "What strategy did John use to unite the houses?",
@@ -2900,12 +2944,20 @@
     "answer": "Undermining from within"
   },
   {
+    "question": "What tactic did the Targaryens use against the Lannisters in the Battle of Dragonstone?",
+    "answer": "Aerial assault"
+  },
+  {
     "question": "What tactic do the Ironborn use to confront their enemies?",
     "answer": "offensive"
   },
   {
     "question": "What tactic ensured Aegon the Conqueror's success?",
     "answer": "Dragons"
+  },
+  {
+    "question": "What tactic helped Daenerys in freeing the slaves?",
+    "answer": "Surprise attack"
   },
   {
     "question": "What tactic helped Daenerys in her military campaigns?",
@@ -3132,6 +3184,10 @@
     "answer": "honor"
   },
   {
+    "question": "What vision did Bran Stark have in the North?",
+    "answer": "White Walkers"
+  },
+  {
     "question": "What vision did Bran have about the past?",
     "answer": "Three-eyed raven"
   },
@@ -3244,6 +3300,10 @@
     "answer": "Influence"
   },
   {
+    "question": "What was the impact of Littlefinger's marriage on the North?",
+    "answer": "Political destabilization"
+  },
+  {
     "question": "What was the key battle that took place on the Iron Islands during Euron's time?",
     "answer": "Battle at Sea"
   },
@@ -3336,6 +3396,10 @@
     "answer": "Grey Wind"
   },
   {
+    "question": "What was the name of Theon Greyjoy's mother?",
+    "answer": "Alannys Harlaw"
+  },
+  {
     "question": "What was the name of Tyrion Lannister's first love?",
     "answer": "Tysha"
   },
@@ -3404,6 +3468,10 @@
     "answer": "Increase in influence"
   },
   {
+    "question": "What was the residence called before the Iron Throne?",
+    "answer": "Sunspear"
+  },
+  {
     "question": "What was the significance of marriage for House Baratheon?",
     "answer": "Strengthening the dynasty"
   },
@@ -3422,6 +3490,10 @@
   {
     "question": "What was the significance of the marriage between the Starks and the Boltons in the context of the War of the Five Kings?",
     "answer": "Preservation of the North"
+  },
+  {
+    "question": "What was the significance of the marriage between the Starks and the Lannisters?",
+    "answer": "Unification of houses"
   },
   {
     "question": "What was the significance of the marriage between the Targaryen and Velaryon houses?",
@@ -3656,6 +3728,10 @@
     "answer": "History"
   },
   {
+    "question": "Which aspect of her personality did Arya develop during her travels?",
+    "answer": "Self-control"
+  },
+  {
     "question": "Which aspect of maester training is considered the most difficult to master?",
     "answer": "Combining knowledge"
   },
@@ -3726,6 +3802,10 @@
   {
     "question": "Which book did Tyrion like to carry with him?",
     "answer": "The History of Westeros"
+  },
+  {
+    "question": "Which book did the maester write?",
+    "answer": "Lions"
   },
   {
     "question": "Which book is dedicated to poisons?",
@@ -4384,6 +4464,10 @@
     "answer": "Bonifer Hasty"
   },
   {
+    "question": "Which knight of the Kingsguard participated in Tommen's coronation?",
+    "answer": "Ser Meryn"
+  },
+  {
     "question": "Which knight of the Kingsguard participated in an important duel?",
     "answer": "Ser Jaime"
   },
@@ -4520,6 +4604,10 @@
     "answer": "The Fire Heart"
   },
   {
+    "question": "Which magical artifact is studied to understand temporal anomalies?",
+    "answer": "Temporal Orb"
+  },
+  {
     "question": "Which magical creatures were popular in the markets of Essos?",
     "answer": "Wyverns"
   },
@@ -4614,6 +4702,10 @@
   {
     "question": "Which of the Lannisters was in the Kingsguard?",
     "answer": "Jaime"
+  },
+  {
+    "question": "Which of the Starks was buried in the crypt while still alive?",
+    "answer": "Ned Stark"
   },
   {
     "question": "Which of the Starks was trained by a swordsman from Braavos?",
@@ -4892,6 +4984,10 @@
     "answer": "Roose Bolton"
   },
   {
+    "question": "Who became Joffrey Baratheon's wife?",
+    "answer": "Margaery Tyrell"
+  },
+  {
     "question": "Who became Jon's unexpected ally in the fight for the North?",
     "answer": "Wildlings"
   },
@@ -4974,6 +5070,10 @@
   {
     "question": "Who commanded the Northern army at the Battle of the Blackwater?",
     "answer": "Robb Stark"
+  },
+  {
+    "question": "Who commanded the Unsullied army in the Battle of Dragonstone?",
+    "answer": "Grey Worm"
   },
   {
     "question": "Who commanded the Vale of Arryn in the Battle of the Seven Kings?",
