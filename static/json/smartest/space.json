@@ -1,5 +1,9 @@
 [
   {
+    "question": "How does the influence of magnetic fields affect the rotation of protostellar disks?",
+    "answer": "Slowing down the rotation"
+  },
+  {
     "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
     "answer": "Geothermal energy"
   },
@@ -8,11 +12,83 @@
     "answer": "DNA damage"
   },
   {
+    "question": "What effect does radiation have on structural materials in space?",
+    "answer": "Degradation of properties"
+  },
+  {
+    "question": "What is the cause of the expansion of interstellar clouds in the process of star formation?",
+    "answer": "Turbulence"
+  },
+  {
+    "question": "What is the phenomenon called that explains the distribution of large-scale structures in the Universe?",
+    "answer": "Cosmic inflation"
+  },
+  {
+    "question": "What is the role of external pressure in the formation of star systems?",
+    "answer": "Compression"
+  },
+  {
+    "question": "What methods allow the study of cosmic radiation in the interstellar medium?",
+    "answer": "Spectrometry"
+  },
+  {
+    "question": "What observations can confirm the existence of dark matter?",
+    "answer": "Gravitational effects"
+  },
+  {
     "question": "What phenomenon defines the boundaries between different types of galaxies?",
     "answer": "Gravitational interaction"
   },
   {
     "question": "What phenomenon describes the change in angular sizes of distant galaxies?",
     "answer": "Cosmological expansion"
+  },
+  {
+    "question": "What physical processes were responsible for the formation of the first stars?",
+    "answer": "Gravitational collapse"
+  },
+  {
+    "question": "What process leads to the increase in the mass of hadrons?",
+    "answer": "Confinement"
+  },
+  {
+    "question": "What processes can support exotic forms of life in oxygen-free atmospheres?",
+    "answer": "Anaerobic metabolism"
+  },
+  {
+    "question": "What processes contribute to the formation of dark matter halos around galaxies?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What processes influence the formation of galaxies?",
+    "answer": "Gravitational interaction"
+  },
+  {
+    "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
+    "answer": "Key role"
+  },
+  {
+    "question": "What role does the speed of light play in determining cosmological models?",
+    "answer": "Limits"
+  },
+  {
+    "question": "Which constellation is opposite to the constellation Leo?",
+    "answer": "Aquarius"
+  },
+  {
+    "question": "Which method analyzes the composition of meteorites through their interaction with the atmospheres of planets?",
+    "answer": "Spectroscopy"
+  },
+  {
+    "question": "Which mission was the first to conduct a spectral analysis of lunar rocks?",
+    "answer": "Apollo 15"
+  },
+  {
+    "question": "Which spacecraft was the first to transmit high-resolution images of Jupiter using a gravity assist maneuver?",
+    "answer": "Galileo"
+  },
+  {
+    "question": "Which study confirms the possibility of photosynthesis on the moons of gas giants?",
+    "answer": "Spectral study"
   }
 ]
