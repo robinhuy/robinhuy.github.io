@@ -12,8 +12,28 @@
     "answer": "DNA damage"
   },
   {
+    "question": "What effect do cosmic rays have on Earth's climate?",
+    "answer": "Ionization of the atmosphere"
+  },
+  {
+    "question": "What effect do planetary magnetic fields have on the trajectories of satellites?",
+    "answer": "Alter the trajectory"
+  },
+  {
     "question": "What effect does radiation have on structural materials in space?",
     "answer": "Degradation of properties"
+  },
+  {
+    "question": "What effect does stellar wind have on exoplanets?",
+    "answer": "Atmospheric erosion"
+  },
+  {
+    "question": "What factors influence the distribution of stellar populations in the Milky Way?",
+    "answer": "Galactic dynamics"
+  },
+  {
+    "question": "What happens to the mass of an object if it reaches the speed of light?",
+    "answer": "It becomes infinite"
   },
   {
     "question": "What is the cause of the expansion of interstellar clouds in the process of star formation?",
@@ -22,6 +42,10 @@
   {
     "question": "What is the phenomenon called that explains the distribution of large-scale structures in the Universe?",
     "answer": "Cosmic inflation"
+  },
+  {
+    "question": "What is the role of black holes in the dynamics of galaxy clusters?",
+    "answer": "Gravitational influence"
   },
   {
     "question": "What is the role of external pressure in the formation of star systems?",
@@ -42,6 +66,14 @@
   {
     "question": "What phenomenon describes the change in angular sizes of distant galaxies?",
     "answer": "Cosmological expansion"
+  },
+  {
+    "question": "What phenomenon is associated with the violation of time symmetry in a black hole?",
+    "answer": "Temporal asymmetry"
+  },
+  {
+    "question": "What physical processes are responsible for the formation of cosmic rays in the galaxy?",
+    "answer": "Supernova explosions"
   },
   {
     "question": "What physical processes were responsible for the formation of the first stars?",
@@ -72,8 +104,36 @@
     "answer": "Limits"
   },
   {
+    "question": "What technique do telescopes use to adjust orbital parameters?",
+    "answer": "Gyroscopes"
+  },
+  {
+    "question": "What technique do telescopes use to study vibrational effects in atmospheres?",
+    "answer": "Infrared spectroscopy"
+  },
+  {
+    "question": "Where were traces of microbial life found on Mars?",
+    "answer": "Meteorite"
+  },
+  {
+    "question": "Which artificial satellite was the first to conduct a detailed study of the underground structures of Mars?",
+    "answer": "Mars Reconnaissance Orbiter"
+  },
+  {
+    "question": "Which constellation has the largest number of meteor showers?",
+    "answer": "Perseus"
+  },
+  {
     "question": "Which constellation is opposite to the constellation Leo?",
     "answer": "Aquarius"
+  },
+  {
+    "question": "Which device was the first to use laser communication for data transmission?",
+    "answer": "LCRD"
+  },
+  {
+    "question": "Which element is used for temperature regulation on the ISS?",
+    "answer": "Ammonia"
   },
   {
     "question": "Which method analyzes the composition of meteorites through their interaction with the atmospheres of planets?",

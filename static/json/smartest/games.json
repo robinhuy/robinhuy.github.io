@@ -32,10 +32,6 @@
     "answer": "Fez"
   },
   {
-    "question": "In which game is the 'Pip-Boy' used?",
-    "answer": "Fallout"
-  },
-  {
     "question": "In which game is the character Jesse Faden featured?",
     "answer": "Control"
   },
@@ -56,6 +52,10 @@
     "answer": "Role-playing"
   },
   {
+    "question": "What is the genre of the game Dead Cells?",
+    "answer": "Roguelike"
+  },
+  {
     "question": "What is the homeland of the Khuzaits in Mount & Blade?",
     "answer": "Khuzait"
   },
@@ -66,6 +66,10 @@
   {
     "question": "What is the main tournament held for the game StarCraft II?",
     "answer": "WCS"
+  },
+  {
+    "question": "What is the main weapon of Trevor in the game GTA V?",
+    "answer": "Shotgun"
   },
   {
     "question": "What is the most prestigious Hearthstone tournament?",
@@ -80,6 +84,18 @@
     "answer": "Mikado"
   },
   {
+    "question": "What is the name of the VR game where players can explore the world using a portal gun?",
+    "answer": "Portal Stories: VR"
+  },
+  {
+    "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
+    "answer": "Cyclopean"
+  },
+  {
+    "question": "What is the name of the database with details of RPG worlds?",
+    "answer": "Omniopedia"
+  },
+  {
     "question": "What is the name of the esports player known as 'F0rest'?",
     "answer": "Patrik Lindberg"
   },
@@ -92,12 +108,8 @@
     "answer": "Space Invaders"
   },
   {
-    "question": "What is the name of the game created by Red Hook Studios?",
-    "answer": "Darkest Dungeon"
-  },
-  {
-    "question": "What is the name of the game series about the ancient Russian world?",
-    "answer": "Knyaz"
+    "question": "What is the name of the game where you need to line up rows of identical tiles?",
+    "answer": "Bejeweled"
   },
   {
     "question": "What is the name of the hunting simulator?",
@@ -120,16 +132,8 @@
     "answer": "Wasteland 3"
   },
   {
-    "question": "What is the name of the small town in the game Oxenfree?",
-    "answer": "Camena"
-  },
-  {
     "question": "What is the name of the space battle simulation game?",
     "answer": "EVE Online"
-  },
-  {
-    "question": "What is the process of forming a deck called?",
-    "answer": "Draft"
   },
   {
     "question": "What is the ultimate goal set for players in the game 'No Man's Sky'?",
@@ -146,6 +150,10 @@
   {
     "question": "What type of cards are used to create combinations in Yu-Gi-Oh!?",
     "answer": "Synchro"
+  },
+  {
+    "question": "What type of puzzle is a magic square?",
+    "answer": "Magic square"
   },
   {
     "question": "Which AR game allows you to draw in the real world?",
@@ -172,6 +180,10 @@
     "answer": "Human Resource Machine"
   },
   {
+    "question": "Which animal is present in the game 'Carcassonne'?",
+    "answer": "Dragon"
+  },
+  {
     "question": "Which company owns Oculus?",
     "answer": "Facebook"
   },
@@ -194,6 +206,10 @@
   {
     "question": "Which game is known for its release in 2020?",
     "answer": "Cyberpunk 2077"
+  },
+  {
+    "question": "Which game is popular due to augmented reality technology?",
+    "answer": "Ingress"
   },
   {
     "question": "Which game series is known for its difficulty and rolling mechanics?",
@@ -220,6 +236,10 @@
     "answer": "Team Ico"
   },
   {
+    "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
+    "answer": "NAVI"
+  },
+  {
     "question": "Which virtual reality game allows players to explore dungeons?",
     "answer": "The Mage's Tale"
   },
@@ -234,6 +254,10 @@
   {
     "question": "Who is the main protagonist of the Assassin's Creed game series?",
     "answer": "Desmond Miles"
+  },
+  {
+    "question": "Who programs the logical interactions in a game?",
+    "answer": "Gameplay programmer"
   },
   {
     "question": "Who was the commentator at The Overwatch League tournament?",

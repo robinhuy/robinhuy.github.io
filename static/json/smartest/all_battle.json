@@ -2197,6 +2197,14 @@
         "answer": "Live performance"
     },
     {
+        "question": "What function does a tag perform?",
+        "answer": "categorization"
+    },
+    {
+        "question": "What genre does Ramzoid perform?",
+        "answer": "Electronic"
+    },
+    {
         "question": "What helps to recover faster?",
         "answer": ""
     },
@@ -2373,6 +2381,10 @@
         "answer": "Vlog"
     },
     {
+        "question": "What topic is discussed in the podcast 'Experts and Thoughts'?",
+        "answer": "Science"
+    },
+    {
         "question": "What type of camera helps to see in the dark?",
         "answer": ""
     },
@@ -2535,6 +2547,10 @@
     {
         "question": "Which blogger specializes in makeup for horror movies?",
         "answer": "Glam Gore"
+    },
+    {
+        "question": "Which blogger specializes in retro looks?",
+        "answer": "Stephanie Lan"
     },
     {
         "question": "Which blogger talks about rare music genres?",
@@ -2737,6 +2753,10 @@
         "answer": "Diegosaurs"
     },
     {
+        "question": "Which streamer is most known for playing League of Legends?",
+        "answer": "Faker"
+    },
+    {
         "question": "Which streamer is most known for their Dota 2 gameplay and sharp tongue?",
         "answer": "Gorgc"
     },
@@ -2785,6 +2805,10 @@
         "answer": "DrLupo"
     },
     {
+        "question": "Which streaming service specializes in sports content?",
+        "answer": "ESPN+"
+    },
+    {
         "question": "Which streaming service supports VR content?",
         "answer": "YouTube"
     },
@@ -2815,6 +2839,10 @@
     {
         "question": "Who has the channel 'Healthy Lifestyle Life'?",
         "answer": "Irina Sergeeva"
+    },
+    {
+        "question": "Who hosts marathons?",
+        "answer": "Ivan Smirnov"
     },
     {
         "question": "Who hosts the jazz music segment?",
@@ -2863,6 +2891,10 @@
     {
         "question": "Who is called the 'Marathon Streamer'?",
         "answer": "Ilya Zimin"
+    },
+    {
+        "question": "Who is known for creating realistic Halloween makeup?",
+        "answer": "Glam Ghoul"
     },
     {
         "question": "Who is known for the channel 'Chef's Breakfast'?",
@@ -6093,6 +6125,10 @@
         "answer": "Role-playing"
     },
     {
+        "question": "What is the genre of the game Dead Cells?",
+        "answer": "Roguelike"
+    },
+    {
         "question": "What is the homeland of the Khuzaits in Mount & Blade?",
         "answer": "Khuzait"
     },
@@ -6103,6 +6139,10 @@
     {
         "question": "What is the main tournament held for the game StarCraft II?",
         "answer": "WCS"
+    },
+    {
+        "question": "What is the main weapon of Trevor in the game GTA V?",
+        "answer": "Shotgun"
     },
     {
         "question": "What is the most prestigious Hearthstone tournament?",
@@ -6117,6 +6157,18 @@
         "answer": "Mikado"
     },
     {
+        "question": "What is the name of the VR game where players can explore the world using a portal gun?",
+        "answer": "Portal Stories: VR"
+    },
+    {
+        "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
+        "answer": "Cyclopean"
+    },
+    {
+        "question": "What is the name of the database with details of RPG worlds?",
+        "answer": "Omniopedia"
+    },
+    {
         "question": "What is the name of the esports player known as 'F0rest'?",
         "answer": "Patrik Lindberg"
     },
@@ -6127,6 +6179,10 @@
     {
         "question": "What is the name of the first classic arcade game?",
         "answer": "Space Invaders"
+    },
+    {
+        "question": "What is the name of the game where you need to line up rows of identical tiles?",
+        "answer": "Bejeweled"
     },
     {
         "question": "What is the name of the hunting simulator?",
@@ -6169,6 +6225,10 @@
         "answer": "Synchro"
     },
     {
+        "question": "What type of puzzle is a magic square?",
+        "answer": "Magic square"
+    },
+    {
         "question": "Which AR game allows you to draw in the real world?",
         "answer": "Just a Line"
     },
@@ -6191,6 +6251,10 @@
     {
         "question": "Which VR game is associated with programming robots?",
         "answer": "Human Resource Machine"
+    },
+    {
+        "question": "Which animal is present in the game 'Carcassonne'?",
+        "answer": "Dragon"
     },
     {
         "question": "Which company owns Oculus?",
@@ -6217,6 +6281,10 @@
         "answer": "Cyberpunk 2077"
     },
     {
+        "question": "Which game is popular due to augmented reality technology?",
+        "answer": "Ingress"
+    },
+    {
         "question": "Which game series is known for its difficulty and rolling mechanics?",
         "answer": "Dark Souls"
     },
@@ -6241,6 +6309,10 @@
         "answer": "Team Ico"
     },
     {
+        "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
+        "answer": "NAVI"
+    },
+    {
         "question": "Which virtual reality game allows players to explore dungeons?",
         "answer": "The Mage's Tale"
     },
@@ -6255,6 +6327,10 @@
     {
         "question": "Who is the main protagonist of the Assassin's Creed game series?",
         "answer": "Desmond Miles"
+    },
+    {
+        "question": "Who programs the logical interactions in a game?",
+        "answer": "Gameplay programmer"
     },
     {
         "question": "Who was the commentator at The Overwatch League tournament?",
@@ -22574,6 +22650,10 @@
         "answer": "pointers"
     },
     {
+        "question": "What is used for the production of ethanol?",
+        "answer": "Biomass"
+    },
+    {
         "question": "What is used to control pests in agriculture?",
         "answer": "Biopesticides"
     },
@@ -23276,6 +23356,10 @@
         "answer": "Positivism"
     },
     {
+        "question": "Which method generalizes knowledge into a theory?",
+        "answer": "Synthesis"
+    },
+    {
         "question": "Which method involves data synthesis?",
         "answer": "Analytical"
     },
@@ -23815,6 +23899,10 @@
         "answer": "Mars rovers"
     },
     {
+        "question": "How does the influence of magnetic fields affect the rotation of protostellar disks?",
+        "answer": "Slowing down the rotation"
+    },
+    {
         "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
         "answer": "Geothermal energy"
     },
@@ -23823,12 +23911,144 @@
         "answer": "DNA damage"
     },
     {
+        "question": "What effect do cosmic rays have on Earth's climate?",
+        "answer": "Ionization of the atmosphere"
+    },
+    {
+        "question": "What effect do planetary magnetic fields have on the trajectories of satellites?",
+        "answer": "Alter the trajectory"
+    },
+    {
+        "question": "What effect does radiation have on structural materials in space?",
+        "answer": "Degradation of properties"
+    },
+    {
+        "question": "What effect does stellar wind have on exoplanets?",
+        "answer": "Atmospheric erosion"
+    },
+    {
+        "question": "What factors influence the distribution of stellar populations in the Milky Way?",
+        "answer": "Galactic dynamics"
+    },
+    {
+        "question": "What happens to the mass of an object if it reaches the speed of light?",
+        "answer": "It becomes infinite"
+    },
+    {
+        "question": "What is the cause of the expansion of interstellar clouds in the process of star formation?",
+        "answer": "Turbulence"
+    },
+    {
+        "question": "What is the phenomenon called that explains the distribution of large-scale structures in the Universe?",
+        "answer": "Cosmic inflation"
+    },
+    {
+        "question": "What is the role of black holes in the dynamics of galaxy clusters?",
+        "answer": "Gravitational influence"
+    },
+    {
+        "question": "What is the role of external pressure in the formation of star systems?",
+        "answer": "Compression"
+    },
+    {
+        "question": "What methods allow the study of cosmic radiation in the interstellar medium?",
+        "answer": "Spectrometry"
+    },
+    {
+        "question": "What observations can confirm the existence of dark matter?",
+        "answer": "Gravitational effects"
+    },
+    {
         "question": "What phenomenon defines the boundaries between different types of galaxies?",
         "answer": "Gravitational interaction"
     },
     {
         "question": "What phenomenon describes the change in angular sizes of distant galaxies?",
         "answer": "Cosmological expansion"
+    },
+    {
+        "question": "What phenomenon is associated with the violation of time symmetry in a black hole?",
+        "answer": "Temporal asymmetry"
+    },
+    {
+        "question": "What physical processes are responsible for the formation of cosmic rays in the galaxy?",
+        "answer": "Supernova explosions"
+    },
+    {
+        "question": "What physical processes were responsible for the formation of the first stars?",
+        "answer": "Gravitational collapse"
+    },
+    {
+        "question": "What process leads to the increase in the mass of hadrons?",
+        "answer": "Confinement"
+    },
+    {
+        "question": "What processes can support exotic forms of life in oxygen-free atmospheres?",
+        "answer": "Anaerobic metabolism"
+    },
+    {
+        "question": "What processes contribute to the formation of dark matter halos around galaxies?",
+        "answer": "Gravity"
+    },
+    {
+        "question": "What processes influence the formation of galaxies?",
+        "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
+        "answer": "Key role"
+    },
+    {
+        "question": "What role does the speed of light play in determining cosmological models?",
+        "answer": "Limits"
+    },
+    {
+        "question": "What technique do telescopes use to adjust orbital parameters?",
+        "answer": "Gyroscopes"
+    },
+    {
+        "question": "What technique do telescopes use to study vibrational effects in atmospheres?",
+        "answer": "Infrared spectroscopy"
+    },
+    {
+        "question": "Where were traces of microbial life found on Mars?",
+        "answer": "Meteorite"
+    },
+    {
+        "question": "Which artificial satellite was the first to conduct a detailed study of the underground structures of Mars?",
+        "answer": "Mars Reconnaissance Orbiter"
+    },
+    {
+        "question": "Which constellation has the largest number of meteor showers?",
+        "answer": "Perseus"
+    },
+    {
+        "question": "Which constellation is opposite to the constellation Leo?",
+        "answer": "Aquarius"
+    },
+    {
+        "question": "Which device was the first to use laser communication for data transmission?",
+        "answer": "LCRD"
+    },
+    {
+        "question": "Which element is used for temperature regulation on the ISS?",
+        "answer": "Ammonia"
+    },
+    {
+        "question": "Which method analyzes the composition of meteorites through their interaction with the atmospheres of planets?",
+        "answer": "Spectroscopy"
+    },
+    {
+        "question": "Which mission was the first to conduct a spectral analysis of lunar rocks?",
+        "answer": "Apollo 15"
+    },
+    {
+        "question": "Which spacecraft was the first to transmit high-resolution images of Jupiter using a gravity assist maneuver?",
+        "answer": "Galileo"
+    },
+    {
+        "question": "Which study confirms the possibility of photosynthesis on the moons of gas giants?",
+        "answer": "Spectral study"
     },
     {
         "question": "How do new weight classes affect training strategy?",
