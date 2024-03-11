@@ -7696,6 +7696,10 @@
         "answer": "Fight against free radicals"
     },
     {
+        "question": "How does HIIT training affect metabolism?",
+        "answer": "Increases metabolism"
+    },
+    {
         "question": "How does chondroitin sulfate affect cartilage tissue?",
         "answer": "Increases elasticity"
     },
@@ -7740,6 +7744,14 @@
         "answer": "Laser therapy"
     },
     {
+        "question": "What are the long-term consequences of chronic sleep deprivation?",
+        "answer": "Increased risk of diseases"
+    },
+    {
+        "question": "What are the molecules called that initiate the inflammatory response?",
+        "answer": "Cytokines"
+    },
+    {
         "question": "What are the signs that may indicate the possibility of schizophrenia?",
         "answer": "Delusions"
     },
@@ -7748,8 +7760,24 @@
         "answer": "Release of adrenaline"
     },
     {
+        "question": "What biochemical reaction occurs in muscles during aerobic exercise?",
+        "answer": "Fat oxidation"
+    },
+    {
         "question": "What can random mutations lead to?",
         "answer": "Genetic diseases"
+    },
+    {
+        "question": "What causes breathing impairment in emphysema?",
+        "answer": "Destruction of alveoli"
+    },
+    {
+        "question": "What causes hyperaldosteronism?",
+        "answer": "Adenoma"
+    },
+    {
+        "question": "What causes thymus atrophy?",
+        "answer": "Aging"
     },
     {
         "question": "What cellular mechanisms are involved in the development of atherosclerosis?",
@@ -7788,6 +7816,14 @@
         "answer": "Excess mucus"
     },
     {
+        "question": "What cognitive biases are often observed in patients with generalized anxiety disorder?",
+        "answer": "Catastrophizing"
+    },
+    {
+        "question": "What determines the specificity of antibodies?",
+        "answer": "Epitope"
+    },
+    {
         "question": "What diagnostic methods are used to detect ischemia?",
         "answer": "Coronary angiography"
     },
@@ -7808,6 +7844,10 @@
         "answer": "Psychodiagnostics"
     },
     {
+        "question": "What effect does alcohol have on sleep phases?",
+        "answer": "Shortens"
+    },
+    {
         "question": "What effect does choline have on the brain?",
         "answer": "Improvement of memory"
     },
@@ -7826,6 +7866,10 @@
     {
         "question": "What effect does magnesium deficiency have on bone tissue?",
         "answer": "Weakening"
+    },
+    {
+        "question": "What effect does moderate alcohol consumption have on heart health?",
+        "answer": "May improve HDL levels"
     },
     {
         "question": "What effect does prolonged hypoxia have on the heart?",
@@ -7858,6 +7902,14 @@
     {
         "question": "What form of vitamin B12 is active?",
         "answer": "Methylcobalamin"
+    },
+    {
+        "question": "What frequency range do delta brain waves operate at?",
+        "answer": "0.5-4 Hz"
+    },
+    {
+        "question": "What function does glucagon perform?",
+        "answer": "Increases blood glucose levels"
     },
     {
         "question": "What function does the complement system perform in fighting infection?",
@@ -7900,6 +7952,10 @@
         "answer": "Sudden death"
     },
     {
+        "question": "What hormonal imbalance is associated with Addison's disease?",
+        "answer": "Lack of cortisol"
+    },
+    {
         "question": "What hormonal imbalance is associated with weight gain and skin hyperpigmentation?",
         "answer": "Hypercortisolism"
     },
@@ -7928,12 +7984,28 @@
         "answer": "immune system cell"
     },
     {
+        "question": "What is meant by 'cognitive regulation'?",
+        "answer": "Control of thoughts"
+    },
+    {
+        "question": "What is necessary for the diffusion of oxygen in the alveoli?",
+        "answer": "Pressure gradient"
+    },
+    {
+        "question": "What is sleep homeostasis?",
+        "answer": "Sleep regulation"
+    },
+    {
         "question": "What is the disorder called where a person loses the ability to understand and express emotions?",
         "answer": "Alexithymia"
     },
     {
         "question": "What is the effect of glutamic acid on nerves?",
         "answer": "Stimulates"
+    },
+    {
+        "question": "What is the function of the hormone leptin?",
+        "answer": "Regulation of weight"
     },
     {
         "question": "What is the impact of elevated cortisol levels during prolonged stress?",
@@ -7946,6 +8018,10 @@
     {
         "question": "What is the main cause of delayed sleep phase syndrome in teenagers?",
         "answer": "Hormonal changes"
+    },
+    {
+        "question": "What is the maximum effect of hypoxia at high altitude?",
+        "answer": "Increase in erythropoietin"
     },
     {
         "question": "What is the most accurate method for determining skin type?",
@@ -7964,12 +8040,32 @@
         "answer": "Osteopontin"
     },
     {
+        "question": "What is the optimal duration of interval training to increase strength?",
+        "answer": "30 seconds"
+    },
+    {
         "question": "What is the optimal macronutrient ratio for recovery after workouts?",
         "answer": "3:1 carbs-protein"
     },
     {
+        "question": "What is the primary effect of regulatory T cells?",
+        "answer": "Suppression of the immune response"
+    },
+    {
+        "question": "What is the primary function of helper T cells?",
+        "answer": "Activation of other cells"
+    },
+    {
+        "question": "What is the principle of cognitive-behavioral therapy?",
+        "answer": "Changing thoughts"
+    },
+    {
         "question": "What is the procedure of coronary bypass surgery?",
         "answer": "Artery bypass"
+    },
+    {
+        "question": "What is the process of forming glucose from amino acids called?",
+        "answer": "Gluconeogenesis"
     },
     {
         "question": "What is the relationship between salt consumption and bone density?",
@@ -7994,6 +8090,10 @@
     {
         "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
         "answer": "95-100%"
+    },
+    {
+        "question": "What measures are important for reducing the risk of breast cancer in women with a genetic predisposition?",
+        "answer": "Screening and ultrasound"
     },
     {
         "question": "What measures should be implemented at the state level to reduce cancer incidence?",
@@ -8036,6 +8136,10 @@
         "answer": "Dialectical behavior therapy"
     },
     {
+        "question": "What methods can be effective in treating dissociative disorders?",
+        "answer": "Psychotherapy"
+    },
+    {
         "question": "What neurochemical changes are often associated with the development of bipolar disorder?",
         "answer": "Serotonin imbalance"
     },
@@ -8046,6 +8150,10 @@
     {
         "question": "What pharmacological agents are used to treat chronic bronchitis?",
         "answer": "Antibiotics"
+    },
+    {
+        "question": "What physiological mechanisms ensure the dilation of the bronchi?",
+        "answer": "Action of adrenaline"
     },
     {
         "question": "What physiological phenomenon limits the duration of aerobic exercise?",
@@ -8080,12 +8188,20 @@
         "answer": "Reduction of resorption"
     },
     {
+        "question": "What role do neurotransmitters play in sleep?",
+        "answer": "regulate cycles"
+    },
+    {
         "question": "What role do osteocytes play in bone tissue?",
         "answer": "Support structure"
     },
     {
         "question": "What role does GABA play in the sleep process?",
         "answer": "Inhibition of neurons"
+    },
+    {
+        "question": "What specific type of running workout is best for increasing the anaerobic threshold?",
+        "answer": "Interval"
     },
     {
         "question": "What stress factors affect the immune system?",
@@ -8120,12 +8236,24 @@
         "answer": "Antioxidants"
     },
     {
+        "question": "What substances can reduce inflammation in blood vessels?",
+        "answer": "Omega-3 fatty acids"
+    },
+    {
+        "question": "What techniques are used in the treatment of anxiety disorders?",
+        "answer": "Cognitive therapy"
+    },
+    {
         "question": "What term describes the increase in blood and plasma volumes during training?",
         "answer": "Plasma hypertrophy"
     },
     {
         "question": "What tests are used to identify predisposition to genetic diseases?",
         "answer": "Genetic test"
+    },
+    {
+        "question": "What type of adaptation does the response to long-term stress belong to?",
+        "answer": "Generalized"
     },
     {
         "question": "What type of cells produce mucous secretion in the respiratory tract?",
@@ -8136,8 +8264,16 @@
         "answer": "Mediterranean"
     },
     {
+        "question": "What type of immune response is initiated by macrophages and dendritic cells?",
+        "answer": "Innate"
+    },
+    {
         "question": "What type of interferons is primarily responsible for protection against viral infections?",
         "answer": "Interferon alpha/beta"
+    },
+    {
+        "question": "What type of mutations can lead to impaired immune system function?",
+        "answer": "Nonsense mutations"
     },
     {
         "question": "What type of periodization is necessary to prevent a training plateau?",
@@ -8160,8 +8296,16 @@
         "answer": "B-lymphocytes"
     },
     {
+        "question": "Which cells contribute to atherosclerosis?",
+        "answer": "Foam cells"
+    },
+    {
         "question": "Which cells express MHC class II?",
         "answer": "Dendritic cells"
+    },
+    {
+        "question": "Which cells of the pulmonary alveoli provide the respiratory function?",
+        "answer": "Type I alveolocytes"
     },
     {
         "question": "Which cells produce incretin hormones?",
@@ -8172,8 +8316,20 @@
         "answer": "T-helper cells"
     },
     {
+        "question": "Which cells sense the load on the bone?",
+        "answer": "Osteocytes"
+    },
+    {
+        "question": "Which chemical substance causes asthma symptoms?",
+        "answer": "Histamine"
+    },
+    {
         "question": "Which chemicals cause inflammation of the alveoli?",
         "answer": "Cytokines"
+    },
+    {
+        "question": "Which combination of amino acids promotes increased protein synthesis?",
+        "answer": "BCAA"
     },
     {
         "question": "Which complement activation pathway is triggered by antibodies?",
@@ -8204,6 +8360,14 @@
         "answer": "Asbestosis"
     },
     {
+        "question": "Which endocrine disorder is associated with a deficiency of cortisol?",
+        "answer": "Addison's disease"
+    },
+    {
+        "question": "Which enzyme neutralizes oxygen free radicals in the alveoli?",
+        "answer": "Superoxide dismutase"
+    },
+    {
         "question": "Which enzymes are involved in steroid synthesis?",
         "answer": "Cytochromes P450"
     },
@@ -8228,12 +8392,24 @@
         "answer": "Methylfolate"
     },
     {
+        "question": "Which function of REM sleep is most significant for cognitive processes?",
+        "answer": "Memory consolidation"
+    },
+    {
         "question": "Which gene is responsible for the production of MHC classes?",
         "answer": "HLA gene"
     },
     {
+        "question": "Which gene mutations can affect sleep?",
+        "answer": "Period genes"
+    },
+    {
         "question": "Which groups of people should undergo annual screening for lung cancer?",
         "answer": "Smokers"
+    },
+    {
+        "question": "Which heart condition most commonly leads to sudden death?",
+        "answer": "Coronary artery stenosis"
     },
     {
         "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
@@ -8242,6 +8418,14 @@
     {
         "question": "Which hormone is responsible for stimulating lactotropic cells?",
         "answer": "Prolactin"
+    },
+    {
+        "question": "Which hormone promotes bone mass restoration?",
+        "answer": "Estrogen"
+    },
+    {
+        "question": "Which hormone regulates phosphate levels?",
+        "answer": "Parathyroid hormone"
     },
     {
         "question": "Which hormones stimulate bone tissue synthesis?",
@@ -8296,6 +8480,10 @@
         "answer": "Pyridoxal phosphate"
     },
     {
+        "question": "Which method evaluates coronary blood flow?",
+        "answer": "Angiography"
+    },
+    {
         "question": "Which methodology is most commonly used to assess the quality of hygiene procedures?",
         "answer": "AUDIT"
     },
@@ -8310,6 +8498,10 @@
     {
         "question": "Which molecule is important for antigen recognition and the initiation of the adaptive immune response?",
         "answer": "MHC"
+    },
+    {
+        "question": "Which molecule is involved in pathogen recognition and activation of signaling pathways in the immune system?",
+        "answer": "Toll receptor"
     },
     {
         "question": "Which molecule is involved in the regulation of bone resorption through osteoclasts?",
@@ -8388,6 +8580,10 @@
         "answer": "Collagens"
     },
     {
+        "question": "Which signaling protein is activated during a viral infection?",
+        "answer": "Interferon"
+    },
+    {
         "question": "Which structures on the cell surface are involved in immune responses?",
         "answer": "Membrane receptors"
     },
@@ -8408,8 +8604,32 @@
         "answer": "Mineral oil"
     },
     {
+        "question": "Which substances are retained in the body during stress-induced hypercortisolemia?",
+        "answer": "Sodium"
+    },
+    {
+        "question": "Which substances facilitate the penetration of active ingredients into the deeper layers of the skin?",
+        "answer": "Penetrants"
+    },
+    {
         "question": "Which supplement contains the highest percentage of zinc?",
         "answer": "Zinc gluconate"
+    },
+    {
+        "question": "Which supplement is used to enhance the activity of superoxide dismutase?",
+        "answer": "Manganese"
+    },
+    {
+        "question": "Which supplements can affect calcium metabolism?",
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "Which trace element is an antagonist of calcium in bones?",
+        "answer": "Phosphorus"
+    },
+    {
+        "question": "Which trace element is important for the synthesis of vitamin A?",
+        "answer": "Zinc"
     },
     {
         "question": "Which trace elements are involved in the formation of enzymes?",
@@ -8428,6 +8648,14 @@
         "answer": "B6"
     },
     {
+        "question": "Which vitamin is a precursor of flavin mononucleotides and dinucleotides involved in energy metabolism?",
+        "answer": "Vitamin B2"
+    },
+    {
+        "question": "Which vitamin is associated with nucleotide synthesis and DNA replication?",
+        "answer": "Folate"
+    },
+    {
         "question": "Which vitamin is important for converting folic acid into its active form?",
         "answer": "Vitamin B12"
     },
@@ -8438,6 +8666,14 @@
     {
         "question": "Which vitamin is known for its role in the synthesis of glutathione, a major antioxidant in cells?",
         "answer": "Vitamin B2"
+    },
+    {
+        "question": "Which vitamin is necessary for the synthesis of neurotransmitters?",
+        "answer": "Vitamin B6"
+    },
+    {
+        "question": "Which vitamin supports the function of enzymes involved in DNA methylation?",
+        "answer": "Vitamin B12"
     },
     {
         "question": "Which vitamin-containing enzyme is involved in the Krebs cycle?",
@@ -21277,6 +21513,10 @@
         "answer": "1590"
     },
     {
+        "question": "In which country was the first mammal cloned?",
+        "answer": "United Kingdom"
+    },
+    {
         "question": "In which period did mammals first appear?",
         "answer": "Mesozoic"
     },
@@ -21392,6 +21632,10 @@
         "answer": "saprophytes"
     },
     {
+        "question": "What are organisms that live at high temperatures called?",
+        "answer": "Thermophiles"
+    },
+    {
         "question": "What are pathogenic bacteria?",
         "answer": "Cause diseases"
     },
@@ -21420,12 +21664,24 @@
         "answer": "Single-celled organisms"
     },
     {
+        "question": "What are quantum dots?",
+        "answer": "Semiconductor nanocrystals"
+    },
+    {
         "question": "What are ribosomes?",
         "answer": "Organelles"
     },
     {
         "question": "What are robot vacuums?",
         "answer": "Appliances"
+    },
+    {
+        "question": "What are seedless vascular plants called?",
+        "answer": "Ferns"
+    },
+    {
+        "question": "What are the DNA regions called that bind regulatory proteins?",
+        "answer": "Enhancers"
     },
     {
         "question": "What are the inert forms of bacteria called?",
@@ -21672,6 +21928,10 @@
         "answer": "Diseases and their causes"
     },
     {
+        "question": "What does string theory describe?",
+        "answer": "Fundamental particles"
+    },
+    {
         "question": "What does structural engineering involve?",
         "answer": "Designing structures"
     },
@@ -21776,6 +22036,10 @@
         "answer": "Wave function collapse"
     },
     {
+        "question": "What instrument is used to analyze the spectrum of light?",
+        "answer": "Spectrometer"
+    },
+    {
         "question": "What interaction does quantum chromodynamics describe?",
         "answer": "Strong interaction"
     },
@@ -21824,6 +22088,10 @@
         "answer": "Separation of a mixture"
     },
     {
+        "question": "What is a cold front?",
+        "answer": "Boundary of cold air"
+    },
+    {
         "question": "What is a colloidal solution?",
         "answer": "Disperse system"
     },
@@ -21856,6 +22124,10 @@
         "answer": "A collection of microorganisms"
     },
     {
+        "question": "What is a model in science?",
+        "answer": "Simplified representation"
+    },
+    {
         "question": "What is a nanomedical research method?",
         "answer": "Nanosonding"
     },
@@ -21886,6 +22158,10 @@
     {
         "question": "What is a systematic error in an experiment called?",
         "answer": "Systematic error"
+    },
+    {
+        "question": "What is a theory?",
+        "answer": "An explanation of phenomena"
     },
     {
         "question": "What is an API?",
@@ -22006,6 +22282,10 @@
     {
         "question": "What is integration?",
         "answer": "Summation"
+    },
+    {
+        "question": "What is interception in a network?",
+        "answer": "Network attack"
     },
     {
         "question": "What is isomerization?",
@@ -22196,6 +22476,10 @@
         "answer": "6 months"
     },
     {
+        "question": "What is the goal of synthetic biology?",
+        "answer": "Creation of new organisms"
+    },
+    {
         "question": "What is the gravitational phenomenon in the Universe called?",
         "answer": "Dark matter"
     },
@@ -22232,6 +22516,10 @@
         "answer": "Temperature contrast"
     },
     {
+        "question": "What is the main component of gene therapy?",
+        "answer": "Vectors"
+    },
+    {
         "question": "What is the main component of the Earth?",
         "answer": "Oxygen"
     },
@@ -22242,6 +22530,10 @@
     {
         "question": "What is the main method used in quantum physics?",
         "answer": "Mathematical modeling"
+    },
+    {
+        "question": "What is the mathematical function called that describes the probability distribution of particles?",
+        "answer": "Wave function"
     },
     {
         "question": "What is the measure of a material's density called?",
@@ -22404,6 +22696,10 @@
         "answer": "Gram method"
     },
     {
+        "question": "What is the name of the minimum length in quantum physics?",
+        "answer": "Planck length"
+    },
+    {
         "question": "What is the name of the nature protection system?",
         "answer": "Conservation"
     },
@@ -22438,6 +22734,10 @@
     {
         "question": "What is the name of wind erosion?",
         "answer": "Deflation"
+    },
+    {
+        "question": "What is the natural logarithm of the number e equal to?",
+        "answer": "1"
     },
     {
         "question": "What is the number i?",
@@ -22519,6 +22819,10 @@
         "answer": "Ionization"
     },
     {
+        "question": "What is the process of removing toxins from the body called?",
+        "answer": "Detoxification"
+    },
+    {
         "question": "What is the process of solving problems by breaking down a task into subtasks called?",
         "answer": "Decomposition"
     },
@@ -22533,6 +22837,10 @@
     {
         "question": "What is the process of transmitting information called?",
         "answer": "Communication"
+    },
+    {
+        "question": "What is the process of turning organic materials into fossils called?",
+        "answer": "Petrification"
     },
     {
         "question": "What is the process of young plants growing called?",
@@ -22555,8 +22863,16 @@
         "answer": "Myectomy"
     },
     {
+        "question": "What is the result of a collision between two inelastic bodies?",
+        "answer": "Deformation"
+    },
+    {
         "question": "What is the role of enzymes?",
         "answer": "Catalysts"
+    },
+    {
+        "question": "What is the role of plasmids in biotechnology?",
+        "answer": "Gene transformation"
     },
     {
         "question": "What is the scientific theory called that suggests life originated in space and was transferred to Earth?",
@@ -22565,6 +22881,10 @@
     {
         "question": "What is the self-assembly technique often used for in nanotechnology?",
         "answer": "Creating nanodevices"
+    },
+    {
+        "question": "What is the smallest mammal on Earth?",
+        "answer": "shrew"
     },
     {
         "question": "What is the smallest species of primates?",
@@ -22624,6 +22944,10 @@
     {
         "question": "What is the unit of charge?",
         "answer": "Coulomb"
+    },
+    {
+        "question": "What is the unit of measurement for electrical conductivity called?",
+        "answer": "Siemens"
     },
     {
         "question": "What is the value of the gravitational constant?",
@@ -22742,6 +23066,10 @@
         "answer": "observation"
     },
     {
+        "question": "What molecules have been found in meteorites, indicating the possible presence of life?",
+        "answer": "Amino acids"
+    },
+    {
         "question": "What molting process occurs in reptiles?",
         "answer": "Shedding old skin"
     },
@@ -22814,6 +23142,10 @@
         "answer": "Consolidation"
     },
     {
+        "question": "What process involves cutting and joining DNA?",
+        "answer": "recombination"
+    },
+    {
         "question": "What process is important for cross-fertilization?",
         "answer": "Meiosis"
     },
@@ -22832,6 +23164,10 @@
     {
         "question": "What process leads to genetic recombination in bacteria?",
         "answer": "Transformation"
+    },
+    {
+        "question": "What process strengthens synaptic connections?",
+        "answer": "Long-term potentiation"
     },
     {
         "question": "What products are formed during the complete combustion of hydrocarbons?",
@@ -22966,6 +23302,10 @@
         "answer": "121 °C"
     },
     {
+        "question": "What tissue forms wood?",
+        "answer": "Cambium"
+    },
+    {
         "question": "What tool is used for DNA analysis?",
         "answer": "PCR thermocycler"
     },
@@ -23006,12 +23346,20 @@
         "answer": "Pyrolysis"
     },
     {
+        "question": "What type of selection is based on the preference for rare phenotypes?",
+        "answer": "Disruptive"
+    },
+    {
         "question": "What type of symmetry do jellyfish have?",
         "answer": "Radial"
     },
     {
         "question": "What type of welding is used for joining rails?",
         "answer": "Thermite welding"
+    },
+    {
+        "question": "What types of rocks are formed on the ocean floor?",
+        "answer": "Basalts"
     },
     {
         "question": "What warning system is used in Japan?",
@@ -23137,6 +23485,10 @@
         "answer": "rhizobia"
     },
     {
+        "question": "Which bacteria play a key role in the carbon cycle?",
+        "answer": "chemosynthetic"
+    },
+    {
         "question": "Which bacterium causes tuberculosis?",
         "answer": "Mycobacterium tuberculosis"
     },
@@ -23155,6 +23507,10 @@
     {
         "question": "Which brain structure controls the endocrine system?",
         "answer": "Hypothalamus"
+    },
+    {
+        "question": "Which cells are used for tissue regeneration?",
+        "answer": "Mesenchymal cells"
     },
     {
         "question": "Which cells contain chloroplasts?"
@@ -23254,6 +23610,10 @@
     {
         "question": "Which element is deposited on materials using the chemical vapor deposition technique?",
         "answer": "Silicon"
+    },
+    {
+        "question": "Which element is formed during the radioactive decay of uranium?",
+        "answer": "Radon"
     },
     {
         "question": "Which element is known as a corrosion-resistant metal?",
@@ -23472,6 +23832,10 @@
         "answer": "Brainstem"
     },
     {
+        "question": "Which part of the brain controls breathing?",
+        "answer": "Medulla oblongata"
+    },
+    {
         "question": "Which part of the brain is responsible for facial recognition?",
         "answer": "Fusiform gyrus"
     },
@@ -23546,6 +23910,10 @@
     {
         "question": "Which programming language is most commonly used for machine learning?",
         "answer": "Python"
+    },
+    {
+        "question": "Which protein is used in synthetic biology tasks?",
+        "answer": "Hybrid protein"
     },
     {
         "question": "Which protocol do autonomous robots most commonly follow?",

@@ -103,6 +103,10 @@
     "answer": "1590"
   },
   {
+    "question": "In which country was the first mammal cloned?",
+    "answer": "United Kingdom"
+  },
+  {
     "question": "In which period did mammals first appear?",
     "answer": "Mesozoic"
   },
@@ -218,6 +222,10 @@
     "answer": "saprophytes"
   },
   {
+    "question": "What are organisms that live at high temperatures called?",
+    "answer": "Thermophiles"
+  },
+  {
     "question": "What are pathogenic bacteria?",
     "answer": "Cause diseases"
   },
@@ -246,12 +254,24 @@
     "answer": "Single-celled organisms"
   },
   {
+    "question": "What are quantum dots?",
+    "answer": "Semiconductor nanocrystals"
+  },
+  {
     "question": "What are ribosomes?",
     "answer": "Organelles"
   },
   {
     "question": "What are robot vacuums?",
     "answer": "Appliances"
+  },
+  {
+    "question": "What are seedless vascular plants called?",
+    "answer": "Ferns"
+  },
+  {
+    "question": "What are the DNA regions called that bind regulatory proteins?",
+    "answer": "Enhancers"
   },
   {
     "question": "What are the inert forms of bacteria called?",
@@ -498,6 +518,10 @@
     "answer": "Diseases and their causes"
   },
   {
+    "question": "What does string theory describe?",
+    "answer": "Fundamental particles"
+  },
+  {
     "question": "What does structural engineering involve?",
     "answer": "Designing structures"
   },
@@ -602,6 +626,10 @@
     "answer": "Wave function collapse"
   },
   {
+    "question": "What instrument is used to analyze the spectrum of light?",
+    "answer": "Spectrometer"
+  },
+  {
     "question": "What interaction does quantum chromodynamics describe?",
     "answer": "Strong interaction"
   },
@@ -650,6 +678,10 @@
     "answer": "Separation of a mixture"
   },
   {
+    "question": "What is a cold front?",
+    "answer": "Boundary of cold air"
+  },
+  {
     "question": "What is a colloidal solution?",
     "answer": "Disperse system"
   },
@@ -682,6 +714,10 @@
     "answer": "A collection of microorganisms"
   },
   {
+    "question": "What is a model in science?",
+    "answer": "Simplified representation"
+  },
+  {
     "question": "What is a nanomedical research method?",
     "answer": "Nanosonding"
   },
@@ -712,6 +748,10 @@
   {
     "question": "What is a systematic error in an experiment called?",
     "answer": "Systematic error"
+  },
+  {
+    "question": "What is a theory?",
+    "answer": "An explanation of phenomena"
   },
   {
     "question": "What is an API?",
@@ -832,6 +872,10 @@
   {
     "question": "What is integration?",
     "answer": "Summation"
+  },
+  {
+    "question": "What is interception in a network?",
+    "answer": "Network attack"
   },
   {
     "question": "What is isomerization?",
@@ -1022,6 +1066,10 @@
     "answer": "6 months"
   },
   {
+    "question": "What is the goal of synthetic biology?",
+    "answer": "Creation of new organisms"
+  },
+  {
     "question": "What is the gravitational phenomenon in the Universe called?",
     "answer": "Dark matter"
   },
@@ -1058,6 +1106,10 @@
     "answer": "Temperature contrast"
   },
   {
+    "question": "What is the main component of gene therapy?",
+    "answer": "Vectors"
+  },
+  {
     "question": "What is the main component of the Earth?",
     "answer": "Oxygen"
   },
@@ -1068,6 +1120,10 @@
   {
     "question": "What is the main method used in quantum physics?",
     "answer": "Mathematical modeling"
+  },
+  {
+    "question": "What is the mathematical function called that describes the probability distribution of particles?",
+    "answer": "Wave function"
   },
   {
     "question": "What is the measure of a material's density called?",
@@ -1230,6 +1286,10 @@
     "answer": "Gram method"
   },
   {
+    "question": "What is the name of the minimum length in quantum physics?",
+    "answer": "Planck length"
+  },
+  {
     "question": "What is the name of the nature protection system?",
     "answer": "Conservation"
   },
@@ -1264,6 +1324,10 @@
   {
     "question": "What is the name of wind erosion?",
     "answer": "Deflation"
+  },
+  {
+    "question": "What is the natural logarithm of the number e equal to?",
+    "answer": "1"
   },
   {
     "question": "What is the number i?",
@@ -1345,6 +1409,10 @@
     "answer": "Ionization"
   },
   {
+    "question": "What is the process of removing toxins from the body called?",
+    "answer": "Detoxification"
+  },
+  {
     "question": "What is the process of solving problems by breaking down a task into subtasks called?",
     "answer": "Decomposition"
   },
@@ -1359,6 +1427,10 @@
   {
     "question": "What is the process of transmitting information called?",
     "answer": "Communication"
+  },
+  {
+    "question": "What is the process of turning organic materials into fossils called?",
+    "answer": "Petrification"
   },
   {
     "question": "What is the process of young plants growing called?",
@@ -1381,8 +1453,16 @@
     "answer": "Myectomy"
   },
   {
+    "question": "What is the result of a collision between two inelastic bodies?",
+    "answer": "Deformation"
+  },
+  {
     "question": "What is the role of enzymes?",
     "answer": "Catalysts"
+  },
+  {
+    "question": "What is the role of plasmids in biotechnology?",
+    "answer": "Gene transformation"
   },
   {
     "question": "What is the scientific theory called that suggests life originated in space and was transferred to Earth?",
@@ -1391,6 +1471,10 @@
   {
     "question": "What is the self-assembly technique often used for in nanotechnology?",
     "answer": "Creating nanodevices"
+  },
+  {
+    "question": "What is the smallest mammal on Earth?",
+    "answer": "shrew"
   },
   {
     "question": "What is the smallest species of primates?",
@@ -1450,6 +1534,10 @@
   {
     "question": "What is the unit of charge?",
     "answer": "Coulomb"
+  },
+  {
+    "question": "What is the unit of measurement for electrical conductivity called?",
+    "answer": "Siemens"
   },
   {
     "question": "What is the value of the gravitational constant?",
@@ -1568,6 +1656,10 @@
     "answer": "observation"
   },
   {
+    "question": "What molecules have been found in meteorites, indicating the possible presence of life?",
+    "answer": "Amino acids"
+  },
+  {
     "question": "What molting process occurs in reptiles?",
     "answer": "Shedding old skin"
   },
@@ -1640,6 +1732,10 @@
     "answer": "Consolidation"
   },
   {
+    "question": "What process involves cutting and joining DNA?",
+    "answer": "recombination"
+  },
+  {
     "question": "What process is important for cross-fertilization?",
     "answer": "Meiosis"
   },
@@ -1658,6 +1754,10 @@
   {
     "question": "What process leads to genetic recombination in bacteria?",
     "answer": "Transformation"
+  },
+  {
+    "question": "What process strengthens synaptic connections?",
+    "answer": "Long-term potentiation"
   },
   {
     "question": "What products are formed during the complete combustion of hydrocarbons?",
@@ -1792,6 +1892,10 @@
     "answer": "121 °C"
   },
   {
+    "question": "What tissue forms wood?",
+    "answer": "Cambium"
+  },
+  {
     "question": "What tool is used for DNA analysis?",
     "answer": "PCR thermocycler"
   },
@@ -1832,12 +1936,20 @@
     "answer": "Pyrolysis"
   },
   {
+    "question": "What type of selection is based on the preference for rare phenotypes?",
+    "answer": "Disruptive"
+  },
+  {
     "question": "What type of symmetry do jellyfish have?",
     "answer": "Radial"
   },
   {
     "question": "What type of welding is used for joining rails?",
     "answer": "Thermite welding"
+  },
+  {
+    "question": "What types of rocks are formed on the ocean floor?",
+    "answer": "Basalts"
   },
   {
     "question": "What warning system is used in Japan?",
@@ -1963,6 +2075,10 @@
     "answer": "rhizobia"
   },
   {
+    "question": "Which bacteria play a key role in the carbon cycle?",
+    "answer": "chemosynthetic"
+  },
+  {
     "question": "Which bacterium causes tuberculosis?",
     "answer": "Mycobacterium tuberculosis"
   },
@@ -1981,6 +2097,10 @@
   {
     "question": "Which brain structure controls the endocrine system?",
     "answer": "Hypothalamus"
+  },
+  {
+    "question": "Which cells are used for tissue regeneration?",
+    "answer": "Mesenchymal cells"
   },
   {
     "question": "Which cells contain chloroplasts?"
@@ -2080,6 +2200,10 @@
   {
     "question": "Which element is deposited on materials using the chemical vapor deposition technique?",
     "answer": "Silicon"
+  },
+  {
+    "question": "Which element is formed during the radioactive decay of uranium?",
+    "answer": "Radon"
   },
   {
     "question": "Which element is known as a corrosion-resistant metal?",
@@ -2298,6 +2422,10 @@
     "answer": "Brainstem"
   },
   {
+    "question": "Which part of the brain controls breathing?",
+    "answer": "Medulla oblongata"
+  },
+  {
     "question": "Which part of the brain is responsible for facial recognition?",
     "answer": "Fusiform gyrus"
   },
@@ -2372,6 +2500,10 @@
   {
     "question": "Which programming language is most commonly used for machine learning?",
     "answer": "Python"
+  },
+  {
+    "question": "Which protein is used in synthetic biology tasks?",
+    "answer": "Hybrid protein"
   },
   {
     "question": "Which protocol do autonomous robots most commonly follow?",
