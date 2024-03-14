@@ -1,11 +1,35 @@
 [
   {
+    "question": "For which board game are twenty tokens required?",
+    "answer": "Trivial Pursuit"
+  },
+  {
     "question": "How many games are there in the main Resident Evil series?",
     "answer": "8"
   },
   {
     "question": "How many levels are there in Candy Crush Saga?",
     "answer": "10000+ levels"
+  },
+  {
+    "question": "How many phases are there in the game 'Pandemic'?",
+    "answer": "5"
+  },
+  {
+    "question": "In what year was Hearthstone released?",
+    "answer": "2014"
+  },
+  {
+    "question": "In what year was the first DreamHack tournament held?",
+    "answer": "1994"
+  },
+  {
+    "question": "In what year was the game 'Monopoly' released?",
+    "answer": "1935"
+  },
+  {
+    "question": "In what year was the game Watch Dogs: Legion released?",
+    "answer": "2020"
   },
   {
     "question": "In what year was the original Warcraft game released?",
@@ -16,36 +40,160 @@
     "answer": "1993"
   },
   {
+    "question": "In which 1997 game do claymation characters appear?",
+    "answer": "The Neverhood"
+  },
+  {
+    "question": "In which board game do players explore and fight for treasures on the lost island of Arnak?",
+    "answer": "Lost Ruins of Arnak"
+  },
+  {
     "question": "In which board game do players try to build the most powerful civilization?",
     "answer": "Through the Ages"
+  },
+  {
+    "question": "In which country was the Six Invitational 2020 tournament held?",
+    "answer": "Canada"
   },
   {
     "question": "In which game are there elementals?",
     "answer": "Divinity: Original Sin"
   },
   {
+    "question": "In which game are there transportation cards?",
+    "answer": "Ticket to Ride"
+  },
+  {
     "question": "In which game can you become the captain of a spaceship?",
     "answer": "FTL: Faster Than Light"
+  },
+  {
+    "question": "In which game do players control a Roman legion?",
+    "answer": "Concordia"
+  },
+  {
+    "question": "In which game do players explore planets and find artifacts while solving puzzles?",
+    "answer": "Outer Wilds"
+  },
+  {
+    "question": "In which game do you control a kite?",
+    "answer": "Kite Runner"
+  },
+  {
+    "question": "In which game do you explore dungeons and roll dice for battles?",
+    "answer": "DungeonQuest"
+  },
+  {
+    "question": "In which game do you manage an amusement park?",
+    "answer": "RollerCoaster Tycoon"
+  },
+  {
+    "question": "In which game do you need to build a spaceship to escape?",
+    "answer": "Outer Wilds"
   },
   {
     "question": "In which game do you solve puzzles in a world of isometric projections?",
     "answer": "Fez"
   },
   {
+    "question": "In which game does the Brotherhood of Steel faction appear?",
+    "answer": "Fallout"
+  },
+  {
+    "question": "In which game is Alduin featured?",
+    "answer": "Skyrim"
+  },
+  {
+    "question": "In which game is a D20 die used?",
+    "answer": "Dungeons & Dragons"
+  },
+  {
+    "question": "In which game is a post-apocalyptic world explored, ravaged by giant machines?",
+    "answer": "Horizon Zero Dawn"
+  },
+  {
+    "question": "In which game is the 'Pip-Boy' used?",
+    "answer": "Fallout"
+  },
+  {
+    "question": "In which game is the FaZe Clan team popular?",
+    "answer": "Call of Duty"
+  },
+  {
+    "question": "In which game is the Nephalem Stone used?",
+    "answer": "Diablo III"
+  },
+  {
     "question": "In which game is the character Jesse Faden featured?",
     "answer": "Control"
+  },
+  {
+    "question": "In which game is the main character Kazuma Kiryu?",
+    "answer": "Yakuza"
+  },
+  {
+    "question": "In which game is the main mechanic based on time manipulation?",
+    "answer": "Braid"
+  },
+  {
+    "question": "In which game is the main task to manage a fleet?",
+    "answer": "Homeworld"
+  },
+  {
+    "question": "What are intensive tests for games called?",
+    "answer": "Stress tests"
+  },
+  {
+    "question": "What are the main resources in the game Hay Day?",
+    "answer": "Crops"
+  },
+  {
+    "question": "What are the regular meetings in the game called?",
+    "answer": "Events"
   },
   {
     "question": "What creature helps in the game Monument Valley 2?",
     "answer": "Crow"
   },
   {
+    "question": "What does the term 4X mean in strategy games?",
+    "answer": "Explore, expand, exploit, exterminate"
+  },
+  {
+    "question": "What does the word 'Tangram' mean?",
+    "answer": "Seven boards of skill"
+  },
+  {
     "question": "What engine was used to develop the game Grand Theft Auto V?",
     "answer": "RAGE"
   },
   {
+    "question": "What event marked the beginning of the Witcher world?",
+    "answer": "Conjunction of the Spheres"
+  },
+  {
+    "question": "What game engine is used in The Elder Scrolls V: Skyrim?",
+    "answer": "Creation Engine"
+  },
+  {
+    "question": "What genre of VR games is suitable for fitness?",
+    "answer": "Rhythm game"
+  },
+  {
     "question": "What is Motion Capture?",
     "answer": "motion capture"
+  },
+  {
+    "question": "What is a key aspect of an RPG?",
+    "answer": "Role-playing"
+  },
+  {
+    "question": "What is the creation of content for games called?",
+    "answer": "Modding"
+  },
+  {
+    "question": "What is the document with the game description called?",
+    "answer": "Design document"
   },
   {
     "question": "What is the genre of the game Dark Souls?",
@@ -84,8 +232,24 @@
     "answer": "Mikado"
   },
   {
+    "question": "What is the name of the StarCraft tournament?",
+    "answer": "GSL"
+  },
+  {
     "question": "What is the name of the VR game where players can explore the world using a portal gun?",
     "answer": "Portal Stories: VR"
+  },
+  {
+    "question": "What is the name of the ancient Chinese game with black and white stones?",
+    "answer": "Go"
+  },
+  {
+    "question": "What is the name of the board game where players grow vegetables?",
+    "answer": "Agricola"
+  },
+  {
+    "question": "What is the name of the board game with paths and cards?",
+    "answer": "The Quest for El Dorado"
   },
   {
     "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
@@ -94,6 +258,10 @@
   {
     "question": "What is the name of the database with details of RPG worlds?",
     "answer": "Omniopedia"
+  },
+  {
+    "question": "What is the name of the enemy in Dead Space?",
+    "answer": "Necromorphs"
   },
   {
     "question": "What is the name of the esports player known as 'F0rest'?",
@@ -108,12 +276,68 @@
     "answer": "Space Invaders"
   },
   {
+    "question": "What is the name of the first game created by Hideo Kojima?",
+    "answer": "Metal Gear"
+  },
+  {
+    "question": "What is the name of the flight simulator by Laminar Research?",
+    "answer": "X-Plane"
+  },
+  {
+    "question": "What is the name of the game about managing a city-state in the ancient world?",
+    "answer": "Caesar"
+  },
+  {
+    "question": "What is the name of the game based on the comic about punishing evil?",
+    "answer": "The Punisher"
+  },
+  {
+    "question": "What is the name of the game based on the concept of an endless dungeon?",
+    "answer": "Rogue Legacy"
+  },
+  {
+    "question": "What is the name of the game where players become detectives?",
+    "answer": "Sherlock Holmes: Consulting Detective"
+  },
+  {
+    "question": "What is the name of the game where you can control a spaceship?",
+    "answer": "FTL: Faster Than Light"
+  },
+  {
+    "question": "What is the name of the game where you can develop in a post-apocalyptic world?",
+    "answer": "Fallout Shelter"
+  },
+  {
+    "question": "What is the name of the game where you can manage a space station?",
+    "answer": "Space Station 13"
+  },
+  {
+    "question": "What is the name of the game where you capture a castle?",
+    "answer": "Castle Crashers"
+  },
+  {
     "question": "What is the name of the game where you need to line up rows of identical tiles?",
     "answer": "Bejeweled"
   },
   {
     "question": "What is the name of the hunting simulator?",
     "answer": "theHunter"
+  },
+  {
+    "question": "What is the name of the indie game where you need to find light crystals?",
+    "answer": "Hyper Light Drifter"
+  },
+  {
+    "question": "What is the name of the island where the game Rime takes place?",
+    "answer": "Tlamac"
+  },
+  {
+    "question": "What is the name of the location where most of the action in the game 'BioShock' takes place?",
+    "answer": "Rapture"
+  },
+  {
+    "question": "What is the name of the main antagonist in the Resident Evil game series?",
+    "answer": "Albert Wesker"
   },
   {
     "question": "What is the name of the main character in the 'Resident Evil' game series?",
@@ -124,40 +348,140 @@
     "answer": "Wolf"
   },
   {
+    "question": "What is the name of the main character's weapon in the game Doom 2016?",
+    "answer": "BFG 9000"
+  },
+  {
+    "question": "What is the name of the major tournament for the game Overwatch?",
+    "answer": "Overwatch League"
+  },
+  {
     "question": "What is the name of the open-world game by Ubisoft released in 2020?",
     "answer": "Assassin's Creed Valhalla"
+  },
+  {
+    "question": "What is the name of the people's assembly in 'Final Fantasy X'?",
+    "answer": "Highbridge"
   },
   {
     "question": "What is the name of the post-apocalyptic role-playing game developed by InXile Entertainment?",
     "answer": "Wasteland 3"
   },
   {
+    "question": "What is the name of the puzzle that uses a chessboard?",
+    "answer": "Studies"
+  },
+  {
+    "question": "What is the name of the racing track simulator game?",
+    "answer": "Assetto Corsa"
+  },
+  {
+    "question": "What is the name of the small town in the game Oxenfree?",
+    "answer": "Camena"
+  },
+  {
     "question": "What is the name of the space battle simulation game?",
     "answer": "EVE Online"
+  },
+  {
+    "question": "What is the name of the world in the game Subnautica?",
+    "answer": "4546B"
+  },
+  {
+    "question": "What is the process of forming a deck called?",
+    "answer": "Draft"
+  },
+  {
+    "question": "What is the real name of the esports player known as 'GeT_RiGhT'?",
+    "answer": "Christopher Alesund"
+  },
+  {
+    "question": "What is the system called for automatic game code quality checking?",
+    "answer": "CI"
+  },
+  {
+    "question": "What is the term for an irreversible loss in a game?",
+    "answer": "Wasted"
+  },
+  {
+    "question": "What is the term for improving game mechanics?",
+    "answer": "Update"
   },
   {
     "question": "What is the ultimate goal set for players in the game 'No Man's Sky'?",
     "answer": "Center of the galaxy"
   },
   {
+    "question": "What is the visual layer of a game interface called?",
+    "answer": "HUD"
+  },
+  {
+    "question": "What prize is often awarded at LoL tournaments?",
+    "answer": "Skin Pack"
+  },
+  {
+    "question": "What programming language is the Godot engine written in?",
+    "answer": "C++"
+  },
+  {
     "question": "What puzzles use mathematical operations?",
     "answer": "Mathematical puzzles"
+  },
+  {
+    "question": "What resource is needed to change characters?",
+    "answer": "Growth Cards"
+  },
+  {
+    "question": "What role does the main character play in the game Hellblade: Senua's Sacrifice?",
+    "answer": "Warrior"
+  },
+  {
+    "question": "What tournament is held for Blizzard games in the middle of the year?",
+    "answer": "Midseason Madness"
   },
   {
     "question": "What tournament is held for the game Clash Royale?",
     "answer": "CRL"
   },
   {
+    "question": "What tournament is held for the game Street Fighter?",
+    "answer": "Capcom Cup"
+  },
+  {
     "question": "What type of cards are used to create combinations in Yu-Gi-Oh!?",
     "answer": "Synchro"
+  },
+  {
+    "question": "What type of magic cards exist in Yu-Gi-Oh!?",
+    "answer": "Field"
   },
   {
     "question": "What type of puzzle is a magic square?",
     "answer": "Magic square"
   },
   {
+    "question": "What was the first mass-produced interactive video game?",
+    "answer": "Spacewar!"
+  },
+  {
+    "question": "What was the name of the first Battle Royale game?",
+    "answer": "H1Z1"
+  },
+  {
+    "question": "Where is the EVO tournament held?",
+    "answer": "Las Vegas"
+  },
+  {
     "question": "Which AR game allows you to draw in the real world?",
     "answer": "Just a Line"
+  },
+  {
+    "question": "Which Apex Legends tournament is considered the most prestigious?",
+    "answer": "ALGS Championship"
+  },
+  {
+    "question": "Which Magic: The Gathering card is considered the most expensive?",
+    "answer": "Black Lotus"
   },
   {
     "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
@@ -166,6 +490,10 @@
   {
     "question": "Which StarCraft II tournament is considered the most prestigious?",
     "answer": "WCS Global Finals"
+  },
+  {
+    "question": "Which VR game allows players to explore the world using a portal gun?",
+    "answer": "Half-Life: Alyx"
   },
   {
     "question": "Which VR game allows you to command a virtual fleet?",
@@ -180,6 +508,14 @@
     "answer": "Human Resource Machine"
   },
   {
+    "question": "Which VR game is known for its thrilling tank battles?",
+    "answer": "World of Tanks VR"
+  },
+  {
+    "question": "Which VR game is related to the life of an ant?",
+    "answer": "Ant Simulator"
+  },
+  {
     "question": "Which animal is present in the game 'Carcassonne'?",
     "answer": "Dragon"
   },
@@ -188,12 +524,36 @@
     "answer": "Facebook"
   },
   {
+    "question": "Which dragon is trapped in Skyrim?",
+    "answer": "Odahviing"
+  },
+  {
+    "question": "Which esports organization hosts Call of Duty tournaments?",
+    "answer": "CDL"
+  },
+  {
+    "question": "Which faction is represented in World of Warcraft?",
+    "answer": "Horde"
+  },
+  {
     "question": "Which game allows players to build a city on post-apocalyptic land?",
     "answer": "Surviving the Aftermath"
   },
   {
+    "question": "Which game allows players to build and manage a partisan movement?",
+    "answer": "Partisans"
+  },
+  {
     "question": "Which game allows you to recreate historical battles and scenarios?",
     "answer": "Total War"
+  },
+  {
+    "question": "Which game explores an alternate history of battles on the Eastern Front?",
+    "answer": "Command & Conquer: Red Alert"
+  },
+  {
+    "question": "Which game has a mode reminiscent of dungeons?",
+    "answer": "MTG"
   },
   {
     "question": "Which game includes cards with the type 'Ice Lander'?",
@@ -204,8 +564,24 @@
     "answer": "Wolfenstein 3D"
   },
   {
+    "question": "Which game is a spin-off of the Persona series?",
+    "answer": "Persona Q"
+  },
+  {
+    "question": "Which game is dedicated to traveling through post-apocalyptic London?",
+    "answer": "Dying Light"
+  },
+  {
+    "question": "Which game is known for its historical campaigns?",
+    "answer": "Europa Universalis"
+  },
+  {
     "question": "Which game is known for its release in 2020?",
     "answer": "Cyberpunk 2077"
+  },
+  {
+    "question": "Which game is known for its sword fights and intense battles?",
+    "answer": "Dark Souls"
   },
   {
     "question": "Which game is popular due to augmented reality technology?",
@@ -224,24 +600,88 @@
     "answer": "Halo 3"
   },
   {
+    "question": "Which gaming console was the first 16-bit console?",
+    "answer": "Sega Genesis"
+  },
+  {
     "question": "Which indie game is a mix of strategy and puzzles?",
     "answer": "Papers, Please"
+  },
+  {
+    "question": "Which indie game tells the story of life on a space station?",
+    "answer": "Tacoma"
+  },
+  {
+    "question": "Which mathematical puzzle is the competition dedicated to?",
+    "answer": "Sudoku"
+  },
+  {
+    "question": "Which organization hosts the DreamHack tournament?",
+    "answer": "DreamHack AB"
   },
   {
     "question": "Which puzzle can be solved by moving rings?",
     "answer": "Tower of Hanoi"
   },
   {
+    "question": "Which puzzle is a fusion of even prints?",
+    "answer": "Kotorika"
+  },
+  {
+    "question": "Which role-playing online game is known for its large tournaments?",
+    "answer": "World of Warcraft"
+  },
+  {
+    "question": "Which simulator allows you to manage an aquarium?",
+    "answer": "Megaquarium"
+  },
+  {
+    "question": "Which simulator is dedicated to post-apocalyptic survival?",
+    "answer": "Project Zomboid"
+  },
+  {
+    "question": "Which skill is responsible for the art of persuasion?",
+    "answer": "Speech"
+  },
+  {
     "question": "Which studio developed the game The Last Guardian?",
     "answer": "Team Ico"
+  },
+  {
+    "question": "Which team does the esports player Puppey play for?",
+    "answer": "Team Secret"
+  },
+  {
+    "question": "Which team won the 2020 League of Legends World Championship?",
+    "answer": "DAMWON Gaming"
   },
   {
     "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
     "answer": "NAVI"
   },
   {
+    "question": "Which video game was the first to receive an ESRB rating?",
+    "answer": "Mortal Kombat"
+  },
+  {
     "question": "Which virtual reality game allows players to explore dungeons?",
     "answer": "The Mage's Tale"
+  },
+  {
+    "question": "Who controls the game session?",
+    "answer": "Admin"
+  },
+  {
+    "question": "Who developed the game 'Path of Exile'?",
+    "answer": "Grinding Gear Games"
+  },
+  {
+    "question": "Who is considered the founder of the RPG genre?",
+    "answer": "Gary Gygax"
+  },
+  {
+    "question": "Who is the creator of the character Mario?",
+    "answer": "Shigeru Miyamoto"
   },
   {
     "question": "Who is the main antagonist in the Half-Life game series?",
@@ -256,6 +696,10 @@
     "answer": "Desmond Miles"
   },
   {
+    "question": "Who is the organizer of the Blast Premier CS:GO tournament?",
+    "answer": "RFRSH Entertainment"
+  },
+  {
     "question": "Who programs the logical interactions in a game?",
     "answer": "Gameplay programmer"
   },
@@ -266,5 +710,17 @@
   {
     "question": "Who won the 2023 World Chess Championship?",
     "answer": "Ding Liren"
+  },
+  {
+    "question": "Who won the DreamHack Masters 2021 CS:GO tournament?",
+    "answer": "Gambit Esports"
+  },
+  {
+    "question": "Who won the PMCO Spring Split 2021 tournament in PUBG Mobile?",
+    "answer": "Fanatic Zombies"
+  },
+  {
+    "question": "Who won the Teamfight Tactics World Championship in 2021?",
+    "answer": "3Zz"
   }
 ]

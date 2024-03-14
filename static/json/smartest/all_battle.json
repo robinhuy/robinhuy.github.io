@@ -6157,12 +6157,36 @@
         "answer": "Harm to the ecosystem"
     },
     {
+        "question": "For which board game are twenty tokens required?",
+        "answer": "Trivial Pursuit"
+    },
+    {
         "question": "How many games are there in the main Resident Evil series?",
         "answer": "8"
     },
     {
         "question": "How many levels are there in Candy Crush Saga?",
         "answer": "10000+ levels"
+    },
+    {
+        "question": "How many phases are there in the game 'Pandemic'?",
+        "answer": "5"
+    },
+    {
+        "question": "In what year was Hearthstone released?",
+        "answer": "2014"
+    },
+    {
+        "question": "In what year was the first DreamHack tournament held?",
+        "answer": "1994"
+    },
+    {
+        "question": "In what year was the game 'Monopoly' released?",
+        "answer": "1935"
+    },
+    {
+        "question": "In what year was the game Watch Dogs: Legion released?",
+        "answer": "2020"
     },
     {
         "question": "In what year was the original Warcraft game released?",
@@ -6173,36 +6197,160 @@
         "answer": "1993"
     },
     {
+        "question": "In which 1997 game do claymation characters appear?",
+        "answer": "The Neverhood"
+    },
+    {
+        "question": "In which board game do players explore and fight for treasures on the lost island of Arnak?",
+        "answer": "Lost Ruins of Arnak"
+    },
+    {
         "question": "In which board game do players try to build the most powerful civilization?",
         "answer": "Through the Ages"
+    },
+    {
+        "question": "In which country was the Six Invitational 2020 tournament held?",
+        "answer": "Canada"
     },
     {
         "question": "In which game are there elementals?",
         "answer": "Divinity: Original Sin"
     },
     {
+        "question": "In which game are there transportation cards?",
+        "answer": "Ticket to Ride"
+    },
+    {
         "question": "In which game can you become the captain of a spaceship?",
         "answer": "FTL: Faster Than Light"
+    },
+    {
+        "question": "In which game do players control a Roman legion?",
+        "answer": "Concordia"
+    },
+    {
+        "question": "In which game do players explore planets and find artifacts while solving puzzles?",
+        "answer": "Outer Wilds"
+    },
+    {
+        "question": "In which game do you control a kite?",
+        "answer": "Kite Runner"
+    },
+    {
+        "question": "In which game do you explore dungeons and roll dice for battles?",
+        "answer": "DungeonQuest"
+    },
+    {
+        "question": "In which game do you manage an amusement park?",
+        "answer": "RollerCoaster Tycoon"
+    },
+    {
+        "question": "In which game do you need to build a spaceship to escape?",
+        "answer": "Outer Wilds"
     },
     {
         "question": "In which game do you solve puzzles in a world of isometric projections?",
         "answer": "Fez"
     },
     {
+        "question": "In which game does the Brotherhood of Steel faction appear?",
+        "answer": "Fallout"
+    },
+    {
+        "question": "In which game is Alduin featured?",
+        "answer": "Skyrim"
+    },
+    {
+        "question": "In which game is a D20 die used?",
+        "answer": "Dungeons & Dragons"
+    },
+    {
+        "question": "In which game is a post-apocalyptic world explored, ravaged by giant machines?",
+        "answer": "Horizon Zero Dawn"
+    },
+    {
+        "question": "In which game is the 'Pip-Boy' used?",
+        "answer": "Fallout"
+    },
+    {
+        "question": "In which game is the FaZe Clan team popular?",
+        "answer": "Call of Duty"
+    },
+    {
+        "question": "In which game is the Nephalem Stone used?",
+        "answer": "Diablo III"
+    },
+    {
         "question": "In which game is the character Jesse Faden featured?",
         "answer": "Control"
+    },
+    {
+        "question": "In which game is the main character Kazuma Kiryu?",
+        "answer": "Yakuza"
+    },
+    {
+        "question": "In which game is the main mechanic based on time manipulation?",
+        "answer": "Braid"
+    },
+    {
+        "question": "In which game is the main task to manage a fleet?",
+        "answer": "Homeworld"
+    },
+    {
+        "question": "What are intensive tests for games called?",
+        "answer": "Stress tests"
+    },
+    {
+        "question": "What are the main resources in the game Hay Day?",
+        "answer": "Crops"
+    },
+    {
+        "question": "What are the regular meetings in the game called?",
+        "answer": "Events"
     },
     {
         "question": "What creature helps in the game Monument Valley 2?",
         "answer": "Crow"
     },
     {
+        "question": "What does the term 4X mean in strategy games?",
+        "answer": "Explore, expand, exploit, exterminate"
+    },
+    {
+        "question": "What does the word 'Tangram' mean?",
+        "answer": "Seven boards of skill"
+    },
+    {
         "question": "What engine was used to develop the game Grand Theft Auto V?",
         "answer": "RAGE"
     },
     {
+        "question": "What event marked the beginning of the Witcher world?",
+        "answer": "Conjunction of the Spheres"
+    },
+    {
+        "question": "What game engine is used in The Elder Scrolls V: Skyrim?",
+        "answer": "Creation Engine"
+    },
+    {
+        "question": "What genre of VR games is suitable for fitness?",
+        "answer": "Rhythm game"
+    },
+    {
         "question": "What is Motion Capture?",
         "answer": "motion capture"
+    },
+    {
+        "question": "What is a key aspect of an RPG?",
+        "answer": "Role-playing"
+    },
+    {
+        "question": "What is the creation of content for games called?",
+        "answer": "Modding"
+    },
+    {
+        "question": "What is the document with the game description called?",
+        "answer": "Design document"
     },
     {
         "question": "What is the genre of the game Dark Souls?",
@@ -6241,8 +6389,24 @@
         "answer": "Mikado"
     },
     {
+        "question": "What is the name of the StarCraft tournament?",
+        "answer": "GSL"
+    },
+    {
         "question": "What is the name of the VR game where players can explore the world using a portal gun?",
         "answer": "Portal Stories: VR"
+    },
+    {
+        "question": "What is the name of the ancient Chinese game with black and white stones?",
+        "answer": "Go"
+    },
+    {
+        "question": "What is the name of the board game where players grow vegetables?",
+        "answer": "Agricola"
+    },
+    {
+        "question": "What is the name of the board game with paths and cards?",
+        "answer": "The Quest for El Dorado"
     },
     {
         "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
@@ -6251,6 +6415,10 @@
     {
         "question": "What is the name of the database with details of RPG worlds?",
         "answer": "Omniopedia"
+    },
+    {
+        "question": "What is the name of the enemy in Dead Space?",
+        "answer": "Necromorphs"
     },
     {
         "question": "What is the name of the esports player known as 'F0rest'?",
@@ -6265,12 +6433,68 @@
         "answer": "Space Invaders"
     },
     {
+        "question": "What is the name of the first game created by Hideo Kojima?",
+        "answer": "Metal Gear"
+    },
+    {
+        "question": "What is the name of the flight simulator by Laminar Research?",
+        "answer": "X-Plane"
+    },
+    {
+        "question": "What is the name of the game about managing a city-state in the ancient world?",
+        "answer": "Caesar"
+    },
+    {
+        "question": "What is the name of the game based on the comic about punishing evil?",
+        "answer": "The Punisher"
+    },
+    {
+        "question": "What is the name of the game based on the concept of an endless dungeon?",
+        "answer": "Rogue Legacy"
+    },
+    {
+        "question": "What is the name of the game where players become detectives?",
+        "answer": "Sherlock Holmes: Consulting Detective"
+    },
+    {
+        "question": "What is the name of the game where you can control a spaceship?",
+        "answer": "FTL: Faster Than Light"
+    },
+    {
+        "question": "What is the name of the game where you can develop in a post-apocalyptic world?",
+        "answer": "Fallout Shelter"
+    },
+    {
+        "question": "What is the name of the game where you can manage a space station?",
+        "answer": "Space Station 13"
+    },
+    {
+        "question": "What is the name of the game where you capture a castle?",
+        "answer": "Castle Crashers"
+    },
+    {
         "question": "What is the name of the game where you need to line up rows of identical tiles?",
         "answer": "Bejeweled"
     },
     {
         "question": "What is the name of the hunting simulator?",
         "answer": "theHunter"
+    },
+    {
+        "question": "What is the name of the indie game where you need to find light crystals?",
+        "answer": "Hyper Light Drifter"
+    },
+    {
+        "question": "What is the name of the island where the game Rime takes place?",
+        "answer": "Tlamac"
+    },
+    {
+        "question": "What is the name of the location where most of the action in the game 'BioShock' takes place?",
+        "answer": "Rapture"
+    },
+    {
+        "question": "What is the name of the main antagonist in the Resident Evil game series?",
+        "answer": "Albert Wesker"
     },
     {
         "question": "What is the name of the main character in the 'Resident Evil' game series?",
@@ -6281,40 +6505,140 @@
         "answer": "Wolf"
     },
     {
+        "question": "What is the name of the main character's weapon in the game Doom 2016?",
+        "answer": "BFG 9000"
+    },
+    {
+        "question": "What is the name of the major tournament for the game Overwatch?",
+        "answer": "Overwatch League"
+    },
+    {
         "question": "What is the name of the open-world game by Ubisoft released in 2020?",
         "answer": "Assassin's Creed Valhalla"
+    },
+    {
+        "question": "What is the name of the people's assembly in 'Final Fantasy X'?",
+        "answer": "Highbridge"
     },
     {
         "question": "What is the name of the post-apocalyptic role-playing game developed by InXile Entertainment?",
         "answer": "Wasteland 3"
     },
     {
+        "question": "What is the name of the puzzle that uses a chessboard?",
+        "answer": "Studies"
+    },
+    {
+        "question": "What is the name of the racing track simulator game?",
+        "answer": "Assetto Corsa"
+    },
+    {
+        "question": "What is the name of the small town in the game Oxenfree?",
+        "answer": "Camena"
+    },
+    {
         "question": "What is the name of the space battle simulation game?",
         "answer": "EVE Online"
+    },
+    {
+        "question": "What is the name of the world in the game Subnautica?",
+        "answer": "4546B"
+    },
+    {
+        "question": "What is the process of forming a deck called?",
+        "answer": "Draft"
+    },
+    {
+        "question": "What is the real name of the esports player known as 'GeT_RiGhT'?",
+        "answer": "Christopher Alesund"
+    },
+    {
+        "question": "What is the system called for automatic game code quality checking?",
+        "answer": "CI"
+    },
+    {
+        "question": "What is the term for an irreversible loss in a game?",
+        "answer": "Wasted"
+    },
+    {
+        "question": "What is the term for improving game mechanics?",
+        "answer": "Update"
     },
     {
         "question": "What is the ultimate goal set for players in the game 'No Man's Sky'?",
         "answer": "Center of the galaxy"
     },
     {
+        "question": "What is the visual layer of a game interface called?",
+        "answer": "HUD"
+    },
+    {
+        "question": "What prize is often awarded at LoL tournaments?",
+        "answer": "Skin Pack"
+    },
+    {
+        "question": "What programming language is the Godot engine written in?",
+        "answer": "C++"
+    },
+    {
         "question": "What puzzles use mathematical operations?",
         "answer": "Mathematical puzzles"
+    },
+    {
+        "question": "What resource is needed to change characters?",
+        "answer": "Growth Cards"
+    },
+    {
+        "question": "What role does the main character play in the game Hellblade: Senua's Sacrifice?",
+        "answer": "Warrior"
+    },
+    {
+        "question": "What tournament is held for Blizzard games in the middle of the year?",
+        "answer": "Midseason Madness"
     },
     {
         "question": "What tournament is held for the game Clash Royale?",
         "answer": "CRL"
     },
     {
+        "question": "What tournament is held for the game Street Fighter?",
+        "answer": "Capcom Cup"
+    },
+    {
         "question": "What type of cards are used to create combinations in Yu-Gi-Oh!?",
         "answer": "Synchro"
+    },
+    {
+        "question": "What type of magic cards exist in Yu-Gi-Oh!?",
+        "answer": "Field"
     },
     {
         "question": "What type of puzzle is a magic square?",
         "answer": "Magic square"
     },
     {
+        "question": "What was the first mass-produced interactive video game?",
+        "answer": "Spacewar!"
+    },
+    {
+        "question": "What was the name of the first Battle Royale game?",
+        "answer": "H1Z1"
+    },
+    {
+        "question": "Where is the EVO tournament held?",
+        "answer": "Las Vegas"
+    },
+    {
         "question": "Which AR game allows you to draw in the real world?",
         "answer": "Just a Line"
+    },
+    {
+        "question": "Which Apex Legends tournament is considered the most prestigious?",
+        "answer": "ALGS Championship"
+    },
+    {
+        "question": "Which Magic: The Gathering card is considered the most expensive?",
+        "answer": "Black Lotus"
     },
     {
         "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
@@ -6323,6 +6647,10 @@
     {
         "question": "Which StarCraft II tournament is considered the most prestigious?",
         "answer": "WCS Global Finals"
+    },
+    {
+        "question": "Which VR game allows players to explore the world using a portal gun?",
+        "answer": "Half-Life: Alyx"
     },
     {
         "question": "Which VR game allows you to command a virtual fleet?",
@@ -6337,6 +6665,14 @@
         "answer": "Human Resource Machine"
     },
     {
+        "question": "Which VR game is known for its thrilling tank battles?",
+        "answer": "World of Tanks VR"
+    },
+    {
+        "question": "Which VR game is related to the life of an ant?",
+        "answer": "Ant Simulator"
+    },
+    {
         "question": "Which animal is present in the game 'Carcassonne'?",
         "answer": "Dragon"
     },
@@ -6345,12 +6681,36 @@
         "answer": "Facebook"
     },
     {
+        "question": "Which dragon is trapped in Skyrim?",
+        "answer": "Odahviing"
+    },
+    {
+        "question": "Which esports organization hosts Call of Duty tournaments?",
+        "answer": "CDL"
+    },
+    {
+        "question": "Which faction is represented in World of Warcraft?",
+        "answer": "Horde"
+    },
+    {
         "question": "Which game allows players to build a city on post-apocalyptic land?",
         "answer": "Surviving the Aftermath"
     },
     {
+        "question": "Which game allows players to build and manage a partisan movement?",
+        "answer": "Partisans"
+    },
+    {
         "question": "Which game allows you to recreate historical battles and scenarios?",
         "answer": "Total War"
+    },
+    {
+        "question": "Which game explores an alternate history of battles on the Eastern Front?",
+        "answer": "Command & Conquer: Red Alert"
+    },
+    {
+        "question": "Which game has a mode reminiscent of dungeons?",
+        "answer": "MTG"
     },
     {
         "question": "Which game includes cards with the type 'Ice Lander'?",
@@ -6361,8 +6721,24 @@
         "answer": "Wolfenstein 3D"
     },
     {
+        "question": "Which game is a spin-off of the Persona series?",
+        "answer": "Persona Q"
+    },
+    {
+        "question": "Which game is dedicated to traveling through post-apocalyptic London?",
+        "answer": "Dying Light"
+    },
+    {
+        "question": "Which game is known for its historical campaigns?",
+        "answer": "Europa Universalis"
+    },
+    {
         "question": "Which game is known for its release in 2020?",
         "answer": "Cyberpunk 2077"
+    },
+    {
+        "question": "Which game is known for its sword fights and intense battles?",
+        "answer": "Dark Souls"
     },
     {
         "question": "Which game is popular due to augmented reality technology?",
@@ -6381,24 +6757,88 @@
         "answer": "Halo 3"
     },
     {
+        "question": "Which gaming console was the first 16-bit console?",
+        "answer": "Sega Genesis"
+    },
+    {
         "question": "Which indie game is a mix of strategy and puzzles?",
         "answer": "Papers, Please"
+    },
+    {
+        "question": "Which indie game tells the story of life on a space station?",
+        "answer": "Tacoma"
+    },
+    {
+        "question": "Which mathematical puzzle is the competition dedicated to?",
+        "answer": "Sudoku"
+    },
+    {
+        "question": "Which organization hosts the DreamHack tournament?",
+        "answer": "DreamHack AB"
     },
     {
         "question": "Which puzzle can be solved by moving rings?",
         "answer": "Tower of Hanoi"
     },
     {
+        "question": "Which puzzle is a fusion of even prints?",
+        "answer": "Kotorika"
+    },
+    {
+        "question": "Which role-playing online game is known for its large tournaments?",
+        "answer": "World of Warcraft"
+    },
+    {
+        "question": "Which simulator allows you to manage an aquarium?",
+        "answer": "Megaquarium"
+    },
+    {
+        "question": "Which simulator is dedicated to post-apocalyptic survival?",
+        "answer": "Project Zomboid"
+    },
+    {
+        "question": "Which skill is responsible for the art of persuasion?",
+        "answer": "Speech"
+    },
+    {
         "question": "Which studio developed the game The Last Guardian?",
         "answer": "Team Ico"
+    },
+    {
+        "question": "Which team does the esports player Puppey play for?",
+        "answer": "Team Secret"
+    },
+    {
+        "question": "Which team won the 2020 League of Legends World Championship?",
+        "answer": "DAMWON Gaming"
     },
     {
         "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
         "answer": "NAVI"
     },
     {
+        "question": "Which video game was the first to receive an ESRB rating?",
+        "answer": "Mortal Kombat"
+    },
+    {
         "question": "Which virtual reality game allows players to explore dungeons?",
         "answer": "The Mage's Tale"
+    },
+    {
+        "question": "Who controls the game session?",
+        "answer": "Admin"
+    },
+    {
+        "question": "Who developed the game 'Path of Exile'?",
+        "answer": "Grinding Gear Games"
+    },
+    {
+        "question": "Who is considered the founder of the RPG genre?",
+        "answer": "Gary Gygax"
+    },
+    {
+        "question": "Who is the creator of the character Mario?",
+        "answer": "Shigeru Miyamoto"
     },
     {
         "question": "Who is the main antagonist in the Half-Life game series?",
@@ -6413,6 +6853,10 @@
         "answer": "Desmond Miles"
     },
     {
+        "question": "Who is the organizer of the Blast Premier CS:GO tournament?",
+        "answer": "RFRSH Entertainment"
+    },
+    {
         "question": "Who programs the logical interactions in a game?",
         "answer": "Gameplay programmer"
     },
@@ -6423,6 +6867,18 @@
     {
         "question": "Who won the 2023 World Chess Championship?",
         "answer": "Ding Liren"
+    },
+    {
+        "question": "Who won the DreamHack Masters 2021 CS:GO tournament?",
+        "answer": "Gambit Esports"
+    },
+    {
+        "question": "Who won the PMCO Spring Split 2021 tournament in PUBG Mobile?",
+        "answer": "Fanatic Zombies"
+    },
+    {
+        "question": "Who won the Teamfight Tactics World Championship in 2021?",
+        "answer": "3Zz"
     },
     {
         "question": "At what distance from each other are peonies planted?",
@@ -21597,6 +22053,10 @@
         "answer": "1590"
     },
     {
+        "question": "In what year was the first robot created?",
+        "answer": "1921"
+    },
+    {
         "question": "In which country was the first mammal cloned?",
         "answer": "United Kingdom"
     },
@@ -21844,6 +22304,10 @@
         "answer": "Melting ice"
     },
     {
+        "question": "What characteristic defines autosomal recessive diseases?",
+        "answer": "Inherited from both parents"
+    },
+    {
         "question": "What characterizes a chemical reaction?",
         "answer": "Change"
     },
@@ -21860,6 +22324,10 @@
         "answer": "Reclamation"
     },
     {
+        "question": "What creatures inhabited the Paleozoic era?",
+        "answer": "Trilobites"
+    },
+    {
         "question": "What determines the amount of solar energy reaching the Earth?",
         "answer": "Albedo"
     },
@@ -21874,6 +22342,10 @@
     {
         "question": "What device is used for DNA analysis?",
         "answer": "Sequencer"
+    },
+    {
+        "question": "What device is used for the Internet of Things?",
+        "answer": "IoT modules"
     },
     {
         "question": "What device is used to measure the speed of sound in a medium?",
@@ -21894,6 +22366,10 @@
     {
         "question": "What did Ernest Rutherford discover?",
         "answer": "Nucleus of the atom"
+    },
+    {
+        "question": "What did James Watt invent?",
+        "answer": "Steam engine"
     },
     {
         "question": "What do all viruses have?",
@@ -22076,6 +22552,10 @@
         "answer": "Maxwell's Equations"
     },
     {
+        "question": "What event often leads to the formation of fossils?",
+        "answer": "Flooding"
+    },
+    {
         "question": "What factor affects climate change?",
         "answer": "Greenhouse gases"
     },
@@ -22168,6 +22648,10 @@
         "answer": "A fish that migrates to the sea"
     },
     {
+        "question": "What is a characteristic of quantum dots?",
+        "answer": "Light manipulation"
+    },
+    {
         "question": "What is a chromatograph used for?",
         "answer": "Separation of a mixture"
     },
@@ -22186,6 +22670,10 @@
     {
         "question": "What is a cyclone?",
         "answer": "Low pressure"
+    },
+    {
+        "question": "What is a dynamic hysteresis graph used for?",
+        "answer": "Studying hysteresis"
     },
     {
         "question": "What is a gyroscope used for?",
@@ -22268,8 +22756,16 @@
         "answer": "Measuring heart rhythms"
     },
     {
+        "question": "What is an endonuclease?",
+        "answer": "DNA cutting enzyme"
+    },
+    {
         "question": "What is an important stage in scientific research?",
         "answer": "Data analysis"
+    },
+    {
+        "question": "What is an inversion?",
+        "answer": "Reverse gradient"
     },
     {
         "question": "What is an irrational number?",
@@ -22290,6 +22786,10 @@
     {
         "question": "What is called the cosmological horizon?",
         "answer": "The limit of the observable universe"
+    },
+    {
+        "question": "What is chemosynthesis?",
+        "answer": "Synthesis without light"
     },
     {
         "question": "What is chirality?",
@@ -22360,6 +22860,10 @@
         "answer": "Genome editing for treatment"
     },
     {
+        "question": "What is hyperkalemia?",
+        "answer": "High potassium level"
+    },
+    {
         "question": "What is hypoxia?",
         "answer": "Lack of oxygen"
     },
@@ -22390,6 +22894,10 @@
     {
         "question": "What is measured in anthropometry?",
         "answer": "Human body measurements"
+    },
+    {
+        "question": "What is meristem?",
+        "answer": "Growth tissue"
     },
     {
         "question": "What is oxygen balance?",
@@ -22472,6 +22980,10 @@
         "answer": "High"
     },
     {
+        "question": "What is the condition called when a person's heart stops?",
+        "answer": "Asystole"
+    },
+    {
         "question": "What is the definition of determining the sequence of genes?",
         "answer": "Sequencing"
     },
@@ -22500,12 +23012,20 @@
         "answer": "Flowmeter"
     },
     {
+        "question": "What is the device called for measuring the speed of light?",
+        "answer": "Laser interferometer"
+    },
+    {
         "question": "What is the device called for studying the microstructure of materials?",
         "answer": "Microscope"
     },
     {
         "question": "What is the device used for DNA analysis called?",
         "answer": "Genetic analyzer"
+    },
+    {
+        "question": "What is the device used to measure solar radiation called?",
+        "answer": "Actinometer"
     },
     {
         "question": "What is the dew point?",
@@ -22592,6 +23112,10 @@
         "answer": "Energy is conserved"
     },
     {
+        "question": "What is the limit of sin(x)/x as x approaches zero?",
+        "answer": "1"
+    },
+    {
         "question": "What is the limit of the sequence 1/n as n approaches infinity?",
         "answer": "0"
     },
@@ -22614,6 +23138,10 @@
     {
         "question": "What is the main method used in quantum physics?",
         "answer": "Mathematical modeling"
+    },
+    {
+        "question": "What is the main pigment structure of a leaf called?",
+        "answer": "Chloroplast"
     },
     {
         "question": "What is the mathematical function called that describes the probability distribution of particles?",
@@ -22674,6 +23202,10 @@
     {
         "question": "What is the method of inserting new genes into an organism called?",
         "answer": "Genetic transformation"
+    },
+    {
+        "question": "What is the method of protein analysis called?",
+        "answer": "Electrophoresis"
     },
     {
         "question": "What is the molar mass of H2SO4?",
@@ -22845,6 +23377,10 @@
     {
         "question": "What is the phenomenon called where a particle exists in multiple states simultaneously?",
         "answer": "Superposition"
+    },
+    {
+        "question": "What is the phenomenon of light absorption called?",
+        "answer": "Light absorption"
     },
     {
         "question": "What is the plant tissue called that ensures growth in length?",
@@ -23034,6 +23570,10 @@
         "answer": "Siemens"
     },
     {
+        "question": "What is the upper part of a flower called?",
+        "answer": "Anther"
+    },
+    {
         "question": "What is the value of the gravitational constant?",
         "answer": "6.67430 × 10⁻¹¹"
     },
@@ -23076,6 +23616,10 @@
     {
         "question": "What layer does IPv4 addressing belong to?",
         "answer": "Network"
+    },
+    {
+        "question": "What liquid is contained in markers?",
+        "answer": "Alcohol"
     },
     {
         "question": "What material did Mikhail Lomonosov synthesize for the first time?",
@@ -23126,6 +23670,10 @@
         "answer": "Radiometric"
     },
     {
+        "question": "What method is used to detect exoplanets?",
+        "answer": "Transit"
+    },
+    {
         "question": "What method is used to study bacterial DNA?",
         "answer": "Sequencing"
     },
@@ -23160,6 +23708,10 @@
     {
         "question": "What network protocol is used for the internet?",
         "answer": "TCP/IP"
+    },
+    {
+        "question": "What objects emit X-rays in space?",
+        "answer": "Pulsars"
     },
     {
         "question": "What organic molecules can be found on comets?",
@@ -23282,6 +23834,10 @@
         "answer": "Self-learning"
     },
     {
+        "question": "What provides the transportation of nutrients in a plant?",
+        "answer": "Phloem"
+    },
+    {
         "question": "What provides verification?",
         "answer": "Data confirmation"
     },
@@ -23320,6 +23876,10 @@
     {
         "question": "What science studies animal behavior?",
         "answer": "Ethology"
+    },
+    {
+        "question": "What science studies the behavior of bodies in a fluid?",
+        "answer": "Hydrodynamics"
     },
     {
         "question": "What structure connects the two hemispheres of the brain?",
@@ -23386,6 +23946,10 @@
         "answer": "121 °C"
     },
     {
+        "question": "What term refers to the increase in air humidity?",
+        "answer": "Condensation"
+    },
+    {
         "question": "What tissue forms wood?",
         "answer": "Cambium"
     },
@@ -23400,6 +23964,10 @@
     {
         "question": "What type of cell division leads to the formation of gametes?",
         "answer": "Meiosis"
+    },
+    {
+        "question": "What type of cells are used in tissue engineering?",
+        "answer": "Stem"
     },
     {
         "question": "What type of chemical reaction is characteristic of aromatic hydrocarbons?",
@@ -23724,6 +24292,10 @@
         "answer": "Bell's experiment"
     },
     {
+        "question": "Which experiment proved the existence of the wave nature of matter?",
+        "answer": "Davisson-Germer experiment"
+    },
+    {
         "question": "Which factor does not affect plant growth?",
         "answer": "Leaf color"
     },
@@ -23808,6 +24380,10 @@
         "answer": "Analytical"
     },
     {
+        "question": "Which method is used to search for a substring in a string?",
+        "answer": "KMP"
+    },
+    {
         "question": "Which methodology analyzes scientific principles and methods?",
         "answer": "Philosophy of science"
     },
@@ -23846,6 +24422,10 @@
     {
         "question": "Which nanomaterial is often used in sensors?",
         "answer": "Zinc"
+    },
+    {
+        "question": "Which natural phenomena regularly change the climate?",
+        "answer": "El Niño"
     },
     {
         "question": "Which neurotransmitter inhibits neuronal activity?",
@@ -23940,6 +24520,10 @@
         "answer": "Ventral tegmental area"
     },
     {
+        "question": "Which part of the equation describes the change in wave functions?",
+        "answer": "Differential"
+    },
+    {
         "question": "Which part of the flower turns into a fruit?",
         "answer": "Ovary"
     },
@@ -23966,6 +24550,10 @@
     {
         "question": "Which physicist discovered the concept of the electromagnetic field?",
         "answer": "Maxwell"
+    },
+    {
+        "question": "Which pigment is responsible for the autumn coloration of leaves?",
+        "answer": "Carotenoids"
     },
     {
         "question": "Which planet has the greatest orbital inclination?",
@@ -24140,6 +24728,10 @@
         "answer": "Electroweak theory"
     },
     {
+        "question": "Which tree makes 'popping' sounds as it grows?",
+        "answer": "Bamboo"
+    },
+    {
         "question": "Which type of rock is indicated by the absence of layering?",
         "answer": "Igneous"
     },
@@ -24213,6 +24805,10 @@
     {
         "question": "Who discovered the starch-iodine reagent?",
         "answer": "Friedrich Schönbein"
+    },
+    {
+        "question": "Who discovered the structure of benzene?",
+        "answer": "Friedrich Kekulé"
     },
     {
         "question": "Who first described the laws of inheritance?",
@@ -24331,6 +24927,10 @@
         "answer": "Mary Anning"
     },
     {
+        "question": "Who was the first to measure the length of the equator?",
+        "answer": "Eratosthenes"
+    },
+    {
         "question": "Who was the first to measure the speed of light?",
         "answer": "Fizeau"
     },
@@ -24351,12 +24951,128 @@
         "answer": "Mars rovers"
     },
     {
+        "question": "Why do spiders spin webs?",
+        "answer": "Catching prey"
+    },
+    {
+        "question": "At what rate is the Universe expanding under the influence of dark energy?",
+        "answer": "accelerated"
+    },
+    {
+        "question": "How can changes in the chemical composition of a star system affect the possibility of life?",
+        "answer": "Transformation of minerals"
+    },
+    {
+        "question": "How do black holes affect the formation of star clusters?",
+        "answer": "Gravitational anomaly"
+    },
+    {
+        "question": "How do changes in the speed of light theoretically affect the laws of physics?",
+        "answer": "Change constants"
+    },
+    {
+        "question": "How do interstellar distances affect the perception of time?",
+        "answer": "Slow it down"
+    },
+    {
+        "question": "How do space telescopes study the nature of cosmic rays?",
+        "answer": "Charged particle detectors"
+    },
+    {
+        "question": "How does dark matter influence the formation of galactic structures?",
+        "answer": "Gravitational binding"
+    },
+    {
+        "question": "How does gravity affect the speed of light?",
+        "answer": "Does not change"
+    },
+    {
+        "question": "How does interaction with neighboring galaxies affect the shape of the Milky Way?",
+        "answer": "Gravitational distortion"
+    },
+    {
+        "question": "How does relic radiation affect galactic structures?",
+        "answer": "Increases density"
+    },
+    {
+        "question": "How does studying neutron stars contribute to understanding galactic dynamics?",
+        "answer": "Gravity"
+    },
+    {
+        "question": "How does the distribution of angular momentum affect star formation?",
+        "answer": "Stability of rotation"
+    },
+    {
         "question": "How does the influence of magnetic fields affect the rotation of protostellar disks?",
         "answer": "Slowing down the rotation"
     },
     {
+        "question": "How does the interaction of galaxies affect their morphological evolution?",
+        "answer": "Deformation"
+    },
+    {
+        "question": "How does the speed of light affect the curvature of spacetime?",
+        "answer": "Determines"
+    },
+    {
+        "question": "How is the age of stars in a galaxy determined?",
+        "answer": "Radioisotope method"
+    },
+    {
+        "question": "How is the concept of dark matter related to the study of the speed of light?",
+        "answer": "Influences"
+    },
+    {
+        "question": "How is the curvature of space determined over large cosmic distances?",
+        "answer": "Gravitational influence"
+    },
+    {
+        "question": "How long does it take for light to reach us from the center of the Milky Way?",
+        "answer": "26,000 years"
+    },
+    {
+        "question": "What challenges arise in studying the nature of dark matter?",
+        "answer": "Elusiveness of particles"
+    },
+    {
+        "question": "What chemical changes occur in the atmosphere when interacting with meteors?",
+        "answer": "Ionization of gas"
+    },
+    {
+        "question": "What conditions are necessary for the emergence of life in extreme environments on other planets?",
+        "answer": "Chemical reactions"
+    },
+    {
+        "question": "What conditions are necessary for the formation of galactic bars?",
+        "answer": "Orbital dynamics"
+    },
+    {
+        "question": "What conditions are necessary for the formation of star streams?",
+        "answer": "Gravitational influence"
+    },
+    {
         "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
         "answer": "Geothermal energy"
+    },
+    {
+        "question": "What data suggests the existence of exotic forms of matter?",
+        "answer": "Gravitational anomalies"
+    },
+    {
+        "question": "What discoveries have space telescopes enabled in the study of star formations?",
+        "answer": "Complex structures"
+    },
+    {
+        "question": "What discovery changed the perception of ancient volcanic activity on the Moon?",
+        "answer": "Apollo 15 rocks"
+    },
+    {
+        "question": "What discovery did the Planck telescope make while studying the cosmic microwave background radiation?",
+        "answer": "Anisotropy"
+    },
+    {
+        "question": "What discovery is associated with the study of quasar 3C 273?",
+        "answer": "First discovered quasar"
     },
     {
         "question": "What effect can galactic cosmic rays have on biological tissues?",
@@ -24379,36 +25095,204 @@
         "answer": "Atmospheric erosion"
     },
     {
+        "question": "What effect does the change in a star's magnetic field have on the atmospheric processes of nearby planets?",
+        "answer": "Climate destabilization"
+    },
+    {
+        "question": "What effect does the magnetic field have on star formation in the Milky Way?",
+        "answer": "Slows down collapse"
+    },
+    {
+        "question": "What effects can be observed when matter interacts with a black hole?",
+        "answer": "Emission"
+    },
+    {
+        "question": "What factor determines the size and shape of the accretion disk in a protostellar system?",
+        "answer": "Angular momentum"
+    },
+    {
+        "question": "What factor dominates the formation of galaxy structures?",
+        "answer": "Dark matter"
+    },
+    {
+        "question": "What factors affect the level of cosmic radiation in the interstellar medium?",
+        "answer": "Particle fluxes"
+    },
+    {
+        "question": "What factors affect the stability of irregular satellites' orbits?",
+        "answer": "Gravitational forces"
+    },
+    {
+        "question": "What factors are critically important for choosing the orbit of satellites exploring giant planets?",
+        "answer": "Gravitational fields"
+    },
+    {
+        "question": "What factors complicate the study of Mars' magnetic field?",
+        "answer": "Weakness of the field"
+    },
+    {
+        "question": "What factors contribute to the formation of clouds in the atmosphere of exoplanets?",
+        "answer": "Humidity"
+    },
+    {
         "question": "What factors influence the distribution of stellar populations in the Milky Way?",
         "answer": "Galactic dynamics"
+    },
+    {
+        "question": "What factors lead to complex orbital dynamics in the ring systems of giant planets?",
+        "answer": "Orbital resonances"
     },
     {
         "question": "What happens to the mass of an object if it reaches the speed of light?",
         "answer": "It becomes infinite"
     },
     {
+        "question": "What hypothetical principles might explain observed cosmic anomalies?",
+        "answer": "Anthropic principle"
+    },
+    {
+        "question": "What influence does the galactic environment have on the formation of star systems?",
+        "answer": "Gravitational interactions"
+    },
+    {
+        "question": "What innovation allowed the 'Salyut-7' station to meet military requirements?",
+        "answer": "Surveillance cameras"
+    },
+    {
         "question": "What is the cause of the expansion of interstellar clouds in the process of star formation?",
         "answer": "Turbulence"
+    },
+    {
+        "question": "What is the contribution of cosmic rays to the dynamics of galaxies?",
+        "answer": "Energy input"
+    },
+    {
+        "question": "What is the contribution of magnetic fields to the dynamics of galaxies?",
+        "answer": "Supporting structure"
+    },
+    {
+        "question": "What is the impact of stellar winds on galactic structures?",
+        "answer": "Regulation of star formation"
+    },
+    {
+        "question": "What is the method called that uses reflected sunlight to study asteroids?",
+        "answer": "Albedo analysis"
+    },
+    {
+        "question": "What is the name of the theory that unifies quantum mechanics and general relativity?",
+        "answer": "Quantum Gravity"
     },
     {
         "question": "What is the phenomenon called that explains the distribution of large-scale structures in the Universe?",
         "answer": "Cosmic inflation"
     },
     {
+        "question": "What is the quantum phenomenon associated with vacuum fluctuations called?",
+        "answer": "Quantum fluctuations"
+    },
+    {
+        "question": "What is the role of baryon acoustic oscillations in the formation of the large-scale structure of the Universe?",
+        "answer": "Cosmic web"
+    },
+    {
         "question": "What is the role of black holes in the dynamics of galaxy clusters?",
         "answer": "Gravitational influence"
+    },
+    {
+        "question": "What is the role of black holes in the formation of galactic nuclei?",
+        "answer": "Stabilization of nuclei"
     },
     {
         "question": "What is the role of external pressure in the formation of star systems?",
         "answer": "Compression"
     },
     {
+        "question": "What is the role of relativistic particles in galactic winds?",
+        "answer": "Particle acceleration"
+    },
+    {
+        "question": "What is the role of stellar winds in the formation of galaxies?",
+        "answer": "Accelerating growth"
+    },
+    {
+        "question": "What is the role of the Friedmann-Lemaître-Robertson-Walker metric in describing the Universe?",
+        "answer": "Defines geometry"
+    },
+    {
+        "question": "What is the role of the intergalactic medium in the dynamics of galaxy clusters?",
+        "answer": "Gravity"
+    },
+    {
+        "question": "What mechanism affects the distribution of stars in galaxies?",
+        "answer": "Differential rotation"
+    },
+    {
+        "question": "What mechanism determines the stability of comet orbits in the Solar System?",
+        "answer": "Kepler's laws"
+    },
+    {
+        "question": "What mechanism explains the orbital stability of irregular satellites?",
+        "answer": "Gravitational resonances"
+    },
+    {
+        "question": "What mechanism was first used for landing on Mars in the Viking mission?",
+        "answer": "Three-stage system"
+    },
+    {
+        "question": "What mechanisms are considered for detecting biosignals in the atmospheres of exoplanets?",
+        "answer": "Spectral analysis"
+    },
+    {
+        "question": "What method is used to determine the age of stars in the Milky Way?",
+        "answer": "Isotopic"
+    },
+    {
+        "question": "What method is used to study the orbital resonance of asteroids with planets?",
+        "answer": "Numerical modeling"
+    },
+    {
         "question": "What methods allow the study of cosmic radiation in the interstellar medium?",
         "answer": "Spectrometry"
     },
     {
+        "question": "What methods are used to detect organic molecules in interstellar clouds?",
+        "answer": "Spectroscopy"
+    },
+    {
+        "question": "What methods are used to stabilize satellite orbits around Jupiter?",
+        "answer": "Gravitational maneuvering"
+    },
+    {
+        "question": "What methods are used to study the distribution of mass in a galaxy?",
+        "answer": "Gravitational modeling"
+    },
+    {
+        "question": "What methods are used to study the evolution of the Milky Way over large time scales?",
+        "answer": "Computer modeling"
+    },
+    {
+        "question": "What methods are used to study the kinematics of stars in the Milky Way?",
+        "answer": "Spectroscopy"
+    },
+    {
         "question": "What observations can confirm the existence of dark matter?",
         "answer": "Gravitational effects"
+    },
+    {
+        "question": "What phenomena influence the evolution of galaxies?",
+        "answer": "Collisions of galaxies"
+    },
+    {
+        "question": "What phenomena study the effect of gravity on light?",
+        "answer": "Gravitational lensing"
+    },
+    {
+        "question": "What phenomenon can change the topology of space around a black hole?",
+        "answer": "Gravitational collapse"
+    },
+    {
+        "question": "What phenomenon can indicate hidden cosmic processes?",
+        "answer": "Gravitational waves"
     },
     {
         "question": "What phenomenon defines the boundaries between different types of galaxies?",
@@ -24419,8 +25303,28 @@
         "answer": "Cosmological expansion"
     },
     {
+        "question": "What phenomenon determined gravitational interaction in the early stages?",
+        "answer": "Inflationary fluctuation"
+    },
+    {
+        "question": "What phenomenon explains the constant orientation of Uranus's axis?",
+        "answer": "Precessional tilt"
+    },
+    {
+        "question": "What phenomenon forms complex orbital resonances between planets and moons in the Solar System?",
+        "answer": "Gravitational interactions"
+    },
+    {
+        "question": "What phenomenon is associated with massive energy releases?",
+        "answer": "Supernovae"
+    },
+    {
         "question": "What phenomenon is associated with the violation of time symmetry in a black hole?",
         "answer": "Temporal asymmetry"
+    },
+    {
+        "question": "What physical process determines the conversion of energy into matter in the early Universe?",
+        "answer": "Baryogenesis"
     },
     {
         "question": "What physical processes are responsible for the formation of cosmic rays in the galaxy?",
@@ -24431,8 +25335,20 @@
         "answer": "Gravitational collapse"
     },
     {
+        "question": "What process explains the formation of the large-scale structure of galaxies?",
+        "answer": "Structure formation"
+    },
+    {
+        "question": "What process is responsible for gravitational interaction at an early stage?",
+        "answer": "Gravitational amplification"
+    },
+    {
         "question": "What process leads to the increase in the mass of hadrons?",
         "answer": "Confinement"
+    },
+    {
+        "question": "What processes can support exotic forms of life in low gravity conditions?",
+        "answer": "Metabolic adaptation"
     },
     {
         "question": "What processes can support exotic forms of life in oxygen-free atmospheres?",
@@ -24443,8 +25359,28 @@
         "answer": "Gravity"
     },
     {
+        "question": "What processes determine the brightness of a galaxy?",
+        "answer": "Stellar activity"
+    },
+    {
+        "question": "What processes determine the distribution of stellar matter?",
+        "answer": "Galactic winds"
+    },
+    {
         "question": "What processes influence the formation of galaxies?",
         "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What property of dark energy causes the Universe to expand?",
+        "answer": "Negative pressure"
+    },
+    {
+        "question": "What role do magnetic fields play in the formation of star systems?",
+        "answer": "Regulate accretion"
+    },
+    {
+        "question": "What role do stellar winds play in the evolution of molecular clouds?",
+        "answer": "Form cores"
     },
     {
         "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
@@ -24455,12 +25391,32 @@
         "answer": "Limits"
     },
     {
+        "question": "What structure in space can cause a violation of the causality principle?",
+        "answer": "Virtual singularity"
+    },
+    {
+        "question": "What suggests the possibility of life on exoplanets with high pressure?",
+        "answer": "Stable compounds"
+    },
+    {
         "question": "What technique do telescopes use to adjust orbital parameters?",
         "answer": "Gyroscopes"
     },
     {
         "question": "What technique do telescopes use to study vibrational effects in atmospheres?",
         "answer": "Infrared spectroscopy"
+    },
+    {
+        "question": "What technologies are being developed for space weather analysis?",
+        "answer": "Satellite systems"
+    },
+    {
+        "question": "What technologies are used to study the impact of space weather on Earth?",
+        "answer": "Satellite monitoring"
+    },
+    {
+        "question": "What unique engine was developed for maneuvers in space based on plasma?",
+        "answer": "VASIMR"
     },
     {
         "question": "Where were traces of microbial life found on Mars?",
@@ -24471,12 +25427,40 @@
         "answer": "Mars Reconnaissance Orbiter"
     },
     {
+        "question": "Which astronomer discovered the cosmic microwave background radiation?",
+        "answer": "Arno Penzias"
+    },
+    {
+        "question": "Which astronomer first proposed that light could be bent by gravity?",
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Which astronomer proposed the concept of a multidimensional universe?",
+        "answer": "Kaluza"
+    },
+    {
+        "question": "Which biological process was first successfully conducted in the conditions of space microgravity?",
+        "answer": "Protein crystallization"
+    },
+    {
         "question": "Which constellation has the largest number of meteor showers?",
         "answer": "Perseus"
     },
     {
+        "question": "Which constellation is associated with the mythological story of a character who could change his form at the will of the gods?",
+        "answer": "Centaurus"
+    },
+    {
         "question": "Which constellation is opposite to the constellation Leo?",
         "answer": "Aquarius"
+    },
+    {
+        "question": "Which constellation symbolizes the plow in ancient Slavic mythology?",
+        "answer": "Ursa Major"
+    },
+    {
+        "question": "Which cosmological methods allow us to assess the role of dark energy in the expansion of the Universe?",
+        "answer": "Measuring supernovae"
     },
     {
         "question": "Which device was the first to use laser communication for data transmission?",
@@ -24487,7 +25471,35 @@
         "answer": "Ammonia"
     },
     {
+        "question": "Which exoplanet has the smallest orbital eccentricity?",
+        "answer": "HD 20794c"
+    },
+    {
+        "question": "Which experiment conducts research on weak interactions of neutral particles?",
+        "answer": "LUX-ZEPLIN"
+    },
+    {
+        "question": "Which experiments are aimed at identifying dark matter particles?",
+        "answer": "LUX"
+    },
+    {
+        "question": "Which fundamental law of physics explains the initial singularity?",
+        "answer": "General theory of relativity"
+    },
+    {
+        "question": "Which lunar region was first mapped in detail using high-precision spectrometry?",
+        "answer": "Sea of Tranquility"
+    },
+    {
+        "question": "Which method allows the study of gravitational anomalies of exoplanets?",
+        "answer": "Radial velocity"
+    },
+    {
         "question": "Which method analyzes the composition of meteorites through their interaction with the atmospheres of planets?",
+        "answer": "Spectroscopy"
+    },
+    {
+        "question": "Which method was first used to measure the radial velocities of stars?",
         "answer": "Spectroscopy"
     },
     {
@@ -24495,12 +25507,104 @@
         "answer": "Apollo 15"
     },
     {
+        "question": "Which mission was the first to reach orbit around the Sun?",
+        "answer": "Helios"
+    },
+    {
+        "question": "Which module was the last to be added to the 'Mir' space station?",
+        "answer": "Priboy"
+    },
+    {
+        "question": "Which orbital parameter of a satellite is critically important for data accuracy when studying icy moons?",
+        "answer": "Inclination"
+    },
+    {
+        "question": "Which orbital station established communication with Earth without using radio frequencies?",
+        "answer": "Satellite laser communication"
+    },
+    {
+        "question": "Which physicist first proposed the concept of a universe with multiple parallel worlds?",
+        "answer": "Hugh Everett"
+    },
+    {
+        "question": "Which probe used radar to study the lunar polar caps?",
+        "answer": "Chandrayaan-1"
+    },
+    {
+        "question": "Which probing method is most suitable for studying the dense atmospheres of Jupiter and Saturn?",
+        "answer": "Microwave probing"
+    },
+    {
+        "question": "Which satellite first detected magnetic storms on Mars?",
+        "answer": "Mars Express"
+    },
+    {
+        "question": "Which satellite was the first to conduct a detailed study of auroras on distant planets?",
+        "answer": "Juno"
+    },
+    {
+        "question": "Which spacecraft first detected precipitation on the moon Titan?",
+        "answer": "Huygens"
+    },
+    {
+        "question": "Which spacecraft first detected the presence of a subsurface ocean on Europa?",
+        "answer": "Galileo"
+    },
+    {
+        "question": "Which spacecraft first studied the magnetic field of Titan?",
+        "answer": "Huygens"
+    },
+    {
+        "question": "Which spacecraft was the first to conduct radar mapping of Venus's surface?",
+        "answer": "Magellan"
+    },
+    {
+        "question": "Which spacecraft was the first to successfully use aerobraking on Mars?",
+        "answer": "Mars Reconnaissance Orbiter"
+    },
+    {
         "question": "Which spacecraft was the first to transmit high-resolution images of Jupiter using a gravity assist maneuver?",
         "answer": "Galileo"
     },
     {
+        "question": "Which spacecraft was the first to use a spectrometer to analyze the rings of distant planets?",
+        "answer": "Voyager 2"
+    },
+    {
+        "question": "Which spacecraft was the first to use radar to study Venus?",
+        "answer": "Magellan"
+    },
+    {
+        "question": "Which station system first provided uninterrupted power supply using hybrid energy sources?",
+        "answer": "Solar-nuclear reactor"
+    },
+    {
         "question": "Which study confirms the possibility of photosynthesis on the moons of gas giants?",
         "answer": "Spectral study"
+    },
+    {
+        "question": "Which technologies are most effective for accurately maintaining the orbit of satellites around Venus?",
+        "answer": "Thrusters"
+    },
+    {
+        "question": "Which technology first enabled data processing on a space station without delays?",
+        "answer": "Quantum processors"
+    },
+    {
+        "question": "Which telescope first detected molecular hydrogen in the interstellar medium?",
+        "answer": "FUSE"
+    },
+    {
+        "question": "Which theoretical models consider the properties of dark matter?",
+        "answer": "Standard Model"
+    },
+    {
+        "question": "Which theories suggest the existence of new forms of interactions in space?",
+        "answer": "Grand Unified Theory"
+    },
+    {
+        "question": "Who was the first astronomer to propose the theory of the spiral structure of galaxies?",
+        "answer": "Curtis"
     },
     {
         "question": "How do new weight classes affect training strategy?",

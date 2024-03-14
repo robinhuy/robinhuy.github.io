@@ -103,6 +103,10 @@
     "answer": "1590"
   },
   {
+    "question": "In what year was the first robot created?",
+    "answer": "1921"
+  },
+  {
     "question": "In which country was the first mammal cloned?",
     "answer": "United Kingdom"
   },
@@ -350,6 +354,10 @@
     "answer": "Melting ice"
   },
   {
+    "question": "What characteristic defines autosomal recessive diseases?",
+    "answer": "Inherited from both parents"
+  },
+  {
     "question": "What characterizes a chemical reaction?",
     "answer": "Change"
   },
@@ -366,6 +374,10 @@
     "answer": "Reclamation"
   },
   {
+    "question": "What creatures inhabited the Paleozoic era?",
+    "answer": "Trilobites"
+  },
+  {
     "question": "What determines the amount of solar energy reaching the Earth?",
     "answer": "Albedo"
   },
@@ -380,6 +392,10 @@
   {
     "question": "What device is used for DNA analysis?",
     "answer": "Sequencer"
+  },
+  {
+    "question": "What device is used for the Internet of Things?",
+    "answer": "IoT modules"
   },
   {
     "question": "What device is used to measure the speed of sound in a medium?",
@@ -400,6 +416,10 @@
   {
     "question": "What did Ernest Rutherford discover?",
     "answer": "Nucleus of the atom"
+  },
+  {
+    "question": "What did James Watt invent?",
+    "answer": "Steam engine"
   },
   {
     "question": "What do all viruses have?",
@@ -582,6 +602,10 @@
     "answer": "Maxwell's Equations"
   },
   {
+    "question": "What event often leads to the formation of fossils?",
+    "answer": "Flooding"
+  },
+  {
     "question": "What factor affects climate change?",
     "answer": "Greenhouse gases"
   },
@@ -674,6 +698,10 @@
     "answer": "A fish that migrates to the sea"
   },
   {
+    "question": "What is a characteristic of quantum dots?",
+    "answer": "Light manipulation"
+  },
+  {
     "question": "What is a chromatograph used for?",
     "answer": "Separation of a mixture"
   },
@@ -692,6 +720,10 @@
   {
     "question": "What is a cyclone?",
     "answer": "Low pressure"
+  },
+  {
+    "question": "What is a dynamic hysteresis graph used for?",
+    "answer": "Studying hysteresis"
   },
   {
     "question": "What is a gyroscope used for?",
@@ -774,8 +806,16 @@
     "answer": "Measuring heart rhythms"
   },
   {
+    "question": "What is an endonuclease?",
+    "answer": "DNA cutting enzyme"
+  },
+  {
     "question": "What is an important stage in scientific research?",
     "answer": "Data analysis"
+  },
+  {
+    "question": "What is an inversion?",
+    "answer": "Reverse gradient"
   },
   {
     "question": "What is an irrational number?",
@@ -796,6 +836,10 @@
   {
     "question": "What is called the cosmological horizon?",
     "answer": "The limit of the observable universe"
+  },
+  {
+    "question": "What is chemosynthesis?",
+    "answer": "Synthesis without light"
   },
   {
     "question": "What is chirality?",
@@ -866,6 +910,10 @@
     "answer": "Genome editing for treatment"
   },
   {
+    "question": "What is hyperkalemia?",
+    "answer": "High potassium level"
+  },
+  {
     "question": "What is hypoxia?",
     "answer": "Lack of oxygen"
   },
@@ -896,6 +944,10 @@
   {
     "question": "What is measured in anthropometry?",
     "answer": "Human body measurements"
+  },
+  {
+    "question": "What is meristem?",
+    "answer": "Growth tissue"
   },
   {
     "question": "What is oxygen balance?",
@@ -978,6 +1030,10 @@
     "answer": "High"
   },
   {
+    "question": "What is the condition called when a person's heart stops?",
+    "answer": "Asystole"
+  },
+  {
     "question": "What is the definition of determining the sequence of genes?",
     "answer": "Sequencing"
   },
@@ -1006,12 +1062,20 @@
     "answer": "Flowmeter"
   },
   {
+    "question": "What is the device called for measuring the speed of light?",
+    "answer": "Laser interferometer"
+  },
+  {
     "question": "What is the device called for studying the microstructure of materials?",
     "answer": "Microscope"
   },
   {
     "question": "What is the device used for DNA analysis called?",
     "answer": "Genetic analyzer"
+  },
+  {
+    "question": "What is the device used to measure solar radiation called?",
+    "answer": "Actinometer"
   },
   {
     "question": "What is the dew point?",
@@ -1098,6 +1162,10 @@
     "answer": "Energy is conserved"
   },
   {
+    "question": "What is the limit of sin(x)/x as x approaches zero?",
+    "answer": "1"
+  },
+  {
     "question": "What is the limit of the sequence 1/n as n approaches infinity?",
     "answer": "0"
   },
@@ -1120,6 +1188,10 @@
   {
     "question": "What is the main method used in quantum physics?",
     "answer": "Mathematical modeling"
+  },
+  {
+    "question": "What is the main pigment structure of a leaf called?",
+    "answer": "Chloroplast"
   },
   {
     "question": "What is the mathematical function called that describes the probability distribution of particles?",
@@ -1180,6 +1252,10 @@
   {
     "question": "What is the method of inserting new genes into an organism called?",
     "answer": "Genetic transformation"
+  },
+  {
+    "question": "What is the method of protein analysis called?",
+    "answer": "Electrophoresis"
   },
   {
     "question": "What is the molar mass of H2SO4?",
@@ -1351,6 +1427,10 @@
   {
     "question": "What is the phenomenon called where a particle exists in multiple states simultaneously?",
     "answer": "Superposition"
+  },
+  {
+    "question": "What is the phenomenon of light absorption called?",
+    "answer": "Light absorption"
   },
   {
     "question": "What is the plant tissue called that ensures growth in length?",
@@ -1540,6 +1620,10 @@
     "answer": "Siemens"
   },
   {
+    "question": "What is the upper part of a flower called?",
+    "answer": "Anther"
+  },
+  {
     "question": "What is the value of the gravitational constant?",
     "answer": "6.67430 × 10⁻¹¹"
   },
@@ -1582,6 +1666,10 @@
   {
     "question": "What layer does IPv4 addressing belong to?",
     "answer": "Network"
+  },
+  {
+    "question": "What liquid is contained in markers?",
+    "answer": "Alcohol"
   },
   {
     "question": "What material did Mikhail Lomonosov synthesize for the first time?",
@@ -1632,6 +1720,10 @@
     "answer": "Radiometric"
   },
   {
+    "question": "What method is used to detect exoplanets?",
+    "answer": "Transit"
+  },
+  {
     "question": "What method is used to study bacterial DNA?",
     "answer": "Sequencing"
   },
@@ -1666,6 +1758,10 @@
   {
     "question": "What network protocol is used for the internet?",
     "answer": "TCP/IP"
+  },
+  {
+    "question": "What objects emit X-rays in space?",
+    "answer": "Pulsars"
   },
   {
     "question": "What organic molecules can be found on comets?",
@@ -1788,6 +1884,10 @@
     "answer": "Self-learning"
   },
   {
+    "question": "What provides the transportation of nutrients in a plant?",
+    "answer": "Phloem"
+  },
+  {
     "question": "What provides verification?",
     "answer": "Data confirmation"
   },
@@ -1826,6 +1926,10 @@
   {
     "question": "What science studies animal behavior?",
     "answer": "Ethology"
+  },
+  {
+    "question": "What science studies the behavior of bodies in a fluid?",
+    "answer": "Hydrodynamics"
   },
   {
     "question": "What structure connects the two hemispheres of the brain?",
@@ -1892,6 +1996,10 @@
     "answer": "121 °C"
   },
   {
+    "question": "What term refers to the increase in air humidity?",
+    "answer": "Condensation"
+  },
+  {
     "question": "What tissue forms wood?",
     "answer": "Cambium"
   },
@@ -1906,6 +2014,10 @@
   {
     "question": "What type of cell division leads to the formation of gametes?",
     "answer": "Meiosis"
+  },
+  {
+    "question": "What type of cells are used in tissue engineering?",
+    "answer": "Stem"
   },
   {
     "question": "What type of chemical reaction is characteristic of aromatic hydrocarbons?",
@@ -2230,6 +2342,10 @@
     "answer": "Bell's experiment"
   },
   {
+    "question": "Which experiment proved the existence of the wave nature of matter?",
+    "answer": "Davisson-Germer experiment"
+  },
+  {
     "question": "Which factor does not affect plant growth?",
     "answer": "Leaf color"
   },
@@ -2314,6 +2430,10 @@
     "answer": "Analytical"
   },
   {
+    "question": "Which method is used to search for a substring in a string?",
+    "answer": "KMP"
+  },
+  {
     "question": "Which methodology analyzes scientific principles and methods?",
     "answer": "Philosophy of science"
   },
@@ -2352,6 +2472,10 @@
   {
     "question": "Which nanomaterial is often used in sensors?",
     "answer": "Zinc"
+  },
+  {
+    "question": "Which natural phenomena regularly change the climate?",
+    "answer": "El Niño"
   },
   {
     "question": "Which neurotransmitter inhibits neuronal activity?",
@@ -2446,6 +2570,10 @@
     "answer": "Ventral tegmental area"
   },
   {
+    "question": "Which part of the equation describes the change in wave functions?",
+    "answer": "Differential"
+  },
+  {
     "question": "Which part of the flower turns into a fruit?",
     "answer": "Ovary"
   },
@@ -2472,6 +2600,10 @@
   {
     "question": "Which physicist discovered the concept of the electromagnetic field?",
     "answer": "Maxwell"
+  },
+  {
+    "question": "Which pigment is responsible for the autumn coloration of leaves?",
+    "answer": "Carotenoids"
   },
   {
     "question": "Which planet has the greatest orbital inclination?",
@@ -2646,6 +2778,10 @@
     "answer": "Electroweak theory"
   },
   {
+    "question": "Which tree makes 'popping' sounds as it grows?",
+    "answer": "Bamboo"
+  },
+  {
     "question": "Which type of rock is indicated by the absence of layering?",
     "answer": "Igneous"
   },
@@ -2719,6 +2855,10 @@
   {
     "question": "Who discovered the starch-iodine reagent?",
     "answer": "Friedrich Schönbein"
+  },
+  {
+    "question": "Who discovered the structure of benzene?",
+    "answer": "Friedrich Kekulé"
   },
   {
     "question": "Who first described the laws of inheritance?",
@@ -2837,6 +2977,10 @@
     "answer": "Mary Anning"
   },
   {
+    "question": "Who was the first to measure the length of the equator?",
+    "answer": "Eratosthenes"
+  },
+  {
     "question": "Who was the first to measure the speed of light?",
     "answer": "Fizeau"
   },
@@ -2855,5 +2999,9 @@
   {
     "question": "Whose work depends on solar panels?",
     "answer": "Mars rovers"
+  },
+  {
+    "question": "Why do spiders spin webs?",
+    "answer": "Catching prey"
   }
 ]
