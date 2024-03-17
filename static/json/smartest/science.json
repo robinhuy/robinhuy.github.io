@@ -146,6 +146,10 @@
     "answer": "Anticline"
   },
   {
+    "question": "Types of reactions of alkenes?",
+    "answer": "Addition"
+  },
+  {
     "question": "Until what age do stem cells grow?",
     "answer": "Until 25 years old"
   },
@@ -164,6 +168,10 @@
   {
     "question": "What allows the study of galaxy evolution?",
     "answer": "Theory of relativity"
+  },
+  {
+    "question": "What are CAD projects?",
+    "answer": "Drawings"
   },
   {
     "question": "What are amphoteric oxides?",
@@ -296,6 +304,10 @@
   {
     "question": "What are the particles called that carry forces?",
     "answer": "Bosons"
+  },
+  {
+    "question": "What are the powerful and long-lasting air currents called?",
+    "answer": "Jet streams"
   },
   {
     "question": "What are the proteins called that accelerate chemical reactions?",
@@ -1026,6 +1038,10 @@
     "answer": "Aneuploidy"
   },
   {
+    "question": "What is the circular band in the sky that contains the signs of the Zodiac called?",
+    "answer": "Zodiacal belt"
+  },
+  {
     "question": "What is the complexity level of quantum dots?",
     "answer": "High"
   },
@@ -1294,6 +1310,10 @@
     "answer": "Peatland"
   },
   {
+    "question": "What is the name of carbon in graphite?",
+    "answer": "Carbon"
+  },
+  {
     "question": "What is the name of skin cancer?",
     "answer": "Melanoma"
   },
@@ -1324,6 +1344,10 @@
   {
     "question": "What is the name of the exoplanet similar to Earth?",
     "answer": "Kepler-452b"
+  },
+  {
+    "question": "What is the name of the fast and strong wind in deserts?",
+    "answer": "Sukhovei"
   },
   {
     "question": "What is the name of the first Turing machine?",
@@ -1505,12 +1529,20 @@
     "answer": "Testing"
   },
   {
+    "question": "What is the process of transmitting a signal along a nerve cell called?",
+    "answer": "Action potential"
+  },
+  {
     "question": "What is the process of transmitting information called?",
     "answer": "Communication"
   },
   {
     "question": "What is the process of turning organic materials into fossils called?",
     "answer": "Petrification"
+  },
+  {
+    "question": "What is the process of turning sediments into solid rock called?",
+    "answer": "Friedrich Kekulé"
   },
   {
     "question": "What is the process of young plants growing called?",
@@ -1551,6 +1583,10 @@
   {
     "question": "What is the self-assembly technique often used for in nanotechnology?",
     "answer": "Creating nanodevices"
+  },
+  {
+    "question": "What is the size of the Planck mass?",
+    "answer": "22 micrograms"
   },
   {
     "question": "What is the smallest mammal on Earth?",
@@ -1622,6 +1658,14 @@
   {
     "question": "What is the upper part of a flower called?",
     "answer": "Anther"
+  },
+  {
+    "question": "What is the value of Planck's constant?",
+    "answer": "6.626×10^-34 J·s"
+  },
+  {
+    "question": "What is the value of the cosine of 60 degrees?",
+    "answer": "0.5"
   },
   {
     "question": "What is the value of the gravitational constant?",
@@ -1706,6 +1750,10 @@
   {
     "question": "What method do cosmologists use to determine the age of the Universe?",
     "answer": "Hubble's Law"
+  },
+  {
+    "question": "What method is used for DNA amplification?",
+    "answer": "PCR"
   },
   {
     "question": "What method is used for cell propagation?",
@@ -1880,6 +1928,10 @@
     "answer": "High reactivity"
   },
   {
+    "question": "What property of quantum nanostructures is used to create new light sources?",
+    "answer": "Light emission"
+  },
+  {
     "question": "What property of robots is key to their autonomy?",
     "answer": "Self-learning"
   },
@@ -1898,6 +1950,10 @@
   {
     "question": "What radiometric method is used for dating organic remains?",
     "answer": "Carbon-14"
+  },
+  {
+    "question": "What reaction is characteristic of alkanes?",
+    "answer": "Halogenation"
   },
   {
     "question": "What regulates gene expression?",
@@ -1938,6 +1994,10 @@
   {
     "question": "What structure is composed of axons covered with myelin?",
     "answer": "White matter"
+  },
+  {
+    "question": "What structures carry genes?",
+    "answer": "Chromosomes"
   },
   {
     "question": "What studies are conducted using IR spectroscopy?",
@@ -2000,6 +2060,10 @@
     "answer": "Condensation"
   },
   {
+    "question": "What theory did Stephen Hawking propose?",
+    "answer": "quantum gravity"
+  },
+  {
     "question": "What tissue forms wood?",
     "answer": "Cambium"
   },
@@ -2030,6 +2094,10 @@
   {
     "question": "What type of fossils does micropaleontology study?",
     "answer": "Foraminifera"
+  },
+  {
+    "question": "What type of heat flows are called advection?",
+    "answer": "Horizontal"
   },
   {
     "question": "What type of memory is associated with the sequence of events?",
@@ -2118,6 +2186,10 @@
   {
     "question": "Where is a CNC machine used?",
     "answer": "Metalworking"
+  },
+  {
+    "question": "Where is the Mid-Atlantic Ridge located?",
+    "answer": "Atlantic Ocean"
   },
   {
     "question": "Where is the famous fossil 'Lucy' located?",
@@ -2209,6 +2281,14 @@
   {
     "question": "Which brain structure controls the endocrine system?",
     "answer": "Hypothalamus"
+  },
+  {
+    "question": "Which branch of genetics deals with the alteration of nucleotide sequences?",
+    "answer": "Molecular genetics"
+  },
+  {
+    "question": "Which catalyst is most commonly used in the hydrogenation process?",
+    "answer": "Palladium"
   },
   {
     "question": "Which cells are used for tissue regeneration?",
@@ -2494,6 +2574,10 @@
     "answer": "Drug delivery"
   },
   {
+    "question": "Which of the following factors is not biotic?",
+    "answer": "Oxygen"
+  },
+  {
     "question": "Which of the following fields is a metascience?",
     "answer": "Epistemology"
   },
@@ -2532,6 +2616,10 @@
   {
     "question": "Which organisms are necessary for nitrogen fixation?",
     "answer": "Bacteria"
+  },
+  {
+    "question": "Which organisms can breathe without oxygen?",
+    "answer": "Anaerobes"
   },
   {
     "question": "Which organisms live at low temperatures?",
@@ -2738,6 +2826,10 @@
     "answer": "Substance P"
   },
   {
+    "question": "Which substances are held together by hydrogen bonds?",
+    "answer": "Water and alcohols"
+  },
+  {
     "question": "Which substitution in a DNA molecule causes alloplasia?",
     "answer": "Adenine to Thymine"
   },
@@ -2809,6 +2901,10 @@
     "question": "Who developed the theory of panspermia?"
   },
   {
+    "question": "Who developed the theory of the greenhouse effect?",
+    "answer": "Joseph Fourier"
+  },
+  {
     "question": "Who developed the theory of the origin of life in hydrothermal vents?",
     "answer": "John Corliss"
   },
@@ -2859,6 +2955,10 @@
   {
     "question": "Who discovered the structure of benzene?",
     "answer": "Friedrich Kekulé"
+  },
+  {
+    "question": "Who discovered volcanism on Venus?",
+    "answer": "Lynn Carter"
   },
   {
     "question": "Who first described the laws of inheritance?",

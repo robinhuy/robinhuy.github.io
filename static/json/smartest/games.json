@@ -12,6 +12,10 @@
     "answer": "10000+ levels"
   },
   {
+    "question": "How many levels are there in the game Monument Valley 2?",
+    "answer": "Fourteen"
+  },
+  {
     "question": "How many phases are there in the game 'Pandemic'?",
     "answer": "5"
   },
@@ -22,6 +26,10 @@
   {
     "question": "In what year was the first DreamHack tournament held?",
     "answer": "1994"
+  },
+  {
+    "question": "In what year was the first game of the Final Fantasy series released?",
+    "answer": "1987"
   },
   {
     "question": "In what year was the game 'Monopoly' released?",
@@ -44,6 +52,10 @@
     "answer": "The Neverhood"
   },
   {
+    "question": "In which VR game can players create their own levels?",
+    "answer": "Dreams"
+  },
+  {
     "question": "In which board game do players explore and fight for treasures on the lost island of Arnak?",
     "answer": "Lost Ruins of Arnak"
   },
@@ -52,8 +64,16 @@
     "answer": "Through the Ages"
   },
   {
+    "question": "In which city was the DreamHack Winter 2013 tournament held?",
+    "answer": "Jönköping"
+  },
+  {
     "question": "In which country was the Six Invitational 2020 tournament held?",
     "answer": "Canada"
+  },
+  {
+    "question": "In which game are the characters pilots of mechanical robots?",
+    "answer": "Titanfall"
   },
   {
     "question": "In which game are there elementals?",
@@ -68,6 +88,10 @@
     "answer": "FTL: Faster Than Light"
   },
   {
+    "question": "In which game can you fly on dragons?",
+    "answer": "Dragon Age"
+  },
+  {
     "question": "In which game do players control a Roman legion?",
     "answer": "Concordia"
   },
@@ -78,6 +102,10 @@
   {
     "question": "In which game do you control a kite?",
     "answer": "Kite Runner"
+  },
+  {
+    "question": "In which game do you drive a bus?",
+    "answer": "Bus Simulator"
   },
   {
     "question": "In which game do you explore dungeons and roll dice for battles?",
@@ -92,12 +120,28 @@
     "answer": "Outer Wilds"
   },
   {
+    "question": "In which game do you need to maintain the survival of characters on an alien planet?",
+    "answer": "Oxygen Not Included"
+  },
+  {
+    "question": "In which game do you save the world by scavenging through trash?",
+    "answer": "Fallout"
+  },
+  {
     "question": "In which game do you solve puzzles in a world of isometric projections?",
     "answer": "Fez"
   },
   {
     "question": "In which game does the Brotherhood of Steel faction appear?",
     "answer": "Fallout"
+  },
+  {
+    "question": "In which game does the action take place in Chernobyl?",
+    "answer": "S.T.A.L.K.E.R."
+  },
+  {
+    "question": "In which game does the hero face mythical creatures?",
+    "answer": "Dark Souls III"
   },
   {
     "question": "In which game is Alduin featured?",
@@ -128,6 +172,10 @@
     "answer": "Control"
   },
   {
+    "question": "In which game is the location Lileynoe Pole featured?",
+    "answer": "Xenoblade Chronicles"
+  },
+  {
     "question": "In which game is the main character Kazuma Kiryu?",
     "answer": "Yakuza"
   },
@@ -138,6 +186,10 @@
   {
     "question": "In which game is the main task to manage a fleet?",
     "answer": "Homeworld"
+  },
+  {
+    "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
+    "answer": "HGC"
   },
   {
     "question": "What are intensive tests for games called?",
@@ -152,8 +204,16 @@
     "answer": "Events"
   },
   {
+    "question": "What cards are used for healing in the original games?",
+    "answer": "Potion cards"
+  },
+  {
     "question": "What creature helps in the game Monument Valley 2?",
     "answer": "Crow"
+  },
+  {
+    "question": "What creature is encountered in the game 'Gloomhaven'?",
+    "answer": "Monster"
   },
   {
     "question": "What does the term 4X mean in strategy games?",
@@ -184,8 +244,20 @@
     "answer": "motion capture"
   },
   {
+    "question": "What is a LAN party?",
+    "answer": "Gaming session"
+  },
+  {
+    "question": "What is a gathering of gamers called?",
+    "answer": "LAN party"
+  },
+  {
     "question": "What is a key aspect of an RPG?",
     "answer": "Role-playing"
+  },
+  {
+    "question": "What is the ability called that characters can use in the game The Elder Scrolls V: Skyrim?",
+    "answer": "Dragonborn"
   },
   {
     "question": "What is the creation of content for games called?",
@@ -204,8 +276,16 @@
     "answer": "Roguelike"
   },
   {
+    "question": "What is the genre of the game Persona 5?",
+    "answer": "JRPG"
+  },
+  {
     "question": "What is the homeland of the Khuzaits in Mount & Blade?",
     "answer": "Khuzait"
+  },
+  {
+    "question": "What is the in-game chat called?",
+    "answer": "Communicator"
   },
   {
     "question": "What is the largest esports organization?",
@@ -218,6 +298,10 @@
   {
     "question": "What is the main weapon of Trevor in the game GTA V?",
     "answer": "Shotgun"
+  },
+  {
+    "question": "What is the mode called in Assassin's Creed IV where you can control a ship?",
+    "answer": "Naval Battles"
   },
   {
     "question": "What is the most prestigious Hearthstone tournament?",
@@ -252,8 +336,16 @@
     "answer": "The Quest for El Dorado"
   },
   {
+    "question": "What is the name of the card-based board game where players compete for the best kingdom?",
+    "answer": "Dominion"
+  },
+  {
     "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
     "answer": "Cyclopean"
+  },
+  {
+    "question": "What is the name of the creator of The Elder Scrolls series?",
+    "answer": "Todd Howard"
   },
   {
     "question": "What is the name of the database with details of RPG worlds?",
@@ -276,12 +368,20 @@
     "answer": "Space Invaders"
   },
   {
+    "question": "What is the name of the first game by FromSoftware?",
+    "answer": "King's Field"
+  },
+  {
     "question": "What is the name of the first game created by Hideo Kojima?",
     "answer": "Metal Gear"
   },
   {
     "question": "What is the name of the flight simulator by Laminar Research?",
     "answer": "X-Plane"
+  },
+  {
+    "question": "What is the name of the game about catching criminals in the Wild West?",
+    "answer": "West of Loathing"
   },
   {
     "question": "What is the name of the game about managing a city-state in the ancient world?",
@@ -296,8 +396,20 @@
     "answer": "Rogue Legacy"
   },
   {
+    "question": "What is the name of the game created by Red Hook Studios?",
+    "answer": "Darkest Dungeon"
+  },
+  {
+    "question": "What is the name of the game series about the ancient Russian world?",
+    "answer": "Knyaz"
+  },
+  {
     "question": "What is the name of the game where players become detectives?",
     "answer": "Sherlock Holmes: Consulting Detective"
+  },
+  {
+    "question": "What is the name of the game where survival is critically important?",
+    "answer": "Survival Craft"
   },
   {
     "question": "What is the name of the game where you can control a spaceship?",
@@ -320,6 +432,10 @@
     "answer": "Bejeweled"
   },
   {
+    "question": "What is the name of the game where you need to solve puzzles with mechanical objects?",
+    "answer": "The Room"
+  },
+  {
     "question": "What is the name of the hunting simulator?",
     "answer": "theHunter"
   },
@@ -336,8 +452,20 @@
     "answer": "Rapture"
   },
   {
+    "question": "What is the name of the magical crystal in the game Kingdom Hearts?",
+    "answer": "Crystal of Light"
+  },
+  {
     "question": "What is the name of the main antagonist in the Resident Evil game series?",
     "answer": "Albert Wesker"
+  },
+  {
+    "question": "What is the name of the main antagonist in the game 'Silent Hill 2'?",
+    "answer": "Pyramid Head"
+  },
+  {
+    "question": "What is the name of the main antagonist in the game Shovel Knight?",
+    "answer": "The Enchantress"
   },
   {
     "question": "What is the name of the main character in the 'Resident Evil' game series?",
@@ -354,6 +482,14 @@
   {
     "question": "What is the name of the major tournament for the game Overwatch?",
     "answer": "Overwatch League"
+  },
+  {
+    "question": "What is the name of the mask that Kratos is searching for in the game God of War: Ragnarok?",
+    "answer": "Mask of the Ancients"
+  },
+  {
+    "question": "What is the name of the mysterious puzzle game by Capybara Games?",
+    "answer": "Super Time Force"
   },
   {
     "question": "What is the name of the open-world game by Ubisoft released in 2020?",
@@ -384,8 +520,20 @@
     "answer": "EVE Online"
   },
   {
+    "question": "What is the name of the sword in The Legend of Zelda?",
+    "answer": "Master Sword"
+  },
+  {
     "question": "What is the name of the world in the game Subnautica?",
     "answer": "4546B"
+  },
+  {
+    "question": "What is the objective of the game 'Jumanji'?",
+    "answer": "Finish the game"
+  },
+  {
+    "question": "What is the process of creating and synchronizing the movements of characters and objects called?",
+    "answer": "Animation"
   },
   {
     "question": "What is the process of forming a deck called?",
@@ -460,12 +608,28 @@
     "answer": "Magic square"
   },
   {
+    "question": "What was the first MMORPG?",
+    "answer": "Meridian 59"
+  },
+  {
     "question": "What was the first mass-produced interactive video game?",
     "answer": "Spacewar!"
   },
   {
     "question": "What was the name of the first Battle Royale game?",
     "answer": "H1Z1"
+  },
+  {
+    "question": "When was the first Mario game released?",
+    "answer": "1981"
+  },
+  {
+    "question": "Where does the game Baldur's Gate take place?",
+    "answer": "Faerûn"
+  },
+  {
+    "question": "Where does the game The Witcher 3 begin?",
+    "answer": "Vizima"
   },
   {
     "question": "Where is the EVO tournament held?",
@@ -478,6 +642,10 @@
   {
     "question": "Which Apex Legends tournament is considered the most prestigious?",
     "answer": "ALGS Championship"
+  },
+  {
+    "question": "Which MTG set first introduced double-faced cards?",
+    "answer": "Innistrad"
   },
   {
     "question": "Which Magic: The Gathering card is considered the most expensive?",
@@ -516,8 +684,24 @@
     "answer": "Ant Simulator"
   },
   {
+    "question": "Which VR game simulates a robot war?",
+    "answer": "Mech Battle"
+  },
+  {
     "question": "Which animal is present in the game 'Carcassonne'?",
     "answer": "Dragon"
+  },
+  {
+    "question": "Which board game ranks third in popularity worldwide?",
+    "answer": "Risk"
+  },
+  {
+    "question": "Which character appears in the game Monument Valley?",
+    "answer": "Ida"
+  },
+  {
+    "question": "Which company organizes the esports tournament CDL?",
+    "answer": "Activision"
   },
   {
     "question": "Which company owns Oculus?",
@@ -548,12 +732,20 @@
     "answer": "Total War"
   },
   {
+    "question": "Which game attracted attention with its storyline in 2018?",
+    "answer": "Red Dead Redemption 2"
+  },
+  {
     "question": "Which game explores an alternate history of battles on the Eastern Front?",
     "answer": "Command & Conquer: Red Alert"
   },
   {
     "question": "Which game has a mode reminiscent of dungeons?",
     "answer": "MTG"
+  },
+  {
+    "question": "Which game includes VR flights?",
+    "answer": "Ultrawings"
   },
   {
     "question": "Which game includes cards with the type 'Ice Lander'?",
@@ -572,6 +764,10 @@
     "answer": "Dying Light"
   },
   {
+    "question": "Which game is known for its high level of difficulty?",
+    "answer": "Dark Souls"
+  },
+  {
     "question": "Which game is known for its historical campaigns?",
     "answer": "Europa Universalis"
   },
@@ -584,8 +780,32 @@
     "answer": "Dark Souls"
   },
   {
+    "question": "Which game is known for the mythic card 'Black Lotus'?",
+    "answer": "Magic: The Gathering"
+  },
+  {
+    "question": "Which game is over 1500 years old?",
+    "answer": "Chess"
+  },
+  {
+    "question": "Which game is popular among Japanese people due to its many combinations?",
+    "answer": "Go"
+  },
+  {
     "question": "Which game is popular due to augmented reality technology?",
     "answer": "Ingress"
+  },
+  {
+    "question": "Which game is popular for its dark atmosphere?",
+    "answer": "Bloodborne"
+  },
+  {
+    "question": "Which game is set in post-apocalyptic Siberia?",
+    "answer": "Metro Exodus"
+  },
+  {
+    "question": "Which game offers players the chance to manage a city in a post-apocalyptic world?",
+    "answer": "Frostpunk"
   },
   {
     "question": "Which game series is known for its difficulty and rolling mechanics?",
@@ -596,8 +816,16 @@
     "answer": "Sky: Children of the Light"
   },
   {
+    "question": "Which game was based on the popular Adult Swim animated series?",
+    "answer": "Rick and Morty: Pocket Mortys"
+  },
+  {
     "question": "Which game was the first to introduce an achievement system?",
     "answer": "Halo 3"
+  },
+  {
+    "question": "Which game was the first to use polygonal graphics?",
+    "answer": "Battlezone"
   },
   {
     "question": "Which gaming console was the first 16-bit console?",
@@ -632,6 +860,10 @@
     "answer": "World of Warcraft"
   },
   {
+    "question": "Which simulator allows you to become a magazine editor?",
+    "answer": "Magazine Mogul"
+  },
+  {
     "question": "Which simulator allows you to manage an aquarium?",
     "answer": "Megaquarium"
   },
@@ -656,6 +888,10 @@
     "answer": "DAMWON Gaming"
   },
   {
+    "question": "Which team won the LEC 2020 tournament in LoL?",
+    "answer": "G2 Esports"
+  },
+  {
     "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
     "answer": "NAVI"
   },
@@ -672,8 +908,16 @@
     "answer": "Admin"
   },
   {
+    "question": "Who created Metal Gear Solid?",
+    "answer": "Hideo Kojima"
+  },
+  {
     "question": "Who developed the game 'Path of Exile'?",
     "answer": "Grinding Gear Games"
+  },
+  {
+    "question": "Who founded the organization Cloud9?",
+    "answer": "Jack Etienne"
   },
   {
     "question": "Who is considered the founder of the RPG genre?",
@@ -684,8 +928,20 @@
     "answer": "Shigeru Miyamoto"
   },
   {
+    "question": "Who is the head of the guild?",
+    "answer": "Leader"
+  },
+  {
+    "question": "Who is the lead designer of the game 'The Sims'?",
+    "answer": "Will Wright"
+  },
+  {
     "question": "Who is the main antagonist in the Half-Life game series?",
     "answer": "Nihilanth"
+  },
+  {
+    "question": "Who is the main antagonist in the game Shadow of the Colossus?",
+    "answer": "Dormin"
   },
   {
     "question": "Who is the main enemy in the game Bloodborne?",
@@ -694,6 +950,10 @@
   {
     "question": "Who is the main protagonist of the Assassin's Creed game series?",
     "answer": "Desmond Miles"
+  },
+  {
+    "question": "Who is the most decorated player in the EVO Tekken tournament?",
+    "answer": "Qudans"
   },
   {
     "question": "Who is the organizer of the Blast Premier CS:GO tournament?",
