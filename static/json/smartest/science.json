@@ -95,6 +95,10 @@
     "answer": "1990"
   },
   {
+    "question": "In what year was the concept of nanotechnology proposed?",
+    "answer": "1959"
+  },
+  {
     "question": "In what year was the electron discovered?",
     "answer": "1897"
   },
@@ -164,6 +168,10 @@
   {
     "question": "What algorithm is used for working with hash tables?",
     "answer": "Hash function"
+  },
+  {
+    "question": "What algorithm is used in navigation systems?",
+    "answer": "SLAM"
   },
   {
     "question": "What allows the study of galaxy evolution?",
@@ -374,6 +382,10 @@
     "answer": "Change"
   },
   {
+    "question": "What characterizes nanomaterials?",
+    "answer": "Large surface area"
+  },
+  {
     "question": "What chemicals transmit nerve impulses?",
     "answer": "neurotransmitters"
   },
@@ -434,6 +446,10 @@
     "answer": "Steam engine"
   },
   {
+    "question": "What did Vladimir Prelog synthesize?",
+    "answer": "Antibiotic rifampicin"
+  },
+  {
     "question": "What do all viruses have?",
     "answer": "Genome"
   },
@@ -472,6 +488,10 @@
   {
     "question": "What does a heat flow meter measure?",
     "answer": "heat flow meter"
+  },
+  {
+    "question": "What does a refractometer measure?",
+    "answer": "Light refraction"
   },
   {
     "question": "What does a spectrometer measure?",
@@ -750,6 +770,10 @@
     "answer": "The distance that light travels in one year"
   },
   {
+    "question": "What is a logarithm?",
+    "answer": "Exponent"
+  },
+  {
     "question": "What is a microbiological matrix?",
     "answer": "aggregates of bacteria"
   },
@@ -938,6 +962,10 @@
     "answer": "Network attack"
   },
   {
+    "question": "What is inversion in language?",
+    "answer": "Inversion"
+  },
+  {
     "question": "What is isomerization?",
     "answer": "Change of structure"
   },
@@ -960,6 +988,10 @@
   {
     "question": "What is meristem?",
     "answer": "Growth tissue"
+  },
+  {
+    "question": "What is necessary to conduct an experiment?",
+    "answer": "Methodology"
   },
   {
     "question": "What is oxygen balance?",
@@ -1032,6 +1064,10 @@
   {
     "question": "What is the building block of proteins?",
     "answer": "Amino acids"
+  },
+  {
+    "question": "What is the change in direction of a wave when it passes through an obstacle called?",
+    "answer": "Diffraction"
   },
   {
     "question": "What is the change in the number or structure of chromosomes called?",
@@ -1358,6 +1394,10 @@
     "answer": "Law of Conservation of Energy"
   },
   {
+    "question": "What is the name of the form of nanocarbon?",
+    "answer": "Fullerene"
+  },
+  {
     "question": "What is the name of the gas released during reactions of carbon dioxide and water?",
     "answer": "Carbon dioxide"
   },
@@ -1430,6 +1470,10 @@
     "answer": "1"
   },
   {
+    "question": "What is the normal body temperature of birds?",
+    "answer": "42 degrees"
+  },
+  {
     "question": "What is the number i?",
     "answer": "Imaginary unit"
   },
@@ -1443,6 +1487,10 @@
   },
   {
     "question": "What is the phenomenon called when particles are connected regardless of distance?"
+  },
+  {
+    "question": "What is the phenomenon called when the Earth's surface temperature drops sharply at night?",
+    "answer": "Radiational cooling"
   },
   {
     "question": "What is the phenomenon called when water bodies are filled with algae?",
@@ -1571,6 +1619,10 @@
   {
     "question": "What is the role of enzymes?",
     "answer": "Catalysts"
+  },
+  {
+    "question": "What is the role of myelin?",
+    "answer": "Insulation of axons"
   },
   {
     "question": "What is the role of plasmids in biotechnology?",
@@ -1816,6 +1868,10 @@
     "answer": "Amines"
   },
   {
+    "question": "What particle is the antimatter counterpart of the electron?",
+    "answer": "Positron"
+  },
+  {
     "question": "What phenomenon causes the tilt of the wind on mountain slopes?",
     "answer": "Katabatic"
   },
@@ -1862,6 +1918,10 @@
   {
     "question": "What process allows bacteria to exchange genes directly?",
     "answer": "Conjugation"
+  },
+  {
+    "question": "What process do yeast use to produce energy?",
+    "answer": "Fermentation"
   },
   {
     "question": "What process enhances signal transmission between neurons?",
@@ -2060,6 +2120,10 @@
     "answer": "Condensation"
   },
   {
+    "question": "What theory did Lomonosov propose?",
+    "answer": "Kinetic"
+  },
+  {
     "question": "What theory did Stephen Hawking propose?",
     "answer": "quantum gravity"
   },
@@ -2180,6 +2244,10 @@
     "answer": "The Caribbean"
   },
   {
+    "question": "Where do toxic substances accumulate?",
+    "answer": "Trophic chain"
+  },
+  {
     "question": "Where in the Solar System is a subsurface ocean located?",
     "answer": "Enceladus"
   },
@@ -2202,6 +2270,10 @@
   {
     "question": "Where is the pollen grain located?",
     "answer": "Androecium"
+  },
+  {
+    "question": "Where on Earth are the most extreme temperatures observed?",
+    "answer": "Antarctica"
   },
   {
     "question": "Where was the first controlled nuclear reaction conducted?",
@@ -2406,6 +2478,10 @@
     "answer": "Uranium"
   },
   {
+    "question": "Which enzyme is involved in DNA replication?",
+    "answer": "DNA polymerase"
+  },
+  {
     "question": "Which epoch began 2.6 million years ago?",
     "answer": "Pleistocene"
   },
@@ -2496,6 +2572,10 @@
   {
     "question": "Which method allows determining the depth of an earthquake's focus?",
     "answer": "Hypocentral method"
+  },
+  {
+    "question": "Which method allows for precise genome editing?",
+    "answer": "CRISPR"
   },
   {
     "question": "Which method considers only observable data?",
@@ -2606,6 +2686,10 @@
     "answer": "Apical meristem"
   },
   {
+    "question": "Which organisms are capable of synthesizing organic substances from inorganic ones?",
+    "answer": "Autotrophs"
+  },
+  {
     "question": "Which organisms are involved in bioremediation?",
     "answer": "Microbes"
   },
@@ -2664,6 +2748,10 @@
   {
     "question": "Which part of the flower turns into a fruit?",
     "answer": "Ovary"
+  },
+  {
+    "question": "Which part of the plant is used for grafting?",
+    "answer": "Scion"
   },
   {
     "question": "Which part of the seed nourishes the embryo?",
@@ -2840,6 +2928,10 @@
   {
     "question": "Which system is responsible for the 'fight or flight' response?",
     "answer": "Sympathetic"
+  },
+  {
+    "question": "Which technology can help reduce carbon dioxide emissions?",
+    "answer": "Wind turbines"
   },
   {
     "question": "Which technology is important for nanoelectronics?",
