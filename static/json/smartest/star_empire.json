@@ -124,6 +124,10 @@
     "answer": "Meditation and practice"
   },
   {
+    "question": "How did Obi-Wan manage to keep his mission secret in enemy territory?",
+    "answer": "Disguise"
+  },
+  {
     "question": "How did Obi-Wan minimize the risk of mission failure in uncertain conditions?",
     "answer": "Planning"
   },
@@ -186,6 +190,10 @@
   {
     "question": "How did Yoda perceive training Luke?",
     "answer": "A challenge"
+  },
+  {
+    "question": "How did Yoda restore his strength?",
+    "answer": "Meditation"
   },
   {
     "question": "How did Yoda teach the use of the Force?",
@@ -298,6 +306,10 @@
   {
     "question": "How do Jedi defend against hostile mental attacks?",
     "answer": "Mental shield"
+  },
+  {
+    "question": "How do Jedi defend themselves against dark creatures?",
+    "answer": "Lightsaber"
   },
   {
     "question": "How do Jedi enhance their sensory abilities?",
@@ -869,6 +881,10 @@
     "answer": "Intuition"
   },
   {
+    "question": "What ability allows Jedi to unite their minds?",
+    "answer": "Meditation of unity"
+  },
+  {
     "question": "What ability allows communication with animals?",
     "answer": "Beast Tranquility"
   },
@@ -919,6 +935,14 @@
   {
     "question": "What ability is used to enhance perception?",
     "answer": "Sensitivity"
+  },
+  {
+    "question": "What ability is used to hide presence?",
+    "answer": "Concealment Power"
+  },
+  {
+    "question": "What ability is used to manipulate sound?",
+    "answer": "Force Echo"
   },
   {
     "question": "What ability is used to open locked doors?",
@@ -1188,6 +1212,10 @@
     "answer": "Ethical conflict"
   },
   {
+    "question": "What challenge helped to strengthen the trust between Han Solo and Chewbacca?",
+    "answer": "Escape from the Empire"
+  },
+  {
     "question": "What challenge was decisive for Luke in his becoming a Jedi?",
     "answer": "Battle with Vader"
   },
@@ -1238,6 +1266,10 @@
   {
     "question": "What color of lightsaber is associated with Jedi Guardians?",
     "answer": "Blue"
+  },
+  {
+    "question": "What color of lightsaber symbolizes the Sith?",
+    "answer": "Red"
   },
   {
     "question": "What color was Darth Vader's lightsaber?",
@@ -1426,6 +1458,10 @@
   {
     "question": "What effect does abusing the dark side have?",
     "answer": "Corruption of the spirit"
+  },
+  {
+    "question": "What effect influences the light of a star due to the movement of a galaxy?",
+    "answer": "Redshift"
   },
   {
     "question": "What effect was used to create lightsabers in the 'Star Wars' movies?",
@@ -1696,6 +1732,10 @@
     "answer": "Cosmic storm"
   },
   {
+    "question": "What event served as the catalyst for the final establishment of the Empire?",
+    "answer": "Clone Wars"
+  },
+  {
     "question": "What event split the Jedi and the Sith?",
     "answer": "Exile"
   },
@@ -1718,6 +1758,10 @@
   {
     "question": "What event triggered the start of the Clone Wars?",
     "answer": "Battle of Geonosis"
+  },
+  {
+    "question": "What event triggered the unification of the ancient Jedi?",
+    "answer": "The threat of the Sith"
   },
   {
     "question": "What event united Han and Chewbacca?",
@@ -1762,6 +1806,10 @@
   {
     "question": "What event was decisive in the lightsaber battle?",
     "answer": "Betrayal of an ally"
+  },
+  {
+    "question": "What event was key in Leia's decision to help the rebels?",
+    "answer": "Destruction of Alderaan"
   },
   {
     "question": "What event was key in the establishment of the New Republic?",
@@ -2790,6 +2838,10 @@
     "answer": "Reflection method"
   },
   {
+    "question": "What method did Yoda use to teach control over fear?",
+    "answer": "Contemplation"
+  },
+  {
     "question": "What method did Yoda use to teach patience?",
     "answer": "Meditation"
   },
@@ -2982,8 +3034,16 @@
     "answer": "Supernova"
   },
   {
+    "question": "What phenomenon in the galaxy is associated with the collapse of massive stars?",
+    "answer": "Supernova"
+  },
+  {
     "question": "What phenomenon in the galaxy is characterized by a sudden and significant change in the orbit of planets?",
     "answer": "Gravitational shift"
+  },
+  {
+    "question": "What phenomenon is associated with the change in color of a star during its evolution?",
+    "answer": "Redshift"
   },
   {
     "question": "What phenomenon is characterized by the significant compression of a star due to gravitational collapse?",
@@ -3567,8 +3627,16 @@
     "answer": "Elimination of the Jedi"
   },
   {
+    "question": "What skill allowed Obi-Wan to successfully complete the mission in extreme uncertainty?",
+    "answer": "Intuition"
+  },
+  {
     "question": "What skill did Obi-Wan develop to defeat the Sith?",
     "answer": "Swordsmanship"
+  },
+  {
+    "question": "What skill distinguishes Yoda in lightsaber combat?",
+    "answer": "Mastery of swordsmanship"
   },
   {
     "question": "What skill helped Obi-Wan Kenobi avoid detection?",
@@ -3589,6 +3657,10 @@
   {
     "question": "What skills were most important for a bounty hunter?",
     "answer": "Strategy"
+  },
+  {
+    "question": "What source of power do the Sith consider true?",
+    "answer": "Passion"
   },
   {
     "question": "What space structure became a symbol of the Empire's power and threat?",
@@ -4261,6 +4333,10 @@
     "answer": "Irregular"
   },
   {
+    "question": "What type of helmet was created for Darth Vader?",
+    "answer": "Life-supporting"
+  },
+  {
     "question": "What type of interaction characterizes the pair of Han and Chewbacca?",
     "answer": "synergy"
   },
@@ -4271,6 +4347,10 @@
   {
     "question": "What type of orbit is characteristic for most exoplanets in the galaxy?",
     "answer": "Elliptical"
+  },
+  {
+    "question": "What type of planetary ring is mentioned in 'Star Wars'?",
+    "answer": "Heavenly Ring"
   },
   {
     "question": "What type of star is characterized by a high magnetic field and rapid rotation?",
@@ -4469,6 +4549,10 @@
     "answer": "Smuggling"
   },
   {
+    "question": "What was Han's attitude towards the Alliance?",
+    "answer": "Skeptical"
+  },
+  {
     "question": "What was Luke's call sign in the Empire?",
     "answer": "Red Five"
   },
@@ -4639,6 +4723,14 @@
   {
     "question": "What was the process of knowledge transfer called among the early Jedi?",
     "answer": "Transformation"
+  },
+  {
+    "question": "What was the purpose of training a young Jedi in the Temple?",
+    "answer": "Mastery of the Force"
+  },
+  {
+    "question": "What was the relationship between Han Solo and Chewbacca with Leia Organa?",
+    "answer": "Allies"
   },
   {
     "question": "What was the significance of the duel between Darth Vader and Luke in 'The Empire Strikes Back'?",
@@ -4920,6 +5012,10 @@
     "answer": "Ki-Adi-Mundi"
   },
   {
+    "question": "Which Jedi mastered the 'Fior' technique?",
+    "answer": "Yoda"
+  },
+  {
     "question": "Which Jedi played a key role in diplomatic missions?",
     "answer": "Luminara Unduli"
   },
@@ -5169,6 +5265,10 @@
   {
     "question": "Which ancient prophecy, according to legends, predicts the fall of Atlantis?",
     "answer": "Prophecy of the King"
+  },
+  {
+    "question": "Which ancient weapon is associated with leadership rights?",
+    "answer": "Darksaber"
   },
   {
     "question": "Which animal was considered sacred to the Mandalorians?",
@@ -5532,6 +5632,14 @@
     "answer": "Cad Bane"
   },
   {
+    "question": "Which bounty hunter was the first to use unique phase-shift technology?",
+    "answer": "Boba Fett"
+  },
+  {
+    "question": "Which bounty hunter was trained by a Sith?",
+    "answer": "Aurra Sing"
+  },
+  {
     "question": "Which bounty hunter wore Mandalorian armor?",
     "answer": "Jango Fett"
   },
@@ -5550,6 +5658,10 @@
   {
     "question": "Which celestial body in the Solar System has the greatest mass?",
     "answer": "The Sun"
+  },
+  {
+    "question": "Which celestial body is associated with the Jedi?",
+    "answer": "Moon"
   },
   {
     "question": "Which celestial object became the target of the Empire's attack?",
@@ -5861,6 +5973,10 @@
     "answer": "Soresu"
   },
   {
+    "question": "Which film first used practical effects in space?",
+    "answer": "A New Hope"
+  },
+  {
     "question": "Which film in the 'Star Wars' franchise was the first to use the THX sound system?",
     "answer": "Episode VI"
   },
@@ -5871,6 +5987,10 @@
   {
     "question": "Which film inspired the visual style of battles in 'Star Wars'?",
     "answer": "'The Hidden Fortress'"
+  },
+  {
+    "question": "Which film was the first in history to include hand-colored frames to create lightsabers?",
+    "answer": "A New Hope"
   },
   {
     "question": "Which film was the first to be shot in IMAX format?",
@@ -6296,6 +6416,10 @@
     "answer": "Tatooine"
   },
   {
+    "question": "Which planet was destroyed by the Death Star?",
+    "answer": "Alderaan"
+  },
+  {
     "question": "Which planet was key in the creation of the clone army?",
     "answer": "Kamino"
   },
@@ -6322,6 +6446,10 @@
   {
     "question": "Which planetary object is known for its unusual ring?",
     "answer": "Neptune's ring"
+  },
+  {
+    "question": "Which political body opposed the expansion of the Empire's power in the galaxy?",
+    "answer": "Rebel Alliance"
   },
   {
     "question": "Which political figure played a key role in the transition of the Republic into the Galactic Empire?",
@@ -6440,6 +6568,10 @@
     "answer": "Optical printing"
   },
   {
+    "question": "Which technology in 'Star Wars' became the basis for creating modern CGI characters?",
+    "answer": "Motion capture"
+  },
+  {
     "question": "Which theory explains the movement of galaxies relative to each other?",
     "answer": "Cosmological model"
   },
@@ -6514,6 +6646,10 @@
   {
     "question": "Which weapon has the ability to destroy objects at great distances thanks to unique technology?",
     "answer": "Ion cannon"
+  },
+  {
+    "question": "Who accompanied Obi-Wan on his mission to Utapau?",
+    "answer": "Clone Troopers"
   },
   {
     "question": "Who became the first head of the Jedi Council?",
