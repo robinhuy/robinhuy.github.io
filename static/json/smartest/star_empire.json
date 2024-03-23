@@ -392,6 +392,10 @@
     "answer": "Guidance of elders"
   },
   {
+    "question": "How do Mandalorians understand the concept of a 'temporary alliance'?",
+    "answer": "A pragmatic step"
+  },
+  {
     "question": "How do Mandalorians understand the concept of honor?",
     "answer": "Honor above all"
   },
@@ -901,6 +905,10 @@
     "answer": "Force Lightning"
   },
   {
+    "question": "What ability did Qui-Gon Jinn use to communicate after death?",
+    "answer": "Spiritual communication"
+  },
+  {
     "question": "What ability did Yoda possess to defend against lightning?",
     "answer": "Lightning reflection"
   },
@@ -1081,6 +1089,10 @@
     "answer": "Sith Holocron"
   },
   {
+    "question": "What artifact held symbolic significance for Chewbacca?",
+    "answer": "Medal"
+  },
+  {
     "question": "What artifact is the key to the immortality of the Sith?",
     "answer": "Sith Holocron"
   },
@@ -1128,6 +1140,10 @@
     "answer": "Desire for power"
   },
   {
+    "question": "What aspect of Darth Vader's life is dedicated to his final moments?",
+    "answer": "Redemption"
+  },
+  {
     "question": "What aspect of a warrior's skills is crucial in battles with equal forces?",
     "answer": "Strategy"
   },
@@ -1166,6 +1182,10 @@
   {
     "question": "What attitude towards power can lead to decline?",
     "answer": "Selfishness and greed"
+  },
+  {
+    "question": "What attribute characterizes the Jedi?",
+    "answer": "Wisdom"
   },
   {
     "question": "What award did Chewbacca receive for his services to the Rebel Alliance?",
@@ -1300,6 +1320,10 @@
     "answer": "Dualism"
   },
   {
+    "question": "What consequence can abuse of power have?",
+    "answer": "Destruction of personality"
+  },
+  {
     "question": "What creature guards the magical gates in DC Comics?",
     "answer": "Gargoyle"
   },
@@ -1390,6 +1414,10 @@
   {
     "question": "What did Darth Vader's desire to sever old ties symbolize?",
     "answer": "The Force"
+  },
+  {
+    "question": "What did Yoda consider the main flaw of the Jedi Council?",
+    "answer": "Short-sightedness"
   },
   {
     "question": "What did the ancient Sith alchemists study?",
@@ -2334,6 +2362,10 @@
     "answer": "Freedom and control"
   },
   {
+    "question": "What is the main philosophical goal of the Sith?",
+    "answer": "Power"
+  },
+  {
     "question": "What is the main reason for the fall of the Jedi Order?",
     "answer": "Corruption"
   },
@@ -2558,6 +2590,10 @@
     "answer": "Energy Duplicate"
   },
   {
+    "question": "What is the technique of time management called?",
+    "answer": "Temporal manipulation"
+  },
+  {
     "question": "What is the true purpose of the artifact used to control the Enchantress?",
     "answer": "Enhancing power"
   },
@@ -2664,6 +2700,10 @@
   {
     "question": "What knowledge helped Anakin become Darth Vader?",
     "answer": "The Dark Side"
+  },
+  {
+    "question": "What knowledge helped Luke restore balance in the Force?",
+    "answer": "Yoda's teachings"
   },
   {
     "question": "What language did Yoda speak?",
@@ -3323,6 +3363,14 @@
     "answer": "Mass"
   },
   {
+    "question": "What property of the Dark Side is its most powerful trait capable of changing fate?",
+    "answer": "Intensity"
+  },
+  {
+    "question": "What prophecy is associated with the Chosen One in the Star Wars universe?",
+    "answer": "Balance of the Force"
+  },
+  {
     "question": "What prophecy is associated with the fate of the Skywalker family?",
     "answer": "The Chosen One"
   },
@@ -3495,6 +3543,10 @@
     "answer": "Territory control"
   },
   {
+    "question": "What role did the Jedi Code play in the life of the Order?",
+    "answer": "Ethical standards"
+  },
+  {
     "question": "What role did the Mandalorians play in the Clone Wars?",
     "answer": "Mercenaries"
   },
@@ -3591,6 +3643,10 @@
     "answer": "Operation Doppelgänger"
   },
   {
+    "question": "What secret weapon was developed by the Separatists for the Clone Wars?",
+    "answer": "Death Star"
+  },
+  {
     "question": "What security measures did Obi-Wan take to protect the secret data?",
     "answer": "Encryption"
   },
@@ -3637,6 +3693,10 @@
   {
     "question": "What skill distinguishes Yoda in lightsaber combat?",
     "answer": "Mastery of swordsmanship"
+  },
+  {
+    "question": "What skill does Chewbacca use to help him in critical situations?",
+    "answer": "Mechanics"
   },
   {
     "question": "What skill helped Obi-Wan Kenobi avoid detection?",
@@ -4531,6 +4591,10 @@
   {
     "question": "What was Darth Vader's main goal in the Empire?",
     "answer": "Suppress the rebellion"
+  },
+  {
+    "question": "What was Darth Vader's main motivation that defined his path?",
+    "answer": "To save Padmé"
   },
   {
     "question": "What was Darth Vader's main weakness?",
@@ -5965,6 +6029,10 @@
     "answer": "Darth Sidious"
   },
   {
+    "question": "Which famous bounty hunter owned Mandalorian armor and worked with the Empire?",
+    "answer": "Boba Fett"
+  },
+  {
     "question": "Which famous bounty hunter used a unique interrogation technique?",
     "answer": "Aurra Sing"
   },
@@ -6524,6 +6592,10 @@
     "answer": "Synchronia"
   },
   {
+    "question": "Which star route leads to interstellar markets?",
+    "answer": "Corellian Run"
+  },
+  {
     "question": "Which star symbolizes wisdom in the Jedi teachings?",
     "answer": "Star of Wisdom"
   },
@@ -6980,8 +7052,16 @@
     "answer": "Anakin Skywalker"
   },
   {
+    "question": "Who was known as the Jedi's chief diplomat?",
+    "answer": "Plo Koon"
+  },
+  {
     "question": "Who was known as the Princess of Alderaan?",
     "answer": "Leia Organa"
+  },
+  {
+    "question": "Who was known as the best pilot of the Empire?",
+    "answer": "Darth Vader"
   },
   {
     "question": "Who was originally cast as Obi-Wan?",
@@ -7010,6 +7090,10 @@
   {
     "question": "Who was the chief architect of the Galactic Empire's policy aimed at suppressing rebellions?",
     "answer": "Tarkin"
+  },
+  {
+    "question": "Who was the commander of the Republic fleet in 'Star Wars'?",
+    "answer": "Rex"
   },
   {
     "question": "Who was the director of 'The Empire Strikes Back'?",
@@ -7050,6 +7134,10 @@
   {
     "question": "Who was the first director to work on a sequel to the original trilogy?",
     "answer": "Irvin Kershner"
+  },
+  {
+    "question": "Who was the first friend of Luke Skywalker?",
+    "answer": "Han Solo"
   },
   {
     "question": "Who was the first screenwriter not associated with George Lucas to work on a Star Wars film?",
