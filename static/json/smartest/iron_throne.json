@@ -44,6 +44,10 @@
     "answer": "Memories"
   },
   {
+    "question": "How did Arya achieve peace on her path to revenge?",
+    "answer": "Meditation"
+  },
+  {
     "question": "How did Arya acquire the skill that allowed her to change her appearance?",
     "answer": "Training in Braavos"
   },
@@ -82,6 +86,10 @@
   {
     "question": "How did Arya overcome her fears?",
     "answer": "Perseverance"
+  },
+  {
+    "question": "How did Arya overcome her inner conflicts while training with the Faceless Men?",
+    "answer": "Letting go of the past"
   },
   {
     "question": "How did Arya realize her true desires?",
@@ -340,12 +348,20 @@
     "answer": "Sarcasm"
   },
   {
+    "question": "How did Tyrion handle hostility at court?",
+    "answer": "Wit and tact"
+  },
+  {
     "question": "How did Tyrion handle the danger in the new place?",
     "answer": "Diplomacy"
   },
   {
     "question": "How did Tyrion maintain his ideals amidst chaos?",
     "answer": "Strength of convictions"
+  },
+  {
+    "question": "How did Tyrion use his knowledge of history against his enemies?",
+    "answer": "Maneuver tactics"
   },
   {
     "question": "How did Tyrion use his wit in battle?",
@@ -518,6 +534,10 @@
   {
     "question": "How do maesters maintain peace between houses?",
     "answer": "Negotiations"
+  },
+  {
+    "question": "How do maesters participate in wars?",
+    "answer": "Medicine"
   },
   {
     "question": "How do maesters pass on knowledge to new generations?",
@@ -752,6 +772,10 @@
     "answer": "Wolf fighting"
   },
   {
+    "question": "What ancient prophecy is associated with House Stark and the North?",
+    "answer": "The Winter Battle"
+  },
+  {
     "question": "What ancient prophecy is associated with the Starks?",
     "answer": "Song of Ice"
   },
@@ -770,6 +794,10 @@
   {
     "question": "What animal symbolized Arya in her visions?",
     "answer": "She-wolf"
+  },
+  {
+    "question": "What animals were used for trade in Essos?",
+    "answer": "Horses"
   },
   {
     "question": "What approach did John use for negotiations with opponents?",
@@ -1056,6 +1084,10 @@
     "answer": "Freedom"
   },
   {
+    "question": "What does the motto 'Unbowed, Unbent, Unbroken' symbolize?",
+    "answer": "Dorne"
+  },
+  {
     "question": "What does the white cloak symbolize for knights in the power system of Westeros?",
     "answer": "symbol of honor"
   },
@@ -1186,6 +1218,10 @@
   {
     "question": "What event led to the downfall of House Frey?",
     "answer": "Stark's Revenge"
+  },
+  {
+    "question": "What event led to the extinction of dragons in Westeros?",
+    "answer": "Dance of the Dragons"
   },
   {
     "question": "What event led to the fall of House Stark?",
@@ -1460,6 +1496,10 @@
     "answer": "Dragon eggs"
   },
   {
+    "question": "What gift did Jorah Mormont receive in Meereen?",
+    "answer": "Pardon"
+  },
+  {
     "question": "What goal did the Lannisters pursue through marriage alliances?",
     "answer": "Expansion of influence"
   },
@@ -1502,6 +1542,10 @@
   {
     "question": "What impact did Jon Snow's meeting with the Night King have on his decision regarding the strategy for defending the North?",
     "answer": "Changed the plan"
+  },
+  {
+    "question": "What impact did Robb Stark's death have on the North?",
+    "answer": "Decline of the North"
   },
   {
     "question": "What impact did Theon's actions have on Pyke?",
@@ -1716,6 +1760,10 @@
     "answer": "Intellectual"
   },
   {
+    "question": "What is the nickname of Tyrion Lannister?",
+    "answer": "The Halfman"
+  },
+  {
     "question": "What is the primary duty of maesters?",
     "answer": "Service to knowledge"
   },
@@ -1780,6 +1828,10 @@
     "answer": "Sea burial"
   },
   {
+    "question": "What item became the symbol of Tyrion?",
+    "answer": "Book"
+  },
+  {
     "question": "What item did Arya take from the Hall of Faces after her training?",
     "answer": "Face"
   },
@@ -1812,12 +1864,20 @@
     "answer": "Victory over enemies"
   },
   {
+    "question": "What key factors helped Daenerys maintain control over her army?",
+    "answer": "Charisma and leadership"
+  },
+  {
     "question": "What key historical factors defined the traditions of the Ironborn?",
     "answer": "Seafaring raids"
   },
   {
     "question": "What key lesson did Arya learn from her training in Braavos?",
     "answer": "Discipline"
+  },
+  {
+    "question": "What key moments in the history of the Ironborn have influenced their current position in Westeros?",
+    "answer": "Conflicts"
   },
   {
     "question": "What key skill did Arya learn in the House of Black and White?",
@@ -1874,6 +1934,10 @@
   {
     "question": "What legendary event changed the balance of power in Westeros, showcasing the true might of dragons?",
     "answer": "Dance of the Dragons"
+  },
+  {
+    "question": "What legends are associated with the creation of the Iron Throne?",
+    "answer": "Dragonfire"
   },
   {
     "question": "What legends surround the Iron Throne and its owners?",
@@ -2108,6 +2172,10 @@
     "answer": "Dragon"
   },
   {
+    "question": "What mythical element supported the Targaryens' power?",
+    "answer": "Dragons"
+  },
+  {
     "question": "What mythical item can enhance visions in the flame?",
     "answer": "Chalice of Fire"
   },
@@ -2216,6 +2284,10 @@
     "answer": "Abandoned castle"
   },
   {
+    "question": "What political advantage did House Greyjoy gain through marriage?",
+    "answer": "Naval influence"
+  },
+  {
     "question": "What political effect did a marriage alliance have?",
     "answer": "Support"
   },
@@ -2320,7 +2392,15 @@
     "answer": "Patience and agility"
   },
   {
+    "question": "What qualities helped Jon Snow earn the respect of the Northern houses?",
+    "answer": "Honesty and courage"
+  },
+  {
     "question": "What quality allowed Arya to overcome her fear of enemies?",
+    "answer": "Bravery"
+  },
+  {
+    "question": "What quality did Jon show to gain the support of the northern houses?",
     "answer": "Bravery"
   },
   {
@@ -2340,6 +2420,10 @@
     "answer": "Curiosity"
   },
   {
+    "question": "What quality is necessary for studying ancient languages in the Citadel?",
+    "answer": "Patience"
+  },
+  {
     "question": "What quality of John allowed him to overcome difficulties in the Night's Watch?",
     "answer": "Steadfastness"
   },
@@ -2354,6 +2438,10 @@
   {
     "question": "What rare material is mined in Essos for creating enchanting mirrors?",
     "answer": "Morglaz"
+  },
+  {
+    "question": "What rare skill do maesters study?",
+    "answer": "Alchemy"
   },
   {
     "question": "What resources are considered the foundation of the economic power of the ancient cities of Westeros?",
@@ -2484,12 +2572,20 @@
     "answer": "Naval power"
   },
   {
+    "question": "What role did religion play in Daenerys' governance of the conquered territories?",
+    "answer": "Strengthened her power"
+  },
+  {
     "question": "What role did the Starks play in uniting the houses of the North?",
     "answer": "Leaders"
   },
   {
     "question": "What role did the advisors play in her conquests?",
     "answer": "Strategic"
+  },
+  {
+    "question": "What role did the dragon Drogon play in the Battle of Blackwater?",
+    "answer": "Offensive"
   },
   {
     "question": "What role did the dragon play in the Battle for the Valley?",
@@ -2588,6 +2684,10 @@
     "answer": "disguise"
   },
   {
+    "question": "What skill is considered the most underrated in training masters?",
+    "answer": "The art of listening"
+  },
+  {
     "question": "What skill is necessary for creating healing potions?",
     "answer": "Herbology"
   },
@@ -2616,6 +2716,10 @@
     "answer": "Alliance with dragons"
   },
   {
+    "question": "What strategic action by John influenced the outcome of the Great War?",
+    "answer": "Uniting the armies"
+  },
+  {
     "question": "What strategic advantage allowed Daenerys to gain the trust of the local people in Essos?",
     "answer": "Promises of freedom"
   },
@@ -2630,6 +2734,10 @@
   {
     "question": "What strategic advantage ensured success in the Battle of the Black Castle?",
     "answer": "The height of the fortress"
+  },
+  {
+    "question": "What strategic alliance was secured by Cersei Lannister's marriage?",
+    "answer": "Lannister and Baratheon"
   },
   {
     "question": "What strategic alliances did the Ironborn form?",
@@ -2678,6 +2786,10 @@
   {
     "question": "What strategic element did Robb Stark use in the Battle of the Whispering Wood?",
     "answer": "Encirclement"
+  },
+  {
+    "question": "What strategic element ensured success in the Battle of Winterfell?",
+    "answer": "Castle walls"
   },
   {
     "question": "What strategic element played a role in the Stark's victory at the Battle of Winterfell?",
@@ -2836,12 +2948,20 @@
     "answer": "Dragons in battles"
   },
   {
+    "question": "What strategy do the Starks use to defend their lands?",
+    "answer": "Fortifying castles"
+  },
+  {
     "question": "What strategy helped Daenerys in managing the conquered territories?",
     "answer": "Forming alliances"
   },
   {
     "question": "What strategy helped Daenerys strengthen her power?",
     "answer": "Liberating slaves"
+  },
+  {
+    "question": "What strategy helped withstand the defense of Highgarden?",
+    "answer": "Dense forests"
   },
   {
     "question": "What strategy led to victory at the Trident?",
@@ -3144,6 +3264,10 @@
     "answer": "Betrayal"
   },
   {
+    "question": "What trial did Daenerys overcome in the Dothraki Sea?",
+    "answer": "Execution of the khals"
+  },
+  {
     "question": "What trial does a knight undergo before joining the Royal Guard?",
     "answer": "Duel of honor"
   },
@@ -3292,6 +3416,10 @@
     "answer": "Dragon power"
   },
   {
+    "question": "What was the decisive strategic maneuver in the Battle of the Long Bridge?",
+    "answer": "Flanking attack"
+  },
+  {
     "question": "What was the goal of the Targaryens in marrying the Lannisters?",
     "answer": "Increase influence"
   },
@@ -3366,6 +3494,10 @@
   {
     "question": "What was the main tactic in the battle against the Army of the Dead?",
     "answer": "Fire and steel"
+  },
+  {
+    "question": "What was the main tactical element of the Battle of the Blackwater?",
+    "answer": "Use of fire"
   },
   {
     "question": "What was the most difficult decision made by Tyrion Lannister?",
@@ -3448,6 +3580,10 @@
     "answer": "White Sword"
   },
   {
+    "question": "What was the outcome of the Battle of the Stone Road?",
+    "answer": "Victory for the Lannisters"
+  },
+  {
     "question": "What was the political significance of the alliance through the marriage of Loras Tyrell?",
     "answer": "Military coalition"
   },
@@ -3466,6 +3602,10 @@
   {
     "question": "What was the purpose of the alliance between the Lannisters and the Freys?",
     "answer": "Increase in influence"
+  },
+  {
+    "question": "What was the reaction of others to Tyrion's personality?",
+    "answer": "Unpredictable"
   },
   {
     "question": "What was the residence called before the Iron Throne?",
@@ -3664,6 +3804,10 @@
     "answer": "Flying ships"
   },
   {
+    "question": "Which alliance did the Lannisters form to strengthen their power after the War of the Five Kings?",
+    "answer": "Tyrells"
+  },
+  {
     "question": "Which alliance secured Robb Stark's marriage?",
     "answer": "Frey"
   },
@@ -3706,6 +3850,10 @@
   {
     "question": "Which animal is associated with a maester?",
     "answer": "Owl"
+  },
+  {
+    "question": "Which army helped the Starks reclaim Winterfell?",
+    "answer": "The Army of the Vale"
   },
   {
     "question": "Which army led the siege of Pyke?",
@@ -3880,6 +4028,10 @@
     "answer": "Braavos"
   },
   {
+    "question": "Which city in Essos is renowned as a center for learning rare magical arts?",
+    "answer": "Qarth"
+  },
+  {
     "question": "Which city in Essos is the most important trading hub for spices and exotic goods?",
     "answer": "Meereen"
   },
@@ -3949,6 +4101,10 @@
   },
   {
     "question": "Which dragon accompanied Aegon I Targaryen in his conquests?",
+    "answer": "Balerion"
+  },
+  {
+    "question": "Which dragon accompanied Aegon I in his conquest of Westeros?",
     "answer": "Balerion"
   },
   {
@@ -4120,6 +4276,10 @@
     "answer": "Martells"
   },
   {
+    "question": "Which house arranged a marriage to avoid conflict in 'Game of Thrones'?",
+    "answer": "Frey"
+  },
+  {
     "question": "Which house arranged a marriage to strengthen their position at sea?",
     "answer": "Greyjoy"
   },
@@ -4242,6 +4402,10 @@
   {
     "question": "Which house is associated with the motto 'Family, Duty, Honor'?",
     "answer": "Tully"
+  },
+  {
+    "question": "Which house is famous for its gardens?",
+    "answer": "House Tyrell"
   },
   {
     "question": "Which house is known for its ability to manipulate other houses through marriage alliances?",
@@ -4576,6 +4740,10 @@
     "answer": "Aemon Targaryen"
   },
   {
+    "question": "Which maester developed the classification of poisons?",
+    "answer": "Maester Colyn"
+  },
+  {
     "question": "Which maester is an expert in herbology?",
     "answer": "Maester Gormon"
   },
@@ -4676,6 +4844,10 @@
     "answer": "Jon Snow"
   },
   {
+    "question": "Which mystical creature helped Bran Stark?",
+    "answer": "Three-Eyed Raven"
+  },
+  {
     "question": "Which natural phenomenon in 'Game of Thrones' was associated with the beginning of a new era?",
     "answer": "Comet"
   },
@@ -4774,6 +4946,10 @@
   {
     "question": "Which process of training masters requires concentration?",
     "answer": "Meditation"
+  },
+  {
+    "question": "Which profession in Westeros is associated with medallions?",
+    "answer": "Maesters"
   },
   {
     "question": "Which prophecy claims that the true heir will emerge from the ashes?",
@@ -4896,6 +5072,10 @@
     "answer": "Targaryens"
   },
   {
+    "question": "Which strategic alliances were key during Robert's Rebellion?",
+    "answer": "The North and the Riverlands"
+  },
+  {
     "question": "Which strategic marriage did the Lannisters arrange to strengthen their power?",
     "answer": "Sansa and Tyrion"
   },
@@ -4926,6 +5106,10 @@
   {
     "question": "Which tribe did Daenerys form an alliance with in Essos?",
     "answer": "Dothraki"
+  },
+  {
+    "question": "Which unexpected ally helped the Starks in the Battle of Winterfell?",
+    "answer": "The Vale cavalry"
   },
   {
     "question": "Which vision indicated the icy threat from the north?",
@@ -5002,6 +5186,10 @@
   {
     "question": "Who became king after the fall of House Targaryen?",
     "answer": "Robert Baratheon"
+  },
+  {
+    "question": "Who became king thanks to the Lannisters?",
+    "answer": "Joffrey Baratheon"
   },
   {
     "question": "Who became the Hand of the King from the Lannisters?",
@@ -5188,6 +5376,10 @@
     "answer": "Daenerys"
   },
   {
+    "question": "Who had a vision of the 'ice storm' in Winterfell?",
+    "answer": "Ghost"
+  },
+  {
     "question": "Who had a vision of the Iron Throne in the snow?",
     "answer": "Daenerys"
   },
@@ -5348,6 +5540,10 @@
     "answer": "Olenna Tyrell"
   },
   {
+    "question": "Who organized the Red Wedding in 'Game of Thrones'?",
+    "answer": "Walder Frey"
+  },
+  {
     "question": "Who participated in the Battle of the Blackwater?",
     "answer": "Stannis Baratheon"
   },
@@ -5382,6 +5578,10 @@
   {
     "question": "Who proposed an alliance to Jon Snow in the fight against the Boltons?",
     "answer": "Sansa Stark"
+  },
+  {
+    "question": "Who resurrected Jon Snow?",
+    "answer": "Melisandre"
   },
   {
     "question": "Who rules the Ironborn at the beginning of 'Game of Thrones'?",
@@ -5568,6 +5768,10 @@
     "answer": "Edmund"
   },
   {
+    "question": "Who was the founder of the Order of Maesters?",
+    "answer": "Vala"
+  },
+  {
     "question": "Who was the last King of Westeros?",
     "answer": "Brandon Stark"
   },
@@ -5638,6 +5842,14 @@
   {
     "question": "Whose vision featured the Red Wedding?",
     "answer": "Bran"
+  },
+  {
+    "question": "Whose vision promised peace?",
+    "answer": "Melisandre"
+  },
+  {
+    "question": "Whose visions were considered the 'secret truth'?",
+    "answer": "Children of the Forest"
   },
   {
     "question": "Why did Jon decide to support Stannis Baratheon?",
