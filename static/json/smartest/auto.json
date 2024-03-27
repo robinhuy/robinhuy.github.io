@@ -324,6 +324,10 @@
     "answer": "Speed"
   },
   {
+    "question": "What distinguishes an enduro motorcycle from other motorcycles?",
+    "answer": "High ground clearance"
+  },
+  {
     "question": "What distinguishes the SSV category from others?",
     "answer": "Buggy"
   },
@@ -346,6 +350,10 @@
   {
     "question": "What does a sports muffler do?",
     "answer": "Reduces resistance"
+  },
+  {
+    "question": "What does the abbreviation Volvo mean?",
+    "answer": "I roll"
   },
   {
     "question": "What does the choice of car wheels depend on?",
@@ -531,12 +539,20 @@
     "answer": "Climate system"
   },
   {
+    "question": "What is the 0 to 100 km/h acceleration time for the Tesla Model S Plaid?",
+    "answer": "2.1 seconds"
+  },
+  {
     "question": "What is the average speed of cars in the race?",
     "answer": "80-130 km/h"
   },
   {
     "question": "What is the device called that controls the fuel consumption of a motorcycle?",
     "answer": "Econometer"
+  },
+  {
+    "question": "What is the device called that helps prevent wheel slip during acceleration?",
+    "answer": "Traction control"
   },
   {
     "question": "What is the difference between summer tires and winter tires?",
@@ -577,6 +593,10 @@
   {
     "question": "What is the lap time of the Porsche 918 Spyder on the Nürburgring?",
     "answer": "6:57"
+  },
+  {
+    "question": "What is the length of the Paris-Dakar Rally?",
+    "answer": "9000 km"
   },
   {
     "question": "What is the main feature of a motocross bike?"
@@ -667,6 +687,10 @@
   {
     "question": "What is the name of the club for Jaguar car owners?",
     "answer": "Jaguar Enthusiasts' Club"
+  },
+  {
+    "question": "What is the name of the cruise control system with a braking function?",
+    "answer": "Adaptive"
   },
   {
     "question": "What is the name of the emissions control system?",
@@ -1095,6 +1119,10 @@
     "answer": "Driverless car"
   },
   {
+    "question": "What type of tread is important for winter tires?",
+    "answer": "Deep"
+  },
+  {
     "question": "What type of wheels are preferred for drifting?",
     "answer": "Light and durable"
   },
@@ -1247,6 +1275,10 @@
     "answer": "On the highway"
   },
   {
+    "question": "Where was the company Lotus founded?",
+    "answer": "United Kingdom"
+  },
+  {
     "question": "Which BMW car became popular among racers in the 1970s?",
     "answer": "BMW 3.0 CSL"
   },
@@ -1361,6 +1393,10 @@
   {
     "question": "Which brand produces the Tornado series motorcycles?",
     "answer": "Benelli"
+  },
+  {
+    "question": "Which brand released the model that set the maximum number of speed records?",
+    "answer": "Bugatti"
   },
   {
     "question": "Which brand was founded in Italy for the production of sports motorcycles?",
@@ -1496,6 +1532,10 @@
     "answer": "BMW"
   },
   {
+    "question": "Which company owns the Rolls-Royce brand?",
+    "answer": "BMW"
+  },
+  {
     "question": "Which company produced the 'Pagoda' model in the 1960s?",
     "answer": "Mercedes-Benz"
   },
@@ -1566,6 +1606,10 @@
   {
     "question": "Which component reduces engine vibrations?",
     "answer": "Crankshaft damper"
+  },
+  {
+    "question": "Which component reduces oil consumption?",
+    "answer": "Oil catch can"
   },
   {
     "question": "Which component regulates the airflow in an engine?"
@@ -1880,6 +1924,10 @@
   {
     "question": "Who drove for Toyota in 2004?",
     "answer": "Jarno Trulli"
+  },
+  {
+    "question": "Who holds the record for the most wins in the '24 Hours of Le Mans' race as of the end of 2022?",
+    "answer": "Tom Kristensen"
   },
   {
     "question": "Who is a multiple-time WRC champion?"
