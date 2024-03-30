@@ -308,6 +308,10 @@
     "answer": "Rejection of emotions"
   },
   {
+    "question": "How do Jedi avoid detection using the White Current?",
+    "answer": "Concealment"
+  },
+  {
     "question": "How do Jedi control nature?",
     "answer": "Force Harmony"
   },
@@ -869,10 +873,6 @@
     "question": "What Force technique allows Jedi to regain consciousness after using the Dark Side?"
   },
   {
-    "question": "What Jedi ability is considered legendary?",
-    "answer": "Force Ghost"
-  },
-  {
     "question": "What Jedi artifact was Obi-Wan searching for during his mission on Korriban?",
     "answer": "Hyperfocus Crystal"
   },
@@ -883,6 +883,10 @@
   {
     "question": "What Jedi technique remains a secret to the Sith?",
     "answer": "Soul merging"
+  },
+  {
+    "question": "What Sith ability enhances them in battle?",
+    "answer": "Force Lightning"
   },
   {
     "question": "What Sith skill did Darth Vader master?",
@@ -931,6 +935,10 @@
   {
     "question": "What ability did Yoda possess to defend against lightning?",
     "answer": "Lightning reflection"
+  },
+  {
+    "question": "What ability did the Sith have to alter the flow of time?",
+    "answer": "Time distortion"
   },
   {
     "question": "What ability did the Sith use to prevent their destruction?",
@@ -987,6 +995,10 @@
   {
     "question": "What actions did Darth Vader take that led to the destruction of the Jedi Order?",
     "answer": "Order 66"
+  },
+  {
+    "question": "What actions of Darth Vader left an indelible impression on his descendants?",
+    "answer": "Saving Luke"
   },
   {
     "question": "What advantage can the Sith use to destabilize an opponent?",
@@ -1364,10 +1376,6 @@
     "answer": "Clan system"
   },
   {
-    "question": "What cultural values prevail in Mandalorian society?",
-    "answer": "Warrior prowess"
-  },
-  {
     "question": "What danger lies in using the dark side?",
     "answer": "Corruption"
   },
@@ -1382,6 +1390,10 @@
   {
     "question": "What decision did Han make before the Battle of Yavin?",
     "answer": "Leave"
+  },
+  {
+    "question": "What decision did Han make when meeting Leia?",
+    "answer": "Self-denial"
   },
   {
     "question": "What decision of Luke Skywalker influenced the fate of the Jedi?",
@@ -1478,6 +1490,10 @@
   {
     "question": "What does Yoda consider the essence of the Force?",
     "answer": "Balance"
+  },
+  {
+    "question": "What does the Dark Side promise to its followers?",
+    "answer": "Freedom from limitations"
   },
   {
     "question": "What does the Mandalorian helmet symbolize?",
@@ -2238,6 +2254,10 @@
     "answer": "Chewie"
   },
   {
+    "question": "What is Chewbacca's true role in the Alliance?",
+    "answer": "Tactical"
+  },
+  {
     "question": "What is Darkseid's role in the Metaverse?",
     "answer": "Antagonist"
   },
@@ -2272,10 +2292,6 @@
   {
     "question": "What is Yoda's connection with Force Ghosts?",
     "answer": "Training"
-  },
-  {
-    "question": "What is Yoda's role in the Jedi Council?",
-    "answer": "Teacher"
   },
   {
     "question": "What is Yoda's tactic in training students?",
@@ -2358,6 +2374,10 @@
     "answer": "The power of destruction"
   },
   {
+    "question": "What is the device used for instant navigation in space called?",
+    "answer": "Hyperdrive"
+  },
+  {
     "question": "What is the distance called that light travels in one year?",
     "answer": "Light year"
   },
@@ -2430,10 +2450,6 @@
     "answer": "Spectroscopy"
   },
   {
-    "question": "What is the method used to detect exoplanets called?",
-    "answer": "Transit method"
-  },
-  {
     "question": "What is the model of the super battle droid?",
     "answer": "B2"
   },
@@ -2496,6 +2512,10 @@
   {
     "question": "What is the name of the keeper of the Central Battery?",
     "answer": "Gandef"
+  },
+  {
+    "question": "What is the name of the only weapon capable of destroying planets?",
+    "answer": "Death Star"
   },
   {
     "question": "What is the name of the place where Batman stores his costumes?",
@@ -3739,6 +3759,10 @@
     "answer": "Operation Doppelgänger"
   },
   {
+    "question": "What secret plan of Palpatine changed Anakin's fate?",
+    "answer": "Order 66"
+  },
+  {
     "question": "What secret weapon was developed by the Separatists for the Clone Wars?",
     "answer": "Death Star"
   },
@@ -3959,10 +3983,6 @@
     "answer": "Infiltration"
   },
   {
-    "question": "What strategy did Yoda use to ensure his survival in exile?",
-    "answer": "Stealth"
-  },
-  {
     "question": "What strategy did Yoda use to train his students in difficult times?",
     "answer": "Patience"
   },
@@ -3984,6 +4004,10 @@
   {
     "question": "What style did the Jedi prefer for defense?",
     "answer": "Soresu"
+  },
+  {
+    "question": "What style of governance characterizes an emperor?",
+    "answer": "Authoritarianism"
   },
   {
     "question": "What substance was key to creating clones in \"Star Wars\"?",
@@ -4092,6 +4116,10 @@
   {
     "question": "What tactic was used in the Battle of Utapao?",
     "answer": "Guerrilla warfare"
+  },
+  {
+    "question": "What tactic was used to suppress resistance?",
+    "answer": "Intimidation tactics"
   },
   {
     "question": "What tactical action saved Han and Chewbacca from pursuit?",
@@ -4793,10 +4821,6 @@
     "answer": "Fear of loss"
   },
   {
-    "question": "What was the main philosophical conflict in Darth Vader's life?",
-    "answer": "Revenge and forgiveness"
-  },
-  {
     "question": "What was the main purpose of creating the Empire?",
     "answer": "Control over the galaxy"
   },
@@ -5098,6 +5122,10 @@
   {
     "question": "Which 'Star Wars' film contributed to the development of motion capture technology?",
     "answer": "The Phantom Menace"
+  },
+  {
+    "question": "Which 'Star Wars' film is known for the first use of the Dolby sound system?",
+    "answer": "A New Hope"
   },
   {
     "question": "Which 'Star Wars' film was the first in history to include fully CGI scenes?",
@@ -5811,6 +5839,10 @@
   {
     "question": "Which bounty hunter was involved in the assassination attempt on Senator Amidala?",
     "answer": "Zam Wesell"
+  },
+  {
+    "question": "Which bounty hunter was involved in the chase on Tatooine?",
+    "answer": "Boba Fett"
   },
   {
     "question": "Which bounty hunter was killed by Obi-Wan Kenobi?",
@@ -7004,6 +7036,10 @@
     "answer": "Tarkin"
   },
   {
+    "question": "Who did Luke fight on Endor?",
+    "answer": "Darth Vader"
+  },
+  {
     "question": "Who did Yoda fight on Geonosis?",
     "answer": "Dooku"
   },
@@ -7222,6 +7258,10 @@
   {
     "question": "Who was Obi-Wan's apprentice after the events on Naboo?",
     "answer": "Anakin"
+  },
+  {
+    "question": "Who was Vader before becoming a Sith?",
+    "answer": "Jedi"
   },
   {
     "question": "Who was Yoda's mentor?",
