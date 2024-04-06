@@ -24,12 +24,20 @@
     "answer": "Route optimization"
   },
   {
+    "question": "How is AR useful in medicine?",
+    "answer": "3D visualization of surgeries"
+  },
+  {
     "question": "How is augmented reality used in the automotive industry?",
     "answer": "Navigation"
   },
   {
     "question": "How is the distance to stars measured?",
     "answer": "Parallax"
+  },
+  {
+    "question": "How is the value of cryptocurrency determined?",
+    "answer": "Market demand"
   },
   {
     "question": "How many bytes are in the SHA-256 hash function?",
@@ -44,6 +52,14 @@
     "answer": "1996"
   },
   {
+    "question": "In what year were fullerenes discovered?",
+    "answer": "1985"
+  },
+  {
+    "question": "In which field is AR used for staff training?",
+    "answer": "Industry"
+  },
+  {
     "question": "Modern method of creating nanostructures?",
     "answer": "Lithography"
   },
@@ -54,6 +70,10 @@
   {
     "question": "Name one type of virtualization.",
     "answer": "Full virtualization"
+  },
+  {
+    "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
+    "answer": "Art AI"
   },
   {
     "question": "What allows remote management of servers?",
@@ -124,6 +144,10 @@
     "answer": "Nominated Proof of Stake"
   },
   {
+    "question": "What controls access to systems?",
+    "answer": "Authentication"
+  },
+  {
     "question": "What determines the phenotype?",
     "answer": "Genotype and environment"
   },
@@ -180,6 +204,10 @@
     "answer": "Substances at the nanoscale"
   },
   {
+    "question": "What does the Imitation Learning method do?",
+    "answer": "Imitates behavior"
+  },
+  {
     "question": "What does the PCR method do?",
     "answer": "copying DNA"
   },
@@ -202,6 +230,10 @@
   {
     "question": "What ensures uninterrupted communication of the car with the outside world?",
     "answer": "Modem"
+  },
+  {
+    "question": "What feature of IoT devices is critically important?",
+    "answer": "Security"
   },
   {
     "question": "What function is needed to prevent material leakage when the print head moves?",
@@ -232,6 +264,10 @@
     "answer": "Common Vulnerabilities"
   },
   {
+    "question": "What is DeFi in blockchain?",
+    "answer": "Decentralized finance"
+  },
+  {
     "question": "What is ERC-20?",
     "answer": "Token standard"
   },
@@ -250,6 +286,10 @@
   {
     "question": "What is Proof of Stake?",
     "answer": "proof of stake"
+  },
+  {
+    "question": "What is ROM?",
+    "answer": "Read-Only Memory"
   },
   {
     "question": "What is RPA?",
@@ -280,6 +320,10 @@
     "answer": "A program that translates code"
   },
   {
+    "question": "What is a fork in blockchain?",
+    "answer": "Network branching"
+  },
+  {
     "question": "What is a framework?",
     "answer": "A set of tools for software development"
   },
@@ -290,6 +334,10 @@
   {
     "question": "What is a geostationary orbit?",
     "answer": "35,786 kilometers"
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "AI algorithm"
   },
   {
     "question": "What is a quantum dot made of?",
@@ -318,6 +366,10 @@
   {
     "question": "What is enhanced by VR?",
     "answer": "Immersion"
+  },
+  {
+    "question": "What is gene therapy?",
+    "answer": "Therapy with genes"
   },
   {
     "question": "What is integrated into blockchain to enhance transaction anonymity?",
@@ -400,12 +452,20 @@
     "answer": "Genetic recombination"
   },
   {
+    "question": "What is the method of moving robots along a predetermined path called?",
+    "answer": "Path planning"
+  },
+  {
     "question": "What is the name of a robot controlled remotely by a human?",
     "answer": "Ion engine"
   },
   {
     "question": "What is the name of learning using labeled data?",
     "answer": "Supervised learning"
+  },
+  {
+    "question": "What is the name of the AI method used in recommendation systems?",
+    "answer": "Collaborative filtering"
   },
   {
     "question": "What is the name of the VR headset from Valve?",
@@ -512,8 +572,16 @@
     "answer": "Backpropagation"
   },
   {
+    "question": "What is the process of assembling and configuring a robot called?",
+    "answer": "Integration"
+  },
+  {
     "question": "What is the process of composting called?",
     "answer": "Aerobic decomposition"
+  },
+  {
+    "question": "What is the process of gene transfer called?",
+    "answer": "Gene transformation"
   },
   {
     "question": "What is the process of information gathering by robots called?",
@@ -522,6 +590,10 @@
   {
     "question": "What is the process of obtaining energy from atomic nuclei called?",
     "answer": "Nuclear energy"
+  },
+  {
+    "question": "What is the process of protecting data called?",
+    "answer": "Data protection"
   },
   {
     "question": "What is the process of studying the properties of materials at the nanometer level called?",
@@ -556,8 +628,16 @@
     "answer": "Nanocoatings"
   },
   {
+    "question": "What is the technique called that allows the conversion of light energy into electricity at the nanoscale?",
+    "answer": "Photoelectric effect"
+  },
+  {
     "question": "What is the technology called that allows a smartphone to function as a computer?",
     "answer": "DeX"
+  },
+  {
+    "question": "What is the technology called that divides a blockchain into segments?",
+    "answer": "Sharding"
   },
   {
     "question": "What is the technology called that routes voice calls over the internet?",
@@ -588,6 +668,10 @@
     "answer": "Ligases"
   },
   {
+    "question": "What makes a building energy-efficient?",
+    "answer": "Insulating materials"
+  },
+  {
     "question": "What makes validation decentralized?",
     "answer": "All participants"
   },
@@ -606,6 +690,10 @@
   {
     "question": "What mechanism prevents double spending?",
     "answer": "Consensus"
+  },
+  {
+    "question": "What method can be used to introduce genes into a cell?",
+    "answer": "Electroporation"
   },
   {
     "question": "What method is used for genome sequencing?",
@@ -648,6 +736,10 @@
     "answer": "Entanglement"
   },
   {
+    "question": "What problem can arise from poor quality filament?",
+    "answer": "Nozzle clogging"
+  },
+  {
     "question": "What problem is solved by the Proof of Work (PoW) algorithm?",
     "answer": "Double spending"
   },
@@ -664,8 +756,16 @@
     "answer": "Somatic cloning"
   },
   {
+    "question": "What process is used for purifying water in reservoirs?",
+    "answer": "Biofiltration"
+  },
+  {
     "question": "What process is used in fuel cells to generate electricity?",
     "answer": "Electrochemical reaction"
+  },
+  {
+    "question": "What process is used to produce ethanol from sugar-containing materials?",
+    "answer": "Fermentation"
   },
   {
     "question": "What process must be completed before printing a 3D model?",
@@ -820,6 +920,10 @@
     "answer": "Edit genes"
   },
   {
+    "question": "What was the first commercial VR headset?",
+    "answer": "Sega VR"
+  },
+  {
     "question": "Where is the largest solar power plant located?",
     "answer": "India"
   },
@@ -846,6 +950,10 @@
   {
     "question": "Which component converts an input signal into an output?",
     "answer": "Controller"
+  },
+  {
+    "question": "Which component is important for high-quality sound in virtual reality?",
+    "answer": "3D audio"
   },
   {
     "question": "Which component is responsible for changing voltage?",
@@ -928,8 +1036,16 @@
     "answer": "Analytical layer"
   },
   {
+    "question": "Which material is known for its high strength and electrical conductivity?",
+    "answer": "Carbon nanotubes"
+  },
+  {
     "question": "Which material is suitable for bioprinting tissues?",
     "answer": "Hydrogel"
+  },
+  {
+    "question": "Which method allows for the determination of the exact sequence of nucleotides in a DNA molecule?",
+    "answer": "Sequencing"
   },
   {
     "question": "Which method allows the use of metal for 3D printing?",
@@ -938,6 +1054,10 @@
   {
     "question": "Which method reduces overfitting?",
     "answer": "Regularization"
+  },
+  {
+    "question": "Which microscope allows you to see atoms?",
+    "answer": "Scanning tunneling"
   },
   {
     "question": "Which molecule is involved in protecting plants from pathogens?",
@@ -960,12 +1080,20 @@
     "answer": "Sunflower"
   },
   {
+    "question": "Which plants are used for studying genetics?",
+    "answer": "Arabidopsis"
+  },
+  {
     "question": "Which printers use metal powders for printing?",
     "answer": "SLM"
   },
   {
     "question": "Which process improves the properties of materials in nanotechnology?",
     "answer": "Defect control"
+  },
+  {
+    "question": "Which proteins are involved in the body's immune response?",
+    "answer": "Antibodies"
   },
   {
     "question": "Which protocol protects emails?",
@@ -978,6 +1106,10 @@
   {
     "question": "Which rocket uses methane engines?",
     "answer": "Starship"
+  },
+  {
+    "question": "Which satellite monitors the global sea level?",
+    "answer": "Jason-3"
   },
   {
     "question": "Which science studies the interaction of nanoparticles with cells?",
@@ -1016,6 +1148,14 @@
     "answer": "Atomic microscope"
   },
   {
+    "question": "Which technology facilitates motion tracking in virtual reality?",
+    "answer": "Markers"
+  },
+  {
+    "question": "Which technology helps reduce energy consumption in homes?",
+    "answer": "Smart windows"
+  },
+  {
     "question": "Which technology helps to avoid collisions?",
     "answer": "ADAS"
   },
@@ -1034,6 +1174,10 @@
   {
     "question": "Who can validate transactions in a public blockchain?",
     "answer": "Anyone"
+  },
+  {
+    "question": "Who introduces genetic material into microorganisms?",
+    "answer": "Synthetic biologist"
   },
   {
     "question": "Who is considered a pioneer in the field of nanotechnology?",
