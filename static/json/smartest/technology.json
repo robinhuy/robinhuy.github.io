@@ -48,6 +48,10 @@
     "answer": "5"
   },
   {
+    "question": "How to prevent data leakage?",
+    "answer": "Disk encryption"
+  },
+  {
     "question": "In what year was Dolly the sheep cloned?",
     "answer": "1996"
   },
@@ -70,6 +74,10 @@
   {
     "question": "Name one type of virtualization.",
     "answer": "Full virtualization"
+  },
+  {
+    "question": "Name the type of bioenergy resource:",
+    "answer": "Biogas"
   },
   {
     "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
@@ -172,6 +180,10 @@
     "answer": "Find vulnerabilities"
   },
   {
+    "question": "What does FDM stand for?",
+    "answer": "Fused Deposition Modeling"
+  },
+  {
     "question": "What does SIEM do?",
     "answer": "Collects events"
   },
@@ -216,6 +228,10 @@
     "answer": "Multi-Factor Authentication"
   },
   {
+    "question": "What does the abbreviation RFID stand for?",
+    "answer": "Radio Frequency Identification"
+  },
+  {
     "question": "What does the term 'code injection' mean?",
     "answer": "Code insertion"
   },
@@ -240,12 +256,20 @@
     "answer": "Retraction"
   },
   {
+    "question": "What helps reduce energy consumption in IoT?",
+    "answer": "energy-saving modules"
+  },
+  {
     "question": "What helps to reduce energy consumption?",
     "answer": "Smart lighting"
   },
   {
     "question": "What helps to reduce water consumption?",
     "answer": "Drip irrigation"
+  },
+  {
+    "question": "What instrument is used to detect gravitational waves?",
+    "answer": "LIGO"
   },
   {
     "question": "What instruments are used to analyze the atmospheres of planets?",
@@ -284,6 +308,10 @@
     "answer": "Internet Protocol"
   },
   {
+    "question": "What is Level 5 autonomous driving?",
+    "answer": "Full autonomy"
+  },
+  {
     "question": "What is Proof of Stake?",
     "answer": "proof of stake"
   },
@@ -308,12 +336,20 @@
     "answer": "Infrastructure as Code"
   },
   {
+    "question": "What is a GAN?",
+    "answer": "Generative Adversarial Network"
+  },
+  {
     "question": "What is a Load Balancer?",
     "answer": "Load Balancer"
   },
   {
     "question": "What is a Trojan program?",
     "answer": "Disguising as legitimate software"
+  },
+  {
+    "question": "What is a biomarker?",
+    "answer": "Protein"
   },
   {
     "question": "What is a compiler?",
@@ -334,6 +370,10 @@
   {
     "question": "What is a geostationary orbit?",
     "answer": "35,786 kilometers"
+  },
+  {
+    "question": "What is a hard fork?",
+    "answer": "Network upgrade"
   },
   {
     "question": "What is a neural network?",
@@ -358,6 +398,10 @@
   {
     "question": "What is backpropagation?",
     "answer": "Training algorithm"
+  },
+  {
+    "question": "What is bioenergy?",
+    "answer": "Energy from biomass"
   },
   {
     "question": "What is considered a cyber attack?",
@@ -392,6 +436,10 @@
     "answer": "Connection of qubits"
   },
   {
+    "question": "What is recombinant DNA?",
+    "answer": "Modified DNA"
+  },
+  {
     "question": "What is responsible for data analysis in the IoT ecosystem?",
     "answer": "Analytics"
   },
@@ -424,6 +472,10 @@
     "answer": "Real-time display"
   },
   {
+    "question": "What is the goal of gene therapy?",
+    "answer": "Restoration of gene functions"
+  },
+  {
     "question": "What is the goal of self-learning AI systems?",
     "answer": "Improving performance"
   },
@@ -436,6 +488,10 @@
     "answer": "Entropy"
   },
   {
+    "question": "What is the main challenge of quantum computing?",
+    "answer": "Decoherence"
+  },
+  {
     "question": "What is the main issue that can occur during 3D printing?",
     "answer": "Warping"
   },
@@ -446,6 +502,10 @@
   {
     "question": "What is the mechanism for reaching consensus called?",
     "answer": "Algorithm"
+  },
+  {
+    "question": "What is the method called by which robots interact with their environment?",
+    "answer": "Sensing"
   },
   {
     "question": "What is the method of artificially combining genetic material from different sources called?",
@@ -474,6 +534,10 @@
   {
     "question": "What is the name of the blockchain gambling platform?",
     "answer": "FunFair"
+  },
+  {
+    "question": "What is the name of the classification method using trees?",
+    "answer": "Decision trees"
   },
   {
     "question": "What is the name of the computer vision technology used in smartphones?",
@@ -592,6 +656,10 @@
     "answer": "Nuclear energy"
   },
   {
+    "question": "What is the process of production optimization called?",
+    "answer": "Kaizen"
+  },
+  {
     "question": "What is the process of protecting data called?",
     "answer": "Data protection"
   },
@@ -628,12 +696,20 @@
     "answer": "Nanocoatings"
   },
   {
+    "question": "What is the software for programming controllers called?",
+    "answer": "PLC software"
+  },
+  {
     "question": "What is the technique called that allows the conversion of light energy into electricity at the nanoscale?",
     "answer": "Photoelectric effect"
   },
   {
     "question": "What is the technology called that allows a smartphone to function as a computer?",
     "answer": "DeX"
+  },
+  {
+    "question": "What is the technology called that assesses road conditions in real-time?",
+    "answer": "Telemetry"
   },
   {
     "question": "What is the technology called that divides a blockchain into segments?",
@@ -668,6 +744,10 @@
     "answer": "Ligases"
   },
   {
+    "question": "What limits the current development of quantum computers?",
+    "answer": "Decoherence"
+  },
+  {
     "question": "What makes a building energy-efficient?",
     "answer": "Insulating materials"
   },
@@ -696,6 +776,10 @@
     "answer": "Electroporation"
   },
   {
+    "question": "What method is used for gene sequencing?",
+    "answer": "DNA sequencing"
+  },
+  {
     "question": "What method is used for genome sequencing?",
     "answer": "Sanger sequencing"
   },
@@ -722,6 +806,10 @@
   {
     "question": "What method is used to introduce genes into cells outside the chromosome?",
     "answer": "Transfection"
+  },
+  {
+    "question": "What method is used to optimize weights in a neural network?",
+    "answer": "Backpropagation"
   },
   {
     "question": "What method is used to verify a user's identity using multiple factors?",
@@ -800,6 +888,10 @@
     "answer": "Threat detection systems"
   },
   {
+    "question": "What regulates the rotational speed of an electric motor?",
+    "answer": "Frequency converter"
+  },
+  {
     "question": "What resolution is suitable for a high-quality VR experience?",
     "answer": "4K"
   },
@@ -810,6 +902,14 @@
   {
     "question": "What skill does augmented reality train in manufacturing?",
     "answer": "accuracy"
+  },
+  {
+    "question": "What software assists in forecasting for autonomous vehicles?",
+    "answer": "Predictive analytics system"
+  },
+  {
+    "question": "What software is used for scanning network traffic?",
+    "answer": "Sniffers"
   },
   {
     "question": "What state can eliminate errors in quantum computing?",
@@ -928,6 +1028,10 @@
     "answer": "India"
   },
   {
+    "question": "Which companies collaborate in the field of VR content?",
+    "answer": "Google and Sony"
+  },
+  {
     "question": "Which company created the Kubernetes project?",
     "answer": "Google"
   },
@@ -946,6 +1050,10 @@
   {
     "question": "Which company was the first to introduce a VR headset to the general public?",
     "answer": "Meta"
+  },
+  {
+    "question": "Which company was the first to launch a smartphone with a curved screen?",
+    "answer": "Samsung"
   },
   {
     "question": "Which component converts an input signal into an output?",
@@ -998,6 +1106,14 @@
   {
     "question": "Which element is needed for nuclear reactors?",
     "answer": "Uranium"
+  },
+  {
+    "question": "Which element is often used to create qubits in quantum computers?",
+    "answer": "Superconductors"
+  },
+  {
+    "question": "Which element is used in hydrogen fuel cells?",
+    "answer": "Platinum"
   },
   {
     "question": "Which element is used in spacecraft fuel?",
@@ -1076,6 +1192,14 @@
     "answer": "ISO"
   },
   {
+    "question": "Which parameter of a 3D printer determines the amount of material extruded over a certain period of time?",
+    "answer": "Flow"
+  },
+  {
+    "question": "Which plant uses the Earth's heat?",
+    "answer": "Geothermal plant"
+  },
+  {
     "question": "Which plants are used for phytoremediation technology?",
     "answer": "Sunflower"
   },
@@ -1152,6 +1276,10 @@
     "answer": "Markers"
   },
   {
+    "question": "Which technology helps reduce electricity consumption in the home?",
+    "answer": "Smart home"
+  },
+  {
     "question": "Which technology helps reduce energy consumption in homes?",
     "answer": "Smart windows"
   },
@@ -1162,6 +1290,10 @@
   {
     "question": "Which technology is used to create isolated containers?",
     "answer": "Docker"
+  },
+  {
+    "question": "Which test assesses a machine's ability to mimic human thinking?",
+    "answer": "Turing Test"
   },
   {
     "question": "Which tool checks for vulnerabilities?",
@@ -1176,6 +1308,10 @@
     "answer": "Anyone"
   },
   {
+    "question": "Who developed the laws of robotics?",
+    "answer": "Isaac Asimov"
+  },
+  {
     "question": "Who introduces genetic material into microorganisms?",
     "answer": "Synthetic biologist"
   },
@@ -1184,8 +1320,16 @@
     "answer": "Eric Drexler"
   },
   {
+    "question": "Who is the founder of the concept of IoT?",
+    "answer": "Kevin Ashton"
+  },
+  {
     "question": "Who is the primary user of AR in construction?",
     "answer": "Designers"
+  },
+  {
+    "question": "Who proposed the idea of a quantum computer?",
+    "answer": "Richard Feynman"
   },
   {
     "question": "Who proposed the idea of manipulating atoms?",
