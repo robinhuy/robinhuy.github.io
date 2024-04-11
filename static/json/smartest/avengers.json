@@ -228,6 +228,10 @@
     "answer": "Secret Wars"
   },
   {
+    "question": "In which Marvel arc do heroes fight in an alternate reality created by a powerful artifact?",
+    "answer": "Secret Wars"
+  },
+  {
     "question": "In which Marvel movie can you notice a hint of space pirates?",
     "answer": "Guardians of the Galaxy"
   },
@@ -1084,6 +1088,10 @@
     "answer": "The Skrull Uprising"
   },
   {
+    "question": "What event caused Captain Marvel to change the direction of the mission?",
+    "answer": "Interstellar conflict"
+  },
+  {
     "question": "What event caused Scott Lang to change his life and take on the role of Ant-Man?",
     "answer": "Family tragedy"
   },
@@ -1222,6 +1230,10 @@
   {
     "question": "What event initiated the 'Secret Wars'?",
     "answer": "Conflict with the Beyonder"
+  },
+  {
+    "question": "What event led Captain Marvel to ally with the Avengers?",
+    "answer": "Skrull Invasion"
   },
   {
     "question": "What event led Doctor Strange to seek a cure?",
@@ -1668,6 +1680,10 @@
     "answer": "Hulk"
   },
   {
+    "question": "What is Captain America's involvement in the Civil War?",
+    "answer": "Leader of a faction"
+  },
+  {
     "question": "What is Captain America's real name?",
     "answer": "Steve Rogers"
   },
@@ -1784,6 +1800,18 @@
     "answer": "Adaptation"
   },
   {
+    "question": "What is the access code to the safe in 'Captain America: The Winter Soldier' that matches the code from the comic?",
+    "answer": "1941"
+  },
+  {
+    "question": "What is the alter ego of Hulk associated with his intellectual form?",
+    "answer": "Maestro"
+  },
+  {
+    "question": "What is the alter ego of Spider-Man in the alternate universe of 2099?",
+    "answer": "Miguel O'Hara"
+  },
+  {
     "question": "What is the alter ego of Steve Rogers?",
     "answer": "Captain America"
   },
@@ -1866,6 +1894,10 @@
   {
     "question": "What is the most efficient method of transportation in space?",
     "answer": "Rocket engine"
+  },
+  {
+    "question": "What is the mystical energy called that wizards in Marvel use for spells?",
+    "answer": "Magical Essence"
   },
   {
     "question": "What is the name of Colossus's sister?",
@@ -1958,6 +1990,10 @@
   {
     "question": "What is the name of the alternative version of Captain America from Marvel comics?",
     "answer": "U.S. Agent"
+  },
+  {
+    "question": "What is the name of the ancient spellbook in the Marvel universe that contains powerful enchantments?",
+    "answer": "Necronomicon"
   },
   {
     "question": "What is the name of the antagonist known for his attacks using technologically advanced armor?",
@@ -2216,6 +2252,10 @@
     "answer": "Baron Zemo"
   },
   {
+    "question": "What is the name of the villainous organization opposing the X-Men?",
+    "answer": "The Brotherhood"
+  },
+  {
     "question": "What is the nature of human relationships with the environment?",
     "answer": "Cooperation"
   },
@@ -2440,6 +2480,10 @@
     "answer": "Vishanti Shield"
   },
   {
+    "question": "What magical element is used for communication with other worlds?",
+    "answer": "Ritual"
+  },
+  {
     "question": "What magical object controls space?",
     "answer": "Cube"
   },
@@ -2542,6 +2586,10 @@
   {
     "question": "What metal is a unique resource of Wakanda?",
     "answer": "Vibranium"
+  },
+  {
+    "question": "What metal is in Wolverine's bones?",
+    "answer": "Adamantium"
   },
   {
     "question": "What metallic element is contained in Thor's hammer?",
@@ -2666,6 +2714,10 @@
   {
     "question": "What nickname does the main character use to hide his identity?",
     "answer": "Star-Lord"
+  },
+  {
+    "question": "What nickname was given to Clint Barton in the team?",
+    "answer": "Hawkeye"
   },
   {
     "question": "What number does Peter Parker wear on his shirt in the movie 'Spider-Man: Homecoming'?",
@@ -2830,6 +2882,10 @@
   {
     "question": "What principle allowed the creation of armor capable of changing shape?",
     "answer": "Metamorphosis"
+  },
+  {
+    "question": "What principle is important for the future of Wakanda?",
+    "answer": "Innovation"
   },
   {
     "question": "What principles is Captain America's leadership among the Avengers based on?",
@@ -3336,6 +3392,10 @@
     "answer": "Chronos Spells"
   },
   {
+    "question": "What strategic plan did Tony Stark develop to fight Ultron?",
+    "answer": "Iron Legion"
+  },
+  {
     "question": "What strategic role does Ant-Man play in the team?",
     "answer": "Key"
   },
@@ -3470,6 +3530,10 @@
   {
     "question": "What tactic does Captain Marvel use to prevent crises?",
     "answer": "Direct intervention"
+  },
+  {
+    "question": "What tactic does Captain Marvel use to protect Earth?",
+    "answer": "Strength"
   },
   {
     "question": "What talent distinguishes Peter in science?",
@@ -3726,6 +3790,10 @@
   {
     "question": "What was Doctor Strange's profession before he became a sorcerer?",
     "answer": "Surgeon"
+  },
+  {
+    "question": "What was Thor's main goal in his journeys?",
+    "answer": "Protection of the worlds"
   },
   {
     "question": "What was Thor's objective in the battle of Jotunheim?",
@@ -4156,6 +4224,10 @@
     "answer": "The Leader"
   },
   {
+    "question": "Which Marvel villain became one as a result of a failed radiation experiment?",
+    "answer": "Abomination"
+  },
+  {
     "question": "Which Marvel villain can control shadows and often encounters Doctor Strange?",
     "answer": "Mephisto"
   },
@@ -4392,12 +4464,20 @@
     "answer": "Rogers' sacrifice"
   },
   {
+    "question": "Which action by one of the characters became a turning point in the fight against a global threat?",
+    "answer": "Tony's sacrifice"
+  },
+  {
     "question": "Which actor played Ant-Man in the Marvel Cinematic Universe?",
     "answer": "Paul Rudd"
   },
   {
     "question": "Which actor played the role of Hulk in the movie 'The Avengers'?",
     "answer": "Mark Ruffalo"
+  },
+  {
+    "question": "Which actor played the role of Tony Stark?",
+    "answer": "Robert Downey Jr."
   },
   {
     "question": "Which actress played Virginia 'Pepper' Potts in the Marvel Cinematic Universe?",
@@ -4640,6 +4720,10 @@
     "answer": "The Darkhold book"
   },
   {
+    "question": "Which artifact played a crucial role in the making of Captain Marvel?",
+    "answer": "Tesseract"
+  },
+  {
     "question": "Which artifact played a key role in the comic 'Secret Wars'?",
     "answer": "Thor's Hammer"
   },
@@ -4686,6 +4770,10 @@
   {
     "question": "Which aspect of quantum research is crucial?",
     "answer": "Temporal"
+  },
+  {
+    "question": "Which attack prompted the use of 'Omega' protocols against the X-Men?",
+    "answer": "Phoenix Force"
   },
   {
     "question": "Which battle made Carol Danvers reconsider her beliefs as Captain Marvel?",
@@ -4838,6 +4926,10 @@
   {
     "question": "Which character helps protect Asgard?",
     "answer": "Heimdall"
+  },
+  {
+    "question": "Which character in 'The Avengers' has the ability to alter probability?",
+    "answer": "Scarlet Witch"
   },
   {
     "question": "Which character in 'The Avengers' is capable of manipulating electromagnetic fields?",
@@ -5056,6 +5148,10 @@
     "answer": "Tony Stark"
   },
   {
+    "question": "Which character used technology to create spider robots?",
+    "answer": "Doctor Octopus"
+  },
+  {
     "question": "Which character uses a mechanized suit to fight crime and threats on a global level?",
     "answer": "Tony Stark"
   },
@@ -5200,6 +5296,10 @@
     "answer": "Deadpool: Eternal"
   },
   {
+    "question": "Which comic features Deadpool in an alternate universe?",
+    "answer": "Deadpool: Noir"
+  },
+  {
     "question": "Which comic features Hulk battling cosmic threats?",
     "answer": "World War Hulk"
   },
@@ -5276,12 +5376,20 @@
     "answer": "Wong"
   },
   {
+    "question": "Which creature can grant power to a sorcerer in the Marvel universe?",
+    "answer": "Elder God"
+  },
+  {
     "question": "Which creature from \"Guardians of the Galaxy\" is only able to say one phrase?",
     "answer": "Groot"
   },
   {
     "question": "Which creature from the Marvel universe is associated with time manipulation?",
     "answer": "Destiny Clock"
+  },
+  {
+    "question": "Which creature in the team is a dancer?",
+    "answer": "Groot"
   },
   {
     "question": "Which creature is an ally of the Guardians of the Galaxy and has the ability to regenerate?",
@@ -5518,6 +5626,10 @@
   {
     "question": "Which event in the Marvel Cinematic Universe is associated with the discovery of the Quantum Realm?",
     "answer": "Time travel"
+  },
+  {
+    "question": "Which event in the comics led to the creation of the multiverse with mystical powers?",
+    "answer": "Time War"
   },
   {
     "question": "Which event revealed Spider-Man's secret identity?",
@@ -5780,6 +5892,10 @@
     "answer": "Order of Mages"
   },
   {
+    "question": "Which magical technique in Marvel can create an illusion of invisibility?",
+    "answer": "Concealment"
+  },
+  {
     "question": "Which member of the 'Avengers' was the first to make contact with Carol Danvers?",
     "answer": "Nick Fury"
   },
@@ -5838,6 +5954,10 @@
   {
     "question": "Which mutant can change their density?",
     "answer": "Shadowcat"
+  },
+  {
+    "question": "Which mutant can phase through walls?",
+    "answer": "Kitty Pryde"
   },
   {
     "question": "Which mutant can survive any situation thanks to their regenerative factor?",
@@ -5970,6 +6090,10 @@
   {
     "question": "Which organization in Marvel is responsible for protecting Earth from alien threats?",
     "answer": "S.W.O.R.D."
+  },
+  {
+    "question": "Which organization in Wakanda is responsible for protecting the royal family?",
+    "answer": "Dora Milaje"
   },
   {
     "question": "Which organization in the Marvel universe most often coordinates the actions of superheroes?",
@@ -6224,6 +6348,10 @@
     "answer": "The Other"
   },
   {
+    "question": "Which storyline describes the conflict between heroes and the Skrulls?",
+    "answer": "Secret Invasion"
+  },
+  {
     "question": "Which storyline describes the conflict with the gods?",
     "answer": "Asgardian War"
   },
@@ -6250,6 +6378,10 @@
   {
     "question": "Which storyline revealed Peter Parker's identity?",
     "answer": "Civil War"
+  },
+  {
+    "question": "Which superhero alliance includes Tony Stark?",
+    "answer": "The Avengers"
   },
   {
     "question": "Which superhero attribute appears in the background in the movie 'Spider-Man: Homecoming'?",
@@ -6280,12 +6412,20 @@
     "answer": "Captain Marvel"
   },
   {
+    "question": "Which superhero first noticed changes in Spider-Man's behavior under the influence of the symbiote?",
+    "answer": "Fantastic Four"
+  },
+  {
     "question": "Which superhero fought against the Hulk?",
     "answer": "Iron Man"
   },
   {
     "question": "Which superhero from the Avengers team interacts with other heroes to combat global threats?",
     "answer": "Iron Man"
+  },
+  {
+    "question": "Which superhero from the Marvel universe often faces internal conflicts related to his past and modern ideals?",
+    "answer": "Captain America"
   },
   {
     "question": "Which superhero group often fights alongside Ant-Man?",
@@ -6632,6 +6772,10 @@
     "answer": "Peter Parker"
   },
   {
+    "question": "Which version of armor did Tony Stark use for time travel?",
+    "answer": "Mark 85"
+  },
+  {
     "question": "Which version of armor is capable of functioning underwater?",
     "answer": "Hydro Armor"
   },
@@ -6710,6 +6854,10 @@
   {
     "question": "Which villain is known for his genetic experiments to create the perfect organism?",
     "answer": "High Evolutionary"
+  },
+  {
+    "question": "Which villain is known for manipulating space and time to achieve their ambitions?",
+    "answer": "Lord of Chaos"
   },
   {
     "question": "Which villain is known for their alchemical knowledge?",
@@ -7076,6 +7224,10 @@
     "answer": "Dark King"
   },
   {
+    "question": "Who invented the Hulk?",
+    "answer": "Stan Lee"
+  },
+  {
     "question": "Who invented the antidote for the Hulk?",
     "answer": "Bruce Banner"
   },
@@ -7086,6 +7238,10 @@
   {
     "question": "Who is Deadpool's arch-enemy?",
     "answer": "Taskmaster"
+  },
+  {
+    "question": "Who is Odin's wife in Asgardian myths?",
+    "answer": "Frigg"
   },
   {
     "question": "Who is Rogue's father?",
@@ -7168,6 +7324,10 @@
     "answer": "Peter Parker"
   },
   {
+    "question": "Who is the director of the company where Peter Parker worked after Horizon Labs?",
+    "answer": "Max Modell"
+  },
+  {
     "question": "Who is the editor-in-chief of the Daily Bugle newspaper?",
     "answer": "J. Jonah Jameson"
   },
@@ -7192,6 +7352,10 @@
     "answer": "Thor"
   },
   {
+    "question": "Who is the keeper of the library in Kamar-Taj?",
+    "answer": "Wong"
+  },
+  {
     "question": "Who is the leader of mutants who uses his abilities to create chaos?",
     "answer": "Apocalypse"
   },
@@ -7200,12 +7364,20 @@
     "answer": "Reed Richards"
   },
   {
+    "question": "Who is the leader of the Guardians of the Galaxy?",
+    "answer": "Star-Lord"
+  },
+  {
     "question": "Who is the leader of the X-Men?",
     "answer": "Cyclops"
   },
   {
     "question": "Who is the leader of the secret guard of Wakanda?",
     "answer": "Okoye"
+  },
+  {
+    "question": "Who is the main enemy of Black Panther?",
+    "answer": "Killmonger"
   },
   {
     "question": "Who is the main enemy of Thanos in the Marvel Cinematic Universe?",
@@ -7250,6 +7422,10 @@
   {
     "question": "Who leads scientific research in Wakanda?",
     "answer": "Shuri"
+  },
+  {
+    "question": "Who leads the group of thieves in Marvel comics?",
+    "answer": "The Hood"
   },
   {
     "question": "Who leads the organization S.H.I.E.L.D.?",
@@ -7348,6 +7524,10 @@
     "answer": "Thanos"
   },
   {
+    "question": "Who voiced Captain Marvel in animated series?",
+    "answer": "Grey DeLisle"
+  },
+  {
     "question": "Who voiced Deadpool in the movies?",
     "answer": "Ryan Reynolds"
   },
@@ -7366,6 +7546,10 @@
   {
     "question": "Who was Spider-Man's enemy in the 'Secret Wars' crossover?",
     "answer": "Doctor Doom"
+  },
+  {
+    "question": "Who was responsible for the exile of the Hulk?",
+    "answer": "The Avengers"
   },
   {
     "question": "Who was the antagonist in the movie about Steve Rogers?",

@@ -851,6 +851,10 @@
     "answer": "Ahch-To"
   },
   {
+    "question": "On which planet was Anakin born?",
+    "answer": "Tatooine"
+  },
+  {
     "question": "On which planet was Boba Fett cloned?",
     "answer": "Kamino"
   },
@@ -1031,6 +1035,10 @@
   {
     "question": "What advantage can the Sith use to destabilize an opponent?",
     "answer": "Fear"
+  },
+  {
+    "question": "What advantage did the Sith gain from using fear?",
+    "answer": "Control over the opponent"
   },
   {
     "question": "What advantage did the Sith gain in long duels?",
@@ -1388,12 +1396,20 @@
     "answer": "Hierarchy"
   },
   {
+    "question": "What concept defines Mandalorian authority?",
+    "answer": "Strength through unity"
+  },
+  {
     "question": "What concept was key in early philosophy?",
     "answer": "Harmony"
   },
   {
     "question": "What concept was key in the early philosophy of the Jedi?",
     "answer": "Dualism"
+  },
+  {
+    "question": "What conceptual idea became the basis for the robots in the film series?",
+    "answer": "Avoidance of anthropomorphism"
   },
   {
     "question": "What consequence can abuse of power have?",
@@ -2098,6 +2114,10 @@
     "answer": "Blacksmithing"
   },
   {
+    "question": "What function does a hyperspace radar perform on ships?",
+    "answer": "Determining location"
+  },
+  {
     "question": "What fundamental principle characterizes the policy of the Empire?",
     "answer": "Centralization of power"
   },
@@ -2476,6 +2496,10 @@
   {
     "question": "What is the main reason for the fall of the Jedi Order?",
     "answer": "Corruption"
+  },
+  {
+    "question": "What is the main source of energy for a star throughout its life?",
+    "answer": "Nuclear fusion reactions"
   },
   {
     "question": "What is the meaning of 'false beacon' for Han and Chewbacca?",
@@ -2934,6 +2958,10 @@
     "answer": "Plastoid"
   },
   {
+    "question": "What means did the Empire use to maintain communication with distant garrisons?",
+    "answer": "Holographic transmitters"
+  },
+  {
     "question": "What means of communication allowed the Empire to control its armies?",
     "answer": "Hologram"
   },
@@ -3044,6 +3072,10 @@
   {
     "question": "What method of communication did Obi-Wan use to contact the Jedi Council?",
     "answer": "Holo-transmitter"
+  },
+  {
+    "question": "What method of intimidation did the Empire use to suppress uprisings in controlled worlds?",
+    "answer": "Show of force"
   },
   {
     "question": "What method of learning is considered the most effective by the Sith?",
@@ -3294,6 +3326,10 @@
     "answer": "Power through fear"
   },
   {
+    "question": "What philosophical principle was the foundation for the Jedi?",
+    "answer": "Asceticism"
+  },
+  {
     "question": "What philosophy defines Mandalorian tactics?",
     "answer": "War"
   },
@@ -3420,12 +3456,20 @@
     "answer": "Force choke"
   },
   {
+    "question": "What power was used to restore memories?",
+    "answer": "Psychometry"
+  },
+  {
     "question": "What principle allows Jedi to anticipate attacks when using a lightsaber?",
     "answer": "Force Sense"
   },
   {
     "question": "What principle became the foundation of Luke's child-rearing?",
     "answer": "Harmony with the Force"
+  },
+  {
+    "question": "What principle determined the training of Jedi in ancient times?",
+    "answer": "Discipline"
   },
   {
     "question": "What principle does Yoda consider key in training Jedi?",
@@ -3747,6 +3791,10 @@
     "answer": "Central"
   },
   {
+    "question": "What role do energy shields play in fleet defense?",
+    "answer": "Blocking attacks"
+  },
+  {
     "question": "What role do ion cannons play in space battles?",
     "answer": "Disabling electronics"
   },
@@ -3989,6 +4037,10 @@
   {
     "question": "What strategic element determined the khan's victory?",
     "answer": "Surprise attack"
+  },
+  {
+    "question": "What strategic element determined the success of Han and Chewbacca in the battle?",
+    "answer": "Agility"
   },
   {
     "question": "What strategic element was used in star battles?",
@@ -4269,6 +4321,10 @@
     "answer": "Force Absorption"
   },
   {
+    "question": "What technique allows the Sith to enhance their physical power?",
+    "answer": "Force Rage"
+  },
+  {
     "question": "What technique allows the Sith to extend life?",
     "answer": "Dark Alchemy"
   },
@@ -4307,6 +4363,10 @@
   {
     "question": "What technique did Palpatine use for immortality?",
     "answer": "Spirit transfer"
+  },
+  {
+    "question": "What technique did Yoda use to help him control the Force?",
+    "answer": "Meditation"
   },
   {
     "question": "What technique did Yoda use to move objects?",
@@ -4633,6 +4693,10 @@
     "answer": "Pulsar"
   },
   {
+    "question": "What type of sword has the unique ability to deflect attacks?",
+    "answer": "Lightsaber"
+  },
+  {
     "question": "What type of transport did the separatists use for a quick attack?",
     "answer": "Droid flying tank"
   },
@@ -4687,6 +4751,10 @@
   {
     "question": "What type of weapon do bounty hunters prefer for capturing targets?",
     "answer": "Electrostaff"
+  },
+  {
+    "question": "What type of weapon does Boba Fett use?",
+    "answer": "EE-3 Blaster"
   },
   {
     "question": "What type of weapon does Darth Maul use?",
@@ -6158,6 +6226,10 @@
     "answer": "Kaminoans"
   },
   {
+    "question": "Which creature symbolizes wisdom?",
+    "answer": "Owl"
+  },
+  {
     "question": "Which creatures in 'Star Wars' were trained by the Jedi?",
     "answer": "Yoda"
   },
@@ -6630,6 +6702,10 @@
   {
     "question": "Which organization is based on Coruscant and controls the clone army?",
     "answer": "Galactic Republic"
+  },
+  {
+    "question": "Which organization opposed the Republic in the Clone Wars?",
+    "answer": "Confederacy of Independent Systems"
   },
   {
     "question": "Which organization played a key role in forming the Jedi Code?",
@@ -7542,6 +7618,10 @@
   {
     "question": "Who wore the Red Hood mantle before the Joker?",
     "answer": "Jason Todd"
+  },
+  {
+    "question": "Whom did Obi-Wan train at a young age?",
+    "answer": "Anakin Skywalker"
   },
   {
     "question": "Whom was Obi-Wan pursuing on the planet Utapau?",
