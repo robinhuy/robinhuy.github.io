@@ -20,6 +20,14 @@
     "answer": "24 hours"
   },
   {
+    "question": "In which century did rice cultivation begin?",
+    "answer": "7th century"
+  },
+  {
+    "question": "In which century did they start making marzipan?",
+    "answer": "15th century"
+  },
+  {
     "question": "In which dish is fugu fish used?",
     "answer": "Sashimi"
   },
@@ -40,6 +48,14 @@
     "answer": "Brisket"
   },
   {
+    "question": "What Brazilian sweet is made from coconut and condensed milk?",
+    "answer": "Cocada"
+  },
+  {
+    "question": "What alcohol is traditionally used in a 'Stinger' cocktail?",
+    "answer": "Cognac"
+  },
+  {
     "question": "What are Japanese dumplings with filling called?",
     "answer": "Gyoza"
   },
@@ -48,8 +64,16 @@
     "answer": "Quark"
   },
   {
+    "question": "What cocktail's name translates from Spanish as 'rooster's tail'?",
+    "answer": "Cocktail"
+  },
+  {
     "question": "What cooking method is popular in Argentine cuisine?",
     "answer": "Asado"
+  },
+  {
+    "question": "What dessert is served at the Indian festival of Holi?",
+    "answer": "Gujia"
   },
   {
     "question": "What dish is made from chicken wings?",
@@ -58,6 +82,10 @@
   {
     "question": "What dish is made from eggplants?",
     "answer": "Moussaka"
+  },
+  {
+    "question": "What dish is popular at street festivals in Germany?",
+    "answer": "Bratwurst"
   },
   {
     "question": "What dish is prepared during Navratri in India?",
@@ -108,6 +136,10 @@
     "answer": "Coconut"
   },
   {
+    "question": "What is 'confit'?",
+    "answer": "Cooking in fat"
+  },
+  {
     "question": "What is a New Year tradition in Peru?",
     "answer": "Chiriuchu"
   },
@@ -140,8 +172,24 @@
     "answer": "Preserves vitamins"
   },
   {
+    "question": "What is the chemical process of creating soft textures called?",
+    "answer": "Gelation"
+  },
+  {
     "question": "What is the cooking method called where food is partially immersed in boiling water?",
     "answer": "Blanching"
+  },
+  {
+    "question": "What is the cooking technique called that uses low temperatures in oil?",
+    "answer": "Confit"
+  },
+  {
+    "question": "What is the dessert with ice cream balls called?",
+    "answer": "Profiteroles"
+  },
+  {
+    "question": "What is the dish made from finely chopped raw and cured meat called?",
+    "answer": "Tartare"
   },
   {
     "question": "What is the dish made from raw fish called?",
@@ -158,6 +206,10 @@
   {
     "question": "What is the method of freezing using very low temperatures called?",
     "answer": "Cryogenic freezing"
+  },
+  {
+    "question": "What is the method of preparing dough by repeatedly folding and layering called?",
+    "answer": "Laminating"
   },
   {
     "question": "What is the method of preparing egg white desserts by adding hot syrup to the egg whites called?",
@@ -246,6 +298,10 @@
   {
     "question": "What is the process called when a liquid is evaporated to give a sauce thickness and rich flavor?",
     "answer": "Reduction"
+  },
+  {
+    "question": "What is the process called where hydrocolloids are used for thickening?",
+    "answer": "Hydrocolloid thickening"
   },
   {
     "question": "What is the process of adding cold butter to a hot sauce called?",
@@ -344,6 +400,10 @@
     "answer": "hollandaise"
   },
   {
+    "question": "What sauce is traditionally served with yakitori?",
+    "answer": "Teriyaki"
+  },
+  {
     "question": "What slicing technique is used for thin slices of meat?",
     "answer": "Carpaccio"
   },
@@ -380,8 +440,16 @@
     "answer": "Entaliometer"
   },
   {
+    "question": "What traditional Danish dish includes fish in vinegar?",
+    "answer": "Pickled herring"
+  },
+  {
     "question": "What traditional Mexican dish is made from cornmeal?",
     "answer": "Tamale"
+  },
+  {
+    "question": "What traditional dish is served at French weddings?",
+    "answer": "Croquembouche"
   },
   {
     "question": "What type of fish is 'sherni'?",
@@ -402,6 +470,10 @@
   {
     "question": "What type of tea is traditionally used for the 'Chanoyu' ceremony?",
     "answer": "Matcha"
+  },
+  {
+    "question": "What was used for baking bread in Ancient Greece?",
+    "answer": "Coarse flour"
   },
   {
     "question": "When was ice cream invented?",
@@ -468,6 +540,10 @@
     "answer": "Italian"
   },
   {
+    "question": "Which dessert contains a gaseous element?",
+    "answer": "Balloon"
+  },
+  {
     "question": "Which dessert is covered with egg white icing?",
     "answer": "Meringue"
   },
@@ -496,6 +572,10 @@
     "answer": "Bouillabaisse"
   },
   {
+    "question": "Which drink is recommended for stomach health?",
+    "answer": "Ginger tea"
+  },
+  {
     "question": "Which drink was banned in the USA for many years?",
     "answer": "Absinthe"
   },
@@ -504,8 +584,20 @@
     "answer": "Heston Blumenthal"
   },
   {
+    "question": "Which fermented milk product can be vegan?",
+    "answer": "Coconut milk yogurt"
+  },
+  {
     "question": "Which fish dish is characteristic of Korean cuisine?",
     "answer": "Hwe"
+  },
+  {
+    "question": "Which fish is often marinated in lime?",
+    "answer": "Dorado"
+  },
+  {
+    "question": "Which fish is often used for making curry?",
+    "answer": "Grouper"
   },
   {
     "question": "Which fish is often used to make terrine?",
@@ -516,8 +608,20 @@
     "answer": "Dates"
   },
   {
+    "question": "Which fruit is the most caloric?",
+    "answer": "Fig"
+  },
+  {
     "question": "Which gas is used to create foams?",
     "answer": "Carbon dioxide"
+  },
+  {
+    "question": "Which ingredient helps stabilize foams in molecular gastronomy?",
+    "answer": "Soy lecithin"
+  },
+  {
+    "question": "Which inventor is known for creating the canning process?",
+    "answer": "Nicolas Appert"
   },
   {
     "question": "Which leafy green contains the most antioxidants?",
@@ -532,8 +636,20 @@
     "answer": "Shiitake"
   },
   {
+    "question": "Which popular cocktail consists of gold rum, overproof rum, and fruit juices?",
+    "answer": "Zombie"
+  },
+  {
     "question": "Which restaurant is known for Ferran Adrià's approach to molecular gastronomy?",
     "answer": "El Bulli"
+  },
+  {
+    "question": "Which restaurants are known for their 'Shrimp Cocktails'?",
+    "answer": "Red Lobster"
+  },
+  {
+    "question": "Which spice gives a dish a characteristic anise and sweet flavor?",
+    "answer": "Star anise"
   },
   {
     "question": "Which spice is added to give Chinese cuisine dishes their distinctive aroma?",
@@ -541,6 +657,10 @@
   },
   {
     "question": "Which spice is beneficial for the brain?",
+    "answer": "Saffron"
+  },
+  {
+    "question": "Which spice is included in the khmeli-suneli mix?",
     "answer": "Saffron"
   },
   {
@@ -568,12 +688,24 @@
     "answer": "Vanilla"
   },
   {
+    "question": "Which spice makes a Chinese dish spicy?",
+    "answer": "Cayenne pepper"
+  },
+  {
     "question": "Who created the recipe for the first alcoholic cocktail?",
     "answer": "Americans"
   },
   {
     "question": "Who founded the first culinary school?",
     "answer": "Carême"
+  },
+  {
+    "question": "Who invented caramel?",
+    "answer": "Arabs"
+  },
+  {
+    "question": "Who is responsible for creating molecular textures?",
+    "answer": "Additives"
   },
   {
     "question": "Who were the first to cultivate cocoa for making chocolate?",
