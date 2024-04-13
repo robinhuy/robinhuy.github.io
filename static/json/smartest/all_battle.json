@@ -3117,6 +3117,14 @@
         "answer": "24 hours"
     },
     {
+        "question": "In which century did rice cultivation begin?",
+        "answer": "7th century"
+    },
+    {
+        "question": "In which century did they start making marzipan?",
+        "answer": "15th century"
+    },
+    {
         "question": "In which dish is fugu fish used?",
         "answer": "Sashimi"
     },
@@ -3137,6 +3145,14 @@
         "answer": "Brisket"
     },
     {
+        "question": "What Brazilian sweet is made from coconut and condensed milk?",
+        "answer": "Cocada"
+    },
+    {
+        "question": "What alcohol is traditionally used in a 'Stinger' cocktail?",
+        "answer": "Cognac"
+    },
+    {
         "question": "What are Japanese dumplings with filling called?",
         "answer": "Gyoza"
     },
@@ -3145,8 +3161,16 @@
         "answer": "Quark"
     },
     {
+        "question": "What cocktail's name translates from Spanish as 'rooster's tail'?",
+        "answer": "Cocktail"
+    },
+    {
         "question": "What cooking method is popular in Argentine cuisine?",
         "answer": "Asado"
+    },
+    {
+        "question": "What dessert is served at the Indian festival of Holi?",
+        "answer": "Gujia"
     },
     {
         "question": "What dish is made from chicken wings?",
@@ -3155,6 +3179,10 @@
     {
         "question": "What dish is made from eggplants?",
         "answer": "Moussaka"
+    },
+    {
+        "question": "What dish is popular at street festivals in Germany?",
+        "answer": "Bratwurst"
     },
     {
         "question": "What dish is prepared during Navratri in India?",
@@ -3205,6 +3233,10 @@
         "answer": "Coconut"
     },
     {
+        "question": "What is 'confit'?",
+        "answer": "Cooking in fat"
+    },
+    {
         "question": "What is a New Year tradition in Peru?",
         "answer": "Chiriuchu"
     },
@@ -3237,8 +3269,24 @@
         "answer": "Preserves vitamins"
     },
     {
+        "question": "What is the chemical process of creating soft textures called?",
+        "answer": "Gelation"
+    },
+    {
         "question": "What is the cooking method called where food is partially immersed in boiling water?",
         "answer": "Blanching"
+    },
+    {
+        "question": "What is the cooking technique called that uses low temperatures in oil?",
+        "answer": "Confit"
+    },
+    {
+        "question": "What is the dessert with ice cream balls called?",
+        "answer": "Profiteroles"
+    },
+    {
+        "question": "What is the dish made from finely chopped raw and cured meat called?",
+        "answer": "Tartare"
     },
     {
         "question": "What is the dish made from raw fish called?",
@@ -3255,6 +3303,10 @@
     {
         "question": "What is the method of freezing using very low temperatures called?",
         "answer": "Cryogenic freezing"
+    },
+    {
+        "question": "What is the method of preparing dough by repeatedly folding and layering called?",
+        "answer": "Laminating"
     },
     {
         "question": "What is the method of preparing egg white desserts by adding hot syrup to the egg whites called?",
@@ -3343,6 +3395,10 @@
     {
         "question": "What is the process called when a liquid is evaporated to give a sauce thickness and rich flavor?",
         "answer": "Reduction"
+    },
+    {
+        "question": "What is the process called where hydrocolloids are used for thickening?",
+        "answer": "Hydrocolloid thickening"
     },
     {
         "question": "What is the process of adding cold butter to a hot sauce called?",
@@ -3441,6 +3497,10 @@
         "answer": "hollandaise"
     },
     {
+        "question": "What sauce is traditionally served with yakitori?",
+        "answer": "Teriyaki"
+    },
+    {
         "question": "What slicing technique is used for thin slices of meat?",
         "answer": "Carpaccio"
     },
@@ -3477,8 +3537,16 @@
         "answer": "Entaliometer"
     },
     {
+        "question": "What traditional Danish dish includes fish in vinegar?",
+        "answer": "Pickled herring"
+    },
+    {
         "question": "What traditional Mexican dish is made from cornmeal?",
         "answer": "Tamale"
+    },
+    {
+        "question": "What traditional dish is served at French weddings?",
+        "answer": "Croquembouche"
     },
     {
         "question": "What type of fish is 'sherni'?",
@@ -3499,6 +3567,10 @@
     {
         "question": "What type of tea is traditionally used for the 'Chanoyu' ceremony?",
         "answer": "Matcha"
+    },
+    {
+        "question": "What was used for baking bread in Ancient Greece?",
+        "answer": "Coarse flour"
     },
     {
         "question": "When was ice cream invented?",
@@ -3565,6 +3637,10 @@
         "answer": "Italian"
     },
     {
+        "question": "Which dessert contains a gaseous element?",
+        "answer": "Balloon"
+    },
+    {
         "question": "Which dessert is covered with egg white icing?",
         "answer": "Meringue"
     },
@@ -3593,6 +3669,10 @@
         "answer": "Bouillabaisse"
     },
     {
+        "question": "Which drink is recommended for stomach health?",
+        "answer": "Ginger tea"
+    },
+    {
         "question": "Which drink was banned in the USA for many years?",
         "answer": "Absinthe"
     },
@@ -3601,8 +3681,20 @@
         "answer": "Heston Blumenthal"
     },
     {
+        "question": "Which fermented milk product can be vegan?",
+        "answer": "Coconut milk yogurt"
+    },
+    {
         "question": "Which fish dish is characteristic of Korean cuisine?",
         "answer": "Hwe"
+    },
+    {
+        "question": "Which fish is often marinated in lime?",
+        "answer": "Dorado"
+    },
+    {
+        "question": "Which fish is often used for making curry?",
+        "answer": "Grouper"
     },
     {
         "question": "Which fish is often used to make terrine?",
@@ -3613,8 +3705,20 @@
         "answer": "Dates"
     },
     {
+        "question": "Which fruit is the most caloric?",
+        "answer": "Fig"
+    },
+    {
         "question": "Which gas is used to create foams?",
         "answer": "Carbon dioxide"
+    },
+    {
+        "question": "Which ingredient helps stabilize foams in molecular gastronomy?",
+        "answer": "Soy lecithin"
+    },
+    {
+        "question": "Which inventor is known for creating the canning process?",
+        "answer": "Nicolas Appert"
     },
     {
         "question": "Which leafy green contains the most antioxidants?",
@@ -3629,8 +3733,20 @@
         "answer": "Shiitake"
     },
     {
+        "question": "Which popular cocktail consists of gold rum, overproof rum, and fruit juices?",
+        "answer": "Zombie"
+    },
+    {
         "question": "Which restaurant is known for Ferran Adrià's approach to molecular gastronomy?",
         "answer": "El Bulli"
+    },
+    {
+        "question": "Which restaurants are known for their 'Shrimp Cocktails'?",
+        "answer": "Red Lobster"
+    },
+    {
+        "question": "Which spice gives a dish a characteristic anise and sweet flavor?",
+        "answer": "Star anise"
     },
     {
         "question": "Which spice is added to give Chinese cuisine dishes their distinctive aroma?",
@@ -3638,6 +3754,10 @@
     },
     {
         "question": "Which spice is beneficial for the brain?",
+        "answer": "Saffron"
+    },
+    {
+        "question": "Which spice is included in the khmeli-suneli mix?",
         "answer": "Saffron"
     },
     {
@@ -3665,12 +3785,24 @@
         "answer": "Vanilla"
     },
     {
+        "question": "Which spice makes a Chinese dish spicy?",
+        "answer": "Cayenne pepper"
+    },
+    {
         "question": "Who created the recipe for the first alcoholic cocktail?",
         "answer": "Americans"
     },
     {
         "question": "Who founded the first culinary school?",
         "answer": "Carême"
+    },
+    {
+        "question": "Who invented caramel?",
+        "answer": "Arabs"
+    },
+    {
+        "question": "Who is responsible for creating molecular textures?",
+        "answer": "Additives"
     },
     {
         "question": "Who were the first to cultivate cocoa for making chocolate?",
@@ -9212,6 +9344,10 @@
         "answer": "Increases calcium excretion"
     },
     {
+        "question": "How does insulin resistance affect the risk of developing cardiovascular diseases?",
+        "answer": "Increases the risk"
+    },
+    {
         "question": "How does lack of sleep affect neurodegenerative diseases?",
         "answer": "Worsens the condition"
     },
@@ -9262,6 +9398,10 @@
     {
         "question": "The specificity of T-cells is determined by?",
         "answer": "TCR receptors"
+    },
+    {
+        "question": "Through which axis is the hypothalamic-pituitary-adrenal system activated during stress?",
+        "answer": "HPA axis"
     },
     {
         "question": "What VO2 max value is considered high for untrained individuals?",
@@ -9336,6 +9476,10 @@
         "answer": "Cytokines"
     },
     {
+        "question": "What biomechanical characteristics are considered when performing strength exercises?",
+        "answer": "Joint mobility"
+    },
+    {
         "question": "What can random mutations lead to?",
         "answer": "Genetic diseases"
     },
@@ -9366,6 +9510,10 @@
     {
         "question": "What changes are observed in brain activity during REM sleep?",
         "answer": "High cortical activity"
+    },
+    {
+        "question": "What changes in brain activity are associated with REM sleep phases?",
+        "answer": "Increased activity"
     },
     {
         "question": "What changes in brain structure are most commonly observed in people with obsessive-compulsive disorder?",
@@ -9436,6 +9584,10 @@
         "answer": "Antioxidant diet"
     },
     {
+        "question": "What disease is caused by alpha-1 antitrypsin deficiency?",
+        "answer": "Emphysema"
+    },
+    {
         "question": "What disorder is caused by a deficiency of corticosteroids?",
         "answer": "Addison's disease"
     },
@@ -9454,6 +9606,10 @@
     {
         "question": "What effect does alcohol have on sleep phases?",
         "answer": "Shortens"
+    },
+    {
+        "question": "What effect does bright morning sunlight have on circadian rhythms?",
+        "answer": "Stabilization"
     },
     {
         "question": "What effect does choline have on the brain?",
@@ -9478,6 +9634,10 @@
     {
         "question": "What effect does inflammation have on the endocardium of the heart?",
         "answer": "endocarditis"
+    },
+    {
+        "question": "What effect does interleukin have on the immune response?",
+        "answer": "Stimulates"
     },
     {
         "question": "What effect does magnesium deficiency have on bone tissue?",
@@ -9512,6 +9672,14 @@
         "answer": "Increase bone mass"
     },
     {
+        "question": "What factor is important for the maturation of T-lymphocytes in the thymus?",
+        "answer": "AIRE"
+    },
+    {
+        "question": "What factor most influences the sleep phase shift in night owls?",
+        "answer": "Genetics"
+    },
+    {
         "question": "What factors are considered in assessing psychological well-being according to the Karolinska Institute scale?",
         "answer": "Emotional stress"
     },
@@ -9530,6 +9698,10 @@
     {
         "question": "What factors influence the development of phobias?",
         "answer": "Genetics"
+    },
+    {
+        "question": "What features of skin structure determine its type?",
+        "answer": "Sebaceous glands"
     },
     {
         "question": "What form of vitamin B12 is active?",
@@ -9620,6 +9792,10 @@
         "answer": "Flavonoids"
     },
     {
+        "question": "What ingredients are necessary to neutralize free radicals in the skin?",
+        "answer": "Antioxidants"
+    },
+    {
         "question": "What is affective instability?",
         "answer": "Emotional changes"
     },
@@ -9684,6 +9860,10 @@
         "answer": "Increase in erythropoietin"
     },
     {
+        "question": "What is the mechanism characteristic of drugs from the beta-blocker group?",
+        "answer": "Reduction of heart rate"
+    },
+    {
         "question": "What is the mechanism of action of the cytokine interferon?",
         "answer": "Antiviral defense"
     },
@@ -9696,8 +9876,16 @@
         "answer": "logotherapy"
     },
     {
+        "question": "What is the name of the disease characterized by pathological expansion of the airways in the lungs?",
+        "answer": "Emphysema"
+    },
+    {
         "question": "What is the name of the hormone secreted by the ovaries that belongs to androgens?",
         "answer": "Testosterone"
+    },
+    {
+        "question": "What is the name of the hypothesis linking sleep and emotional processes?",
+        "answer": "Network Theory"
     },
     {
         "question": "What is the name of the molecule that initiates the inflammatory response?",
@@ -9712,6 +9900,10 @@
         "answer": "Osteopontin"
     },
     {
+        "question": "What is the normal ejection fraction value for assessing heart function?",
+        "answer": "55-70%"
+    },
+    {
         "question": "What is the optimal duration of interval training to increase strength?",
         "answer": "30 seconds"
     },
@@ -9724,6 +9916,10 @@
         "answer": "Suppression of the immune response"
     },
     {
+        "question": "What is the primary function of dendritic cells?",
+        "answer": "antigen presentation"
+    },
+    {
         "question": "What is the primary function of helper T cells?",
         "answer": "Activation of other cells"
     },
@@ -9734,6 +9930,10 @@
     {
         "question": "What is the principle of cognitive-behavioral therapy?",
         "answer": "Changing thoughts"
+    },
+    {
+        "question": "What is the procedure called for creating artificial blood vessels in the progressive stage of atherosclerosis?",
+        "answer": "Bypass surgery"
     },
     {
         "question": "What is the procedure of coronary bypass surgery?",
@@ -9758,6 +9958,10 @@
     {
         "question": "What is the role of HLA in the body?",
         "answer": "antigen presentation"
+    },
+    {
+        "question": "What is the role of MHC class II genes?",
+        "answer": "Antigen presentation"
     },
     {
         "question": "What is the role of alveolar macrophages?",
@@ -9786,6 +9990,10 @@
     {
         "question": "What is the significance of the aerobic threshold for training?",
         "answer": "Maximum efficiency"
+    },
+    {
+        "question": "What is transepidermal water loss?",
+        "answer": "water loss"
     },
     {
         "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
@@ -9868,6 +10076,10 @@
         "answer": "Decrease in acetylcholine"
     },
     {
+        "question": "What neuropsychological techniques help in long-term stress management?",
+        "answer": "Stress reduction mechanisms"
+    },
+    {
         "question": "What neurotransmitters are contained in substance P, released during stress?",
         "answer": "Tachykinins"
     },
@@ -9876,12 +10088,24 @@
         "answer": "Myocardial hypertrophy"
     },
     {
+        "question": "What pathology is observed in cardiac tamponade?",
+        "answer": "Fluid in the pericardium"
+    },
+    {
         "question": "What pharmacological agents are used to treat chronic bronchitis?",
         "answer": "Antibiotics"
     },
     {
+        "question": "What physical factor is crucial for stimulating bone tissue?",
+        "answer": "Load"
+    },
+    {
         "question": "What physiological changes occur with prolonged aerobic training?",
         "answer": "Increase in blood volume"
+    },
+    {
+        "question": "What physiological effect does an increase in cortisol levels have during chronic stress?",
+        "answer": "Decreased immunity"
     },
     {
         "question": "What physiological mechanisms ensure the dilation of the bronchi?",
@@ -9904,8 +10128,16 @@
         "answer": "Physical therapy"
     },
     {
+        "question": "What procedures are used to measure the lungs' ability to absorb oxygen?",
+        "answer": "Gasometry"
+    },
+    {
         "question": "What process allows antibodies to modulate allergic reactions?",
         "answer": "Opsonization"
+    },
+    {
+        "question": "What process initiates opsonization?",
+        "answer": "Binding of antibodies"
     },
     {
         "question": "What process involves the interaction of L- and F-antibodies?",
@@ -9964,12 +10196,20 @@
         "answer": "Antigen presentation"
     },
     {
+        "question": "What serious syndrome is characterized by a rapid deterioration of blood flow in the coronary arteries?",
+        "answer": "Acute coronary syndrome"
+    },
+    {
         "question": "What should be the balance of trace elements in the diet of elderly people?",
         "answer": "High calcium"
     },
     {
         "question": "What specific type of running workout is best for increasing the anaerobic threshold?",
         "answer": "Interval"
+    },
+    {
+        "question": "What strategies can help prevent sarcopenia in the elderly?",
+        "answer": "Strength training"
     },
     {
         "question": "What stress factors affect the immune system?",
@@ -10236,6 +10476,10 @@
         "answer": "Magnesium citrate"
     },
     {
+        "question": "Which form of retinoid is the most effective?",
+        "answer": "Retinoic acid"
+    },
+    {
         "question": "Which form of vitamin B2 is the most bioavailable?",
         "answer": "Riboflavin-5'-phosphate"
     },
@@ -10260,6 +10504,10 @@
         "answer": "Period genes"
     },
     {
+        "question": "Which genetic factor affects the risk of heart disease?",
+        "answer": "Mutations in the NPPA gene"
+    },
+    {
         "question": "Which genetic tests are informative for identifying predisposition to hereditary diseases?",
         "answer": "Molecular diagnostics"
     },
@@ -10268,12 +10516,24 @@
         "answer": "Smokers"
     },
     {
+        "question": "Which growth factor plays a key role in bone formation?",
+        "answer": "IGF-1"
+    },
+    {
         "question": "Which heart condition most commonly leads to sudden death?",
         "answer": "Coronary artery stenosis"
     },
     {
         "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
         "answer": "Marfan"
+    },
+    {
+        "question": "Which hormonal imbalance is associated with calcium deficiency?",
+        "answer": "Hypoparathyroidism"
+    },
+    {
+        "question": "Which hormone causes hyperventilation during stress?",
+        "answer": "Adrenaline"
     },
     {
         "question": "Which hormone is responsible for stimulating lactotropic cells?",
@@ -10456,6 +10716,10 @@
         "answer": "Prefrontal cortex"
     },
     {
+        "question": "Which part of the limbic system is involved in processing stressful stimuli?",
+        "answer": "Amygdala"
+    },
+    {
         "question": "Which part of the respiratory system is involved in tear production?",
         "answer": "Nasal passages"
     },
@@ -10498,6 +10762,10 @@
     {
         "question": "Which process of increasing the amino acid chain is associated with muscle hypertrophy?",
         "answer": "Protein translation"
+    },
+    {
+        "question": "Which protein helps in thinning the blood and preventing coagulation?",
+        "answer": "Protein C"
     },
     {
         "question": "Which protein is important for antigen presentation on the surface of cells?",
@@ -10548,12 +10816,20 @@
         "answer": "Adenosine"
     },
     {
+        "question": "Which substance indicates inflammation of the blood vessels?",
+        "answer": "CRP"
+    },
+    {
         "question": "Which substance is considered an important marker of bone remodeling?",
         "answer": "Deoxypyridinoline"
     },
     {
         "question": "Which substance serves as an indicator of the activity of the hypothalamic-pituitary-adrenal axis?",
         "answer": "Corticotropin"
+    },
+    {
+        "question": "Which substance stimulates the secretion of corticotropin-releasing hormone during stress?",
+        "answer": "Corticotropin-releasing factor (CRF)"
     },
     {
         "question": "Which substances are considered comedogenic in cosmetics?",
@@ -10572,8 +10848,16 @@
         "answer": "Zinc gluconate"
     },
     {
+        "question": "Which supplement improves methylation in the body?",
+        "answer": "Methylfolate"
+    },
+    {
         "question": "Which supplement is used to enhance the activity of superoxide dismutase?",
         "answer": "Manganese"
+    },
+    {
+        "question": "Which supplement supports the function of myelination?",
+        "answer": "Vitamin B12"
     },
     {
         "question": "Which supplements can affect calcium metabolism?",
@@ -10608,6 +10892,10 @@
         "answer": "Type I"
     },
     {
+        "question": "Which type of immune cells specializes in eliminating intracellular pathogens?",
+        "answer": "Cytotoxic T cells"
+    },
+    {
         "question": "Which type of tissue in the joints is most sensitive to age-related changes?",
         "answer": "Cartilage tissue"
     },
@@ -10636,6 +10924,10 @@
         "answer": "Vitamin B2"
     },
     {
+        "question": "Which vitamin is a strong antioxidant in mitochondria?",
+        "answer": "Vitamin E"
+    },
+    {
         "question": "Which vitamin is an essential cofactor for the synthesis of carnitine, important for fat metabolism?",
         "answer": "Vitamin C"
     },
@@ -10646,6 +10938,10 @@
     {
         "question": "Which vitamin is important for converting folic acid into its active form?",
         "answer": "Vitamin B12"
+    },
+    {
+        "question": "Which vitamin is important for homocysteine metabolism?",
+        "answer": "B6"
     },
     {
         "question": "Which vitamin is important for the methylation of homocysteine?",
@@ -10670,6 +10966,10 @@
     {
         "question": "Which vitamin is responsible for the metabolism of homocysteine?",
         "answer": "Vitamin B9"
+    },
+    {
+        "question": "Which vitamin modulates the inflammatory response in the body?",
+        "answer": "Vitamin A"
     },
     {
         "question": "Which vitamin plays a key role in one-carbon metabolism and the synthesis of nucleic acids?",
@@ -10698,6 +10998,10 @@
     {
         "question": "Which vitamins are important for neurotransmitters?",
         "answer": "B6 and B9"
+    },
+    {
+        "question": "Which vitamins are involved in methylation?",
+        "answer": "B12 and B9"
     },
     {
         "question": "Which vitamins are synthesized in the body from cholesterol?",
