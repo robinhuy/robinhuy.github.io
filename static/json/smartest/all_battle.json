@@ -5457,6 +5457,10 @@
         "answer": "Zander"
     },
     {
+        "question": "How can you determine the freshness of fish by touch?",
+        "answer": "Firm and moist"
+    },
+    {
         "question": "How can you determine the weight of a fish without scales?",
         "answer": "By length"
     },
@@ -5475,6 +5479,10 @@
     {
         "question": "How is the buoyancy of fishing tackle regulated?",
         "answer": "Floats"
+    },
+    {
+        "question": "How is the length of a fishing rod measured?",
+        "answer": "in meters"
     },
     {
         "question": "How often should you change your toothbrush head?",
@@ -5657,6 +5665,10 @@
         "answer": "Trout"
     },
     {
+        "question": "What fish was popular in Ancient Greece?",
+        "answer": "Tuna"
+    },
+    {
         "question": "What fishing gear is effective in winter?",
         "answer": "Fly fishing"
     },
@@ -5731,6 +5743,10 @@
     {
         "question": "What is a shock leader used for?",
         "answer": "To soften the cast"
+    },
+    {
+        "question": "What is a thermococoon?",
+        "answer": "Live bait"
     },
     {
         "question": "What is better to use for accurate casting?",
@@ -6281,6 +6297,10 @@
         "answer": "Grinner"
     },
     {
+        "question": "Which knot is used to increase strength under tension?",
+        "answer": "Grinner"
+    },
+    {
         "question": "Which knot offers the best tensile strength?",
         "answer": "Sanguri"
     },
@@ -6307,6 +6327,10 @@
     {
         "question": "Which reel is preferable for long-distance fishing?",
         "answer": "Carp reel"
+    },
+    {
+        "question": "Which river flow is most suitable for fly fishing?",
+        "answer": "Moderate flow"
     },
     {
         "question": "Which river is known for a large number of big fish?",
@@ -6505,6 +6529,10 @@
         "answer": "S.T.A.L.K.E.R."
     },
     {
+        "question": "In which game does the action take place on an abandoned spaceship?",
+        "answer": "Dead Space"
+    },
+    {
         "question": "In which game does the hero face mythical creatures?",
         "answer": "Dark Souls III"
     },
@@ -6555,6 +6583,14 @@
     {
         "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
         "answer": "HGC"
+    },
+    {
+        "question": "Name the magical art of elven mages in the game Dragon Age.",
+        "answer": "Arcanum"
+    },
+    {
+        "question": "What allows you to add unique abilities to characters?",
+        "answer": "Skill cards"
     },
     {
         "question": "What are intensive tests for games called?",
@@ -6729,6 +6765,10 @@
         "answer": "Martin Gardner"
     },
     {
+        "question": "What is the name of the first JRPG?",
+        "answer": "Dragon Quest"
+    },
+    {
         "question": "What is the name of the first classic arcade game?",
         "answer": "Space Invaders"
     },
@@ -6773,6 +6813,10 @@
         "answer": "Sherlock Holmes: Consulting Detective"
     },
     {
+        "question": "What is the name of the game where players explore a maze?",
+        "answer": "Labyrinth"
+    },
+    {
         "question": "What is the name of the game where survival is critically important?",
         "answer": "Survival Craft"
     },
@@ -6793,12 +6837,20 @@
         "answer": "Castle Crashers"
     },
     {
+        "question": "What is the name of the game where you need to develop a charter agency?",
+        "answer": "Airline Tycoon"
+    },
+    {
         "question": "What is the name of the game where you need to line up rows of identical tiles?",
         "answer": "Bejeweled"
     },
     {
         "question": "What is the name of the game where you need to solve puzzles with mechanical objects?",
         "answer": "The Room"
+    },
+    {
+        "question": "What is the name of the game with survival mechanics on an island?",
+        "answer": "Stranded Deep"
     },
     {
         "question": "What is the name of the hunting simulator?",
@@ -6853,6 +6905,10 @@
         "answer": "Mask of the Ancients"
     },
     {
+        "question": "What is the name of the mobile life simulation game?",
+        "answer": "BitLife"
+    },
+    {
         "question": "What is the name of the mysterious puzzle game by Capybara Games?",
         "answer": "Super Time Force"
     },
@@ -6875,6 +6931,10 @@
     {
         "question": "What is the name of the racing track simulator game?",
         "answer": "Assetto Corsa"
+    },
+    {
+        "question": "What is the name of the science fiction game created by the FreeSpace team?",
+        "answer": "FreeSpace 2"
     },
     {
         "question": "What is the name of the small town in the game Oxenfree?",
@@ -7259,6 +7319,10 @@
     {
         "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
         "answer": "NAVI"
+    },
+    {
+        "question": "Which tournament is held in South Korea for real-time strategy games?",
+        "answer": "GSL"
     },
     {
         "question": "Which video game was the first to receive an ESRB rating?",
@@ -15780,6 +15844,10 @@
         "answer": "500 kg"
     },
     {
+        "question": "How often are humanitarian traps checked?",
+        "answer": "Daily"
+    },
+    {
         "question": "How should you treat your catch?",
         "answer": "With respect"
     },
@@ -15834,6 +15902,10 @@
     {
         "question": "In which country did the use of falcons for hunting originate?",
         "answer": "Mongolia"
+    },
+    {
+        "question": "In which month does the wild boar hunting season close?",
+        "answer": "January"
     },
     {
         "question": "In which month is it optimal to hunt in the winter season?",
@@ -15892,8 +15964,16 @@
         "answer": "Duck"
     },
     {
+        "question": "What affects shooting accuracy?",
+        "answer": "Steady hand"
+    },
+    {
         "question": "What animal do hunters call the 'giant pig'?",
         "answer": "Hippopotamus"
+    },
+    {
+        "question": "What animal do hunters call the 'spotted bear'?",
+        "answer": "Panda"
     },
     {
         "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
@@ -15922,6 +16002,10 @@
     {
         "question": "What are the standard distances for aiming with hunting crossbows?",
         "answer": "20-30 meters"
+    },
+    {
+        "question": "What areas are prohibited for hunting?",
+        "answer": "Restricted"
     },
     {
         "question": "What bait attracts foxes?",
@@ -15972,6 +16056,10 @@
         "answer": "Moose"
     },
     {
+        "question": "What can help relieve stress in the forest?",
+        "answer": "Deep breathing"
+    },
+    {
         "question": "What can restrict access to hunting grounds?",
         "answer": "Protected area status"
     },
@@ -16002,6 +16090,10 @@
     {
         "question": "What device helps to hear sounds from afar?",
         "answer": "Portable amplifier"
+    },
+    {
+        "question": "What device is installed for night hunting?",
+        "answer": "Night vision scope"
     },
     {
         "question": "What device is used for night hunting?",
@@ -16220,6 +16312,10 @@
         "answer": "Proper nutrition"
     },
     {
+        "question": "What is important for hunting in the mountains?",
+        "answer": "Endurance"
+    },
+    {
         "question": "What is important for hunting?",
         "answer": "Camouflage"
     },
@@ -16276,6 +16372,10 @@
         "answer": "Medical examination"
     },
     {
+        "question": "What is the benefit of night photography?",
+        "answer": "Capturing nocturnal animals"
+    },
+    {
         "question": "What is the benefit of providing first aid for an injury?",
         "answer": "Effectiveness"
     },
@@ -16292,6 +16392,10 @@
         "answer": "Compass or map"
     },
     {
+        "question": "What is the device called that is used to find metal objects?",
+        "answer": "Metal detector"
+    },
+    {
         "question": "What is the device called that measures the velocity of a bullet?",
         "answer": "chronograph"
     },
@@ -16302,6 +16406,10 @@
     {
         "question": "What is the device used for cocking a crossbow called?",
         "answer": "Cocking lever"
+    },
+    {
+        "question": "What is the function of weight distribution in a modern bow?",
+        "answer": "Reducing effort"
     },
     {
         "question": "What is the importance of a hunter's ethical code?",
@@ -16318,6 +16426,10 @@
     {
         "question": "What is the maximum range of modern crossbows?",
         "answer": "Up to 100 meters"
+    },
+    {
+        "question": "What is the maximum speed a duck can fly?",
+        "answer": "Up to 80 km/h"
     },
     {
         "question": "What is the most common violation in nature reserves?",
@@ -16380,6 +16492,10 @@
         "answer": "Collimator"
     },
     {
+        "question": "What is the optimal time of day for hunting wolves?",
+        "answer": "At night"
+    },
+    {
         "question": "What is the penalty for hunting rare animal species?",
         "answer": "Fine"
     },
@@ -16394,6 +16510,10 @@
     {
         "question": "What is the procedure called that involves attracting birds to a hunter?",
         "answer": "Decoy"
+    },
+    {
+        "question": "What is the process of cleaning a gun barrel called?",
+        "answer": "Cleaning"
     },
     {
         "question": "What is the purpose of a hood on falcons?",
@@ -16436,6 +16556,10 @@
         "answer": "Zoning"
     },
     {
+        "question": "What is the term for approaching an animal?",
+        "answer": "Approach"
+    },
+    {
         "question": "What is the term for holding an arrow on the bowstring?",
         "answer": "Uzorchak"
     },
@@ -16474,6 +16598,10 @@
     {
         "question": "What item is used to warm the shoulders and arms?",
         "answer": "Poncho"
+    },
+    {
+        "question": "What item is useful for creating a shelter from snow?",
+        "answer": "Shovel"
     },
     {
         "question": "What item retains heat in a backpack?",
@@ -16534,6 +16662,10 @@
     {
         "question": "What methods of protection are used in hunting grounds?",
         "answer": "Tracking"
+    },
+    {
+        "question": "What must a hunter be able to do for a successful hunt?",
+        "answer": "Camouflage"
     },
     {
         "question": "What percentage of Russia's territory is occupied by protected areas?",
@@ -16708,6 +16840,10 @@
         "answer": "Snowmobile"
     },
     {
+        "question": "What trap captures an animal without causing pain?",
+        "answer": "Live trap"
+    },
+    {
         "question": "What trap is often used to catch lynxes?",
         "answer": "Steel trap"
     },
@@ -16730,6 +16866,10 @@
     {
         "question": "What type of arctic fox is most often caught using traps?",
         "answer": "Northern"
+    },
+    {
+        "question": "What type of bird typically hunts from ambush?",
+        "answer": "Owls"
     },
     {
         "question": "What type of call is best to use for duck hunting?",
@@ -16760,6 +16900,10 @@
         "answer": "Polarized"
     },
     {
+        "question": "What type of hunting is allowed in the central part of Russia?",
+        "answer": "Duck hunting"
+    },
+    {
         "question": "What type of hunting is considered unethical?",
         "answer": "Trophy hunting"
     },
@@ -16770,6 +16914,10 @@
     {
         "question": "What type of hunting is the most difficult in winter?",
         "answer": "Hunting rabbits"
+    },
+    {
+        "question": "What type of hunting is used for tracking animals from a distance?",
+        "answer": "Stalking"
     },
     {
         "question": "What type of hunting requires good knowledge of animal behavior?",
@@ -16800,6 +16948,10 @@
         "answer": "Steel-jaw trap"
     },
     {
+        "question": "What type of trap is used for catching wolves?",
+        "answer": "Iron trap"
+    },
+    {
         "question": "What type of traps are used for bears?",
         "answer": "Large traps"
     },
@@ -16818,6 +16970,10 @@
     {
         "question": "What types of weapons are prohibited by international agreements?",
         "answer": "24 FPS"
+    },
+    {
+        "question": "What was hunting called in Ancient Egypt?",
+        "answer": "Pharaoh's hunt"
     },
     {
         "question": "What was the name of hunting with cheetahs?",
@@ -16840,6 +16996,10 @@
         "answer": "Temperature"
     },
     {
+        "question": "What weapon is best used for hunting big game?",
+        "answer": "Crossbow"
+    },
+    {
         "question": "What weapon is popular among boar hunters?",
         "answer": "Rifle"
     },
@@ -16856,6 +17016,10 @@
         "answer": "Spear"
     },
     {
+        "question": "What weapon is preferred for hunting in the forest?",
+        "answer": "Rifle"
+    },
+    {
         "question": "What weapon is typically used for hunting big game?",
         "answer": "rifle"
     },
@@ -16870,6 +17034,10 @@
     {
         "question": "What weather is preferable for autumn hunting?",
         "answer": "Windless"
+    },
+    {
+        "question": "What were nets used for in hunting?",
+        "answer": "Birds"
     },
     {
         "question": "What were the hunting scenes depicted on Ancient Roman mosaics called?",
@@ -16964,6 +17132,10 @@
         "answer": "Foxes"
     },
     {
+        "question": "Which animals were the target of collective hunting in northern Russia?",
+        "answer": "Walruses"
+    },
+    {
         "question": "Which animals were traditionally used for hunting by nomads?",
         "answer": "Falcons"
     },
@@ -17010,6 +17182,10 @@
     {
         "question": "Which bird makes the call 'tfoo-tfoo'?",
         "answer": "Chukar partridge"
+    },
+    {
+        "question": "Which bird of prey is considered the best companion for hunting game?",
+        "answer": "Falcon"
     },
     {
         "question": "Which bird performs courtship dances?",
@@ -17168,6 +17344,10 @@
         "answer": "Fennec Fox"
     },
     {
+        "question": "Which exotic animal is known for inhabiting mangrove forests?",
+        "answer": "Philippine Eagle"
+    },
+    {
         "question": "Which exotic animals use branches as treadmills?",
         "answer": "Tiger frogs"
     },
@@ -17248,6 +17428,10 @@
         "answer": "Lock"
     },
     {
+        "question": "Which part of a rifle is responsible for reloading?",
+        "answer": "Bolt"
+    },
+    {
         "question": "Which part of hunting requires a license?",
         "answer": "Hunting with birds"
     },
@@ -17258,6 +17442,10 @@
     {
         "question": "Which part of the carcass is best suited for roasting?",
         "answer": "Tenderloin"
+    },
+    {
+        "question": "Which part of the carcass is most commonly smoked?",
+        "answer": "Breast"
     },
     {
         "question": "Which part of the game is usually marinated first?",
@@ -17288,6 +17476,10 @@
         "answer": "Siberia"
     },
     {
+        "question": "Which shrub do capercaillies prefer?",
+        "answer": "Blueberry"
+    },
+    {
         "question": "Which sight improves shooting accuracy?",
         "answer": "Red sight"
     },
@@ -17302,6 +17494,10 @@
     {
         "question": "Which type of bow has a longer lifespan?",
         "answer": "Composite bow"
+    },
+    {
+        "question": "Which type of crossbow is more compact?",
+        "answer": "Folding"
     },
     {
         "question": "Which type of hunting requires patience?",
