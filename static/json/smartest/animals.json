@@ -12,6 +12,10 @@
     "answer": "35 years"
   },
   {
+    "question": "How many species of galago are there?",
+    "answer": "20"
+  },
+  {
     "question": "How many species of monitor lizards are there?",
     "answer": "80"
   },
@@ -36,8 +40,32 @@
     "answer": "Rigid rod"
   },
   {
+    "question": "What function does the respiratory system perform?",
+    "answer": "Beaver"
+  },
+  {
+    "question": "What is ichthyology?",
+    "answer": "The science of fish"
+  },
+  {
     "question": "What is the molting process in arthropods called?",
     "answer": "Ecdysis"
+  },
+  {
+    "question": "What is the name of the dental apparatus in rays?",
+    "answer": "Plates"
+  },
+  {
+    "question": "What is the name of the family of predatory fish?",
+    "answer": "Pike"
+  },
+  {
+    "question": "What is the primary food that lampreys eat?",
+    "answer": "Small fish"
+  },
+  {
+    "question": "What is the primary function of the water vascular system in echinoderms?",
+    "answer": "Hydrostatic pressure"
   },
   {
     "question": "What is the stage of development called when an insect turns into a pupa?",
@@ -64,6 +92,22 @@
     "answer": "On the sides"
   },
   {
+    "question": "Where can you see the Eastern Curlew?",
+    "answer": "Kuril Islands"
+  },
+  {
+    "question": "Where is the Far Eastern Marine Reserve located?",
+    "answer": "Primorsky Krai"
+  },
+  {
+    "question": "Which Russian nature reserve is famous for its population of brown bears?",
+    "answer": "Kronotsky"
+  },
+  {
+    "question": "Which ancestors of modern cephalochordates have an ancient commonality?",
+    "answer": "Tunicates"
+  },
+  {
     "question": "Which animal can change its color?",
     "answer": "Chameleon"
   },
@@ -74,6 +118,10 @@
   {
     "question": "Which animal is a native of the Himalayas?",
     "answer": "yak"
+  },
+  {
+    "question": "Which animal is protected in the Tigirek Nature Reserve?",
+    "answer": "Marmot"
   },
   {
     "question": "Which animal lives deep in the ocean and has a transparent body?",
@@ -88,12 +136,28 @@
     "answer": "frigatebird"
   },
   {
+    "question": "Which birds build nests out of clay?",
+    "answer": "Swallows"
+  },
+  {
+    "question": "Which creature is known for its beautiful iridescent scales and inhabits coral reefs?",
+    "answer": "Parrotfish"
+  },
+  {
     "question": "Which echinoderms live on the sea and ocean floors and filter water?",
     "answer": "Crinoids"
   },
   {
+    "question": "Which fish are capable of breathing air?",
+    "answer": "anabas"
+  },
+  {
     "question": "Which fish builds nests?",
     "answer": "Stickleback"
+  },
+  {
+    "question": "Which fish inhabits coral reefs and has poisonous organs?",
+    "answer": "Stonefish"
   },
   {
     "question": "Which fish is called the sea wolf?",
@@ -120,8 +184,20 @@
     "answer": "fireflies"
   },
   {
+    "question": "Which mammal hunts seals?",
+    "answer": "Orca"
+  },
+  {
+    "question": "Which mammal is a carrier of fungi?",
+    "answer": "Several hours"
+  },
+  {
     "question": "Which mammal lives in Antarctica?",
     "answer": "Whale"
+  },
+  {
+    "question": "Which mollusks are known as dangerous predators?",
+    "answer": "Cones"
   },
   {
     "question": "Which nature reserve is known for rare species of rodents?",
@@ -140,7 +216,19 @@
     "answer": "Kabardino-Balkarian"
   },
   {
+    "question": "Which senses are developed in cephalochordates?",
+    "answer": "Tactile"
+  },
+  {
     "question": "Which snail produces venom?",
     "answer": "Cone snail"
+  },
+  {
+    "question": "Which tick is commonly found on animals?",
+    "answer": "Ixodid tick"
+  },
+  {
+    "question": "Who builds \"complex nests\" in trees?",
+    "answer": "Penduline tit"
   }
 ]

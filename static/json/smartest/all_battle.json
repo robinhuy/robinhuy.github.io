@@ -12,6 +12,10 @@
         "answer": "35 years"
     },
     {
+        "question": "How many species of galago are there?",
+        "answer": "20"
+    },
+    {
         "question": "How many species of monitor lizards are there?",
         "answer": "80"
     },
@@ -36,8 +40,32 @@
         "answer": "Rigid rod"
     },
     {
+        "question": "What function does the respiratory system perform?",
+        "answer": "Beaver"
+    },
+    {
+        "question": "What is ichthyology?",
+        "answer": "The science of fish"
+    },
+    {
         "question": "What is the molting process in arthropods called?",
         "answer": "Ecdysis"
+    },
+    {
+        "question": "What is the name of the dental apparatus in rays?",
+        "answer": "Plates"
+    },
+    {
+        "question": "What is the name of the family of predatory fish?",
+        "answer": "Pike"
+    },
+    {
+        "question": "What is the primary food that lampreys eat?",
+        "answer": "Small fish"
+    },
+    {
+        "question": "What is the primary function of the water vascular system in echinoderms?",
+        "answer": "Hydrostatic pressure"
     },
     {
         "question": "What is the stage of development called when an insect turns into a pupa?",
@@ -64,6 +92,22 @@
         "answer": "On the sides"
     },
     {
+        "question": "Where can you see the Eastern Curlew?",
+        "answer": "Kuril Islands"
+    },
+    {
+        "question": "Where is the Far Eastern Marine Reserve located?",
+        "answer": "Primorsky Krai"
+    },
+    {
+        "question": "Which Russian nature reserve is famous for its population of brown bears?",
+        "answer": "Kronotsky"
+    },
+    {
+        "question": "Which ancestors of modern cephalochordates have an ancient commonality?",
+        "answer": "Tunicates"
+    },
+    {
         "question": "Which animal can change its color?",
         "answer": "Chameleon"
     },
@@ -74,6 +118,10 @@
     {
         "question": "Which animal is a native of the Himalayas?",
         "answer": "yak"
+    },
+    {
+        "question": "Which animal is protected in the Tigirek Nature Reserve?",
+        "answer": "Marmot"
     },
     {
         "question": "Which animal lives deep in the ocean and has a transparent body?",
@@ -88,12 +136,28 @@
         "answer": "frigatebird"
     },
     {
+        "question": "Which birds build nests out of clay?",
+        "answer": "Swallows"
+    },
+    {
+        "question": "Which creature is known for its beautiful iridescent scales and inhabits coral reefs?",
+        "answer": "Parrotfish"
+    },
+    {
         "question": "Which echinoderms live on the sea and ocean floors and filter water?",
         "answer": "Crinoids"
     },
     {
+        "question": "Which fish are capable of breathing air?",
+        "answer": "anabas"
+    },
+    {
         "question": "Which fish builds nests?",
         "answer": "Stickleback"
+    },
+    {
+        "question": "Which fish inhabits coral reefs and has poisonous organs?",
+        "answer": "Stonefish"
     },
     {
         "question": "Which fish is called the sea wolf?",
@@ -120,8 +184,20 @@
         "answer": "fireflies"
     },
     {
+        "question": "Which mammal hunts seals?",
+        "answer": "Orca"
+    },
+    {
+        "question": "Which mammal is a carrier of fungi?",
+        "answer": "Several hours"
+    },
+    {
         "question": "Which mammal lives in Antarctica?",
         "answer": "Whale"
+    },
+    {
+        "question": "Which mollusks are known as dangerous predators?",
+        "answer": "Cones"
     },
     {
         "question": "Which nature reserve is known for rare species of rodents?",
@@ -140,8 +216,20 @@
         "answer": "Kabardino-Balkarian"
     },
     {
+        "question": "Which senses are developed in cephalochordates?",
+        "answer": "Tactile"
+    },
+    {
         "question": "Which snail produces venom?",
         "answer": "Cone snail"
+    },
+    {
+        "question": "Which tick is commonly found on animals?",
+        "answer": "Ixodid tick"
+    },
+    {
+        "question": "Who builds \"complex nests\" in trees?",
+        "answer": "Penduline tit"
     },
     {
         "question": "At what distance from a school zone can you start overtaking?",
@@ -24808,6 +24896,10 @@
         "answer": "Studying hysteresis"
     },
     {
+        "question": "What is a frontal zone?",
+        "answer": "Collision area"
+    },
+    {
         "question": "What is a gyroscope used for?",
         "answer": "Measuring angular velocity"
     },
@@ -24862,6 +24954,10 @@
     {
         "question": "What is a set of points called?",
         "answer": "Line"
+    },
+    {
+        "question": "What is a spectrometer used for?",
+        "answer": "Material analysis"
     },
     {
         "question": "What is a systematic error in an experiment called?",
@@ -25038,6 +25134,10 @@
     {
         "question": "What is meristem?",
         "answer": "Growth tissue"
+    },
+    {
+        "question": "What is methanogenesis?",
+        "answer": "Production of methane"
     },
     {
         "question": "What is necessary to conduct an experiment?",
@@ -25677,6 +25777,10 @@
     {
         "question": "What is the role of plasmids in biotechnology?",
         "answer": "Gene transformation"
+    },
+    {
+        "question": "What is the scientific field that studies objects up to 100 nanometers in size called?",
+        "answer": "Nanotechnology"
     },
     {
         "question": "What is the scientific theory called that suggests life originated in space and was transferred to Earth?",
@@ -26422,6 +26526,10 @@
     {
         "question": "Which cells form the basis of the optic nerve?",
         "answer": "Ganglion cells"
+    },
+    {
+        "question": "Which cells form the myelin sheath?",
+        "answer": "glial cells"
     },
     {
         "question": "Which cells have a full set of chromosomes?",
@@ -28619,6 +28727,14 @@
         "answer": "For acceleration"
     },
     {
+        "question": "How does game strategy change depending on the lighting in the hall?",
+        "answer": "Adjustment of serve angle"
+    },
+    {
+        "question": "How does grip width affect the snatch in weightlifting?",
+        "answer": "Optimizes control"
+    },
+    {
         "question": "How does stride frequency affect running speed in middle-distance races?",
         "answer": "Increase in speed"
     },
@@ -28843,6 +28959,14 @@
         "answer": "Spin shot"
     },
     {
+        "question": "What is the name of the special type of serve in volleyball?",
+        "answer": "Skyball"
+    },
+    {
+        "question": "What is the name of the spectacular backward fall in judo?",
+        "answer": "Ushiro ukemi"
+    },
+    {
         "question": "What is the name of the sport in which athletes climb vertical walls and cliffs without using safety gear?",
         "answer": "Free solo"
     },
@@ -28931,12 +29055,20 @@
         "answer": "Tarrasch's Principle"
     },
     {
+        "question": "What rule changes can affect the results of the Paralympic Games?",
+        "answer": "Classification procedures"
+    },
+    {
         "question": "What running style do biathletes use to overcome steep slopes?",
         "answer": "Skating step"
     },
     {
         "question": "What sport involves skating on ice using skates?",
         "answer": "Figure skating"
+    },
+    {
+        "question": "What strategic element is important for maintaining control in a narrow area of the field?",
+        "answer": "Maul"
     },
     {
         "question": "What strategy is used for optimal distribution of effort throughout a race?",
@@ -28965,6 +29097,10 @@
     {
         "question": "What technique allows athletes to safely maneuver while kayaking in whitewater?",
         "answer": "Eskimo roll"
+    },
+    {
+        "question": "What technique helps to handle aggressive serves?",
+        "answer": "Passive block"
     },
     {
         "question": "What technique is used for quickly getting out of the wave zone in windsurfing?",
@@ -29187,6 +29323,10 @@
         "answer": "Cross-country"
     },
     {
+        "question": "Which dressage element requires absolute coordination and submission?",
+        "answer": "Piaffe"
+    },
+    {
         "question": "Which element became decisive in figure skating for the first time in the 1990s?",
         "answer": "Quadruple toe loop"
     },
@@ -29195,8 +29335,16 @@
         "answer": "Water jump"
     },
     {
+        "question": "Which equestrian sport element involves performing high-speed maneuvers and jumps?",
+        "answer": "Steeplechase"
+    },
+    {
         "question": "Which extreme sport involves using a board to descend a volcano?",
         "answer": "Volcano boarding"
+    },
+    {
+        "question": "Which female tennis player was the first to win 23 Grand Slam singles titles?",
+        "answer": "Serena Williams"
     },
     {
         "question": "Which figure skating element is performed with an initial backward movement from the edge?",
@@ -29283,6 +29431,10 @@
         "answer": "Longboard"
     },
     {
+        "question": "Which swimmer was the first to win 5 gold medals in a single World Championship?",
+        "answer": "Michael Phelps"
+    },
+    {
         "question": "Which tactical element helps a team maintain initiative in attack?",
         "answer": "Sustained possession"
     },
@@ -29345,6 +29497,10 @@
     {
         "question": "Who was the coach of Vitali and Wladimir Klitschko?",
         "answer": "Emanuel Steward"
+    },
+    {
+        "question": "Who was the first driver to win three consecutive Grand Prix races in a Formula 1 season?",
+        "answer": "Ayrton Senna"
     },
     {
         "question": "Who was the first female world champion?",
@@ -29417,6 +29573,10 @@
     {
         "question": "Who was the founder of the boxing technique 'The Philadelphia Shell'?",
         "answer": "Jersey Joe Walcott"
+    },
+    {
+        "question": "Who won the Ballon d'Or in 2003?",
+        "answer": "Pavel Nedvěd"
     },
     {
         "question": "Who won the first gold in women's singles figure skating at the 1976 Olympics?",
