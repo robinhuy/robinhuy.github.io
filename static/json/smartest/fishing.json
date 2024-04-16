@@ -408,6 +408,10 @@
     "answer": "Jigging Rap"
   },
   {
+    "question": "What is used to imitate the movement of an insect on the water?",
+    "answer": "Fly"
+  },
+  {
     "question": "What is used to make jigs?",
     "answer": "Metal"
   },
@@ -644,6 +648,10 @@
     "answer": "Electroreceptor"
   },
   {
+    "question": "Which device detects fish movement in real time?",
+    "answer": "Sonar"
+  },
+  {
     "question": "Which fish can be aggressive during spearfishing?",
     "answer": "Moray eel"
   },
@@ -860,6 +868,10 @@
     "answer": "Blood Knot"
   },
   {
+    "question": "Which map shows the underwater relief?",
+    "answer": "Bathymetric map"
+  },
+  {
     "question": "Which maps show changes in elevation?",
     "answer": "topographic"
   },
@@ -896,12 +908,20 @@
     "answer": "Mediterranean"
   },
   {
+    "question": "Which season is the most dangerous for underwater fishing?",
+    "answer": "Winter"
+  },
+  {
     "question": "Which tackle improves casting accuracy?",
     "answer": "Reel"
   },
   {
     "question": "Which tackle is best suited for catching large fish?",
     "answer": "Baitcasting reel"
+  },
+  {
+    "question": "Which technique allows you to catch fish faster?",
+    "answer": "Ambush"
   },
   {
     "question": "Which technique is difficult for beginner fly fishers?",
@@ -938,5 +958,9 @@
   {
     "question": "Why is it not allowed to catch fish with nets?",
     "answer": "Harm to the ecosystem"
+  },
+  {
+    "question": "Why is it not recommended to use dynamite?",
+    "answer": "Dangerous"
   }
 ]
