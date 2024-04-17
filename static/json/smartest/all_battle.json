@@ -27463,6 +27463,10 @@
         "answer": "Transformation of minerals"
     },
     {
+        "question": "How can high pressure affect the internal structure of an exoplanet?",
+        "answer": "Phase change"
+    },
+    {
         "question": "How can interaction with a planet's magnetic field affect meteoroids?",
         "answer": "Change in trajectory"
     },
@@ -27479,6 +27483,10 @@
         "answer": "Erosion"
     },
     {
+        "question": "How do astronomers determine the age of stars?",
+        "answer": "Spectrometry"
+    },
+    {
         "question": "How do black holes affect the formation of star clusters?",
         "answer": "Gravitational anomaly"
     },
@@ -27491,12 +27499,20 @@
         "answer": "Form tidal tails"
     },
     {
+        "question": "How do gravitational forces influence the formation of asteroid families?",
+        "answer": "Resonant interactions"
+    },
+    {
         "question": "How do interstellar distances affect observable time effects?",
         "answer": "Distort"
     },
     {
         "question": "How do interstellar distances affect the perception of time?",
         "answer": "Slow it down"
+    },
+    {
+        "question": "How do magnetic fields affect the structure of galaxies?",
+        "answer": "Delay star formation"
     },
     {
         "question": "How do space telescopes study the nature of cosmic rays?",
@@ -27539,6 +27555,14 @@
         "answer": "Gravity"
     },
     {
+        "question": "How does the change in stellar radiation affect the long-term habitability of planets?",
+        "answer": "Atmospheric adaptation"
+    },
+    {
+        "question": "How does the chemical composition of a galaxy change over time?",
+        "answer": "Accumulation of elements"
+    },
+    {
         "question": "How does the distribution of angular momentum affect star formation?",
         "answer": "Stability of rotation"
     },
@@ -27553,6 +27577,10 @@
     {
         "question": "How does the interaction of galaxies affect their morphological evolution?",
         "answer": "Deformation"
+    },
+    {
+        "question": "How does the interaction of galaxies in clusters affect their evolution?",
+        "answer": "Mergers"
     },
     {
         "question": "How does the speed of light affect the curvature of spacetime?",
@@ -27599,6 +27627,10 @@
         "answer": "Gravitational lensing"
     },
     {
+        "question": "How is the mass of galaxies in clusters calculated?",
+        "answer": "Gravitational lensing"
+    },
+    {
         "question": "How is the mass of galaxies measured considering the influence of dark matter?",
         "answer": "Rotation curve"
     },
@@ -27607,12 +27639,32 @@
         "answer": "26,000 years"
     },
     {
+        "question": "In what year was dark energy discovered?",
+        "answer": "1998"
+    },
+    {
         "question": "What advantage does the use of multi-layer mirrors in modern space telescopes provide?",
         "answer": "Increased collecting area"
     },
     {
+        "question": "What approach combines quantum mechanics and cosmological inflation?",
+        "answer": "Quantum cosmology"
+    },
+    {
+        "question": "What approach is used to study the microclimate of Martian craters?",
+        "answer": "Climate modeling"
+    },
+    {
         "question": "What are the advantages of using spectrometry in the study of planetary satellites?",
         "answer": "Accurate composition analysis"
+    },
+    {
+        "question": "What are the conditions for the formation of dense cores in molecular clouds?",
+        "answer": "High density"
+    },
+    {
+        "question": "What are the effects of gravitational lensing on interstellar objects?",
+        "answer": "Distortion of light"
     },
     {
         "question": "What challenges arise in studying the nature of dark matter?",
@@ -27629,6 +27681,10 @@
     {
         "question": "What chemical processes can occur on planets with high atmospheric pressure?",
         "answer": "Hydrolysis"
+    },
+    {
+        "question": "What condition is necessary for nuclear fusion to begin in a protostar?",
+        "answer": "High temperature"
     },
     {
         "question": "What conditions are necessary for the emergence of life in extreme environments on other planets?",
@@ -27683,12 +27739,20 @@
         "answer": "Anisotropy"
     },
     {
+        "question": "What discovery indirectly confirmed the existence of dark energy?",
+        "answer": "Supernovae"
+    },
+    {
         "question": "What discovery is associated with the study of quasar 3C 273?",
         "answer": "First discovered quasar"
     },
     {
         "question": "What discovery on the Moon required a revision of theories about its formation?",
         "answer": "Water"
+    },
+    {
+        "question": "What does multispectral analysis of the Milky Way's structure include?",
+        "answer": "Data from different wavelengths"
     },
     {
         "question": "What dynamic characteristic of asteroid motion is studied to assess their stability in the asteroid belt?",
@@ -27731,6 +27795,10 @@
         "answer": "Degradation of properties"
     },
     {
+        "question": "What effect does stellar activity have on the atmospheric flows of exoplanets?",
+        "answer": "Acceleration of flows"
+    },
+    {
         "question": "What effect does stellar wind have on exoplanets?",
         "answer": "Atmospheric erosion"
     },
@@ -27739,12 +27807,20 @@
         "answer": "Climate destabilization"
     },
     {
+        "question": "What effect does the expansion of the Universe have on the measurement of distances?",
+        "answer": "Cosmological shift"
+    },
+    {
         "question": "What effect does the magnetic field have on star formation in the Milky Way?",
         "answer": "Slows down collapse"
     },
     {
         "question": "What effect does tidal interaction have on the orbit of an exoplanet?",
         "answer": "Stabilization"
+    },
+    {
+        "question": "What effect influences the apparent color of stars?",
+        "answer": "Gravitational redshift"
     },
     {
         "question": "What effect of solar radiation causes a change in the rotation of asteroids?",
@@ -27759,6 +27835,14 @@
         "answer": "Lev Landau"
     },
     {
+        "question": "What elementary process explains the initial state of the Universe?",
+        "answer": "Quantum fluctuation"
+    },
+    {
+        "question": "What elementary process governs the movement of gas in galactic spiral arms?",
+        "answer": "Shock waves"
+    },
+    {
         "question": "What experimental data supports the initial conditions of the Universe?",
         "answer": "Cosmic radiation"
     },
@@ -27769,6 +27853,10 @@
     {
         "question": "What factor determines the density of clouds on ice giants?",
         "answer": "Atmospheric temperature"
+    },
+    {
+        "question": "What factor determines the distribution of energy in the early Universe?",
+        "answer": "Cosmological constant"
     },
     {
         "question": "What factor determines the possibility of retrograde rotation of an exoplanet?",
@@ -27785,6 +27873,10 @@
     {
         "question": "What factors affect the level of cosmic radiation in the interstellar medium?",
         "answer": "Particle fluxes"
+    },
+    {
+        "question": "What factors affect the perception of time in space?",
+        "answer": "Speed of movement"
     },
     {
         "question": "What factors affect the stability of irregular satellites' orbits?",
@@ -27807,6 +27899,10 @@
         "answer": "Gravitational forces"
     },
     {
+        "question": "What factors determine variations in ionospheric currents during magnetic storms?",
+        "answer": "Solar wind"
+    },
+    {
         "question": "What factors influence the choice of orbit for a satellite intended to study Neptune?",
         "answer": "Planet's gravity"
     },
@@ -27819,12 +27915,32 @@
         "answer": "Orbital resonances"
     },
     {
+        "question": "What factors need to be considered when designing telescopes for deep space?",
+        "answer": "Cosmic radiation"
+    },
+    {
+        "question": "What factors should be considered when designing space telescopes for deep space?",
+        "answer": "Radiation protection"
+    },
+    {
+        "question": "What forces influence the distribution of mass in cosmological models?",
+        "answer": "Gravity"
+    },
+    {
         "question": "What happens to the mass of an object if it reaches the speed of light?",
         "answer": "It becomes infinite"
     },
     {
+        "question": "What hypotheses consider the structure of hidden masses in space?",
+        "answer": "Scalar fields"
+    },
+    {
         "question": "What hypothetical principles might explain observed cosmic anomalies?",
         "answer": "Anthropic principle"
+    },
+    {
+        "question": "What impact do quantum effects have on the curvature of space?",
+        "answer": "Unknown"
     },
     {
         "question": "What impact do star-forming regions have on the chemical evolution of galaxies?",
@@ -27833,6 +27949,10 @@
     {
         "question": "What impact does solar activity have on navigation systems?",
         "answer": "Signal disruption"
+    },
+    {
+        "question": "What influence do asteroids have on the orbital dynamics of planets?",
+        "answer": "Gravitational perturbations"
     },
     {
         "question": "What influence does the galactic environment have on the formation of star systems?",
@@ -27875,12 +27995,28 @@
         "answer": "Deformation of structure"
     },
     {
+        "question": "What is the impact of interstellar radiation on star formation?",
+        "answer": "Acceleration of processes"
+    },
+    {
         "question": "What is the impact of stellar winds on galactic structures?",
         "answer": "Regulation of star formation"
     },
     {
+        "question": "What is the influence of magnetic fields on the structure of galaxies?",
+        "answer": "Control of gas"
+    },
+    {
         "question": "What is the key factor when choosing an orbit for satellites studying Mercury's atmosphere?",
         "answer": "Temperature"
+    },
+    {
+        "question": "What is the likelihood of detecting life in the atmosphere of cold gas giants?",
+        "answer": "Low"
+    },
+    {
+        "question": "What is the mass ratio of gas and stellar components in galaxies?",
+        "answer": "Depends on the type"
     },
     {
         "question": "What is the method called that uses reflected sunlight to study asteroids?",
@@ -27927,6 +28063,10 @@
         "answer": "Cosmic web"
     },
     {
+        "question": "What is the role of baryonic matter in the formation of stars in the central regions of galaxies?",
+        "answer": "Forms stars"
+    },
+    {
         "question": "What is the role of black holes in the dynamics of galaxy clusters?",
         "answer": "Gravitational influence"
     },
@@ -27943,12 +28083,24 @@
         "answer": "Accelerates expansion"
     },
     {
+        "question": "What is the role of dominant components of dark matter in cosmological models?",
+        "answer": "Structure formation"
+    },
+    {
+        "question": "What is the role of external pressure in star formation?",
+        "answer": "Accelerates the process"
+    },
+    {
         "question": "What is the role of external pressure in the formation of star systems?",
         "answer": "Compression"
     },
     {
         "question": "What is the role of infrared radiation in molecular clouds?",
         "answer": "Cooling of gas"
+    },
+    {
+        "question": "What is the role of interstellar gas in the formation of galactic structures?",
+        "answer": "Star formation"
     },
     {
         "question": "What is the role of radiation pressure in shaping the orbits of exoplanets?",
@@ -27959,6 +28111,10 @@
         "answer": "Particle acceleration"
     },
     {
+        "question": "What is the role of stardust in the formation of galactic structures?",
+        "answer": "Foundation for planets"
+    },
+    {
         "question": "What is the role of stellar winds in the formation of galaxies?",
         "answer": "Accelerating growth"
     },
@@ -27967,8 +28123,20 @@
         "answer": "Defines geometry"
     },
     {
+        "question": "What is the role of the galactic halo in the dynamics of stars?",
+        "answer": "Stabilizes orbits"
+    },
+    {
         "question": "What is the role of the intergalactic medium in the dynamics of galaxy clusters?",
         "answer": "Gravity"
+    },
+    {
+        "question": "What is the role of turbulence in molecular clouds?",
+        "answer": "Core formation"
+    },
+    {
+        "question": "What is the technology called that protects against cosmic radiation without using heavy shields?",
+        "answer": "Magnetic fields"
     },
     {
         "question": "What is the ultimate state of compactness for stellar objects?",
@@ -27985,6 +28153,10 @@
     {
         "question": "What material was first used to protect orbital stations from radiation?",
         "answer": "Boron polyethylene"
+    },
+    {
+        "question": "What mathematical models describe the influence of unknown forces on cosmological parameters?",
+        "answer": "Friedmann equations"
     },
     {
         "question": "What measurement technologies are used to monitor radiation levels in space?",
@@ -28011,6 +28183,10 @@
         "answer": "Gravitational resonances"
     },
     {
+        "question": "What mechanism supports the stability of a galactic disk?",
+        "answer": "Dark matter"
+    },
+    {
         "question": "What mechanism was first used for landing on Mars in the Viking mission?",
         "answer": "Three-stage system"
     },
@@ -28023,8 +28199,16 @@
         "answer": "Inflation"
     },
     {
+        "question": "What mechanisms explain the presence of massive storms on giant planets?",
+        "answer": "Atmospheric dynamics"
+    },
+    {
         "question": "What mechanisms stabilize the atmospheres of giant planets from losing gases into space?",
         "answer": "Magnetospheres"
+    },
+    {
+        "question": "What method allows telescopes to observe the polarization of light in space?",
+        "answer": "Polarimetry"
     },
     {
         "question": "What method is used to analyze Martian samples for the presence of microorganisms?",
@@ -28055,6 +28239,10 @@
         "answer": "Spectrometry"
     },
     {
+        "question": "What methods allow the study of star movement through the galactic disk?",
+        "answer": "Astrometry"
+    },
+    {
         "question": "What methods are used to detect organic molecules in interstellar clouds?",
         "answer": "Spectroscopy"
     },
@@ -28079,8 +28267,16 @@
         "answer": "Spectroscopy"
     },
     {
+        "question": "What methods are used to study the structure and processes on the Sun that affect space weather?",
+        "answer": "Spectroscopy"
+    },
+    {
         "question": "What methods are used to study the subsurface oceans of moons?",
         "answer": "Radar studies"
+    },
+    {
+        "question": "What observation led to the discovery of dark energy?",
+        "answer": "observation of supernovae"
     },
     {
         "question": "What observations can confirm the existence of dark matter?",
@@ -28093,6 +28289,14 @@
     {
         "question": "What parameter determines the evolution of galactic structures?",
         "answer": "Dark matter"
+    },
+    {
+        "question": "What parameter determines the stability of the Universe in large-scale structures?",
+        "answer": "Cosmological constant"
+    },
+    {
+        "question": "What parameters determine the stability of asteroid orbits in the Kuiper Belt?",
+        "answer": "Orbital eccentricity"
     },
     {
         "question": "What phenomena are studied to understand the evolution of galaxies?",
@@ -28123,6 +28327,10 @@
         "answer": "Time dilation"
     },
     {
+        "question": "What phenomenon can cause instability in protogalaxies?",
+        "answer": "Turbulence"
+    },
+    {
         "question": "What phenomenon can change the topology of space around a black hole?",
         "answer": "Gravitational collapse"
     },
@@ -28151,8 +28359,16 @@
         "answer": "Precessional tilt"
     },
     {
+        "question": "What phenomenon explains the formation of binary asteroid systems?",
+        "answer": "Yarkovsky effect"
+    },
+    {
         "question": "What phenomenon forms complex orbital resonances between planets and moons in the Solar System?",
         "answer": "Gravitational interactions"
+    },
+    {
+        "question": "What phenomenon is associated with a sudden change in the space-time structure?",
+        "answer": "Gravitational anomaly"
     },
     {
         "question": "What phenomenon is associated with massive energy releases?",
@@ -28171,6 +28387,14 @@
         "answer": "Dark matter"
     },
     {
+        "question": "What phenomenon occurs when dark matter interacts with ordinary matter?",
+        "answer": "Gravitational lensing"
+    },
+    {
+        "question": "What phenomenon on the Moon is related to its tectonic activity?",
+        "answer": "Moonquakes"
+    },
+    {
         "question": "What phenomenon reflects the instability of orbital motion around black holes?",
         "answer": "Orthogonal precession"
     },
@@ -28181,6 +28405,10 @@
     {
         "question": "What phenomenon studies the interaction of light with a gravitational field?",
         "answer": "Gravitational optics"
+    },
+    {
+        "question": "What phenomenon suggests the possible existence of primordial black holes?",
+        "answer": "Microlensing"
     },
     {
         "question": "What physical conditions contribute to the formation of globules in molecular clouds?",
@@ -28195,8 +28423,16 @@
         "answer": "Inflationary models"
     },
     {
+        "question": "What physical phenomenon ensures the stability of rings around gas giants?",
+        "answer": "Orbital resonance"
+    },
+    {
         "question": "What physical phenomenon is associated with the acceleration of motion in strong fields?",
         "answer": "Gravitational anomaly"
+    },
+    {
+        "question": "What physical principles justify the homogeneity and isotropy of the Universe?",
+        "answer": "Cosmological principle"
     },
     {
         "question": "What physical process determines the conversion of energy into matter in the early Universe?",
@@ -28287,6 +28523,14 @@
         "answer": "Galactic winds"
     },
     {
+        "question": "What processes determine the structure of galaxy clusters?",
+        "answer": "Gravity and merging"
+    },
+    {
+        "question": "What processes determined the primary density inhomogeneity of matter?",
+        "answer": "Quantum fluctuations"
+    },
+    {
         "question": "What processes enhance the magnetic field in protostellar clouds?",
         "answer": "Gas movement"
     },
@@ -28301,6 +28545,18 @@
     {
         "question": "What processes led to the formation of galaxies in the first billion years after the Big Bang?",
         "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What properties characterize hypothetical dark matter particles?",
+        "answer": "Weak interaction"
+    },
+    {
+        "question": "What properties distinguish dark energy from ordinary forms of energy?",
+        "answer": "Antigravitational"
+    },
+    {
+        "question": "What properties distinguish dark energy from other forms of matter?",
+        "answer": "Negative pressure"
     },
     {
         "question": "What property of dark energy causes the Universe to expand?",
@@ -28329,6 +28585,10 @@
     {
         "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
         "answer": "Key role"
+    },
+    {
+        "question": "What role does studying seasonal changes in Martian glaciers play in modeling the planet's climate?",
+        "answer": "Understanding cycles"
     },
     {
         "question": "What role does the speed of light play in determining cosmological models?",
@@ -28411,6 +28671,10 @@
         "answer": "Reconnaissance"
     },
     {
+        "question": "What type of stars form the spiral arms of the Milky Way?",
+        "answer": "Young stars"
+    },
+    {
         "question": "What unique engine was developed for maneuvers in space based on plasma?",
         "answer": "VASIMR"
     },
@@ -28421,6 +28685,10 @@
     {
         "question": "Where were traces of microbial life found on Mars?",
         "answer": "Meteorite"
+    },
+    {
+        "question": "Which Mars mission was the first to discover signs of ancient hydrothermal activity?",
+        "answer": "Perseverance"
     },
     {
         "question": "Which Soviet cosmonaut completed the first long-duration flight on 'Salyut 7'?",
@@ -28435,8 +28703,20 @@
         "answer": "SPH method"
     },
     {
+        "question": "Which analytical method allows for the determination of specific isotopes in lunar rocks?",
+        "answer": "Mass spectrometry"
+    },
+    {
         "question": "Which artificial satellite was the first to conduct a detailed study of the underground structures of Mars?",
         "answer": "Mars Reconnaissance Orbiter"
+    },
+    {
+        "question": "Which artificial satellite was the first to conduct studies of the subsurface oceans of one of Jupiter's moons?",
+        "answer": "Galileo"
+    },
+    {
+        "question": "Which artificial satellite was the first to transmit high-precision data about Jupiter's gravitational field?",
+        "answer": "Galileo"
     },
     {
         "question": "Which aspect of quantum physics affects the early Universe?",
@@ -28455,12 +28735,36 @@
         "answer": "Surveillance cameras"
     },
     {
+        "question": "Which astronomer discovered the internal structure of stars through spectra?",
+        "answer": "Cecilia Payne"
+    },
+    {
+        "question": "Which astronomer first determined the exact value of the gravitational constant?",
+        "answer": "Henry Cavendish"
+    },
+    {
         "question": "Which astronomer first proposed that light could be bent by gravity?",
         "answer": "Albert Einstein"
     },
     {
+        "question": "Which astronomer first proposed the idea that galaxies might rotate based on observations of spiral nebulae?",
+        "answer": "Vesto Slipher"
+    },
+    {
+        "question": "Which astronomer played a key role in the development of radar methods in astronomy?",
+        "answer": "John Hibbs"
+    },
+    {
         "question": "Which astronomer proposed the concept of a multidimensional universe?",
         "answer": "Kaluza"
+    },
+    {
+        "question": "Which astronomer proposed the existence of black holes in the 18th century?",
+        "answer": "John Michell"
+    },
+    {
+        "question": "Which astronomer was the first to discover quasars and establish their incredibly high luminosity?",
+        "answer": "Maarten Schmidt"
     },
     {
         "question": "Which astronomer was the first to propose using X-rays to observe cosmic objects?",
@@ -28477,6 +28781,10 @@
     {
         "question": "Which constellation has the largest number of meteor showers?",
         "answer": "Perseus"
+    },
+    {
+        "question": "Which constellation is associated with the legend featuring a character named Icarus?",
+        "answer": "Cygnus"
     },
     {
         "question": "Which constellation is associated with the mythological story of a character who could change his form at the will of the gods?",
@@ -28497,6 +28805,10 @@
     {
         "question": "Which cosmological methods allow us to assess the role of dark energy in the expansion of the Universe?",
         "answer": "Measuring supernovae"
+    },
+    {
+        "question": "Which cosmological models consider the influence of dark energy on the evolution of the Universe?",
+        "answer": "Lambda-CDM"
     },
     {
         "question": "Which device was the first to use laser communication for data transmission?",
@@ -28535,12 +28847,28 @@
         "answer": "LUX"
     },
     {
+        "question": "Which factor most influences the rate of radiative cooling of large exoplanets?",
+        "answer": "Mass"
+    },
+    {
         "question": "Which fundamental law of physics explains the initial singularity?",
         "answer": "General theory of relativity"
     },
     {
         "question": "Which hypothesis explains the predominance of matter over antimatter?",
         "answer": "Baryogenesis"
+    },
+    {
+        "question": "Which hypothesis links gravitational anomalies with dark matter?",
+        "answer": "Dark matter hypothesis"
+    },
+    {
+        "question": "Which hypothesis suggests the existence of astronomical objects that may be related to black holes but do not have an event horizon?",
+        "answer": "Gravastars"
+    },
+    {
+        "question": "Which instrument was first used to analyze the Moon's atmosphere?",
+        "answer": "LADEE"
     },
     {
         "question": "Which lunar region was first mapped in detail using high-precision spectrometry?",
@@ -28571,6 +28899,10 @@
         "answer": "Mariner 9"
     },
     {
+        "question": "Which mission was the first to study the effects of solar wind on the Moon?",
+        "answer": "Apollo 12"
+    },
+    {
         "question": "Which mission was the first to study the radio emissions of Venus?",
         "answer": "Venera 4"
     },
@@ -28579,8 +28911,20 @@
         "answer": "MRO"
     },
     {
+        "question": "Which mission was the first to use a landing platform on another celestial body?",
+        "answer": "Viking Mission"
+    },
+    {
+        "question": "Which module was the first to be tested in the Apollo space program?",
+        "answer": "Command module"
+    },
+    {
         "question": "Which module was the last to be added to the 'Mir' space station?",
         "answer": "Priboy"
+    },
+    {
+        "question": "Which moon of Neptune has the largest orbital eccentricity?",
+        "answer": "Nereid"
     },
     {
         "question": "Which moons exhibit resonance with their planet's rings?",
@@ -28595,6 +28939,10 @@
         "answer": "Satellite laser communication"
     },
     {
+        "question": "Which orbital station used the 'Almaz' system for military purposes?",
+        "answer": "Salyut-2"
+    },
+    {
         "question": "Which parameter changes the observer's perspective in a gravitational field?",
         "answer": "Gravitational shift"
     },
@@ -28607,8 +28955,16 @@
         "answer": "Edward Witten"
     },
     {
+        "question": "Which probe first detected the presence of organic molecules on Titan?",
+        "answer": "Cassini"
+    },
+    {
         "question": "Which probe used radar to study the lunar polar caps?",
         "answer": "Chandrayaan-1"
+    },
+    {
+        "question": "Which probe was the first to use laser altimetry for mapping the surface of Mars?",
+        "answer": "Mars Global Surveyor"
     },
     {
         "question": "Which probing method is most suitable for studying the dense atmospheres of Jupiter and Saturn?",
@@ -28643,12 +28999,20 @@
         "answer": "Juno"
     },
     {
+        "question": "Which satellite was the first to use multichannel spectrometry to study the atmosphere of Venus?",
+        "answer": "Akatsuki"
+    },
+    {
         "question": "Which scientist discovered that interstellar gas can emit radio waves?",
         "answer": "Karl Jansky"
     },
     {
         "question": "Which space mission was the first to use a gravity assist maneuver around Venus?",
         "answer": "Galileo"
+    },
+    {
+        "question": "Which spacecraft detected gravitational anomalies on giant planets?",
+        "answer": "Juno"
     },
     {
         "question": "Which spacecraft first detected precipitation on the moon Titan?",
@@ -28695,8 +29059,16 @@
         "answer": "None exists"
     },
     {
+        "question": "Which spacecraft was the first to study Jupiter's icy moons?",
+        "answer": "Galileo spacecraft"
+    },
+    {
         "question": "Which spacecraft was the first to study the Hale-Bopp comet?",
         "answer": "Hubble Telescope"
+    },
+    {
+        "question": "Which spacecraft was the first to successfully drill on an asteroid?",
+        "answer": "Hayabusa2"
     },
     {
         "question": "Which spacecraft was the first to successfully use aerobraking on Mars?",
@@ -28755,6 +29127,10 @@
         "answer": "Hubble"
     },
     {
+        "question": "Which telescope was the first to identify the chemical composition of an exoplanet's atmosphere?",
+        "answer": "Spitzer"
+    },
+    {
         "question": "Which telescope was the first to observe stars in the gamma-ray range?",
         "answer": "Compton"
     },
@@ -28771,8 +29147,16 @@
         "answer": "quintessence"
     },
     {
+        "question": "Which theory extends the standard cosmological model to explain dark energy?",
+        "answer": "Lambda-CDM"
+    },
+    {
         "question": "Who developed the first radio telescopes and discovered radio galaxies?",
         "answer": "Bernard Lovell"
+    },
+    {
+        "question": "Who discovered that the luminosity of galaxies correlates with their rotation speed?",
+        "answer": "Vera Rubin"
     },
     {
         "question": "Who first proposed the hypothesis of the existence of galactic arms?",
@@ -28783,8 +29167,20 @@
         "answer": "Henrietta Leavitt"
     },
     {
+        "question": "Who took the first image of a black hole?",
+        "answer": "Katie Bouman"
+    },
+    {
         "question": "Who was the first astronomer to propose the theory of the spiral structure of galaxies?",
         "answer": "Curtis"
+    },
+    {
+        "question": "Who was the first to determine the nature of quasars?",
+        "answer": "Schmidt"
+    },
+    {
+        "question": "Who was the first to predict the existence of neutron stars?",
+        "answer": "Lev Landau"
     },
     {
         "question": "Who was the first to suggest that stars are made of hydrogen?",
