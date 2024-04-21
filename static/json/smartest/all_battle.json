@@ -7625,6 +7625,10 @@
         "answer": "Predators"
     },
     {
+        "question": "What criteria are important to consider when choosing a greenhouse?",
+        "answer": "Heat retention"
+    },
+    {
         "question": "What device is used for shredding branches?",
         "answer": "shredder"
     },
@@ -7733,6 +7737,10 @@
         "answer": "Soilless cultivation"
     },
     {
+        "question": "What is needed to grow a bonsai?",
+        "answer": "Patience"
+    },
+    {
         "question": "What is needed to stabilize the pH of compost?",
         "answer": "Lime"
     },
@@ -7761,6 +7769,10 @@
         "answer": "annually"
     },
     {
+        "question": "What is the best fertilizer to use for strawberries?",
+        "answer": "Compost"
+    },
+    {
         "question": "What is the best thing to water plants with?",
         "answer": "Warm water"
     },
@@ -7783,6 +7795,14 @@
     {
         "question": "What is the design called that minimizes water usage?",
         "answer": "Xeriscaping"
+    },
+    {
+        "question": "What is the device called for applying fertilizers to the soil?",
+        "answer": "Sprayer"
+    },
+    {
+        "question": "What is the device called for measuring the volume of water?",
+        "answer": "Water meter"
     },
     {
         "question": "What is the device called that is used for heating air?",
@@ -7905,6 +7925,10 @@
         "answer": "Mulch"
     },
     {
+        "question": "What method helps to eliminate pests in the soil?",
+        "answer": "solarization"
+    },
+    {
         "question": "What method is used to attract predatory insects to the garden?",
         "answer": "Mixed planting"
     },
@@ -7915,6 +7939,10 @@
     {
         "question": "What method prevents the appearance of slugs?",
         "answer": "Mulching"
+    },
+    {
+        "question": "What methods are used in organic farming?",
+        "answer": "Natural"
     },
     {
         "question": "What methods contribute to pest biocontrol?",
@@ -8033,6 +8061,10 @@
         "answer": "Stratifier"
     },
     {
+        "question": "What type of composter is the fastest?",
+        "answer": "Tumbler"
+    },
+    {
         "question": "What type of fertilizer is best for bulbous plants?",
         "answer": "Potassium-based"
     },
@@ -8121,6 +8153,10 @@
         "answer": "Gladiolus"
     },
     {
+        "question": "Which flower is known as the 'Queen of the Night'?",
+        "answer": "Night-blooming cereus"
+    },
+    {
         "question": "Which flower is known for blooming at night?",
         "answer": "Cereus"
     },
@@ -8161,6 +8197,10 @@
         "answer": "Strawberry"
     },
     {
+        "question": "Which fruit is a symbol of love?",
+        "answer": "Pomegranate"
+    },
+    {
         "question": "Which fruit is a symbol of the Carthage location?",
         "answer": "Pomegranate"
     },
@@ -8197,6 +8237,10 @@
         "answer": "Biological"
     },
     {
+        "question": "Which method creates an unfavorable environment for pests in the garden?",
+        "answer": "Mulching"
+    },
+    {
         "question": "Which microorganisms are important for neutralizing pathogens?",
         "answer": "Bacteria"
     },
@@ -8207,6 +8251,10 @@
     {
         "question": "Which pest control method involves the use of directed light?",
         "answer": "Photoperception"
+    },
+    {
+        "question": "Which pest control method is based on altering their DNA?",
+        "answer": "Genetic method"
     },
     {
         "question": "Which pest control method is considered biological?",
@@ -8243,6 +8291,10 @@
     {
         "question": "Which plant grows on walls and vertical surfaces?",
         "answer": "Ivy"
+    },
+    {
+        "question": "Which plant is a popular indoor fruit?",
+        "answer": "Lemon"
     },
     {
         "question": "Which plant is called 'cat's ears'?",
@@ -24050,8 +24102,20 @@
         "answer": "Ailanthus"
     },
     {
+        "question": "What is the process of lengthening called?",
+        "answer": "Elongation"
+    },
+    {
         "question": "What is the reproductive organ of ferns called?",
         "answer": "Sorus"
+    },
+    {
+        "question": "What is the term for additional plant nutrition using animals?",
+        "answer": "Carnivory"
+    },
+    {
+        "question": "What is xylem?",
+        "answer": "Plant tissue"
     },
     {
         "question": "What plants grow in the tundra?",
@@ -24084,6 +24148,10 @@
     {
         "question": "Where does membrane transport occur in plants?",
         "answer": "Vacuole"
+    },
+    {
+        "question": "Where does the main carbon fixation occur?",
+        "answer": "Stroma of chloroplasts"
     },
     {
         "question": "Where does the rare plant Fefera grow?",
@@ -24126,6 +24194,10 @@
         "answer": "Teloschistaceae"
     },
     {
+        "question": "Which mushrooms glow in the dark?",
+        "answer": "Pholiota"
+    },
+    {
         "question": "Which of the following plants is carnivorous?",
         "answer": "Bladderwort"
     },
@@ -24146,6 +24218,10 @@
         "answer": "Fontinalis"
     },
     {
+        "question": "Which plant blooms in winter?",
+        "answer": "Christmas cactus"
+    },
+    {
         "question": "Which plant helps with gastritis and stomach ulcers?",
         "answer": "Angelica"
     },
@@ -24156,6 +24232,10 @@
     {
         "question": "Which plant is called a 'living fossil'?",
         "answer": "Ginkgo"
+    },
+    {
+        "question": "Which plant is called the 'green hydra'?",
+        "answer": "Chara"
     },
     {
         "question": "Which plant is famous for its bright leaves?",
@@ -24216,6 +24296,10 @@
     {
         "question": "Which tree is most commonly used for bonsai?",
         "answer": "Ficus"
+    },
+    {
+        "question": "Which tropical plant is known as a 'carnivorous plant'?",
+        "answer": "Nepenthes"
     },
     {
         "question": "Which type of orchid is popular due to its easy care?",

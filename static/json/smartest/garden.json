@@ -100,6 +100,10 @@
     "answer": "Predators"
   },
   {
+    "question": "What criteria are important to consider when choosing a greenhouse?",
+    "answer": "Heat retention"
+  },
+  {
     "question": "What device is used for shredding branches?",
     "answer": "shredder"
   },
@@ -208,6 +212,10 @@
     "answer": "Soilless cultivation"
   },
   {
+    "question": "What is needed to grow a bonsai?",
+    "answer": "Patience"
+  },
+  {
     "question": "What is needed to stabilize the pH of compost?",
     "answer": "Lime"
   },
@@ -236,6 +244,10 @@
     "answer": "annually"
   },
   {
+    "question": "What is the best fertilizer to use for strawberries?",
+    "answer": "Compost"
+  },
+  {
     "question": "What is the best thing to water plants with?",
     "answer": "Warm water"
   },
@@ -258,6 +270,14 @@
   {
     "question": "What is the design called that minimizes water usage?",
     "answer": "Xeriscaping"
+  },
+  {
+    "question": "What is the device called for applying fertilizers to the soil?",
+    "answer": "Sprayer"
+  },
+  {
+    "question": "What is the device called for measuring the volume of water?",
+    "answer": "Water meter"
   },
   {
     "question": "What is the device called that is used for heating air?",
@@ -380,6 +400,10 @@
     "answer": "Mulch"
   },
   {
+    "question": "What method helps to eliminate pests in the soil?",
+    "answer": "solarization"
+  },
+  {
     "question": "What method is used to attract predatory insects to the garden?",
     "answer": "Mixed planting"
   },
@@ -390,6 +414,10 @@
   {
     "question": "What method prevents the appearance of slugs?",
     "answer": "Mulching"
+  },
+  {
+    "question": "What methods are used in organic farming?",
+    "answer": "Natural"
   },
   {
     "question": "What methods contribute to pest biocontrol?",
@@ -508,6 +536,10 @@
     "answer": "Stratifier"
   },
   {
+    "question": "What type of composter is the fastest?",
+    "answer": "Tumbler"
+  },
+  {
     "question": "What type of fertilizer is best for bulbous plants?",
     "answer": "Potassium-based"
   },
@@ -596,6 +628,10 @@
     "answer": "Gladiolus"
   },
   {
+    "question": "Which flower is known as the 'Queen of the Night'?",
+    "answer": "Night-blooming cereus"
+  },
+  {
     "question": "Which flower is known for blooming at night?",
     "answer": "Cereus"
   },
@@ -636,6 +672,10 @@
     "answer": "Strawberry"
   },
   {
+    "question": "Which fruit is a symbol of love?",
+    "answer": "Pomegranate"
+  },
+  {
     "question": "Which fruit is a symbol of the Carthage location?",
     "answer": "Pomegranate"
   },
@@ -672,6 +712,10 @@
     "answer": "Biological"
   },
   {
+    "question": "Which method creates an unfavorable environment for pests in the garden?",
+    "answer": "Mulching"
+  },
+  {
     "question": "Which microorganisms are important for neutralizing pathogens?",
     "answer": "Bacteria"
   },
@@ -682,6 +726,10 @@
   {
     "question": "Which pest control method involves the use of directed light?",
     "answer": "Photoperception"
+  },
+  {
+    "question": "Which pest control method is based on altering their DNA?",
+    "answer": "Genetic method"
   },
   {
     "question": "Which pest control method is considered biological?",
@@ -718,6 +766,10 @@
   {
     "question": "Which plant grows on walls and vertical surfaces?",
     "answer": "Ivy"
+  },
+  {
+    "question": "Which plant is a popular indoor fruit?",
+    "answer": "Lemon"
   },
   {
     "question": "Which plant is called 'cat's ears'?",

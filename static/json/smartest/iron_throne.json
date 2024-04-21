@@ -312,6 +312,10 @@
     "answer": "Made a deal with Tormund"
   },
   {
+    "question": "How did Robert's Rebellion change the political map of Westeros?",
+    "answer": "New alliances"
+  },
+  {
     "question": "How did Tyrion Lannister achieve his goals in a hostile environment?",
     "answer": "Cunningly"
   },
@@ -338,6 +342,10 @@
   {
     "question": "How did Tyrion Lannister feel about his family?",
     "answer": "Complicated"
+  },
+  {
+    "question": "How did Tyrion Lannister maintain influence in a complex political situation?",
+    "answer": "Strategizing"
   },
   {
     "question": "How did Tyrion Lannister overcome betrayal in his surroundings?",
@@ -660,6 +668,10 @@
     "answer": "Strengthen the hierarchy"
   },
   {
+    "question": "How do traditions influence the hierarchy of the Ironborn?",
+    "answer": "Naval supremacy"
+  },
+  {
     "question": "How does Tyrion Lannister react to betrayal?",
     "answer": "Inventively"
   },
@@ -690,6 +702,10 @@
   {
     "question": "How does the economic structure of the Iron Islands influence their strategy?",
     "answer": "Piracy"
+  },
+  {
+    "question": "How does the interaction of the Ironborn with other houses of Westeros affect their political power?",
+    "answer": "Weakening"
   },
   {
     "question": "How does the naval power of the Ironborn determine their foreign policy?",
@@ -896,6 +912,10 @@
     "answer": "Psychological pressure"
   },
   {
+    "question": "What are the consequences of Tyrion Lannister's actions for the politics of Westeros?",
+    "answer": "Shift of power"
+  },
+  {
     "question": "What are the consequences of possessing the Iron Throne?",
     "answer": "Enemies and intrigues"
   },
@@ -946,6 +966,10 @@
   {
     "question": "What banner does House Bolton bear?",
     "answer": "Flayed Man"
+  },
+  {
+    "question": "What became the main challenge for Daenerys when conquering new territories?",
+    "answer": "governance"
   },
   {
     "question": "What blood is important for the Targaryens?",
@@ -1152,6 +1176,10 @@
     "answer": "White Walkers"
   },
   {
+    "question": "What did Euron do to consolidate his power after coming to power?",
+    "answer": "Build a fleet"
+  },
+  {
     "question": "What did Jon Snow do after Ygritte's death?",
     "answer": "Buried her"
   },
@@ -1280,6 +1308,10 @@
     "answer": "The fall of House Hoare"
   },
   {
+    "question": "What event confirmed that the Targaryens are capable of reviving dragons after a long decline?",
+    "answer": "The birth of dragons"
+  },
+  {
     "question": "What event demonstrated the power of dragons in the Targaryen wars?",
     "answer": "The Fall of Harrenhal"
   },
@@ -1386,6 +1418,10 @@
   {
     "question": "What event made Tyrion Lannister reconsider his goals?",
     "answer": "Captivity in Essos"
+  },
+  {
+    "question": "What event marked the beginning of Daenerys' army formation?",
+    "answer": "The birth of the dragons"
   },
   {
     "question": "What event marked the beginning of the decline of dragons, altering the balance of power in Westeros?",
@@ -1798,6 +1834,10 @@
   {
     "question": "What instrument do maesters use to analyze stars?",
     "answer": "Astrolabe"
+  },
+  {
+    "question": "What instrument is used for stargazing?",
+    "answer": "Telescope"
   },
   {
     "question": "What instrument of power did the Lannisters prefer?",
@@ -2296,6 +2336,10 @@
     "answer": "Justice"
   },
   {
+    "question": "What measures did Daenerys take to maintain discipline among the Unsullied?",
+    "answer": "Strict training"
+  },
+  {
     "question": "What measures did Daenerys take to maintain power in Meereen?",
     "answer": "Political marriages"
   },
@@ -2576,8 +2620,16 @@
     "answer": "Lord Commander"
   },
   {
+    "question": "What power did the magical runes give to the amulets of the traders from Essos?",
+    "answer": "Protective"
+  },
+  {
     "question": "What powerful artifact controls the weather in Essos?",
     "answer": "Storm Stone"
+  },
+  {
+    "question": "What principle determines the actions of knights?",
+    "answer": "Loyalty to the king"
   },
   {
     "question": "What principle governs inheritance on Pyke?",
@@ -2646,6 +2698,10 @@
   {
     "question": "What prophecy was made for Jon Snow?",
     "answer": "The rebirth of Azor Ahai"
+  },
+  {
+    "question": "What prophetic dream did Bran have?",
+    "answer": "Falling from the tower"
   },
   {
     "question": "What qualities did Arya develop in Braavos to become invisible?",
@@ -2722,6 +2778,10 @@
   {
     "question": "What ritual is performed for the acceptance of a maester?",
     "answer": "Induction Ceremony"
+  },
+  {
+    "question": "What ritual was performed in the sacred forest?",
+    "answer": "Prayer"
   },
   {
     "question": "What ritual was used for the longevity of rulers in Essos?",
@@ -3000,6 +3060,14 @@
     "answer": "Facelessness"
   },
   {
+    "question": "What skills allowed Arya to become unnoticed by her enemies?",
+    "answer": "Disguise"
+  },
+  {
+    "question": "What social structure determines power among the Ironborn?",
+    "answer": "Military hierarchy"
+  },
+  {
     "question": "What spell was used for sealing trade agreements in Valyria?",
     "answer": "Contractual"
   },
@@ -3188,6 +3256,10 @@
     "answer": "Divide and conquer"
   },
   {
+    "question": "What strategy allowed the Lannisters to manipulate their opponents' positions?",
+    "answer": "Spreading rumors"
+  },
+  {
     "question": "What strategy allowed the Targaryens to capture King's Landing?",
     "answer": "Dragon attack"
   },
@@ -3252,6 +3324,10 @@
     "answer": "Dynastic marriages"
   },
   {
+    "question": "What strategy did the Ironborn use against enemies on land?",
+    "answer": "Naval blockade"
+  },
+  {
     "question": "What strategy did the Ironborn use to conquer the northern coast?",
     "answer": "Naval attack"
   },
@@ -3298,6 +3374,10 @@
   {
     "question": "What subject do maesters study to understand history?",
     "answer": "Historical chronicles"
+  },
+  {
+    "question": "What subject related to the sky is studied at the Citadel?",
+    "answer": "Astronomy"
   },
   {
     "question": "What support did Daenerys receive during her campaign in Essos?",
@@ -3469,6 +3549,10 @@
   },
   {
     "question": "What tactical maneuver did Ramsay Bolton use in the battle against Jon Snow?",
+    "answer": "Feigned retreat"
+  },
+  {
+    "question": "What tactical maneuver did the Lannisters use in the Battle of the Dragonpit?",
     "answer": "Feigned retreat"
   },
   {
@@ -4392,6 +4476,14 @@
     "answer": "Tormund Giantsbane"
   },
   {
+    "question": "Which character from Arya's kill list did she kill first?",
+    "answer": "Meryn Trant"
+  },
+  {
+    "question": "Which character had a significant influence on Arya's skills?",
+    "answer": "Syrio Forel"
+  },
+  {
     "question": "Which character had the gift of green sight?",
     "answer": "Bran Stark"
   },
@@ -4888,6 +4980,10 @@
     "answer": "Frey"
   },
   {
+    "question": "Which house is known for its dragonlords?",
+    "answer": "House Targaryen"
+  },
+  {
     "question": "Which house is known for its intrigues and wealth?",
     "answer": "Lannisters"
   },
@@ -5320,6 +5416,10 @@
     "answer": "Enchanting"
   },
   {
+    "question": "Which magical school in Essos is known for its teachings on necromancy?",
+    "answer": "Maia"
+  },
+  {
     "question": "Which magical symbols were considered the most powerful among the Valyrians?",
     "answer": "Dragon"
   },
@@ -5398,6 +5498,10 @@
   {
     "question": "Which of the Lannisters was in the Kingsguard?",
     "answer": "Jaime"
+  },
+  {
+    "question": "Which of the Starks became the Lord Commander of the Night's Watch?",
+    "answer": "Jon Snow"
   },
   {
     "question": "Which of the Starks was buried in the crypt while still alive?",
@@ -6166,6 +6270,10 @@
   {
     "question": "Who proposed an alliance to Jon Snow in the fight against the Boltons?",
     "answer": "Sansa Stark"
+  },
+  {
+    "question": "Who proposed to Daenerys in Meereen?",
+    "answer": "Hizdahr zo Loraq"
   },
   {
     "question": "Who resurrected Jon Snow?",
