@@ -1,31 +1,155 @@
 [
   {
+    "question": "How did Batman deal with the hyper-radiation problem?",
+    "answer": "With genius"
+  },
+  {
+    "question": "How did Robin's fighting style change under Batman's influence?",
+    "answer": "Strategic maneuvers"
+  },
+  {
     "question": "How do magical powers manifest in the DC Comics universe?",
     "answer": "Spells and rituals"
+  },
+  {
+    "question": "How does Aquaman interact with the Justice League?",
+    "answer": "Cooperation"
   },
   {
     "question": "How does Darkseid affect the DC universe?",
     "answer": "Threat"
   },
   {
+    "question": "How does Darkseid keep his legions battle-ready?",
+    "answer": "Through discipline"
+  },
+  {
+    "question": "How does Darkseid travel between dimensions?",
+    "answer": "Boom Tubes"
+  },
+  {
+    "question": "How does Kal-El restore his powers in the absence of the Sun?",
+    "answer": "Solar battery"
+  },
+  {
+    "question": "How does Lex Luthor gain trust?",
+    "answer": "Manipulation"
+  },
+  {
+    "question": "How does Lex Luthor maintain his influence in the business world?",
+    "answer": "Corporations"
+  },
+  {
+    "question": "How does magic affect technology in DC?",
+    "answer": "Creates anomalies"
+  },
+  {
     "question": "How does magic contribute to the creation of new dimensions in DC?",
     "answer": "Distorts reality"
+  },
+  {
+    "question": "How does the Flash deal with the consequences of his actions?",
+    "answer": "Quantum uncertainty"
   },
   {
     "question": "How does the Flash interact with other speedsters?",
     "answer": "Through the Speed Force"
   },
   {
+    "question": "How does the Flash interact with the time continuum?",
+    "answer": "Extremely carefully"
+  },
+  {
     "question": "How does the Flash overcome the limitations of the Speed Force?",
     "answer": "Ingenuity"
+  },
+  {
+    "question": "How does the Flash use the Speed Force to create vortices?",
+    "answer": "Circular motion"
+  },
+  {
+    "question": "How does the Joker perceive his confrontation with Batman?",
+    "answer": "As a game"
+  },
+  {
+    "question": "How is Diana connected to ancient Roman mythology?",
+    "answer": "Through gods"
   },
   {
     "question": "In which comic did the Justice League first appear?",
     "answer": "The Brave and the Bold"
   },
   {
+    "question": "What ability allows Superman to fly?",
+    "answer": "Anti-gravity"
+  },
+  {
+    "question": "What ability allows Superman to protect the planet?",
+    "answer": "Invulnerability"
+  },
+  {
+    "question": "What ability allows the Flash to sense changes in time?",
+    "answer": "Temporal Awareness"
+  },
+  {
+    "question": "What ability does the character Peacemaker have?",
+    "answer": "Marksmanship"
+  },
+  {
+    "question": "What ability makes Wonder Woman unique among superheroes?",
+    "answer": "Lasso of Truth"
+  },
+  {
+    "question": "What architectural elements distinguish Atlantis from other underwater cities in DC?",
+    "answer": "Domes"
+  },
+  {
+    "question": "What are Aquaman's key powers in ruling Atlantis?",
+    "answer": "Telepathy"
+  },
+  {
+    "question": "What artifact provides the connection between the Lanterns and their rings?",
+    "answer": "Central Power Battery"
+  },
+  {
     "question": "What aspect of character is most important for survival in a squad?",
     "answer": "Loyalty"
+  },
+  {
+    "question": "What creature is Aquaman's loyal companion?",
+    "answer": "Seahorse"
+  },
+  {
+    "question": "What creatures serve Darkseid?",
+    "answer": "Parademons"
+  },
+  {
+    "question": "What device does Kal-El use to communicate with Krypton?",
+    "answer": "Holographic projector"
+  },
+  {
+    "question": "What do the three prongs of Aquaman's trident symbolize?",
+    "answer": "The Trinity"
+  },
+  {
+    "question": "What does Batman's uncompromising approach to justice symbolize?",
+    "answer": "Fighting evil"
+  },
+  {
+    "question": "What does the Green Lantern's ring symbolize?",
+    "answer": "Willpower"
+  },
+  {
+    "question": "What element allows Atlantis to exist underwater?",
+    "answer": "Orichalcum"
+  },
+  {
+    "question": "What emotional state is associated with the Blue Lantern Corps?",
+    "answer": "Hope"
+  },
+  {
+    "question": "What event in 'Forever Evil' demonstrated how Lex Luthor can use his strategy supernaturally?",
+    "answer": "Defeating the Crime Syndicate"
   },
   {
     "question": "What event led to the separation of Atlantis and the surface world in DC Comics?",
@@ -36,48 +160,448 @@
     "answer": "Salvation"
   },
   {
+    "question": "What force can temporarily block the abilities of all members of the Justice League?",
+    "answer": "Black energy"
+  },
+  {
+    "question": "What intergalactic treaty regulates the actions of the Corps?",
+    "answer": "Code of Oa"
+  },
+  {
     "question": "What internal issue threatens the stability of Aquaman's rule?",
     "answer": "Palace intrigues"
+  },
+  {
+    "question": "What is Aquaman's role in the relations between Atlantis and the surface world?",
+    "answer": "Mediator"
+  },
+  {
+    "question": "What is Batman's role in the fight against chaos?",
+    "answer": "Harmony"
+  },
+  {
+    "question": "What is Darkseid's goal?",
+    "answer": "Anti-Life Equation"
   },
   {
     "question": "What is Diana known for among her allies in the Justice League?",
     "answer": "Fierce princess"
   },
   {
+    "question": "What is Harley Quinn's real name in real life?",
+    "answer": "Harleen Quinzel"
+  },
+  {
+    "question": "What is Lex Luthor's main goal in his plan against superheroes?",
+    "answer": "Power"
+  },
+  {
+    "question": "What is a characteristic attribute of the Joker?",
+    "answer": "Smile"
+  },
+  {
+    "question": "What is the Joker's goal in every conflict?",
+    "answer": "Destruction"
+  },
+  {
+    "question": "What is the famous weakness of Superman called?",
+    "answer": "magical vulnerability"
+  },
+  {
+    "question": "What is the main challenge to the morale of the Suicide Squad members?",
+    "answer": "Ethical dilemmas"
+  },
+  {
+    "question": "What is the main source of Darkseid's power?",
+    "answer": "Anti-Life"
+  },
+  {
+    "question": "What is the name of Barry and Iris's daughter?",
+    "answer": "Nora"
+  },
+  {
+    "question": "What is the name of Kal-El's mother?",
+    "answer": "Lara Lor-Van"
+  },
+  {
+    "question": "What is the name of the founder of the Sinestro Corps?",
+    "answer": "Sinestro"
+  },
+  {
+    "question": "What is the name of the group of Flash's enemies?",
+    "answer": "Rogues Gallery"
+  },
+  {
+    "question": "What is the name of the prison complex where the most dangerous villains are held?",
+    "answer": "Belle Reve"
+  },
+  {
+    "question": "What is the name of the prison where the members of the Squad are held?",
+    "answer": "Belle Reve"
+  },
+  {
+    "question": "What is the name of the substance that enhances physical abilities?",
+    "answer": "Venom"
+  },
+  {
+    "question": "What is the principle of action of the ring?",
+    "answer": "Transformation of thought"
+  },
+  {
+    "question": "What is the real name of Green Lantern, a member of the Justice League?",
+    "answer": "Hal Jordan"
+  },
+  {
+    "question": "What is the temporary state of Superman's strength called after prolonged exposure to the sun?",
+    "answer": "solar overload"
+  },
+  {
+    "question": "What magical artifact does the League use to counteract sorcery?",
+    "answer": "Helmet of Fate"
+  },
+  {
+    "question": "What magical artifact protects John Constantine?",
+    "answer": "Mr. E's Ring"
+  },
+  {
+    "question": "What magical object holds the power of all the stars?",
+    "answer": "Star Amulet"
+  },
+  {
+    "question": "What material makes the invisible plane unique?",
+    "answer": "Amazonium metal"
+  },
+  {
+    "question": "What methods does Lex Luthor use to achieve success in the technology business?",
+    "answer": "Innovation"
+  },
+  {
+    "question": "What philosophical reflections does the Flash have when encountering alternate versions of himself from other timelines?",
+    "answer": "Existence"
+  },
+  {
+    "question": "What place is associated with the origin of the Justice League?",
+    "answer": "Earth"
+  },
+  {
     "question": "What place is the birthplace of the legendary warrior of Themyscira?",
     "answer": "Themyscira"
+  },
+  {
+    "question": "What political change in Atlantis was key to its modernization?",
+    "answer": "Government reform"
+  },
+  {
+    "question": "What property does an obsidian mirror have?",
+    "answer": "Shows the future"
+  },
+  {
+    "question": "What protocol is activated in case of a mass threat to the Lanterns?",
+    "answer": "Omega Protection"
+  },
+  {
+    "question": "What quality helps Wonder Woman in battle?",
+    "answer": "Bravery"
+  },
+  {
+    "question": "What role did Dick Grayson take on after leaving Batman?",
+    "answer": "Nightwing"
+  },
+  {
+    "question": "What role did artifacts play in the battle of wizards in DC?",
+    "answer": "Support"
+  },
+  {
+    "question": "What role does Alfred serve for Batman?",
+    "answer": "Butler"
+  },
+  {
+    "question": "What role does Atlantis play in relations with the surface world?",
+    "answer": "Peace mediator"
+  },
+  {
+    "question": "What role does Harley Quinn play in the team?",
+    "answer": "Agent of chaos"
+  },
+  {
+    "question": "What role does the Joker play in Batman's life?",
+    "answer": "Arch-nemesis"
+  },
+  {
+    "question": "What role does the Joker play in the concept of chaos?",
+    "answer": "Initiates"
   },
   {
     "question": "What role does the planet Mogo play in the Green Lantern Corps?",
     "answer": "Living Lantern"
   },
   {
+    "question": "What spell allows mages to control the forces of nature?",
+    "answer": "Elemental Charm"
+  },
+  {
+    "question": "What strategic advantage does the character use in battles against superheroes?",
+    "answer": "Intelligence"
+  },
+  {
+    "question": "What strategic skill does Superman use to combat threats?",
+    "answer": "Intuition"
+  },
+  {
+    "question": "What strategy did Diana use to form an alliance with the Justice League?",
+    "answer": "Diplomacy"
+  },
+  {
     "question": "What strategy does Lex Luthor use to manipulate public opinion?",
     "answer": "Media"
+  },
+  {
+    "question": "What strategy does the Joker use to destabilize society in Gotham?",
+    "answer": "Chaos"
+  },
+  {
+    "question": "What symbol is depicted on Aquaman's belt?",
+    "answer": "Trident"
+  },
+  {
+    "question": "What tactic do mages use to conceal their magical aura?",
+    "answer": "Concealment Illusions"
+  },
+  {
+    "question": "What tactic does the Penguin use to control the criminal underworld of Gotham?",
+    "answer": "Political intrigue"
+  },
+  {
+    "question": "What technologies does Darkseid use for invasion?",
+    "answer": "Boom Tubes"
+  },
+  {
+    "question": "What trial allowed Wonder Woman to become the protector of humanity?",
+    "answer": "Tournament"
+  },
+  {
+    "question": "What unique ability distinguishes Wonder Woman from other Amazons?",
+    "answer": "Flying"
+  },
+  {
+    "question": "What unique detective skill does Batman possess that allows him to solve complex cases?",
+    "answer": "Intuition"
+  },
+  {
+    "question": "Which DC Comics character uses a mystical artifact for mind control?",
+    "answer": "Doctor Fate"
   },
   {
     "question": "Which DC Comics villain uses their incredible strength and control over the elements to create devastating storms?",
     "answer": "Typhoon"
   },
   {
+    "question": "Which DC superhero often collaborates with Batman in investigations?",
+    "answer": "The Flash"
+  },
+  {
+    "question": "Which DC villain has the ability to control shadow matter?",
+    "answer": "The Shade"
+  },
+  {
     "question": "Which DC villain is known for his chemical attacks on Gotham?",
     "answer": "Joker"
+  },
+  {
+    "question": "Which DC villain seeks to control the universe through conquest and manipulation of resources?",
+    "answer": "Darkseid"
+  },
+  {
+    "question": "Which Green Lantern was the first to discover the threat of Parallax?",
+    "answer": "Ganthet"
+  },
+  {
+    "question": "Which Justice League superhero was raised by bats?",
+    "answer": "Batman"
+  },
+  {
+    "question": "Which League artifact allows time travel?",
+    "answer": "Cosmic Belt"
   },
   {
     "question": "Which acting award was given for the role of the Joker in 2019?",
     "answer": "Oscar"
   },
   {
+    "question": "Which actor played the role of Superman in the 1978 film?",
+    "answer": "Christopher Reeve"
+  },
+  {
+    "question": "Which architectural elements of Gotham are inspired by modernism?",
+    "answer": "Gargoyles, spires"
+  },
+  {
+    "question": "Which aspects of the theory of relativity does the Flash violate when moving?",
+    "answer": "Time relativity"
+  },
+  {
+    "question": "Which character from Batman's team specializes in reconnaissance operations?",
+    "answer": "Tim Drake"
+  },
+  {
+    "question": "Which character from the Batman universe is known for their dedication to justice and close collaboration with Batman?",
+    "answer": "James Gordon"
+  },
+  {
+    "question": "Which character is known for their shooting accuracy?",
+    "answer": "Deadshot"
+  },
+  {
+    "question": "Which character is not a member of the Suicide Squad?",
+    "answer": "Batman"
+  },
+  {
+    "question": "Which character uses poisons in battles?",
+    "answer": "Poison Ivy"
+  },
+  {
+    "question": "Which character uses the alias Batgirl?",
+    "answer": "Barbara Gordon"
+  },
+  {
+    "question": "Which character uses their knowledge of chemistry to create toxins against Batman?",
+    "answer": "Scarecrow"
+  },
+  {
+    "question": "Which comic book character controls fire?",
+    "answer": "El Diablo"
+  },
+  {
+    "question": "Which comic book character used their knowledge to create an antivirus against the Joker?",
+    "answer": "Lex Luthor"
+  },
+  {
+    "question": "Which company is owned by Lex Luthor?",
+    "answer": "LexCorp"
+  },
+  {
+    "question": "Which enemy of Wonder Woman is known as the god of war?",
+    "answer": "Ares"
+  },
+  {
     "question": "Which group includes well-known enemies of the Justice League?",
     "answer": "Legion of Doom"
+  },
+  {
+    "question": "Which group of villains opposes the Justice League?",
+    "answer": "Legion of Doom"
+  },
+  {
+    "question": "Which historical events inspired the writers of Batman?",
+    "answer": "The Great Depression"
+  },
+  {
+    "question": "Which invention by one of the most famous geniuses changed the course of superhero battles?",
+    "answer": "Armor"
+  },
+  {
+    "question": "Which magical group is led by John Constantine?",
+    "answer": "Justice League Dark"
+  },
+  {
+    "question": "Which member of Batman's team is known for their virtuosity in using technology?",
+    "answer": "Luke Fox"
+  },
+  {
+    "question": "Which member of the Justice League has telepathic and teleportation abilities?",
+    "answer": "Martian Manhunter"
+  },
+  {
+    "question": "Which mythical creature is associated with the origin of the Amazons?",
+    "answer": "Harpies"
+  },
+  {
+    "question": "Which mythical island is associated with the legend of warrior women possessing extraordinary strength and wisdom?",
+    "answer": "Themyscira"
+  },
+  {
+    "question": "Which of Batman's sidekicks uses the alias Spoiler?",
+    "answer": "Stephanie Brown"
+  },
+  {
+    "question": "Which of the Robins is Batman's son?",
+    "answer": "Damian Wayne"
+  },
+  {
+    "question": "Which philosophical ideas influenced Batman's worldview?",
+    "answer": "Existentialism"
+  },
+  {
+    "question": "Which place is associated with the legend of the Dark Knight?",
+    "answer": "Gotham"
+  },
+  {
+    "question": "Which planet in DC is the center for many heroes and their stories?",
+    "answer": "Earth"
+  },
+  {
+    "question": "Which planet is J'onn J'onzz from?",
+    "answer": "Mars"
+  },
+  {
+    "question": "Which planet is associated with the origin of the Legion of Super-Heroes and their time travels?",
+    "answer": "Daxam"
+  },
+  {
+    "question": "Which planet is considered the home of Kara Zor-El?",
+    "answer": "Krypton"
+  },
+  {
+    "question": "Which protocol is activated in the event of a global threat?",
+    "answer": "Omega Protocol"
+  },
+  {
+    "question": "Which supercomputer assists the League in strategic planning?",
+    "answer": "Brother Eye"
+  },
+  {
+    "question": "Which superhero from the Batman universe is known for his martial arts skills and detective abilities?",
+    "answer": "Nightwing"
+  },
+  {
+    "question": "Which superhero from the League uses martial arts and intellectual abilities for battles?",
+    "answer": "Batman"
   },
   {
     "question": "Which version of The Flash is known for working in the Central City Police Department?",
     "answer": "Barry Allen"
   },
   {
+    "question": "Which version of the Joker is considered the most unstable?",
+    "answer": "The Killing Joke"
+  },
+  {
+    "question": "Which version of the Joker is known for its improvisation?",
+    "answer": "Heath Ledger"
+  },
+  {
+    "question": "Which villain can alter reality at will?",
+    "answer": "Reality Manipulator"
+  },
+  {
+    "question": "Which villain from the Batman universe is known for their love of plants?",
+    "answer": "Poison Ivy"
+  },
+  {
     "question": "Which villain from the DC universe became known as a strategist seeking to destroy the Justice League?",
     "answer": "Vandal Savage"
+  },
+  {
+    "question": "Which villain from the DC universe is known for his scientific inventions and desire for world domination?",
+    "answer": "Lex Luthor"
+  },
+  {
+    "question": "Which villain from the DC universe uses a fear ring to fight the Green Lantern?",
+    "answer": "Sinestro"
+  },
+  {
+    "question": "Which villain from the DC universe uses a mask to create poisonous gas?",
+    "answer": "Scarecrow"
   },
   {
     "question": "Which villain from the DC universe uses his powers to manipulate the cosmic order?",
@@ -88,6 +612,34 @@
     "answer": "The Collector"
   },
   {
+    "question": "Which villain is associated with the rings of power?",
+    "answer": "Sinestro"
+  },
+  {
+    "question": "Which villain is capable of mind control using music?",
+    "answer": "Music Meister"
+  },
+  {
+    "question": "Which villain is known for their ability to destroy entire worlds using cosmic energy?",
+    "answer": "Parallax"
+  },
+  {
+    "question": "Which villain is known for their manipulations through alternate realities?",
+    "answer": "Prometheus"
+  },
+  {
+    "question": "Which villain is known for their strength and is an enemy of Wonder Woman?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Which villain uses a mutating formula to increase strength?",
+    "answer": "Bane"
+  },
+  {
+    "question": "Which villain uses technological devices to control and manipulate others?",
+    "answer": "Toymaker"
+  },
+  {
     "question": "Which villain uses the 'Black Friday' program to destroy banks?",
     "answer": "Prometheus"
   },
@@ -96,19 +648,67 @@
     "answer": "Black Siren"
   },
   {
+    "question": "Which villain wants to disrupt the metahuman status quo?",
+    "answer": "Ra's al Ghul"
+  },
+  {
+    "question": "Which villain was originally a psychiatrist at Arkham?",
+    "answer": "Harley Quinn"
+  },
+  {
+    "question": "Which villain was originally an archaeologist before becoming a supernatural threat?",
+    "answer": "Black Hand"
+  },
+  {
+    "question": "Who became the first member of the Sinestro Corps?",
+    "answer": "Sinestro"
+  },
+  {
+    "question": "Who can control electricity?",
+    "answer": "Electro"
+  },
+  {
     "question": "Who is the Flash's arch-enemy and can move faster than light?",
     "answer": "Zoom"
+  },
+  {
+    "question": "Who is the brother of the Enchantress in the movie 'Suicide Squad'?",
+    "answer": "Incubus"
   },
   {
     "question": "Who is the character capable of mimicry?",
     "answer": "Chameleon Man"
   },
   {
+    "question": "Who is the father of the character Rick Flag?",
+    "answer": "Rick Flag Sr."
+  },
+  {
     "question": "Who is the supreme leader of the villains seeking to destroy the multiverse?",
     "answer": "Anti-Monitor"
   },
   {
+    "question": "Who leads the Blue Lantern Corps?",
+    "answer": "Saint Walker"
+  },
+  {
+    "question": "Who possesses the Book of Destiny in DC?",
+    "answer": "Doctor Fate"
+  },
+  {
+    "question": "Who provided the technology for the Justice League's base in orbit?",
+    "answer": "The Dark Knight"
+  },
+  {
+    "question": "Who was Batman's first female partner?",
+    "answer": "Kathy Kane"
+  },
+  {
     "question": "Who was turned into a cyborg after a laboratory explosion?",
     "answer": "Cyborg Superman"
+  },
+  {
+    "question": "Who wore the Red Hood mantle before the Joker?",
+    "answer": "Jason Todd"
   }
 ]
