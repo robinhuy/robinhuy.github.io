@@ -1,7 +1,15 @@
 [
   {
+    "question": "At which racetrack do races take place in extreme heat conditions?",
+    "answer": "Sakhir"
+  },
+  {
     "question": "How are cities selected to host the Paralympic Games?",
     "answer": "Bidding process"
+  },
+  {
+    "question": "How can an athlete's genetic characteristics influence the choice of optimal exercise technique?",
+    "answer": "Type of musculature"
   },
   {
     "question": "How do changes in competition rules affect athletes' training strategies?",
@@ -40,6 +48,10 @@
     "answer": "Increase in height"
   },
   {
+    "question": "How does the wind interact with a windsurfer's sail?",
+    "answer": "Creates thrust"
+  },
+  {
     "question": "How does weight distribution affect the efficiency of a snatch in weightlifting?",
     "answer": "Balance"
   },
@@ -60,8 +72,20 @@
     "answer": "6 games"
   },
   {
+    "question": "How many pieces can be under attack in a double check?",
+    "answer": "One"
+  },
+  {
     "question": "How many quarters are there in a PFL match?",
     "answer": "Four"
+  },
+  {
+    "question": "In what year was the European Volleyball Championship first held?",
+    "answer": "1948"
+  },
+  {
+    "question": "In what year was the first American football game played?",
+    "answer": "1869"
   },
   {
     "question": "In which aspect of a biathlete's preparation are weather changes most significant?",
@@ -92,6 +116,10 @@
     "answer": "Pace and strategy"
   },
   {
+    "question": "What are the main challenges in adapting sports for the Paralympic Games?",
+    "answer": "Accessibility"
+  },
+  {
     "question": "What are the main differences in rules between rugby union (15s) and rugby league (13s)?",
     "answer": "Number of players"
   },
@@ -108,12 +136,24 @@
     "answer": "Precision of tuning"
   },
   {
+    "question": "What breed of horse is used in racing?",
+    "answer": "Thoroughbred"
+  },
+  {
     "question": "What caliber of bullets is used in biathlon?",
     "answer": "5.6 mm"
   },
   {
     "question": "What changes occurred in the strategy after changing the racket materials?",
     "answer": "Focus on speed"
+  },
+  {
+    "question": "What characteristic is important when choosing sprint spikes?",
+    "answer": "Spike length"
+  },
+  {
+    "question": "What characteristic of a horse is critically important for its success in eventing?",
+    "answer": "Versatility"
   },
   {
     "question": "What chess method is used to create pressure on the center without occupying it with pieces?",
@@ -124,12 +164,28 @@
     "answer": "Undermining move"
   },
   {
+    "question": "What chokehold is known in Brazilian Jiu-Jitsu?",
+    "answer": "Rear Naked Choke"
+  },
+  {
+    "question": "What criteria are important when choosing a location for extreme snowboarding competitions?",
+    "answer": "Tracks and safety"
+  },
+  {
     "question": "What criteria are used to classify athletes at the Paralympics?",
     "answer": "Functional"
   },
   {
+    "question": "What determines successful shooting in windy conditions?",
+    "answer": "Sight adjustment"
+  },
+  {
     "question": "What distance do women cover in the relay?",
     "answer": "5 km"
+  },
+  {
+    "question": "What effect does altitude have on shooting in biathlon?",
+    "answer": "Reduced accuracy"
   },
   {
     "question": "What effect does the grip width have on the barbell's trajectory in the snatch?",
@@ -148,8 +204,20 @@
     "answer": "Triple twist lift"
   },
   {
+    "question": "What element is important for controlling windsurfing?",
+    "answer": "Sail control"
+  },
+  {
+    "question": "What element of preparation is critically important for shooting in windy conditions?",
+    "answer": "Vision training"
+  },
+  {
     "question": "What element of preparation is especially important for a biathlete in changing wind conditions?",
     "answer": "Mental resilience"
+  },
+  {
+    "question": "What element of preparation is important for an optimal reaction to fast serves?",
+    "answer": "Training"
   },
   {
     "question": "What element of strategy is important for a successful counterattack in table tennis?",
@@ -174,6 +242,22 @@
   {
     "question": "What event is considered the beginning of rugby in the 19th century?",
     "answer": "School incident"
+  },
+  {
+    "question": "What event led to the introduction of a new judging system?",
+    "answer": "2002 scandal"
+  },
+  {
+    "question": "What event opens the season of classic cycling races?",
+    "answer": "Milan-San Remo"
+  },
+  {
+    "question": "What external conditions can affect swimming technique?",
+    "answer": "Current speed"
+  },
+  {
+    "question": "What factor affects the recovery speed after swimming?",
+    "answer": "Heart rate"
   },
   {
     "question": "What factor affects the spin of the ball when serving?",
@@ -204,6 +288,14 @@
     "answer": "Accessibility"
   },
   {
+    "question": "What factor is most important for successful participation in extreme cycling races?",
+    "answer": "Endurance"
+  },
+  {
+    "question": "What factors determine the success of an athlete at the Paralympic Games?",
+    "answer": "Preparation, mindset"
+  },
+  {
     "question": "What factors determine the success of strategic maneuvers?",
     "answer": "Planning and execution"
   },
@@ -232,12 +324,32 @@
     "answer": "Determine stability"
   },
   {
+    "question": "What innovation in MotoGP changed the approach to motorcycle aerodynamics?",
+    "answer": "Wings"
+  },
+  {
     "question": "What is a feature of show jumping compared to other equestrian disciplines?",
     "answer": "Jumping"
   },
   {
+    "question": "What is a key factor considered when selecting a course for a Biathlon World Cup stage?",
+    "answer": "Climatic conditions"
+  },
+  {
+    "question": "What is blindfold chess?",
+    "answer": "Blindfold play"
+  },
+  {
     "question": "What is critical for safety during extreme diving?",
     "answer": "Equipment"
+  },
+  {
+    "question": "What is necessary for safe windsurfing?",
+    "answer": "Helmet"
+  },
+  {
+    "question": "What is rotation?",
+    "answer": "Rotation of players"
   },
   {
     "question": "What is the area of a table tennis table?",
@@ -248,12 +360,36 @@
     "answer": "Bouldering"
   },
   {
+    "question": "What is the distance from the net to the service line in tennis?",
+    "answer": "17 cm"
+  },
+  {
+    "question": "What is the height of the volleyball net post?",
+    "answer": "2.55 m"
+  },
+  {
+    "question": "What is the key quality necessary for successful performance in a decathlon?",
+    "answer": "Endurance"
+  },
+  {
     "question": "What is the key skill required for successfully performing tricks in parkour?",
     "answer": "Flexibility"
   },
   {
+    "question": "What is the main activity in the discipline of show jumping?",
+    "answer": "Jumping over obstacles"
+  },
+  {
+    "question": "What is the main purpose of using elbow lockout in the snatch?",
+    "answer": "Maintaining stability"
+  },
+  {
     "question": "What is the maximum number of participants in a mass start?",
     "answer": "30 participants"
+  },
+  {
+    "question": "What is the name of Borussia Dortmund's home stadium?",
+    "answer": "Signal Iduna Park"
   },
   {
     "question": "What is the name of the close-range over-the-head shot?",
@@ -296,12 +432,28 @@
     "answer": "Topspin"
   },
   {
+    "question": "What is the name of the technique of jumping from a very high altitude using a special wingsuit?",
+    "answer": "Wingsuit flying"
+  },
+  {
+    "question": "What is the name of the throw technique over one shoulder in jiu-jitsu?",
+    "answer": "Ippon Seoi Nage"
+  },
+  {
+    "question": "What is the name of the volleyball tournament at the club level?",
+    "answer": "Champions League"
+  },
+  {
     "question": "What is the name of the windsurfing element that helps maintain balance?",
     "answer": "Fin"
   },
   {
     "question": "What is the race also known as the 'Lombardy Classic'?",
     "answer": "Giro di Lombardia"
+  },
+  {
+    "question": "What is the role of biomechanics in optimizing the technique of the snatch?",
+    "answer": "Determining"
   },
   {
     "question": "What is the role of centrifugal force in surfing?",
@@ -320,8 +472,44 @@
     "answer": "Sand with fiber"
   },
   {
+    "question": "What is the significance of breath synchronization in butterfly stroke?",
+    "answer": "Optimizes the stroke"
+  },
+  {
     "question": "What is the significance of foot positioning for stability in a snatch?",
     "answer": "Centers the weight"
+  },
+  {
+    "question": "What is the significance of proper snowboard binding adjustment for professional athletes?",
+    "answer": "Optimal control"
+  },
+  {
+    "question": "What is the standard height of a tennis net?",
+    "answer": "91.4 cm"
+  },
+  {
+    "question": "What is the strategic maneuver called where pieces are developed behind the pawn chain?",
+    "answer": "Fianchetto"
+  },
+  {
+    "question": "What is the tactic called when one piece attacks two or more targets?",
+    "answer": "Fork"
+  },
+  {
+    "question": "What is the technique called for landing after a long jump?",
+    "answer": "Forward landing"
+  },
+  {
+    "question": "What is the technique called for riding a wave against the wind?",
+    "answer": "Upwind ride"
+  },
+  {
+    "question": "What is the technique called that involves taking an opponent to the ground in martial arts?",
+    "answer": "Takedown"
+  },
+  {
+    "question": "What is the technique called where a surfer balances on a longboard by moving back and forth?",
+    "answer": "Nose riding"
   },
   {
     "question": "What is the technique called where athletes ski using a sail for movement?",
@@ -332,6 +520,10 @@
     "answer": "Bitless"
   },
   {
+    "question": "What is the term for an athlete who performs a throw?",
+    "answer": "Tori"
+  },
+  {
     "question": "What is the theory called that explains positional advantages through control over colored squares?",
     "answer": "Color strategy"
   },
@@ -340,12 +532,24 @@
     "answer": "VNL Cup"
   },
   {
+    "question": "What is the width of an NBA basketball court?",
+    "answer": "15 meters"
+  },
+  {
     "question": "What maneuver does a surfer perform to exit the inside of the wave to avoid its collapse?",
     "answer": "Cross-step"
   },
   {
     "question": "What material is the base of most modern ski surfaces?",
     "answer": "Polyethylene"
+  },
+  {
+    "question": "What measures are taken to integrate new sports into the Paralympics?",
+    "answer": "Test events"
+  },
+  {
+    "question": "What meteorological conditions create ideal conditions for surfing?",
+    "answer": "Light wind"
   },
   {
     "question": "What method of protection is used to defend pawns on one flank?",
@@ -380,12 +584,32 @@
     "answer": "Increase in heart rate"
   },
   {
+    "question": "What physiological process is important for muscle growth?",
+    "answer": "Hypertrophy"
+  },
+  {
+    "question": "What piece of equipment is important for wrist protection?",
+    "answer": "wristbands"
+  },
+  {
+    "question": "What piece of equipment is prohibited in athletics competitions?",
+    "answer": "Springs"
+  },
+  {
     "question": "What piece of horse equipment protects the hooves?",
     "answer": "Horseshoes"
   },
   {
     "question": "What principle involves placing the rook behind the passed pawn to support it?",
     "answer": "Tarrasch's Principle"
+  },
+  {
+    "question": "What principle states that it is necessary to control the center of the board?",
+    "answer": "Centralization"
+  },
+  {
+    "question": "What quality of a rider is considered critically important for successful performances in eventing?",
+    "answer": "Courage"
   },
   {
     "question": "What rule changes can affect the results of the Paralympic Games?",
@@ -396,32 +620,100 @@
     "answer": "Skating step"
   },
   {
+    "question": "What running style is preferred for the 400-meter distance?",
+    "answer": "Balanced"
+  },
+  {
+    "question": "What specialized equipment is used to increase resistance in water?",
+    "answer": "Hand paddles"
+  },
+  {
     "question": "What sport involves skating on ice using skates?",
     "answer": "Figure skating"
+  },
+  {
+    "question": "What sport requires athletes to use bicycles?",
+    "answer": "Cycling"
+  },
+  {
+    "question": "What strategic action in rugby is used to coordinate team actions in attack?",
+    "answer": "Lineout attack"
+  },
+  {
+    "question": "What strategic advantage does using different coatings on a racket provide?",
+    "answer": "Spin control"
+  },
+  {
+    "question": "What strategic approach is used to manage the pace of the game?",
+    "answer": "Rhythm control"
   },
   {
     "question": "What strategic element is important for maintaining control in a narrow area of the field?",
     "answer": "Maul"
   },
   {
+    "question": "What strategy element is used to play against strong spin?",
+    "answer": "Counter-spin"
+  },
+  {
+    "question": "What strategy helps minimize errors during a counterattack in table tennis?",
+    "answer": "Spin control"
+  },
+  {
     "question": "What strategy is used for optimal distribution of effort throughout a race?",
     "answer": "Heart rate control"
+  },
+  {
+    "question": "What strategy is used to attack fixed pawns?",
+    "answer": "Undermining"
   },
   {
     "question": "What style of play is characterized by passive defense?",
     "answer": "Defensive"
   },
   {
+    "question": "What style of surfing involves aggressive maneuvering on the wave?",
+    "answer": "Shortboard"
+  },
+  {
     "question": "What style of tennis play is characterized by constant shots from the back of the court?",
     "answer": "Baseline play"
+  },
+  {
+    "question": "What style of wrestling is used for takedowns?",
+    "answer": "Freestyle wrestling"
+  },
+  {
+    "question": "What surfing technique is used to increase control on the critical section of a wave?",
+    "answer": "Rail grinding"
+  },
+  {
+    "question": "What tactical action involves a quick change in the direction of a serve?",
+    "answer": "Flip"
   },
   {
     "question": "What tactical element in rugby sevens is used to ensure a quick attack?",
     "answer": "Quick tap"
   },
   {
+    "question": "What tactical element in sports allows for a quick switch between defense and attack?",
+    "answer": "Turnover"
+  },
+  {
+    "question": "What tactical move is used to change the pace of the game and unsettle the opponent?",
+    "answer": "Chop block"
+  },
+  {
     "question": "What tactical technique is used to reduce the impact of spin?",
     "answer": "Ball blocking"
+  },
+  {
+    "question": "What technical technique allows for quickly changing the trajectory of the ball?",
+    "answer": "Reverse topspin"
+  },
+  {
+    "question": "What technique allows a swimmer to efficiently use energy in freestyle?",
+    "answer": "Alternate stroke"
   },
   {
     "question": "What technique allows a swimmer to reduce water resistance?",
@@ -436,12 +728,20 @@
     "answer": "Passive block"
   },
   {
+    "question": "What technique helps windsurfers overcome headwinds?",
+    "answer": "Zigzag"
+  },
+  {
     "question": "What technique is used for quickly getting out of the wave zone in windsurfing?",
     "answer": "Beach start"
   },
   {
     "question": "What technique is used to change the trajectory of the ball without losing speed?",
     "answer": "Side spin"
+  },
+  {
+    "question": "What technique is used to create weaknesses in the opponent's pawn structure?",
+    "answer": "Undermining"
   },
   {
     "question": "What technique is used to minimize the impact of wind on shooting?",
@@ -456,8 +756,20 @@
     "answer": "ABS"
   },
   {
+    "question": "What technological innovations impact the development of Paralympic sports?",
+    "answer": "Prosthetics and exoskeletons"
+  },
+  {
+    "question": "What term describes a way of passing the ball with minimal risk of loss?",
+    "answer": "Hand pass"
+  },
+  {
     "question": "What term describes the position of pieces where any move weakens the defense?",
     "answer": "Zugzwang"
+  },
+  {
+    "question": "What term describes the synchronized movements of a horse and rider?",
+    "answer": "Harmony"
   },
   {
     "question": "What term in equestrian sports refers to complex jumps and maneuvers?",
@@ -474,6 +786,10 @@
   {
     "question": "What training method helps biathletes adapt to changing weather conditions on the track?",
     "answer": "Training in the mountains"
+  },
+  {
+    "question": "What training method is important for sprinters?",
+    "answer": "Reactive starts"
   },
   {
     "question": "What training technique is used to improve reaction to various conditions on the track?",
@@ -508,12 +824,20 @@
     "answer": "Interval training"
   },
   {
+    "question": "What type of training improves muscular endurance?",
+    "answer": "Pyramidal"
+  },
+  {
     "question": "What type of training improves reaction time in sprinters?",
     "answer": "Plyometric exercises"
   },
   {
     "question": "What unique eligibility requirement is imposed on Paralympians in goalball competitions?",
     "answer": "Vision impairment"
+  },
+  {
+    "question": "What was the purpose of the first Paralympic Games?",
+    "answer": "Rehabilitation"
   },
   {
     "question": "What year was the Chelsea Football Club founded?",
@@ -536,8 +860,16 @@
     "answer": "Aston Martin"
   },
   {
+    "question": "Which MotoGP rider set the record for the highest speed?",
+    "answer": "Andrea Dovizioso"
+  },
+  {
     "question": "Which Paralympic sport requires participants to use sleds?",
     "answer": "Para-snowboard"
+  },
+  {
+    "question": "Which aspect has the greatest impact on the stability of the barbell?",
+    "answer": "Foot positioning"
   },
   {
     "question": "Which aspect of biomechanics is most critical for optimizing turning speed in swimming?",
@@ -576,6 +908,18 @@
     "answer": "LeBron James"
   },
   {
+    "question": "Which basketball player was the first to record a triple-double in the NBA?",
+    "answer": "Oscar Robertson"
+  },
+  {
+    "question": "Which biathlete has participated in the most races at the World Championships?",
+    "answer": "Ole Einar Bjørndalen"
+  },
+  {
+    "question": "Which brand is the most successful in MotoGP?",
+    "answer": "Honda"
+  },
+  {
     "question": "Which car manufacturer dominated endurance racing in the 1980s?",
     "answer": "Porsche"
   },
@@ -584,8 +928,20 @@
     "answer": "Ford"
   },
   {
+    "question": "Which car manufacturer was the first to use the ABS system in racing?",
+    "answer": "Mercedes"
+  },
+  {
     "question": "Which chess player was the first to reach an Elo rating of 2800?",
     "answer": "Garry Kasparov"
+  },
+  {
+    "question": "Which chess principle concerns the rapid mobilization of pieces at the beginning of the game?",
+    "answer": "Development of pieces"
+  },
+  {
+    "question": "Which chess principle emphasizes creating a weak pawn structure for the opponent?",
+    "answer": "Pawn attack"
   },
   {
     "question": "Which chess principle is based on controlling the diagonals of the board?",
@@ -596,6 +952,10 @@
     "answer": "A bad plan is better than no plan"
   },
   {
+    "question": "Which chess tournament is held in Wijk aan Zee?",
+    "answer": "Tata Steel"
+  },
+  {
     "question": "Which choreographer worked with the 2018 Olympic champions in ice dance?",
     "answer": "Marie-France Dubreuil"
   },
@@ -604,8 +964,20 @@
     "answer": "Tokyo"
   },
   {
+    "question": "Which city hosted the Summer Paralympic Games in 2000?",
+    "answer": "Sydney"
+  },
+  {
+    "question": "Which city hosted the first international figure skating competition?",
+    "answer": "Vienna"
+  },
+  {
     "question": "Which component of a bicycle is the main factor in reducing its weight?",
     "answer": "Frame"
+  },
+  {
+    "question": "Which component of a motorcycle affects its maneuverability and aerodynamics?",
+    "answer": "Fairings"
   },
   {
     "question": "Which country has been hosting the Dakar Rally since 2009?",
@@ -618,6 +990,14 @@
   {
     "question": "Which country won the women's curling at the 2018 Olympics?",
     "answer": "Sweden"
+  },
+  {
+    "question": "Which criterion evaluates the consistency of movements with music?",
+    "answer": "Rhythmicity"
+  },
+  {
+    "question": "Which cyclist holds the record for the most stage wins in the Tour de France?",
+    "answer": "Eddy Merckx"
   },
   {
     "question": "Which cyclist is known for his ability to win both sprint and mountain stages?",
@@ -640,8 +1020,16 @@
     "answer": "Jean-Paul Dumont"
   },
   {
+    "question": "Which cyclist was the first to win Tour de France stages on all continents?",
+    "answer": "Alberto Contador"
+  },
+  {
     "question": "Which cyclist was the first to win all cyclocross stages in one season?",
     "answer": "Oliver Smith"
+  },
+  {
+    "question": "Which cyclist was the first to win all three Grand Tours twice?",
+    "answer": "Alberto Contador"
   },
   {
     "question": "Which cyclist was the first to win all three Monument stages in one season?",
@@ -660,8 +1048,16 @@
     "answer": "Bernard Hinault"
   },
   {
+    "question": "Which cyclist was the first to win the Road World Championships representing two different countries?",
+    "answer": "Rik Van Steenbergen"
+  },
+  {
     "question": "Which cyclist was the first to win the Tour de France at the age of 22?",
     "answer": "Tadej Pogačar"
+  },
+  {
+    "question": "Which cyclist was the first to win the Vuelta a España in the 21st century?",
+    "answer": "Alex Zülle"
   },
   {
     "question": "Which cyclist won the Liège-Bastogne-Liège race starting last?",
@@ -672,12 +1068,24 @@
     "answer": "Edge geometry"
   },
   {
+    "question": "Which discipline requires a horse to perform complex maneuvers at high speed?",
+    "answer": "Reining"
+  },
+  {
     "question": "Which discipline requires the horse and rider to overcome obstacles on rough terrain?",
     "answer": "Cross-country"
   },
   {
+    "question": "Which dressage element includes a pirouette?",
+    "answer": "Pirouette"
+  },
+  {
     "question": "Which dressage element requires absolute coordination and submission?",
     "answer": "Piaffe"
+  },
+  {
+    "question": "Which driver was the first to win the World Rally Championship in a hybrid car?",
+    "answer": "Sébastien Loeb"
   },
   {
     "question": "Which element became decisive in figure skating for the first time in the 1990s?",
@@ -688,11 +1096,27 @@
     "answer": "Pass"
   },
   {
+    "question": "Which element in show jumping competitions requires skill and experience from the horse?",
+    "answer": "Jumping over obstacles"
+  },
+  {
     "question": "Which element of an equestrian competition includes a water jump?",
     "answer": "Water jump"
   },
   {
     "question": "Which element of rugby requires precise timing and coordination?",
+    "answer": "Scrum"
+  },
+  {
+    "question": "Which element of table tennis requires the most tactical flexibility?",
+    "answer": "Serve"
+  },
+  {
+    "question": "Which element of the Paralympic Games infrastructure facilitates the integration of athletes with disabilities?",
+    "answer": "Ramps"
+  },
+  {
+    "question": "Which element of the game requires strength and coordination?",
     "answer": "Scrum"
   },
   {
@@ -712,16 +1136,40 @@
     "answer": "Contrast"
   },
   {
+    "question": "Which famous chess match ended after 48 moves and led to a well-known rivalry?",
+    "answer": "Fischer – Spassky"
+  },
+  {
+    "question": "Which famous racer is known for their 'knee on the ground' riding style?",
+    "answer": "Kenny Roberts"
+  },
+  {
     "question": "Which female tennis player was the first to win 23 Grand Slam singles titles?",
     "answer": "Serena Williams"
+  },
+  {
+    "question": "Which fight became known as the 'Fight of the Century' in the UFC?",
+    "answer": "156"
   },
   {
     "question": "Which figure in figure skating is a criterion of high skill?",
     "answer": "Quadruple jump"
   },
   {
+    "question": "Which figure skating competition requires the highest level of difficulty in the free program?",
+    "answer": "World Championship"
+  },
+  {
     "question": "Which figure skating element is performed with an initial backward movement from the edge?",
     "answer": "Lutz"
+  },
+  {
+    "question": "Which footballer is known as 'The Eleventh King'?",
+    "answer": "Kurt Müller"
+  },
+  {
+    "question": "Which footballer scored the fastest goal in World Cup history?",
+    "answer": "Hakan Şükür"
   },
   {
     "question": "Which genetic factor can enhance the aerobic capacity of swimmers?",
@@ -730,6 +1178,10 @@
   {
     "question": "Which high jump technique revolutionized modern athletics?",
     "answer": "Fosbury Flop"
+  },
+  {
+    "question": "Which hockey player has the most assists in the NHL?",
+    "answer": "Wayne Gretzky"
   },
   {
     "question": "Which horse riding technique minimally uses the reins?",
@@ -744,6 +1196,10 @@
     "answer": "Kyokushin"
   },
   {
+    "question": "Which manufacturer was the first to implement an active suspension system in Formula 1?",
+    "answer": "Williams"
+  },
+  {
     "question": "Which martial art teaches the principle of maximum efficiency with minimal effort?",
     "answer": "Aikido"
   },
@@ -752,24 +1208,68 @@
     "answer": "Tactic"
   },
   {
+    "question": "Which motorcycle component plays a key role in ensuring stability at high speeds in motorsport?",
+    "answer": "Chassis"
+  },
+  {
     "question": "Which motorcycle component was the first to use active control in racing?",
     "answer": "Suspension"
+  },
+  {
+    "question": "Which organization competes with the UFC?",
+    "answer": "Bellator"
   },
   {
     "question": "Which pair was the first to perform a quadruple twist lift in pair skating?",
     "answer": "Aljona Savchenko and Bruno Massot"
   },
   {
+    "question": "Which parameter determines the number of turns in a windsurfer's maneuver?",
+    "answer": "Angle of attack"
+  },
+  {
+    "question": "Which parameter is most critical for optimizing a snatch?",
+    "answer": "Lift speed"
+  },
+  {
     "question": "Which part of the body should be relaxed when swimming freestyle?",
     "answer": "Head"
+  },
+  {
+    "question": "Which piece of biathlete equipment improves aerodynamics?",
+    "answer": "Suit"
+  },
+  {
+    "question": "Which piece of biathlon equipment helps maintain balance and stability?",
+    "answer": "Poles"
   },
   {
     "question": "Which piece of equipment helps improve spin?",
     "answer": "Rubber pad"
   },
   {
+    "question": "Which piece of surfing equipment critically affects a surfer's safety in the water?",
+    "answer": "Leash"
+  },
+  {
     "question": "Which player was the first in history to complete a career with the highest level of achievement in both singles and doubles in the same year?",
     "answer": "Rod Laver"
+  },
+  {
+    "question": "Which player was the first to score 2000 points in an NBA season?",
+    "answer": "Wilt Chamberlain"
+  },
+  {
+    "question": "Which race requires riders to constantly be in high temperature conditions?",
+    "answer": "Tour Down Under"
+  },
+  {
+    "question": "Which racer is known as the only one to win championships in both motocross and supercross in the same year?",
+    "answer": "Ricky Carmichael"
+  },
+  {
+    "question": "Which racer was the first to introduce the practice of using 'wet' tires in the rain?",
+    "answer": "Johnson"
   },
   {
     "question": "Which racer was the first to use an electric motorcycle in competitions?",
@@ -780,12 +1280,20 @@
     "answer": "Rugby World Cup"
   },
   {
+    "question": "Which rule regulates the duration of a figure skating program?",
+    "answer": "ISU 612"
+  },
+  {
     "question": "Which running technique element in biathlon helps maintain balance?",
     "answer": "Leg position"
   },
   {
     "question": "Which ski track is considered the windiest?",
     "answer": "Oberhof"
+  },
+  {
+    "question": "Which snowboard parameter is especially important for tricks in the pipe?",
+    "answer": "Flex"
   },
   {
     "question": "Which snowboarding technique requires high precision and coordination?",
@@ -798,6 +1306,10 @@
   {
     "question": "Which sport is held at the Summer Paralympics for wheelchair athletes?",
     "answer": "Wheelchair basketball"
+  },
+  {
+    "question": "Which sport is included in the Paralympic Games but not in the Olympic Games?",
+    "answer": "Goalball"
   },
   {
     "question": "Which sport made its debut at the Summer Paralympics in Atlanta?",
@@ -828,11 +1340,23 @@
     "answer": "Topspin"
   },
   {
+    "question": "Which technique improves the efficiency of a sprint?",
+    "answer": "Explosive start"
+  },
+  {
     "question": "Which technique provides maximum efficiency in the snatch?",
     "answer": "Squat under"
   },
   {
+    "question": "Which technology has had the greatest impact on the performance of snowboards in park disciplines?",
+    "answer": "Edge with Magne-Traction technology"
+  },
+  {
     "question": "Which tennis player finished the season with the highest winning percentage in Grand Slam tournaments?",
+    "answer": "Roger Federer"
+  },
+  {
+    "question": "Which tennis player was the first to win 20 Grand Slam tournaments?",
     "answer": "Roger Federer"
   },
   {
@@ -844,12 +1368,28 @@
     "answer": "Jan Kodeš"
   },
   {
+    "question": "Which tennis player won more than 90% of matches in one season?",
+    "answer": "John McEnroe"
+  },
+  {
     "question": "Which track has the longest section for drifting?",
     "answer": "Fuji"
   },
   {
+    "question": "Which training approach helps to increase speed in distances over 800 meters?",
+    "answer": "Fartlek"
+  },
+  {
     "question": "Which training element improves runners' recovery ability?",
     "answer": "Intervals"
+  },
+  {
+    "question": "Which type of equestrian sport requires performing complex exercises at high speeds?",
+    "answer": "Rodeo"
+  },
+  {
+    "question": "Which type of track surface is the most challenging for maintaining high speed?",
+    "answer": "Wet snow"
   },
   {
     "question": "Who became the first Olympic champion in pair skating in 1964?",
@@ -864,12 +1404,24 @@
     "answer": "David Rudisha"
   },
   {
+    "question": "Who holds the world record in the 400m individual medley swimming?",
+    "answer": "Michael Phelps"
+  },
+  {
     "question": "Who invented tennis in its modern form?",
     "answer": "Walter Wingfield"
   },
   {
+    "question": "Who is considered the founder of modern cycling?",
+    "answer": "Henri Desgrange"
+  },
+  {
     "question": "Who is known by the nickname 'The Nightmare'?",
     "answer": "Diego Sanchez"
+  },
+  {
+    "question": "Who is the NBA MVP for 2023?",
+    "answer": "Joel Embiid"
   },
   {
     "question": "Who is the author of the book 'The Vegetarian'?",
@@ -880,6 +1432,10 @@
     "answer": "Jules Rimet"
   },
   {
+    "question": "Who is the founder of Olympic hockey?",
+    "answer": "Henri Grenier"
+  },
+  {
     "question": "Who is the top scorer in World Cup history?",
     "answer": "Miroslav Klose"
   },
@@ -888,8 +1444,20 @@
     "answer": "Ludolf Lechne"
   },
   {
+    "question": "Who set the world record in the 3000 meters steeplechase in 2004?",
+    "answer": "Saif Saaeed Shaheen"
+  },
+  {
     "question": "Who was the coach of Vitali and Wladimir Klitschko?",
     "answer": "Emanuel Steward"
+  },
+  {
+    "question": "Who was the first Olympic champion in boxing?",
+    "answer": "Baker"
+  },
+  {
+    "question": "Who was the first WBC world boxing champion?",
+    "answer": "Sonny Liston"
   },
   {
     "question": "Who was the first driver to win three consecutive Grand Prix races in a Formula 1 season?",
@@ -914,6 +1482,10 @@
   {
     "question": "Who was the first to perform four quadruple jumps in one free skate program?",
     "answer": "Nathan Chen"
+  },
+  {
+    "question": "Who was the first to race on a turbocharged motorcycle?",
+    "answer": "Hansford"
   },
   {
     "question": "Who was the first to run 10,000 meters in under 27 minutes?",
@@ -960,6 +1532,14 @@
     "answer": "Jacques Anquetil"
   },
   {
+    "question": "Who was the first to win two consecutive World Championships in men's singles badminton?",
+    "answer": "Lin Dan"
+  },
+  {
+    "question": "Who was the first winner of a DTM race in the 2000s?",
+    "answer": "Bernd Schneider"
+  },
+  {
     "question": "Who was the first woman to perform a quadruple salchow in international competition?",
     "answer": "Alexandra Trusova"
   },
@@ -972,6 +1552,10 @@
     "answer": "Jersey Joe Walcott"
   },
   {
+    "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
+    "answer": "Cristiano Ronaldo"
+  },
+  {
     "question": "Who won the Ballon d'Or in 2003?",
     "answer": "Pavel Nedvěd"
   },
@@ -982,5 +1566,9 @@
   {
     "question": "Who won the first season of the Biathlon World Cup?",
     "answer": "Adolf Wiklund"
+  },
+  {
+    "question": "Who won the gold medal in the 100 meters at the 2000 Olympics?",
+    "answer": "Maurice Greene"
   }
 ]
