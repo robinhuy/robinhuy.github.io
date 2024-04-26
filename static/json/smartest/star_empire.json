@@ -424,6 +424,10 @@
     "answer": "Spiritual Inspiration"
   },
   {
+    "question": "How do Mandalorians preserve their cultural heritage?",
+    "answer": "Restore artifacts"
+  },
+  {
     "question": "How do Mandalorians preserve their culture in a changing galaxy?",
     "answer": "Tradition Keeping"
   },
@@ -989,6 +993,10 @@
     "answer": "Dark Transfer"
   },
   {
+    "question": "What ability did the ancient Sith have to control souls?",
+    "answer": "Soul capture"
+  },
+  {
     "question": "What ability do the Sith use for mental influence?",
     "answer": "Dark Influence"
   },
@@ -1408,6 +1416,14 @@
     "answer": "Soresu"
   },
   {
+    "question": "What combat technique is known among the Mandalorians?",
+    "answer": "Hand-to-hand combat"
+  },
+  {
+    "question": "What common interrogation method did the Empire use?",
+    "answer": "Truth serum"
+  },
+  {
     "question": "What concept became central in the teachings of the Jedi?",
     "answer": "Balance of the Force"
   },
@@ -1544,12 +1560,20 @@
     "answer": "Conflict on Garme"
   },
   {
+    "question": "What diplomatic skills did Obi-Wan use to resolve the conflict on Kamino?",
+    "answer": "Persuasion of leaders"
+  },
+  {
     "question": "What distinguished Yoda's fighting technique?",
     "answer": "Aggression and speed"
   },
   {
     "question": "What distinguishes ancient Jedi weapons from modern lightsabers?",
     "answer": "Physical blade"
+  },
+  {
+    "question": "What do Mandalorians call the concept of learning through battle?",
+    "answer": "Kad'karrara"
   },
   {
     "question": "What does Kal-El's suit symbolize among Kryptonians?",
@@ -2234,6 +2258,10 @@
     "answer": "Cancellation of the project"
   },
   {
+    "question": "What impact did the destruction of the Sith have on the order in the galaxy?",
+    "answer": "Temporary stability"
+  },
+  {
     "question": "What impact did the prophecy have on the fate of the Skywalkers?",
     "answer": "Determined the path"
   },
@@ -2320,6 +2348,10 @@
   {
     "question": "What influence did Yoda have on the Jedi Council?",
     "answer": "Moral compass"
+  },
+  {
+    "question": "What influence did Yoda have on the development of the Jedi Order?",
+    "answer": "Crucial role"
   },
   {
     "question": "What influence does the Dark Side have on the decision-making process?",
@@ -3410,6 +3442,10 @@
     "answer": "Harmony"
   },
   {
+    "question": "What philosophy did the Empire adhere to for governing the galaxy?",
+    "answer": "Absolute order"
+  },
+  {
     "question": "What philosophy did the Skywalker family promote in the Galaxy?",
     "answer": "Balance of the Force"
   },
@@ -4222,6 +4258,10 @@
     "answer": "Dove"
   },
   {
+    "question": "What symbol remained important to Luke after the war?",
+    "answer": "Lightsaber"
+  },
+  {
     "question": "What symbol represented the ideology of the Empire in 'Star Wars'?",
     "answer": "Imperial emblem"
   },
@@ -4591,6 +4631,10 @@
   {
     "question": "What term describes the early use of the Force?",
     "answer": "Light of the Force"
+  },
+  {
+    "question": "What term describes the rate at which a star loses mass through stellar wind?",
+    "answer": "Mass loss rate"
   },
   {
     "question": "What term was used to refer to the early mentors of the Jedi?",
@@ -5149,8 +5193,16 @@
     "answer": "Operation Trap"
   },
   {
+    "question": "What was the name of the project to create a superweapon?",
+    "answer": "Project 'Star'"
+  },
+  {
     "question": "What was the name of the project to create enhanced clones?",
     "answer": "Project Omega"
+  },
+  {
+    "question": "What was the name of the project to infiltrate spies into the Republic's army?",
+    "answer": "Project Twilight"
   },
   {
     "question": "What was the name of the secret project developed by the clones to fight the separatists?",
@@ -5349,6 +5401,10 @@
   },
   {
     "question": "Where did Yoda hide after Order 66?",
+    "answer": "Dagobah"
+  },
+  {
+    "question": "Where did the Jedi train under the guidance of Yoda?",
     "answer": "Dagobah"
   },
   {
@@ -5683,6 +5739,10 @@
     "answer": "Maul"
   },
   {
+    "question": "Which Sith wielded a red lightsaber?",
+    "answer": "Darth Vader"
+  },
+  {
     "question": "Which Star Wars episode first showed Yoda in combat?",
     "answer": "Episode II"
   },
@@ -5701,6 +5761,10 @@
   {
     "question": "Which Star Wars film was the first to use 3D technology?",
     "answer": "Attack of the Clones"
+  },
+  {
+    "question": "Which Star Wars film was the first to use animated 3D models for creating spacecraft?",
+    "answer": "The Phantom Menace"
   },
   {
     "question": "Which Star Wars film was the first to use computer animation to create a character?",
@@ -6429,6 +6493,10 @@
     "answer": "Luke vs. Vader"
   },
   {
+    "question": "Which duel decided the fate of Palpatine?",
+    "answer": "Anakin vs. Sidious"
+  },
+  {
     "question": "Which duel symbolized the fall of the Old Republic?",
     "answer": "On Mustafar"
   },
@@ -6511,6 +6579,10 @@
   {
     "question": "Which faction opposed the Empire in the Battle of Hoth?",
     "answer": "Rebel Alliance"
+  },
+  {
+    "question": "Which famous Sith fought Obi-Wan on Mustafar?",
+    "answer": "Anakin Skywalker"
   },
   {
     "question": "Which famous Sith led the Empire?",
@@ -7286,6 +7358,10 @@
   {
     "question": "Who completed the training of Mandalore the Great?",
     "answer": "Tarre Vizsla"
+  },
+  {
+    "question": "Who confronted Obi-Wan on Mustafar?",
+    "answer": "Anakin Skywalker"
   },
   {
     "question": "Who confronted Palpatine in the Senate chamber?",
