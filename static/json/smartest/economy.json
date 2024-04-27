@@ -52,6 +52,10 @@
     "answer": "Investments"
   },
   {
+    "question": "What determines long-term economic growth?",
+    "answer": "Technology"
+  },
+  {
     "question": "What does 'blue chips' mean on the stock exchange?",
     "answer": "Reliable stocks"
   },
@@ -276,8 +280,16 @@
     "answer": "Consumer rationality"
   },
   {
+    "question": "What promotes an increase in exports?",
+    "answer": "Subsidies and incentives"
+  },
+  {
     "question": "What role does international trade policy play?",
     "answer": "Control of exports"
+  },
+  {
+    "question": "What was the name of the economic crisis in Japan in the 1990s?",
+    "answer": "The Lost Decade"
   },
   {
     "question": "Which clustering method is based on distance?",
@@ -344,12 +356,20 @@
     "answer": "Arrow's Model"
   },
   {
+    "question": "Which of the following countries leads in technology exports?",
+    "answer": "Japan"
+  },
+  {
     "question": "Which statistical technique is used to test the significance of predictors?",
     "answer": "Fisher's Test"
   },
   {
     "question": "Which test is used to check the stationarity of time series?",
     "answer": "ADF test"
+  },
+  {
+    "question": "Who developed the concept of 'varieties of capitalism'?",
+    "answer": "Sergey Glazyev"
   },
   {
     "question": "Who founded the first bank?",
