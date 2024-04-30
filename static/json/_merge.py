@@ -26,6 +26,7 @@ files_to_merge = [
     "personalities.json",
     "plants.json",
     "science.json",
+    "society.json",
     "space.json",
     "sports.json",
     "technology.json",
