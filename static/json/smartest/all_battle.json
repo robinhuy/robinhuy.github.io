@@ -32071,6 +32071,10 @@
         "answer": "Physical properties"
     },
     {
+        "question": "For which company is the Atlas robot being developed?",
+        "answer": "Boston Dynamics"
+    },
+    {
         "question": "How are recombinant proteins produced?",
         "answer": "Using DNA technologies"
     },
@@ -32111,20 +32115,40 @@
         "answer": "32"
     },
     {
+        "question": "How many layers of services are there in the cloud?",
+        "answer": "Three"
+    },
+    {
         "question": "How many levels of autonomous driving correspond to full control?",
         "answer": "5"
+    },
+    {
+        "question": "How many qubits in superposition can a quantum register represent?",
+        "answer": "2^n"
     },
     {
         "question": "How to prevent data leakage?",
         "answer": "Disk encryption"
     },
     {
+        "question": "How to reduce mining difficulty?",
+        "answer": "Reducing hash rate"
+    },
+    {
         "question": "In what year was Dolly the sheep cloned?",
         "answer": "1996"
     },
     {
+        "question": "In what year was the first autonomous car introduced?",
+        "answer": "2009"
+    },
+    {
         "question": "In what year were fullerenes discovered?",
         "answer": "1985"
+    },
+    {
+        "question": "In which education sector has AR firmly established itself?",
+        "answer": "Medicine"
     },
     {
         "question": "In which field is AR used for staff training?",
@@ -32147,8 +32171,16 @@
         "answer": "Biogas"
     },
     {
+        "question": "One of the limitations of using cloud systems?",
+        "answer": "Network dependency"
+    },
+    {
         "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
         "answer": "Art AI"
+    },
+    {
+        "question": "What algorithms are used for object recognition?",
+        "answer": "Neural networks"
     },
     {
         "question": "What allows remote management of servers?",
@@ -32165,6 +32197,10 @@
     {
         "question": "What are complex calculations for protection called?",
         "answer": "Cryptography"
+    },
+    {
+        "question": "What are gene drives?",
+        "answer": "Modified alleles"
     },
     {
         "question": "What are microservices used for?",
@@ -32213,6 +32249,18 @@
     {
         "question": "What cells are used in gene therapy?",
         "answer": "Somatic cells"
+    },
+    {
+        "question": "What characterizes the degree of entanglement of qubits?",
+        "answer": "Entropy"
+    },
+    {
+        "question": "What component is necessary for the operation of a pneumatic system?",
+        "answer": "Compressor"
+    },
+    {
+        "question": "What compression algorithm is used in the ZIP format?",
+        "answer": "Deflate"
     },
     {
         "question": "What consensus is used in the Polkadot network?",
@@ -32283,6 +32331,10 @@
         "answer": "Substances at the nanoscale"
     },
     {
+        "question": "What does nanophysics study?",
+        "answer": "Physical properties of nanoparticles"
+    },
+    {
         "question": "What does the Imitation Learning method do?",
         "answer": "Imitates behavior"
     },
@@ -32347,6 +32399,10 @@
         "answer": "The combination of the virtual and real world"
     },
     {
+        "question": "What is BFT?",
+        "answer": "Byzantine Fault Tolerance"
+    },
+    {
         "question": "What is Big Data?",
         "answer": "Large volumes of data"
     },
@@ -32383,12 +32439,20 @@
         "answer": "proof of stake"
     },
     {
+        "question": "What is REST?",
+        "answer": "Architectural style"
+    },
+    {
         "question": "What is ROM?",
         "answer": "Read-Only Memory"
     },
     {
         "question": "What is RPA?",
         "answer": "Robotic Process Automation"
+    },
+    {
+        "question": "What is Shor's algorithm?",
+        "answer": "Factoring numbers"
     },
     {
         "question": "What is TWRP?",
@@ -32455,6 +32519,14 @@
         "answer": "Mixed qubit"
     },
     {
+        "question": "What is a servo system?",
+        "answer": "Automatic control system"
+    },
+    {
+        "question": "What is a virtual network?",
+        "answer": "Cloud network"
+    },
+    {
         "question": "What is an RDBMS?",
         "answer": "Relational Database Management System"
     },
@@ -32475,6 +32547,10 @@
         "answer": "DDoS"
     },
     {
+        "question": "What is decoherence?",
+        "answer": "Loss of coherence"
+    },
+    {
         "question": "What is enhanced by VR?",
         "answer": "Immersion"
     },
@@ -32485,6 +32561,10 @@
     {
         "question": "What is integrated into blockchain to enhance transaction anonymity?",
         "answer": "Tor"
+    },
+    {
+        "question": "What is lidar used for?",
+        "answer": "Scanning the environment"
     },
     {
         "question": "What is obtained as a result of bacterial transformation by the method of conjugation?",
@@ -32517,6 +32597,14 @@
     {
         "question": "What is sharding?",
         "answer": "Data partitioning"
+    },
+    {
+        "question": "What is the SVM method?",
+        "answer": "Classification method"
+    },
+    {
+        "question": "What is the ability of a machine to make decisions called?",
+        "answer": "Artificial Intelligence"
     },
     {
         "question": "What is the file format for software applications on Android smartphones called?",
@@ -32559,8 +32647,24 @@
         "answer": "Decoherence"
     },
     {
+        "question": "What is the main factor that causes mutations?",
+        "answer": "Changes in DNA"
+    },
+    {
         "question": "What is the main issue that can occur during 3D printing?",
         "answer": "Warping"
+    },
+    {
+        "question": "What is the main principle of nanophotonics?",
+        "answer": "Quantum effects"
+    },
+    {
+        "question": "What is the main tool used for editing DNA?",
+        "answer": "CRISPR-Cas9"
+    },
+    {
+        "question": "What is the main value of IoT data?",
+        "answer": "information"
     },
     {
         "question": "What is the measurement of height using satellites called?",
@@ -32595,20 +32699,44 @@
         "answer": "Collaborative filtering"
     },
     {
+        "question": "What is the name of the VR device prototype created in 1968?",
+        "answer": "Sword of Damocles"
+    },
+    {
         "question": "What is the name of the VR headset from Valve?",
         "answer": "Index"
+    },
+    {
+        "question": "What is the name of the algorithm used for object recognition?",
+        "answer": "YOLO"
+    },
+    {
+        "question": "What is the name of the attack where an attacker tries to control more than 50% of the network?",
+        "answer": "51% Attack"
     },
     {
         "question": "What is the name of the blockchain gambling platform?",
         "answer": "FunFair"
     },
     {
+        "question": "What is the name of the building's engineering equipment management system?",
+        "answer": "BMS"
+    },
+    {
         "question": "What is the name of the classification method using trees?",
         "answer": "Decision trees"
     },
     {
+        "question": "What is the name of the company that creates high-precision maps for autonomous vehicles?",
+        "answer": "HERE Technologies"
+    },
+    {
         "question": "What is the name of the computer vision technology used in smartphones?",
         "answer": "Computer vision"
+    },
+    {
+        "question": "What is the name of the consensus algorithm in the Ethereum network after the update to version 2.0?",
+        "answer": "Proof of Stake"
     },
     {
         "question": "What is the name of the emergency shutdown system for equipment?",
@@ -32623,6 +32751,10 @@
         "answer": "IO-Controller"
     },
     {
+        "question": "What is the name of the large-scale project to send humans to Mars?",
+        "answer": "Mars One"
+    },
+    {
         "question": "What is the name of the most powerful American rocket engine?",
         "answer": "RS-25"
     },
@@ -32633,6 +32765,10 @@
     {
         "question": "What is the name of the popular algorithm for factoring numbers on a quantum computer?",
         "answer": "Shor's Algorithm"
+    },
+    {
+        "question": "What is the name of the probabilistic inference technique?",
+        "answer": "Bayesian inference"
     },
     {
         "question": "What is the name of the quantum algorithm for searching a database?",
@@ -32649,6 +32785,10 @@
     {
         "question": "What is the name of the space telescope for ultraviolet observations?",
         "answer": "GALEX"
+    },
+    {
+        "question": "What is the name of the system for control and management of technological processes?",
+        "answer": "DCS"
     },
     {
         "question": "What is the name of the technology that converts high molecular weight compounds into hydrocarbons?",
@@ -32681,6 +32821,10 @@
     {
         "question": "What is the primary application of nanomaterials?",
         "answer": "Optimization of properties"
+    },
+    {
+        "question": "What is the primary function of IoT devices in industry?",
+        "answer": "Monitoring"
     },
     {
         "question": "What is the primary use of AI in medicine?",
@@ -32751,6 +32895,10 @@
         "answer": "Threat detection"
     },
     {
+        "question": "What is the purpose of cloud security?",
+        "answer": "Data protection"
+    },
+    {
         "question": "What is the purpose of the 'Chandra' mission?",
         "answer": "Study of X-rays"
     },
@@ -32765,6 +32913,10 @@
     {
         "question": "What is the software for programming controllers called?",
         "answer": "PLC software"
+    },
+    {
+        "question": "What is the technique called for cloning at the molecular level?",
+        "answer": "PCR"
     },
     {
         "question": "What is the technique called that allows the conversion of light energy into electricity at the nanoscale?",
@@ -32807,6 +32959,10 @@
         "answer": "Liquid helium"
     },
     {
+        "question": "What is used to ensure the stability of a robot?",
+        "answer": "Gyroscopes"
+    },
+    {
         "question": "What joins DNA from different sources?",
         "answer": "Ligases"
     },
@@ -32829,6 +32985,10 @@
     {
         "question": "What material is often used in tissue bioprinting?",
         "answer": "Bioplastics"
+    },
+    {
+        "question": "What material is used for medical implants in 3D printing?",
+        "answer": "Titanium"
     },
     {
         "question": "What material is used for supercapacitors?",
@@ -32883,6 +33043,10 @@
         "answer": "Multi-factor authentication"
     },
     {
+        "question": "What mission did Voyager 1 accomplish?",
+        "answer": "Exploration of deep space"
+    },
+    {
         "question": "What popular technology is used for IoT devices?",
         "answer": "Zigbee"
     },
@@ -32917,6 +33081,10 @@
     {
         "question": "What process is used in fuel cells to generate electricity?",
         "answer": "Electrochemical reaction"
+    },
+    {
+        "question": "What process is used to produce biogas?",
+        "answer": "Methanogenesis"
     },
     {
         "question": "What process is used to produce ethanol from sugar-containing materials?",
@@ -32967,6 +33135,10 @@
         "answer": "Rovers"
     },
     {
+        "question": "What security standard is used to protect data in the cloud?",
+        "answer": "SSL/TLS"
+    },
+    {
         "question": "What skill does augmented reality train in manufacturing?",
         "answer": "accuracy"
     },
@@ -32979,12 +33151,28 @@
         "answer": "Sniffers"
     },
     {
+        "question": "What solution is used for automating cloud infrastructure management?",
+        "answer": "Terraform"
+    },
+    {
         "question": "What state can eliminate errors in quantum computing?",
         "answer": "Quantum correction"
     },
     {
         "question": "What system helps reduce the carbon footprint of a home?",
         "answer": "Home solar system"
+    },
+    {
+        "question": "What system supports life on space stations?",
+        "answer": "Life support system"
+    },
+    {
+        "question": "What technique is used for gene therapy?",
+        "answer": "Viral vectors"
+    },
+    {
+        "question": "What technique is used for monitoring the fermentation process?",
+        "answer": "Biosensors"
     },
     {
         "question": "What technique is used for precise control of atoms?",
@@ -33011,6 +33199,18 @@
         "answer": "Wave power stations"
     },
     {
+        "question": "What technology enables wireless power transfer?",
+        "answer": "Induction"
+    },
+    {
+        "question": "What technology helps reduce the energy consumption of IoT devices?",
+        "answer": "LPWAN"
+    },
+    {
+        "question": "What technology is used for autonomous vehicles?",
+        "answer": "Machine vision"
+    },
+    {
         "question": "What technology is used for communication between vehicles on the road?",
         "answer": "V2V"
     },
@@ -33021,6 +33221,10 @@
     {
         "question": "What technology is used for harnessing solar energy?",
         "answer": "Photovoltaics"
+    },
+    {
+        "question": "What technology is used for position tracking?",
+        "answer": "SLAM"
     },
     {
         "question": "What technology is used in MJF for printing?",
@@ -33083,12 +33287,20 @@
         "answer": "Rovers"
     },
     {
+        "question": "What types of robots are used in logistics?",
+        "answer": "Warehouse robots"
+    },
+    {
         "question": "What was the TALEN technology created for?",
         "answer": "Edit genes"
     },
     {
         "question": "What was the first commercial VR headset?",
         "answer": "Sega VR"
+    },
+    {
+        "question": "Where are gold nanoparticles used?",
+        "answer": "In medicine"
     },
     {
         "question": "Where is the largest solar power plant located?",
@@ -33105,6 +33317,10 @@
     {
         "question": "Which company did Rony Abovitz found for developing augmented reality?",
         "answer": "Magic Leap"
+    },
+    {
+        "question": "Which company first introduced the concept of augmented reality in 2000?",
+        "answer": "Boeing"
     },
     {
         "question": "Which company partnered with Lyft to test self-driving cars?",
@@ -33135,8 +33351,16 @@
         "answer": "Transformer"
     },
     {
+        "question": "Which component is responsible for processing audio signals on a smartphone?",
+        "answer": "DAC"
+    },
+    {
         "question": "Which component is responsible for processing images?",
         "answer": "Graphics Processing Unit"
+    },
+    {
+        "question": "Which component is used for smart lighting?",
+        "answer": "LEDs"
     },
     {
         "question": "Which component models the functioning of the human brain?",
@@ -33187,6 +33411,10 @@
         "answer": "Helium-3"
     },
     {
+        "question": "Which element of the autonomous driving system is responsible for analyzing road situations?",
+        "answer": "Artificial Intelligence"
+    },
+    {
         "question": "Which element of the basic IoT architecture is responsible for data collection and initial processing?",
         "answer": "gateway"
     },
@@ -33203,8 +33431,20 @@
         "answer": "Nanobiomedicine"
     },
     {
+        "question": "Which field studies the interaction of nanomaterials with water?",
+        "answer": "Nanohydrodynamics"
+    },
+    {
+        "question": "Which game is considered a pioneer in the use of VR technology?",
+        "answer": "Half-Life: Alyx"
+    },
+    {
         "question": "Which gene is used in gene therapy to fight cancer?",
         "answer": "p53 gene"
+    },
+    {
+        "question": "Which green technology improves water quality?",
+        "answer": "Wastewater treatment"
     },
     {
         "question": "Which important experiment confirmed the existence of superposition and entanglement?",
@@ -33227,6 +33467,10 @@
         "answer": "Hydrogel"
     },
     {
+        "question": "Which method adds a new block?",
+        "answer": "Addition"
+    },
+    {
         "question": "Which method allows for the determination of the exact sequence of nucleotides in a DNA molecule?",
         "answer": "Sequencing"
     },
@@ -33235,8 +33479,16 @@
         "answer": "Selective Laser Sintering"
     },
     {
+        "question": "Which method increases the conductivity of nanomaterials?",
+        "answer": "Doping"
+    },
+    {
         "question": "Which method reduces overfitting?",
         "answer": "Regularization"
+    },
+    {
+        "question": "Which microorganisms are used for the biological treatment of wastewater?",
+        "answer": "Bacteria"
     },
     {
         "question": "Which microscope allows you to see atoms?",
@@ -33283,6 +33535,14 @@
         "answer": "Defect control"
     },
     {
+        "question": "Which processor is suitable for IoT devices?",
+        "answer": "ARM"
+    },
+    {
+        "question": "Which protein is used for binding DNA?",
+        "answer": "Histone"
+    },
+    {
         "question": "Which proteins are involved in the body's immune response?",
         "answer": "Antibodies"
     },
@@ -33327,6 +33587,10 @@
         "answer": "HTC Dream"
     },
     {
+        "question": "Which system helps autonomous vehicles navigate in low visibility conditions?",
+        "answer": "Infrared cameras"
+    },
+    {
         "question": "Which system provides a car's connection to the outside world?",
         "answer": "Telematics"
     },
@@ -33355,6 +33619,14 @@
         "answer": "ADAS"
     },
     {
+        "question": "Which technology is often used for storing data in a temporary table?",
+        "answer": "Redis"
+    },
+    {
+        "question": "Which technology is often used for virtualization?",
+        "answer": "VMware"
+    },
+    {
         "question": "Which technology is used to create isolated containers?",
         "answer": "Docker"
     },
@@ -33371,6 +33643,10 @@
         "answer": "Cars"
     },
     {
+        "question": "Which virtual reality (VR) game is based on shooting mechanics?",
+        "answer": "Superhot VR"
+    },
+    {
         "question": "Who can validate transactions in a public blockchain?",
         "answer": "Anyone"
     },
@@ -33381,6 +33657,10 @@
     {
         "question": "Who introduces genetic material into microorganisms?",
         "answer": "Synthetic biologist"
+    },
+    {
+        "question": "Who invented the steam engine?",
+        "answer": "James Watt"
     },
     {
         "question": "Who is considered a pioneer in the field of nanotechnology?",
@@ -33401,5 +33681,9 @@
     {
         "question": "Who proposed the idea of manipulating atoms?",
         "answer": "Eric Drexler"
+    },
+    {
+        "question": "Who proposed the wave model of quantum mechanics?",
+        "answer": "Schrödinger"
     }
 ]
