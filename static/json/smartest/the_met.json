@@ -120,6 +120,10 @@
     "answer": "Edgar Degas"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/03cd2417-ae35-4513-b74d-02bc1ea14726.jpg",
+    "answer": "Paul Cézanne"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/03e90d83-c1ca-429f-8275-7c012265eebe.jpg",
     "answer": "Antoine-Emile Plassan"
   },
@@ -720,12 +724,20 @@
     "answer": "Rufus Hathaway"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/14133e65-f553-41c8-9e48-e0c9dd615a51.jpg",
+    "answer": "Thomas de Keyser"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/142d131c-8816-48cd-9069-35cd7eec8096.jpg",
     "answer": "George Loring Brown"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/14386b98-71b9-4f56-8517-ff40d0dc16e7.jpg",
     "answer": "Adriaen Isenbrant"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/143ae55c-284f-42c7-91c5-3607f24b650a.jpg",
+    "answer": "American"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/14694d7b-4035-4788-a42e-72f0c2fca56e.jpg",
@@ -750,6 +762,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/153826ae-159c-488e-8aa2-f0be352dbb87.jpg",
     "answer": "Richard Wilson"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/15428e80-5afe-4eb8-9813-8b679039afbb.jpg",
+    "answer": "Joachim Wtewael"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/1547483b-d17b-42b3-8893-2c84d3f33ab3.jpg",
@@ -834,6 +850,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/173c0de6-dc9a-4870-ba45-c840d7a8c8b0.jpg",
     "answer": "Jacques-Louis David"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/174160b4-22dc-405e-9040-782fe66dd883.jpg",
+    "answer": "Salvator Rosa"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/17a46292-2b0f-4256-8d5e-ce0bb6948581.jpg",
@@ -1004,6 +1024,10 @@
     "answer": "William Rickarby Miller"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/1bcf2652-0c99-43d3-b465-d1054db8c132.jpg",
+    "answer": "Barend Cornelis Koekkoek"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/1bdcf45b-6e40-4f07-bdcb-836ecea0814a.jpg",
     "answer": "Georg Christoph Grooth"
   },
@@ -1114,6 +1138,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/1eebb557-bc2b-4add-a998-a7ba49636975.jpg",
     "answer": "Carl Friedrich Thienpondt"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/1efeb9cf-bcb1-41cc-a677-b89f8a0e91af.jpg",
+    "answer": "Master of the Annunciation to the Shepherds"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/1f3f0aa7-f09c-4e47-b479-2331718dd902.jpg",
@@ -1588,6 +1616,10 @@
     "answer": "Bernhard Strigel"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/2b59324e-8fa6-47d0-86f6-82e5eb3e3b95.jpg",
+    "answer": "John Singleton Copley"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/2b71cdc0-9473-45c1-99b0-861d8638bb65.jpg",
     "answer": "Pieter de Hooch"
   },
@@ -1930,6 +1962,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/358c37c2-f1c6-4de5-a546-387b91d7c222.jpg",
     "answer": "Annibale Carracci"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/359523dc-865c-4d0e-83eb-c8e07977d01c.jpg",
+    "answer": "Domenico Ghirlandaio"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/35c2f5da-43d9-4475-848f-10f58e4a47ca.jpg",
@@ -2664,6 +2700,10 @@
     "answer": "Winslow Homer"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/48f6d690-8c17-44ab-bed1-742c2580e1cf.jpg",
+    "answer": "Piero della Francesca"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/49009f86-fcbc-4766-a6f6-86a61cc703db.jpg",
     "answer": "Auguste Renoir"
   },
@@ -2824,6 +2864,14 @@
     "answer": "Lorenzo Monaco"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/4e118a40-10f1-4f6f-91c0-58df18b261f2.jpg",
+    "answer": "Luca Giordano"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/4e777dd9-aec7-4b30-9ca9-8f2b8b21abbd.jpg",
+    "answer": "John Hoppner"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/4ebfbf87-b98a-423b-9a02-340dd422ba65.jpg",
     "answer": "George Hewitt Cushman"
   },
@@ -2834,6 +2882,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/4edbaf7e-6e67-4954-af05-7654138bd99d.jpg",
     "answer": "Anthony Meucci"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/4ef555f6-af12-4993-bf36-8d91a3417008.jpg",
+    "answer": "Simone Martini"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/4ef646d8-8a03-42db-bbdb-c4c861b216ec.jpg",
@@ -3400,6 +3452,10 @@
     "answer": "Philippe Abraham Peticolas"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/5f5eed8c-6af0-464e-b4a1-5f77d384c5df.jpg",
+    "answer": "Edgar Degas"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/5f8675be-c9d2-4899-a9af-6ff812c9bbd9.jpg",
     "answer": "Francesco Salviati"
   },
@@ -3616,6 +3672,10 @@
     "answer": "Rembrandt"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/65210f17-ed3a-4a3e-a9f6-10f5f1623909.jpg",
+    "answer": "Francisco de Goya"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/65255113-e20f-4414-8e21-38dbc9e673ba.jpg",
     "answer": "Gustave Courbet"
   },
@@ -3680,6 +3740,10 @@
     "answer": "Luis de la Cruz y Ríos"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/6763c3fe-1c00-4a88-917f-9823cb85deb6.jpg",
+    "answer": "Virginia Hendrickson Irvin"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/6788510e-4501-4471-bc9e-54ba9efc69c4.jpg",
     "answer": "Seymour Joseph Guy"
   },
@@ -3702,6 +3766,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/67fca2ea-4ebe-41f4-a473-ab101b966fe0.jpg",
     "answer": "Ezra Ames"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/684524c5-d736-4c82-ab02-e9298a63205a.jpg",
+    "answer": "Samuel Lovett Waldo"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/6846d91c-0396-4a0d-b865-c2ce372b96a3.jpg",
@@ -4004,6 +4072,10 @@
     "answer": "Giovanni di Paolo"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/6f38cea7-1cb9-4be5-a25b-b605908037a9.jpg",
+    "answer": "Ugolino da Siena"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/6f48590e-3431-484e-800d-733d03b18f05.jpg",
     "answer": "Schuyler Limner"
   },
@@ -4106,6 +4178,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/72c2960f-39b5-4153-aedc-273e60e3c4a4.jpg",
     "answer": "Charles Robertson"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/72fc25a4-a82e-4dfa-a76d-4d076481b913.jpg",
+    "answer": "Moretto da Brescia"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/73004983-93d3-470f-a9d7-b36e2347f5f4.jpg",
@@ -4292,6 +4368,10 @@
     "answer": "Jozef Israëls"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/7711e210-b617-466b-bab4-b82825cf5512.jpg",
+    "answer": "Reuben Moulthrop"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/7736480a-5ab3-410a-ad55-39ce071b7019.jpg",
     "answer": "Grant Wood"
   },
@@ -4322,6 +4402,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/787f8906-5444-43e9-81c9-414feb63ec1f.jpg",
     "answer": "Paul Cézanne"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/788de54d-25d4-468d-bf3f-d40ec6a513fe.jpg",
+    "answer": "Hans Memling"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/78a880ed-551f-4821-ad08-6fc56dad2052.jpg",
@@ -4932,6 +5016,10 @@
     "answer": "Peter Paul Rubens"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/8b24acde-7dfd-4e3f-82c6-98143de360db.jpg",
+    "answer": "John Rubens Smith"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/8b65edc2-c6eb-4c8c-9b2c-05b83a37145d.jpg",
     "answer": "Simon Denis"
   },
@@ -5488,6 +5576,10 @@
     "answer": "Jeremiah Theus"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/9b8472af-6f50-465a-9e2d-56d45260066f.jpg",
+    "answer": "Antoniazzo Romano"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/9b8c70f8-e7e6-40a2-8314-345bbffbfe0f.jpg",
     "answer": "André François Alloys de Theys d'Herculais"
   },
@@ -5596,8 +5688,16 @@
     "answer": "John Bogle"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/9e59b150-d2e8-42a0-a12a-a4d463852a46.jpg",
+    "answer": "Jean-Jacques Caffieri"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/9e8526ef-1802-4f58-8575-b3ec8353a5fe.jpg",
     "answer": "Robert Charles Dudley"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/9eaa8bc5-773b-401d-a7d8-5f1556db3df9.jpg",
+    "answer": "Theodora W. Thayer"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/9ead2c21-9752-4f90-9894-da777b8aec3f.jpg",
@@ -5650,6 +5750,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/9fed1378-83db-49ed-927c-c1d118afe260.jpg",
     "answer": "Hans Süss von Kulmbach"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/9fed342e-98f3-40fa-a759-66631892c4de.jpg",
+    "answer": "Unknown American Artist"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/9ff005fa-fdee-4f25-aed9-3739907961fe.jpg",
@@ -6048,6 +6152,10 @@
     "answer": "Jean Urbain Guérin"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/abfc51e2-72a3-471e-9801-fcac80083c9e.jpg",
+    "answer": "Nivelet"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/ac1f7d00-5e7f-4048-8ec7-df2fa325c32f.jpg",
     "answer": "Raphaelle Peale"
   },
@@ -6086,6 +6194,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/ad049607-c519-4471-989b-c1d33e943cf6.jpg",
     "answer": "Johannes Vermeer"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/ad1ce42f-08e5-4493-82f6-79e3ca93e3af.jpg",
+    "answer": "Bernardo Daddi"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/ad2cf554-b450-4a3c-ac18-423c1b524dd9.jpg",
@@ -7020,6 +7132,10 @@
     "answer": "William Trost Richards"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/c6c11a6a-9be8-40e0-b384-ccba77f0c870.jpg",
+    "answer": "Franz Ludwig Catel"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/c6c6ca29-4be7-4151-bb88-9c08877a7fbc.jpg",
     "answer": "Charles Fraser"
   },
@@ -7788,6 +7904,10 @@
     "answer": "Alfred Wordsworth Thompson"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/dd4c4131-786a-486b-98da-2186f21c1a89.jpg",
+    "answer": "Govert Flinck"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/dd51ed3f-92e9-4f50-8ec4-b738f2450071.jpg",
     "answer": "Odilon Redon"
   },
@@ -8340,8 +8460,16 @@
     "answer": "Rosa Bonheur"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/ed1d734f-fb4e-4c15-81b0-e436395c4ef3.jpg",
+    "answer": "Joseph Bordes"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/ed1ea5ad-eeec-4a3b-bd4b-a96963960070.jpg",
     "answer": "Peter Jacob Horemans"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/ed585790-4e82-4fe3-882f-c6965c7fcd07.jpg",
+    "answer": "Aelbert Cuyp"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/edc8c697-6e6f-489f-b57e-ce022fa69055.jpg",
@@ -8424,6 +8552,10 @@
     "answer": "John Carlin"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/efaf0c21-9d9c-4092-8d7e-f099d438fbbd.jpg",
+    "answer": "Théodore Géricault"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/efcbd6af-3119-4e3c-9253-0e0f885bd606.jpg",
     "answer": "John Robinson"
   },
@@ -8442,6 +8574,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/efda88fb-83a1-4c8e-b88a-ffb63388edaa.jpg",
     "answer": "Gerard David"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/f0240f4c-7922-404d-b955-2e6aee2abd07.jpg",
+    "answer": "Bronzino"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/f02853c1-0eb6-48b7-b396-67157d541066.jpg",
@@ -8564,6 +8700,10 @@
     "answer": "Joseph Fagnani"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/f44458d8-0f6b-43f3-ad1d-f480659cefc7.jpg",
+    "answer": "American"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/f45e962f-f49b-406d-be75-eeca57895d0f.jpg",
     "answer": "Theodore E. Pine"
   },
@@ -8658,6 +8798,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/f82b1d8b-b0a0-4856-83c4-6f84c30903f2.jpg",
     "answer": "Unknown"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/f83f72e5-b86a-4452-abab-5938e6b6c984.jpg",
+    "answer": "William Dunlap"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/f8937f73-1424-4869-bf4d-7b7cfe977cbe.jpg",
@@ -8824,8 +8968,16 @@
     "answer": "Charles-Théodore Frère"
   },
   {
+    "question": "https://ainie.cloud/public/questions/images/fc128043-b35e-41d6-9eff-8821088c1ad8.jpg",
+    "answer": "Bachiacca"
+  },
+  {
     "question": "https://ainie.cloud/public/questions/images/fc1f7e9e-7bd6-48cd-b320-220d9d71434d.jpg",
     "answer": "Giacomo Andreoli"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/fc3d1869-6639-45a5-b800-28ae0cdb5674.jpg",
+    "answer": "Gustave Courbet"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/fc5767b9-2472-4343-825f-4cbdf6794e27.jpg",
@@ -8878,6 +9030,10 @@
   {
     "question": "https://ainie.cloud/public/questions/images/fdc2097d-f29c-4386-a861-5b0204ee8843.jpg",
     "answer": "Albert Bierstadt"
+  },
+  {
+    "question": "https://ainie.cloud/public/questions/images/fe083498-1d8b-4ae3-87f3-4ae9903a2f1c.jpg",
+    "answer": "John F. Peto"
   },
   {
     "question": "https://ainie.cloud/public/questions/images/fe08b638-4292-4cc8-85d0-c17f1467b9cb.jpg",

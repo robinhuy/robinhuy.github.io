@@ -4,52 +4,264 @@
         "answer": "Defense"
     },
     {
+        "question": "How do fish navigate in the dark?",
+        "answer": "Lateral line"
+    },
+    {
+        "question": "How do gastropods protect themselves from predators?",
+        "answer": "Shell"
+    },
+    {
         "question": "How do sea cucumbers clean their insides when threatened?",
         "answer": "Eject their organs"
+    },
+    {
+        "question": "How do starfish maintain balance?",
+        "answer": "With their tube feet"
+    },
+    {
+        "question": "How does an anaconda obtain its food?",
+        "answer": "hunting"
+    },
+    {
+        "question": "How does the southern right whale store fat?",
+        "answer": "Blubber"
     },
     {
         "question": "How long do macaques live?",
         "answer": "35 years"
     },
     {
+        "question": "How long do most ants live?",
+        "answer": "Several years"
+    },
+    {
+        "question": "How long does whale migration last?",
+        "answer": "Several months"
+    },
+    {
+        "question": "How many eyes do flies have?",
+        "answer": "5"
+    },
+    {
+        "question": "How many gill slits do jawless fish have?",
+        "answer": "Up to 100"
+    },
+    {
+        "question": "How many liters of blood are in the heart of a blue whale?",
+        "answer": "600"
+    },
+    {
+        "question": "How many pairs of gills do jawless fish have?",
+        "answer": "7"
+    },
+    {
+        "question": "How many radial canals does a starfish have?",
+        "answer": "Five"
+    },
+    {
+        "question": "How many species of dolphins are there?",
+        "answer": "32"
+    },
+    {
         "question": "How many species of galago are there?",
         "answer": "20"
+    },
+    {
+        "question": "How many species of geckos are there?",
+        "answer": "1600+"
+    },
+    {
+        "question": "How many species of mollusks are there?",
+        "answer": "More than 100,000"
     },
     {
         "question": "How many species of monitor lizards are there?",
         "answer": "80"
     },
     {
+        "question": "How many species of snakes exist in the world?",
+        "answer": "more than 3000"
+    },
+    {
+        "question": "How many tentacles does an argopect have?",
+        "answer": "Ten"
+    },
+    {
+        "question": "How many years does a beluga whale live?",
+        "answer": "60"
+    },
+    {
+        "question": "How much does a blue whale weigh on average?",
+        "answer": "150 tons"
+    },
+    {
+        "question": "In which century were lancelets first described?",
+        "answer": "19th century"
+    },
+    {
+        "question": "In which nature reserve can orange cuckoos be found?",
+        "answer": "Barguzinsky"
+    },
+    {
+        "question": "In which nature reserve can you see the rare white stork?",
+        "answer": "Rostovsky"
+    },
+    {
+        "question": "In which nature reserve do Caucasian storks live?",
+        "answer": "Shaumyan"
+    },
+    {
         "question": "In which nature reserve do red pandas live?",
         "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "In which nature reserve does the rare sea comb live?",
+        "answer": "Far Eastern Marine Reserve"
+    },
+    {
+        "question": "In which ocean do hagfish live?",
+        "answer": "Pacific"
+    },
+    {
+        "question": "In which part of the world do pandas live, feeding on bamboo?",
+        "answer": "Asia"
+    },
+    {
+        "question": "In which period did the first jawed vertebrates appear?",
+        "answer": "Silurian"
+    },
+    {
+        "question": "In which region do tsetse flies live?",
+        "answer": "Africa"
     },
     {
         "question": "To which class do echinoderms with long tentacles belong?",
         "answer": "Holothuroidea"
     },
     {
+        "question": "To which family do chimpanzees belong?",
+        "answer": "Hominidae"
+    },
+    {
+        "question": "What animals inhabit the Darwin Reserve?",
+        "answer": "Sea otters"
+    },
+    {
         "question": "What animals inhabit the Yamal Nature Reserve?",
         "answer": "Musk oxen"
+    },
+    {
+        "question": "What are arthropods with jaws called?",
+        "answer": "Mandibulates"
+    },
+    {
+        "question": "What are nocturnal primates called?",
+        "answer": "Aye-Aye"
+    },
+    {
+        "question": "What are pedicellariae in sea urchins?",
+        "answer": "Small pincers"
+    },
+    {
+        "question": "What are the combs protruding from the mantle edge of a mollusk called?",
+        "answer": "Cirri"
+    },
+    {
+        "question": "What are the dorsal and ventral sides of lancelets covered with?",
+        "answer": "buds"
+    },
+    {
+        "question": "What are the fangs of spiders called?",
+        "answer": "Chelicerae"
     },
     {
         "question": "What are the specialized respiratory organs in spiders called?",
         "answer": "Book lungs"
     },
     {
+        "question": "What determines the hunting difficulty for sharks?",
+        "answer": "Teeth"
+    },
+    {
+        "question": "What does a sea cucumber release when threatened?",
+        "answer": "Internal organs"
+    },
+    {
         "question": "What does the notochord in lancelets represent?",
         "answer": "Rigid rod"
+    },
+    {
+        "question": "What feeding method do most brittle stars use?",
+        "answer": "Detritivory"
+    },
+    {
+        "question": "What fish inhabits the Nile River?",
+        "answer": "Nile perch"
+    },
+    {
+        "question": "What function do ancient gill slits serve in jawless vertebrates?",
+        "answer": "Respiratory"
+    },
+    {
+        "question": "What function does the dental plate serve in hagfish?",
+        "answer": "food capture"
     },
     {
         "question": "What function does the respiratory system perform?",
         "answer": "Beaver"
     },
     {
+        "question": "What is a madreporite?",
+        "answer": "Entrance to the ambulacral system"
+    },
+    {
+        "question": "What is a pedicellaria?",
+        "answer": "Pincers"
+    },
+    {
+        "question": "What is a trepang?",
+        "answer": "Sea cucumber"
+    },
+    {
+        "question": "What is an anemone?",
+        "answer": "sea flower"
+    },
+    {
         "question": "What is ichthyology?",
         "answer": "The science of fish"
     },
     {
+        "question": "What is the brain size of a chimpanzee?",
+        "answer": "400 grams"
+    },
+    {
+        "question": "What is the duration of humpback whale migration?",
+        "answer": "6 months"
+    },
+    {
+        "question": "What is the evolutionary position of jawless vertebrates in the history of vertebrates?",
+        "answer": "The most ancient"
+    },
+    {
+        "question": "What is the largest living mollusk?",
+        "answer": "Giant squid"
+    },
+    {
+        "question": "What is the life cycle of insects called?",
+        "answer": "Metamorphosis"
+    },
+    {
+        "question": "What is the main function of the ambulacral system?",
+        "answer": "Locomotion"
+    },
+    {
         "question": "What is the molting process in arthropods called?",
         "answer": "Ecdysis"
+    },
+    {
+        "question": "What is the most poisonous fish?",
+        "answer": "Stonefish"
     },
     {
         "question": "What is the name of the dental apparatus in rays?",
@@ -60,12 +272,48 @@
         "answer": "Pike"
     },
     {
+        "question": "What is the name of the nocturnal primate with big eyes?",
+        "answer": "Aye-aye"
+    },
+    {
+        "question": "What is the name of the open part of the ocean where whales live?",
+        "answer": "Pelagic zone"
+    },
+    {
+        "question": "What is the name of the potent mollusk toxin?",
+        "answer": "Tetrodotoxin"
+    },
+    {
+        "question": "What is the notochord of a lancelet made of?",
+        "answer": "Cartilage"
+    },
+    {
+        "question": "What is the part of a sea urchin called that releases toxins?",
+        "answer": "Poison gland"
+    },
+    {
+        "question": "What is the place called where saltwater and freshwater meet?",
+        "answer": "Estuary"
+    },
+    {
         "question": "What is the primary food that lampreys eat?",
         "answer": "Small fish"
     },
     {
         "question": "What is the primary function of the water vascular system in echinoderms?",
         "answer": "Hydrostatic pressure"
+    },
+    {
+        "question": "What is the process of evolution of fish into land animals called?",
+        "answer": "Tetrapodization"
+    },
+    {
+        "question": "What is the role of squids in the ecosystem?",
+        "answer": "Predators and prey"
+    },
+    {
+        "question": "What is the science that studies reptiles called?",
+        "answer": "Herpetology"
     },
     {
         "question": "What is the stage of development called when an insect turns into a pupa?",
@@ -80,8 +328,44 @@
         "answer": "Termites"
     },
     {
+        "question": "What role do pedipalps serve in spiders?",
+        "answer": "Sensation"
+    },
+    {
+        "question": "What size can lampreys reach?",
+        "answer": "Up to 100 cm"
+    },
+    {
+        "question": "What species of monitor lizard is native to Australia?",
+        "answer": "Mertens' water monitor"
+    },
+    {
         "question": "What speed can the fastest whales reach?",
         "answer": "40 km/h"
+    },
+    {
+        "question": "What structure do ticks have?",
+        "answer": "Chelicerae"
+    },
+    {
+        "question": "What type of fish is androgynous?",
+        "answer": "Eel"
+    },
+    {
+        "question": "What type of nervous system does a lamprey have?",
+        "answer": "Central"
+    },
+    {
+        "question": "What type of skeleton do jawed fish have?",
+        "answer": "Bony"
+    },
+    {
+        "question": "What water temperature is preferred for squids?",
+        "answer": "Warm"
+    },
+    {
+        "question": "Where are dolphins born?",
+        "answer": "In water"
     },
     {
         "question": "Where are the eyes of starfish located?",
@@ -92,8 +376,28 @@
         "answer": "On the sides"
     },
     {
+        "question": "Where can you see nesting flamingos?",
+        "answer": "Chelkar-Abaginsky"
+    },
+    {
         "question": "Where can you see the Eastern Curlew?",
         "answer": "Kuril Islands"
+    },
+    {
+        "question": "Where do rare species of sandpipers inhabit?",
+        "answer": "Vitimsky"
+    },
+    {
+        "question": "Where do tarsiers live?",
+        "answer": "Southeast Asia"
+    },
+    {
+        "question": "Where do water scorpions live?",
+        "answer": "Freshwater bodies"
+    },
+    {
+        "question": "Where is the Bastak Nature Reserve located?",
+        "answer": "Jewish Autonomous Region"
     },
     {
         "question": "Where is the Far Eastern Marine Reserve located?",
@@ -112,8 +416,20 @@
         "answer": "Chameleon"
     },
     {
+        "question": "Which animal can regenerate its tentacles?",
+        "answer": "Squid"
+    },
+    {
+        "question": "Which animal has thick orange fur?",
+        "answer": "Orangutan"
+    },
+    {
         "question": "Which animal hunts at close range?",
         "answer": "Wolf"
+    },
+    {
+        "question": "Which animal inhabits marshy areas and loves algae?",
+        "answer": "Capybara"
     },
     {
         "question": "Which animal is a native of the Himalayas?",
@@ -132,12 +448,68 @@
         "answer": "Sheep"
     },
     {
+        "question": "Which animals live in saltwater?",
+        "answer": "Hagfish"
+    },
+    {
+        "question": "Which bird builds nests on water?",
+        "answer": "Swan"
+    },
+    {
+        "question": "Which bird can dive?",
+        "answer": "Cormorant"
+    },
+    {
+        "question": "Which bird can fly in stormy conditions?",
+        "answer": "Albatross"
+    },
+    {
+        "question": "Which bird can stay underwater?",
+        "answer": "Loon"
+    },
+    {
         "question": "Which bird has a crest on its head and a hooked beak?",
         "answer": "frigatebird"
     },
     {
+        "question": "Which bird is famous for its long beak?",
+        "answer": "Hummingbird"
+    },
+    {
+        "question": "Which bird is famous for nesting on cliffs?",
+        "answer": "cormorant"
+    },
+    {
+        "question": "Which bird is known for its 'head-down' flight?",
+        "answer": "Peregrine Falcon"
+    },
+    {
+        "question": "Which bird is known for its migrations to Vietnam?",
+        "answer": "Stork"
+    },
+    {
+        "question": "Which bird is named after a hero of Greek mythology?",
+        "answer": "Phoenix"
+    },
+    {
+        "question": "Which bird is native only to New Zealand?",
+        "answer": "kiwi"
+    },
+    {
+        "question": "Which bird returns to the north first?",
+        "answer": "Rook"
+    },
+    {
+        "question": "Which birds build nests in burrows?",
+        "answer": "Kingfishers"
+    },
+    {
         "question": "Which birds build nests out of clay?",
         "answer": "Swallows"
+    },
+    {
+        "question": "Which creature emits light in the dark?",
+        "answer": "Sea firefly"
     },
     {
         "question": "Which creature is known for its beautiful iridescent scales and inhabits coral reefs?",
@@ -156,6 +528,18 @@
         "answer": "Stickleback"
     },
     {
+        "question": "Which fish can change its shape?",
+        "answer": "Flounder"
+    },
+    {
+        "question": "Which fish can fly above the water?",
+        "answer": "Flying fish"
+    },
+    {
+        "question": "Which fish can go on land?",
+        "answer": "Bichir"
+    },
+    {
         "question": "Which fish inhabits coral reefs and has poisonous organs?",
         "answer": "Stonefish"
     },
@@ -164,12 +548,44 @@
         "answer": "European seabass"
     },
     {
+        "question": "Which fish is capable of changing its sex during its lifetime?",
+        "answer": "Grouper"
+    },
+    {
         "question": "Which fish is known for its curved body?",
         "answer": "Moray eel"
     },
     {
+        "question": "Which fish lives in the Baltic Sea?",
+        "answer": "Herring"
+    },
+    {
+        "question": "Which fish uses electricity for orientation?",
+        "answer": "Knifefish"
+    },
+    {
+        "question": "Which fish were the ancestors of jawed vertebrates?",
+        "answer": "Placoderms"
+    },
+    {
+        "question": "Which herbivorous animal lives high in the mountains?",
+        "answer": "Goat"
+    },
+    {
         "question": "Which insect builds burrows?",
         "answer": "cricket"
+    },
+    {
+        "question": "Which insect has the longest antennae?",
+        "answer": "Longhorn beetle"
+    },
+    {
+        "question": "Which insect is a symbol of bravery in China?",
+        "answer": "Dragonfly"
+    },
+    {
+        "question": "Which insect is considered the most venomous?",
+        "answer": "Bullet ant"
     },
     {
         "question": "Which insect is often found in fogs?",
@@ -180,8 +596,28 @@
         "answer": "Dung beetle"
     },
     {
+        "question": "Which insect uses mimicry for protection?",
+        "answer": "Butterfly"
+    },
+    {
         "question": "Which insects glow in the dark?",
         "answer": "fireflies"
+    },
+    {
+        "question": "Which insects secrete saliva to create silky threads?",
+        "answer": "Caterpillars"
+    },
+    {
+        "question": "Which jawed fish can breathe air?",
+        "answer": "Lungfish"
+    },
+    {
+        "question": "Which lizard is known for freezing when scared?",
+        "answer": "Champion iguana"
+    },
+    {
+        "question": "Which mammal hunts at night?",
+        "answer": "Cat"
     },
     {
         "question": "Which mammal hunts seals?",
@@ -192,44 +628,156 @@
         "answer": "Several hours"
     },
     {
+        "question": "Which mammal is capable of making fire?",
+        "answer": "Human"
+    },
+    {
+        "question": "Which mammal is capable of sleeping up to 20 hours a day?",
+        "answer": "Koala"
+    },
+    {
+        "question": "Which mammal is known for its unique vocal apparatus?",
+        "answer": "Sperm whale"
+    },
+    {
+        "question": "Which mammal is the smallest in terms of population?",
+        "answer": "Vaquita"
+    },
+    {
         "question": "Which mammal lives in Antarctica?",
         "answer": "Whale"
+    },
+    {
+        "question": "Which mammal migrates the longest distances?",
+        "answer": "Whale"
+    },
+    {
+        "question": "Which marine creature builds trap-nests?",
+        "answer": "Dusky jawfish"
+    },
+    {
+        "question": "Which marine creature is often called the 'engineer of the coral reef'?",
+        "answer": "Coral polyp"
+    },
+    {
+        "question": "Which mollusk is the most venomous?",
+        "answer": "Cone snail"
+    },
+    {
+        "question": "Which mollusk moves using jet propulsion?",
+        "answer": "Squid"
+    },
+    {
+        "question": "Which mollusk produces the largest shells in the world?",
+        "answer": "Tridacna"
     },
     {
         "question": "Which mollusks are known as dangerous predators?",
         "answer": "Cones"
     },
     {
+        "question": "Which nature reserve is known for its population of Amur tigers?",
+        "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "Which nature reserve is known for rare plants in the Altai Krai?",
+        "answer": "Katunsky"
+    },
+    {
         "question": "Which nature reserve is known for rare species of rodents?",
         "answer": "Far Eastern Marine Reserve"
+    },
+    {
+        "question": "Which of these primates has the shortest tail?",
+        "answer": "Rhesus macaque"
+    },
+    {
+        "question": "Which organs in echinoderms facilitate the exchange of substances?",
+        "answer": "tube feet"
+    },
+    {
+        "question": "Which part of a fish's skeleton is cartilaginous?",
+        "answer": "Gills"
     },
     {
         "question": "Which primate is known for its predatory behavior?",
         "answer": "Baboon"
     },
     {
+        "question": "Which primates are known for their monogamous mating?",
+        "answer": "Gibbons"
+    },
+    {
         "question": "Which primates can swim?",
         "answer": "Proboscis monkeys"
+    },
+    {
+        "question": "Which reptile can move its eyes independently of each other?",
+        "answer": "Chameleon"
+    },
+    {
+        "question": "Which reptile is called the 'queen of the desert'?",
+        "answer": "Tuatara"
     },
     {
         "question": "Which reserve does Mount Elbrus belong to?",
         "answer": "Kabardino-Balkarian"
     },
     {
+        "question": "Which sea creature has a ring-shaped body structure?",
+        "answer": "Jellyfish"
+    },
+    {
+        "question": "Which sea creature is known for its solitude?",
+        "answer": "Moray eel"
+    },
+    {
+        "question": "Which seabird is known for its long migrations?",
+        "answer": "Albatross"
+    },
+    {
         "question": "Which senses are developed in cephalochordates?",
         "answer": "Tactile"
+    },
+    {
+        "question": "Which snail is considered dangerous to humans?",
+        "answer": "Cone snail"
     },
     {
         "question": "Which snail produces venom?",
         "answer": "Cone snail"
     },
     {
+        "question": "Which snake is known for its beautiful skin patterns?",
+        "answer": "King Cobra"
+    },
+    {
         "question": "Which tick is commonly found on animals?",
         "answer": "Ixodid tick"
     },
     {
+        "question": "Which whale can hold its breath for up to 90 minutes?",
+        "answer": "sperm whale"
+    },
+    {
+        "question": "Which whale makes a 'rumble' sound?",
+        "answer": "Sperm whale"
+    },
+    {
         "question": "Who builds \"complex nests\" in trees?",
         "answer": "Penduline tit"
+    },
+    {
+        "question": "Who is a well-known enemy of the clownfish?",
+        "answer": "Sea snake"
+    },
+    {
+        "question": "Who is the main predator of corals?",
+        "answer": "Crown-of-thorns starfish"
+    },
+    {
+        "question": "Why do sea cucumbers wash up on shore?",
+        "answer": "Defensive reaction"
     },
     {
         "question": "At what distance from a school zone can you start overtaking?",
