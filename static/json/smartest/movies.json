@@ -8,6 +8,10 @@
     "answer": "32"
   },
   {
+    "question": "At what age did Orson Welles make his film 'Citizen Kane'?",
+    "answer": "25 years old"
+  },
+  {
     "question": "At which rock music festival does the film 'Taking Woodstock' take place?",
     "answer": "Woodstock"
   },
@@ -95,6 +99,10 @@
     "answer": "11"
   },
   {
+    "question": "How many Oscars did the film \"The Lord of the Rings: The Return of the King\" win?",
+    "answer": "11"
+  },
+  {
     "question": "How many Oscars did the movie 'Titanic' win?",
     "answer": "11"
   },
@@ -115,6 +123,10 @@
     "answer": "Film essay"
   },
   {
+    "question": "In what year did the first television broadcast test occur in Germany?",
+    "answer": "1929"
+  },
+  {
     "question": "In what year did the movie 'The Matrix' win the Oscar for Best Visual Effects?",
     "answer": "2000"
   },
@@ -125,6 +137,10 @@
   {
     "question": "In what year was Alain Delon born?",
     "answer": "1935"
+  },
+  {
+    "question": "In what year was George Clooney born?",
+    "answer": "1961"
   },
   {
     "question": "In what year was Martin Scorsese's first film released?",
@@ -145,6 +161,10 @@
   {
     "question": "In what year was the film 'Earth' by Alexander Dovzhenko made?",
     "answer": "1930"
+  },
+  {
+    "question": "In what year was the first 'The Phantom of the Opera' film released?",
+    "answer": "1925"
   },
   {
     "question": "In what year was the movie 'Fight Club' released?",
@@ -176,6 +196,10 @@
   {
     "question": "In which country is 'Team Tyumentsev' produced?",
     "answer": "Russia"
+  },
+  {
+    "question": "In which country was the animated film 'The Sandman' created?",
+    "answer": "Germany"
   },
   {
     "question": "In which decade did the 'French New Wave' originate?",
@@ -391,6 +415,10 @@
     "answer": "A description of the author's life"
   },
   {
+    "question": "What is animatronics?",
+    "answer": "Mechanical effects"
+  },
+  {
     "question": "What is characteristic of German Expressionism?",
     "answer": "Contrasting light and shadow"
   },
@@ -415,8 +443,20 @@
     "answer": "The Immersion"
   },
   {
+    "question": "What is the filming of scenes with glass mirrors called?",
+    "answer": "Matte painting"
+  },
+  {
+    "question": "What is the genre of film that depicts war called?",
+    "answer": "War film"
+  },
+  {
     "question": "What is the intermediate image in animation called?",
     "answer": "Interpolation"
+  },
+  {
+    "question": "What is the main song of Woody in 'Toy Story'?",
+    "answer": "You've Got a Friend in Me"
   },
   {
     "question": "What is the movement of an object in animation by one frame called?",
@@ -443,8 +483,16 @@
     "answer": "Susan"
   },
   {
+    "question": "What is the name of Naruto's mother in 'Naruto'?",
+    "answer": "Kushina"
+  },
+  {
     "question": "What is the name of Pandura in the cartoon 'Three Heroes and the Sea King'?",
     "answer": "Dobrynya"
+  },
+  {
+    "question": "What is the name of Papa Smurf's cousin in 'The Smurfs'?",
+    "answer": "Smurfael"
   },
   {
     "question": "What is the name of Quentin Tarantino's first directorial film?",
@@ -481,6 +529,10 @@
   {
     "question": "What is the name of Wong Kar-wai's film about love?",
     "answer": "In the Mood for Love"
+  },
+  {
+    "question": "What is the name of Zigzag McKracken's best friend in 'Aladdin'?",
+    "answer": "Henry"
   },
   {
     "question": "What is the name of an animated character without textures?",
@@ -799,6 +851,10 @@
     "answer": "The Catcher in the Rye"
   },
   {
+    "question": "What is the name of the film based on the novel 'Ubik'?",
+    "answer": "Dangerous Night"
+  },
+  {
     "question": "What is the name of the film based on the novel by Karin Slaughter?",
     "answer": "Buried"
   },
@@ -943,6 +999,10 @@
     "answer": "Mom"
   },
   {
+    "question": "What is the name of the mermaid's song in 'Avatar: The Legend of Korra'?",
+    "answer": "Inner Spirit"
+  },
+  {
     "question": "What is the name of the mouse in the cartoon 'Rick and Morty'?",
     "answer": "Snuffles"
   },
@@ -989,6 +1049,10 @@
   {
     "question": "What is the name of the remake of the 1980 film 'Inferno'?",
     "answer": "Inferno"
+  },
+  {
+    "question": "What is the name of the remake of the French film 'Gostinichnyy Nomer'?",
+    "answer": "The Bedroom Window"
   },
   {
     "question": "What is the name of the remake of the French horror film 'Martyrs'?",
@@ -1083,8 +1147,16 @@
     "answer": "Jasmine"
   },
   {
+    "question": "What is the name of the steel girl from 'Big Hero 6'?",
+    "answer": "Go Go"
+  },
+  {
     "question": "What is the name of the stop-motion animated film by Wes Anderson released in 2009?",
     "answer": "Fantastic Mr. Fox"
+  },
+  {
+    "question": "What is the name of the technology in the animated series 'Code Lyoko'?",
+    "answer": "Lyoko"
   },
   {
     "question": "What is the name of the two-handed weapon of the giant warrior in 'The Witcher'?",
@@ -1189,8 +1261,16 @@
     "answer": "UV mapping"
   },
   {
+    "question": "What is used to create realistic lighting in 3D graphics?",
+    "answer": "Light maps"
+  },
+  {
     "question": "What is used to create volumetric and realistic shadows?",
     "answer": "global illumination"
+  },
+  {
+    "question": "What is used to stabilize a camera?",
+    "answer": "Steadicam"
   },
   {
     "question": "What method is used for restoring old films?",
@@ -1317,6 +1397,10 @@
     "answer": "The Birth of a Nation"
   },
   {
+    "question": "What was the name of the main character in the movie 'Inception'?",
+    "answer": "Dom Cobb"
+  },
+  {
     "question": "What was the name of the main enemy in 'Daria'?",
     "answer": "Jodie"
   },
@@ -1428,6 +1512,10 @@
     "answer": "Barton Fink"
   },
   {
+    "question": "Which Danish series is about politics?",
+    "answer": "Borgen"
+  },
+  {
     "question": "Which David Fincher film is about a detective investigating a series of murders based on the seven deadly sins?",
     "answer": "Se7en"
   },
@@ -1492,12 +1580,20 @@
     "answer": "Ilion Animation Studios"
   },
   {
+    "question": "Which Spanish director made the film 'The Sea Inside'?",
+    "answer": "Alejandro Amenábar"
+  },
+  {
     "question": "Which Spanish film about the fight for justice was released in the 2000s?",
     "answer": "The Platform"
   },
   {
     "question": "Which TV series is an adaptation of the Scandinavian series 'The Bridge'?",
     "answer": "The Tunnel"
+  },
+  {
+    "question": "Which TV show evaluates musical talents?",
+    "answer": "The Voice"
   },
   {
     "question": "Which Washington politician manipulates in 'House of Cards'?",
@@ -1584,12 +1680,20 @@
     "answer": "Lady and the Tramp"
   },
   {
+    "question": "Which animated film won a prestigious German award in 2019?",
+    "answer": "Klaus"
+  },
+  {
     "question": "Which animated film won the 'Golden Bear' award at the Berlin Film Festival?",
     "answer": "Howl's Moving Castle"
   },
   {
     "question": "Which animated film won the Goya Award in 2021?",
     "answer": "Truffle Hunter"
+  },
+  {
+    "question": "Which animated movie character requires the help of a chef?",
+    "answer": "Ratatouille"
   },
   {
     "question": "Which animated project received the most awards at the Annecy Festival?",
@@ -1687,6 +1791,10 @@
     "question": "Which company dominated the color television market in the USSR?"
   },
   {
+    "question": "Which company was the first to introduce HDTV?",
+    "answer": "Sony"
+  },
+  {
     "question": "Which composer wrote the music for the film 'The Proposition'?",
     "answer": "Nick Cave"
   },
@@ -1709,6 +1817,14 @@
   {
     "question": "Which director has won the Golden Lion at the Venice Film Festival four times?",
     "answer": "Ken Loach"
+  },
+  {
+    "question": "Which director holds the record for the most 'Golden Lion' awards at the Venice Film Festival?",
+    "answer": "Andrei Tarkovsky"
+  },
+  {
+    "question": "Which director made 'Taxi Driver'?",
+    "answer": "Martin Scorsese"
   },
   {
     "question": "Which director made the animated film 'The Boss Baby'?",
@@ -1795,8 +1911,16 @@
     "answer": "The Abyss"
   },
   {
+    "question": "Which film directed by Christopher Nolan was released in 2006?",
+    "answer": "The Prestige"
+  },
+  {
     "question": "Which film director received two 'Golden Lions' at the Venice Film Festival?",
     "answer": "Andrey Zvyagintsev"
+  },
+  {
+    "question": "Which film director won the Palme d'Or in 2021?",
+    "answer": "Julia Ducournau"
   },
   {
     "question": "Which film explores the behavior of chimpanzees?",
@@ -1839,6 +1963,10 @@
     "answer": "The Island"
   },
   {
+    "question": "Which film is based on Irvine Welsh's book about drug addicts in Edinburgh?",
+    "answer": "Trainspotting"
+  },
+  {
     "question": "Which film is based on Joseph Heller's book about World War II?",
     "answer": "Catch-22"
   },
@@ -1849,6 +1977,10 @@
   {
     "question": "Which film is considered a classic of German cinema?",
     "answer": "The Cabinet of Dr. Caligari"
+  },
+  {
+    "question": "Which film is considered a cult classic in Nigeria?",
+    "answer": "Yellow Card"
   },
   {
     "question": "Which film is considered a symbol of space travel cinema?",
@@ -1986,6 +2118,10 @@
     "answer": "Tron"
   },
   {
+    "question": "Which film was the first to use color chroma key?",
+    "answer": "Mary Poppins"
+  },
+  {
     "question": "Which film was the first to win an Oscar for Best Visual Effects?",
     "answer": "Wonder Man"
   },
@@ -2046,6 +2182,14 @@
     "answer": "Nancy"
   },
   {
+    "question": "Which film won the Grand Prix at the Cannes Film Festival in 2021?",
+    "answer": "Titane"
+  },
+  {
+    "question": "Which film won the Oscar for Best Animated Short Film?",
+    "answer": "Piper"
+  },
+  {
     "question": "Which film won the Oscar for Best Picture in 2017?",
     "answer": "Moonlight"
   },
@@ -2095,6 +2239,10 @@
   {
     "question": "Which genre involves confrontation with natural disasters?",
     "answer": "Disaster"
+  },
+  {
+    "question": "Which genre is most often based on cyber technologies?",
+    "answer": "Cyberpunk"
   },
   {
     "question": "Which horror film did James Wan direct in 2010?",
@@ -2464,6 +2612,10 @@
     "answer": "Marco Beltrami"
   },
   {
+    "question": "Who composed the music for the film 'Stalingrad'?",
+    "answer": "Angus Juilin"
+  },
+  {
     "question": "Who composed the music for the film 'The 13th Warrior'?",
     "answer": "Jerry Goldsmith"
   },
@@ -2482,6 +2634,10 @@
   {
     "question": "Who composed the music for the film 'The Great Dictator'?",
     "answer": "Charlie Chaplin"
+  },
+  {
+    "question": "Who composed the music for the film 'The Island' (2006)?",
+    "answer": "Philip Glass"
   },
   {
     "question": "Who composed the music for the film 'The Postman Always Rings Twice'?",
@@ -2590,6 +2746,10 @@
   {
     "question": "Who directed 'Tad, the Lost Explorer'?",
     "answer": "Enrique Gato"
+  },
+  {
+    "question": "Who directed 'The Big Lebowski'?",
+    "answer": "The Coen Brothers"
   },
   {
     "question": "Who directed 'The Fishermen'?",
@@ -2926,6 +3086,10 @@
     "answer": "Michael Knight"
   },
   {
+    "question": "Who is the director of the movie 'Monsters, Inc.'?",
+    "answer": "Pete Docter"
+  },
+  {
     "question": "Who is the director of the movie 'Pi'?",
     "answer": "Darren Aronofsky"
   },
@@ -3022,6 +3186,10 @@
     "answer": "Eddie Redmayne"
   },
   {
+    "question": "Who played Sweeney Todd?",
+    "answer": "Johnny Depp"
+  },
+  {
     "question": "Who played the lead role in the 1989 film 'Batman'?",
     "answer": "Michael Keaton"
   },
@@ -3038,6 +3206,10 @@
     "answer": "Martin Sheen"
   },
   {
+    "question": "Who played the lead role in the movie 'Demolition'?",
+    "answer": "Jake Gyllenhaal"
+  },
+  {
     "question": "Who played the lead role in the movie 'Ready Player One'?",
     "answer": "Tye Sheridan"
   },
@@ -3052,6 +3224,10 @@
   {
     "question": "Who played the role of Agent Smith in 'The Matrix'?",
     "answer": "Hugo Weaving"
+  },
+  {
+    "question": "Who played the role of Cleopatra in the 1963 film?",
+    "answer": "Elizabeth Taylor"
   },
   {
     "question": "Who played the role of Ellen Ripley in the movie 'Alien'?",
@@ -3120,6 +3296,10 @@
   {
     "question": "Who produced the film 'Mad Max: Fury Road'?",
     "answer": "George Miller"
+  },
+  {
+    "question": "Who produced the movie 'You Might Be the Killer'?",
+    "answer": "Teddy Margas"
   },
   {
     "question": "Who produced the series 'True Detective'?",
@@ -3264,6 +3444,10 @@
   {
     "question": "Who won the main prize at the Cannes Film Festival in 2016?",
     "answer": "Ken Loach"
+  },
+  {
+    "question": "Who writes reviews on the Film.ru website?",
+    "answer": "Alexey Vasilyev"
   },
   {
     "question": "Who wrote 'Radical Sabbatical'?",
