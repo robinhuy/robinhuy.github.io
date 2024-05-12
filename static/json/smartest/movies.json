@@ -44,6 +44,10 @@
     "answer": "a hero"
   },
   {
+    "question": "For which film did Charlie Kaufman write the screenplay?",
+    "answer": "Synecdoche, New York"
+  },
+  {
     "question": "For which film did Joel Coen write the screenplay?",
     "answer": "No Country for Old Men"
   },
@@ -60,12 +64,24 @@
     "answer": "Westworld"
   },
   {
+    "question": "From which cartoon is this phrase: 'The Extraordinary Adventures of Adventure Time'?",
+    "answer": "Adventure Time"
+  },
+  {
     "question": "From which movie is the phrase: 'A few well-armed men'?",
     "answer": "Men in Black"
   },
   {
     "question": "From which movie is the phrase: 'I have a bad feeling about this'?",
     "answer": "Star Wars"
+  },
+  {
+    "question": "From which movie is the phrase: 'We are doomed to repeat this'?",
+    "answer": "Oblivion"
+  },
+  {
+    "question": "From which movie is the phrase: 'You're not here for the Secret, are you?'",
+    "answer": "The Matrix"
   },
   {
     "question": "From which movie is the quote: 'No one makes the same mistake twice'?",
@@ -260,6 +276,10 @@
     "answer": "The Silence of the Lambs"
   },
   {
+    "question": "To which movement is the film 'Westfront 1918' attributed?",
+    "answer": "German Expressionism"
+  },
+  {
     "question": "What TV shows do the characters of the animated series 'Pinky and the Brain' watch?",
     "answer": "Window to the TV"
   },
@@ -351,6 +371,10 @@
     "answer": "Tracking movement"
   },
   {
+    "question": "What does the Screen Actors Guild of the USA award?",
+    "answer": "Screen Actors Guild Award"
+  },
+  {
     "question": "What film did Thor Heyerdahl make about his journey across the Pacific Ocean?",
     "answer": "Kon-Tiki"
   },
@@ -371,6 +395,10 @@
     "answer": "Drama"
   },
   {
+    "question": "What genre includes historical chronicles?",
+    "answer": "Historical"
+  },
+  {
     "question": "What genre includes stories about heroes and feats?",
     "answer": "Epic"
   },
@@ -381,6 +409,10 @@
   {
     "question": "What genre of reviews is published immediately after the premiere?",
     "answer": "first impressions"
+  },
+  {
+    "question": "What innovative technique was developed by Georges Méliès?",
+    "answer": "Multiple exposure"
   },
   {
     "question": "What is '3D rigging'?",
@@ -537,6 +569,18 @@
   {
     "question": "What is the name of an animated character without textures?",
     "answer": "Clay render"
+  },
+  {
+    "question": "What is the name of one of the dragons in the TV series 'Game of Thrones'?",
+    "answer": "Drogon"
+  },
+  {
+    "question": "What is the name of the 1991 thriller starring Jodie Foster?",
+    "answer": "The Silence of the Lambs"
+  },
+  {
+    "question": "What is the name of the 2007 film starring Javier Bardem?",
+    "answer": "No Country for Old Men"
   },
   {
     "question": "What is the name of the 2010 film in which Natalie Portman was the lead actress?",
@@ -703,6 +747,10 @@
     "answer": "Howl's Moving Castle"
   },
   {
+    "question": "What is the name of the animated film about dinosaurs?",
+    "answer": "The Land Before Time"
+  },
+  {
     "question": "What is the name of the animated film where the characters live in a castle?",
     "answer": "Howl's Moving Castle"
   },
@@ -839,6 +887,10 @@
     "answer": "Return to Budapest"
   },
   {
+    "question": "What is the name of the film based on Mikhail Sholokhov's novel 'Quiet Flows the Don'?",
+    "answer": "Quiet Flows the Don"
+  },
+  {
     "question": "What is the name of the film based on Somerset Maugham's novel 'Theatre'?",
     "answer": "Theatre"
   },
@@ -881,6 +933,14 @@
   {
     "question": "What is the name of the first feature-length horror film?",
     "answer": "The Cabinet of Dr. Caligari"
+  },
+  {
+    "question": "What is the name of the first film shown on HBO?",
+    "answer": "Sometimes a Great Notion"
+  },
+  {
+    "question": "What is the name of the first sound film?",
+    "answer": "The Jazz Singer"
   },
   {
     "question": "What is the name of the game in the movie 'Nerve'?",
@@ -941,6 +1001,10 @@
   {
     "question": "What is the name of the last film featuring Heath Ledger?",
     "answer": "The Imaginarium of Doctor Parnassus"
+  },
+  {
+    "question": "What is the name of the legendary creature from 'Hellboy'?",
+    "answer": "Anung Un Rama"
   },
   {
     "question": "What is the name of the main award at the San Sebastián International Film Festival?",
@@ -1047,6 +1111,10 @@
     "answer": "Wolfwalkers"
   },
   {
+    "question": "What is the name of the procedure that created Jessica Jones?",
+    "answer": "IKS"
+  },
+  {
     "question": "What is the name of the remake of the 1980 film 'Inferno'?",
     "answer": "Inferno"
   },
@@ -1077,6 +1145,10 @@
   {
     "question": "What is the name of the satellite service of the ambitious tenant of the main character in the animated series 'B: The Beginning'?",
     "answer": "Zebra Cartel"
+  },
+  {
+    "question": "What is the name of the science fiction film about battle suits?",
+    "answer": "Pacific Rim"
   },
   {
     "question": "What is the name of the screenwriter of the movie 'Arrival'?",
@@ -1309,6 +1381,10 @@
     "answer": "In Summer"
   },
   {
+    "question": "What song plays in the finale of 'The Sopranos'?",
+    "answer": "Don't Stop Believin'"
+  },
+  {
     "question": "What technique combines live-action filming and CGI?",
     "answer": "Matting"
   },
@@ -1397,6 +1473,10 @@
     "answer": "The Birth of a Nation"
   },
   {
+    "question": "What was the name of the first television scanning standard?",
+    "answer": "NTSC"
+  },
+  {
     "question": "What was the name of the main character in the movie 'Inception'?",
     "answer": "Dom Cobb"
   },
@@ -1423,6 +1503,10 @@
   {
     "question": "What year was the premiere of the animated film 'Toy Story'?",
     "answer": "1995"
+  },
+  {
+    "question": "When did mass television broadcasting begin?",
+    "answer": "1950s"
   },
   {
     "question": "When did regular television broadcasting begin in the USSR?",
@@ -1512,6 +1596,10 @@
     "answer": "Barton Fink"
   },
   {
+    "question": "Which Danish series is about a family?",
+    "answer": "Family Ties"
+  },
+  {
     "question": "Which Danish series is about politics?",
     "answer": "Borgen"
   },
@@ -1550,6 +1638,10 @@
   {
     "question": "Which Italian actress played the lead role in the film 'Malena'?",
     "answer": "Monica Bellucci"
+  },
+  {
+    "question": "Which Japanese animated film tells the story of a volcano's journey?",
+    "answer": "Beautiful Volcano"
   },
   {
     "question": "Which Japanese award is given annually in the field of cinematography?",
@@ -1660,6 +1752,10 @@
     "answer": "Peter and the Wolf"
   },
   {
+    "question": "Which animated film tells about Norse mythology?",
+    "answer": "Vikings of Valhalla"
+  },
+  {
     "question": "Which animated film tells the story of a magical cow?",
     "answer": "The Cow and the Dream"
   },
@@ -1686,6 +1782,10 @@
   {
     "question": "Which animated film won the 'Golden Bear' award at the Berlin Film Festival?",
     "answer": "Howl's Moving Castle"
+  },
+  {
+    "question": "Which animated film won the 'Grand Prix' at the Annecy Festival in 2019?",
+    "answer": "I Lost My Body"
   },
   {
     "question": "Which animated film won the Goya Award in 2021?",
@@ -1823,6 +1923,10 @@
     "answer": "Andrei Tarkovsky"
   },
   {
+    "question": "Which director is known for the films 'Oldboy', 'Stoker', and 'The Handmaiden'?",
+    "answer": "Park Chan-wook"
+  },
+  {
     "question": "Which director made 'Taxi Driver'?",
     "answer": "Martin Scorsese"
   },
@@ -1885,6 +1989,10 @@
   {
     "question": "Which film award is given for outstanding achievements in editing?",
     "answer": "ACE Eddie"
+  },
+  {
+    "question": "Which film became a cult classic in Nigeria?",
+    "answer": "Only One Day"
   },
   {
     "question": "Which film by Peter Jackson is related to the events of World War I?",
@@ -1957,6 +2065,10 @@
   {
     "question": "Which film is an adaptation of George Orwell's novel '1984'?",
     "answer": "1984"
+  },
+  {
+    "question": "Which film is an adaptation of Henry James's work 'The Tourist'?",
+    "answer": "Federal Agent"
   },
   {
     "question": "Which film is an adaptation of the novel 'The Island' by Westerfeld?",
@@ -2051,12 +2163,20 @@
     "answer": "Life of Pi"
   },
   {
+    "question": "Which film used revolutionary visual effects for space?",
+    "answer": "Gravity"
+  },
+  {
     "question": "Which film was a pioneer of surrealism in cinema?",
     "answer": "Un Chien Andalou"
   },
   {
     "question": "Which film was based on the novel 'Younger Brother'?",
     "answer": "Younger Brother"
+  },
+  {
+    "question": "Which film was directed by Agnès Varda?",
+    "answer": "Cléo from 5 to 7"
   },
   {
     "question": "Which film was directed by Apichatpong Weerasethakul?",
@@ -2134,6 +2254,10 @@
     "answer": "Gate of Hell"
   },
   {
+    "question": "Which film was the first to win three Oscars for directing?",
+    "answer": "The Godfather"
+  },
+  {
     "question": "Which film was the first winner of the Cannes Film Festival?",
     "answer": "Eternal Love"
   },
@@ -2148,6 +2272,10 @@
   {
     "question": "Which film won the 'Best Documentary Feature' at the Oscars in 2016?",
     "answer": "Amy"
+  },
+  {
+    "question": "Which film won the 'Golden Lion' at the Venice Film Festival in 2018?",
+    "answer": "Roma"
   },
   {
     "question": "Which film won the 'Golden Lion' in 2022?",
@@ -2202,6 +2330,10 @@
     "answer": "Titane"
   },
   {
+    "question": "Which film won the first 'Golden Globe' for Best Picture?",
+    "answer": "The Best Years of Our Lives"
+  },
+  {
     "question": "Which film won the main award at the Sundance Film Festival in 2021?",
     "answer": "CODA"
   },
@@ -2243,6 +2375,10 @@
   {
     "question": "Which genre is most often based on cyber technologies?",
     "answer": "Cyberpunk"
+  },
+  {
+    "question": "Which genre often features tense and dramatic stories?",
+    "answer": "Thriller"
   },
   {
     "question": "Which horror film did James Wan direct in 2010?",
@@ -2287,6 +2423,10 @@
   {
     "question": "Which movie is about teenagers spending the summer on a damp farm?",
     "answer": "Farm Trip"
+  },
+  {
+    "question": "Which movie is known for its effects of transforming crew members into aliens?",
+    "answer": "The Thing"
   },
   {
     "question": "Which movie starts with the phrase 'I had the worst day of my life'?",
@@ -2448,6 +2588,10 @@
     "answer": "Sunrise"
   },
   {
+    "question": "Which studio created the series 'Mindhunter'?",
+    "answer": "A-1 Pictures"
+  },
+  {
     "question": "Which studio is known for creating 'Star Wars'?",
     "answer": "Lucasfilm"
   },
@@ -2546,6 +2690,10 @@
   {
     "question": "Who composed the music for the drama 'Vira'?",
     "answer": "Alababa Adalov"
+  },
+  {
+    "question": "Who composed the music for the film \"Gran Torino\"?",
+    "answer": "Kyle Eastwood"
   },
   {
     "question": "Who composed the music for the film '12 Years a Slave'?",
@@ -2728,6 +2876,10 @@
     "answer": "Claude Barras"
   },
   {
+    "question": "Who directed 'Nosferatu'?",
+    "answer": "Friedrich Murnau"
+  },
+  {
     "question": "Who directed 'Ruby'?",
     "answer": "Trevor Jamieson"
   },
@@ -2758,6 +2910,10 @@
   {
     "question": "Who directed 'The Mighty Aloys'?",
     "answer": "Tomm Moore"
+  },
+  {
+    "question": "Who directed 'The Tale of Tsar Saltan'?",
+    "answer": "Alexander Ptushko"
   },
   {
     "question": "Who directed 'The World Is Yours'?",
@@ -2840,6 +2996,10 @@
     "answer": "Tomm Moore"
   },
   {
+    "question": "Who directed the animated film 'The Tale of Tsar Saltan'?",
+    "answer": "Lev Milchin"
+  },
+  {
     "question": "Who directed the documentary film 'Barbarossa'?",
     "answer": "Werner Herzog"
   },
@@ -2852,11 +3012,19 @@
     "answer": "Mary Harron"
   },
   {
+    "question": "Who directed the film 'Big Trouble in Little China'?",
+    "answer": "John Carpenter"
+  },
+  {
     "question": "Who directed the film 'Blue Velvet'?",
     "answer": "David Lynch"
   },
   {
     "question": "Who directed the film 'Breaking the Waves'?",
+    "answer": "Lars von Trier"
+  },
+  {
+    "question": "Who directed the film 'Dogville'?",
     "answer": "Lars von Trier"
   },
   {
@@ -2902,6 +3070,10 @@
   {
     "question": "Who directed the film 'The Fog of War'?",
     "answer": "Errol Morris"
+  },
+  {
+    "question": "Who directed the film 'Tomorrow Never Dies'?",
+    "answer": "Roger Spottiswoode"
   },
   {
     "question": "Who directed the first installment of the 'Alien' franchise?",
@@ -2981,6 +3153,10 @@
   {
     "question": "Who is the composer of the soundtrack for the film 'Brideshead Revisited'?",
     "answer": "Jeff Zanelli"
+  },
+  {
+    "question": "Who is the composer of the soundtrack for the movie 'Black Hawk Down'?",
+    "answer": "Hans Zimmer"
   },
   {
     "question": "Who is the creator of 'The Simpsons'?",
@@ -3150,6 +3326,10 @@
     "answer": "Karina Metz"
   },
   {
+    "question": "Who is the screenwriter of the film 'Eternal Sunshine of the Spotless Mind'?",
+    "answer": "Charlie Kaufman"
+  },
+  {
     "question": "Who is the successor to the King of Equestria in the series 'My Little Pony: Friendship is Magic'?",
     "answer": "Twilight Sparkle"
   },
@@ -3266,8 +3446,16 @@
     "answer": "Carrie-Anne Moss"
   },
   {
+    "question": "Who plays the lead role in the 2018 remake of 'Suspiria'?",
+    "answer": "Dakota Johnson"
+  },
+  {
     "question": "Who plays the lead role in the series \"Being Erna\"?",
     "answer": "Anna Kendrick"
+  },
+  {
+    "question": "Who plays the main female role in the series 'Westworld'?",
+    "answer": "Evan Rachel Wood"
   },
   {
     "question": "Who plays the role of Dragon in the series 'The Mandalorian'?",
@@ -3354,8 +3542,20 @@
     "answer": "Scarlett O'Hara"
   },
   {
+    "question": "Who said: 'I'm hard to convince, but easy to deceive'?",
+    "answer": "Dr. House"
+  },
+  {
     "question": "Who said: 'In the beginning was the Word'?",
     "answer": "John"
+  },
+  {
+    "question": "Who said: 'It's the end of the world as we know it'?",
+    "answer": "Ramsay"
+  },
+  {
+    "question": "Who said: 'Only he deserves life and freedom, who every day goes to fight for them'?",
+    "answer": "Goethe"
   },
   {
     "question": "Who said: 'Plato is my friend, but truth is more important'?",
@@ -3398,8 +3598,16 @@
     "answer": "Walter Hill"
   },
   {
+    "question": "Who was the creator of the series 'Chernobyl'?",
+    "answer": "Craig Mazin"
+  },
+  {
     "question": "Who was the director of the film \"Formula of Love\"?",
     "answer": "Mark Zakharov"
+  },
+  {
+    "question": "Who was the first recipient of the Oscar for Best Actor?",
+    "answer": "Emil Jannings"
   },
   {
     "question": "Who was the first to receive the Palme d'Or at the Cannes Film Festival?",
@@ -3412,6 +3620,10 @@
   {
     "question": "Who was the president of the jury at the Cannes Film Festival in 2021?",
     "answer": "Spike Lee"
+  },
+  {
+    "question": "Who wears the orange bandana in 'Teenage Mutant Ninja Turtles'?",
+    "answer": "Michelangelo"
   },
   {
     "question": "Who won the Golden Bear for the film 'Synonyms'?",
@@ -3428,6 +3640,10 @@
   {
     "question": "Who won the Oscar for Best Actress in 2020?",
     "answer": "Renée Zellweger"
+  },
+  {
+    "question": "Who won the Oscar for Best Original Score for an animated film in 2020?",
+    "answer": "Trent Reznor, Atticus Ross, and Jon Batiste"
   },
   {
     "question": "Who won the Palme d'Or at the Cannes Film Festival in 2019?",
