@@ -996,6 +996,10 @@
     "answer": "Gradient descent"
   },
   {
+    "question": "What is virtual memory?",
+    "answer": "Simulation of RAM"
+  },
+  {
     "question": "What joins DNA from different sources?",
     "answer": "Ligases"
   },
@@ -1202,6 +1206,14 @@
   {
     "question": "What state can eliminate errors in quantum computing?",
     "answer": "Quantum correction"
+  },
+  {
+    "question": "What structure is important for nanoelectronics?",
+    "answer": "Nanocrystals"
+  },
+  {
+    "question": "What system helps a robot determine its location?",
+    "answer": "Navigation"
   },
   {
     "question": "What system helps reduce the carbon footprint of a home?",
