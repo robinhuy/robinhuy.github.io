@@ -1,5 +1,13 @@
 [
   {
+    "question": "At what depth do dolphins usually feed?",
+    "answer": "30 meters"
+  },
+  {
+    "question": "Do jawless vertebrates have a backbone?",
+    "answer": "No"
+  },
+  {
     "question": "For what purpose do echinoderms expel their internal organs when in extreme danger?",
     "answer": "Defense"
   },
@@ -18,6 +26,10 @@
   {
     "question": "How do starfish maintain balance?",
     "answer": "With their tube feet"
+  },
+  {
+    "question": "How does a hagfish defend itself from predators?",
+    "answer": "Mucopolysaccharides"
   },
   {
     "question": "How does an anaconda obtain its food?",
@@ -44,6 +56,10 @@
     "answer": "5"
   },
   {
+    "question": "How many gill openings does a lamprey have?",
+    "answer": "7"
+  },
+  {
     "question": "How many gill slits do jawless fish have?",
     "answer": "Up to 100"
   },
@@ -58,6 +74,10 @@
   {
     "question": "How many radial canals does a starfish have?",
     "answer": "Five"
+  },
+  {
+    "question": "How many segments does a caterpillar have in its body?",
+    "answer": "13"
   },
   {
     "question": "How many species of dolphins are there?",
@@ -80,12 +100,20 @@
     "answer": "80"
   },
   {
+    "question": "How many species of rays are there?",
+    "answer": "More than 500"
+  },
+  {
     "question": "How many species of snakes exist in the world?",
     "answer": "more than 3000"
   },
   {
     "question": "How many tentacles does an argopect have?",
     "answer": "Ten"
+  },
+  {
+    "question": "How many types of gills do sharks have?",
+    "answer": "Two"
   },
   {
     "question": "How many years does a beluga whale live?",
@@ -100,6 +128,10 @@
     "answer": "19th century"
   },
   {
+    "question": "In which century were the first fossils of jawed vertebrates discovered?",
+    "answer": "19th century"
+  },
+  {
     "question": "In which nature reserve can orange cuckoos be found?",
     "answer": "Barguzinsky"
   },
@@ -108,8 +140,16 @@
     "answer": "Rostovsky"
   },
   {
+    "question": "In which nature reserve do Arctic foxes live?",
+    "answer": "Verkhne-Tazovsky"
+  },
+  {
     "question": "In which nature reserve do Caucasian storks live?",
     "answer": "Shaumyan"
+  },
+  {
+    "question": "In which nature reserve do leopards live near the Amur River?",
+    "answer": "Lazovsky Nature Reserve"
   },
   {
     "question": "In which nature reserve do red pandas live?",
@@ -118,6 +158,10 @@
   {
     "question": "In which nature reserve does the rare sea comb live?",
     "answer": "Far Eastern Marine Reserve"
+  },
+  {
+    "question": "In which ocean do giant squids live?",
+    "answer": "Atlantic"
   },
   {
     "question": "In which ocean do hagfish live?",
@@ -144,6 +188,10 @@
     "answer": "Hominidae"
   },
   {
+    "question": "What animal is dominant in the tundra?",
+    "answer": "Musk ox"
+  },
+  {
     "question": "What animals inhabit the Darwin Reserve?",
     "answer": "Sea otters"
   },
@@ -154,6 +202,10 @@
   {
     "question": "What are arthropods with jaws called?",
     "answer": "Mandibulates"
+  },
+  {
+    "question": "What are brittle stars?",
+    "answer": "A type of echinoderms"
   },
   {
     "question": "What are nocturnal primates called?",
@@ -200,6 +252,14 @@
     "answer": "Nile perch"
   },
   {
+    "question": "What fish is called the sea devil?",
+    "answer": "sea devil"
+  },
+  {
+    "question": "What fish is most commonly caught in sport fishing?",
+    "answer": "Salmon"
+  },
+  {
     "question": "What function do ancient gill slits serve in jawless vertebrates?",
     "answer": "Respiratory"
   },
@@ -210,6 +270,14 @@
   {
     "question": "What function does the respiratory system perform?",
     "answer": "Beaver"
+  },
+  {
+    "question": "What function does the tail serve in primates?",
+    "answer": "Balance"
+  },
+  {
+    "question": "What function does the tongue serve in snakes?",
+    "answer": "Sensing smells"
   },
   {
     "question": "What is a madreporite?",
@@ -232,6 +300,18 @@
     "answer": "The science of fish"
   },
   {
+    "question": "What is special about geckos' eyes?",
+    "answer": "No eyelids"
+  },
+  {
+    "question": "What is the average number of eggs laid by a cockroach at one time?",
+    "answer": "16"
+  },
+  {
+    "question": "What is the body length of a lamprey?",
+    "answer": "Astrakhan Nature Reserve"
+  },
+  {
     "question": "What is the brain size of a chimpanzee?",
     "answer": "400 grams"
   },
@@ -244,8 +324,20 @@
     "answer": "The most ancient"
   },
   {
+    "question": "What is the function of a whale's dorsal fin?",
+    "answer": "Stabilization"
+  },
+  {
     "question": "What is the largest living mollusk?",
     "answer": "Giant squid"
+  },
+  {
+    "question": "What is the largest shark in the world?",
+    "answer": "Whale shark"
+  },
+  {
+    "question": "What is the life cycle of a lamprey?",
+    "answer": "Complete cycle"
   },
   {
     "question": "What is the life cycle of insects called?",
@@ -254,6 +346,18 @@
   {
     "question": "What is the main function of the ambulacral system?",
     "answer": "Locomotion"
+  },
+  {
+    "question": "What is the main purpose of the Oksky Nature Reserve?",
+    "answer": "Breeding of European bison"
+  },
+  {
+    "question": "What is the maximum depth at which cephalopods can live?",
+    "answer": "3000 meters"
+  },
+  {
+    "question": "What is the maximum length an anaconda can reach?",
+    "answer": "12 meters"
   },
   {
     "question": "What is the molting process in arthropods called?",
@@ -272,6 +376,10 @@
     "answer": "Pike"
   },
   {
+    "question": "What is the name of the fish that can generate electricity?",
+    "answer": "Electric eel"
+  },
+  {
     "question": "What is the name of the nocturnal primate with big eyes?",
     "answer": "Aye-aye"
   },
@@ -282,6 +390,10 @@
   {
     "question": "What is the name of the potent mollusk toxin?",
     "answer": "Tetrodotoxin"
+  },
+  {
+    "question": "What is the name of the small South American monkey with a ringed tail?",
+    "answer": "marmoset"
   },
   {
     "question": "What is the notochord of a lancelet made of?",
@@ -304,6 +416,10 @@
     "answer": "Hydrostatic pressure"
   },
   {
+    "question": "What is the process of digestion in starfish called?",
+    "answer": "External"
+  },
+  {
     "question": "What is the process of evolution of fish into land animals called?",
     "answer": "Tetrapodization"
   },
@@ -320,8 +436,16 @@
     "answer": "Pupa"
   },
   {
+    "question": "What length can a blue whale reach?",
+    "answer": "30 meters"
+  },
+  {
     "question": "What length can a reticulated python reach?",
     "answer": "up to 10 meters"
+  },
+  {
+    "question": "What organ does a shark use to detect prey?",
+    "answer": "Ampullae of Lorenzini"
   },
   {
     "question": "What organisms does an anteater prefer to eat?",
@@ -360,6 +484,10 @@
     "answer": "Bony"
   },
   {
+    "question": "What type of skeleton do jawed vertebrates have?",
+    "answer": "Cartilaginous"
+  },
+  {
     "question": "What water temperature is preferred for squids?",
     "answer": "Warm"
   },
@@ -374,6 +502,10 @@
   {
     "question": "Where are the lateral line organs located on a shark?",
     "answer": "On the sides"
+  },
+  {
+    "question": "Where can you see birds listed in the Red Book?",
+    "answer": "Gibbons"
   },
   {
     "question": "Where can you see nesting flamingos?",
@@ -396,6 +528,10 @@
     "answer": "Freshwater bodies"
   },
   {
+    "question": "Where is the 'Stolby' Nature Reserve located?",
+    "answer": "Krasnoyarsk Krai"
+  },
+  {
     "question": "Where is the Bastak Nature Reserve located?",
     "answer": "Jewish Autonomous Region"
   },
@@ -412,12 +548,20 @@
     "answer": "Tunicates"
   },
   {
+    "question": "Which animal belongs to the group of cetaceans and is known for its long white tusks?",
+    "answer": "Narwhal"
+  },
+  {
     "question": "Which animal can change its color?",
     "answer": "Chameleon"
   },
   {
     "question": "Which animal can regenerate its tentacles?",
     "answer": "Squid"
+  },
+  {
+    "question": "Which animal feeds on mosses and lichens?",
+    "answer": "Deer"
   },
   {
     "question": "Which animal has thick orange fur?",
@@ -436,6 +580,18 @@
     "answer": "yak"
   },
   {
+    "question": "Which animal is known for its ability to weave webs?",
+    "answer": "spider"
+  },
+  {
+    "question": "Which animal is often depicted as a mammal in the pampas?",
+    "answer": "Guanaco"
+  },
+  {
+    "question": "Which animal is protected in the Lazovsky Nature Reserve?",
+    "answer": "Human"
+  },
+  {
     "question": "Which animal is protected in the Tigirek Nature Reserve?",
     "answer": "Marmot"
   },
@@ -444,12 +600,24 @@
     "answer": "Actinaria"
   },
   {
+    "question": "Which animal lives in the mountains of Eurasia and feeds on grasses?",
+    "answer": "Chamois"
+  },
+  {
+    "question": "Which animals are morphologically simple?",
+    "answer": "lancelets"
+  },
+  {
     "question": "Which animals eat hay?",
     "answer": "Sheep"
   },
   {
     "question": "Which animals live in saltwater?",
     "answer": "Hagfish"
+  },
+  {
+    "question": "Which bird builds large bowers to attract females?",
+    "answer": "Bowerbird"
   },
   {
     "question": "Which bird builds nests on water?",
@@ -470,6 +638,10 @@
   {
     "question": "Which bird has a crest on its head and a hooked beak?",
     "answer": "frigatebird"
+  },
+  {
+    "question": "Which bird is famous for its intricate nests in trees?",
+    "answer": "weaver"
   },
   {
     "question": "Which bird is famous for its long beak?",
@@ -496,6 +668,10 @@
     "answer": "kiwi"
   },
   {
+    "question": "Which bird lives in the desert?",
+    "answer": "ostrich"
+  },
+  {
     "question": "Which bird returns to the north first?",
     "answer": "Rook"
   },
@@ -508,6 +684,10 @@
     "answer": "Swallows"
   },
   {
+    "question": "Which birds can fly backwards?",
+    "answer": "Hummingbirds"
+  },
+  {
     "question": "Which creature emits light in the dark?",
     "answer": "Sea firefly"
   },
@@ -516,8 +696,20 @@
     "answer": "Parrotfish"
   },
   {
+    "question": "Which crocodiles inhabit South America?",
+    "answer": "Caimans"
+  },
+  {
     "question": "Which echinoderms live on the sea and ocean floors and filter water?",
     "answer": "Crinoids"
+  },
+  {
+    "question": "Which echinoderms resemble lilies?",
+    "answer": "Sea lilies"
+  },
+  {
+    "question": "Which fish are capable of actively hunting?",
+    "answer": "Jawed fish"
   },
   {
     "question": "Which fish are capable of breathing air?",
@@ -538,6 +730,10 @@
   {
     "question": "Which fish can go on land?",
     "answer": "Bichir"
+  },
+  {
+    "question": "Which fish can reach a length of over 2 meters?",
+    "answer": "Eel"
   },
   {
     "question": "Which fish inhabits coral reefs and has poisonous organs?",
@@ -566,6 +762,10 @@
   {
     "question": "Which fish were the ancestors of jawed vertebrates?",
     "answer": "Placoderms"
+  },
+  {
+    "question": "Which fly transmits sleeping sickness?",
+    "answer": "Tsetse fly"
   },
   {
     "question": "Which herbivorous animal lives high in the mountains?",
@@ -600,6 +800,10 @@
     "answer": "Butterfly"
   },
   {
+    "question": "Which insects are beneficial to humans?",
+    "answer": "Bees"
+  },
+  {
     "question": "Which insects glow in the dark?",
     "answer": "fireflies"
   },
@@ -616,12 +820,24 @@
     "answer": "Champion iguana"
   },
   {
+    "question": "Which mammal can mimic the human voice?",
+    "answer": "Whale"
+  },
+  {
+    "question": "Which mammal has the longest sleep duration?",
+    "answer": "Bat"
+  },
+  {
     "question": "Which mammal hunts at night?",
     "answer": "Cat"
   },
   {
     "question": "Which mammal hunts seals?",
     "answer": "Orca"
+  },
+  {
+    "question": "Which mammal inhabits high-altitude forests?",
+    "answer": "Orangutan"
   },
   {
     "question": "Which mammal is a carrier of fungi?",
@@ -676,8 +892,24 @@
     "answer": "Cones"
   },
   {
+    "question": "Which monkey is carnivorous?",
+    "answer": "Chimpanzee"
+  },
+  {
+    "question": "Which nature reserve is famous for its ornithological station?",
+    "answer": "Prioksko-Terrasny"
+  },
+  {
+    "question": "Which nature reserve is famous for rare animals?",
+    "answer": "Darvinsky"
+  },
+  {
     "question": "Which nature reserve is known for its population of Amur tigers?",
     "answer": "Sikhote-Alin"
+  },
+  {
+    "question": "Which nature reserve is known for its salt lakes?",
+    "answer": "Ashuluksky"
   },
   {
     "question": "Which nature reserve is known for rare plants in the Altai Krai?",
@@ -700,8 +932,16 @@
     "answer": "Gills"
   },
   {
+    "question": "Which part of the body of jawless fish is particularly well-developed for regeneration?",
+    "answer": "Notochord"
+  },
+  {
     "question": "Which primate is known for its predatory behavior?",
     "answer": "Baboon"
+  },
+  {
+    "question": "Which primate is known for its red face?",
+    "answer": "uakari"
   },
   {
     "question": "Which primates are known for their monogamous mating?",
@@ -718,6 +958,10 @@
   {
     "question": "Which reptile is called the 'queen of the desert'?",
     "answer": "Tuatara"
+  },
+  {
+    "question": "Which reptile is capable of withstanding high temperatures?",
+    "answer": "Desert lizard"
   },
   {
     "question": "Which reserve does Mount Elbrus belong to?",
@@ -740,8 +984,16 @@
     "answer": "Tactile"
   },
   {
+    "question": "Which snail is a predator?",
+    "answer": "Harpoon snail"
+  },
+  {
     "question": "Which snail is considered dangerous to humans?",
     "answer": "Cone snail"
+  },
+  {
+    "question": "Which snail is known as a plant pest?",
+    "answer": "slug"
   },
   {
     "question": "Which snail produces venom?",
@@ -750,6 +1002,14 @@
   {
     "question": "Which snake is known for its beautiful skin patterns?",
     "answer": "King Cobra"
+  },
+  {
+    "question": "Which system is absent in cephalochordates?",
+    "answer": "closed circulatory"
+  },
+  {
+    "question": "Which system is the most developed in lampreys?",
+    "answer": "Nervous"
   },
   {
     "question": "Which tick is commonly found on animals?",
@@ -764,6 +1024,10 @@
     "answer": "Sperm whale"
   },
   {
+    "question": "Which whales use echolocation?",
+    "answer": "Toothed"
+  },
+  {
     "question": "Who builds \"complex nests\" in trees?",
     "answer": "Penduline tit"
   },
@@ -772,8 +1036,16 @@
     "answer": "Sea snake"
   },
   {
+    "question": "Who is known as the 'king of the skies'?",
+    "answer": "Eagle"
+  },
+  {
     "question": "Who is the main predator of corals?",
     "answer": "Crown-of-thorns starfish"
+  },
+  {
+    "question": "Who was the first to study arthropods under a microscope?",
+    "answer": "Antonie van Leeuwenhoek"
   },
   {
     "question": "Why do sea cucumbers wash up on shore?",

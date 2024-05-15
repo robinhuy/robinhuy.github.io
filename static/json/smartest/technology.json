@@ -20,6 +20,10 @@
     "answer": "Superposition"
   },
   {
+    "question": "How does AR assist doctors during surgeries?",
+    "answer": "Clarity"
+  },
+  {
     "question": "How does AR help manufacturing?",
     "answer": "Instructions"
   },
@@ -116,6 +120,10 @@
     "answer": "Noise and errors"
   },
   {
+    "question": "The technique used for studying nanostructures?",
+    "answer": "Atomic force microscope"
+  },
+  {
     "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
     "answer": "Art AI"
   },
@@ -154,6 +162,10 @@
   {
     "question": "What are robots afraid of?",
     "answer": "Overload"
+  },
+  {
+    "question": "What are specialists who test systems for security called?",
+    "answer": "Pentesters"
   },
   {
     "question": "What are the advantages of cloud computing?",
@@ -264,6 +276,10 @@
     "answer": "Find vulnerabilities"
   },
   {
+    "question": "What does 'tokenization' mean?",
+    "answer": "Creating tokens"
+  },
+  {
     "question": "What does FDM stand for?",
     "answer": "Fused Deposition Modeling"
   },
@@ -286,6 +302,10 @@
   {
     "question": "What does a quantum algorithm use for encryption?",
     "answer": "Randomness"
+  },
+  {
+    "question": "What does an IDS do?",
+    "answer": "Detects intrusions"
   },
   {
     "question": "What does an encoder do?",
@@ -316,12 +336,20 @@
     "answer": "copying DNA"
   },
   {
+    "question": "What does the abbreviation FDM stand for in 3D printing?",
+    "answer": "Fused Deposition Modeling"
+  },
+  {
     "question": "What does the abbreviation MFA stand for?",
     "answer": "Multi-Factor Authentication"
   },
   {
     "question": "What does the abbreviation RFID stand for?",
     "answer": "Radio Frequency Identification"
+  },
+  {
+    "question": "What does the term 'cloud security' imply?",
+    "answer": "Data protection"
   },
   {
     "question": "What does the term 'code injection' mean?",
@@ -388,12 +416,20 @@
     "answer": "Common Vulnerabilities"
   },
   {
+    "question": "What is DDoS protection?",
+    "answer": "Protection against denial of service"
+  },
+  {
     "question": "What is DeFi in blockchain?",
     "answer": "Decentralized finance"
   },
   {
     "question": "What is ERC-20?",
     "answer": "Token standard"
+  },
+  {
+    "question": "What is Google Fuchsia?",
+    "answer": "Operating system"
   },
   {
     "question": "What is Grover's algorithm used for?",
@@ -480,6 +516,10 @@
     "answer": "A form of carbon"
   },
   {
+    "question": "What is a genetic vector?",
+    "answer": "DNA carrier"
+  },
+  {
     "question": "What is a geostationary orbit?",
     "answer": "35,786 kilometers"
   },
@@ -530,6 +570,10 @@
   {
     "question": "What is decoherence?",
     "answer": "Loss of coherence"
+  },
+  {
+    "question": "What is energy efficiency?",
+    "answer": "Maximum productivity"
   },
   {
     "question": "What is enhanced by VR?",
@@ -792,12 +836,20 @@
     "answer": "Grover's Algorithm"
   },
   {
+    "question": "What is the name of the robot competition?",
+    "answer": "RoboCup"
+  },
+  {
     "question": "What is the name of the sensor that detects infrared radiation?",
     "answer": "Pyrometer"
   },
   {
     "question": "What is the name of the server virtualization technology?",
     "answer": "Hyper-V"
+  },
+  {
+    "question": "What is the name of the space probe for studying the Sun?",
+    "answer": "Parker Solar Probe"
   },
   {
     "question": "What is the name of the space telescope for ultraviolet observations?",
@@ -862,6 +914,10 @@
   {
     "question": "What is the process of adjusting weights in a neural network called?",
     "answer": "Backpropagation"
+  },
+  {
+    "question": "What is the process of analyzing network traffic called?",
+    "answer": "Network monitoring"
   },
   {
     "question": "What is the process of assembling and configuring a robot called?",
@@ -940,6 +996,10 @@
     "answer": "PLC software"
   },
   {
+    "question": "What is the technical document of a cryptocurrency called?",
+    "answer": "Whitepaper"
+  },
+  {
     "question": "What is the technique called for cloning at the molecular level?",
     "answer": "PCR"
   },
@@ -978,6 +1038,14 @@
   {
     "question": "What is the term for the time interval during which the image on a VR screen is updated?",
     "answer": "Refresh rate"
+  },
+  {
+    "question": "What is used for manipulating nanoparticles?",
+    "answer": "Nanomanipulators"
+  },
+  {
+    "question": "What is used for training neural networks?",
+    "answer": "Backpropagation"
   },
   {
     "question": "What is used for transaction verification?",
@@ -1020,6 +1088,10 @@
     "answer": "Freon"
   },
   {
+    "question": "What material is often used for sensors?",
+    "answer": "Graphene"
+  },
+  {
     "question": "What material is often used in tissue bioprinting?",
     "answer": "Bioplastics"
   },
@@ -1038,6 +1110,10 @@
   {
     "question": "What mechanism prevents double spending?",
     "answer": "Consensus"
+  },
+  {
+    "question": "What method allows adding a new block to the blockchain?",
+    "answer": "Proof of Work"
   },
   {
     "question": "What method can be used to introduce genes into a cell?",
@@ -1080,12 +1156,20 @@
     "answer": "Transfection"
   },
   {
+    "question": "What method is used to lengthen telomeres?",
+    "answer": "Enzymatic intervention"
+  },
+  {
     "question": "What method is used to optimize weights in a neural network?",
     "answer": "Backpropagation"
   },
   {
     "question": "What method is used to verify a user's identity using multiple factors?",
     "answer": "Multi-factor authentication"
+  },
+  {
+    "question": "What method of biodiversity restoration is used in ecology?",
+    "answer": "Renaturalization"
   },
   {
     "question": "What mission did Voyager 1 accomplish?",
@@ -1130,6 +1214,10 @@
   {
     "question": "What process is used in fuel cells to generate electricity?",
     "answer": "Electrochemical reaction"
+  },
+  {
+    "question": "What process is used to create clones of entire organisms?",
+    "answer": "Cloning"
   },
   {
     "question": "What process is used to produce biogas?",
@@ -1204,12 +1292,20 @@
     "answer": "Terraform"
   },
   {
+    "question": "What specialization is most important for IoT development?",
+    "answer": "Electronics"
+  },
+  {
     "question": "What state can eliminate errors in quantum computing?",
     "answer": "Quantum correction"
   },
   {
     "question": "What structure is important for nanoelectronics?",
     "answer": "Nanocrystals"
+  },
+  {
+    "question": "What substance is used in PCR?",
+    "answer": "DNA"
   },
   {
     "question": "What system helps a robot determine its location?",
@@ -1248,6 +1344,10 @@
     "answer": "Gene therapy"
   },
   {
+    "question": "What technologies help reduce energy consumption in a smart home?",
+    "answer": "LEDs"
+  },
+  {
     "question": "What technology allows a robot to recognize human speech?",
     "answer": "Speech recognition"
   },
@@ -1258,6 +1358,10 @@
   {
     "question": "What technology allows the accumulation of energy from solar panels?",
     "answer": "Batteries"
+  },
+  {
+    "question": "What technology allows the restoration of lost body functions?",
+    "answer": "Regenerative therapy"
   },
   {
     "question": "What technology converts heat into electricity?",
@@ -1332,6 +1436,18 @@
     "answer": "Cyclography"
   },
   {
+    "question": "What type of blockchain does IBM Hyperledger belong to?",
+    "answer": "Private blockchain"
+  },
+  {
+    "question": "What type of control includes automatic adjustment of parameters?",
+    "answer": "Regular control"
+  },
+  {
+    "question": "What type of data does cloud encryption protect?",
+    "answer": "Confidential data"
+  },
+  {
     "question": "What type of data is most commonly exchanged by IoT devices?",
     "answer": "Telemetry"
   },
@@ -1354,6 +1470,10 @@
   {
     "question": "What type of energy is used for heating homes with heat pumps?",
     "answer": "Geothermal energy"
+  },
+  {
+    "question": "What type of fuel is often used in modern satellites?",
+    "answer": "Hydrazine"
   },
   {
     "question": "What type of modification is used to study gene function?",
@@ -1512,12 +1632,20 @@
     "answer": "Helium-3"
   },
   {
+    "question": "Which element is used to create most modern qubits?",
+    "answer": "Silicon"
+  },
+  {
     "question": "Which element of the autonomous driving system is responsible for analyzing road situations?",
     "answer": "Artificial Intelligence"
   },
   {
     "question": "Which element of the basic IoT architecture is responsible for data collection and initial processing?",
     "answer": "gateway"
+  },
+  {
+    "question": "Which energy source requires the least amount of water?",
+    "answer": "Wind energy"
   },
   {
     "question": "Which engine uses ion technology?",
@@ -1562,6 +1690,10 @@
   {
     "question": "Which instrument has atomic precision?",
     "answer": "Scanning tunneling microscope"
+  },
+  {
+    "question": "Which instrument is used to study cosmic microwave background radiation?",
+    "answer": "WMAP"
   },
   {
     "question": "Which layer in the IoT architecture is responsible for data processing?",
@@ -1620,6 +1752,10 @@
     "answer": "Salicylic acid"
   },
   {
+    "question": "Which molecule is used for gene labeling?",
+    "answer": "GFP"
+  },
+  {
     "question": "Which network is best suited for a smart city?",
     "answer": "LPWAN"
   },
@@ -1670,6 +1806,10 @@
   {
     "question": "Which proteins are involved in the body's immune response?",
     "answer": "Antibodies"
+  },
+  {
+    "question": "Which protocol is used for real-time data transmission?",
+    "answer": "RTP"
   },
   {
     "question": "Which protocol protects emails?",
@@ -1788,8 +1928,16 @@
     "answer": "Superhot VR"
   },
   {
+    "question": "Which waste processing method reduces the amount of waste?",
+    "answer": "Recycling"
+  },
+  {
     "question": "Who can validate transactions in a public blockchain?",
     "answer": "Anyone"
+  },
+  {
+    "question": "Who coined the term 'robotics'?",
+    "answer": "Isaac Asimov"
   },
   {
     "question": "Who developed one of the first approaches to deep learning?",
@@ -1814,6 +1962,10 @@
   {
     "question": "Who is considered a pioneer in the field of nanotechnology?",
     "answer": "Eric Drexler"
+  },
+  {
+    "question": "Who is the founder of Honor?",
+    "answer": "Zhao Ming"
   },
   {
     "question": "Who is the founder of the concept of IoT?",

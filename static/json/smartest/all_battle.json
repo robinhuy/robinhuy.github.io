@@ -1,5 +1,13 @@
 [
     {
+        "question": "At what depth do dolphins usually feed?",
+        "answer": "30 meters"
+    },
+    {
+        "question": "Do jawless vertebrates have a backbone?",
+        "answer": "No"
+    },
+    {
         "question": "For what purpose do echinoderms expel their internal organs when in extreme danger?",
         "answer": "Defense"
     },
@@ -18,6 +26,10 @@
     {
         "question": "How do starfish maintain balance?",
         "answer": "With their tube feet"
+    },
+    {
+        "question": "How does a hagfish defend itself from predators?",
+        "answer": "Mucopolysaccharides"
     },
     {
         "question": "How does an anaconda obtain its food?",
@@ -44,6 +56,10 @@
         "answer": "5"
     },
     {
+        "question": "How many gill openings does a lamprey have?",
+        "answer": "7"
+    },
+    {
         "question": "How many gill slits do jawless fish have?",
         "answer": "Up to 100"
     },
@@ -58,6 +74,10 @@
     {
         "question": "How many radial canals does a starfish have?",
         "answer": "Five"
+    },
+    {
+        "question": "How many segments does a caterpillar have in its body?",
+        "answer": "13"
     },
     {
         "question": "How many species of dolphins are there?",
@@ -80,12 +100,20 @@
         "answer": "80"
     },
     {
+        "question": "How many species of rays are there?",
+        "answer": "More than 500"
+    },
+    {
         "question": "How many species of snakes exist in the world?",
         "answer": "more than 3000"
     },
     {
         "question": "How many tentacles does an argopect have?",
         "answer": "Ten"
+    },
+    {
+        "question": "How many types of gills do sharks have?",
+        "answer": "Two"
     },
     {
         "question": "How many years does a beluga whale live?",
@@ -100,6 +128,10 @@
         "answer": "19th century"
     },
     {
+        "question": "In which century were the first fossils of jawed vertebrates discovered?",
+        "answer": "19th century"
+    },
+    {
         "question": "In which nature reserve can orange cuckoos be found?",
         "answer": "Barguzinsky"
     },
@@ -108,8 +140,16 @@
         "answer": "Rostovsky"
     },
     {
+        "question": "In which nature reserve do Arctic foxes live?",
+        "answer": "Verkhne-Tazovsky"
+    },
+    {
         "question": "In which nature reserve do Caucasian storks live?",
         "answer": "Shaumyan"
+    },
+    {
+        "question": "In which nature reserve do leopards live near the Amur River?",
+        "answer": "Lazovsky Nature Reserve"
     },
     {
         "question": "In which nature reserve do red pandas live?",
@@ -118,6 +158,10 @@
     {
         "question": "In which nature reserve does the rare sea comb live?",
         "answer": "Far Eastern Marine Reserve"
+    },
+    {
+        "question": "In which ocean do giant squids live?",
+        "answer": "Atlantic"
     },
     {
         "question": "In which ocean do hagfish live?",
@@ -144,6 +188,10 @@
         "answer": "Hominidae"
     },
     {
+        "question": "What animal is dominant in the tundra?",
+        "answer": "Musk ox"
+    },
+    {
         "question": "What animals inhabit the Darwin Reserve?",
         "answer": "Sea otters"
     },
@@ -154,6 +202,10 @@
     {
         "question": "What are arthropods with jaws called?",
         "answer": "Mandibulates"
+    },
+    {
+        "question": "What are brittle stars?",
+        "answer": "A type of echinoderms"
     },
     {
         "question": "What are nocturnal primates called?",
@@ -200,6 +252,14 @@
         "answer": "Nile perch"
     },
     {
+        "question": "What fish is called the sea devil?",
+        "answer": "sea devil"
+    },
+    {
+        "question": "What fish is most commonly caught in sport fishing?",
+        "answer": "Salmon"
+    },
+    {
         "question": "What function do ancient gill slits serve in jawless vertebrates?",
         "answer": "Respiratory"
     },
@@ -210,6 +270,14 @@
     {
         "question": "What function does the respiratory system perform?",
         "answer": "Beaver"
+    },
+    {
+        "question": "What function does the tail serve in primates?",
+        "answer": "Balance"
+    },
+    {
+        "question": "What function does the tongue serve in snakes?",
+        "answer": "Sensing smells"
     },
     {
         "question": "What is a madreporite?",
@@ -232,6 +300,18 @@
         "answer": "The science of fish"
     },
     {
+        "question": "What is special about geckos' eyes?",
+        "answer": "No eyelids"
+    },
+    {
+        "question": "What is the average number of eggs laid by a cockroach at one time?",
+        "answer": "16"
+    },
+    {
+        "question": "What is the body length of a lamprey?",
+        "answer": "Astrakhan Nature Reserve"
+    },
+    {
         "question": "What is the brain size of a chimpanzee?",
         "answer": "400 grams"
     },
@@ -244,8 +324,20 @@
         "answer": "The most ancient"
     },
     {
+        "question": "What is the function of a whale's dorsal fin?",
+        "answer": "Stabilization"
+    },
+    {
         "question": "What is the largest living mollusk?",
         "answer": "Giant squid"
+    },
+    {
+        "question": "What is the largest shark in the world?",
+        "answer": "Whale shark"
+    },
+    {
+        "question": "What is the life cycle of a lamprey?",
+        "answer": "Complete cycle"
     },
     {
         "question": "What is the life cycle of insects called?",
@@ -254,6 +346,18 @@
     {
         "question": "What is the main function of the ambulacral system?",
         "answer": "Locomotion"
+    },
+    {
+        "question": "What is the main purpose of the Oksky Nature Reserve?",
+        "answer": "Breeding of European bison"
+    },
+    {
+        "question": "What is the maximum depth at which cephalopods can live?",
+        "answer": "3000 meters"
+    },
+    {
+        "question": "What is the maximum length an anaconda can reach?",
+        "answer": "12 meters"
     },
     {
         "question": "What is the molting process in arthropods called?",
@@ -272,6 +376,10 @@
         "answer": "Pike"
     },
     {
+        "question": "What is the name of the fish that can generate electricity?",
+        "answer": "Electric eel"
+    },
+    {
         "question": "What is the name of the nocturnal primate with big eyes?",
         "answer": "Aye-aye"
     },
@@ -282,6 +390,10 @@
     {
         "question": "What is the name of the potent mollusk toxin?",
         "answer": "Tetrodotoxin"
+    },
+    {
+        "question": "What is the name of the small South American monkey with a ringed tail?",
+        "answer": "marmoset"
     },
     {
         "question": "What is the notochord of a lancelet made of?",
@@ -304,6 +416,10 @@
         "answer": "Hydrostatic pressure"
     },
     {
+        "question": "What is the process of digestion in starfish called?",
+        "answer": "External"
+    },
+    {
         "question": "What is the process of evolution of fish into land animals called?",
         "answer": "Tetrapodization"
     },
@@ -320,8 +436,16 @@
         "answer": "Pupa"
     },
     {
+        "question": "What length can a blue whale reach?",
+        "answer": "30 meters"
+    },
+    {
         "question": "What length can a reticulated python reach?",
         "answer": "up to 10 meters"
+    },
+    {
+        "question": "What organ does a shark use to detect prey?",
+        "answer": "Ampullae of Lorenzini"
     },
     {
         "question": "What organisms does an anteater prefer to eat?",
@@ -360,6 +484,10 @@
         "answer": "Bony"
     },
     {
+        "question": "What type of skeleton do jawed vertebrates have?",
+        "answer": "Cartilaginous"
+    },
+    {
         "question": "What water temperature is preferred for squids?",
         "answer": "Warm"
     },
@@ -374,6 +502,10 @@
     {
         "question": "Where are the lateral line organs located on a shark?",
         "answer": "On the sides"
+    },
+    {
+        "question": "Where can you see birds listed in the Red Book?",
+        "answer": "Gibbons"
     },
     {
         "question": "Where can you see nesting flamingos?",
@@ -396,6 +528,10 @@
         "answer": "Freshwater bodies"
     },
     {
+        "question": "Where is the 'Stolby' Nature Reserve located?",
+        "answer": "Krasnoyarsk Krai"
+    },
+    {
         "question": "Where is the Bastak Nature Reserve located?",
         "answer": "Jewish Autonomous Region"
     },
@@ -412,12 +548,20 @@
         "answer": "Tunicates"
     },
     {
+        "question": "Which animal belongs to the group of cetaceans and is known for its long white tusks?",
+        "answer": "Narwhal"
+    },
+    {
         "question": "Which animal can change its color?",
         "answer": "Chameleon"
     },
     {
         "question": "Which animal can regenerate its tentacles?",
         "answer": "Squid"
+    },
+    {
+        "question": "Which animal feeds on mosses and lichens?",
+        "answer": "Deer"
     },
     {
         "question": "Which animal has thick orange fur?",
@@ -436,6 +580,18 @@
         "answer": "yak"
     },
     {
+        "question": "Which animal is known for its ability to weave webs?",
+        "answer": "spider"
+    },
+    {
+        "question": "Which animal is often depicted as a mammal in the pampas?",
+        "answer": "Guanaco"
+    },
+    {
+        "question": "Which animal is protected in the Lazovsky Nature Reserve?",
+        "answer": "Human"
+    },
+    {
         "question": "Which animal is protected in the Tigirek Nature Reserve?",
         "answer": "Marmot"
     },
@@ -444,12 +600,24 @@
         "answer": "Actinaria"
     },
     {
+        "question": "Which animal lives in the mountains of Eurasia and feeds on grasses?",
+        "answer": "Chamois"
+    },
+    {
+        "question": "Which animals are morphologically simple?",
+        "answer": "lancelets"
+    },
+    {
         "question": "Which animals eat hay?",
         "answer": "Sheep"
     },
     {
         "question": "Which animals live in saltwater?",
         "answer": "Hagfish"
+    },
+    {
+        "question": "Which bird builds large bowers to attract females?",
+        "answer": "Bowerbird"
     },
     {
         "question": "Which bird builds nests on water?",
@@ -470,6 +638,10 @@
     {
         "question": "Which bird has a crest on its head and a hooked beak?",
         "answer": "frigatebird"
+    },
+    {
+        "question": "Which bird is famous for its intricate nests in trees?",
+        "answer": "weaver"
     },
     {
         "question": "Which bird is famous for its long beak?",
@@ -496,6 +668,10 @@
         "answer": "kiwi"
     },
     {
+        "question": "Which bird lives in the desert?",
+        "answer": "ostrich"
+    },
+    {
         "question": "Which bird returns to the north first?",
         "answer": "Rook"
     },
@@ -508,6 +684,10 @@
         "answer": "Swallows"
     },
     {
+        "question": "Which birds can fly backwards?",
+        "answer": "Hummingbirds"
+    },
+    {
         "question": "Which creature emits light in the dark?",
         "answer": "Sea firefly"
     },
@@ -516,8 +696,20 @@
         "answer": "Parrotfish"
     },
     {
+        "question": "Which crocodiles inhabit South America?",
+        "answer": "Caimans"
+    },
+    {
         "question": "Which echinoderms live on the sea and ocean floors and filter water?",
         "answer": "Crinoids"
+    },
+    {
+        "question": "Which echinoderms resemble lilies?",
+        "answer": "Sea lilies"
+    },
+    {
+        "question": "Which fish are capable of actively hunting?",
+        "answer": "Jawed fish"
     },
     {
         "question": "Which fish are capable of breathing air?",
@@ -538,6 +730,10 @@
     {
         "question": "Which fish can go on land?",
         "answer": "Bichir"
+    },
+    {
+        "question": "Which fish can reach a length of over 2 meters?",
+        "answer": "Eel"
     },
     {
         "question": "Which fish inhabits coral reefs and has poisonous organs?",
@@ -566,6 +762,10 @@
     {
         "question": "Which fish were the ancestors of jawed vertebrates?",
         "answer": "Placoderms"
+    },
+    {
+        "question": "Which fly transmits sleeping sickness?",
+        "answer": "Tsetse fly"
     },
     {
         "question": "Which herbivorous animal lives high in the mountains?",
@@ -600,6 +800,10 @@
         "answer": "Butterfly"
     },
     {
+        "question": "Which insects are beneficial to humans?",
+        "answer": "Bees"
+    },
+    {
         "question": "Which insects glow in the dark?",
         "answer": "fireflies"
     },
@@ -616,12 +820,24 @@
         "answer": "Champion iguana"
     },
     {
+        "question": "Which mammal can mimic the human voice?",
+        "answer": "Whale"
+    },
+    {
+        "question": "Which mammal has the longest sleep duration?",
+        "answer": "Bat"
+    },
+    {
         "question": "Which mammal hunts at night?",
         "answer": "Cat"
     },
     {
         "question": "Which mammal hunts seals?",
         "answer": "Orca"
+    },
+    {
+        "question": "Which mammal inhabits high-altitude forests?",
+        "answer": "Orangutan"
     },
     {
         "question": "Which mammal is a carrier of fungi?",
@@ -676,8 +892,24 @@
         "answer": "Cones"
     },
     {
+        "question": "Which monkey is carnivorous?",
+        "answer": "Chimpanzee"
+    },
+    {
+        "question": "Which nature reserve is famous for its ornithological station?",
+        "answer": "Prioksko-Terrasny"
+    },
+    {
+        "question": "Which nature reserve is famous for rare animals?",
+        "answer": "Darvinsky"
+    },
+    {
         "question": "Which nature reserve is known for its population of Amur tigers?",
         "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "Which nature reserve is known for its salt lakes?",
+        "answer": "Ashuluksky"
     },
     {
         "question": "Which nature reserve is known for rare plants in the Altai Krai?",
@@ -700,8 +932,16 @@
         "answer": "Gills"
     },
     {
+        "question": "Which part of the body of jawless fish is particularly well-developed for regeneration?",
+        "answer": "Notochord"
+    },
+    {
         "question": "Which primate is known for its predatory behavior?",
         "answer": "Baboon"
+    },
+    {
+        "question": "Which primate is known for its red face?",
+        "answer": "uakari"
     },
     {
         "question": "Which primates are known for their monogamous mating?",
@@ -718,6 +958,10 @@
     {
         "question": "Which reptile is called the 'queen of the desert'?",
         "answer": "Tuatara"
+    },
+    {
+        "question": "Which reptile is capable of withstanding high temperatures?",
+        "answer": "Desert lizard"
     },
     {
         "question": "Which reserve does Mount Elbrus belong to?",
@@ -740,8 +984,16 @@
         "answer": "Tactile"
     },
     {
+        "question": "Which snail is a predator?",
+        "answer": "Harpoon snail"
+    },
+    {
         "question": "Which snail is considered dangerous to humans?",
         "answer": "Cone snail"
+    },
+    {
+        "question": "Which snail is known as a plant pest?",
+        "answer": "slug"
     },
     {
         "question": "Which snail produces venom?",
@@ -750,6 +1002,14 @@
     {
         "question": "Which snake is known for its beautiful skin patterns?",
         "answer": "King Cobra"
+    },
+    {
+        "question": "Which system is absent in cephalochordates?",
+        "answer": "closed circulatory"
+    },
+    {
+        "question": "Which system is the most developed in lampreys?",
+        "answer": "Nervous"
     },
     {
         "question": "Which tick is commonly found on animals?",
@@ -764,6 +1024,10 @@
         "answer": "Sperm whale"
     },
     {
+        "question": "Which whales use echolocation?",
+        "answer": "Toothed"
+    },
+    {
         "question": "Who builds \"complex nests\" in trees?",
         "answer": "Penduline tit"
     },
@@ -772,8 +1036,16 @@
         "answer": "Sea snake"
     },
     {
+        "question": "Who is known as the 'king of the skies'?",
+        "answer": "Eagle"
+    },
+    {
         "question": "Who is the main predator of corals?",
         "answer": "Crown-of-thorns starfish"
+    },
+    {
+        "question": "Who was the first to study arthropods under a microscope?",
+        "answer": "Antonie van Leeuwenhoek"
     },
     {
         "question": "Why do sea cucumbers wash up on shore?",
@@ -9277,6 +9549,10 @@
         "answer": "Underground heat"
     },
     {
+        "question": "How are trends in global migration changing due to climate change?",
+        "answer": "Increasing"
+    },
+    {
         "question": "How are underground caves formed?",
         "answer": "Dissolution"
     },
@@ -9289,8 +9565,16 @@
         "answer": "Regulate temperature"
     },
     {
+        "question": "How can socio-economic zones promote innovation?",
+        "answer": "Providing resources"
+    },
+    {
         "question": "How can temporal changes be integrated into cartographic analyses?",
         "answer": "Data tracking"
+    },
+    {
+        "question": "How did climate change in ancient Central Asia affect migration processes?",
+        "answer": "Increase in migrations"
     },
     {
         "question": "How did climate changes in the late Pleistocene affect the migration of Homo sapiens?",
@@ -9309,12 +9593,32 @@
         "answer": "Shift of zones"
     },
     {
+        "question": "How did the development of trade in the Middle Ages affect migrations?",
+        "answer": "Increase in exchange"
+    },
+    {
         "question": "How did the migration of peoples affect the social structure of the Ottoman Empire?",
         "answer": "Ethnic diversity"
     },
     {
+        "question": "How do changes in the hydrological cycle affect global climate systems?",
+        "answer": "Alter precipitation"
+    },
+    {
+        "question": "How do demographic changes affect the labor market?",
+        "answer": "Reduction in jobs"
+    },
+    {
         "question": "How do demographic changes affect the spatial structure of megacities?",
         "answer": "Alter the structure"
+    },
+    {
+        "question": "How do glacier migrations affect species distribution?",
+        "answer": "Create barriers"
+    },
+    {
+        "question": "How do global processes change biocenoses?",
+        "answer": "Climate change"
     },
     {
         "question": "How do international trade barriers affect food availability?",
@@ -9341,8 +9645,20 @@
         "answer": "Stimulate trade"
     },
     {
+        "question": "How do zones affect the development of regions?",
+        "answer": "Improvement of infrastructure"
+    },
+    {
         "question": "How do zones support international trade?",
         "answer": "Reduction of tariffs"
+    },
+    {
+        "question": "How does a change in altitude affect climatic conditions?",
+        "answer": "Temperature changes"
+    },
+    {
+        "question": "How does a change in ocean temperature affect the frequency of hurricanes?",
+        "answer": "Increases"
     },
     {
         "question": "How does a change in the heat balance affect global climate change?",
@@ -9365,12 +9681,20 @@
         "answer": "Optimization"
     },
     {
+        "question": "How does geographic isolation contribute to speciation?",
+        "answer": "Separation of populations"
+    },
+    {
         "question": "How does global warming affect ocean currents?",
         "answer": "Slows down"
     },
     {
         "question": "How does global warming affect population distribution?",
         "answer": "Climate-induced migration"
+    },
+    {
+        "question": "How does globalization affect international competition?",
+        "answer": "Intensification of competition"
     },
     {
         "question": "How does globalization affect the international legal system?",
@@ -9397,6 +9721,10 @@
         "answer": "Cooling"
     },
     {
+        "question": "How does the ecosystem change during underwater volcanic eruptions?",
+        "answer": "Increase in biomass"
+    },
+    {
         "question": "How does the interaction of organic and mineral components affect the agronomic value of soil?",
         "answer": "Improves fertility"
     },
@@ -9420,6 +9748,14 @@
         "answer": "Diversification of assets"
     },
     {
+        "question": "How many water masses are in the Southern Ocean?",
+        "answer": "Two"
+    },
+    {
+        "question": "In what year did the Krakatoa eruption occur?",
+        "answer": "1883"
+    },
+    {
         "question": "In which Eastern European country is the currency named after a national symbol or cultural element?",
         "answer": "Ukraine"
     },
@@ -9428,8 +9764,16 @@
         "answer": "Moldovan leu"
     },
     {
+        "question": "In which North African country is the dinar used, having unique historical roots connected to ancient Rome?",
+        "answer": "Tunisia"
+    },
+    {
         "question": "In which South American country is the currency's name related to silver, even though the country is not known for mining this metal?",
         "answer": "Argentina"
+    },
+    {
+        "question": "In which city is the largest ocean research center located?",
+        "answer": "Miami"
     },
     {
         "question": "In which country does the name of the currency originate from a word meaning trade route in ancient times?",
@@ -9440,8 +9784,16 @@
         "answer": "China"
     },
     {
+        "question": "In which country is the currency 'loti' used?",
+        "answer": "Lesotho"
+    },
+    {
         "question": "In which country is the currency named after an ancient era associated with a great conqueror?",
         "answer": "Iranian rial"
+    },
+    {
+        "question": "In which country is the park with the unique flora of Sibuyan located?",
+        "answer": "Philippines"
     },
     {
         "question": "In which landlocked Central American country is the currency named after a major Spanish island?",
@@ -9480,6 +9832,14 @@
         "answer": "Taklamakan"
     },
     {
+        "question": "What 18th-century event expanded sea routes?",
+        "answer": "The discovery of new sea routes"
+    },
+    {
+        "question": "What advantages do innovation zones provide?",
+        "answer": "Startup grants"
+    },
+    {
         "question": "What are the causes of sulfate crust formation in arid soils?",
         "answer": "Evaporation"
     },
@@ -9504,6 +9864,14 @@
     {
         "question": "What are the prospects for local languages in the context of globalization?",
         "answer": "Decline"
+    },
+    {
+        "question": "What aspect of zones affects the local population?",
+        "answer": "Employment"
+    },
+    {
+        "question": "What atmospheric changes affect global climate conditions?",
+        "answer": "Change in pressure"
     },
     {
         "question": "What atmospheric phenomenon alters the stability of the tropical climate?",
@@ -9534,6 +9902,10 @@
         "answer": "Instability"
     },
     {
+        "question": "What changes in biogeography are caused by climate change?",
+        "answer": "Range shifts"
+    },
+    {
         "question": "What changes in ocean currents contribute to the formation of extreme weather conditions?",
         "answer": "El Niño"
     },
@@ -9554,8 +9926,16 @@
         "answer": "Seismic activity"
     },
     {
+        "question": "What city is the capital of the country known for its samurais and cherry blossoms, located on islands in the Pacific Ocean?",
+        "answer": "Tokyo"
+    },
+    {
         "question": "What climate changes affect deserts?",
         "answer": "Global warming"
+    },
+    {
+        "question": "What climate changes affected migrations in North America?",
+        "answer": "Glaciation"
     },
     {
         "question": "What climate changes are associated with changes in ocean currents?"
@@ -9591,6 +9971,10 @@
     {
         "question": "What ecological functions do forests perform in ecosystems?",
         "answer": "Absorption of carbon dioxide"
+    },
+    {
+        "question": "What economic effect do zones most often have?",
+        "answer": "GDP growth"
     },
     {
         "question": "What ecosystems are formed in conditions where the ground temperature is constantly below zero?",
@@ -9713,6 +10097,10 @@
         "answer": "Tectonic processes"
     },
     {
+        "question": "What geological process can cause a sudden uplift of land?",
+        "answer": "Earthquake"
+    },
+    {
         "question": "What geological processes determine the formation of mud volcanoes on continental margins?",
         "answer": "Diapirism"
     },
@@ -9741,8 +10129,16 @@
         "answer": "Tectonic activity"
     },
     {
+        "question": "What impact does the movement of lithospheric plates have on climate change?",
+        "answer": "Change in circulation"
+    },
+    {
         "question": "What impact does the movement of tectonic plates have on the parameters of ocean currents?",
         "answer": "Change in strength"
+    },
+    {
+        "question": "What impact does urbanization have on food systems?",
+        "answer": "Increased demand"
     },
     {
         "question": "What impact does volcanic activity have on biodiversity?",
@@ -9765,6 +10161,10 @@
         "answer": "Mountain ranges"
     },
     {
+        "question": "What is formed when lithospheric plates collide?",
+        "answer": "Mountains"
+    },
+    {
         "question": "What is isostasy in the context of geology?",
         "answer": "Equilibrium of the crust"
     },
@@ -9785,6 +10185,10 @@
         "answer": "Paramaribo"
     },
     {
+        "question": "What is the capital of Switzerland?",
+        "answer": "Bern"
+    },
+    {
         "question": "What is the capital of Zimbabwe?",
         "answer": "Harare"
     },
@@ -9801,12 +10205,20 @@
         "answer": "Competition"
     },
     {
+        "question": "What is the key parameter for describing the water regime of a basin?",
+        "answer": "Water balance"
+    },
+    {
         "question": "What is the largest active volcano in the world?",
         "answer": "Mauna Loa"
     },
     {
         "question": "What is the length of the Mississippi River?",
         "answer": "3730 km"
+    },
+    {
+        "question": "What is the length of the Yenisei River?",
+        "answer": "3487 km"
     },
     {
         "question": "What is the longest river in Asia?",
@@ -9817,12 +10229,20 @@
         "answer": "Freezing of water"
     },
     {
+        "question": "What is the main type of zone that exists for export?",
+        "answer": "Export zone"
+    },
+    {
         "question": "What is the most common ecosystem on Arctic islands?",
         "answer": "Tundra"
     },
     {
         "question": "What is the most pressing issue for agriculture in the monsoon zone?",
         "answer": "Floods"
+    },
+    {
+        "question": "What is the name of the capital known as the cultural center of Scandinavia and located on islands?",
+        "answer": "Stockholm"
     },
     {
         "question": "What is the name of the peninsula that was a key location in medieval trade between the East and the West?",
@@ -9857,12 +10277,24 @@
         "answer": "Moisture transport"
     },
     {
+        "question": "What is the role of cation exchange in the chemical composition of soil?",
+        "answer": "Maintaining balance"
+    },
+    {
+        "question": "What is the role of polar ecosystems in the global carbon cycle?",
+        "answer": "Carbon sinks"
+    },
+    {
         "question": "What is the role of soil microflora in the transformation of organic matter into humus?",
         "answer": "significant"
     },
     {
         "question": "What is the significance of ancient ocean currents for understanding paleogeographic changes?",
         "answer": "Continental movement"
+    },
+    {
+        "question": "What is the significance of isostasy in landform development?",
+        "answer": "Mass balance"
     },
     {
         "question": "What is the significance of ocean currents for agriculture?",
@@ -9885,6 +10317,14 @@
         "answer": "Obsidian"
     },
     {
+        "question": "What land use changes can enhance the sustainability of agriculture?",
+        "answer": "Agroforestry"
+    },
+    {
+        "question": "What mechanism actively contributes to the formation of floodplain lakes?",
+        "answer": "Flooding"
+    },
+    {
         "question": "What mechanisms alter the structure of clouds at the equator?",
         "answer": "Convection"
     },
@@ -9903,6 +10343,14 @@
     {
         "question": "What method is used to study the dynamics of tectonic plates?",
         "answer": "Satellite geodesy"
+    },
+    {
+        "question": "What methodological approach is used for integrating spatial and temporal data in maps?",
+        "answer": "Chronocartography"
+    },
+    {
+        "question": "What methodology is used to ensure high accuracy in the creation of digital maps?",
+        "answer": "Distortion analysis"
     },
     {
         "question": "What methods are used to determine the optimal map scale for a specific task?",
@@ -9985,6 +10433,10 @@
         "answer": "Thermal stress"
     },
     {
+        "question": "What phenomenon causes changes in groundwater levels?",
+        "answer": "Change in rainfall"
+    },
+    {
         "question": "What phenomenon contributes to the accelerated integration of markets?",
         "answer": "Globalization"
     },
@@ -10007,6 +10459,14 @@
     {
         "question": "What phenomenon is characteristic of the tectonic plate boundaries in the Pacific Ocean?",
         "answer": "Ring of Fire"
+    },
+    {
+        "question": "What phenomenon is related to seasons but can also be catastrophic due to climate change?",
+        "answer": "Monsoons"
+    },
+    {
+        "question": "What phenomenon leads to changes in soil structure in permafrost climate zones?",
+        "answer": "Thermoabrasion"
     },
     {
         "question": "What phenomenon leads to changes in the range boundaries of species in equatorial regions?",
@@ -10055,6 +10515,10 @@
     {
         "question": "What process causes the reduction of ice cover in polar regions?",
         "answer": "Global warming"
+    },
+    {
+        "question": "What process connects organic matter with mineral elements in the soil?",
+        "answer": "Humus formation"
     },
     {
         "question": "What process contributes to soil weathering in Arctic zones?",
@@ -10157,8 +10621,16 @@
         "answer": "Capillarity"
     },
     {
+        "question": "What processes influence the formation of relief in areas of divergent boundaries?",
+        "answer": "Rifting"
+    },
+    {
         "question": "What processes lead to changes in river ecosystems?",
         "answer": "Pollution"
+    },
+    {
+        "question": "What processes lead to the formation of stable anticyclones?",
+        "answer": "Compressing air"
     },
     {
         "question": "What processes lead to the formation of volcanic islands?",
@@ -10169,12 +10641,20 @@
         "answer": "Wind systems"
     },
     {
+        "question": "What processes transform temporary rivers into permanent ones in desert conditions?",
+        "answer": "Underground aquifers"
+    },
+    {
         "question": "What property of magma determines its viscosity?",
         "answer": "Silicon content"
     },
     {
         "question": "What role did ocean currents play in ancient climates?",
         "answer": "Temperature regulation"
+    },
+    {
+        "question": "What role did religious movements play in migrations?",
+        "answer": "Spread of faith"
     },
     {
         "question": "What role did trade routes play in the migrations of peoples in the Mediterranean during antiquity?",
@@ -10187,6 +10667,10 @@
     {
         "question": "What role do hydrothermal solutions play in the formation of gold deposits?",
         "answer": "Transport of metals"
+    },
+    {
+        "question": "What role do international environmental agreements play in global politics?",
+        "answer": "Resource conservation"
     },
     {
         "question": "What role do natural zones play in the global cycle of substances?",
@@ -10229,6 +10713,10 @@
         "answer": "Migration"
     },
     {
+        "question": "What strategy helps reduce the carbon footprint in the agricultural sector?",
+        "answer": "Sustainable farming"
+    },
+    {
         "question": "What structure connects the Scandinavian and Jutland peninsulas?",
         "answer": "Øresund Bridge"
     },
@@ -10257,6 +10745,10 @@
         "answer": "Plate shift"
     },
     {
+        "question": "What tectonic processes form rift valleys?",
+        "answer": "Divergence of plates"
+    },
+    {
         "question": "What tectonic processes influence the formation of underwater ridges in the Arctic?",
         "answer": "Seafloor spreading"
     },
@@ -10269,8 +10761,28 @@
         "answer": "Growth of services"
     },
     {
+        "question": "What type of boundary creates volcanic islands?",
+        "answer": "Convergent boundaries"
+    },
+    {
+        "question": "What type of climate is most characteristic of polar regions?",
+        "answer": "Polar"
+    },
+    {
+        "question": "What type of earthquakes is associated with faults in tectonic plates?",
+        "answer": "Tectonic"
+    },
+    {
         "question": "What type of geological faults are formed at convergent plate boundaries?",
         "answer": "Subduction"
+    },
+    {
+        "question": "What type of plants is common in conditions of extreme water scarcity?",
+        "answer": "Cacti"
+    },
+    {
+        "question": "What type of plate boundaries are associated with the Pacific Ring of Fire?",
+        "answer": "Convergent"
     },
     {
         "question": "What type of plate boundary is characterized by horizontal movement without rupture?",
@@ -10295,6 +10807,10 @@
     {
         "question": "What unique form of life thrives in permafrost conditions?",
         "answer": "Cryophilic microorganisms"
+    },
+    {
+        "question": "What volcanic phenomena can alter the coastline?",
+        "answer": "Lava flows"
     },
     {
         "question": "What weather conditions lead to the formation of hurricanes?",
@@ -10327,6 +10843,10 @@
     {
         "question": "Which European city has the largest proportion of rural population?",
         "answer": "Bucharest"
+    },
+    {
+        "question": "Which European country has the highest fertility rate?",
+        "answer": "France"
     },
     {
         "question": "Which European country uses a currency whose name is associated with ancient sea conquerors?",
@@ -10413,6 +10933,14 @@
         "answer": "Hong Kong"
     },
     {
+        "question": "Which city in Eastern Europe is famous for its medical tourism?",
+        "answer": "Budapest"
+    },
+    {
+        "question": "Which city in Europe is recognized as a leader in environmental technology research?",
+        "answer": "Copenhagen"
+    },
+    {
         "question": "Which city in North America is known for its innovations in sustainable architecture?",
         "answer": "Vancouver"
     },
@@ -10432,8 +10960,16 @@
         "answer": "Chicago"
     },
     {
+        "question": "Which city in the world leads in hosting the most international exhibitions?",
+        "answer": "Hong Kong"
+    },
+    {
         "question": "Which city is known as the largest export hub for fruits in Spain?",
         "answer": "Valencia"
+    },
+    {
+        "question": "Which city is the cultural center of the country with the largest territory in Africa?",
+        "answer": "Algiers"
     },
     {
         "question": "Which city is the global center for international legal disputes?",
@@ -10484,6 +11020,14 @@
         "answer": "Subsidies"
     },
     {
+        "question": "Which ecosystem processes contribute to the resilience of desert flora to extreme weather conditions?",
+        "answer": "Xerophytic adaptations"
+    },
+    {
+        "question": "Which ecosystems are most susceptible to endemism?",
+        "answer": "Island ecosystems"
+    },
+    {
         "question": "Which element is most important for the prosperity of economic zones in North America?",
         "answer": "Technology"
     },
@@ -10508,6 +11052,10 @@
         "answer": "Minerals"
     },
     {
+        "question": "Which factor most strongly affects temporal changes in the Arctic?",
+        "answer": "Polar day"
+    },
+    {
         "question": "Which geological process contributes to the formation of new volcanic islands?",
         "answer": "Plate subduction"
     },
@@ -10524,6 +11072,10 @@
         "answer": "Arctic Council"
     },
     {
+        "question": "Which island is the largest in the Arctic region?",
+        "answer": "Greenland"
+    },
+    {
         "question": "Which island uses UTC+12:45 during the summer?",
         "answer": "Chatham"
     },
@@ -10538,6 +11090,10 @@
     {
         "question": "Which lake in South America is known for its reed boats?",
         "answer": "Titicaca"
+    },
+    {
+        "question": "Which lake is known for its phenomenon of 'crying stones'?",
+        "answer": "Lake Natron"
     },
     {
         "question": "Which landforms indicate ancient tectonic processes?",
@@ -10584,6 +11140,10 @@
         "answer": "Asia Minor"
     },
     {
+        "question": "Which process contributes to morphological changes in isolated populations?",
+        "answer": "Genetic drift"
+    },
+    {
         "question": "Which process most radically changes the structure of an urban agglomeration?",
         "answer": "Migration flows"
     },
@@ -10612,6 +11172,10 @@
         "answer": "Trans-Siberian Railway"
     },
     {
+        "question": "Which region benefits the most from globalization?",
+        "answer": "Asia"
+    },
+    {
         "question": "Which region has a half-hour offset from UTC-4?",
         "answer": "Venezuela"
     },
@@ -10626,6 +11190,10 @@
     {
         "question": "Which region in the world is known for the largest production of titanium ore?",
         "answer": "Australia"
+    },
+    {
+        "question": "Which region is the initiator of implementing smart farms?",
+        "answer": "Scandinavia"
     },
     {
         "question": "Which region most actively uses agrotechnologies to increase crop yields?",
@@ -10646,6 +11214,10 @@
     {
         "question": "Which river flows through the ancient city of Perge?",
         "answer": "Aksu"
+    },
+    {
+        "question": "Which river flows through the densest network of vineyards in Europe?",
+        "answer": "Moselle"
     },
     {
         "question": "Which river in Europe is known for its underground karst routes?",
@@ -10672,8 +11244,20 @@
         "answer": "Gleying"
     },
     {
+        "question": "Which strait separates Asia from North America?",
+        "answer": "Bering"
+    },
+    {
+        "question": "Which supercontinent existed before Pangaea?",
+        "answer": "Rodinia"
+    },
+    {
         "question": "Which tectonic boundaries are characterized by plates moving in opposite directions?",
         "answer": "Transform boundaries"
+    },
+    {
+        "question": "Which territory uses the unique time zone UTC+8:45?",
+        "answer": "Eucla"
     },
     {
         "question": "Which transport corridor passes through Finland?",
@@ -10694,6 +11278,10 @@
     {
         "question": "Which volcano created the Hawaiian Islands?",
         "answer": "Mauna Loa"
+    },
+    {
+        "question": "Which volcano is located on Kyushu Island in Japan?",
+        "answer": "Sakurajima"
     },
     {
         "question": "Which world mountain is known for its unique horizontal layers?",
@@ -13202,6 +13790,10 @@
         "answer": "Iconoclasm"
     },
     {
+        "question": "What female role was important in the Mongolian army?",
+        "answer": "Shaman"
+    },
+    {
         "question": "What final document was signed at the Reykjavik Summit?",
         "answer": "Renunciation of nuclear launches"
     },
@@ -13548,6 +14140,10 @@
         "answer": "Iconography"
     },
     {
+        "question": "What term did Roosevelt use to describe his anti-crisis policy?",
+        "answer": "New Deal"
+    },
+    {
         "question": "What term refers to slavery in Sparta?",
         "answer": "Helots"
     },
@@ -13838,6 +14434,10 @@
         "question": "What was the name of a traditional Greek temple?"
     },
     {
+        "question": "What was the name of the 1986 arms control conference?",
+        "answer": "Reykjavik"
+    },
+    {
         "question": "What was the name of the Allied plan to capture Sicily in 1943?",
         "answer": "Operation Husky"
     },
@@ -14056,6 +14656,10 @@
     {
         "question": "What was the name of the council that fought against Protestantism?",
         "answer": "Council of Trent"
+    },
+    {
+        "question": "What was the name of the diplomatic telegram from Germany to Mexico?",
+        "answer": "Zimmermann"
     },
     {
         "question": "What was the name of the disarmament conference in 1932?",
@@ -15154,6 +15758,10 @@
         "answer": "Bunker Hill"
     },
     {
+        "question": "Which battle took place in 1805 and ended with Napoleon's victory?",
+        "answer": "Austerlitz"
+    },
+    {
         "question": "Which battle took place in 732?",
         "answer": "Battle of Tours"
     },
@@ -15484,6 +16092,10 @@
     {
         "question": "Which country was the first to use a mine trawl?",
         "answer": "USSR"
+    },
+    {
+        "question": "Which country was the first to use chemical weapons in World War I?",
+        "answer": "Germany"
     },
     {
         "question": "Which country was the target of the Hiroshima bombing?",
@@ -15867,6 +16479,10 @@
         "answer": "Battle of the Atlantic"
     },
     {
+        "question": "Which naval battle was significant?",
+        "answer": "Battle of Tsushima"
+    },
+    {
         "question": "Which navigator discovered Hawaii?",
         "answer": "Cook"
     },
@@ -16044,6 +16660,10 @@
     {
         "question": "Which ruler actively supported the Reformation?",
         "answer": "Frederick III"
+    },
+    {
+        "question": "Which ruler of Babylon created a code of laws?",
+        "answer": "Hammurabi"
     },
     {
         "question": "Which ruler was known as the 'Son of Heaven'?",
@@ -16330,6 +16950,10 @@
         "answer": "Pope Leo III"
     },
     {
+        "question": "Who deciphered Egyptian hieroglyphs?",
+        "answer": "Champollion"
+    },
+    {
         "question": "Who declared the independence of Argentina?",
         "answer": "Manuel Belgrano"
     },
@@ -16422,6 +17046,10 @@
     {
         "question": "Who founded the Gupta Empire?",
         "answer": "Chandragupta I"
+    },
+    {
+        "question": "Who founded the Jesuit order?",
+        "answer": "Ignatius of Loyola"
     },
     {
         "question": "Who founded the Red Cross?",
@@ -16666,6 +17294,10 @@
         "answer": "Louis XIV"
     },
     {
+        "question": "Who was depicted with the head of a jackal in Egyptian mythology?",
+        "answer": "Anubis"
+    },
+    {
         "question": "Who was involved in the creation of the first maps of the New World?",
         "answer": "Vespucci"
     },
@@ -16767,6 +17399,10 @@
     {
         "question": "Who was the Supreme Allied Commander on the Western Front during World War I?",
         "answer": "Ferdinand Foch"
+    },
+    {
+        "question": "Who was the Supreme Commander of France during World War I?",
+        "answer": "Foch"
     },
     {
         "question": "Who was the Supreme Commander of the United States Armed Forces during World War II?",
@@ -32287,6 +32923,10 @@
         "answer": "4237"
     },
     {
+        "question": "How many countries participated in the first Paralympic Games?",
+        "answer": "23 countries"
+    },
+    {
         "question": "How many games are in a set in tennis?",
         "answer": "6 games"
     },
@@ -32299,6 +32939,10 @@
         "answer": "Four"
     },
     {
+        "question": "In what year did the first official race on the Isle of Man begin?",
+        "answer": "1907"
+    },
+    {
         "question": "In what year was the European Volleyball Championship first held?",
         "answer": "1948"
     },
@@ -32309,6 +32953,10 @@
     {
         "question": "In which aspect of a biathlete's preparation are weather changes most significant?",
         "answer": "Race strategy"
+    },
+    {
+        "question": "In which chess player's book is the 'Principle of Two Weaknesses' mentioned?",
+        "answer": "Tarrasch's Endgame"
     },
     {
         "question": "In which track and field discipline is a starting block used?",
@@ -32351,8 +32999,16 @@
         "answer": "Concentration"
     },
     {
+        "question": "What aspect of biomechanics is critical for hammer throwing?",
+        "answer": "Angular velocity"
+    },
+    {
         "question": "What aspect of ski equipment is most important for professional athletes in competitions?",
         "answer": "Precision of tuning"
+    },
+    {
+        "question": "What aspects should be considered to improve carving technique in skiing?",
+        "answer": "Edge angle"
     },
     {
         "question": "What breed of horse is used in racing?",
@@ -32365,6 +33021,10 @@
     {
         "question": "What changes occurred in the strategy after changing the racket materials?",
         "answer": "Focus on speed"
+    },
+    {
+        "question": "What characteristic is important when choosing shoes for long distances?",
+        "answer": "Cushioning"
     },
     {
         "question": "What characteristic is important when choosing sprint spikes?",
@@ -32475,6 +33135,14 @@
         "answer": "Current speed"
     },
     {
+        "question": "What factor affects the distribution of barbell weight on an athlete's feet?",
+        "answer": "Knee position"
+    },
+    {
+        "question": "What factor affects the maneuverability of skis when skiing on a track with sharp turns?",
+        "answer": "Sidecut radius"
+    },
+    {
         "question": "What factor affects the recovery speed after swimming?",
         "answer": "Heart rate"
     },
@@ -32511,6 +33179,14 @@
         "answer": "Endurance"
     },
     {
+        "question": "What factors are considered when choosing the height for a pole vault jump?",
+        "answer": "Wind strength"
+    },
+    {
+        "question": "What factors determine the choice of starting technique in swimming?",
+        "answer": "Type of distance"
+    },
+    {
         "question": "What factors determine the success of an athlete at the Paralympic Games?",
         "answer": "Preparation, mindset"
     },
@@ -32543,8 +33219,16 @@
         "answer": "Determine stability"
     },
     {
+        "question": "What impact do the Paralympic Games have on the development of an inclusive society?",
+        "answer": "Raising awareness"
+    },
+    {
         "question": "What innovation in MotoGP changed the approach to motorcycle aerodynamics?",
         "answer": "Wings"
+    },
+    {
+        "question": "What innovation was first introduced in MotoGP to enhance safety?",
+        "answer": "Airbags"
     },
     {
         "question": "What is a feature of show jumping compared to other equestrian disciplines?",
@@ -32583,8 +33267,16 @@
         "answer": "17 cm"
     },
     {
+        "question": "What is the effect called when the wind blows along the shore, creating long, even waves?",
+        "answer": "Offshore"
+    },
+    {
         "question": "What is the height of the volleyball net post?",
         "answer": "2.55 m"
+    },
+    {
+        "question": "What is the key element of horse control in dressage that requires minimal rein pressure called?",
+        "answer": "Subtle influence"
     },
     {
         "question": "What is the key quality necessary for successful performance in a decathlon?",
@@ -32599,6 +33291,14 @@
         "answer": "Jumping over obstacles"
     },
     {
+        "question": "What is the main difference between the Paralympic Games and the Olympic Games?",
+        "answer": "Participants"
+    },
+    {
+        "question": "What is the main factor affecting safety in rock climbing?",
+        "answer": "Belaying"
+    },
+    {
         "question": "What is the main purpose of using elbow lockout in the snatch?",
         "answer": "Maintaining stability"
     },
@@ -32607,12 +33307,24 @@
         "answer": "30 participants"
     },
     {
+        "question": "What is the movement called when a figure skater performs a spin on one leg with a change in level?",
+        "answer": "Spin"
+    },
+    {
         "question": "What is the name of Borussia Dortmund's home stadium?",
         "answer": "Signal Iduna Park"
     },
     {
+        "question": "What is the name of the chess opening that begins with the moves 1.e4 e5 2.Nf3 d6?",
+        "answer": "Philidor Defense"
+    },
+    {
         "question": "What is the name of the close-range over-the-head shot?",
         "answer": "Sky Hook"
+    },
+    {
+        "question": "What is the name of the competition where horses and riders perform synchronized and harmonious movements to music?",
+        "answer": "Kür"
     },
     {
         "question": "What is the name of the first president of the NHL?",
@@ -32691,6 +33403,10 @@
         "answer": "Sand with fiber"
     },
     {
+        "question": "What is the significance of a swimmer's body streamlining in competitions?",
+        "answer": "Minimum resistance"
+    },
+    {
         "question": "What is the significance of breath synchronization in butterfly stroke?",
         "answer": "Optimizes the stroke"
     },
@@ -32741,6 +33457,10 @@
     {
         "question": "What is the term for an athlete who performs a throw?",
         "answer": "Tori"
+    },
+    {
+        "question": "What is the term for disallowing a goal in football after a video review?",
+        "answer": "VAR decision"
     },
     {
         "question": "What is the theory called that explains positional advantages through control over colored squares?",
@@ -32887,6 +33607,10 @@
         "answer": "Undermining"
     },
     {
+        "question": "What strategy is used to defend against an opponent's attacking surge?",
+        "answer": "Zonal defense"
+    },
+    {
         "question": "What style of play is characterized by passive defense?",
         "answer": "Defensive"
     },
@@ -32903,12 +33627,24 @@
         "answer": "Freestyle wrestling"
     },
     {
+        "question": "What surface characteristic is important for sprint races?",
+        "answer": "Hardness"
+    },
+    {
         "question": "What surfing technique is used to increase control on the critical section of a wave?",
         "answer": "Rail grinding"
     },
     {
         "question": "What tactical action involves a quick change in the direction of a serve?",
         "answer": "Flip"
+    },
+    {
+        "question": "What tactical element allows a team to effectively exploit the weaknesses of the defense?",
+        "answer": "Weakness analysis"
+    },
+    {
+        "question": "What tactical element in rugby allows controlling the pace of the game?",
+        "answer": "Strategic pause"
     },
     {
         "question": "What tactical element in rugby sevens is used to ensure a quick attack?",
@@ -32961,6 +33697,14 @@
     {
         "question": "What technique is used to create weaknesses in the opponent's pawn structure?",
         "answer": "Undermining"
+    },
+    {
+        "question": "What technique is used to improve a horse's flexibility?",
+        "answer": "Stretching"
+    },
+    {
+        "question": "What technique is used to increase speed in underwater currents?",
+        "answer": "Pumping"
     },
     {
         "question": "What technique is used to minimize the impact of wind on shooting?",
@@ -33059,6 +33803,14 @@
         "answer": "Rehabilitation"
     },
     {
+        "question": "What was the weight of the barbell used in the first Olympic Games in 1896?",
+        "answer": "111.5 kg"
+    },
+    {
+        "question": "What weapon was used in the first biathlon competitions?",
+        "answer": "Rifle"
+    },
+    {
         "question": "What year was the Chelsea Football Club founded?",
         "answer": "1905"
     },
@@ -33081,6 +33833,10 @@
     {
         "question": "Which MotoGP rider set the record for the highest speed?",
         "answer": "Andrea Dovizioso"
+    },
+    {
+        "question": "Which Paralympic sport is conducted exclusively on ice?",
+        "answer": "Sledge hockey"
     },
     {
         "question": "Which Paralympic sport requires participants to use sleds?",
@@ -33149,6 +33905,10 @@
     {
         "question": "Which car manufacturer was the first to use the ABS system in racing?",
         "answer": "Mercedes"
+    },
+    {
+        "question": "Which chess player became the first world champion from the Soviet Union?",
+        "answer": "Botvinnik"
     },
     {
         "question": "Which chess player was the first to reach an Elo rating of 2800?",
@@ -33223,6 +33983,10 @@
         "answer": "Peter Sagan"
     },
     {
+        "question": "Which cyclist previously held the record for the most wins in Paris-Roubaix?",
+        "answer": "Roger De Vlaeminck"
+    },
+    {
         "question": "Which cyclist was disqualified from the Tour de France for team sabotage?",
         "answer": "Luis Ocaña"
     },
@@ -33287,6 +34051,10 @@
         "answer": "Edge geometry"
     },
     {
+        "question": "Which discipline requires a horse to have high maneuverability in the arena?",
+        "answer": "Show jumping"
+    },
+    {
         "question": "Which discipline requires a horse to perform complex maneuvers at high speed?",
         "answer": "Reining"
     },
@@ -33307,6 +34075,14 @@
         "answer": "Sébastien Loeb"
     },
     {
+        "question": "Which element affects the control of a surfboard?",
+        "answer": "Fin"
+    },
+    {
+        "question": "Which element affects the lift of a board?",
+        "answer": "Volume"
+    },
+    {
         "question": "Which element became decisive in figure skating for the first time in the 1990s?",
         "answer": "Quadruple toe loop"
     },
@@ -33325,6 +34101,10 @@
     {
         "question": "Which element of rugby requires precise timing and coordination?",
         "answer": "Scrum"
+    },
+    {
+        "question": "Which element of strategy allows a team to close the distance to the goal while minimizing the risk of losing control?",
+        "answer": "Forward"
     },
     {
         "question": "Which element of table tennis requires the most tactical flexibility?",
@@ -33395,6 +34175,10 @@
         "answer": "ACTN3 gene"
     },
     {
+        "question": "Which high jump style uses centrifugal force?",
+        "answer": "Fosbury Flop"
+    },
+    {
         "question": "Which high jump technique revolutionized modern athletics?",
         "answer": "Fosbury Flop"
     },
@@ -33417,6 +34201,10 @@
     {
         "question": "Which manufacturer was the first to implement an active suspension system in Formula 1?",
         "answer": "Williams"
+    },
+    {
+        "question": "Which manufacturer was the first to implement an active suspension system in MotoGP?",
+        "answer": "Ducati"
     },
     {
         "question": "Which martial art teaches the principle of maximum efficiency with minimal effort?",
@@ -33487,12 +34275,20 @@
         "answer": "Ricky Carmichael"
     },
     {
+        "question": "Which racer was nicknamed 'White Merlin'?",
+        "answer": "Luis Ocaña"
+    },
+    {
         "question": "Which racer was the first to introduce the practice of using 'wet' tires in the rain?",
         "answer": "Johnson"
     },
     {
         "question": "Which racer was the first to use an electric motorcycle in competitions?",
         "answer": "Bradley Smith"
+    },
+    {
+        "question": "Which racer was the first to win on an environmentally friendly track?",
+        "answer": "Marc Marquez"
     },
     {
         "question": "Which rugby tournament is held every four years?",
@@ -33509,6 +34305,10 @@
     {
         "question": "Which ski track is considered the windiest?",
         "answer": "Oberhof"
+    },
+    {
+        "question": "Which skier was the first to win more than 10 World Cups in a row?",
+        "answer": "Inge Markket"
     },
     {
         "question": "Which snowboard parameter is especially important for tricks in the pipe?",
@@ -33567,6 +34367,10 @@
         "answer": "Squat under"
     },
     {
+        "question": "Which technology has become a standard in motorsport?",
+        "answer": "Aerodynamics"
+    },
+    {
         "question": "Which technology has had the greatest impact on the performance of snowboards in park disciplines?",
         "answer": "Edge with Magne-Traction technology"
     },
@@ -33579,8 +34383,16 @@
         "answer": "Roger Federer"
     },
     {
+        "question": "Which tennis player was the first to win 8 Wimbledon tournaments?",
+        "answer": "Roger Federer"
+    },
+    {
         "question": "Which tennis player was the first to win Olympic gold in singles twice?",
         "answer": "Nicolás Massú"
+    },
+    {
+        "question": "Which tennis player was the first to win the Davis Cup final three times in a row?",
+        "answer": "Roy Emerson"
     },
     {
         "question": "Which tennis player was the first to withdraw from a tournament due to political beliefs?",
@@ -33601,6 +34413,10 @@
     {
         "question": "Which training element improves runners' recovery ability?",
         "answer": "Intervals"
+    },
+    {
+        "question": "Which training method improves explosive strength in weightlifting?",
+        "answer": "Plyometrics"
     },
     {
         "question": "Which type of equestrian sport requires performing complex exercises at high speeds?",
@@ -33641,6 +34457,10 @@
     {
         "question": "Who is the NBA MVP for 2023?",
         "answer": "Joel Embiid"
+    },
+    {
+        "question": "Who is the all-time leading scorer in the NBA?",
+        "answer": "LeBron James"
     },
     {
         "question": "Who is the author of the book 'The Vegetarian'?",
@@ -33747,8 +34567,16 @@
         "answer": "Andre Agassi"
     },
     {
+        "question": "Who was the first to win five consecutive Rugby World Cups?",
+        "answer": "New Zealand"
+    },
+    {
         "question": "Who was the first to win the Tour de France five times?",
         "answer": "Jacques Anquetil"
+    },
+    {
+        "question": "Who was the first to win the world boxing championship in four weight classes?",
+        "answer": "Thomas Hearns"
     },
     {
         "question": "Who was the first to win two consecutive World Championships in men's singles badminton?",
@@ -33791,6 +34619,10 @@
         "answer": "Maurice Greene"
     },
     {
+        "question": "Who won the marathon at the 2000 Olympic Games?",
+        "answer": "Gezahgne Abera"
+    },
+    {
         "question": "By what criterion is a genetic vector chosen?",
         "answer": "Physical properties"
     },
@@ -33809,6 +34641,10 @@
     {
         "question": "How do quantum computers implement parallel computing?",
         "answer": "Superposition"
+    },
+    {
+        "question": "How does AR assist doctors during surgeries?",
+        "answer": "Clarity"
     },
     {
         "question": "How does AR help manufacturing?",
@@ -33907,6 +34743,10 @@
         "answer": "Noise and errors"
     },
     {
+        "question": "The technique used for studying nanostructures?",
+        "answer": "Atomic force microscope"
+    },
+    {
         "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
         "answer": "Art AI"
     },
@@ -33945,6 +34785,10 @@
     {
         "question": "What are robots afraid of?",
         "answer": "Overload"
+    },
+    {
+        "question": "What are specialists who test systems for security called?",
+        "answer": "Pentesters"
     },
     {
         "question": "What are the advantages of cloud computing?",
@@ -34055,6 +34899,10 @@
         "answer": "Find vulnerabilities"
     },
     {
+        "question": "What does 'tokenization' mean?",
+        "answer": "Creating tokens"
+    },
+    {
         "question": "What does FDM stand for?",
         "answer": "Fused Deposition Modeling"
     },
@@ -34077,6 +34925,10 @@
     {
         "question": "What does a quantum algorithm use for encryption?",
         "answer": "Randomness"
+    },
+    {
+        "question": "What does an IDS do?",
+        "answer": "Detects intrusions"
     },
     {
         "question": "What does an encoder do?",
@@ -34107,12 +34959,20 @@
         "answer": "copying DNA"
     },
     {
+        "question": "What does the abbreviation FDM stand for in 3D printing?",
+        "answer": "Fused Deposition Modeling"
+    },
+    {
         "question": "What does the abbreviation MFA stand for?",
         "answer": "Multi-Factor Authentication"
     },
     {
         "question": "What does the abbreviation RFID stand for?",
         "answer": "Radio Frequency Identification"
+    },
+    {
+        "question": "What does the term 'cloud security' imply?",
+        "answer": "Data protection"
     },
     {
         "question": "What does the term 'code injection' mean?",
@@ -34179,12 +35039,20 @@
         "answer": "Common Vulnerabilities"
     },
     {
+        "question": "What is DDoS protection?",
+        "answer": "Protection against denial of service"
+    },
+    {
         "question": "What is DeFi in blockchain?",
         "answer": "Decentralized finance"
     },
     {
         "question": "What is ERC-20?",
         "answer": "Token standard"
+    },
+    {
+        "question": "What is Google Fuchsia?",
+        "answer": "Operating system"
     },
     {
         "question": "What is Grover's algorithm used for?",
@@ -34271,6 +35139,10 @@
         "answer": "A form of carbon"
     },
     {
+        "question": "What is a genetic vector?",
+        "answer": "DNA carrier"
+    },
+    {
         "question": "What is a geostationary orbit?",
         "answer": "35,786 kilometers"
     },
@@ -34321,6 +35193,10 @@
     {
         "question": "What is decoherence?",
         "answer": "Loss of coherence"
+    },
+    {
+        "question": "What is energy efficiency?",
+        "answer": "Maximum productivity"
     },
     {
         "question": "What is enhanced by VR?",
@@ -34583,12 +35459,20 @@
         "answer": "Grover's Algorithm"
     },
     {
+        "question": "What is the name of the robot competition?",
+        "answer": "RoboCup"
+    },
+    {
         "question": "What is the name of the sensor that detects infrared radiation?",
         "answer": "Pyrometer"
     },
     {
         "question": "What is the name of the server virtualization technology?",
         "answer": "Hyper-V"
+    },
+    {
+        "question": "What is the name of the space probe for studying the Sun?",
+        "answer": "Parker Solar Probe"
     },
     {
         "question": "What is the name of the space telescope for ultraviolet observations?",
@@ -34653,6 +35537,10 @@
     {
         "question": "What is the process of adjusting weights in a neural network called?",
         "answer": "Backpropagation"
+    },
+    {
+        "question": "What is the process of analyzing network traffic called?",
+        "answer": "Network monitoring"
     },
     {
         "question": "What is the process of assembling and configuring a robot called?",
@@ -34731,6 +35619,10 @@
         "answer": "PLC software"
     },
     {
+        "question": "What is the technical document of a cryptocurrency called?",
+        "answer": "Whitepaper"
+    },
+    {
         "question": "What is the technique called for cloning at the molecular level?",
         "answer": "PCR"
     },
@@ -34769,6 +35661,14 @@
     {
         "question": "What is the term for the time interval during which the image on a VR screen is updated?",
         "answer": "Refresh rate"
+    },
+    {
+        "question": "What is used for manipulating nanoparticles?",
+        "answer": "Nanomanipulators"
+    },
+    {
+        "question": "What is used for training neural networks?",
+        "answer": "Backpropagation"
     },
     {
         "question": "What is used for transaction verification?",
@@ -34811,6 +35711,10 @@
         "answer": "Freon"
     },
     {
+        "question": "What material is often used for sensors?",
+        "answer": "Graphene"
+    },
+    {
         "question": "What material is often used in tissue bioprinting?",
         "answer": "Bioplastics"
     },
@@ -34829,6 +35733,10 @@
     {
         "question": "What mechanism prevents double spending?",
         "answer": "Consensus"
+    },
+    {
+        "question": "What method allows adding a new block to the blockchain?",
+        "answer": "Proof of Work"
     },
     {
         "question": "What method can be used to introduce genes into a cell?",
@@ -34871,12 +35779,20 @@
         "answer": "Transfection"
     },
     {
+        "question": "What method is used to lengthen telomeres?",
+        "answer": "Enzymatic intervention"
+    },
+    {
         "question": "What method is used to optimize weights in a neural network?",
         "answer": "Backpropagation"
     },
     {
         "question": "What method is used to verify a user's identity using multiple factors?",
         "answer": "Multi-factor authentication"
+    },
+    {
+        "question": "What method of biodiversity restoration is used in ecology?",
+        "answer": "Renaturalization"
     },
     {
         "question": "What mission did Voyager 1 accomplish?",
@@ -34921,6 +35837,10 @@
     {
         "question": "What process is used in fuel cells to generate electricity?",
         "answer": "Electrochemical reaction"
+    },
+    {
+        "question": "What process is used to create clones of entire organisms?",
+        "answer": "Cloning"
     },
     {
         "question": "What process is used to produce biogas?",
@@ -34995,12 +35915,20 @@
         "answer": "Terraform"
     },
     {
+        "question": "What specialization is most important for IoT development?",
+        "answer": "Electronics"
+    },
+    {
         "question": "What state can eliminate errors in quantum computing?",
         "answer": "Quantum correction"
     },
     {
         "question": "What structure is important for nanoelectronics?",
         "answer": "Nanocrystals"
+    },
+    {
+        "question": "What substance is used in PCR?",
+        "answer": "DNA"
     },
     {
         "question": "What system helps a robot determine its location?",
@@ -35039,6 +35967,10 @@
         "answer": "Gene therapy"
     },
     {
+        "question": "What technologies help reduce energy consumption in a smart home?",
+        "answer": "LEDs"
+    },
+    {
         "question": "What technology allows a robot to recognize human speech?",
         "answer": "Speech recognition"
     },
@@ -35049,6 +35981,10 @@
     {
         "question": "What technology allows the accumulation of energy from solar panels?",
         "answer": "Batteries"
+    },
+    {
+        "question": "What technology allows the restoration of lost body functions?",
+        "answer": "Regenerative therapy"
     },
     {
         "question": "What technology converts heat into electricity?",
@@ -35123,6 +36059,18 @@
         "answer": "Cyclography"
     },
     {
+        "question": "What type of blockchain does IBM Hyperledger belong to?",
+        "answer": "Private blockchain"
+    },
+    {
+        "question": "What type of control includes automatic adjustment of parameters?",
+        "answer": "Regular control"
+    },
+    {
+        "question": "What type of data does cloud encryption protect?",
+        "answer": "Confidential data"
+    },
+    {
         "question": "What type of data is most commonly exchanged by IoT devices?",
         "answer": "Telemetry"
     },
@@ -35145,6 +36093,10 @@
     {
         "question": "What type of energy is used for heating homes with heat pumps?",
         "answer": "Geothermal energy"
+    },
+    {
+        "question": "What type of fuel is often used in modern satellites?",
+        "answer": "Hydrazine"
     },
     {
         "question": "What type of modification is used to study gene function?",
@@ -35303,12 +36255,20 @@
         "answer": "Helium-3"
     },
     {
+        "question": "Which element is used to create most modern qubits?",
+        "answer": "Silicon"
+    },
+    {
         "question": "Which element of the autonomous driving system is responsible for analyzing road situations?",
         "answer": "Artificial Intelligence"
     },
     {
         "question": "Which element of the basic IoT architecture is responsible for data collection and initial processing?",
         "answer": "gateway"
+    },
+    {
+        "question": "Which energy source requires the least amount of water?",
+        "answer": "Wind energy"
     },
     {
         "question": "Which engine uses ion technology?",
@@ -35353,6 +36313,10 @@
     {
         "question": "Which instrument has atomic precision?",
         "answer": "Scanning tunneling microscope"
+    },
+    {
+        "question": "Which instrument is used to study cosmic microwave background radiation?",
+        "answer": "WMAP"
     },
     {
         "question": "Which layer in the IoT architecture is responsible for data processing?",
@@ -35411,6 +36375,10 @@
         "answer": "Salicylic acid"
     },
     {
+        "question": "Which molecule is used for gene labeling?",
+        "answer": "GFP"
+    },
+    {
         "question": "Which network is best suited for a smart city?",
         "answer": "LPWAN"
     },
@@ -35461,6 +36429,10 @@
     {
         "question": "Which proteins are involved in the body's immune response?",
         "answer": "Antibodies"
+    },
+    {
+        "question": "Which protocol is used for real-time data transmission?",
+        "answer": "RTP"
     },
     {
         "question": "Which protocol protects emails?",
@@ -35579,8 +36551,16 @@
         "answer": "Superhot VR"
     },
     {
+        "question": "Which waste processing method reduces the amount of waste?",
+        "answer": "Recycling"
+    },
+    {
         "question": "Who can validate transactions in a public blockchain?",
         "answer": "Anyone"
+    },
+    {
+        "question": "Who coined the term 'robotics'?",
+        "answer": "Isaac Asimov"
     },
     {
         "question": "Who developed one of the first approaches to deep learning?",
@@ -35605,6 +36585,10 @@
     {
         "question": "Who is considered a pioneer in the field of nanotechnology?",
         "answer": "Eric Drexler"
+    },
+    {
+        "question": "Who is the founder of Honor?",
+        "answer": "Zhao Ming"
     },
     {
         "question": "Who is the founder of the concept of IoT?",
