@@ -136,6 +136,10 @@
     "answer": "Decrease or increase"
   },
   {
+    "question": "How does digitalization affect city management?",
+    "answer": "Smart cities"
+  },
+  {
     "question": "How does digitalization affect the management of urban systems?",
     "answer": "Optimization"
   },
@@ -188,11 +192,19 @@
     "answer": "Improves fertility"
   },
   {
+    "question": "How does the interaction of volcanoes with oceans affect the marine ecosystem?",
+    "answer": "Mineralization"
+  },
+  {
     "question": "How does the presence of permafrost affect flora?",
     "answer": "Limits growth"
   },
   {
     "question": "How does urbanization affect the unemployment rate?"
+  },
+  {
+    "question": "How have technological innovations impacted migrations in the 21st century?",
+    "answer": "Globalization"
   },
   {
     "question": "How is the age of rocks determined by radiometric dating?",
@@ -279,8 +291,16 @@
     "answer": "Indochina"
   },
   {
+    "question": "On which peninsula was one of the Seven Wonders of the Ancient World located?",
+    "answer": "Anatolian"
+  },
+  {
     "question": "On which river is Angel Falls located?",
     "answer": "Churun"
+  },
+  {
+    "question": "On which river is the Grand Coulee Dam located?",
+    "answer": "Columbia"
   },
   {
     "question": "The currency of which country is called 'cedi', and it is known for its history of gold-rich lands?",
@@ -301,6 +321,10 @@
   {
     "question": "What are the causes of sulfate crust formation in arid soils?",
     "answer": "Evaporation"
+  },
+  {
+    "question": "What are the consequences of desert expansion observed on the planet?",
+    "answer": "Droughts"
   },
   {
     "question": "What are the consequences of weathering in arid zones?",
@@ -353,6 +377,10 @@
     "answer": "Volcanic eruption"
   },
   {
+    "question": "What challenges do countries face in the context of cultural globalization?",
+    "answer": "Cultural homogenization"
+  },
+  {
     "question": "What challenges do global cities face in the context of globalization?",
     "answer": "Increasing urbanization"
   },
@@ -371,6 +399,10 @@
   {
     "question": "What changes in plate tectonics are studied in paleogeography?",
     "answer": "Continental drift"
+  },
+  {
+    "question": "What changes in the positioning of tectonic plates affect ancient climate conditions?",
+    "answer": "Global drifts"
   },
   {
     "question": "What changes occur in soils with prolonged use for agricultural purposes?",
@@ -408,6 +440,10 @@
     "answer": "Megalopolis"
   },
   {
+    "question": "What conditions are necessary to sustain wetland ecosystems?",
+    "answer": "Moisture"
+  },
+  {
     "question": "What conditions contribute to the formation of geothermal springs?",
     "answer": "Tectonic faults"
   },
@@ -416,8 +452,24 @@
     "answer": "Financial technologies"
   },
   {
+    "question": "What cultural changes accompanied migrations to North Africa?",
+    "answer": "Arabization"
+  },
+  {
     "question": "What data was used to study ancient continental drift?",
     "answer": "Fossils"
+  },
+  {
+    "question": "What determines the direction of crystal growth in pegmatites?",
+    "answer": "Temperature"
+  },
+  {
+    "question": "What determines the morphology of river deltas?",
+    "answer": "Sediments"
+  },
+  {
+    "question": "What determines the shape of a volcano?",
+    "answer": "The composition of magma"
   },
   {
     "question": "What distinguishes an agro-climatic zone from an agro-ecological zone?",
@@ -472,8 +524,16 @@
     "answer": "Religious upheavals"
   },
   {
+    "question": "What factors contributed to the migration of peoples from the Middle East during the Neolithic period?",
+    "answer": "Drought and food shortages"
+  },
+  {
     "question": "What factors determine the choice of location for a zone?",
     "answer": "Infrastructure"
+  },
+  {
+    "question": "What factors determine the distribution of permafrost in the tundra?",
+    "answer": "Temperature regime"
   },
   {
     "question": "What factors determine the occurrence of polar auroras?",
@@ -548,8 +608,16 @@
     "answer": "Decarbonization"
   },
   {
+    "question": "What geological evidence indicates the presence of ancient seas?",
+    "answer": "Sedimentary rocks"
+  },
+  {
     "question": "What geological factors influence the formation of volcanoes in a region?",
     "answer": "Plate tectonics"
+  },
+  {
+    "question": "What geological formation is associated with the interaction of lithospheric plates under the oceans?",
+    "answer": "Mid-ocean ridge"
   },
   {
     "question": "What geological phenomenon causes continental drift?",
@@ -636,6 +704,10 @@
     "answer": "Asmara"
   },
   {
+    "question": "What is the capital of Lesotho?",
+    "answer": "Maseru"
+  },
+  {
     "question": "What is the capital of Malawi?",
     "answer": "Lilongwe"
   },
@@ -670,6 +742,10 @@
   {
     "question": "What is the largest active volcano in the world?",
     "answer": "Mauna Loa"
+  },
+  {
+    "question": "What is the largest river in Norway?",
+    "answer": "Glomma"
   },
   {
     "question": "What is the length of the Mississippi River?",
@@ -748,6 +824,10 @@
     "answer": "significant"
   },
   {
+    "question": "What is the role of the water regime in the dynamics of soil processes and their evolution?",
+    "answer": "Regulates processes"
+  },
+  {
     "question": "What is the significance of ancient ocean currents for understanding paleogeographic changes?",
     "answer": "Continental movement"
   },
@@ -800,6 +880,10 @@
     "answer": "Seismic survey"
   },
   {
+    "question": "What method is used to determine the accuracy of point positions on maps considering distortions?",
+    "answer": "Geodetic referencing"
+  },
+  {
     "question": "What method is used to study the dynamics of tectonic plates?",
     "answer": "Satellite geodesy"
   },
@@ -822,6 +906,10 @@
   {
     "question": "What methods are used to study ancient ecosystems?",
     "answer": "Fossil analysis"
+  },
+  {
+    "question": "What mineralogical feature is characteristic of kimberlites?",
+    "answer": "Diamonds"
   },
   {
     "question": "What modern method is used to study changes in glaciers in polar regions?",
@@ -882,6 +970,10 @@
   {
     "question": "What phenomenon can cause sea level changes due to tectonic activity?",
     "answer": "Isostatic equilibrium"
+  },
+  {
+    "question": "What phenomenon can cause severe weathering and soil erosion over large areas?",
+    "answer": "Sandstorms"
   },
   {
     "question": "What phenomenon can exacerbate flooding in coastal areas?",
@@ -1008,6 +1100,10 @@
     "answer": "Gleying"
   },
   {
+    "question": "What process is responsible for the formation of cave lakes?",
+    "answer": "Leaching"
+  },
+  {
     "question": "What process is responsible for the formation of funnel-shaped depressions in areas where carbonate rocks emerge?",
     "answer": "Karst activity"
   },
@@ -1050,6 +1146,10 @@
   {
     "question": "What processes are involved in the formation of polar vortices?",
     "answer": "Atmospheric circulation"
+  },
+  {
+    "question": "What processes can lead to the formation of marshy lowlands?",
+    "answer": "Rise of groundwater"
   },
   {
     "question": "What processes cause fluctuations in ocean surface temperature?",
@@ -1260,6 +1360,10 @@
     "answer": "Transform"
   },
   {
+    "question": "What type of tectonic interaction leads to the formation of mountain ranges?",
+    "answer": "Collision"
+  },
+  {
     "question": "What type of vegetation is common on Arctic coasts?",
     "answer": "Sphagnum"
   },
@@ -1274,6 +1378,10 @@
   {
     "question": "What weather conditions lead to the formation of hurricanes?",
     "answer": "Warm oceans"
+  },
+  {
+    "question": "Where does the Amazon River begin?",
+    "answer": "Andes"
   },
   {
     "question": "Where in the world are the largest rubber processing enterprises concentrated?",
@@ -1475,6 +1583,10 @@
     "answer": "Population"
   },
   {
+    "question": "Which demographic trend has the greatest impact on the housing market?",
+    "answer": "Aging population"
+  },
+  {
     "question": "Which economic factor most influences the global grain market?",
     "answer": "Subsidies"
   },
@@ -1527,6 +1639,10 @@
     "answer": "The 1884 Convention"
   },
   {
+    "question": "Which instrument first allowed for the accurate determination of longitude at sea?",
+    "answer": "Marine chronometer"
+  },
+  {
     "question": "Which international organization is responsible for the protection of the Arctic?",
     "answer": "Arctic Council"
   },
@@ -1571,6 +1687,10 @@
     "answer": "Kenya"
   },
   {
+    "question": "Which natural disaster can lead to a sudden drop in temperature and precipitation in the form of snow and ice?",
+    "answer": "Blizzard"
+  },
+  {
     "question": "Which natural zone includes areas with saline soils and minimal vegetation?",
     "answer": "Salt flats"
   },
@@ -1592,6 +1712,10 @@
   },
   {
     "question": "Which peak in the Himalayas has the largest vertical drop?",
+    "answer": "Annapurna"
+  },
+  {
+    "question": "Which peak is considered the most difficult to access due to the number of unsuccessful ascents?",
     "answer": "Annapurna"
   },
   {
@@ -1657,6 +1781,10 @@
   {
     "question": "Which region most actively uses agrotechnologies to increase crop yields?",
     "answer": "North America"
+  },
+  {
+    "question": "Which region of Australia is the leading exporter of wool?",
+    "answer": "New South Wales"
   },
   {
     "question": "Which region of the world is most vulnerable to changes in demographic structure due to migration?",
@@ -1725,6 +1853,10 @@
   {
     "question": "Which transport route connects China to London by rail?",
     "answer": "New Silk Road"
+  },
+  {
+    "question": "Which transportation route in South America facilitates connectivity between the north and south through the Andes mountain range?",
+    "answer": "Trans-Andean Highway"
   },
   {
     "question": "Which type of plate interaction leads to the formation of deep-sea trenches?",
