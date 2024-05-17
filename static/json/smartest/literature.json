@@ -1,1 +1,618 @@
-[]
+[
+  {
+    "question": "Author of 'Roman de Troie'?",
+    "answer": "Benoît de Sainte-Maure"
+  },
+  {
+    "question": "How did the ancient heritage influence the works of Classicism?",
+    "answer": "Strong influence"
+  },
+  {
+    "question": "In what language was 'Carmina Burana' written?",
+    "answer": "Latin"
+  },
+  {
+    "question": "In what year was Shakespeare's first folio published?",
+    "answer": "1623"
+  },
+  {
+    "question": "In which work are elements of magical realism used to explore the legacy of violence and slavery?",
+    "answer": "Beloved"
+  },
+  {
+    "question": "In which work is a talking doll described?",
+    "answer": "Pinocchio"
+  },
+  {
+    "question": "In which work is the famous bridge and Civil War battle mentioned?",
+    "answer": "An Occurrence at Owl Creek Bridge"
+  },
+  {
+    "question": "What ancient artifact was created by the dark mage Shannara?",
+    "answer": "Black Sword"
+  },
+  {
+    "question": "What ancient creature awakens in Robert E. Howard's 'Conan the Barbarian'?",
+    "answer": "Yog-Sothoth"
+  },
+  {
+    "question": "What artifact did Gandalf use in the Battle of the Shire?",
+    "answer": "Ring of Fire"
+  },
+  {
+    "question": "What aspect of aesthetics does Baroque literature emphasize?",
+    "answer": "vanitas"
+  },
+  {
+    "question": "What award did the novel 'Stone Heart' receive?",
+    "answer": "Blue Rose"
+  },
+  {
+    "question": "What concept did Francesco Petrarch introduce to describe his love for Laura?",
+    "answer": "platonic love"
+  },
+  {
+    "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
+    "answer": "Forest Spirit"
+  },
+  {
+    "question": "What is Merlin's spellbook in 'The Stories of Camelot'?",
+    "answer": "The Tome of Spells"
+  },
+  {
+    "question": "What is the main theme of Erasmus of Rotterdam's 'The Praise of Folly'?",
+    "answer": "Satire"
+  },
+  {
+    "question": "What is the name of Carson Foley's novel about the fight against racism?",
+    "answer": "Invisible Man"
+  },
+  {
+    "question": "What is the name of Mr. Woodhouse's house in Austen's novel?",
+    "answer": "Hartfield"
+  },
+  {
+    "question": "What is the name of Poliziano's work dedicated to ancient legends?",
+    "answer": "Sappho"
+  },
+  {
+    "question": "What is the name of the Renaissance poem by Pietro Bembo?",
+    "answer": "The Asolani"
+  },
+  {
+    "question": "What is the name of the ancient Greek lyrical poetry that celebrates athletes' victories?",
+    "answer": "Epinikion"
+  },
+  {
+    "question": "What is the name of the city abandoned by the first elves in Tolkien's 'The Silmarillion'?",
+    "answer": "Gondolin"
+  },
+  {
+    "question": "What is the name of the evil sorcerer who imprisoned Pendragon in the world of 'Arthurian'?",
+    "answer": "Mordred"
+  },
+  {
+    "question": "What is the name of the magical artifact guarded by the Keepers of the Bright Forest in the 'Chronicles of Lorien' series?",
+    "answer": "Elvanor"
+  },
+  {
+    "question": "What is the name of the medieval poem about love and redemption?",
+    "answer": "Roman de la Rose"
+  },
+  {
+    "question": "What is the name of the other dimension where the main character goes in 'Song of the Universe'?",
+    "answer": "Susvet"
+  },
+  {
+    "question": "What is the name of the poem about the wars of Charlemagne?",
+    "answer": "The Song of Roland"
+  },
+  {
+    "question": "What is the name of the powerful Elven king in 'The Silmarillion'?",
+    "answer": "Thingol"
+  },
+  {
+    "question": "What is the name of the silhouette that guards the power in the world of dark fantasy?",
+    "answer": "Shadowgrip"
+  },
+  {
+    "question": "What is the name of the wizard in 'King Arthur'?",
+    "answer": "Merlin"
+  },
+  {
+    "question": "What is the name of the wizard who grants the power of fire in 'The Dragon Saga'?",
+    "answer": "Faumir"
+  },
+  {
+    "question": "What is the name of the wolf-puller in the book 'Saga of the Sentinel Forest'?",
+    "answer": "Gray Guardian"
+  },
+  {
+    "question": "What is the name of the work by the ancient Greek philosopher that explores the theme of love?",
+    "answer": "Symposium"
+  },
+  {
+    "question": "What is the opposite concept to 'harmony' in the literary style of Baroque?",
+    "answer": "Dissonance"
+  },
+  {
+    "question": "What material are the scrolls in 'The Wheel of Time' written on?",
+    "answer": "Parchment"
+  },
+  {
+    "question": "What powerful artifact warmed the hearts of the Tarnelins in 'The Legend of the Seven Rocks'?",
+    "answer": "Fire Crystal"
+  },
+  {
+    "question": "What principle of understanding reality is characteristic of the Baroque?",
+    "answer": "Illusion and changeability"
+  },
+  {
+    "question": "What role did Catholicism play in Baroque literature?",
+    "answer": "Significant"
+  },
+  {
+    "question": "What role did the works of Ludovico Ariosto play in Italian Renaissance literature?",
+    "answer": "primary"
+  },
+  {
+    "question": "What special property does the magical elixir 'Gandrabry' have in 'Riftwar Master'?",
+    "answer": "Healing any wounds"
+  },
+  {
+    "question": "What term describes the concept of illusory reality in Baroque?",
+    "answer": "vanitas"
+  },
+  {
+    "question": "What type of magic is the wizard Garg known for in 'Legends of the Lands of Ingvalar'?",
+    "answer": "Necromancy"
+  },
+  {
+    "question": "What was the name of Longus' work that became a model for the pastoral novel?",
+    "answer": "Daphnis and Chloe"
+  },
+  {
+    "question": "What was the name of the first king of the Golden Kingdom in the trilogy 'Supreme Patriarch'?",
+    "answer": "Arthur Speik"
+  },
+  {
+    "question": "What was the name of the magical ship in 'Ballads of Katrin'?",
+    "answer": "Valkyrie"
+  },
+  {
+    "question": "What work did Pindar write about the winners of the Olympic Games?",
+    "answer": "Epinikia"
+  },
+  {
+    "question": "Which Dutch humanist wrote the work 'On the Education of Children'?",
+    "answer": "Erasmus of Rotterdam"
+  },
+  {
+    "question": "Which English writer wrote 'The Pilgrim's Progress' under his own name?",
+    "answer": "John Bunyan"
+  },
+  {
+    "question": "Which Enlightenment principle was the basis for the creation of utopian works?",
+    "answer": "Reason"
+  },
+  {
+    "question": "Which French poet and philosopher wrote 'Servan'?",
+    "answer": "Guillaume de Machaut"
+  },
+  {
+    "question": "Which German writer wrote a tragedy based on the historical conflict between Wallenstein and his entourage?",
+    "answer": "Schiller"
+  },
+  {
+    "question": "Which Shakespeare play begins with the phrase: 'When two kings'?",
+    "answer": "Antony and Cleopatra"
+  },
+  {
+    "question": "Which Shakespeare play has the subtitle 'The Caprices of Love'?",
+    "answer": "Love's Labour's Lost"
+  },
+  {
+    "question": "Which Stephen King book won the British Fantasy Award in 2013?",
+    "answer": "Doctor Sleep"
+  },
+  {
+    "question": "Which ancient Roman author wrote the work 'Menippean Satires', laying the foundation for a new genre of satirical literature?",
+    "answer": "Varro"
+  },
+  {
+    "question": "Which ancient Roman poet is known for a deep analysis of psychology in his works, comparable to novels?",
+    "answer": "Ovid"
+  },
+  {
+    "question": "Which ancient civilization inspired Benvenuto Cellini?",
+    "answer": "Roman"
+  },
+  {
+    "question": "Which ancient sources served as the basis for Thomas More's works?",
+    "answer": "Plato"
+  },
+  {
+    "question": "Which artifact was lost in the Battle of Mirilend?",
+    "answer": "Seal of Time"
+  },
+  {
+    "question": "Which author created a cycle of stories about King Arthur in the French language?",
+    "answer": "Chrétien de Troyes"
+  },
+  {
+    "question": "Which book by a Norwegian author won the Brage Prize in 2014?",
+    "answer": "Against Violence"
+  },
+  {
+    "question": "Which book did Geoffroi de Villehardouin write about the Fourth Crusade?",
+    "answer": "The Conquest of Constantinople"
+  },
+  {
+    "question": "Which book was awarded the Women's Prize for Fiction in 2017?",
+    "answer": "The Power"
+  },
+  {
+    "question": "Which book was recognized as the best by 'The New York Times' in 2018?",
+    "answer": "The New Sun"
+  },
+  {
+    "question": "Which book was written by the 'Reven' award winner?",
+    "answer": "Shards of Time"
+  },
+  {
+    "question": "Which book was written by the 2010 Orange Prize winner?",
+    "answer": "The Lacuna"
+  },
+  {
+    "question": "Which book was written by the Akutagawa Prize winner in 2019?",
+    "answer": "Puppet"
+  },
+  {
+    "question": "Which book won the 'World Fantasy Award' in 2012?",
+    "answer": "Osama"
+  },
+  {
+    "question": "Which book, first published in 2016, was praised by critics for its deep social commentary and illustrative mastery?",
+    "answer": "Invisible Division"
+  },
+  {
+    "question": "Which character combines the roles of the King of Zelyov and a wizard in the 'Chronicles' series?",
+    "answer": "Elric"
+  },
+  {
+    "question": "Which character from Jane Austen's works is the protagonist of the book 'Persuasion'?",
+    "answer": "Anne Elliot"
+  },
+  {
+    "question": "Which chivalric romance was written by Chrétien de Troyes around 1170?",
+    "answer": "Erec and Enide"
+  },
+  {
+    "question": "Which critically acclaimed novel by a British author won the 'Costa Novel Award' in 2014?",
+    "answer": "How to Stop Time"
+  },
+  {
+    "question": "Which drama by Guercio da Pomenta is an example of a combination of ancient and medieval style?",
+    "answer": "Medea"
+  },
+  {
+    "question": "Which elements are abundant in the literary style of Baroque?",
+    "answer": "Metaphors"
+  },
+  {
+    "question": "Which epic describes the story of Siegfried and the Gibichungs?",
+    "answer": "The Song of the Nibelungs"
+  },
+  {
+    "question": "Which famous Italian Renaissance writer wrote an erotic poem about the adventures of a Venetian?",
+    "answer": "Aretino"
+  },
+  {
+    "question": "Which heroine is the central figure in the work 'Sappho' by Angelo Poliziano?",
+    "answer": "Sappho"
+  },
+  {
+    "question": "Which humanist wrote under the pseudonym 'Secundus Severus'?",
+    "answer": "Ulrich von Hutten"
+  },
+  {
+    "question": "Which literary genre became popular during the Renaissance thanks to Torquato Tasso?",
+    "answer": "Epic poem"
+  },
+  {
+    "question": "Which medieval French poet wrote a chivalric romance about a lion?",
+    "answer": "Chrétien de Troyes"
+  },
+  {
+    "question": "Which medieval author is sometimes called the 'second Ovid'?",
+    "answer": "Jean de Meun"
+  },
+  {
+    "question": "Which modernist novel by Marcel Proust begins with a mention of the pronunciation of names?",
+    "answer": "Swann's Way"
+  },
+  {
+    "question": "Which novel by Katherine Anne Porter, published in 1962, describes a voyage on a ship from Mexico to Germany on the eve of World War II?",
+    "answer": "Ship of Fools"
+  },
+  {
+    "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
+    "answer": "The Rise of Silas Lapham"
+  },
+  {
+    "question": "Which novel by a famous Nigerian writer won the Best Book Award at the African Literary Festival in 2021?",
+    "answer": "Selfless Love"
+  },
+  {
+    "question": "Which novel describes events revolving around a murder investigation in 19th century New England?",
+    "answer": "An American Tragedy"
+  },
+  {
+    "question": "Which novel describes the fate of the Trask brothers inheriting a large ranch?",
+    "answer": "East of Eden"
+  },
+  {
+    "question": "Which novel was awarded the 'Indie Book of the Year' in 2017?",
+    "answer": "The Faraway Kingdom"
+  },
+  {
+    "question": "Which novel was nominated for the Costa Book Award in 2020?",
+    "answer": "Normal People"
+  },
+  {
+    "question": "Which novel was recognized as an Amazon Kindle bestseller in 2021?",
+    "answer": "The Last Thing He Told Me"
+  },
+  {
+    "question": "Which novel won the 'Asper' award in 2018?",
+    "answer": "Valley of Mists"
+  },
+  {
+    "question": "Which novel won the Dublin Literary Award in 2018?",
+    "answer": "The Sea of Dreams"
+  },
+  {
+    "question": "Which novel won the International IMPAC Dublin Literary Award in 2018?",
+    "answer": "The Luminaries"
+  },
+  {
+    "question": "Which novel won the Man Booker International Prize in 2018?",
+    "answer": "Flights"
+  },
+  {
+    "question": "Which novel won the Nebula Award in 2019?",
+    "answer": "The Calculating Stars"
+  },
+  {
+    "question": "Which philosophical movement influenced Baroque literature?",
+    "answer": "Neoplatonism"
+  },
+  {
+    "question": "Which play did William Shakespeare write first?",
+    "answer": "Titus Andronicus"
+  },
+  {
+    "question": "Which play includes a scene with witches and trap rocks?",
+    "answer": "Macbeth"
+  },
+  {
+    "question": "Which play won the Pulitzer Prize for Drama in 2018?",
+    "answer": "Cost of Living"
+  },
+  {
+    "question": "Which poem by Ariosto includes elements of a chivalric romance?",
+    "answer": "Orlando Furioso"
+  },
+  {
+    "question": "Which poem did Sidney write inspired by the Renaissance?",
+    "answer": "Astrophil and Stella"
+  },
+  {
+    "question": "Which poet described the construction of the Siena Cathedral in his poem?",
+    "answer": "Orseto di Cetona"
+  },
+  {
+    "question": "Which poet wrote 'The Battle of Colbie'?",
+    "answer": "Walther von der Vogelweide"
+  },
+  {
+    "question": "Which principle of the Enlightenment era underlies utopian works?",
+    "answer": "rationality"
+  },
+  {
+    "question": "Which spell is forbidden to use in the Duels of the Lords of Cold?",
+    "answer": "Wheel of Fortune"
+  },
+  {
+    "question": "Which work analyzes the political systems of the Enlightenment era?",
+    "answer": "The Spirit of the Laws"
+  },
+  {
+    "question": "Which work belongs to Andreas Gryphius?",
+    "answer": "The Tragedy of Cardenio"
+  },
+  {
+    "question": "Which work by Francesco Petrarch demonstrates elements of classicism?",
+    "answer": "Africa"
+  },
+  {
+    "question": "Which work by Holbach is dedicated to atheism?",
+    "answer": "The System of Nature"
+  },
+  {
+    "question": "Which work by Juan Luis Vives became foundational for Renaissance pedagogy?",
+    "answer": "The Education of Women"
+  },
+  {
+    "question": "Which work by Juan de la Cueva contains elements of Baroque?",
+    "answer": "Diana"
+  },
+  {
+    "question": "Which work by Lucian satirizes the belief in gods?",
+    "answer": "True History"
+  },
+  {
+    "question": "Which work by Luis Vives was popular in Spain?",
+    "answer": "The Fair of Saint Ottonel"
+  },
+  {
+    "question": "Which work by Sarah Orne Jewett explores female attachment and societal expectations in New England?",
+    "answer": "The Country of the Pointed Firs"
+  },
+  {
+    "question": "Which work by Walt Whitman reflects the mystical connection between man and nature?",
+    "answer": "Song of Myself"
+  },
+  {
+    "question": "Which work by William Faulkner explores the decline of Southern aristocracy through the story of the Compson family?",
+    "answer": "The Sound and the Fury"
+  },
+  {
+    "question": "Which work combines elements of magical realism and explores themes of memory and identity?",
+    "answer": "The House on the Hill"
+  },
+  {
+    "question": "Which work explores the issue of morality and social stigmatization through stories of death and burial?",
+    "answer": "American Necropolis"
+  },
+  {
+    "question": "Which work in 5 books was written by Likhnidsky?",
+    "answer": "Anna of Persia"
+  },
+  {
+    "question": "Which work initiated utopian ideas of the Renaissance?",
+    "answer": "Utopia"
+  },
+  {
+    "question": "Which work is written in prose form and covers themes of social inequality and metaphysics?",
+    "answer": "The Tribes' Despair"
+  },
+  {
+    "question": "Which work justified the establishment of civil rights?",
+    "answer": "'The Social Contract'"
+  },
+  {
+    "question": "Which work made Ludovico Ariosto famous as a Renaissance literature author?",
+    "answer": "Orlando Furioso"
+  },
+  {
+    "question": "Which work of Leonardo da Vinci influenced Renaissance literature?",
+    "answer": "Journals"
+  },
+  {
+    "question": "Which work of the ancient Roman poet Horace is considered the watershed between old and new poetry?",
+    "answer": "Odes"
+  },
+  {
+    "question": "Which work tells the story of a hero who sacrificed family happiness for the sake of revenge?",
+    "answer": "Medea"
+  },
+  {
+    "question": "Which work was written by Petrarch?",
+    "answer": "Africa"
+  },
+  {
+    "question": "Who created the Floating Castle spell on the Ancient Island?",
+    "answer": "Gendalfus"
+  },
+  {
+    "question": "Who developed the philosophy of law based on utilitarianism?",
+    "answer": "Bentham"
+  },
+  {
+    "question": "Who has won the Pulitzer Prize twice?",
+    "answer": "Colson Whitehead"
+  },
+  {
+    "question": "Who holds the title 'Inquisitor' in Glen Cook's world?",
+    "answer": "Inquisitor Senna"
+  },
+  {
+    "question": "Who is considered Shakespeare's closest friend in the theatrical community?",
+    "answer": "Richard Burbage"
+  },
+  {
+    "question": "Who is the author of the 18th-century French novel based on letters from aristocrats about love intrigues?",
+    "answer": "Laclos"
+  },
+  {
+    "question": "Who is the author of the book 'The Road to Nobel', which gained worldwide popularity?",
+    "answer": "Michael Chabon"
+  },
+  {
+    "question": "Who is the author of the book that won the Ignite Award in 2022?",
+    "answer": "Archana Sarkar"
+  },
+  {
+    "question": "Who is the author of the epic 'Thebaid'?",
+    "answer": "Statius"
+  },
+  {
+    "question": "Who is the author of the medieval romance 'Tristan and Isolde'?",
+    "answer": "Thomas of Britain"
+  },
+  {
+    "question": "Who is the author of the novel 'Ascanio'?",
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "Who is the author of the novel 'Mirror and Sorrow', nominated for the National Book Award?",
+    "answer": "Ellen Hilderbrand"
+  },
+  {
+    "question": "Who is the author of the novel 'The Snake Hunt'?",
+    "answer": "Lauren Groff"
+  },
+  {
+    "question": "Who is the author of the novel 'Trust Exercise', which won the National Book Award in 2019?",
+    "answer": "Susan Choi"
+  },
+  {
+    "question": "Who is the author of the work \"Books on the Family\"?",
+    "answer": "Leon Battista Alberti"
+  },
+  {
+    "question": "Who is the hero of the German epic poem about the battle of brothers?",
+    "answer": "Hartmann von Aue"
+  },
+  {
+    "question": "Who is the main character of George Eliot's novel 'Middlemarch'?",
+    "answer": "Dorothea Brooke"
+  },
+  {
+    "question": "Who translated 'Daphnis and Chloe' into Latin?",
+    "answer": "Ausonius"
+  },
+  {
+    "question": "Who was the author of the ancient Greek 'Geography'?",
+    "answer": "Strabo"
+  },
+  {
+    "question": "Who was the main antagonist in Shakespeare's tragedy 'Othello'?",
+    "answer": "Iago"
+  },
+  {
+    "question": "Who wrote 'On the Defense and Glory of the French Language'?",
+    "answer": "Jean du Bellay"
+  },
+  {
+    "question": "Who wrote 'The Twelve Idylls'?",
+    "answer": "Theocritus"
+  },
+  {
+    "question": "Who wrote the famous poem 'Madrigals'?",
+    "answer": "Jacopo Sarti"
+  },
+  {
+    "question": "Who wrote the three-volume work about Jeffers?",
+    "answer": "Ludwig Tieck"
+  },
+  {
+    "question": "Who wrote the work that describes the rules of love magic?",
+    "answer": "Ovid"
+  },
+  {
+    "question": "Whose work introduced the world to utopias?",
+    "answer": "Thomas More"
+  }
+]
