@@ -48,6 +48,10 @@
     "answer": "Depends on the recipe"
   },
   {
+    "question": "How to hold the fish while reeling it in?",
+    "answer": "Line tension"
+  },
+  {
     "question": "How to increase the casting power?",
     "answer": "Long swing"
   },
@@ -92,8 +96,16 @@
     "answer": "balance"
   },
   {
+    "question": "What affects the sensitivity of the tackle?",
+    "answer": "Rod stiffness"
+  },
+  {
     "question": "What are bathymetric maps used for?",
     "answer": "Studying the seafloor topography"
+  },
+  {
+    "question": "What are isobaths useful for?",
+    "answer": "Determine depth"
   },
   {
     "question": "What are isobaths?",
@@ -114,6 +126,10 @@
   {
     "question": "What auxiliary tool facilitates the transportation of equipment?",
     "answer": "Sled"
+  },
+  {
+    "question": "What bait do catfish like to feast on?",
+    "answer": "Live bait"
   },
   {
     "question": "What bait is preferred for trophy fishing?",
@@ -204,6 +220,10 @@
     "answer": "Lure"
   },
   {
+    "question": "What equipment is needed to use an electric fishing rod?",
+    "answer": "Battery"
+  },
+  {
     "question": "What factor is most important for successful ice fishing?",
     "answer": "Ice"
   },
@@ -222,6 +242,10 @@
   {
     "question": "What fish inhabits fast-flowing rivers?",
     "answer": "Trout"
+  },
+  {
+    "question": "What fish is the most popular catch in tropical seas?",
+    "answer": "Cuban barracuda"
   },
   {
     "question": "What fish was popular in Ancient Greece?",
@@ -284,6 +308,10 @@
     "answer": "Professional"
   },
   {
+    "question": "What helps control the lure?",
+    "answer": "Casting technique"
+  },
+  {
     "question": "What helps keep fishermen on slippery ice?",
     "answer": "Anti-slip pads"
   },
@@ -292,8 +320,28 @@
     "answer": "special device"
   },
   {
+    "question": "What important technique is used when reeling in a fish?",
+    "answer": "swinging"
+  },
+  {
+    "question": "What information can be obtained using a directed sound wave underwater?",
+    "answer": "Seafloor topography"
+  },
+  {
+    "question": "What is a 'zherlitsa'?",
+    "answer": "A tackle for catching predatory fish"
+  },
+  {
+    "question": "What is a jig lure?",
+    "answer": "Lead head"
+  },
+  {
     "question": "What is a nod?",
     "answer": "Bite indicator"
+  },
+  {
+    "question": "What is a pilot book?",
+    "answer": "A guide for sailors"
   },
   {
     "question": "What is a record throw?",
@@ -332,8 +380,16 @@
     "answer": "Winch"
   },
   {
+    "question": "What is needed for safe movement on ice?",
+    "answer": "crampons"
+  },
+  {
     "question": "What is needed to participate in a fishing competition?",
     "answer": "Tackle and license"
+  },
+  {
+    "question": "What is often used to determine the depth of water?",
+    "answer": "Echo sounder"
   },
   {
     "question": "What is the best bait for night fishing?",
@@ -352,12 +408,20 @@
     "answer": "Ice fishing"
   },
   {
+    "question": "What is the device called for setting fish traps?",
+    "answer": "Trawler"
+  },
+  {
     "question": "What is the device called that secures the fishing line on the reel?",
     "answer": "Drag"
   },
   {
     "question": "What is the diameter of a golf hole?",
     "answer": "10.8 cm"
+  },
+  {
+    "question": "What is the fly fishing cast called?",
+    "answer": "Cast"
   },
   {
     "question": "What is the largest fish in the Amazon Basin?",
@@ -384,6 +448,10 @@
     "answer": "Fluorocarbon"
   },
   {
+    "question": "What is the name of the casting technique in fly fishing?",
+    "answer": "Rolling"
+  },
+  {
     "question": "What is the name of the fishing rod used for long-distance casting?",
     "answer": "Spod rod"
   },
@@ -402,6 +470,10 @@
   {
     "question": "What is the name of the spring fishing tournament?",
     "answer": "Vesnyanka"
+  },
+  {
+    "question": "What is the penalty for poaching?",
+    "answer": "Fine"
   },
   {
     "question": "What is the purpose of a fishing map?",
@@ -428,12 +500,24 @@
     "answer": "Metal"
   },
   {
+    "question": "What is usually added to carp bait?",
+    "answer": "honey"
+  },
+  {
     "question": "What knot is used for tying nets?",
     "answer": "Fisherman's"
   },
   {
     "question": "What lines are used to indicate depths on maps?",
     "answer": "Isobaths"
+  },
+  {
+    "question": "What lure can be used for night fishing?",
+    "answer": "Spinner"
+  },
+  {
+    "question": "What lure is best to use for fishing in murky water?",
+    "answer": "Bright twister"
   },
   {
     "question": "What lure should be chosen for fishing at depth?",
@@ -454,6 +538,10 @@
   {
     "question": "What reeling technique is used for large fish?",
     "answer": "in circles"
+  },
+  {
+    "question": "What should be considered when choosing hiking gear?",
+    "answer": "Lightness"
   },
   {
     "question": "What should be used to catch a large perch?",
@@ -520,6 +608,10 @@
     "answer": "Sensors"
   },
   {
+    "question": "What technology is equipped in modern spinning reels?",
+    "answer": "Anti-backlash"
+  },
+  {
     "question": "What technology reduces resistance during casting?",
     "answer": "Anti-friction coating"
   },
@@ -530,6 +622,10 @@
   {
     "question": "What thickness of fishing line is used for catching large bream?",
     "answer": "0.2-0.3 mm"
+  },
+  {
+    "question": "What tool is necessary for deep-sea fishing?",
+    "answer": "Fishfinder"
   },
   {
     "question": "What type of cast is particularly popular among experienced fly fishermen?",
@@ -556,6 +652,10 @@
     "answer": "Bone"
   },
   {
+    "question": "What type of fishing line is best suited for catching trophy fish?",
+    "answer": "braided"
+  },
+  {
     "question": "What type of fishing line is most commonly used for catching large fish?",
     "answer": "Braided line"
   },
@@ -564,12 +664,20 @@
     "answer": "Match rod"
   },
   {
+    "question": "What type of flies are used in fly fishing?",
+    "answer": "Artificial"
+  },
+  {
     "question": "What type of jig is popular for ice fishing?",
     "answer": "Devil"
   },
   {
     "question": "What type of jig is used for ice fishing?",
     "answer": "tungsten"
+  },
+  {
+    "question": "What type of marine fish lives at the greatest depth?",
+    "answer": "Mariana eel"
   },
   {
     "question": "What type of rod is often used for catfish fishing?",
@@ -582,6 +690,14 @@
   {
     "question": "What type of tackle is optimal for fishing in a current?",
     "answer": "Feeder"
+  },
+  {
+    "question": "What type of thermal processing is suitable for sushi?",
+    "answer": "No processing"
+  },
+  {
+    "question": "What types of bases exist for educational programs?",
+    "answer": "Educational"
   },
   {
     "question": "What types of facilities do professional athletes choose?",
@@ -608,6 +724,10 @@
     "answer": "The Treatyse"
   },
   {
+    "question": "What water temperature is comfortable for underwater fishing?",
+    "answer": "18-22 °C"
+  },
+  {
     "question": "What water viscosity is most suitable for underwater fishing?",
     "answer": "Medium"
   },
@@ -626,6 +746,14 @@
   {
     "question": "What woolen clothing should be avoided when fishing?",
     "answer": "Sweater"
+  },
+  {
+    "question": "When did people start using nets?",
+    "answer": "in 3000 BC"
+  },
+  {
+    "question": "When did silk cords become popular?",
+    "answer": "19th century"
   },
   {
     "question": "When did the first bronze hooks appear?",
@@ -664,6 +792,10 @@
     "answer": "France"
   },
   {
+    "question": "Which culture was the first to engage in fishing using canoes?",
+    "answer": "Polynesia"
+  },
+  {
     "question": "Which device can detect weak electric discharges from fish?",
     "answer": "Electroreceptor"
   },
@@ -680,12 +812,20 @@
     "answer": "Moray eel"
   },
   {
+    "question": "Which fish can change the color and texture of its skin?",
+    "answer": "Stonefish"
+  },
+  {
     "question": "Which fish can jump up to 3 meters high?",
     "answer": "Tarpon"
   },
   {
     "question": "Which fish can stay on land for a long time?",
     "answer": "Mudskipper"
+  },
+  {
+    "question": "Which fish can swim vertically?",
+    "answer": "Moray eel"
   },
   {
     "question": "Which fish has a transparent head?",
@@ -702,6 +842,10 @@
   {
     "question": "Which fish has strong teeth and dense scales?",
     "answer": "Pike"
+  },
+  {
+    "question": "Which fish has the ability to live at a depth of more than 500 meters?",
+    "answer": "Deep-sea anglerfish"
   },
   {
     "question": "Which fish is associated with the legend of huge sunken pike-perch?",
@@ -724,12 +868,20 @@
     "answer": "Bearded toadfish"
   },
   {
+    "question": "Which fish is capable of creating sound waves?",
+    "answer": "Drumfish"
+  },
+  {
     "question": "Which fish is capable of creating vacuum waves?",
     "answer": "Vacuum fish"
   },
   {
     "question": "Which fish is capable of moving backwards?",
     "answer": "Knifefish"
+  },
+  {
+    "question": "Which fish is considered a valuable trophy?",
+    "answer": "Swordfish"
   },
   {
     "question": "Which fish is immune to poison?",
@@ -744,12 +896,20 @@
     "answer": "Mudskipper"
   },
   {
+    "question": "Which fish is known for its ability to change the lateral plates on its body?",
+    "answer": "Littoral fish"
+  },
+  {
     "question": "Which fish is known for its length of up to 2 meters?",
     "answer": "Arowana"
   },
   {
     "question": "Which fish is known for its massive body and large head?",
     "answer": "Coelacanth"
+  },
+  {
+    "question": "Which fish is most active in winter?",
+    "answer": "Roach"
   },
   {
     "question": "Which fish is nicknamed 'white hunter'?",
@@ -776,6 +936,10 @@
     "answer": "Sturgeon"
   },
   {
+    "question": "Which fish lives at great depths?",
+    "answer": "Grimpoteuthis"
+  },
+  {
     "question": "Which fish lives in the cold waters of Antarctica?",
     "answer": "Antarctic dragonfish"
   },
@@ -794,6 +958,10 @@
   {
     "question": "Which fish resembles a leaf in appearance?",
     "answer": "Leafy seadragon"
+  },
+  {
+    "question": "Which fish should not be touched without gloves?",
+    "answer": "Scorpionfish"
   },
   {
     "question": "Which fishing lodge is best suited for a family vacation?",
@@ -840,6 +1008,10 @@
     "answer": "Albright"
   },
   {
+    "question": "Which knot is considered stronger?",
+    "answer": "Triple surgical knot"
+  },
+  {
     "question": "Which knot is often used by sailors?",
     "answer": "Bowline knot"
   },
@@ -868,6 +1040,10 @@
     "answer": "Bimini"
   },
   {
+    "question": "Which knot is recommended for a thick cord?",
+    "answer": "Aero knot"
+  },
+  {
     "question": "Which knot is recommended for use in freshwater?",
     "answer": "Freshwater knot"
   },
@@ -894,6 +1070,10 @@
   {
     "question": "Which knot offers the best tensile strength?",
     "answer": "Sanguri"
+  },
+  {
+    "question": "Which knot provides a strong connection for the fishing line?",
+    "answer": "Strong knot"
   },
   {
     "question": "Which knot should be used for monofilament fishing line?",
