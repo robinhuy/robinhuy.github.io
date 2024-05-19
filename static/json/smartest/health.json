@@ -28,6 +28,10 @@
     "answer": "Increases metabolism"
   },
   {
+    "question": "How does calcium affect cardiovascular health?",
+    "answer": "Lowers blood pressure"
+  },
+  {
     "question": "How does chondroitin sulfate affect cartilage tissue?",
     "answer": "Increases elasticity"
   },
@@ -54,6 +58,10 @@
   {
     "question": "How does lactate affect muscles during intense workouts?",
     "answer": "Causes fatigue"
+  },
+  {
+    "question": "How does stress affect serotonin levels in the brain?",
+    "answer": "Decrease"
   },
   {
     "question": "How does vitamin A deficiency affect bones?",
@@ -580,6 +588,10 @@
     "answer": "Hormonal changes"
   },
   {
+    "question": "What is the main receptor of T-lymphocytes?",
+    "answer": "TCR"
+  },
+  {
     "question": "What is the maximum effect of hypoxia at high altitude?",
     "answer": "Increase in erythropoietin"
   },
@@ -722,6 +734,10 @@
   {
     "question": "What is the role of sleep in the process of memory consolidation?",
     "answer": "Stabilization of information"
+  },
+  {
+    "question": "What is the significance of the REM phase for emotions?",
+    "answer": "Processing emotions"
   },
   {
     "question": "What is the significance of the aerobic threshold for training?",
@@ -994,6 +1010,10 @@
   {
     "question": "What substance is necessary for the synthesis of neurotransmitters?",
     "answer": "Tryptophan"
+  },
+  {
+    "question": "What substance is used for radiological imaging of the heart?",
+    "answer": "Contrast"
   },
   {
     "question": "What substance protects the heart from free radicals?",
@@ -1308,6 +1328,10 @@
     "answer": "Adrenaline"
   },
   {
+    "question": "Which hormone has a strong anabolic effect on bone tissue in children?",
+    "answer": "Growth hormone"
+  },
+  {
     "question": "Which hormone is responsible for stimulating lactotropic cells?",
     "answer": "Prolactin"
   },
@@ -1442,6 +1466,10 @@
   {
     "question": "Which molecule triggers cellular apoptosis?",
     "answer": "Fas Ligand"
+  },
+  {
+    "question": "Which molecules are involved in signal transmission in the body?",
+    "answer": "Interleukins"
   },
   {
     "question": "Which molecules bind to cortisol receptors during a stress response?",

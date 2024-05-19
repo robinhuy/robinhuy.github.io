@@ -1,5 +1,9 @@
 [
   {
+    "question": "At what stage in his life did Percy Weasley make a career breakthrough?",
+    "answer": "After reconciliation"
+  },
+  {
     "question": "For which potion is basilisk blood used?",
     "answer": "Stone Skin Potion"
   },
@@ -116,6 +120,14 @@
     "answer": "Teach ethics"
   },
   {
+    "question": "How do magical symbols affect the perception of reality?",
+    "answer": "Alter consciousness"
+  },
+  {
+    "question": "How do the 'Deathly Hallows' reflect the internal conflicts of the characters?",
+    "answer": "Duality of choice"
+  },
+  {
     "question": "How do the Deathly Hallows affect the moral choices of the characters?",
     "answer": "Test of the soul"
   },
@@ -148,12 +160,20 @@
     "answer": "Power"
   },
   {
+    "question": "How does the idea of the Deathly Hallows resonate with real myths and legends about life and death?",
+    "answer": "Symbolically"
+  },
+  {
     "question": "How does the organization coordinate actions to counter dark magic?",
     "answer": "Through patrols"
   },
   {
     "question": "How long did the longest Quidditch match last?",
     "answer": "Three months"
+  },
+  {
+    "question": "How many Horcruxes did Voldemort create?",
+    "answer": "Seven"
   },
   {
     "question": "How many artifacts are in the Deathly Hallows?",
@@ -176,6 +196,18 @@
     "answer": "Detection Spell"
   },
   {
+    "question": "In what year did Voldemort first suffer defeat?",
+    "answer": "1981"
+  },
+  {
+    "question": "In what year was the movie 'Harry Potter and the Deathly Hallows: Part 1' released?",
+    "answer": "2010"
+  },
+  {
+    "question": "In which book was Voldemort resurrected?",
+    "answer": "Goblet of Fire"
+  },
+  {
     "question": "In which event did the Malfoy family play a significant role in the Harry Potter books?",
     "answer": "The War with Voldemort"
   },
@@ -188,6 +220,10 @@
     "answer": "Harry Potter"
   },
   {
+    "question": "To whom did the magical diadem belong?",
+    "answer": "Rowena Ravenclaw"
+  },
+  {
     "question": "What Slytherin legacy did Voldemort use in his plans?",
     "answer": "Parseltongue"
   },
@@ -198,6 +234,14 @@
   {
     "question": "What ability helped Voldemort control snakes?",
     "answer": "Parseltongue"
+  },
+  {
+    "question": "What ability related to forbidden magic did one of the Weasleys have?",
+    "answer": "Parseltongue"
+  },
+  {
+    "question": "What allows a wizard to preserve part of their soul in an object?",
+    "answer": "Horcrux"
   },
   {
     "question": "What animal is associated with Gryffindor?",
@@ -248,6 +292,14 @@
     "answer": "Hard work"
   },
   {
+    "question": "What artifact connected the Order?",
+    "answer": "Mirror"
+  },
+  {
+    "question": "What artifact did Lucius give to Voldemort?",
+    "answer": "Diary"
+  },
+  {
     "question": "What artifact do the winners of the championship receive?",
     "answer": "Trophy"
   },
@@ -284,6 +336,10 @@
     "answer": "Battle with Quirrell"
   },
   {
+    "question": "What became a symbol of Hogwarts' legacy?",
+    "answer": "The Houses"
+  },
+  {
     "question": "What casting decision was critically important for the successful adaptation of the first book?",
     "answer": "casting young actors"
   },
@@ -302,6 +358,10 @@
   {
     "question": "What cloak can make you invisible?",
     "answer": "Invisibility cloak"
+  },
+  {
+    "question": "What component is added to enhance the effect of the invisibility potion?",
+    "answer": "Bat wing"
   },
   {
     "question": "What component is added to neutralize the effect of an invisibility potion?",
@@ -332,12 +392,24 @@
     "answer": "Baku"
   },
   {
+    "question": "What creature in the Harry Potter world has three heads and lives in the dungeon?",
+    "answer": "Fluffy"
+  },
+  {
+    "question": "What creature is a magical symbol of Hogwarts?",
+    "answer": "Phoenix"
+  },
+  {
     "question": "What creature is capable of guarding magical boundaries?",
     "answer": "Graal Guardian"
   },
   {
     "question": "What creature is capable of taking any form?",
     "answer": "Shapeshifting spirit"
+  },
+  {
+    "question": "What creature is capable of transforming into your greatest fear?",
+    "answer": "Boggart"
   },
   {
     "question": "What creature is used to create the core of a magic wand?",
@@ -480,6 +552,10 @@
     "answer": "Eagle's eye"
   },
   {
+    "question": "What exotic ingredient is needed to brew a potion that grants the ability to teleport?",
+    "answer": "Stardust"
+  },
+  {
     "question": "What factor makes Voldemort vulnerable?",
     "answer": "Destruction of Horcruxes"
   },
@@ -504,6 +580,10 @@
     "answer": "Death Eaters"
   },
   {
+    "question": "What gift did Narcissa receive from Snape?",
+    "answer": "Unbreakable Vow"
+  },
+  {
     "question": "What gift does the wand symbolize?",
     "answer": "Power"
   },
@@ -520,6 +600,10 @@
     "answer": "Teaching magic"
   },
   {
+    "question": "What ideology did the Malfoys follow?",
+    "answer": "Supremacism"
+  },
+  {
     "question": "What ideology was at the core of Voldemort's philosophy?",
     "answer": "Pure-blood supremacy"
   },
@@ -530,6 +614,10 @@
   {
     "question": "What important career decision did one of the Weasleys make?",
     "answer": "Career change"
+  },
+  {
+    "question": "What important innovation in special effects became key for the successful visualization of magic in films?",
+    "answer": "computer graphics"
   },
   {
     "question": "What influence did the Malfoy family have on public sentiment in the magical world after the war?",
@@ -632,6 +720,10 @@
     "answer": "Red hair"
   },
   {
+    "question": "What is a distinguishing feature of Acromantulas?",
+    "answer": "Giant size"
+  },
+  {
     "question": "What is known about the magical properties of hippogriff feathers?",
     "answer": "Healing properties"
   },
@@ -720,6 +812,14 @@
     "answer": "Veritaserum"
   },
   {
+    "question": "What is the name of the vehicle known in the Muggle world?",
+    "answer": "Train"
+  },
+  {
+    "question": "What is the name of the youngest daughter in the Weasley family?",
+    "answer": "Ginny"
+  },
+  {
     "question": "What is the position of the goalkeeper called in Quidditch?",
     "answer": "Keeper"
   },
@@ -768,6 +868,10 @@
     "answer": "Interworld Stone"
   },
   {
+    "question": "What item is used to control magical creatures?",
+    "answer": "Wand of the Ruler"
+  },
+  {
     "question": "What item was important to Godric Gryffindor?",
     "answer": "Sword"
   },
@@ -794,6 +898,14 @@
   {
     "question": "What location was the site of the first open confrontation between Voldemort and Harry?",
     "answer": "Little Hangleton Cemetery"
+  },
+  {
+    "question": "What long-term impact did Voldemort's downfall have on the Malfoy family?",
+    "answer": "Change of course"
+  },
+  {
+    "question": "What magic protects the walls of Hogwarts from external threats?",
+    "answer": "Ancient spells"
   },
   {
     "question": "What magical ability allows one to see through objects and illusions?",
@@ -830,6 +942,10 @@
   {
     "question": "What magical artifact was used to store a Horcrux in the bank?",
     "answer": "Hufflepuff's Cup"
+  },
+  {
+    "question": "What magical barrier surrounds Hogwarts?",
+    "answer": "Anti-Muggle barrier"
   },
   {
     "question": "What magical creature can temporarily disappear?",
@@ -892,6 +1008,10 @@
     "answer": "Enemy Detector"
   },
   {
+    "question": "What magical item enhances senses?",
+    "answer": "Sense Enhancer"
+  },
+  {
     "question": "What magical item enhances the owner's spells?",
     "answer": "Rod of Power"
   },
@@ -908,8 +1028,16 @@
     "answer": "Wing Amulet"
   },
   {
+    "question": "What magical item is capable of healing magical diseases?",
+    "answer": "Elixir of Health"
+  },
+  {
     "question": "What magical item is necessary for transfiguration?",
     "answer": "Wand"
+  },
+  {
+    "question": "What magical item is used for instant strategy change in the game?",
+    "answer": "Tactical Mirror"
   },
   {
     "question": "What magical item protects against magic?",
@@ -1004,6 +1132,10 @@
     "answer": "Attacking the Potters"
   },
   {
+    "question": "What moral aspects accompany the desire to possess the Deathly Hallows?",
+    "answer": "Selfishness"
+  },
+  {
     "question": "What moral dilemmas are presented in \"The Deathly Hallows\" and how do they affect the characters' choices?",
     "answer": "Ethical"
   },
@@ -1054,6 +1186,14 @@
   {
     "question": "What place became key for Voldemort during his uprising?",
     "answer": "The Forbidden Forest"
+  },
+  {
+    "question": "What place serves as a repository of ancient magical knowledge?",
+    "answer": "Alexandria"
+  },
+  {
+    "question": "What place serves as an important connection to the magical community?",
+    "answer": "Diagon Alley"
   },
   {
     "question": "What place was the secret headquarters?",
@@ -1154,6 +1294,10 @@
   {
     "question": "What rare ingredient is required for the potion that awakens icy powers?",
     "answer": "Snow Crystal"
+  },
+  {
+    "question": "What rare ingredient is used for the potion granting invisibility?",
+    "answer": "Mist Scale"
   },
   {
     "question": "What rare item was used to promote the first Harry Potter book?",
@@ -1272,6 +1416,10 @@
     "answer": "Wingardium Leviosa"
   },
   {
+    "question": "What spell allows you to reproduce a voice that only one person can hear?",
+    "answer": "Muffliato"
+  },
+  {
     "question": "What spell allows you to restore broken objects to their original state?",
     "answer": "Reparo"
   },
@@ -1290,6 +1438,10 @@
   {
     "question": "What spell can create darkness that obscures light at the tip of a wand?",
     "answer": "Darkness Descends"
+  },
+  {
+    "question": "What spell can isolate a magical artifact from external interference?",
+    "answer": "Isolium"
   },
   {
     "question": "What spell can temporarily blind an opponent in Quidditch?",
@@ -1332,6 +1484,10 @@
     "answer": "Imperius"
   },
   {
+    "question": "What spell is intended to destroy magical artifacts containing a part of a soul?",
+    "answer": "Fiendfyre Incantation"
+  },
+  {
     "question": "What spell is required to remove a magical effect?",
     "answer": "Finite Incantatem"
   },
@@ -1364,8 +1520,16 @@
     "answer": "Finite Incantatem"
   },
   {
+    "question": "What spell is used to change the state of an object?",
+    "answer": "Morphorealis"
+  },
+  {
     "question": "What spell is used to create a portal?",
     "answer": "Portus"
+  },
+  {
+    "question": "What spell is used to create a stable magical resonance in space?",
+    "answer": "Resonario"
   },
   {
     "question": "What spell is used to create a temporary magical barrier around the caster?",
@@ -1398,6 +1562,10 @@
   {
     "question": "What spell is used to create water?",
     "answer": "Aguamenti"
+  },
+  {
+    "question": "What spell is used to deflect attacks?",
+    "answer": "Protego"
   },
   {
     "question": "What spell is used to detect the presence of a human?",
@@ -1460,6 +1628,10 @@
     "answer": "Storm Spell"
   },
   {
+    "question": "What spell temporarily makes an object invisible to all forms of detection?",
+    "answer": "Obscurus"
+  },
+  {
     "question": "What spell temporarily paralyzes the target?",
     "answer": "Immobulus"
   },
@@ -1504,6 +1676,10 @@
     "answer": "Triple encirclement"
   },
   {
+    "question": "What strategic move did the Order of the Phoenix use during the assault on the Ministry of Magic?",
+    "answer": "Diversionary distraction"
+  },
+  {
     "question": "What strategic tactic did Weasley choose during the war?",
     "answer": "Covert resistance"
   },
@@ -1532,6 +1708,10 @@
     "answer": "Researching the past"
   },
   {
+    "question": "What structure conceals the entrance to the ancient magical labyrinth?",
+    "answer": "Sphinx"
+  },
+  {
     "question": "What structure serves as the center of magical learning in South America?",
     "answer": "Castillo Macondo"
   },
@@ -1558,6 +1738,14 @@
   {
     "question": "What tactic did Draco Malfoy use in the final battle?",
     "answer": "Chose neutrality"
+  },
+  {
+    "question": "What tactic did the members of the Order of the Phoenix use for disguise?",
+    "answer": "Polyjuice Potion"
+  },
+  {
+    "question": "What tactic was used in the defense of Hogwarts?",
+    "answer": "Magical barriers"
   },
   {
     "question": "What tactic was used to protect Azkaban?",
@@ -1622,6 +1810,10 @@
   {
     "question": "What type of magic requires a sacrifice?",
     "answer": "Blood magic"
+  },
+  {
+    "question": "What type of magic studies methods of manipulation and control?",
+    "answer": "Dark Arts"
   },
   {
     "question": "What type of magic uses power to control other beings?",
@@ -1692,6 +1884,10 @@
     "answer": "Immortality"
   },
   {
+    "question": "What was the Malfoys' reaction to the verdict after the war?",
+    "answer": "Avoided punishment"
+  },
+  {
     "question": "What was the Malfoys' view on blood purity in the magical community?",
     "answer": "Strict"
   },
@@ -1730,6 +1926,14 @@
   {
     "question": "What was the name of the artifact found in the dungeons of Hogwarts?",
     "answer": "Stone Basin"
+  },
+  {
+    "question": "What was the name of the forest dweller associated with Voldemort?",
+    "answer": "Nagini"
+  },
+  {
+    "question": "What was the name of the organization that opposed Voldemort?",
+    "answer": "Order of the Phoenix"
   },
   {
     "question": "What was the name of the place where Voldemort created his first base?",
@@ -1780,6 +1984,10 @@
     "answer": "Hogwarts"
   },
   {
+    "question": "Which 'Harry Potter' film is the longest?",
+    "answer": "Order of the Phoenix"
+  },
+  {
     "question": "Which Deathly Hallows artifact is central to the story of the eldest brother?",
     "answer": "Elder Wand"
   },
@@ -1816,12 +2024,24 @@
     "answer": "Bill"
   },
   {
+    "question": "Which actor insisted on changing their role?",
+    "answer": "Alan Rickman"
+  },
+  {
     "question": "Which actor played a character that was originally planned to be replaced after the first movie?",
     "answer": "Richard Harris"
   },
   {
     "question": "Which actor played adult Harry in the epilogue?",
     "answer": "Daniel Radcliffe"
+  },
+  {
+    "question": "Which actress played the role of Bellatrix Lestrange?",
+    "answer": "Helena Bonham Carter"
+  },
+  {
+    "question": "Which ally played a significant role in Voldemort's plans to take over the world?",
+    "answer": "Bellatrix Lestrange"
   },
   {
     "question": "Which animal can become invisible by changing its color at will?",
@@ -1860,12 +2080,20 @@
     "answer": "Crystal ball"
   },
   {
+    "question": "Which artifact alters the properties of the environment?",
+    "answer": "Ring of Elements"
+  },
+  {
     "question": "Which artifact can alter internal space?",
     "answer": "Bottomless Bag"
   },
   {
     "question": "Which artifact can change the climate in a stadium?",
     "answer": "Climatic Scepter"
+  },
+  {
+    "question": "Which artifact can contain a part of a wizard's soul?",
+    "answer": "Horcrux"
   },
   {
     "question": "Which artifact can control the forces of nature?",
@@ -1880,7 +2108,15 @@
     "answer": "Elixir of Restoration"
   },
   {
+    "question": "Which artifact can reveal hidden things?",
+    "answer": "Mirror of Truth"
+  },
+  {
     "question": "Which artifact did Voldemort use in an attempt to kill Harry Potter?",
+    "answer": "Elder Wand"
+  },
+  {
+    "question": "Which artifact enhances magical power?",
     "answer": "Elder Wand"
   },
   {
@@ -2008,8 +2244,16 @@
     "answer": "Battle at the Ministry"
   },
   {
+    "question": "Which book details Voldemort's childhood?",
+    "answer": "Half-Blood Prince"
+  },
+  {
     "question": "Which book from the 'Harry Potter' series was the first to top the bestseller list in the USA?",
     "answer": "The Philosopher's Stone"
+  },
+  {
+    "question": "Which building in London is associated with magic and dungeons?",
+    "answer": "The London Dungeon"
   },
   {
     "question": "Which challenge contributed to the development of leadership qualities in one of the Weasleys?",
@@ -2026,6 +2270,10 @@
   {
     "question": "Which character carried one of the Horcruxes close to the house?",
     "answer": "Harry"
+  },
+  {
+    "question": "Which character discovered that Harry Potter himself is a Horcrux?",
+    "answer": "Dumbledore"
   },
   {
     "question": "Which character from Hogwarts was the closest ally of Voldemort?",
@@ -2048,6 +2296,10 @@
     "answer": "Kingsley Shacklebolt"
   },
   {
+    "question": "Which character owned a Horcrux before it was destroyed?",
+    "answer": "Hepzibah Smith"
+  },
+  {
     "question": "Which character sought immortality through alchemy?",
     "answer": "Nicolas Flamel"
   },
@@ -2058,6 +2310,10 @@
   {
     "question": "Which coach led the British team to victory in the 1954 Quidditch World Cup?",
     "answer": "Joseph Wainwright"
+  },
+  {
+    "question": "Which component enhances the effect of a mind-controlling potion?",
+    "answer": "Sand of Time"
   },
   {
     "question": "Which component enhances the effect of a potion that causes illusions?",
@@ -2082,6 +2338,10 @@
   {
     "question": "Which creature can create illusions?",
     "answer": "Veela"
+  },
+  {
+    "question": "Which creature can leave invisible tracks?",
+    "answer": "Thestral"
   },
   {
     "question": "Which creature can manipulate time?",
@@ -2120,8 +2380,16 @@
     "answer": "Dragon"
   },
   {
+    "question": "Which creature was completely cut from the film?",
+    "answer": "Fleur"
+  },
+  {
     "question": "Which creatures are known for guarding magical treasures?",
     "answer": "Dwarves"
+  },
+  {
+    "question": "Which creatures are known for their aggressiveness and love for gold?",
+    "answer": "Dragons"
   },
   {
     "question": "Which creatures have the ability to become invisible?",
@@ -2208,6 +2476,10 @@
     "answer": "Blessen Forest"
   },
   {
+    "question": "Which forest is home to characters from fairy tales?",
+    "answer": "Forbidden Forest"
+  },
+  {
     "question": "Which founder of Hogwarts owned a unique hat?",
     "answer": "Godric Gryffindor"
   },
@@ -2234,6 +2506,10 @@
   {
     "question": "Which group of students is associated with the crest featuring a snake?",
     "answer": "Slytherin"
+  },
+  {
+    "question": "Which herb is used to accelerate hair growth in potion-making?",
+    "answer": "Spiky Burdock"
   },
   {
     "question": "Which herb is used to make a potion that provides clarity of mind?",
@@ -2272,8 +2548,16 @@
     "answer": "Ravenclaw"
   },
   {
+    "question": "Which house values loyalty and patience?",
+    "answer": "Hufflepuff"
+  },
+  {
     "question": "Which house was founded by a wizard who values hard work?",
     "answer": "Hufflepuff"
+  },
+  {
+    "question": "Which ingredient enhances the effect of a storm-inducing potion?",
+    "answer": "Dragon wing"
   },
   {
     "question": "Which ingredient enhances the regeneration potion?",
@@ -2294,6 +2578,10 @@
   {
     "question": "Which institute is known for its research on magical creatures?",
     "answer": "Greenwich"
+  },
+  {
+    "question": "Which institution is engaged in the study of mystical phenomena?",
+    "answer": "Center of Enigmas"
   },
   {
     "question": "Which institution offers training in ancient spells?",
@@ -2324,6 +2612,10 @@
     "answer": "Amulet"
   },
   {
+    "question": "Which key character was changed in the films on the advice of the creators?",
+    "answer": "Professor Flitwick"
+  },
+  {
     "question": "Which lake hides the secrets of ancient spirits?",
     "answer": "Lake Selena"
   },
@@ -2348,6 +2640,10 @@
     "answer": "Thestral"
   },
   {
+    "question": "Which magical creature cries pearl tears?",
+    "answer": "Hippocampus"
+  },
+  {
     "question": "Which magical creature has the ability to talk to humans?",
     "answer": "Phoenix"
   },
@@ -2364,6 +2660,10 @@
     "answer": "Horcrux"
   },
   {
+    "question": "Which magical institute is known for its research on time magic?",
+    "answer": "Chronoscope"
+  },
+  {
     "question": "Which magical item in sports can cause chaos if not controlled?",
     "answer": "Bludger"
   },
@@ -2374,6 +2674,10 @@
   {
     "question": "Which magical practice is considered the most dangerous?",
     "answer": "Creating Horcruxes"
+  },
+  {
+    "question": "Which magical society is dedicated to the search and study of ancient spells?",
+    "answer": "Society of Archaists"
   },
   {
     "question": "Which member of the Weasley family excelled in studying magical creatures in Romania?",
@@ -2404,8 +2708,16 @@
     "answer": "Niffler"
   },
   {
+    "question": "Which mythical creature can use its horn for healing?",
+    "answer": "Unicorn"
+  },
+  {
     "question": "Which mythical creature guards secrets?",
     "answer": "Phoenix"
+  },
+  {
+    "question": "Which mythical creature has the ability of telepathy?",
+    "answer": "Centaur"
   },
   {
     "question": "Which mythical creature is associated with prophecies?",
@@ -2418,6 +2730,10 @@
   {
     "question": "Which mythical creature is responsible for creating the rainbow?",
     "answer": "Iris"
+  },
+  {
+    "question": "Which object in Quidditch gives additional points when caught?",
+    "answer": "Snitch"
   },
   {
     "question": "Which of the Deathly Hallows allows one to master death?",
@@ -2464,6 +2780,10 @@
     "answer": "Invisibility Cloak"
   },
   {
+    "question": "Which of the famous professors was the head of the house known for honesty and hard work?",
+    "answer": "Sprout"
+  },
+  {
     "question": "Which of the founders of Hogwarts was known for their loyalty?",
     "answer": "Helga Hufflepuff"
   },
@@ -2486,6 +2806,10 @@
   {
     "question": "Which place is famous for its magical dueling clubs?",
     "answer": "Paris"
+  },
+  {
+    "question": "Which place is famous for storing ancient magical relics?",
+    "answer": "Grimoire Caves"
   },
   {
     "question": "Which place is known for its magical portal gates?",
@@ -2534,6 +2858,10 @@
   {
     "question": "Which professor is known for creating the potion 'Felix Felicis'?",
     "answer": "Horace Slughorn"
+  },
+  {
+    "question": "Which professor specializes in the care of magical creatures?",
+    "answer": "Hagrid"
   },
   {
     "question": "Which professor taught Astronomy at Hogwarts?",
@@ -2596,12 +2924,24 @@
     "answer": "Harry and Hermione's dance"
   },
   {
+    "question": "Which scene was added to the movie due to fan popularity?",
+    "answer": "The Yule Ball at Hogwarts"
+  },
+  {
     "question": "Which secret order is responsible for protecting ancient magical knowledge?",
     "answer": "Keepers of the Arcane"
   },
   {
     "question": "Which shop sells owls and supplies?",
     "answer": "Eeylops Owl Emporium"
+  },
+  {
+    "question": "Which society studies the connection between Muggles and wizards?",
+    "answer": "Responsible Researchers"
+  },
+  {
+    "question": "Which spell allows the absorption of magical energy?",
+    "answer": "Absorbius"
   },
   {
     "question": "Which spell allows you to create temporary duplicates of objects?",
@@ -2668,6 +3008,14 @@
     "answer": "Fred and George"
   },
   {
+    "question": "Which sport is held on floating islands?",
+    "answer": "Flying races"
+  },
+  {
+    "question": "Which stone can bring back to life?",
+    "answer": "Resurrection Stone"
+  },
+  {
     "question": "Which strategy failed due to betrayal?",
     "answer": "Encirclement ring"
   },
@@ -2732,6 +3080,10 @@
     "answer": "Pole vaulting"
   },
   {
+    "question": "Which type of dragon is known for its fiery breath?",
+    "answer": "Hungarian Horntail"
+  },
+  {
     "question": "Which village is the only fully magical one in Britain?",
     "answer": "Hogsmeade"
   },
@@ -2780,6 +3132,10 @@
     "answer": "Arthur Weasley"
   },
   {
+    "question": "Who guards the Philosopher's Stone?",
+    "answer": "Fluffy"
+  },
+  {
     "question": "Who guards the hoops from a thrown Quaffle?",
     "answer": "Keeper"
   },
@@ -2790,6 +3146,10 @@
   {
     "question": "Who helped Harry defeat Draco in a duel?",
     "answer": "Hermione Granger"
+  },
+  {
+    "question": "Who illustrated the first editions?",
+    "answer": "Thomas Taylor"
   },
   {
     "question": "Who is in charge of the Flying Powder?",
@@ -2910,6 +3270,10 @@
   {
     "question": "Who was known for their unconventional teaching methods?",
     "answer": "Gilderoy Lockhart"
+  },
+  {
+    "question": "Who was responsible for security at the Order of the Phoenix headquarters?",
+    "answer": "Alastor Moody"
   },
   {
     "question": "Who was the Defense Against the Dark Arts teacher in Harry Potter's third year?",
