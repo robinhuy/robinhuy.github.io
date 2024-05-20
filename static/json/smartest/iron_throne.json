@@ -532,6 +532,10 @@
     "answer": "Financial pressure"
   },
   {
+    "question": "How did the Lannisters use their wealth to consolidate power?",
+    "answer": "Buying allies"
+  },
+  {
     "question": "How did the Lannisters usually achieve their goals?",
     "answer": "Manipulations"
   },
@@ -696,6 +700,10 @@
     "answer": "Intrigue"
   },
   {
+    "question": "How does magic affect textile production in Essos?",
+    "answer": "Enhancement of production"
+  },
+  {
     "question": "How does power change within the Ironborn family during crises?",
     "answer": "Destabilization"
   },
@@ -734,6 +742,10 @@
   {
     "question": "How is Jon related to the Targaryens?",
     "answer": "By blood"
+  },
+  {
+    "question": "How is the Iron Throne perceived by neighboring states?",
+    "answer": "Symbol of stability"
   },
   {
     "question": "How is the loyalty of the knights of the Royal Guard assessed?",
@@ -834,6 +846,10 @@
   {
     "question": "What actions did Rickard Karstark take to change the outcome of the Battle of the Stone Sept?",
     "answer": "Betrayal"
+  },
+  {
+    "question": "What actions did the Lannisters take against their enemies?",
+    "answer": "Discreditation"
   },
   {
     "question": "What actions of Jon Snow led to success in the battle in the North?",
@@ -1236,6 +1252,10 @@
     "answer": "Alliance with the Tyrells"
   },
   {
+    "question": "What distinguished the Battle at the Tower of Joy?",
+    "answer": "Unexpected ally"
+  },
+  {
     "question": "What do the Ironborn call all the lands they conquer?",
     "answer": "Salt lands"
   },
@@ -1246,6 +1266,10 @@
   {
     "question": "What does Tyrion value in life?",
     "answer": "Freedom"
+  },
+  {
+    "question": "What does the Iron Throne symbolize in the culture of Westeros?",
+    "answer": "Absolute power"
   },
   {
     "question": "What does the motto 'Unbowed, Unbent, Unbroken' symbolize?",
@@ -1322,6 +1346,10 @@
   {
     "question": "What event changed the composition of the Kingsguard after the death of Robert Baratheon?",
     "answer": "Conquest of the Red Keep"
+  },
+  {
+    "question": "What event changed the course of John's life in Westeros?",
+    "answer": "Wedding"
   },
   {
     "question": "What event changed the traditions of the Ironborn?",
@@ -1930,6 +1958,10 @@
   {
     "question": "What is one implicit political consequence of Balon's defeat?",
     "answer": "Weakening of power"
+  },
+  {
+    "question": "What is one tactic that helped the Ironborn in their struggle for influence?",
+    "answer": "Sea raids"
   },
   {
     "question": "What is one tradition of the Ironborn that shapes their seafaring culture?",
@@ -2676,6 +2708,14 @@
     "answer": "Unconditional loyalty"
   },
   {
+    "question": "What process defines the training of a maester?",
+    "answer": "Chain forging"
+  },
+  {
+    "question": "What promise is made when joining the guard?",
+    "answer": "Loyalty"
+  },
+  {
     "question": "What prompted Arya to go to Braavos?",
     "answer": "Search for knowledge"
   },
@@ -3056,6 +3096,10 @@
     "answer": "Endurance"
   },
   {
+    "question": "What skill do maesters develop to assist lords?",
+    "answer": "Advising"
+  },
+  {
     "question": "What skill do you need to master to create healing potions?",
     "answer": "Alchemy"
   },
@@ -3102,6 +3146,10 @@
   {
     "question": "What social structure determines power among the Ironborn?",
     "answer": "Military hierarchy"
+  },
+  {
+    "question": "What special ritual does the heir of Pyke undergo after inheritance?",
+    "answer": "Water baptism"
   },
   {
     "question": "What spell was used for sealing trade agreements in Valyria?",
@@ -3340,6 +3388,10 @@
     "answer": "Expedition beyond the Wall"
   },
   {
+    "question": "What strategy did Jon use at the Wall to defend against the wildlings?",
+    "answer": "Fortifying the walls"
+  },
+  {
     "question": "What strategy did Jon use in the battle with the White Walkers?",
     "answer": "Ice trap"
   },
@@ -3382,6 +3434,10 @@
   {
     "question": "What strategy did the Targaryens use to consolidate power?",
     "answer": "Dragons in battles"
+  },
+  {
+    "question": "What strategy do the Ironborn use to maintain their independence?",
+    "answer": "naval power"
   },
   {
     "question": "What strategy do the Starks use to defend their lands?",
@@ -3584,6 +3640,10 @@
     "answer": "Feigned retreat"
   },
   {
+    "question": "What tactical element was used in the Battle of the Green Field?",
+    "answer": "Cavalry"
+  },
+  {
     "question": "What tactical maneuver did Euron Greyjoy use at sea?",
     "answer": "Ramming"
   },
@@ -3686,6 +3746,10 @@
   {
     "question": "What training method was used at the House of Black and White for Arya?",
     "answer": "Blindness training"
+  },
+  {
+    "question": "What trait allowed Arya to adapt to changing circumstances?",
+    "answer": "Flexibility"
   },
   {
     "question": "What trait allowed Jon to stand against the Night King?",
@@ -3856,6 +3920,10 @@
     "answer": "White Wolf"
   },
   {
+    "question": "What was Jon Snow's plan in the battle against the Dead?",
+    "answer": "Retreat to the south"
+  },
+  {
     "question": "What was Tyrion Lannister's relationship with his family?",
     "answer": "Complicated"
   },
@@ -3948,6 +4016,10 @@
     "answer": "Liberation of the slaves"
   },
   {
+    "question": "What was the key factor that ensured success in the Battle of the True Gates?",
+    "answer": "Dragon fire"
+  },
+  {
     "question": "What was the key moment in the Battle of the Blackwater?",
     "answer": "Wildfire"
   },
@@ -3962,6 +4034,10 @@
   {
     "question": "What was the main goal of the Lannisters' intrigues?",
     "answer": "Power"
+  },
+  {
+    "question": "What was the main method used by the Lannisters to maintain influence in King's Landing?",
+    "answer": "political manipulation"
   },
   {
     "question": "What was the main motivation for the rebellion against King Aerys II?",
@@ -4228,6 +4304,10 @@
     "answer": "Struggle for power"
   },
   {
+    "question": "What were the main threats to the stability of the rule on the Iron Throne?",
+    "answer": "Rebellions"
+  },
+  {
     "question": "What were the reasons for the alliance between the Starks and the Tullys?",
     "answer": "Strengthening power"
   },
@@ -4382,6 +4462,10 @@
   {
     "question": "Which animal is associated with a maester?",
     "answer": "Owl"
+  },
+  {
+    "question": "Which animal is often depicted on Valyrian amulets?",
+    "answer": "Dragon"
   },
   {
     "question": "Which animal often appears in dreams as a symbol of strength?",
@@ -5360,6 +5444,10 @@
     "answer": "Windy hills"
   },
   {
+    "question": "Which language is the most difficult to learn at the Citadel?",
+    "answer": "High Valyrian"
+  },
+  {
     "question": "Which leader commanded the army of the dead in the battle against the living?",
     "answer": "The Night King"
   },
@@ -5426,6 +5514,10 @@
   {
     "question": "Which maester was Jon Snow's mentor?",
     "answer": "Maester Aemon"
+  },
+  {
+    "question": "Which maester wrote the treatise on the Long Night?",
+    "answer": "Maester Aelur"
   },
   {
     "question": "Which magical artifact is associated with visions?",
@@ -5708,6 +5800,10 @@
     "answer": "Stone"
   },
   {
+    "question": "Which river flows through the lands of House Tully?",
+    "answer": "Trident"
+  },
+  {
     "question": "Which river flows through the lands of the Starks?",
     "answer": "White Knife"
   },
@@ -5750,6 +5846,10 @@
   {
     "question": "Which statement describes the fall of great houses?",
     "answer": "Winter is coming"
+  },
+  {
+    "question": "Which strategic alliance allowed the Lannisters to strengthen their position?",
+    "answer": "Marriage with the Tyrells"
   },
   {
     "question": "Which strategic alliance helped the Lannisters gain the Iron Throne?",
@@ -5994,6 +6094,10 @@
   {
     "question": "Who commanded the opposing forces in the Battle of Lannisport?",
     "answer": "Bronn"
+  },
+  {
+    "question": "Who decided to marry off Joffrey to strengthen the alliance?",
+    "answer": "Tywin Lannister"
   },
   {
     "question": "Who defended King Joffrey at the Battle of the Blackwater?",
@@ -6292,6 +6396,10 @@
     "answer": "Walder Frey"
   },
   {
+    "question": "Who oversees the training at the Citadel?",
+    "answer": "Archmaesters"
+  },
+  {
     "question": "Who owned the dragon named Meraxes?",
     "answer": "Visenya"
   },
@@ -6326,6 +6434,10 @@
   {
     "question": "Who predicted the death of Joffrey Baratheon?",
     "answer": "Maggy the Frog"
+  },
+  {
+    "question": "Who predicted the return of Azor Ahai?",
+    "answer": "Melisandre"
   },
   {
     "question": "Who proposed an alliance to Jon Snow in the fight against the Boltons?",
@@ -6430,6 +6542,10 @@
   {
     "question": "Who was Jon's first enemy in the Night's Watch?",
     "answer": "Alliser Thorne"
+  },
+  {
+    "question": "Who was Sam Tarly's mentor in his maester training?",
+    "answer": "Ebrose"
   },
   {
     "question": "Who was Sansa Stark originally betrothed to?",
@@ -6588,6 +6704,10 @@
     "answer": "Lannisters"
   },
   {
+    "question": "Who won the Battle of the Redgrass Field?",
+    "answer": "Targaryens"
+  },
+  {
     "question": "Whom did Jon Arryn choose to marry Lysa Tully?",
     "answer": "Himself"
   },
@@ -6690,5 +6810,9 @@
   {
     "question": "With whom did Jon form an alliance in the North?",
     "answer": "Baratheons"
+  },
+  {
+    "question": "With whom did Tyrion Lannister form an alliance for his survival?",
+    "answer": "Varys"
   }
 ]

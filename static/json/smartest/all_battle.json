@@ -12272,6 +12272,10 @@
         "answer": "Clonal expansion"
     },
     {
+        "question": "How are immune cells classified by function?",
+        "answer": "Effector"
+    },
+    {
         "question": "How do Toll-like receptors function?",
         "answer": "recognize pathogens"
     },
@@ -12400,6 +12404,10 @@
         "answer": "Laser therapy"
     },
     {
+        "question": "What are the consequences of changing sleep patterns for metabolism?",
+        "answer": "Changes in glucose"
+    },
+    {
         "question": "What are the effects of interferons?",
         "answer": "Antiviral action"
     },
@@ -12410,6 +12418,10 @@
     {
         "question": "What are the long-term consequences of chronic sleep deprivation?",
         "answer": "Increased risk of diseases"
+    },
+    {
+        "question": "What are the main effects of hyperparathyroidism?",
+        "answer": "increased calcium in the blood"
     },
     {
         "question": "What are the main signaling molecules of the immune system?",
@@ -12458,6 +12470,10 @@
     {
         "question": "What biomechanical characteristics are considered when performing strength exercises?",
         "answer": "Joint mobility"
+    },
+    {
+        "question": "What can be a primary factor in the development of paranoid personality disorder?",
+        "answer": "Genetic predisposition"
     },
     {
         "question": "What can random mutations lead to?",
@@ -12624,6 +12640,10 @@
         "answer": "Impairment"
     },
     {
+        "question": "What effect does excessive fructose consumption have on the liver?",
+        "answer": "Fatty liver disease"
+    },
+    {
         "question": "What effect does inflammation have on the endocardium of the heart?",
         "answer": "endocarditis"
     },
@@ -12744,6 +12764,10 @@
         "answer": "Endothelial mutations"
     },
     {
+        "question": "What happens during respiratory acidosis?",
+        "answer": "Accumulation of CO2"
+    },
+    {
         "question": "What happens to hormone secretion during deep sleep?",
         "answer": "Increases"
     },
@@ -12770,6 +12794,10 @@
     {
         "question": "What hormonal imbalance is associated with Addison's disease?",
         "answer": "Lack of cortisol"
+    },
+    {
+        "question": "What hormonal imbalance is associated with Cushing's syndrome?",
+        "answer": "Increased cortisol"
     },
     {
         "question": "What hormonal imbalance is associated with weight gain and skin hyperpigmentation?",
@@ -12834,6 +12862,10 @@
     {
         "question": "What is the externalization of problems in therapy?",
         "answer": "Projection outward"
+    },
+    {
+        "question": "What is the function of endothelin?",
+        "answer": "Constricts blood vessels"
     },
     {
         "question": "What is the function of the hormone leptin?",
@@ -12994,6 +13026,10 @@
     {
         "question": "What is the role of osteoclasts in the skeletal system?",
         "answer": "Resorption"
+    },
+    {
+        "question": "What is the role of osteocytes in bone tissue?",
+        "answer": "Metabolism"
     },
     {
         "question": "What is the role of short-chain fatty acids in the gut?",
@@ -13328,6 +13364,10 @@
         "answer": "Atrial fibrillation"
     },
     {
+        "question": "What type of bond forms immune memory?",
+        "answer": "Affinity"
+    },
+    {
         "question": "What type of cells produce mucous secretion in the respiratory tract?",
         "answer": "Goblet cells"
     },
@@ -13382,6 +13422,10 @@
     {
         "question": "Which biochemical marker reflects the level of muscle fatigue?",
         "answer": "Lactate"
+    },
+    {
+        "question": "Which biochemical markers can increase with myocardial injury?",
+        "answer": "Troponins"
     },
     {
         "question": "Which biologically active substances are synthesized simultaneously with cortisol in the adrenal glands?",
@@ -13584,6 +13628,10 @@
         "answer": "Coronary artery stenosis"
     },
     {
+        "question": "Which heart receptors are sensitive to changes in blood pressure?",
+        "answer": "Baroreceptors"
+    },
+    {
         "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
         "answer": "Marfan"
     },
@@ -13612,8 +13660,16 @@
         "answer": "Estrogen"
     },
     {
+        "question": "Which hormone promotes the relaxation of smooth muscle cells in the bronchi?",
+        "answer": "Adrenaline"
+    },
+    {
         "question": "Which hormone regulates phosphate levels?",
         "answer": "Parathyroid hormone"
+    },
+    {
+        "question": "Which hormone stimulates the production of glucocorticoids?",
+        "answer": "ACTH"
     },
     {
         "question": "Which hormones are regulated through the hypothalamic-pituitary-adrenal axis?",
@@ -13684,6 +13740,10 @@
         "answer": "Glucocorticoids"
     },
     {
+        "question": "Which medications can be used to control heart rate?",
+        "answer": "Beta-blockers"
+    },
+    {
         "question": "Which metabolite of vitamin B6 is the active form?",
         "answer": "Pyridoxal phosphate"
     },
@@ -13746,6 +13806,10 @@
     {
         "question": "Which molecules detect and bind pathogens?",
         "answer": "Antibodies"
+    },
+    {
+        "question": "Which molecules present antigens on the surface of cells?",
+        "answer": "MHC"
     },
     {
         "question": "Which molecules present antigens to T-lymphocytes?",
@@ -13892,6 +13956,10 @@
         "answer": "Interferon"
     },
     {
+        "question": "Which structure is involved in antigen presentation?",
+        "answer": "MHC"
+    },
+    {
         "question": "Which structure is involved in transmitting signaling information between cells?",
         "answer": "Cytokines"
     },
@@ -13960,8 +14028,16 @@
         "answer": "Zinc gluconate"
     },
     {
+        "question": "Which supplement helps with irritable bowel syndrome?",
+        "answer": "Probiotics"
+    },
+    {
         "question": "Which supplement improves methylation in the body?",
         "answer": "Methylfolate"
+    },
+    {
+        "question": "Which supplement is involved in methylation?",
+        "answer": "Vitamin B12"
     },
     {
         "question": "Which supplement is used to enhance the activity of superoxide dismutase?",
@@ -14078,6 +14154,10 @@
     {
         "question": "Which vitamin is known for its role in the synthesis of glutathione, a major antioxidant in cells?",
         "answer": "Vitamin B2"
+    },
+    {
+        "question": "Which vitamin is necessary for the synthesis of carnitine?",
+        "answer": "Ascorbic acid"
     },
     {
         "question": "Which vitamin is necessary for the synthesis of neurotransmitters?",
@@ -37311,6 +37391,10 @@
         "answer": "Reducing hash rate"
     },
     {
+        "question": "How will augmented reality change the use of tourist maps?",
+        "answer": "Adding interactivity"
+    },
+    {
         "question": "In what year was Dolly the sheep cloned?",
         "answer": "1996"
     },
@@ -37611,6 +37695,10 @@
         "answer": "Security"
     },
     {
+        "question": "What function does a genetic vector perform?",
+        "answer": "Transfers genes"
+    },
+    {
         "question": "What function is needed to prevent material leakage when the print head moves?",
         "answer": "Retraction"
     },
@@ -37721,6 +37809,10 @@
     {
         "question": "What is Terraform?",
         "answer": "Infrastructure as Code"
+    },
+    {
+        "question": "What is a DAO?",
+        "answer": "Decentralized Autonomous Organization"
     },
     {
         "question": "What is a GAN?",
@@ -38035,6 +38127,10 @@
         "answer": "ESD System"
     },
     {
+        "question": "What is the name of the first quantum network?",
+        "answer": "Quantum Internet"
+    },
+    {
         "question": "What is the name of the generative model that represents some data in terms of others, such as images in the style of text?",
         "answer": "VAE"
     },
@@ -38165,6 +38261,10 @@
     {
         "question": "What is the process of composting called?",
         "answer": "Aerobic decomposition"
+    },
+    {
+        "question": "What is the process of converting an analog signal into a digital one called?",
+        "answer": "Sampling"
     },
     {
         "question": "What is the process of creating thin films called?",
@@ -38299,6 +38399,10 @@
         "answer": "Gyroscopes"
     },
     {
+        "question": "What is used to increase the efficiency of solar panels?",
+        "answer": "Trackers"
+    },
+    {
         "question": "What is used to optimize neural networks?",
         "answer": "Gradient descent"
     },
@@ -38357,6 +38461,10 @@
     {
         "question": "What method can be used to introduce genes into a cell?",
         "answer": "Electroporation"
+    },
+    {
+        "question": "What method is often used for applying thin layers in the nanometer range?",
+        "answer": "ALD (Atomic Layer Deposition)"
     },
     {
         "question": "What method is used for gene sequencing?",
@@ -38563,8 +38671,16 @@
         "answer": "Life support system"
     },
     {
+        "question": "What technique allows for editing DNA?",
+        "answer": "CRISPR"
+    },
+    {
         "question": "What technique is used for gene therapy?",
         "answer": "Viral vectors"
+    },
+    {
+        "question": "What technique is used for intercepting data?",
+        "answer": "Sniffing"
     },
     {
         "question": "What technique is used for monitoring the fermentation process?",
@@ -38593,6 +38709,10 @@
     {
         "question": "What technology allows a robot to see?",
         "answer": "Computer vision"
+    },
+    {
+        "question": "What technology allows multiple robots to work together?",
+        "answer": "Swarm"
     },
     {
         "question": "What technology allows the accumulation of energy from solar panels?",
@@ -38657,6 +38777,10 @@
     {
         "question": "What technology is used to create thrust in space?",
         "answer": "Ion engine"
+    },
+    {
+        "question": "What technology is used to launch small satellites from a large satellite?",
+        "answer": "Cubesat"
     },
     {
         "question": "What technology provides the power of a quantum computer?",
@@ -38751,12 +38875,28 @@
         "answer": "Sega VR"
     },
     {
+        "question": "When was the first genetic modification of a human performed?",
+        "answer": "2018"
+    },
+    {
         "question": "Where are gold nanoparticles used?",
         "answer": "In medicine"
     },
     {
         "question": "Where is the largest solar power plant located?",
         "answer": "India"
+    },
+    {
+        "question": "Which algorithm is often used for big data analysis?",
+        "answer": "RGBoost"
+    },
+    {
+        "question": "Which algorithm speeds up database search on a quantum computer?",
+        "answer": "Grover"
+    },
+    {
+        "question": "Which area of AI is involved in creating games?",
+        "answer": "Reinforcement Learning"
     },
     {
         "question": "Which companies collaborate in the field of VR content?",
@@ -38895,6 +39035,10 @@
         "answer": "Schrödinger's equation"
     },
     {
+        "question": "Which farming method reduces the use of chemicals?",
+        "answer": "Organic farming"
+    },
+    {
         "question": "Which field studies the application of nanoparticles in medicine?",
         "answer": "Nanobiomedicine"
     },
@@ -39011,8 +39155,16 @@
         "answer": "ISO"
     },
     {
+        "question": "Which parameter determines the internal structure of the model?",
+        "answer": "Infill"
+    },
+    {
         "question": "Which parameter of a 3D printer determines the amount of material extruded over a certain period of time?",
         "answer": "Flow"
+    },
+    {
+        "question": "Which plant is often used for biofuel production?",
+        "answer": "Corn"
     },
     {
         "question": "Which plant uses the Earth's heat?",
@@ -39025,6 +39177,10 @@
     {
         "question": "Which plants are used for studying genetics?",
         "answer": "Arabidopsis"
+    },
+    {
+        "question": "Which printer setting affects the internal structure of the printed item?",
+        "answer": "Infill"
     },
     {
         "question": "Which printers use metal powders for printing?",
@@ -39045,6 +39201,10 @@
     {
         "question": "Which proteins are involved in the body's immune response?",
         "answer": "Antibodies"
+    },
+    {
+        "question": "Which proteins are used for DNA editing?",
+        "answer": "Nucleases"
     },
     {
         "question": "Which protocol is used for real-time data transmission?",
@@ -39139,6 +39299,10 @@
         "answer": "ADAS"
     },
     {
+        "question": "Which technology is most effective for air purification on an industrial scale?",
+        "answer": "Electrostatic filter"
+    },
+    {
         "question": "Which technology is often used for storing data in a temporary table?",
         "answer": "Redis"
     },
@@ -39165,6 +39329,10 @@
     {
         "question": "Which virtual reality (VR) game is based on shooting mechanics?",
         "answer": "Superhot VR"
+    },
+    {
+        "question": "Which virus is most commonly used for gene therapy?",
+        "answer": "Adenovirus"
     },
     {
         "question": "Which waste processing method reduces the amount of waste?",

@@ -72,6 +72,10 @@
     "answer": "Reducing hash rate"
   },
   {
+    "question": "How will augmented reality change the use of tourist maps?",
+    "answer": "Adding interactivity"
+  },
+  {
     "question": "In what year was Dolly the sheep cloned?",
     "answer": "1996"
   },
@@ -372,6 +376,10 @@
     "answer": "Security"
   },
   {
+    "question": "What function does a genetic vector perform?",
+    "answer": "Transfers genes"
+  },
+  {
     "question": "What function is needed to prevent material leakage when the print head moves?",
     "answer": "Retraction"
   },
@@ -482,6 +490,10 @@
   {
     "question": "What is Terraform?",
     "answer": "Infrastructure as Code"
+  },
+  {
+    "question": "What is a DAO?",
+    "answer": "Decentralized Autonomous Organization"
   },
   {
     "question": "What is a GAN?",
@@ -796,6 +808,10 @@
     "answer": "ESD System"
   },
   {
+    "question": "What is the name of the first quantum network?",
+    "answer": "Quantum Internet"
+  },
+  {
     "question": "What is the name of the generative model that represents some data in terms of others, such as images in the style of text?",
     "answer": "VAE"
   },
@@ -926,6 +942,10 @@
   {
     "question": "What is the process of composting called?",
     "answer": "Aerobic decomposition"
+  },
+  {
+    "question": "What is the process of converting an analog signal into a digital one called?",
+    "answer": "Sampling"
   },
   {
     "question": "What is the process of creating thin films called?",
@@ -1060,6 +1080,10 @@
     "answer": "Gyroscopes"
   },
   {
+    "question": "What is used to increase the efficiency of solar panels?",
+    "answer": "Trackers"
+  },
+  {
     "question": "What is used to optimize neural networks?",
     "answer": "Gradient descent"
   },
@@ -1118,6 +1142,10 @@
   {
     "question": "What method can be used to introduce genes into a cell?",
     "answer": "Electroporation"
+  },
+  {
+    "question": "What method is often used for applying thin layers in the nanometer range?",
+    "answer": "ALD (Atomic Layer Deposition)"
   },
   {
     "question": "What method is used for gene sequencing?",
@@ -1324,8 +1352,16 @@
     "answer": "Life support system"
   },
   {
+    "question": "What technique allows for editing DNA?",
+    "answer": "CRISPR"
+  },
+  {
     "question": "What technique is used for gene therapy?",
     "answer": "Viral vectors"
+  },
+  {
+    "question": "What technique is used for intercepting data?",
+    "answer": "Sniffing"
   },
   {
     "question": "What technique is used for monitoring the fermentation process?",
@@ -1354,6 +1390,10 @@
   {
     "question": "What technology allows a robot to see?",
     "answer": "Computer vision"
+  },
+  {
+    "question": "What technology allows multiple robots to work together?",
+    "answer": "Swarm"
   },
   {
     "question": "What technology allows the accumulation of energy from solar panels?",
@@ -1418,6 +1458,10 @@
   {
     "question": "What technology is used to create thrust in space?",
     "answer": "Ion engine"
+  },
+  {
+    "question": "What technology is used to launch small satellites from a large satellite?",
+    "answer": "Cubesat"
   },
   {
     "question": "What technology provides the power of a quantum computer?",
@@ -1512,12 +1556,28 @@
     "answer": "Sega VR"
   },
   {
+    "question": "When was the first genetic modification of a human performed?",
+    "answer": "2018"
+  },
+  {
     "question": "Where are gold nanoparticles used?",
     "answer": "In medicine"
   },
   {
     "question": "Where is the largest solar power plant located?",
     "answer": "India"
+  },
+  {
+    "question": "Which algorithm is often used for big data analysis?",
+    "answer": "RGBoost"
+  },
+  {
+    "question": "Which algorithm speeds up database search on a quantum computer?",
+    "answer": "Grover"
+  },
+  {
+    "question": "Which area of AI is involved in creating games?",
+    "answer": "Reinforcement Learning"
   },
   {
     "question": "Which companies collaborate in the field of VR content?",
@@ -1656,6 +1716,10 @@
     "answer": "Schrödinger's equation"
   },
   {
+    "question": "Which farming method reduces the use of chemicals?",
+    "answer": "Organic farming"
+  },
+  {
     "question": "Which field studies the application of nanoparticles in medicine?",
     "answer": "Nanobiomedicine"
   },
@@ -1772,8 +1836,16 @@
     "answer": "ISO"
   },
   {
+    "question": "Which parameter determines the internal structure of the model?",
+    "answer": "Infill"
+  },
+  {
     "question": "Which parameter of a 3D printer determines the amount of material extruded over a certain period of time?",
     "answer": "Flow"
+  },
+  {
+    "question": "Which plant is often used for biofuel production?",
+    "answer": "Corn"
   },
   {
     "question": "Which plant uses the Earth's heat?",
@@ -1786,6 +1858,10 @@
   {
     "question": "Which plants are used for studying genetics?",
     "answer": "Arabidopsis"
+  },
+  {
+    "question": "Which printer setting affects the internal structure of the printed item?",
+    "answer": "Infill"
   },
   {
     "question": "Which printers use metal powders for printing?",
@@ -1806,6 +1882,10 @@
   {
     "question": "Which proteins are involved in the body's immune response?",
     "answer": "Antibodies"
+  },
+  {
+    "question": "Which proteins are used for DNA editing?",
+    "answer": "Nucleases"
   },
   {
     "question": "Which protocol is used for real-time data transmission?",
@@ -1900,6 +1980,10 @@
     "answer": "ADAS"
   },
   {
+    "question": "Which technology is most effective for air purification on an industrial scale?",
+    "answer": "Electrostatic filter"
+  },
+  {
     "question": "Which technology is often used for storing data in a temporary table?",
     "answer": "Redis"
   },
@@ -1926,6 +2010,10 @@
   {
     "question": "Which virtual reality (VR) game is based on shooting mechanics?",
     "answer": "Superhot VR"
+  },
+  {
+    "question": "Which virus is most commonly used for gene therapy?",
+    "answer": "Adenovirus"
   },
   {
     "question": "Which waste processing method reduces the amount of waste?",

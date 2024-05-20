@@ -4,6 +4,10 @@
     "answer": "Clonal expansion"
   },
   {
+    "question": "How are immune cells classified by function?",
+    "answer": "Effector"
+  },
+  {
     "question": "How do Toll-like receptors function?",
     "answer": "recognize pathogens"
   },
@@ -132,6 +136,10 @@
     "answer": "Laser therapy"
   },
   {
+    "question": "What are the consequences of changing sleep patterns for metabolism?",
+    "answer": "Changes in glucose"
+  },
+  {
     "question": "What are the effects of interferons?",
     "answer": "Antiviral action"
   },
@@ -142,6 +150,10 @@
   {
     "question": "What are the long-term consequences of chronic sleep deprivation?",
     "answer": "Increased risk of diseases"
+  },
+  {
+    "question": "What are the main effects of hyperparathyroidism?",
+    "answer": "increased calcium in the blood"
   },
   {
     "question": "What are the main signaling molecules of the immune system?",
@@ -190,6 +202,10 @@
   {
     "question": "What biomechanical characteristics are considered when performing strength exercises?",
     "answer": "Joint mobility"
+  },
+  {
+    "question": "What can be a primary factor in the development of paranoid personality disorder?",
+    "answer": "Genetic predisposition"
   },
   {
     "question": "What can random mutations lead to?",
@@ -356,6 +372,10 @@
     "answer": "Impairment"
   },
   {
+    "question": "What effect does excessive fructose consumption have on the liver?",
+    "answer": "Fatty liver disease"
+  },
+  {
     "question": "What effect does inflammation have on the endocardium of the heart?",
     "answer": "endocarditis"
   },
@@ -476,6 +496,10 @@
     "answer": "Endothelial mutations"
   },
   {
+    "question": "What happens during respiratory acidosis?",
+    "answer": "Accumulation of CO2"
+  },
+  {
     "question": "What happens to hormone secretion during deep sleep?",
     "answer": "Increases"
   },
@@ -502,6 +526,10 @@
   {
     "question": "What hormonal imbalance is associated with Addison's disease?",
     "answer": "Lack of cortisol"
+  },
+  {
+    "question": "What hormonal imbalance is associated with Cushing's syndrome?",
+    "answer": "Increased cortisol"
   },
   {
     "question": "What hormonal imbalance is associated with weight gain and skin hyperpigmentation?",
@@ -566,6 +594,10 @@
   {
     "question": "What is the externalization of problems in therapy?",
     "answer": "Projection outward"
+  },
+  {
+    "question": "What is the function of endothelin?",
+    "answer": "Constricts blood vessels"
   },
   {
     "question": "What is the function of the hormone leptin?",
@@ -726,6 +758,10 @@
   {
     "question": "What is the role of osteoclasts in the skeletal system?",
     "answer": "Resorption"
+  },
+  {
+    "question": "What is the role of osteocytes in bone tissue?",
+    "answer": "Metabolism"
   },
   {
     "question": "What is the role of short-chain fatty acids in the gut?",
@@ -1060,6 +1096,10 @@
     "answer": "Atrial fibrillation"
   },
   {
+    "question": "What type of bond forms immune memory?",
+    "answer": "Affinity"
+  },
+  {
     "question": "What type of cells produce mucous secretion in the respiratory tract?",
     "answer": "Goblet cells"
   },
@@ -1114,6 +1154,10 @@
   {
     "question": "Which biochemical marker reflects the level of muscle fatigue?",
     "answer": "Lactate"
+  },
+  {
+    "question": "Which biochemical markers can increase with myocardial injury?",
+    "answer": "Troponins"
   },
   {
     "question": "Which biologically active substances are synthesized simultaneously with cortisol in the adrenal glands?",
@@ -1316,6 +1360,10 @@
     "answer": "Coronary artery stenosis"
   },
   {
+    "question": "Which heart receptors are sensitive to changes in blood pressure?",
+    "answer": "Baroreceptors"
+  },
+  {
     "question": "Which hereditary collagen disease is associated with cardiomyopathy?",
     "answer": "Marfan"
   },
@@ -1344,8 +1392,16 @@
     "answer": "Estrogen"
   },
   {
+    "question": "Which hormone promotes the relaxation of smooth muscle cells in the bronchi?",
+    "answer": "Adrenaline"
+  },
+  {
     "question": "Which hormone regulates phosphate levels?",
     "answer": "Parathyroid hormone"
+  },
+  {
+    "question": "Which hormone stimulates the production of glucocorticoids?",
+    "answer": "ACTH"
   },
   {
     "question": "Which hormones are regulated through the hypothalamic-pituitary-adrenal axis?",
@@ -1416,6 +1472,10 @@
     "answer": "Glucocorticoids"
   },
   {
+    "question": "Which medications can be used to control heart rate?",
+    "answer": "Beta-blockers"
+  },
+  {
     "question": "Which metabolite of vitamin B6 is the active form?",
     "answer": "Pyridoxal phosphate"
   },
@@ -1478,6 +1538,10 @@
   {
     "question": "Which molecules detect and bind pathogens?",
     "answer": "Antibodies"
+  },
+  {
+    "question": "Which molecules present antigens on the surface of cells?",
+    "answer": "MHC"
   },
   {
     "question": "Which molecules present antigens to T-lymphocytes?",
@@ -1624,6 +1688,10 @@
     "answer": "Interferon"
   },
   {
+    "question": "Which structure is involved in antigen presentation?",
+    "answer": "MHC"
+  },
+  {
     "question": "Which structure is involved in transmitting signaling information between cells?",
     "answer": "Cytokines"
   },
@@ -1692,8 +1760,16 @@
     "answer": "Zinc gluconate"
   },
   {
+    "question": "Which supplement helps with irritable bowel syndrome?",
+    "answer": "Probiotics"
+  },
+  {
     "question": "Which supplement improves methylation in the body?",
     "answer": "Methylfolate"
+  },
+  {
+    "question": "Which supplement is involved in methylation?",
+    "answer": "Vitamin B12"
   },
   {
     "question": "Which supplement is used to enhance the activity of superoxide dismutase?",
@@ -1810,6 +1886,10 @@
   {
     "question": "Which vitamin is known for its role in the synthesis of glutathione, a major antioxidant in cells?",
     "answer": "Vitamin B2"
+  },
+  {
+    "question": "Which vitamin is necessary for the synthesis of carnitine?",
+    "answer": "Ascorbic acid"
   },
   {
     "question": "Which vitamin is necessary for the synthesis of neurotransmitters?",
