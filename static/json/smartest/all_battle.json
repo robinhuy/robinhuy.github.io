@@ -37327,6 +37327,10 @@
         "answer": "Boston Dynamics"
     },
     {
+        "question": "For which industries is the potential of 3D printing particularly great?",
+        "answer": "Medicine"
+    },
+    {
         "question": "How are recombinant proteins produced?",
         "answer": "Using DNA technologies"
     },
@@ -37407,6 +37411,10 @@
         "answer": "1985"
     },
     {
+        "question": "In what year were the properties of graphene discovered?",
+        "answer": "2004"
+    },
+    {
         "question": "In which education sector has AR firmly established itself?",
         "answer": "Medicine"
     },
@@ -37421,6 +37429,10 @@
     {
         "question": "Name of the creator of Android?",
         "answer": "Andy Rubin"
+    },
+    {
+        "question": "Name one type of quantum algorithm.",
+        "answer": "Shor's Algorithm"
     },
     {
         "question": "Name one type of virtualization.",
@@ -37449,6 +37461,10 @@
     {
         "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
         "answer": "Art AI"
+    },
+    {
+        "question": "What AI model is used for text translation?",
+        "answer": "Seq2Seq model"
     },
     {
         "question": "What algorithms are used for object recognition?",
@@ -37651,6 +37667,10 @@
         "answer": "Physical properties of nanoparticles"
     },
     {
+        "question": "What does reinforcement learning do?",
+        "answer": "Automatic decision making"
+    },
+    {
         "question": "What does the Imitation Learning method do?",
         "answer": "Imitates behavior"
     },
@@ -37811,6 +37831,10 @@
         "answer": "Infrastructure as Code"
     },
     {
+        "question": "What is a CIP system in industry?",
+        "answer": "Cleaning in Place"
+    },
+    {
         "question": "What is a DAO?",
         "answer": "Decentralized Autonomous Organization"
     },
@@ -37915,8 +37939,16 @@
         "answer": "Therapy with genes"
     },
     {
+        "question": "What is graphene?",
+        "answer": "A single-atom carbon layer"
+    },
+    {
         "question": "What is important for the reliable operation of IoT?",
         "answer": "Cybersecurity"
+    },
+    {
+        "question": "What is important for the security of IoT devices?",
+        "answer": "Encryption"
     },
     {
         "question": "What is integrated into blockchain to enhance transaction anonymity?",
@@ -37925,6 +37957,10 @@
     {
         "question": "What is lidar used for?",
         "answer": "Scanning the environment"
+    },
+    {
+        "question": "What is made from biopolymers?",
+        "answer": "Eco-plastics"
     },
     {
         "question": "What is meant by 'cloud security'?",
@@ -37973,6 +38009,10 @@
     {
         "question": "What is the ability of a machine to make decisions called?",
         "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "What is the difficulty level of a multi-cloud terminal?",
+        "answer": "High"
     },
     {
         "question": "What is the file format for software applications on Android smartphones called?",
@@ -38567,6 +38607,10 @@
         "answer": "Cloning"
     },
     {
+        "question": "What process is used to increase the performance of mobile devices?",
+        "answer": "Overclocking"
+    },
+    {
         "question": "What process is used to produce biogas?",
         "answer": "Methanogenesis"
     },
@@ -38779,6 +38823,10 @@
         "answer": "Ion engine"
     },
     {
+        "question": "What technology is used to improve the energy efficiency of buildings?",
+        "answer": "Passive house"
+    },
+    {
         "question": "What technology is used to launch small satellites from a large satellite?",
         "answer": "Cubesat"
     },
@@ -38897,6 +38945,10 @@
     {
         "question": "Which area of AI is involved in creating games?",
         "answer": "Reinforcement Learning"
+    },
+    {
+        "question": "Which cells are used in genetic engineering?",
+        "answer": "Somatic cells"
     },
     {
         "question": "Which companies collaborate in the field of VR content?",
@@ -39119,6 +39171,10 @@
         "answer": "Regularization"
     },
     {
+        "question": "Which microalgae are used for biomass production?",
+        "answer": "Chlorella"
+    },
+    {
         "question": "Which microorganisms are used for the biological treatment of wastewater?",
         "answer": "Bacteria"
     },
@@ -39239,6 +39295,10 @@
         "answer": "Nanobiology"
     },
     {
+        "question": "Which scientist proposed a quantum algorithm?",
+        "answer": "Deutsch"
+    },
+    {
         "question": "Which security technique involves increasing complexity?",
         "answer": "Encryption"
     },
@@ -39299,6 +39359,10 @@
         "answer": "ADAS"
     },
     {
+        "question": "Which technology incorporates machine learning algorithms into manufacturing?",
+        "answer": "Artificial Intelligence"
+    },
+    {
         "question": "Which technology is most effective for air purification on an industrial scale?",
         "answer": "Electrostatic filter"
     },
@@ -39313,6 +39377,10 @@
     {
         "question": "Which technology is used to create isolated containers?",
         "answer": "Docker"
+    },
+    {
+        "question": "Which technology reduces the emission of harmful gases into the atmosphere?",
+        "answer": "Carbon capture"
     },
     {
         "question": "Which test assesses a machine's ability to mimic human thinking?",
