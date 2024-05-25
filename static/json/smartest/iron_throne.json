@@ -212,6 +212,10 @@
     "answer": "Conquests"
   },
   {
+    "question": "How did Daenerys strengthen her position in the captured cities?",
+    "answer": "Political wisdom"
+  },
+  {
     "question": "How did Daenerys use dragons in her conquests?",
     "answer": "firepower"
   },
@@ -604,6 +608,10 @@
     "answer": "Impartiality"
   },
   {
+    "question": "How do maesters influence politics?",
+    "answer": "Advising rulers"
+  },
+  {
     "question": "How do maesters influence the decisions of lords?",
     "answer": "Advice"
   },
@@ -666,6 +674,10 @@
   {
     "question": "How do the Ironborn strengthen their influence?",
     "answer": "Naval power"
+  },
+  {
+    "question": "How do the Starks maintain the loyalty of other Northern houses?",
+    "answer": "Honesty"
   },
   {
     "question": "How do the Starks respond to external threats?",
@@ -1744,6 +1756,10 @@
     "answer": "Military power"
   },
   {
+    "question": "What factors determine the military strategy of the Ironborn?",
+    "answer": "Naval supremacy"
+  },
+  {
     "question": "What factors influenced the outcome of the Battle of the Bastards?",
     "answer": "Tactics and surprise"
   },
@@ -1834,6 +1850,10 @@
   {
     "question": "What impact did Valyria have on the trade routes of Essos?",
     "answer": "Altered the routes"
+  },
+  {
+    "question": "What impact did internal conflicts have on the strategic position of the Ironborn in their region?",
+    "answer": "Weakness"
   },
   {
     "question": "What impact did losses have on Arya's development?",
@@ -2034,6 +2054,10 @@
   {
     "question": "What is the most difficult process in creating a maester's chain?",
     "answer": "Forging the links"
+  },
+  {
+    "question": "What is the motto of House Baratheon?",
+    "answer": "Ours is the Fury"
   },
   {
     "question": "What is the motto of House Greyjoy?",
@@ -2404,6 +2428,10 @@
     "answer": "Shadowbinding"
   },
   {
+    "question": "What magical practices influenced trade in Essos?",
+    "answer": "Merchant charms"
+  },
+  {
     "question": "What magical rituals ensured the safety of merchants in Essos?",
     "answer": "Protection Ritual"
   },
@@ -2446,6 +2474,10 @@
   {
     "question": "What measures did the Targaryens take to protect their dragons?",
     "answer": "Building lairs"
+  },
+  {
+    "question": "What metal is used for a maester's chain?",
+    "answer": "Valyrian steel"
   },
   {
     "question": "What method allowed Arya to successfully survive during her travels in Braavos?",
@@ -2802,6 +2834,10 @@
   {
     "question": "What prophecy is associated with the birth of a ruler?",
     "answer": "Star of Dawn"
+  },
+  {
+    "question": "What prophecy is associated with the fate of the Night's Watch?",
+    "answer": "The Long Night"
   },
   {
     "question": "What prophecy predicts the 'blood of the dragon'?",
@@ -3616,6 +3652,10 @@
     "answer": "Manipulation"
   },
   {
+    "question": "What tactic did the Lannisters use for political bargaining?",
+    "answer": "Blackmail"
+  },
+  {
     "question": "What tactic did the Lannisters use to achieve dominance in Westeros?",
     "answer": "Complex intrigues"
   },
@@ -3744,8 +3784,16 @@
     "answer": "Lunar Cycle"
   },
   {
+    "question": "What threat did the Iron Throne pose to the independent kingdoms of Westeros?",
+    "answer": "Winterfell"
+  },
+  {
     "question": "What title did Daenerys hold upon her arrival in Westeros?",
     "answer": "Queen"
+  },
+  {
+    "question": "What title did Daenerys' father hold?",
+    "answer": "King"
   },
   {
     "question": "What title did Daenerys, the claimant to the throne, hold?",
@@ -4260,6 +4308,10 @@
     "answer": "Sunspear"
   },
   {
+    "question": "What was the result of Stannis Baratheon's alliance with the knights of the Stormlands?",
+    "answer": "Increase in army"
+  },
+  {
     "question": "What was the significance of marriage for House Baratheon?",
     "answer": "Strengthening the dynasty"
   },
@@ -4472,6 +4524,10 @@
     "answer": "Flying ships"
   },
   {
+    "question": "Which advisor from the 'Seven Kingdoms' demonstrated outstanding diplomatic skills in complex situations?",
+    "answer": "Tyrion Lannister"
+  },
+  {
     "question": "Which advisor helped the Starks in the fight for the North?",
     "answer": "Maester Luwin"
   },
@@ -4636,6 +4692,10 @@
     "answer": "Battle of the Bastards"
   },
   {
+    "question": "Which betrayal by the Lannisters changed the balance of power in Westeros?",
+    "answer": "The death of Robb"
+  },
+  {
     "question": "Which body governs scientific research at the Citadel?",
     "answer": "Archmaesters"
   },
@@ -4666,6 +4726,10 @@
   {
     "question": "Which character from Arya's kill list did she kill first?",
     "answer": "Meryn Trant"
+  },
+  {
+    "question": "Which character from Westeros became a symbol of how the twists of fate can be turned to one's advantage?",
+    "answer": "Tyrion Lannister"
   },
   {
     "question": "Which character had a significant influence on Arya's skills?",
@@ -4850,6 +4914,10 @@
   {
     "question": "Which dragon became the symbol of the Targaryen house's resurgence after a long period of decline?",
     "answer": "Drogon"
+  },
+  {
+    "question": "Which dragon fought in the Battle of Harrenhal?",
+    "answer": "Vhagar"
   },
   {
     "question": "Which dragon fought in the Battle of the Gullet?",
@@ -5108,11 +5176,19 @@
     "answer": "Lannisters"
   },
   {
+    "question": "Which house dominated the Reach through their marital alliances?",
+    "answer": "Tyrells"
+  },
+  {
     "question": "Which house entered into marriage to ensure its security from attacks?",
     "answer": "Arryns"
   },
   {
     "question": "Which house formed a marriage alliance to stabilize the political situation in the Riverlands?",
+    "answer": "Tully"
+  },
+  {
+    "question": "Which house formed a strategic alliance through marriage to strengthen its influence in the Riverlands?",
     "answer": "Tully"
   },
   {
@@ -6414,6 +6490,10 @@
   {
     "question": "Who is the keeper of wisdom and knowledge in Westeros?",
     "answer": "Archmaester"
+  },
+  {
+    "question": "Who killed Jon Snow in the Night's Watch?",
+    "answer": "Alliser Thorne"
   },
   {
     "question": "Who killed Jon Snow?",

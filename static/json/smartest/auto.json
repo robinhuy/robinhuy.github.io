@@ -340,6 +340,10 @@
     "answer": "Increase in pressure"
   },
   {
+    "question": "What does a carburetor do?",
+    "answer": "Mixes fuel with air"
+  },
+  {
     "question": "What does a catalytic converter do in the exhaust system?",
     "answer": "Cleans the exhaust"
   },
@@ -577,6 +581,10 @@
   {
     "question": "What is the engine displacement of the Suzuki Hayabusa model (in cc)?",
     "answer": "1340"
+  },
+  {
+    "question": "What is the fastest electric car?",
+    "answer": "Rimac Nevera"
   },
   {
     "question": "What is the function of an intercooler?",
@@ -912,6 +920,10 @@
   {
     "question": "What is used to clean the fuel system?",
     "answer": "Special additives"
+  },
+  {
+    "question": "What is used to improve communication between vehicles?",
+    "answer": "V2X"
   },
   {
     "question": "What is used to increase engine power?",
@@ -1283,6 +1295,10 @@
     "answer": "BMW 3.0 CSL"
   },
   {
+    "question": "Which Bentley model had a 4.5-liter engine in the 1920s?",
+    "answer": "Bentley Blower"
+  },
+  {
     "question": "Which Brazilian driver has won the Formula 1 World Championship three times?",
     "answer": "Ayrton Senna"
   },
@@ -1516,6 +1532,10 @@
     "answer": "Royal Enfield"
   },
   {
+    "question": "Which company manufactures the F850GS motorcycle series?",
+    "answer": "BMW"
+  },
+  {
     "question": "Which company manufactures the Red Bull Racing cars?",
     "answer": "Red Bull Racing"
   },
@@ -1665,6 +1685,10 @@
   {
     "question": "Which driver won the world championship five times?",
     "answer": "Juan Manuel Fangio"
+  },
+  {
+    "question": "Which electric car has autopilot?",
+    "answer": "Model S"
   },
   {
     "question": "Which element is important for drifting?",

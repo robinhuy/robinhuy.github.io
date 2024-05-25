@@ -28,6 +28,10 @@
     "answer": ""
   },
   {
+    "question": "For which song was Peter Gabriel nominated for an 'Oscar'?",
+    "answer": "Down to Earth"
+  },
+  {
     "question": "From which city is the band The Stooges originally?",
     "answer": "Ann Arbor"
   },
@@ -52,6 +56,10 @@
     "answer": "4"
   },
   {
+    "question": "How many gold albums did the band Black Sabbath release?",
+    "answer": "8"
+  },
+  {
     "question": "How many keys does a piano have?",
     "answer": "88"
   },
@@ -62,6 +70,10 @@
   {
     "question": "How many songs are in the album 'Reputation'?",
     "answer": "15"
+  },
+  {
+    "question": "How many studio albums did The Rolling Stones release before 2020?",
+    "answer": "30"
   },
   {
     "question": "How many times has Adele won the BRIT Award?",
@@ -640,6 +652,10 @@
     "answer": "Everything Is Everything"
   },
   {
+    "question": "What is the name of Drake's debut album?",
+    "answer": "Thank Me Later"
+  },
+  {
     "question": "What is the name of Fiona Apple's debut album?",
     "answer": "Tidal"
   },
@@ -780,6 +796,10 @@
     "answer": "Bassoon"
   },
   {
+    "question": "What is the name of the Japanese string instrument with bamboo strings?",
+    "answer": "Koto"
+  },
+  {
     "question": "What is the name of the Kings of Leon album that brought them worldwide fame?",
     "answer": "Only by the Night"
   },
@@ -882,6 +902,10 @@
   {
     "question": "What is the name of the famous 1967 rock festival in California?",
     "answer": "Monterey Pop"
+  },
+  {
+    "question": "What is the name of the famous 1970 concert by The Who?",
+    "answer": "Live at Leeds"
   },
   {
     "question": "What is the name of the famous American folk song known from the Civil War period?",
@@ -1164,6 +1188,10 @@
     "answer": "bass guitar"
   },
   {
+    "question": "What musical style is popular in the Caribbean region?",
+    "answer": "Merengue"
+  },
+  {
     "question": "What musical style was popular in the 12th-13th centuries?",
     "answer": "Ars Antiqua"
   },
@@ -1400,6 +1428,10 @@
     "answer": "1997"
   },
   {
+    "question": "When was the Tomorrowland festival first held?",
+    "answer": "2005"
+  },
+  {
     "question": "When was the opera 'Lady Macbeth of the Mtsensk District' written?",
     "answer": "1934"
   },
@@ -1476,8 +1508,20 @@
     "answer": "Laurent Garnier"
   },
   {
+    "question": "Which Gorillaz song became a hit in 2001?",
+    "answer": "Clint Eastwood"
+  },
+  {
+    "question": "Which Latin American singer is known for the song 'Héroe'?",
+    "answer": "Enrique Iglesias"
+  },
+  {
     "question": "Which Mexican singer is known for the song 'Hasta Que Te Conocí'?",
     "answer": "Juan Gabriel"
+  },
+  {
+    "question": "Which Oasis album was released in 1997?",
+    "answer": "Be Here Now"
   },
   {
     "question": "Which Paul Anka song became a hit in 1964?",
@@ -1554,6 +1598,10 @@
   {
     "question": "Which album is significant for the house music genre?",
     "answer": "Trax Records"
+  },
+  {
+    "question": "Which album was Pantera's first successful album?",
+    "answer": "Cowboys from Hell"
   },
   {
     "question": "Which album was recorded by Beyoncé?",
@@ -1682,6 +1730,10 @@
   {
     "question": "Which band released the album 'Use Your Illusion' in the 90s?",
     "answer": "Guns N' Roses"
+  },
+  {
+    "question": "Which band released the hit 'Spirit of Radio'?",
+    "answer": "Rush"
   },
   {
     "question": "Which band releases their albums on the Epitaph Records label?",
@@ -1852,6 +1904,10 @@
     "answer": "Olivia Rodrigo"
   },
   {
+    "question": "Which female group is known for performing funk?",
+    "answer": "The Pointer Sisters"
+  },
+  {
     "question": "Which female rap debut album was released in 1989?",
     "answer": "All Hail the Queen"
   },
@@ -1878,6 +1934,10 @@
   {
     "question": "Which festival started in 1971?",
     "answer": "Glastonbury"
+  },
+  {
+    "question": "Which festival takes place in Sherwood Forest?",
+    "answer": "Download"
   },
   {
     "question": "Which festival takes place in the Black Rock Desert?",
@@ -2048,6 +2108,10 @@
     "answer": "Cymbals"
   },
   {
+    "question": "Which instrument sounds like an organ from a distance?",
+    "answer": "Accordion"
+  },
+  {
     "question": "Which jazz composition became Dizzy Gillespie's signature piece?",
     "answer": "A Night in Tunisia"
   },
@@ -2136,6 +2200,10 @@
     "answer": "Nuits Sonores"
   },
   {
+    "question": "Which music genre became popular thanks to the band R.E.M.?",
+    "answer": "Alternative rock"
+  },
+  {
     "question": "Which music genre combines rhythms of African American music and electronics?",
     "answer": "House"
   },
@@ -2170,6 +2238,10 @@
   {
     "question": "Which music genre is known for its heavy percussion and fast rhythms?",
     "answer": "Hardcore"
+  },
+  {
+    "question": "Which music genre is known for using modular synthesizers?",
+    "answer": "Modular"
   },
   {
     "question": "Which music genre uses distortion?",
@@ -2376,6 +2448,10 @@
     "answer": "Ray Charles"
   },
   {
+    "question": "Which singer holds the title 'The Piano Man'?",
+    "answer": "Billy Joel"
+  },
+  {
     "question": "Which singer popularized funk in the 1970s?",
     "answer": "Tina Turner"
   },
@@ -2458,6 +2534,10 @@
   {
     "question": "Which song is performed by D'Angelo?",
     "answer": "Saxophone"
+  },
+  {
+    "question": "Which song made The Supremes famous?",
+    "answer": "Stop! In the Name of Love"
   },
   {
     "question": "Which song opens the album 'Dirt' by Alice in Chains?",
@@ -2616,6 +2696,10 @@
     "answer": "Léon Boëllmann"
   },
   {
+    "question": "Who composed the 'Leningrad Symphony'?",
+    "answer": "Shostakovich"
+  },
+  {
     "question": "Who composed the 'Mass in B minor'?",
     "answer": "Bach"
   },
@@ -2712,6 +2796,10 @@
     "answer": "Stravinsky"
   },
   {
+    "question": "Who composed the symphony 'Titan'?",
+    "answer": "Gustav Mahler"
+  },
+  {
     "question": "Who composed the symphony 'Yugoslav'?",
     "answer": "Shostakovich"
   },
@@ -2760,8 +2848,16 @@
     "answer": ""
   },
   {
+    "question": "Who founded the band Descendents?",
+    "answer": "Frank Navetta"
+  },
+  {
     "question": "Who founded the band Kraftwerk?",
     "answer": "Ralf Hütter"
+  },
+  {
+    "question": "Who founded the band The Germs?",
+    "answer": "Darby Crash"
   },
   {
     "question": "Who from the duo 'Simon & Garfunkel' is Paul Simon?",
@@ -2780,12 +2876,20 @@
     "answer": "Key & Peele"
   },
   {
+    "question": "Who introduced the 'bossa nova' style into music?",
+    "answer": "Antônio Carlos Jobim"
+  },
+  {
     "question": "Who introduced the staffless linear notation?",
     "answer": "Guido of Arezzo"
   },
   {
     "question": "Who invented the monogram?",
     "answer": "Bach"
+  },
+  {
+    "question": "Who is a famous Mexican singer?",
+    "answer": "Vicente Fernandez"
   },
   {
     "question": "Who is a popular DJ often playing house music?",
@@ -2834,6 +2938,10 @@
   {
     "question": "Who is known for their tracks on the Hospital Records label?",
     "answer": "Danny Byrd"
+  },
+  {
+    "question": "Who is often called the 'Godfather of Reggae'?",
+    "answer": "Toots Hibbert"
   },
   {
     "question": "Who is often mentioned as the best MC in hip-hop?",
@@ -3048,8 +3156,16 @@
     "answer": "Kate Bush"
   },
   {
+    "question": "Who released the album 'When Facing the Things We Turn Away From'?",
+    "answer": "Luke Hemmings"
+  },
+  {
     "question": "Who released the album Polarity in 2020?",
     "answer": "Misanthrop"
+  },
+  {
+    "question": "Who released the song 'Astronaut In The Ocean'?",
+    "answer": "Masked Wolf"
   },
   {
     "question": "Who released the song 'Deja Vu' in 2021?",
@@ -3074,6 +3190,10 @@
   {
     "question": "Who was Nathan Roussel's teacher?",
     "answer": "Liszt"
+  },
+  {
+    "question": "Who was a famous blues performer?",
+    "answer": "Muddy Waters"
   },
   {
     "question": "Who was a famous jazz bassist?",
@@ -3194,6 +3314,10 @@
   {
     "question": "Who was the producer of Nas' album 'Illmatic'?",
     "answer": ""
+  },
+  {
+    "question": "Who was the producer of the album 'Never Mind the Bollocks'?",
+    "answer": "Chris Thomas"
   },
   {
     "question": "Who was the vocalist of the band Black Flag?",

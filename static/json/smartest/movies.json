@@ -131,6 +131,10 @@
     "answer": "11"
   },
   {
+    "question": "How many days does the Venice Film Festival last?",
+    "answer": "11 days"
+  },
+  {
     "question": "How many years did the Cannes Film Festival celebrate in 2021?",
     "answer": "74"
   },
@@ -316,6 +320,10 @@
     "answer": "Golden Rose"
   },
   {
+    "question": "What award is given for the best Japanese animated film?",
+    "answer": "JIFA"
+  },
+  {
     "question": "What award is given for the best achievements in editing?",
     "answer": "Eddie Awards"
   },
@@ -459,6 +467,10 @@
     "answer": "Combining images"
   },
   {
+    "question": "What is matte painting?",
+    "answer": "Background painting"
+  },
+  {
     "question": "What is shading?",
     "answer": "Lighting of objects"
   },
@@ -549,6 +561,10 @@
   {
     "question": "What is the name of Shere Khan's enemy in 'The Jungle Book'?",
     "answer": "Mowgli"
+  },
+  {
+    "question": "What is the name of Simba's daughter in the movie 'The Lion King'?",
+    "answer": "Kiara"
   },
   {
     "question": "What is the name of Stan's eldest daughter in 'American Dad!'?",
@@ -693,6 +709,10 @@
   {
     "question": "What is the name of the Russian adaptation of the British series 'Luther'?",
     "answer": "Mosgaz"
+  },
+  {
+    "question": "What is the name of the Russian film about a teacher who takes to the streets to protect his school?",
+    "answer": "The Teacher"
   },
   {
     "question": "What is the name of the Russian version of the American TV series 'Supergirl'?",
@@ -877,6 +897,10 @@
   {
     "question": "What is the name of the film about the Sicilian mafia released in 2006?",
     "answer": "Black Mass"
+  },
+  {
+    "question": "What is the name of the film based on George Eliot's novel about provincial life?",
+    "answer": "Middlemarch"
   },
   {
     "question": "What is the name of the film based on James M. Cain's novel about love and betrayal?",
@@ -1271,6 +1295,10 @@
     "answer": "Trichogenesis"
   },
   {
+    "question": "What is the process of obtaining three-dimensional data about the real world for use in a virtual environment called?",
+    "answer": "Scanning"
+  },
+  {
     "question": "What is the runtime of the movie 'Thelma & Louise'?"
   },
   {
@@ -1333,6 +1361,10 @@
     "answer": "UV mapping"
   },
   {
+    "question": "What is used to create facial movements of characters in animation?",
+    "answer": "Facial rigging"
+  },
+  {
     "question": "What is used to create realistic lighting in 3D graphics?",
     "answer": "Light maps"
   },
@@ -1371,6 +1403,10 @@
   {
     "question": "What song did Puss in Boots perform in the movie 'Shrek 2'?",
     "answer": "Livin' La Vida Loca"
+  },
+  {
+    "question": "What song is featured in the trailer for 'How to Train Your Dragon 2'?",
+    "answer": "Heroes (We Could Be)"
   },
   {
     "question": "What song is played in the finale of the movie 'Saw 3'?",
@@ -1554,6 +1590,10 @@
   {
     "question": "Where is the Expo prize awarded?",
     "answer": "Toronto"
+  },
+  {
+    "question": "Where is the quote 'Oh merci, nau-mor' from?",
+    "answer": "Mimino"
   },
   {
     "question": "Where is the quote 'The Flowers of Evil are tied into a bouquet' from?",
@@ -1744,6 +1784,10 @@
     "answer": "Gnomes on the Road"
   },
   {
+    "question": "Which animated film from Japan teaches martial arts?",
+    "answer": "Naruto"
+  },
+  {
     "question": "Which animated film is about a crane?",
     "answer": "The Big Trip"
   },
@@ -1754,6 +1798,10 @@
   {
     "question": "Which animated film tells about Norse mythology?",
     "answer": "Vikings of Valhalla"
+  },
+  {
+    "question": "Which animated film tells the story of a friendship between a boy and a yeti?",
+    "answer": "Yeti"
   },
   {
     "question": "Which animated film tells the story of a magical cow?",
@@ -1788,6 +1836,10 @@
     "answer": "I Lost My Body"
   },
   {
+    "question": "Which animated film won the Annie Award for Best Animated Short Subject in 2020?",
+    "answer": "The Bachelor"
+  },
+  {
     "question": "Which animated film won the Goya Award in 2021?",
     "answer": "Truffle Hunter"
   },
@@ -1816,8 +1868,16 @@
     "answer": "Aardman Animations"
   },
   {
+    "question": "Which animation studio is known for creating 'Multstudio Masletter'?",
+    "answer": "Foster Park"
+  },
+  {
     "question": "Which animation studio is known for creating 'Nyam-Nyam Neon'?",
     "answer": "Lidia Lal"
+  },
+  {
+    "question": "Which animation studio is known for films about 'Blastoide'?",
+    "answer": "Animax"
   },
   {
     "question": "Which animation studio is known for the cartoon 'Zak Storm'?",
@@ -1862,6 +1922,10 @@
   {
     "question": "Which character catches criminals in the series 'Dexter'?",
     "answer": "Dexter"
+  },
+  {
+    "question": "Which character created magic bubbles in the Swedish animated film?",
+    "answer": "Svante Svantesson"
   },
   {
     "question": "Which character from the animated film 'Anons' is an astronaut?",
@@ -2119,6 +2183,10 @@
     "answer": "Colombian Swing"
   },
   {
+    "question": "Which film marked Andrei Tarkovsky's debut in feature filmmaking?",
+    "answer": "Ivan's Childhood"
+  },
+  {
     "question": "Which film movement is associated with detachment from class society?",
     "answer": "Indie cinema"
   },
@@ -2204,6 +2272,10 @@
   {
     "question": "Which film was directed by Quentin Tarantino?",
     "answer": "The Hateful Eight"
+  },
+  {
+    "question": "Which film was directed by Wim Wenders?",
+    "answer": "Paris, Texas"
   },
   {
     "question": "Which film was made in 1927?",
@@ -2294,6 +2366,10 @@
     "answer": "Promising Young Woman"
   },
   {
+    "question": "Which film won the Golden Bear at the Berlin Film Festival in 2016?",
+    "answer": "Fire at Sea"
+  },
+  {
     "question": "Which film won the Golden Bear at the Berlin Film Festival in 2017?",
     "answer": "On Body and Soul"
   },
@@ -2377,6 +2453,10 @@
     "answer": "Cyberpunk"
   },
   {
+    "question": "Which genre is often associated with explorations of the supernatural?",
+    "answer": "psychological thriller"
+  },
+  {
     "question": "Which genre often features tense and dramatic stories?",
     "answer": "Thriller"
   },
@@ -2387,6 +2467,10 @@
   {
     "question": "Which iconic novel by Ellen Hopkins was adapted into a Netflix miniseries?",
     "answer": "Glass"
+  },
+  {
+    "question": "Which literary character became the hero of the film 'The Bronze Garden'?",
+    "answer": "Arthur Conan Doyle"
   },
   {
     "question": "Which major studio was involved in the production of silent films?",
@@ -2508,6 +2592,10 @@
     "answer": "Terminator"
   },
   {
+    "question": "Which school does Dziga Vertov's film represent?",
+    "answer": "Vertov"
+  },
+  {
     "question": "Which school used visual metaphors and symbols in its films?",
     "answer": "Surrealism"
   },
@@ -2586,6 +2674,10 @@
   {
     "question": "Which studio created the anime 'Cowboy Bebop'?",
     "answer": "Sunrise"
+  },
+  {
+    "question": "Which studio created the anime 'Rurouni Kenshin'?",
+    "answer": "Studio Deen"
   },
   {
     "question": "Which studio created the series 'Mindhunter'?",
@@ -3064,6 +3156,10 @@
     "answer": "Buster Keaton"
   },
   {
+    "question": "Who directed the film 'Soldier's Father'?",
+    "answer": "Vladimir Fokin"
+  },
+  {
     "question": "Who directed the film 'The Cabinet of Dr. Caligari'?",
     "answer": "Robert Wiene"
   },
@@ -3094,6 +3190,10 @@
   {
     "question": "Who founded the Annie Award?",
     "answer": "Ralph Bakshi"
+  },
+  {
+    "question": "Who holds the record for the most Oscar nominations?",
+    "answer": "Walt Disney"
   },
   {
     "question": "Who is Hayao Miyazaki?",
@@ -3145,6 +3245,10 @@
   {
     "question": "Who is the composer of the animated film 'Spirit: Stallion of the Cimarron'?",
     "answer": "Hans Zimmer"
+  },
+  {
+    "question": "Who is the composer of the film 'Almost Famous'?",
+    "answer": "Nancy Wilson"
   },
   {
     "question": "Who is the composer of the songs in 'The Jungle Book'?",
@@ -3574,6 +3678,10 @@
     "answer": "Maximus"
   },
   {
+    "question": "Who said: 'You must take the first step in faith. You don't have to see the whole staircase, just take the first step'?",
+    "answer": "Martin Luther King Jr."
+  },
+  {
     "question": "Who sings the song 'Be Prepared' in the movie 'The Lion King'?",
     "answer": "Scar"
   },
@@ -3604,6 +3712,10 @@
   {
     "question": "Who was the director of the film \"Formula of Love\"?",
     "answer": "Mark Zakharov"
+  },
+  {
+    "question": "Who was the editor-in-chief of the magazine 'Iskusstvo Kino'?",
+    "answer": "Daniil Dondurey"
   },
   {
     "question": "Who was the first recipient of the Oscar for Best Actor?",
