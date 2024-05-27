@@ -20,6 +20,10 @@
     "answer": "5"
   },
   {
+    "question": "How many segments are in a snake?",
+    "answer": "13"
+  },
+  {
     "question": "In what setting does the game Metro Exodus take place?",
     "answer": "Post-apocalypse"
   },
@@ -308,6 +312,10 @@
     "answer": "Rhythm game"
   },
   {
+    "question": "What genre of game is considered a team strategy?",
+    "answer": "MOBA"
+  },
+  {
     "question": "What is Motion Capture?",
     "answer": "motion capture"
   },
@@ -326,6 +334,10 @@
   {
     "question": "What is a key aspect of an RPG?",
     "answer": "Role-playing"
+  },
+  {
+    "question": "What is an API?",
+    "answer": "Application Interface"
   },
   {
     "question": "What is the ability called that characters can use in the game The Elder Scrolls V: Skyrim?",
@@ -608,6 +620,14 @@
     "answer": "Hunter"
   },
   {
+    "question": "What is the name of the main character in the game Horizon Zero Dawn?",
+    "answer": "Aloy"
+  },
+  {
+    "question": "What is the name of the main character in the game Saints Row IV?",
+    "answer": "The President"
+  },
+  {
     "question": "What is the name of the main character in the game Sekiro: Shadows Die Twice?",
     "answer": "Wolf"
   },
@@ -800,6 +820,10 @@
     "answer": "Sliding puzzles"
   },
   {
+    "question": "What unique ability does the 'Worgen' class have in World of Warcraft?",
+    "answer": "Transformation"
+  },
+  {
     "question": "What was the first MMORPG?",
     "answer": "Meridian 59"
   },
@@ -910,6 +934,10 @@
   {
     "question": "Which board game involves moving pieces on a hexagonal board with goals of economy and diplomacy?",
     "answer": "Terra Mystica"
+  },
+  {
+    "question": "Which board game is dedicated to in-depth exploration and excavation?",
+    "answer": "Archaeologists"
   },
   {
     "question": "Which board game ranks third in popularity worldwide?",
@@ -1228,8 +1256,16 @@
     "answer": "Dormin"
   },
   {
+    "question": "Who is the main antagonist of Sam Porter in the game Death Stranding?",
+    "answer": "Higgs"
+  },
+  {
     "question": "Who is the main enemy in the game Bloodborne?",
     "answer": "Beasts"
+  },
+  {
+    "question": "Who is the main protagonist in the Fallout game series?",
+    "answer": "The Lone Wanderer"
   },
   {
     "question": "Who is the main protagonist of the Assassin's Creed game series?",

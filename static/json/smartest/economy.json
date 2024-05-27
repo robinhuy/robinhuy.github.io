@@ -32,6 +32,10 @@
     "answer": "Overproduction"
   },
   {
+    "question": "What analysis is used to assess the relationship between multiple variables?",
+    "answer": "Multiple regression"
+  },
+  {
     "question": "What are IS-LM models?",
     "answer": "Equilibrium model"
   },
@@ -112,6 +116,10 @@
     "answer": "Short-term profit"
   },
   {
+    "question": "What does 'sterilization' mean in economics?",
+    "answer": "Reduction of money"
+  },
+  {
     "question": "What does Keynesian economic theory regulate?",
     "answer": "Demand"
   },
@@ -160,12 +168,20 @@
     "answer": "Protection of producers"
   },
   {
+    "question": "What does supply theory imply?",
+    "answer": "Production decisions"
+  },
+  {
     "question": "What does the Cobb-Douglas function represent?",
     "answer": "production function"
   },
   {
     "question": "What does the Cobb-Douglas model describe?",
     "answer": "Production"
+  },
+  {
+    "question": "What does the DAX index measure?",
+    "answer": "The state of the German market"
   },
   {
     "question": "What does the EPS indicator show?",
@@ -276,6 +292,10 @@
     "answer": "Interest rate"
   },
   {
+    "question": "What event can hinder economic growth?",
+    "answer": "Economic crisis"
+  },
+  {
     "question": "What event triggered the global economic crisis of the 1930s?",
     "answer": "Black Thursday"
   },
@@ -330,6 +350,10 @@
   {
     "question": "What is a lag in time series?",
     "answer": "Time shift"
+  },
+  {
+    "question": "What is a monopsony?",
+    "answer": "Monopsony"
   },
   {
     "question": "What is a short-term loan secured by securities?",
@@ -398,6 +422,10 @@
   {
     "question": "What is meant by economic stabilization?",
     "answer": "Reduction of inflation"
+  },
+  {
+    "question": "What is meant by the economic cycle?",
+    "answer": "Growth fluctuations"
   },
   {
     "question": "What is often considered the foundation for sustainable economic growth?",
@@ -544,6 +572,10 @@
     "answer": "Consumer rationality"
   },
   {
+    "question": "What process reduces government spending?",
+    "answer": "Budget consolidation"
+  },
+  {
     "question": "What promotes an increase in exports?",
     "answer": "Subsidies and incentives"
   },
@@ -558,6 +590,10 @@
   {
     "question": "What term describes the policy of reducing government spending?",
     "answer": "Budget sequestration"
+  },
+  {
+    "question": "What term implies the implementation of the \"cost/time\" strategy?",
+    "answer": "Timing"
   },
   {
     "question": "What type of error leads to a false positive result?",
@@ -786,6 +822,10 @@
   {
     "question": "Who proposed the 'Sticky Prices' theory?",
     "answer": "Stanley Fischer"
+  },
+  {
+    "question": "Who proposed the concept of 'institutions' in economics?",
+    "answer": "Olson"
   },
   {
     "question": "Who proposed the new design of the US dollar?",

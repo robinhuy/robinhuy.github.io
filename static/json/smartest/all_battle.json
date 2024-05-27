@@ -4773,6 +4773,10 @@
         "answer": "Overproduction"
     },
     {
+        "question": "What analysis is used to assess the relationship between multiple variables?",
+        "answer": "Multiple regression"
+    },
+    {
         "question": "What are IS-LM models?",
         "answer": "Equilibrium model"
     },
@@ -4853,6 +4857,10 @@
         "answer": "Short-term profit"
     },
     {
+        "question": "What does 'sterilization' mean in economics?",
+        "answer": "Reduction of money"
+    },
+    {
         "question": "What does Keynesian economic theory regulate?",
         "answer": "Demand"
     },
@@ -4901,12 +4909,20 @@
         "answer": "Protection of producers"
     },
     {
+        "question": "What does supply theory imply?",
+        "answer": "Production decisions"
+    },
+    {
         "question": "What does the Cobb-Douglas function represent?",
         "answer": "production function"
     },
     {
         "question": "What does the Cobb-Douglas model describe?",
         "answer": "Production"
+    },
+    {
+        "question": "What does the DAX index measure?",
+        "answer": "The state of the German market"
     },
     {
         "question": "What does the EPS indicator show?",
@@ -5017,6 +5033,10 @@
         "answer": "Interest rate"
     },
     {
+        "question": "What event can hinder economic growth?",
+        "answer": "Economic crisis"
+    },
+    {
         "question": "What event triggered the global economic crisis of the 1930s?",
         "answer": "Black Thursday"
     },
@@ -5071,6 +5091,10 @@
     {
         "question": "What is a lag in time series?",
         "answer": "Time shift"
+    },
+    {
+        "question": "What is a monopsony?",
+        "answer": "Monopsony"
     },
     {
         "question": "What is a short-term loan secured by securities?",
@@ -5139,6 +5163,10 @@
     {
         "question": "What is meant by economic stabilization?",
         "answer": "Reduction of inflation"
+    },
+    {
+        "question": "What is meant by the economic cycle?",
+        "answer": "Growth fluctuations"
     },
     {
         "question": "What is often considered the foundation for sustainable economic growth?",
@@ -5285,6 +5313,10 @@
         "answer": "Consumer rationality"
     },
     {
+        "question": "What process reduces government spending?",
+        "answer": "Budget consolidation"
+    },
+    {
         "question": "What promotes an increase in exports?",
         "answer": "Subsidies and incentives"
     },
@@ -5299,6 +5331,10 @@
     {
         "question": "What term describes the policy of reducing government spending?",
         "answer": "Budget sequestration"
+    },
+    {
+        "question": "What term implies the implementation of the \"cost/time\" strategy?",
+        "answer": "Timing"
     },
     {
         "question": "What type of error leads to a false positive result?",
@@ -5527,6 +5563,10 @@
     {
         "question": "Who proposed the 'Sticky Prices' theory?",
         "answer": "Stanley Fischer"
+    },
+    {
+        "question": "Who proposed the concept of 'institutions' in economics?",
+        "answer": "Olson"
     },
     {
         "question": "Who proposed the new design of the US dollar?",
@@ -8017,6 +8057,10 @@
         "answer": "5"
     },
     {
+        "question": "How many segments are in a snake?",
+        "answer": "13"
+    },
+    {
         "question": "In what setting does the game Metro Exodus take place?",
         "answer": "Post-apocalypse"
     },
@@ -8305,6 +8349,10 @@
         "answer": "Rhythm game"
     },
     {
+        "question": "What genre of game is considered a team strategy?",
+        "answer": "MOBA"
+    },
+    {
         "question": "What is Motion Capture?",
         "answer": "motion capture"
     },
@@ -8323,6 +8371,10 @@
     {
         "question": "What is a key aspect of an RPG?",
         "answer": "Role-playing"
+    },
+    {
+        "question": "What is an API?",
+        "answer": "Application Interface"
     },
     {
         "question": "What is the ability called that characters can use in the game The Elder Scrolls V: Skyrim?",
@@ -8605,6 +8657,14 @@
         "answer": "Hunter"
     },
     {
+        "question": "What is the name of the main character in the game Horizon Zero Dawn?",
+        "answer": "Aloy"
+    },
+    {
+        "question": "What is the name of the main character in the game Saints Row IV?",
+        "answer": "The President"
+    },
+    {
         "question": "What is the name of the main character in the game Sekiro: Shadows Die Twice?",
         "answer": "Wolf"
     },
@@ -8797,6 +8857,10 @@
         "answer": "Sliding puzzles"
     },
     {
+        "question": "What unique ability does the 'Worgen' class have in World of Warcraft?",
+        "answer": "Transformation"
+    },
+    {
         "question": "What was the first MMORPG?",
         "answer": "Meridian 59"
     },
@@ -8907,6 +8971,10 @@
     {
         "question": "Which board game involves moving pieces on a hexagonal board with goals of economy and diplomacy?",
         "answer": "Terra Mystica"
+    },
+    {
+        "question": "Which board game is dedicated to in-depth exploration and excavation?",
+        "answer": "Archaeologists"
     },
     {
         "question": "Which board game ranks third in popularity worldwide?",
@@ -9225,8 +9293,16 @@
         "answer": "Dormin"
     },
     {
+        "question": "Who is the main antagonist of Sam Porter in the game Death Stranding?",
+        "answer": "Higgs"
+    },
+    {
         "question": "Who is the main enemy in the game Bloodborne?",
         "answer": "Beasts"
+    },
+    {
+        "question": "Who is the main protagonist in the Fallout game series?",
+        "answer": "The Lone Wanderer"
     },
     {
         "question": "Who is the main protagonist of the Assassin's Creed game series?",
@@ -33663,6 +33739,10 @@
         "answer": "Slowing down the rotation"
     },
     {
+        "question": "How does the interaction of galaxies affect the dynamics of star systems?",
+        "answer": "Alters orbits"
+    },
+    {
         "question": "How does the interaction of galaxies affect their morphological development?",
         "answer": "Merger of structures"
     },
@@ -33937,6 +34017,10 @@
     {
         "question": "What effect of solar radiation causes a change in the rotation of asteroids?",
         "answer": "Yarkovsky effect"
+    },
+    {
+        "question": "What effects allow the study of the gravitational influence of dark matter?",
+        "answer": "Gravitational lensing"
     },
     {
         "question": "What effects can be observed when matter interacts with a black hole?",
@@ -34683,6 +34767,10 @@
         "answer": "Supernova explosions"
     },
     {
+        "question": "What physical processes determine the shape of asteroids in the Kuiper Belt?",
+        "answer": "Gravitational attraction"
+    },
+    {
         "question": "What physical processes were responsible for the formation of the first stars?",
         "answer": "Gravitational collapse"
     },
@@ -34813,6 +34901,10 @@
     {
         "question": "What processes influence the formation of galaxies?",
         "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What processes lead to the formation of galactic nuclei?",
+        "answer": "Accretion of matter"
     },
     {
         "question": "What processes led to the formation of galaxies in the first billion years after the Big Bang?",
@@ -35085,6 +35177,10 @@
     {
         "question": "Which astronomer proposed the first theory of light years?",
         "answer": "Ole Rømer"
+    },
+    {
+        "question": "Which astronomer was the first to apply the photometric method to study stars?",
+        "answer": "Edward Pickering"
     },
     {
         "question": "Which astronomer was the first to discover quasars and establish their incredibly high luminosity?",
@@ -35541,6 +35637,10 @@
     {
         "question": "Which telescope was the first to observe stars in the gamma-ray range?",
         "answer": "Compton"
+    },
+    {
+        "question": "Which theoretical approach investigates the singularity of the Big Bang?",
+        "answer": "Quantum cosmology"
     },
     {
         "question": "Which theoretical models consider the properties of dark matter?",
