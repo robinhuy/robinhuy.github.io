@@ -71,6 +71,10 @@
     "answer": "3000"
   },
   {
+    "question": "How often does the Earth's magnetic field pole reversal occur?",
+    "answer": "Once every million years"
+  },
+  {
     "question": "In what units is magnitude measured?",
     "answer": "Logarithmic units"
   },
@@ -350,6 +354,10 @@
     "answer": "Pollinated by animals"
   },
   {
+    "question": "What atmospheric phenomenon is associated with the crystallization of water vapor?",
+    "answer": "Frost formation"
+  },
+  {
     "question": "What blocks neurotransmitters?",
     "answer": "Antagonists"
   },
@@ -504,6 +512,10 @@
   {
     "question": "What does a refractometer measure?",
     "answer": "Light refraction"
+  },
+  {
+    "question": "What does a sextant measure?",
+    "answer": "Angles"
   },
   {
     "question": "What does a spectrometer measure?",
@@ -784,6 +796,10 @@
   {
     "question": "What is a frontal zone?",
     "answer": "Collision area"
+  },
+  {
+    "question": "What is a glacial deposit?",
+    "answer": "Moraine"
   },
   {
     "question": "What is a gyroscope used for?",
@@ -1222,6 +1238,10 @@
     "answer": "Σ(x - μ)²/n"
   },
   {
+    "question": "What is the function called that is obtained after differentiation?",
+    "answer": "Derivative"
+  },
+  {
     "question": "What is the function of a cyclone?",
     "answer": "air movement"
   },
@@ -1266,6 +1286,10 @@
     "answer": "Black hole"
   },
   {
+    "question": "What is the inflammation of the brain called?",
+    "answer": "Encephalitis"
+  },
+  {
     "question": "What is the large structure that connects the hemispheres of the brain called?",
     "answer": "Corpus callosum"
   },
@@ -1304,6 +1328,10 @@
   {
     "question": "What is the main pigment structure of a leaf called?",
     "answer": "Chloroplast"
+  },
+  {
+    "question": "What is the main principle of self-assembly of nanostructures?",
+    "answer": "Molecular interaction"
   },
   {
     "question": "What is the mathematical function called that describes the probability distribution of particles?",
@@ -1388,6 +1416,10 @@
   {
     "question": "What is the most popular programming language?",
     "answer": "JavaScript"
+  },
+  {
+    "question": "What is the movement of gas molecules called?",
+    "answer": "Brownian motion"
   },
   {
     "question": "What is the name of a form of sustainable agriculture?",
@@ -1669,12 +1701,20 @@
     "answer": "Petrification"
   },
   {
+    "question": "What is the process of turning organic matter into fossil fuels called?",
+    "answer": "Diagenesis"
+  },
+  {
     "question": "What is the process of turning sediments into solid rock called?",
     "answer": "Friedrich Kekulé"
   },
   {
     "question": "What is the process of young plants growing called?",
     "answer": "Germination"
+  },
+  {
+    "question": "What is the purity of an experiment?",
+    "answer": "Absence of influence"
   },
   {
     "question": "What is the purpose of a theory?",
@@ -2471,6 +2511,10 @@
     "answer": "Palladium"
   },
   {
+    "question": "Which celestial object is known as a space telescope?",
+    "answer": "Hubble"
+  },
+  {
     "question": "Which cells are used for tissue regeneration?",
     "answer": "Mesenchymal cells"
   },
@@ -2524,6 +2568,10 @@
   {
     "question": "Which component is essential for the precise operation of a manipulator?",
     "answer": "Servo motor"
+  },
+  {
+    "question": "Which component of the atmosphere absorbs ultraviolet?",
+    "answer": "Ozone"
   },
   {
     "question": "Which constellation contains the star Vega?",
@@ -2624,6 +2672,10 @@
   {
     "question": "Which field of engineering develops autonomous machines?",
     "answer": "Mechatronics"
+  },
+  {
+    "question": "Which fish can breathe through its skin?",
+    "answer": "Eel"
   },
   {
     "question": "Which fish can swim backwards?",
@@ -2792,6 +2844,10 @@
   {
     "question": "Which of these animals is a lobe-finned fish?",
     "answer": "Coelacanth"
+  },
+  {
+    "question": "Which of these search algorithms operates in logarithmic time?",
+    "answer": "Binary search"
   },
   {
     "question": "Which of these technologies helps reduce water pollution?",
@@ -3157,12 +3213,20 @@
     "answer": "Sergei Winogradsky"
   },
   {
+    "question": "Who discovered the phenomenon of thermionic emission?",
+    "answer": "Owen Richardson"
+  },
+  {
     "question": "Who discovered the quantum nature of light?",
     "answer": "Albert Einstein"
   },
   {
     "question": "Who discovered the radioactive element uranium?",
     "answer": "Martin Klaproth"
+  },
+  {
+    "question": "Who discovered the role of DNA in heredity?",
+    "answer": "James Watson"
   },
   {
     "question": "Who discovered the starch-iodine reagent?",
@@ -3213,6 +3277,10 @@
     "answer": "Thomas Kuhn"
   },
   {
+    "question": "Who introduced the concept of earthquake magnitude?",
+    "answer": "Richter"
+  },
+  {
     "question": "Who introduced the concept of the 'electron'?",
     "answer": "J.J. Thomson"
   },
@@ -3247,6 +3315,10 @@
   {
     "question": "Who is considered the founder of zoology?",
     "answer": "Aristotle"
+  },
+  {
+    "question": "Who is credited with the term 'cell'?",
+    "answer": "Hooke"
   },
   {
     "question": "Who is the author of the book 'There's Plenty of Room at the Bottom', which influenced the development of nanotechnology?",

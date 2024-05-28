@@ -124,6 +124,10 @@
     "answer": "Antibody"
   },
   {
+    "question": "What active ingredient most effectively improves skin texture?",
+    "answer": "Retinol"
+  },
+  {
     "question": "What activities can improve the adaptation of elderly people to climate change?",
     "answer": "Hardening"
   },
@@ -254,6 +258,10 @@
   {
     "question": "What changes in brain structure are observed in patients with prenatal stress?",
     "answer": "reduced hippocampal volume"
+  },
+  {
+    "question": "What changes in lung gas exchange are characteristic of pneumonia?",
+    "answer": "Hypoxia"
   },
   {
     "question": "What changes in the brain are observed after a night without sleep?",
@@ -460,12 +468,20 @@
     "answer": "0.5-4 Hz"
   },
   {
+    "question": "What function do beta-glucans perform in the body?",
+    "answer": "Regulation of glucose"
+  },
+  {
     "question": "What function do supporting cells perform?",
     "answer": "Modulate the response"
   },
   {
     "question": "What function does glucagon perform?",
     "answer": "Increases blood glucose levels"
+  },
+  {
+    "question": "What function does gonadotropin perform?",
+    "answer": "Stimulates the sex glands"
   },
   {
     "question": "What function does the complement system perform in fighting infection?",
@@ -694,6 +710,10 @@
   {
     "question": "What is the primary function of helper T cells?",
     "answer": "Activation of other cells"
+  },
+  {
+    "question": "What is the primary marker of immune system cells?",
+    "answer": "Immunoglobulins"
   },
   {
     "question": "What is the primary mechanism of action of antibodies?",
@@ -1028,6 +1048,10 @@
     "answer": "myocardial hypertrophy"
   },
   {
+    "question": "What structure regulates intercellular interactions in the immune system?",
+    "answer": "Cytokines"
+  },
+  {
     "question": "What studies confirm the link between physical activity and reduced risk of cancer?",
     "answer": "Clinical studies"
   },
@@ -1150,6 +1174,10 @@
   {
     "question": "Which anti-aging components stimulate the synthesis of collagen and elastin?",
     "answer": "Peptides"
+  },
+  {
+    "question": "Which bacteria are most dangerous for skin infections?",
+    "answer": "Staphylococcus aureus"
   },
   {
     "question": "Which biochemical marker reflects the level of muscle fatigue?",
