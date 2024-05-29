@@ -4,6 +4,10 @@
     "answer": "Order 66"
   },
   {
+    "question": "At what moment did Obi-Wan Kenobi realize the importance of collaborating with the local population for a successful mission?",
+    "answer": "During the siege of the base"
+  },
+  {
     "question": "For how many years did Yoda train Jedi?",
     "answer": "800 years"
   },
@@ -90,6 +94,10 @@
   {
     "question": "How did Obi-Wan Kenobi adapt his plans in changing conditions?",
     "answer": "Flexibility"
+  },
+  {
+    "question": "How did Obi-Wan Kenobi determine the location of the separatists' secret base?",
+    "answer": "Spy network"
   },
   {
     "question": "How did Obi-Wan Kenobi develop his diplomatic skills in complex negotiations?",
@@ -194,6 +202,10 @@
   {
     "question": "How did Yoda explain the emergence of the dark side?",
     "answer": "Fear and hatred"
+  },
+  {
+    "question": "How did Yoda feel about Jedi prone to anger?",
+    "answer": "Disapprovingly"
   },
   {
     "question": "How did Yoda foresee the fate of the Jedi after the Clone Wars?",
@@ -528,6 +540,10 @@
     "answer": "Using the Force"
   },
   {
+    "question": "How do the Sith interpret the nature of the Force?",
+    "answer": "Selfishly"
+  },
+  {
     "question": "How do the Sith interpret the role of emotions in learning?",
     "answer": "Key"
   },
@@ -837,6 +853,10 @@
   {
     "question": "On which planet did Obi-Wan discover the droid manufacturing?",
     "answer": "Geonosis"
+  },
+  {
+    "question": "On which planet did Obi-Wan go into hiding after Order 66 was executed?",
+    "answer": "Tatooine"
   },
   {
     "question": "On which planet did Obi-Wan meet Jango Fett?",
@@ -1424,6 +1444,10 @@
     "answer": "Soresu"
   },
   {
+    "question": "What combat technique did Obi-Wan use to neutralize his opponent in battle?",
+    "answer": "Fencing"
+  },
+  {
     "question": "What combat technique is known among the Mandalorians?",
     "answer": "Hand-to-hand combat"
   },
@@ -1470,6 +1494,10 @@
   {
     "question": "What cultural concept of the Mandalorians influences their social structure?",
     "answer": "Clan system"
+  },
+  {
+    "question": "What cultural values prevail in Mandalorian society?",
+    "answer": "Warrior prowess"
   },
   {
     "question": "What danger lies in using the dark side?",
@@ -2048,6 +2076,10 @@
     "answer": "The loss of Padmé"
   },
   {
+    "question": "What event was the turning point in the Clone Wars?",
+    "answer": "Battle of Coruscant"
+  },
+  {
     "question": "What events contributed to Anakin's transformation into Darth Vader?",
     "answer": "Manipulations of Sidious"
   },
@@ -2268,6 +2300,10 @@
   {
     "question": "What impact did the Skywalker family have on the Galactic Civil War?",
     "answer": "Decisive role"
+  },
+  {
+    "question": "What impact did the Skywalker family have on the spread of the Force?",
+    "answer": "Expansion of boundaries"
   },
   {
     "question": "What impact did the destruction of the Death Star have on the galaxy?",
@@ -2498,6 +2534,10 @@
     "answer": "Metamorphosis"
   },
   {
+    "question": "What is the ability to control lightning called?",
+    "answer": "Electrokinesis"
+  },
+  {
     "question": "What is the ability to read minds called?",
     "answer": "Telepathy"
   },
@@ -2536,6 +2576,10 @@
   {
     "question": "What is the distance called that light travels in one year?",
     "answer": "Light year"
+  },
+  {
+    "question": "What is the effect called when light from a star is bent due to the gravity of another object?",
+    "answer": "Gravitational lensing"
   },
   {
     "question": "What is the effect called where the rotational speed of a star decreases as it ages?",
@@ -2908,6 +2952,10 @@
   {
     "question": "What key event changed the path of the Skywalkers?",
     "answer": "Battle of Endor"
+  },
+  {
+    "question": "What key event changed the role of the Skywalkers in the Galaxy?",
+    "answer": "Victory over the Empire"
   },
   {
     "question": "What key event led to the start of the Clone Wars?",
@@ -4071,6 +4119,14 @@
     "answer": "Force choke"
   },
   {
+    "question": "What skill was Princess Leia known for?",
+    "answer": "Diplomacy"
+  },
+  {
+    "question": "What skills are key for a Mandalorian warrior?",
+    "answer": "Tactics and endurance"
+  },
+  {
     "question": "What skills did Obi-Wan develop for successful reconnaissance?",
     "answer": "Observation"
   },
@@ -4248,6 +4304,10 @@
   {
     "question": "What structure belonged to the first Jedi?",
     "answer": "Temple on Ahch-To"
+  },
+  {
+    "question": "What structure strengthened the Empire's control over star systems?",
+    "answer": "Death Star"
   },
   {
     "question": "What style did the Jedi prefer for defense?",
@@ -5073,6 +5133,10 @@
     "answer": "Enemy"
   },
   {
+    "question": "What was Darth Vader's role in the Empire?",
+    "answer": "Sith Lord"
+  },
+  {
     "question": "What was Darth Vader's true motive in his quest for power?",
     "answer": "Power"
   },
@@ -5291,6 +5355,10 @@
   {
     "question": "What was the relationship between Han Solo and Chewbacca with Leia Organa?",
     "answer": "Allies"
+  },
+  {
+    "question": "What was the significance of ancient holocron technology for the Jedi?",
+    "answer": "Knowledge storage"
   },
   {
     "question": "What was the significance of the duel between Darth Vader and Luke in 'The Empire Strikes Back'?",
@@ -6011,6 +6079,10 @@
     "answer": "Dengar"
   },
   {
+    "question": "Which bounty hunter collaborated with the Rebel Alliance in a covert operation?",
+    "answer": "Sabine Wren"
+  },
+  {
     "question": "Which bounty hunter constantly conflicted with the Bounty Hunters' Guild?",
     "answer": "Bossk"
   },
@@ -6095,6 +6167,10 @@
   },
   {
     "question": "Which bounty hunter is known for his tactics against Jedi?",
+    "answer": "Cad Bane"
+  },
+  {
+    "question": "Which bounty hunter is known for their negotiation skills?",
     "answer": "Cad Bane"
   },
   {
@@ -6645,6 +6721,10 @@
     "answer": "Rebel Alliance"
   },
   {
+    "question": "Which famous Jedi challenged Darth Vader?",
+    "answer": "Obi-Wan Kenobi"
+  },
+  {
     "question": "Which famous Sith fought Obi-Wan on Mustafar?",
     "answer": "Anakin Skywalker"
   },
@@ -6948,6 +7028,10 @@
     "answer": "Jedi Order"
   },
   {
+    "question": "Which organization became the backbone of the fight against the Empire?",
+    "answer": "Rebels"
+  },
+  {
     "question": "Which organization controls the production of droid armies in 'Star Wars'?",
     "answer": "Trade Federation"
   },
@@ -7212,6 +7296,10 @@
     "answer": "Vortixx"
   },
   {
+    "question": "Which rebel leader became the last Jedi?",
+    "answer": "Luke Skywalker"
+  },
+  {
     "question": "Which scientist assisted bounty hunters in developing innovative weaponry?",
     "answer": "Dr. Winters"
   },
@@ -7238,6 +7326,10 @@
   {
     "question": "Which spell in the DC universe aids in restoring balance?",
     "answer": "Elemental Balance"
+  },
+  {
+    "question": "Which star belt is mentioned in 'Star Wars'?",
+    "answer": "Asteroid Belt"
   },
   {
     "question": "Which star in the Milky Way has the highest luminosity?",
@@ -7444,6 +7536,10 @@
     "answer": "Darth Bane"
   },
   {
+    "question": "Who created the clone army used in the Clone Wars?",
+    "answer": "Sifo-Dyas"
+  },
+  {
     "question": "Who created the clones from the famous bounty hunter?",
     "answer": "Kaminoans"
   },
@@ -7556,6 +7652,10 @@
     "answer": "Giovanni Zatara"
   },
   {
+    "question": "Who is known for their mastery of the Ataru combat style?",
+    "answer": "Yoda"
+  },
+  {
     "question": "Who is the author of the Jedi Code?",
     "answer": "Odan-Urr"
   },
@@ -7622,6 +7722,10 @@
   {
     "question": "Who taught Han to pilot?",
     "answer": "Togan Koal"
+  },
+  {
+    "question": "Who taught Luke Skywalker the Jedi philosophy after Yoda?",
+    "answer": "Obi-Wan Kenobi"
   },
   {
     "question": "Who trained Anakin as a Jedi?",
