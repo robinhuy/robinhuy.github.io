@@ -300,6 +300,10 @@
     "answer": "Creating tokens"
   },
   {
+    "question": "What does CRISPR do?",
+    "answer": "edits genes"
+  },
+  {
     "question": "What does FDM stand for?",
     "answer": "Fused Deposition Modeling"
   },
@@ -690,6 +694,10 @@
   {
     "question": "What is the ability of a machine to make decisions called?",
     "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "What is the approach called when multiple cloud providers are used?",
+    "answer": "Multicloud"
   },
   {
     "question": "What is the difficulty level of a multi-cloud terminal?",
@@ -1270,6 +1278,10 @@
   {
     "question": "What process cleans the generated energy from CO2?",
     "answer": "Carbon capture"
+  },
+  {
+    "question": "What process is critical for creating new cryptocurrency tokens?",
+    "answer": "Mining"
   },
   {
     "question": "What process is used for cloning?",
@@ -1942,6 +1954,10 @@
   {
     "question": "Which proteins are used for DNA editing?",
     "answer": "Nucleases"
+  },
+  {
+    "question": "Which protocol is used for energy-efficient IoT device connectivity?",
+    "answer": "Zigbee"
   },
   {
     "question": "Which protocol is used for real-time data transmission?",
