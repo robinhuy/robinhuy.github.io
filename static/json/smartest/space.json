@@ -16,6 +16,10 @@
     "answer": "Chemical reactions"
   },
   {
+    "question": "How are spiral arms formed in galaxies?",
+    "answer": "Gravitational waves"
+  },
+  {
     "question": "How can changes in a planet's orbital parameters affect its habitability?",
     "answer": "Climate and illumination"
   },
@@ -66,6 +70,10 @@
   {
     "question": "How do changes in the speed of light theoretically affect the laws of physics?",
     "answer": "Change constants"
+  },
+  {
+    "question": "How do galaxies form large-scale structures?",
+    "answer": "Gravitational interactions"
   },
   {
     "question": "How do galaxies interact during a collision?",
@@ -120,6 +128,10 @@
     "answer": "Causes mutations"
   },
   {
+    "question": "How does dark energy affect galaxies?",
+    "answer": "Accelerates expansion"
+  },
+  {
     "question": "How does dark energy interact with other forms of energy in the cosmos?",
     "answer": "Gravitationally"
   },
@@ -144,6 +156,10 @@
     "answer": "Increases density"
   },
   {
+    "question": "How does space radiation affect the longevity of orbital satellites?",
+    "answer": "Reduces lifespan"
+  },
+  {
     "question": "How does studying neutron stars contribute to understanding galactic dynamics?",
     "answer": "Gravity"
   },
@@ -158,6 +174,10 @@
   {
     "question": "How does the chemical composition of a galaxy change over time?",
     "answer": "Accumulation of elements"
+  },
+  {
+    "question": "How does the chemical composition of stars change as a galaxy ages?",
+    "answer": "Richer in metals"
   },
   {
     "question": "How does the distribution of angular momentum affect star formation?",
@@ -236,6 +256,10 @@
     "answer": "Gravitational lensing"
   },
   {
+    "question": "How is the interaction of light with gravity used in astrophysics?",
+    "answer": "Studying lensing"
+  },
+  {
     "question": "How is the mass of a black hole in galactic nuclei determined?",
     "answer": "Orbits of stars"
   },
@@ -256,6 +280,10 @@
     "answer": "1998"
   },
   {
+    "question": "What adaptations can organisms develop to survive under high-pressure conditions on planets?",
+    "answer": "Barophilia"
+  },
+  {
     "question": "What advantage does the use of multi-layer mirrors in modern space telescopes provide?",
     "answer": "Increased collecting area"
   },
@@ -272,12 +300,20 @@
     "answer": "Accurate composition analysis"
   },
   {
+    "question": "What are the characteristics of stars in the Milky Way's bulge?",
+    "answer": "Old and dense"
+  },
+  {
     "question": "What are the conditions for the formation of dense cores in molecular clouds?",
     "answer": "High density"
   },
   {
     "question": "What are the effects of gravitational lensing on interstellar objects?",
     "answer": "Distortion of light"
+  },
+  {
+    "question": "What are the effects of space radiation on electronics?",
+    "answer": "Malfunction"
   },
   {
     "question": "What challenges arise in studying the nature of dark matter?",
@@ -304,6 +340,10 @@
     "answer": "High temperature"
   },
   {
+    "question": "What conditions are necessary for gravitational compression to occur in the cores of exoplanets?",
+    "answer": "High mass"
+  },
+  {
     "question": "What conditions are necessary for the emergence of life in extreme environments on other planets?",
     "answer": "Chemical reactions"
   },
@@ -318,6 +358,10 @@
   {
     "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
     "answer": "Geothermal energy"
+  },
+  {
+    "question": "What conditions contribute to the formation of complex organic molecules in protoplanetary disks?",
+    "answer": "Temperature gradients"
   },
   {
     "question": "What data suggests the existence of exotic forms of matter?",
@@ -400,8 +444,16 @@
     "answer": "Accelerate aging"
   },
   {
+    "question": "What effect do high-energy particles have on spacecraft materials?",
+    "answer": "Loss of strength"
+  },
+  {
     "question": "What effect do planetary magnetic fields have on the trajectories of satellites?",
     "answer": "Alter the trajectory"
+  },
+  {
+    "question": "What effect does cosmic dust have on the light spectrum from distant galaxies?",
+    "answer": "Spectral attenuation"
   },
   {
     "question": "What effect does cosmic radiation have on star formation?",
@@ -410,6 +462,10 @@
   {
     "question": "What effect does cosmic radiation have on the structure of materials in space?",
     "answer": "Degradation of structure"
+  },
+  {
+    "question": "What effect does dark matter have on the structure of the Milky Way?",
+    "answer": "Gravitational"
   },
   {
     "question": "What effect does radiation have on structural materials in space?",
@@ -422,6 +478,10 @@
   {
     "question": "What effect does stellar wind have on exoplanets?",
     "answer": "Atmospheric erosion"
+  },
+  {
+    "question": "What effect does the central black hole have on galactic dynamics?",
+    "answer": "Speeds up motion"
   },
   {
     "question": "What effect does the change in a star's magnetic field have on the atmospheric processes of nearby planets?",
@@ -442,6 +502,10 @@
   {
     "question": "What effect does tidal interaction have on the orbit of an exoplanet?",
     "answer": "Stabilization"
+  },
+  {
+    "question": "What effect does ultraviolet radiation have on molecular structure in space conditions?",
+    "answer": "Breaks down molecules"
   },
   {
     "question": "What effect influences the apparent color of stars?",
@@ -496,6 +560,10 @@
     "answer": "Orbital inclination"
   },
   {
+    "question": "What factor determines the shape of a galaxy in its early stages of development?",
+    "answer": "Angular momentum"
+  },
+  {
     "question": "What factor determines the size and shape of the accretion disk in a protostellar system?",
     "answer": "Angular momentum"
   },
@@ -522,6 +590,10 @@
   {
     "question": "What factors complicate the study of Mars' magnetic field?",
     "answer": "Weakness of the field"
+  },
+  {
+    "question": "What factors contribute to cloud formation on exoplanets?",
+    "answer": "Temperature and pressure"
   },
   {
     "question": "What factors contribute to the formation of clouds in the atmosphere of exoplanets?",
@@ -596,6 +668,10 @@
     "answer": "Gravitational perturbations"
   },
   {
+    "question": "What influence do gravitational interactions of exoplanets with their stars have on the atmospheric structures of exoplanets?",
+    "answer": "Tidal forces"
+  },
+  {
     "question": "What influence does the galactic environment have on the formation of star systems?",
     "answer": "Gravitational interactions"
   },
@@ -610,6 +686,10 @@
   {
     "question": "What innovative coating protects devices from extreme temperatures in space?",
     "answer": "Thermal insulation tiles"
+  },
+  {
+    "question": "What innovative method cools equipment in a vacuum?",
+    "answer": "Radiator"
   },
   {
     "question": "What innovative radiation protection method has been implemented on the latest models of space stations?",
@@ -630,6 +710,10 @@
   {
     "question": "What is the contribution of magnetic fields to the dynamics of galaxies?",
     "answer": "Supporting structure"
+  },
+  {
+    "question": "What is the contribution of supernova explosions to the dynamics of a galaxy?",
+    "answer": "Turbulence"
   },
   {
     "question": "What is the effect of angular momentum on star formation?",
@@ -678,6 +762,10 @@
   {
     "question": "What is the nature of galactic flares?",
     "answer": "Energy emissions"
+  },
+  {
+    "question": "What is the nature of gravitational waves in the context of general relativity?",
+    "answer": "Ripples in spacetime"
   },
   {
     "question": "What is the nature of instabilities leading to the fragmentation of protostellar clouds?",
@@ -806,6 +894,10 @@
   {
     "question": "What is the role of the intergalactic medium in the dynamics of galaxy clusters?",
     "answer": "Gravity"
+  },
+  {
+    "question": "What is the role of tidal forces in the evolution of galactic structures?",
+    "answer": "Stretching of stars"
   },
   {
     "question": "What is the role of turbulence in molecular clouds?",
@@ -946,6 +1038,10 @@
   {
     "question": "What methods are used to stabilize satellite orbits around Jupiter?",
     "answer": "Gravitational maneuvering"
+  },
+  {
+    "question": "What methods are used to study dark energy in cosmology?",
+    "answer": "Cosmological observations"
   },
   {
     "question": "What methods are used to study the distribution of mass in a galaxy?",
@@ -1104,6 +1200,10 @@
     "answer": "Yarkovsky effect"
   },
   {
+    "question": "What phenomenon explains the stable rotation of galaxies contrary to expected effects?",
+    "answer": "Dark matter"
+  },
+  {
     "question": "What phenomenon forms complex orbital resonances between planets and moons in the Solar System?",
     "answer": "Gravitational interactions"
   },
@@ -1208,6 +1308,10 @@
     "answer": "Gravitational attraction"
   },
   {
+    "question": "What physical processes determine the size and shape of asteroids?",
+    "answer": "Gravity and rotation"
+  },
+  {
     "question": "What physical processes were responsible for the formation of the first stars?",
     "answer": "Gravitational collapse"
   },
@@ -1226,6 +1330,10 @@
   {
     "question": "What process contributes to the formation of massive galaxies?",
     "answer": "Galaxy merger"
+  },
+  {
+    "question": "What process determines the chemical evolution of planets in the Solar System?",
+    "answer": "Differentiation"
   },
   {
     "question": "What process determines the homogeneity of matter?",
@@ -1336,6 +1444,10 @@
     "answer": "Galaxy mergers"
   },
   {
+    "question": "What processes influence the distribution of chemical elements in galaxies?",
+    "answer": "Stellar winds"
+  },
+  {
     "question": "What processes influence the formation of galaxies?",
     "answer": "Gravitational interaction"
   },
@@ -1412,6 +1524,10 @@
     "answer": "Magnification of images"
   },
   {
+    "question": "What role does orbital resonance play in the stability of satellite systems?",
+    "answer": "Stabilization of orbits"
+  },
+  {
     "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
     "answer": "Key role"
   },
@@ -1464,6 +1580,10 @@
     "answer": "Satellite systems"
   },
   {
+    "question": "What technologies are used for orbit correction of satellites around Mercury?",
+    "answer": "Ion thrusters"
+  },
+  {
     "question": "What technologies are used for protection against space radiation on space stations?",
     "answer": "Shielding"
   },
@@ -1484,6 +1604,10 @@
     "answer": "Satellite monitoring"
   },
   {
+    "question": "What technologies do space telescopes use to study dark matter?",
+    "answer": "Gravitational lensing"
+  },
+  {
     "question": "What technologies support the operation of space telescopes in a vacuum environment?",
     "answer": "Thermal insulation of the devices"
   },
@@ -1498,6 +1622,10 @@
   {
     "question": "What type of energy is not carried by cosmic radiation?",
     "answer": "Thermal energy"
+  },
+  {
+    "question": "What type of experiments help identify hypothetical dark matter particles?",
+    "answer": "Accelerator experiments"
   },
   {
     "question": "What type of lens minimizes chromatic aberration?",
@@ -1566,6 +1694,10 @@
   {
     "question": "Which aspect of quantum physics affects the early Universe?",
     "answer": "Quantum entanglement"
+  },
+  {
+    "question": "Which asteroids can reflect infrared radiation?",
+    "answer": "Dwarfs"
   },
   {
     "question": "Which astronomer developed the theory of multidimensional space?",
@@ -1638,6 +1770,10 @@
   {
     "question": "Which constellation has the largest number of meteor showers?",
     "answer": "Perseus"
+  },
+  {
+    "question": "Which constellation is associated with a mythical lion but is not a zodiac sign?",
+    "answer": "Leo Minor"
   },
   {
     "question": "Which constellation is associated with the legend featuring a character named Icarus?",
@@ -1716,6 +1852,10 @@
     "answer": "General theory of relativity"
   },
   {
+    "question": "Which galaxy has the highest rotation speed?",
+    "answer": "NGC 1365"
+  },
+  {
     "question": "Which hypothesis explains the predominance of matter over antimatter?",
     "answer": "Baryogenesis"
   },
@@ -1764,8 +1904,16 @@
     "answer": "Mars Express"
   },
   {
+    "question": "Which mission was the first to discover traces of ancient life on Mars?",
+    "answer": "Curiosity"
+  },
+  {
     "question": "Which mission was the first to land on the surface of the Moon after the year 2000?",
     "answer": "Chang'e 3"
+  },
+  {
+    "question": "Which mission was the first to reach orbit around Venus in 1978?",
+    "answer": "Pioneer Venus"
   },
   {
     "question": "Which mission was the first to reach orbit around the Sun?",
@@ -1812,6 +1960,10 @@
     "answer": "Nereid"
   },
   {
+    "question": "Which moon of Uranus has canyons larger than the Grand Canyon?",
+    "answer": "Miranda"
+  },
+  {
     "question": "Which moons exhibit resonance with their planet's rings?",
     "answer": "Shepherd moons"
   },
@@ -1830,6 +1982,10 @@
   {
     "question": "Which parameter changes the observer's perspective in a gravitational field?",
     "answer": "Gravitational shift"
+  },
+  {
+    "question": "Which phenomenon indirectly confirms the existence of dark matter through the movement of light?",
+    "answer": "Gravitational lensing"
   },
   {
     "question": "Which physical processes might explain the nature of dark energy?",
@@ -1878,6 +2034,10 @@
   {
     "question": "Which project was the first to use a gravity assist maneuver?",
     "answer": "Mariner 10"
+  },
+  {
+    "question": "Which project was the first to use aerobraking at Venus?",
+    "answer": "Magellan"
   },
   {
     "question": "Which project was the first to use radar to study Venus?",
@@ -2100,6 +2260,10 @@
     "answer": "quintessence"
   },
   {
+    "question": "Which theory explains the existence of a triple system among asteroids?",
+    "answer": "Gravitational dynamics"
+  },
+  {
     "question": "Which theory extends the standard cosmological model to explain dark energy?",
     "answer": "Lambda-CDM"
   },
@@ -2122,6 +2286,10 @@
   {
     "question": "Who formulated the law relating the period and luminosity of Cepheid variable stars?",
     "answer": "Henrietta Leavitt"
+  },
+  {
+    "question": "Who proposed the grand unification theory explaining the interaction of fundamental forces?",
+    "answer": "Abdus Salam"
   },
   {
     "question": "Who took the first image of a black hole?",

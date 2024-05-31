@@ -1,5 +1,9 @@
 [
   {
+    "question": "Example of discretionary policy",
+    "answer": "Fiscal stimulus"
+  },
+  {
     "question": "How do central banks control the money supply?",
     "answer": "Interest rates"
   },
@@ -10,6 +14,10 @@
   {
     "question": "How does price regulation affect the market?",
     "answer": "Changes prices"
+  },
+  {
+    "question": "How is the stock market evaluated?",
+    "answer": "Trading volume"
   },
   {
     "question": "In what year did Germany introduce the Deutsche Mark?",
@@ -84,6 +92,10 @@
     "answer": "ups and downs"
   },
   {
+    "question": "What characterizes stagflation?",
+    "answer": "Inflation and unemployment"
+  },
+  {
     "question": "What contributes to economic planning?",
     "answer": "Data analysis"
   },
@@ -104,6 +116,10 @@
     "answer": "Inflation"
   },
   {
+    "question": "What did the Russian Investment Fund invest in during the early 2000s?",
+    "answer": "Energy"
+  },
+  {
     "question": "What does 'blue chips' mean on the stock exchange?",
     "answer": "Reliable stocks"
   },
@@ -122,6 +138,10 @@
   {
     "question": "What does Keynesian economic theory regulate?",
     "answer": "Demand"
+  },
+  {
+    "question": "What does a Pareto chart measure?",
+    "answer": "Frequency and value"
   },
   {
     "question": "What does a tariff restriction include?",
@@ -168,6 +188,10 @@
     "answer": "Protection of producers"
   },
   {
+    "question": "What does real GDP measure?",
+    "answer": "Economic growth"
+  },
+  {
     "question": "What does structural economic policy include?",
     "answer": "Innovation"
   },
@@ -192,6 +216,10 @@
     "answer": "Earnings per share"
   },
   {
+    "question": "What does the Harrod-Domar model show?",
+    "answer": "Economic growth"
+  },
+  {
     "question": "What does the Heckscher-Ohlin model demonstrate?",
     "answer": "International trade"
   },
@@ -202,6 +230,10 @@
   {
     "question": "What does the IS-LM model describe?",
     "answer": "capital and money markets"
+  },
+  {
+    "question": "What does the Keynesian model symbolize?",
+    "answer": "Consumption and savings"
   },
   {
     "question": "What does the Laffer Curve illustrate?",
@@ -216,12 +248,20 @@
     "answer": "Capital structure"
   },
   {
+    "question": "What does the Nikkei index measure?",
+    "answer": "Japanese market"
+  },
+  {
     "question": "What does the Phillips curve describe?",
     "answer": "The relationship between inflation and unemployment"
   },
   {
     "question": "What does the S&P agency measure?",
     "answer": "Credit rating"
+  },
+  {
+    "question": "What does the aggregate demand function show?",
+    "answer": "Total demand"
   },
   {
     "question": "What does the central limit theorem describe?",
@@ -260,6 +300,10 @@
     "answer": "Increase in supply"
   },
   {
+    "question": "What does the least squares method describe?",
+    "answer": "Minimization of error"
+  },
+  {
     "question": "What does the term 'Gini coefficient' mean?",
     "answer": "Income inequality"
   },
@@ -270,6 +314,10 @@
   {
     "question": "What does the term 'default' mean?",
     "answer": "Failure to pay debts"
+  },
+  {
+    "question": "What does the term 'dumping' mean?",
+    "answer": "Lowering prices"
   },
   {
     "question": "What does the term 'tax multiplier' mean?",
@@ -298,6 +346,10 @@
   {
     "question": "What event can hinder economic growth?",
     "answer": "Economic crisis"
+  },
+  {
+    "question": "What event characterizes the economic crisis of 2008?",
+    "answer": "Financial crisis"
   },
   {
     "question": "What event triggered the global economic crisis of the 1930s?",
@@ -400,6 +452,10 @@
     "answer": "Reduction of inflation"
   },
   {
+    "question": "What is calculated as the ratio of change in consumption to change in income?",
+    "answer": "MPC"
+  },
+  {
     "question": "What is called a point estimate?",
     "answer": "Parameter estimate"
   },
@@ -456,6 +512,14 @@
     "answer": "Price charts"
   },
   {
+    "question": "What is the Lorenz curve used for?",
+    "answer": "Measuring inequality"
+  },
+  {
+    "question": "What is the distribution with one peak called?",
+    "answer": "Unimodal distribution"
+  },
+  {
     "question": "What is the effect called when variables correlate due to a common hidden factor?",
     "answer": "Spurious correlation effect"
   },
@@ -468,8 +532,16 @@
     "answer": "Increasing efficiency"
   },
   {
+    "question": "What is the main tool of fiscal policy?",
+    "answer": "taxes"
+  },
+  {
     "question": "What is the market called with a single buyer?",
     "answer": "Monopsony"
+  },
+  {
+    "question": "What is the maximum likelihood method?",
+    "answer": "Estimation method"
   },
   {
     "question": "What is the method called that evaluates a model by maximizing likelihood?",
@@ -532,12 +604,20 @@
     "answer": "Economic planning"
   },
   {
+    "question": "What is the term for a prolonged decline in business activity?",
+    "answer": "Recession"
+  },
+  {
     "question": "What is the term for a trend that persists in data over a long period of time?",
     "answer": "Systematic"
   },
   {
     "question": "What is the term for an increase in exports?",
     "answer": "Export growth"
+  },
+  {
+    "question": "What is the term for controlling inflation and stabilizing the economy?",
+    "answer": "Stabilization policy"
   },
   {
     "question": "What is the term for the decrease in utility with each additional unit of a consumed good?",
@@ -576,6 +656,10 @@
     "answer": "Import substitution"
   },
   {
+    "question": "What measures are used to control inflation?",
+    "answer": "Monetary policy"
+  },
+  {
     "question": "What method is used for cohort analysis?",
     "answer": "Cohort analysis"
   },
@@ -592,6 +676,10 @@
     "answer": "Concentration"
   },
   {
+    "question": "What phenomenon negatively affects labor productivity?",
+    "answer": "Recession"
+  },
+  {
     "question": "What principle states that choices are made to maximize satisfaction with minimal costs?",
     "answer": "Consumer rationality"
   },
@@ -606,6 +694,10 @@
   {
     "question": "What role does international trade policy play?",
     "answer": "Control of exports"
+  },
+  {
+    "question": "What strategy involves the diversification of the economy?",
+    "answer": "Industrialization"
   },
   {
     "question": "What tasks does fiscal policy perform?",
@@ -626,6 +718,14 @@
   {
     "question": "What was the name of the economic crisis in Japan in the 1990s?",
     "answer": "The Lost Decade"
+  },
+  {
+    "question": "What was the name of the first stock exchange?",
+    "answer": "Amsterdam"
+  },
+  {
+    "question": "What was the name of the world's first coin?",
+    "answer": "Lydian stater"
   },
   {
     "question": "When did the Texas oil boom occur?",
@@ -658,6 +758,10 @@
   {
     "question": "Which country is known for the highest labor productivity?",
     "answer": "Norway"
+  },
+  {
+    "question": "Which country is the leader in the application of protectionism?",
+    "answer": "USA"
   },
   {
     "question": "Which country was the first to adopt the gold standard?",
@@ -712,8 +816,16 @@
     "answer": "Income statement"
   },
   {
+    "question": "Which indicator assesses the risk of stocks?",
+    "answer": "Beta coefficient"
+  },
+  {
     "question": "Which indicator characterizes economic inequality?",
     "answer": "Gini coefficient"
+  },
+  {
+    "question": "Which indicator reflects the state of international reserves?",
+    "answer": "Gold and foreign exchange reserves"
   },
   {
     "question": "Which industry adapts to innovations the fastest?",
@@ -792,6 +904,10 @@
     "answer": "Keynesian theory"
   },
   {
+    "question": "Which theory explains long-term economic growth?",
+    "answer": "Theory of Embedded Expectations"
+  },
+  {
     "question": "Which theory explains short-term fluctuations in the economy?",
     "answer": "Business cycle theory"
   },
@@ -818,6 +934,10 @@
   {
     "question": "Who developed the theory of entrepreneurial risk?",
     "answer": "Frank Knight"
+  },
+  {
+    "question": "Who formulated the 'Voter's Paradox'?",
+    "answer": "Condorcet"
   },
   {
     "question": "Who founded the first bank?",

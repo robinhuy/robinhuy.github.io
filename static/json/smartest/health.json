@@ -8,6 +8,10 @@
     "answer": "Effector"
   },
   {
+    "question": "How are pathogens detected in the body?",
+    "answer": "Receptors"
+  },
+  {
     "question": "How do Toll-like receptors function?",
     "answer": "recognize pathogens"
   },
@@ -94,6 +98,10 @@
   {
     "question": "In which biochemical reaction is thiamine involved?",
     "answer": "Decarboxylation"
+  },
+  {
+    "question": "In which lung condition are inflammatory mediators released?",
+    "answer": "Asthma"
   },
   {
     "question": "In which part of the brain is vasopressin released?",
@@ -636,6 +644,10 @@
     "answer": "Hormonal changes"
   },
   {
+    "question": "What is the main mechanism for destroying damaged cells?",
+    "answer": "Apoptosis"
+  },
+  {
     "question": "What is the main receptor of T-lymphocytes?",
     "answer": "TCR"
   },
@@ -960,6 +972,10 @@
     "answer": "Binding of antibodies"
   },
   {
+    "question": "What process involves intercellular communication to coordinate the immune response?",
+    "answer": "Cytokine network"
+  },
+  {
     "question": "What process involves the interaction of L- and F-antibodies?",
     "answer": "Agglutination"
   },
@@ -1004,6 +1020,10 @@
     "answer": "Support structure"
   },
   {
+    "question": "What role do osteons play in bone tissue?",
+    "answer": "Structural"
+  },
+  {
     "question": "What role does GABA play in the sleep process?",
     "answer": "Inhibition of neurons"
   },
@@ -1018,6 +1038,10 @@
   {
     "question": "What role does the Major Histocompatibility Complex (MHC) play in immunity?",
     "answer": "Antigen presentation"
+  },
+  {
+    "question": "What role does the cytokine IFN-gamma play in the immune system?",
+    "answer": "Regulatory"
   },
   {
     "question": "What serious syndrome is characterized by a rapid deterioration of blood flow in the coronary arteries?",
@@ -1210,6 +1234,10 @@
   {
     "question": "Which cells are involved in immune memory?",
     "answer": "B-lymphocytes"
+  },
+  {
+    "question": "Which cells are involved in the degradation of bone tissue?",
+    "answer": "Osteoclasts"
   },
   {
     "question": "Which cells are involved in the synthesis of bone matrix?",
@@ -1764,6 +1792,10 @@
     "answer": "Deoxypyridinoline"
   },
   {
+    "question": "Which substance is synthesized by the endothelium of blood vessels and promotes vasodilation?",
+    "answer": "Nitric oxide"
+  },
+  {
     "question": "Which substance serves as an indicator of the activity of the hypothalamic-pituitary-adrenal axis?",
     "answer": "Corticotropin"
   },
@@ -1810,6 +1842,10 @@
   {
     "question": "Which supplements can affect calcium metabolism?",
     "answer": "Vitamin D"
+  },
+  {
+    "question": "Which testing method most accurately identifies the risk of developing diabetes?",
+    "answer": "Glucose tolerance test"
   },
   {
     "question": "Which theory explains the necessity of sleep for memory consolidation?",
@@ -1882,6 +1918,10 @@
   {
     "question": "Which vitamin is a strong antioxidant in mitochondria?",
     "answer": "Vitamin E"
+  },
+  {
+    "question": "Which vitamin is actively involved in the process of methylation and DNA regulation?",
+    "answer": "Folic acid"
   },
   {
     "question": "Which vitamin is an essential cofactor for the synthesis of carnitine, important for fat metabolism?",
@@ -1958,6 +1998,10 @@
   {
     "question": "Which vitamins are important for neurotransmitters?",
     "answer": "B6 and B9"
+  },
+  {
+    "question": "Which vitamins are involved in energy metabolism?",
+    "answer": "B1, B2, B3"
   },
   {
     "question": "Which vitamins are involved in methylation?",

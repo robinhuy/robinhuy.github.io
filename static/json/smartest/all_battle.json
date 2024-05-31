@@ -4741,6 +4741,10 @@
         "answer": "Olmecs"
     },
     {
+        "question": "Example of discretionary policy",
+        "answer": "Fiscal stimulus"
+    },
+    {
         "question": "How do central banks control the money supply?",
         "answer": "Interest rates"
     },
@@ -4751,6 +4755,10 @@
     {
         "question": "How does price regulation affect the market?",
         "answer": "Changes prices"
+    },
+    {
+        "question": "How is the stock market evaluated?",
+        "answer": "Trading volume"
     },
     {
         "question": "In what year did Germany introduce the Deutsche Mark?",
@@ -4825,6 +4833,10 @@
         "answer": "ups and downs"
     },
     {
+        "question": "What characterizes stagflation?",
+        "answer": "Inflation and unemployment"
+    },
+    {
         "question": "What contributes to economic planning?",
         "answer": "Data analysis"
     },
@@ -4845,6 +4857,10 @@
         "answer": "Inflation"
     },
     {
+        "question": "What did the Russian Investment Fund invest in during the early 2000s?",
+        "answer": "Energy"
+    },
+    {
         "question": "What does 'blue chips' mean on the stock exchange?",
         "answer": "Reliable stocks"
     },
@@ -4863,6 +4879,10 @@
     {
         "question": "What does Keynesian economic theory regulate?",
         "answer": "Demand"
+    },
+    {
+        "question": "What does a Pareto chart measure?",
+        "answer": "Frequency and value"
     },
     {
         "question": "What does a tariff restriction include?",
@@ -4909,6 +4929,10 @@
         "answer": "Protection of producers"
     },
     {
+        "question": "What does real GDP measure?",
+        "answer": "Economic growth"
+    },
+    {
         "question": "What does structural economic policy include?",
         "answer": "Innovation"
     },
@@ -4933,6 +4957,10 @@
         "answer": "Earnings per share"
     },
     {
+        "question": "What does the Harrod-Domar model show?",
+        "answer": "Economic growth"
+    },
+    {
         "question": "What does the Heckscher-Ohlin model demonstrate?",
         "answer": "International trade"
     },
@@ -4943,6 +4971,10 @@
     {
         "question": "What does the IS-LM model describe?",
         "answer": "capital and money markets"
+    },
+    {
+        "question": "What does the Keynesian model symbolize?",
+        "answer": "Consumption and savings"
     },
     {
         "question": "What does the Laffer Curve illustrate?",
@@ -4957,12 +4989,20 @@
         "answer": "Capital structure"
     },
     {
+        "question": "What does the Nikkei index measure?",
+        "answer": "Japanese market"
+    },
+    {
         "question": "What does the Phillips curve describe?",
         "answer": "The relationship between inflation and unemployment"
     },
     {
         "question": "What does the S&P agency measure?",
         "answer": "Credit rating"
+    },
+    {
+        "question": "What does the aggregate demand function show?",
+        "answer": "Total demand"
     },
     {
         "question": "What does the central limit theorem describe?",
@@ -5001,6 +5041,10 @@
         "answer": "Increase in supply"
     },
     {
+        "question": "What does the least squares method describe?",
+        "answer": "Minimization of error"
+    },
+    {
         "question": "What does the term 'Gini coefficient' mean?",
         "answer": "Income inequality"
     },
@@ -5011,6 +5055,10 @@
     {
         "question": "What does the term 'default' mean?",
         "answer": "Failure to pay debts"
+    },
+    {
+        "question": "What does the term 'dumping' mean?",
+        "answer": "Lowering prices"
     },
     {
         "question": "What does the term 'tax multiplier' mean?",
@@ -5039,6 +5087,10 @@
     {
         "question": "What event can hinder economic growth?",
         "answer": "Economic crisis"
+    },
+    {
+        "question": "What event characterizes the economic crisis of 2008?",
+        "answer": "Financial crisis"
     },
     {
         "question": "What event triggered the global economic crisis of the 1930s?",
@@ -5141,6 +5193,10 @@
         "answer": "Reduction of inflation"
     },
     {
+        "question": "What is calculated as the ratio of change in consumption to change in income?",
+        "answer": "MPC"
+    },
+    {
         "question": "What is called a point estimate?",
         "answer": "Parameter estimate"
     },
@@ -5197,6 +5253,14 @@
         "answer": "Price charts"
     },
     {
+        "question": "What is the Lorenz curve used for?",
+        "answer": "Measuring inequality"
+    },
+    {
+        "question": "What is the distribution with one peak called?",
+        "answer": "Unimodal distribution"
+    },
+    {
         "question": "What is the effect called when variables correlate due to a common hidden factor?",
         "answer": "Spurious correlation effect"
     },
@@ -5209,8 +5273,16 @@
         "answer": "Increasing efficiency"
     },
     {
+        "question": "What is the main tool of fiscal policy?",
+        "answer": "taxes"
+    },
+    {
         "question": "What is the market called with a single buyer?",
         "answer": "Monopsony"
+    },
+    {
+        "question": "What is the maximum likelihood method?",
+        "answer": "Estimation method"
     },
     {
         "question": "What is the method called that evaluates a model by maximizing likelihood?",
@@ -5273,12 +5345,20 @@
         "answer": "Economic planning"
     },
     {
+        "question": "What is the term for a prolonged decline in business activity?",
+        "answer": "Recession"
+    },
+    {
         "question": "What is the term for a trend that persists in data over a long period of time?",
         "answer": "Systematic"
     },
     {
         "question": "What is the term for an increase in exports?",
         "answer": "Export growth"
+    },
+    {
+        "question": "What is the term for controlling inflation and stabilizing the economy?",
+        "answer": "Stabilization policy"
     },
     {
         "question": "What is the term for the decrease in utility with each additional unit of a consumed good?",
@@ -5317,6 +5397,10 @@
         "answer": "Import substitution"
     },
     {
+        "question": "What measures are used to control inflation?",
+        "answer": "Monetary policy"
+    },
+    {
         "question": "What method is used for cohort analysis?",
         "answer": "Cohort analysis"
     },
@@ -5333,6 +5417,10 @@
         "answer": "Concentration"
     },
     {
+        "question": "What phenomenon negatively affects labor productivity?",
+        "answer": "Recession"
+    },
+    {
         "question": "What principle states that choices are made to maximize satisfaction with minimal costs?",
         "answer": "Consumer rationality"
     },
@@ -5347,6 +5435,10 @@
     {
         "question": "What role does international trade policy play?",
         "answer": "Control of exports"
+    },
+    {
+        "question": "What strategy involves the diversification of the economy?",
+        "answer": "Industrialization"
     },
     {
         "question": "What tasks does fiscal policy perform?",
@@ -5367,6 +5459,14 @@
     {
         "question": "What was the name of the economic crisis in Japan in the 1990s?",
         "answer": "The Lost Decade"
+    },
+    {
+        "question": "What was the name of the first stock exchange?",
+        "answer": "Amsterdam"
+    },
+    {
+        "question": "What was the name of the world's first coin?",
+        "answer": "Lydian stater"
     },
     {
         "question": "When did the Texas oil boom occur?",
@@ -5399,6 +5499,10 @@
     {
         "question": "Which country is known for the highest labor productivity?",
         "answer": "Norway"
+    },
+    {
+        "question": "Which country is the leader in the application of protectionism?",
+        "answer": "USA"
     },
     {
         "question": "Which country was the first to adopt the gold standard?",
@@ -5453,8 +5557,16 @@
         "answer": "Income statement"
     },
     {
+        "question": "Which indicator assesses the risk of stocks?",
+        "answer": "Beta coefficient"
+    },
+    {
         "question": "Which indicator characterizes economic inequality?",
         "answer": "Gini coefficient"
+    },
+    {
+        "question": "Which indicator reflects the state of international reserves?",
+        "answer": "Gold and foreign exchange reserves"
     },
     {
         "question": "Which industry adapts to innovations the fastest?",
@@ -5533,6 +5645,10 @@
         "answer": "Keynesian theory"
     },
     {
+        "question": "Which theory explains long-term economic growth?",
+        "answer": "Theory of Embedded Expectations"
+    },
+    {
         "question": "Which theory explains short-term fluctuations in the economy?",
         "answer": "Business cycle theory"
     },
@@ -5559,6 +5675,10 @@
     {
         "question": "Who developed the theory of entrepreneurial risk?",
         "answer": "Frank Knight"
+    },
+    {
+        "question": "Who formulated the 'Voter's Paradox'?",
+        "answer": "Condorcet"
     },
     {
         "question": "Who founded the first bank?",
@@ -8229,6 +8349,10 @@
         "answer": "Outer Wilds"
     },
     {
+        "question": "In which game do you need to develop a post-apocalyptic society and gather resources for survival?",
+        "answer": "Frostpunk"
+    },
+    {
         "question": "In which game do you need to maintain the survival of characters on an alien planet?",
         "answer": "Oxygen Not Included"
     },
@@ -8317,6 +8441,10 @@
         "answer": "Homeworld"
     },
     {
+        "question": "In which game is the story told from the perspective of an android named 2B?",
+        "answer": "Nier: Automata"
+    },
+    {
         "question": "In which game is the synergy of music and visual effects important?",
         "answer": "Crypt of the Necrodancer"
     },
@@ -8379,6 +8507,10 @@
     {
         "question": "What does the word 'Tangram' mean?",
         "answer": "Seven boards of skill"
+    },
+    {
+        "question": "What engine does the game DOOM 2016 use?",
+        "answer": "id Tech 6"
     },
     {
         "question": "What engine was used to develop the game Grand Theft Auto V?",
@@ -8455,6 +8587,10 @@
     {
         "question": "What is the genre of the game Persona 5?",
         "answer": "JRPG"
+    },
+    {
+        "question": "What is the goal of the 'Iron Maiden' puzzle?",
+        "answer": "Open"
     },
     {
         "question": "What is the homeland of the Khuzaits in Mount & Blade?",
@@ -8569,6 +8705,10 @@
         "answer": "Martin Gardner"
     },
     {
+        "question": "What is the name of the fictional continent in the game Dark Souls?",
+        "answer": "Lordran"
+    },
+    {
         "question": "What is the name of the fictional mirror in the game Mirror's Edge?",
         "answer": "Catalyst"
     },
@@ -8595,6 +8735,10 @@
     {
         "question": "What is the name of the flight simulator by Laminar Research?",
         "answer": "X-Plane"
+    },
+    {
+        "question": "What is the name of the founder of FaZe Clan?",
+        "answer": "Thomas Oliveira"
     },
     {
         "question": "What is the name of the game about catching criminals in the Wild West?",
@@ -8743,6 +8887,10 @@
     {
         "question": "What is the name of the mask that Kratos is searching for in the game God of War: Ragnarok?",
         "answer": "Mask of the Ancients"
+    },
+    {
+        "question": "What is the name of the mobile game with survival elements?",
+        "answer": "Terraria"
     },
     {
         "question": "What is the name of the mobile life simulation game?",
@@ -9053,6 +9201,10 @@
         "answer": "Risk"
     },
     {
+        "question": "Which boss is an enemy in the game Bloodborne?",
+        "answer": "Laurence"
+    },
+    {
         "question": "Which character appears in the game Monument Valley?",
         "answer": "Ida"
     },
@@ -9233,6 +9385,10 @@
         "answer": "Vulkan API"
     },
     {
+        "question": "Which horror game tells the story of an island taken over by maniacs?",
+        "answer": "The Forest"
+    },
+    {
         "question": "Which indie game explores the theme of life and death?",
         "answer": "Spiritfarer"
     },
@@ -9241,12 +9397,20 @@
         "answer": "Papers, Please"
     },
     {
+        "question": "Which indie game is about adventures in 1920s Spain?",
+        "answer": "Blasphemous"
+    },
+    {
         "question": "Which indie game tells the story of life on a space station?",
         "answer": "Tacoma"
     },
     {
         "question": "Which mathematical puzzle is the competition dedicated to?",
         "answer": "Sudoku"
+    },
+    {
+        "question": "Which modern game is based on the ancient Chinese game 'Mahjong'?",
+        "answer": "Mahjong"
     },
     {
         "question": "Which organization hosts the DreamHack tournament?",
@@ -9271,6 +9435,10 @@
     {
         "question": "Which simulator allows you to become a magazine editor?",
         "answer": "Magazine Mogul"
+    },
+    {
+        "question": "Which simulator allows you to manage a gas station?",
+        "answer": "Gas Station Simulator"
     },
     {
         "question": "Which simulator allows you to manage an aquarium?",
@@ -9413,6 +9581,10 @@
         "answer": "iDom"
     },
     {
+        "question": "Who won the Free Fire World Series 2021 tournament?",
+        "answer": "Phoenix Force"
+    },
+    {
         "question": "Who won the IEM Katowice 2020 tournament in StarCraft II?",
         "answer": "Rogue"
     },
@@ -9427,6 +9599,10 @@
     {
         "question": "Who won the PMCO Spring Split 2021 tournament in PUBG Mobile?",
         "answer": "Fanatic Zombies"
+    },
+    {
+        "question": "Who won the PUBG Global Championship 2019?",
+        "answer": "Gen.G"
     },
     {
         "question": "Who won the Teamfight Tactics World Championship in 2021?",
@@ -12856,6 +13032,10 @@
         "answer": "Effector"
     },
     {
+        "question": "How are pathogens detected in the body?",
+        "answer": "Receptors"
+    },
+    {
         "question": "How do Toll-like receptors function?",
         "answer": "recognize pathogens"
     },
@@ -12942,6 +13122,10 @@
     {
         "question": "In which biochemical reaction is thiamine involved?",
         "answer": "Decarboxylation"
+    },
+    {
+        "question": "In which lung condition are inflammatory mediators released?",
+        "answer": "Asthma"
     },
     {
         "question": "In which part of the brain is vasopressin released?",
@@ -13484,6 +13668,10 @@
         "answer": "Hormonal changes"
     },
     {
+        "question": "What is the main mechanism for destroying damaged cells?",
+        "answer": "Apoptosis"
+    },
+    {
         "question": "What is the main receptor of T-lymphocytes?",
         "answer": "TCR"
     },
@@ -13808,6 +13996,10 @@
         "answer": "Binding of antibodies"
     },
     {
+        "question": "What process involves intercellular communication to coordinate the immune response?",
+        "answer": "Cytokine network"
+    },
+    {
         "question": "What process involves the interaction of L- and F-antibodies?",
         "answer": "Agglutination"
     },
@@ -13852,6 +14044,10 @@
         "answer": "Support structure"
     },
     {
+        "question": "What role do osteons play in bone tissue?",
+        "answer": "Structural"
+    },
+    {
         "question": "What role does GABA play in the sleep process?",
         "answer": "Inhibition of neurons"
     },
@@ -13866,6 +14062,10 @@
     {
         "question": "What role does the Major Histocompatibility Complex (MHC) play in immunity?",
         "answer": "Antigen presentation"
+    },
+    {
+        "question": "What role does the cytokine IFN-gamma play in the immune system?",
+        "answer": "Regulatory"
     },
     {
         "question": "What serious syndrome is characterized by a rapid deterioration of blood flow in the coronary arteries?",
@@ -14058,6 +14258,10 @@
     {
         "question": "Which cells are involved in immune memory?",
         "answer": "B-lymphocytes"
+    },
+    {
+        "question": "Which cells are involved in the degradation of bone tissue?",
+        "answer": "Osteoclasts"
     },
     {
         "question": "Which cells are involved in the synthesis of bone matrix?",
@@ -14612,6 +14816,10 @@
         "answer": "Deoxypyridinoline"
     },
     {
+        "question": "Which substance is synthesized by the endothelium of blood vessels and promotes vasodilation?",
+        "answer": "Nitric oxide"
+    },
+    {
         "question": "Which substance serves as an indicator of the activity of the hypothalamic-pituitary-adrenal axis?",
         "answer": "Corticotropin"
     },
@@ -14658,6 +14866,10 @@
     {
         "question": "Which supplements can affect calcium metabolism?",
         "answer": "Vitamin D"
+    },
+    {
+        "question": "Which testing method most accurately identifies the risk of developing diabetes?",
+        "answer": "Glucose tolerance test"
     },
     {
         "question": "Which theory explains the necessity of sleep for memory consolidation?",
@@ -14730,6 +14942,10 @@
     {
         "question": "Which vitamin is a strong antioxidant in mitochondria?",
         "answer": "Vitamin E"
+    },
+    {
+        "question": "Which vitamin is actively involved in the process of methylation and DNA regulation?",
+        "answer": "Folic acid"
     },
     {
         "question": "Which vitamin is an essential cofactor for the synthesis of carnitine, important for fat metabolism?",
@@ -14806,6 +15022,10 @@
     {
         "question": "Which vitamins are important for neurotransmitters?",
         "answer": "B6 and B9"
+    },
+    {
+        "question": "Which vitamins are involved in energy metabolism?",
+        "answer": "B1, B2, B3"
     },
     {
         "question": "Which vitamins are involved in methylation?",
@@ -19760,6 +19980,10 @@
         "answer": "Middle Ages"
     },
     {
+        "question": "In which country can you find polar bear hunting?",
+        "answer": "Canada"
+    },
+    {
         "question": "In which country did the use of falcons for hunting originate?",
         "answer": "Mongolia"
     },
@@ -19810,6 +20034,10 @@
     {
         "question": "The tallest hunting dog?",
         "answer": "Irish Wolfhound"
+    },
+    {
+        "question": "What accessory makes searching in the snow easier?",
+        "answer": "Flags"
     },
     {
         "question": "What action is necessary to load a lever-action rifle?",
@@ -20032,12 +20260,20 @@
         "answer": "Firestarter"
     },
     {
+        "question": "What factor is important for night photography?",
+        "answer": "Aperture"
+    },
+    {
         "question": "What factor is important when choosing a place to stay overnight?",
         "answer": "Hazel grouse"
     },
     {
         "question": "What factor reduces the effectiveness of a trap?",
         "answer": "Noise"
+    },
+    {
+        "question": "What feature do humane traps have?",
+        "answer": "Do not cause pain"
     },
     {
         "question": "What feature is important for successful night hunting?",
@@ -20372,6 +20608,10 @@
         "answer": "Fine"
     },
     {
+        "question": "What is the preferred material for a backpack?",
+        "answer": "Waterproof"
+    },
+    {
         "question": "What is the primary function of an isolator?",
         "answer": "isolation of infections"
     },
@@ -20672,6 +20912,10 @@
         "answer": "25-30°C"
     },
     {
+        "question": "What tool helps to remove ice from clothing?",
+        "answer": "Scraper"
+    },
+    {
         "question": "What tool is essential for starting a fire?",
         "answer": "Lark"
     },
@@ -20794,6 +21038,10 @@
     {
         "question": "What type of hunting requires good knowledge of animal behavior?",
         "answer": "Tracking hunting"
+    },
+    {
+        "question": "What type of hunting requires high speed?",
+        "answer": "Driven hunting"
     },
     {
         "question": "What type of hunting requires the use of a specially trained dog?",
@@ -21100,6 +21348,10 @@
         "answer": "Russian Borzoi"
     },
     {
+        "question": "Which breed of dog is known for its ability to work with scents?",
+        "answer": "Bloodhound"
+    },
+    {
         "question": "Which breed of dog is known for its tracking ability?",
         "answer": "Bloodhound"
     },
@@ -21260,6 +21512,10 @@
         "answer": "Collimator"
     },
     {
+        "question": "Which hunting method requires special tracking skills?",
+        "answer": "Stalking"
+    },
+    {
         "question": "Which hunting method requires the use of hunting dogs?",
         "answer": "coursing"
     },
@@ -21274,6 +21530,10 @@
     {
         "question": "Which item makes it easier to carry a load?",
         "answer": "Sled"
+    },
+    {
+        "question": "Which knot is important for hiking?",
+        "answer": "Slip knot"
     },
     {
         "question": "Which large mammal is often a target for hunting?",
@@ -21370,6 +21630,10 @@
     {
         "question": "Which tool helps to start a fire faster?",
         "answer": "Weather factor"
+    },
+    {
+        "question": "Which trap is chosen for catching a wolf?",
+        "answer": "Foothold trap"
     },
     {
         "question": "Which trap operates by means of pressure?",
@@ -33763,6 +34027,10 @@
         "answer": "Chemical reactions"
     },
     {
+        "question": "How are spiral arms formed in galaxies?",
+        "answer": "Gravitational waves"
+    },
+    {
         "question": "How can changes in a planet's orbital parameters affect its habitability?",
         "answer": "Climate and illumination"
     },
@@ -33813,6 +34081,10 @@
     {
         "question": "How do changes in the speed of light theoretically affect the laws of physics?",
         "answer": "Change constants"
+    },
+    {
+        "question": "How do galaxies form large-scale structures?",
+        "answer": "Gravitational interactions"
     },
     {
         "question": "How do galaxies interact during a collision?",
@@ -33867,6 +34139,10 @@
         "answer": "Causes mutations"
     },
     {
+        "question": "How does dark energy affect galaxies?",
+        "answer": "Accelerates expansion"
+    },
+    {
         "question": "How does dark energy interact with other forms of energy in the cosmos?",
         "answer": "Gravitationally"
     },
@@ -33891,6 +34167,10 @@
         "answer": "Increases density"
     },
     {
+        "question": "How does space radiation affect the longevity of orbital satellites?",
+        "answer": "Reduces lifespan"
+    },
+    {
         "question": "How does studying neutron stars contribute to understanding galactic dynamics?",
         "answer": "Gravity"
     },
@@ -33905,6 +34185,10 @@
     {
         "question": "How does the chemical composition of a galaxy change over time?",
         "answer": "Accumulation of elements"
+    },
+    {
+        "question": "How does the chemical composition of stars change as a galaxy ages?",
+        "answer": "Richer in metals"
     },
     {
         "question": "How does the distribution of angular momentum affect star formation?",
@@ -33983,6 +34267,10 @@
         "answer": "Gravitational lensing"
     },
     {
+        "question": "How is the interaction of light with gravity used in astrophysics?",
+        "answer": "Studying lensing"
+    },
+    {
         "question": "How is the mass of a black hole in galactic nuclei determined?",
         "answer": "Orbits of stars"
     },
@@ -34003,6 +34291,10 @@
         "answer": "1998"
     },
     {
+        "question": "What adaptations can organisms develop to survive under high-pressure conditions on planets?",
+        "answer": "Barophilia"
+    },
+    {
         "question": "What advantage does the use of multi-layer mirrors in modern space telescopes provide?",
         "answer": "Increased collecting area"
     },
@@ -34019,12 +34311,20 @@
         "answer": "Accurate composition analysis"
     },
     {
+        "question": "What are the characteristics of stars in the Milky Way's bulge?",
+        "answer": "Old and dense"
+    },
+    {
         "question": "What are the conditions for the formation of dense cores in molecular clouds?",
         "answer": "High density"
     },
     {
         "question": "What are the effects of gravitational lensing on interstellar objects?",
         "answer": "Distortion of light"
+    },
+    {
+        "question": "What are the effects of space radiation on electronics?",
+        "answer": "Malfunction"
     },
     {
         "question": "What challenges arise in studying the nature of dark matter?",
@@ -34051,6 +34351,10 @@
         "answer": "High temperature"
     },
     {
+        "question": "What conditions are necessary for gravitational compression to occur in the cores of exoplanets?",
+        "answer": "High mass"
+    },
+    {
         "question": "What conditions are necessary for the emergence of life in extreme environments on other planets?",
         "answer": "Chemical reactions"
     },
@@ -34065,6 +34369,10 @@
     {
         "question": "What conditions can support the existence of photosynthesis on exoplanets without sunlight?",
         "answer": "Geothermal energy"
+    },
+    {
+        "question": "What conditions contribute to the formation of complex organic molecules in protoplanetary disks?",
+        "answer": "Temperature gradients"
     },
     {
         "question": "What data suggests the existence of exotic forms of matter?",
@@ -34147,8 +34455,16 @@
         "answer": "Accelerate aging"
     },
     {
+        "question": "What effect do high-energy particles have on spacecraft materials?",
+        "answer": "Loss of strength"
+    },
+    {
         "question": "What effect do planetary magnetic fields have on the trajectories of satellites?",
         "answer": "Alter the trajectory"
+    },
+    {
+        "question": "What effect does cosmic dust have on the light spectrum from distant galaxies?",
+        "answer": "Spectral attenuation"
     },
     {
         "question": "What effect does cosmic radiation have on star formation?",
@@ -34157,6 +34473,10 @@
     {
         "question": "What effect does cosmic radiation have on the structure of materials in space?",
         "answer": "Degradation of structure"
+    },
+    {
+        "question": "What effect does dark matter have on the structure of the Milky Way?",
+        "answer": "Gravitational"
     },
     {
         "question": "What effect does radiation have on structural materials in space?",
@@ -34169,6 +34489,10 @@
     {
         "question": "What effect does stellar wind have on exoplanets?",
         "answer": "Atmospheric erosion"
+    },
+    {
+        "question": "What effect does the central black hole have on galactic dynamics?",
+        "answer": "Speeds up motion"
     },
     {
         "question": "What effect does the change in a star's magnetic field have on the atmospheric processes of nearby planets?",
@@ -34189,6 +34513,10 @@
     {
         "question": "What effect does tidal interaction have on the orbit of an exoplanet?",
         "answer": "Stabilization"
+    },
+    {
+        "question": "What effect does ultraviolet radiation have on molecular structure in space conditions?",
+        "answer": "Breaks down molecules"
     },
     {
         "question": "What effect influences the apparent color of stars?",
@@ -34243,6 +34571,10 @@
         "answer": "Orbital inclination"
     },
     {
+        "question": "What factor determines the shape of a galaxy in its early stages of development?",
+        "answer": "Angular momentum"
+    },
+    {
         "question": "What factor determines the size and shape of the accretion disk in a protostellar system?",
         "answer": "Angular momentum"
     },
@@ -34269,6 +34601,10 @@
     {
         "question": "What factors complicate the study of Mars' magnetic field?",
         "answer": "Weakness of the field"
+    },
+    {
+        "question": "What factors contribute to cloud formation on exoplanets?",
+        "answer": "Temperature and pressure"
     },
     {
         "question": "What factors contribute to the formation of clouds in the atmosphere of exoplanets?",
@@ -34343,6 +34679,10 @@
         "answer": "Gravitational perturbations"
     },
     {
+        "question": "What influence do gravitational interactions of exoplanets with their stars have on the atmospheric structures of exoplanets?",
+        "answer": "Tidal forces"
+    },
+    {
         "question": "What influence does the galactic environment have on the formation of star systems?",
         "answer": "Gravitational interactions"
     },
@@ -34357,6 +34697,10 @@
     {
         "question": "What innovative coating protects devices from extreme temperatures in space?",
         "answer": "Thermal insulation tiles"
+    },
+    {
+        "question": "What innovative method cools equipment in a vacuum?",
+        "answer": "Radiator"
     },
     {
         "question": "What innovative radiation protection method has been implemented on the latest models of space stations?",
@@ -34377,6 +34721,10 @@
     {
         "question": "What is the contribution of magnetic fields to the dynamics of galaxies?",
         "answer": "Supporting structure"
+    },
+    {
+        "question": "What is the contribution of supernova explosions to the dynamics of a galaxy?",
+        "answer": "Turbulence"
     },
     {
         "question": "What is the effect of angular momentum on star formation?",
@@ -34425,6 +34773,10 @@
     {
         "question": "What is the nature of galactic flares?",
         "answer": "Energy emissions"
+    },
+    {
+        "question": "What is the nature of gravitational waves in the context of general relativity?",
+        "answer": "Ripples in spacetime"
     },
     {
         "question": "What is the nature of instabilities leading to the fragmentation of protostellar clouds?",
@@ -34553,6 +34905,10 @@
     {
         "question": "What is the role of the intergalactic medium in the dynamics of galaxy clusters?",
         "answer": "Gravity"
+    },
+    {
+        "question": "What is the role of tidal forces in the evolution of galactic structures?",
+        "answer": "Stretching of stars"
     },
     {
         "question": "What is the role of turbulence in molecular clouds?",
@@ -34693,6 +35049,10 @@
     {
         "question": "What methods are used to stabilize satellite orbits around Jupiter?",
         "answer": "Gravitational maneuvering"
+    },
+    {
+        "question": "What methods are used to study dark energy in cosmology?",
+        "answer": "Cosmological observations"
     },
     {
         "question": "What methods are used to study the distribution of mass in a galaxy?",
@@ -34851,6 +35211,10 @@
         "answer": "Yarkovsky effect"
     },
     {
+        "question": "What phenomenon explains the stable rotation of galaxies contrary to expected effects?",
+        "answer": "Dark matter"
+    },
+    {
         "question": "What phenomenon forms complex orbital resonances between planets and moons in the Solar System?",
         "answer": "Gravitational interactions"
     },
@@ -34955,6 +35319,10 @@
         "answer": "Gravitational attraction"
     },
     {
+        "question": "What physical processes determine the size and shape of asteroids?",
+        "answer": "Gravity and rotation"
+    },
+    {
         "question": "What physical processes were responsible for the formation of the first stars?",
         "answer": "Gravitational collapse"
     },
@@ -34973,6 +35341,10 @@
     {
         "question": "What process contributes to the formation of massive galaxies?",
         "answer": "Galaxy merger"
+    },
+    {
+        "question": "What process determines the chemical evolution of planets in the Solar System?",
+        "answer": "Differentiation"
     },
     {
         "question": "What process determines the homogeneity of matter?",
@@ -35083,6 +35455,10 @@
         "answer": "Galaxy mergers"
     },
     {
+        "question": "What processes influence the distribution of chemical elements in galaxies?",
+        "answer": "Stellar winds"
+    },
+    {
         "question": "What processes influence the formation of galaxies?",
         "answer": "Gravitational interaction"
     },
@@ -35159,6 +35535,10 @@
         "answer": "Magnification of images"
     },
     {
+        "question": "What role does orbital resonance play in the stability of satellite systems?",
+        "answer": "Stabilization of orbits"
+    },
+    {
         "question": "What role does stellar luminosity play in the formation of an exoplanet's atmosphere?",
         "answer": "Key role"
     },
@@ -35211,6 +35591,10 @@
         "answer": "Satellite systems"
     },
     {
+        "question": "What technologies are used for orbit correction of satellites around Mercury?",
+        "answer": "Ion thrusters"
+    },
+    {
         "question": "What technologies are used for protection against space radiation on space stations?",
         "answer": "Shielding"
     },
@@ -35231,6 +35615,10 @@
         "answer": "Satellite monitoring"
     },
     {
+        "question": "What technologies do space telescopes use to study dark matter?",
+        "answer": "Gravitational lensing"
+    },
+    {
         "question": "What technologies support the operation of space telescopes in a vacuum environment?",
         "answer": "Thermal insulation of the devices"
     },
@@ -35245,6 +35633,10 @@
     {
         "question": "What type of energy is not carried by cosmic radiation?",
         "answer": "Thermal energy"
+    },
+    {
+        "question": "What type of experiments help identify hypothetical dark matter particles?",
+        "answer": "Accelerator experiments"
     },
     {
         "question": "What type of lens minimizes chromatic aberration?",
@@ -35313,6 +35705,10 @@
     {
         "question": "Which aspect of quantum physics affects the early Universe?",
         "answer": "Quantum entanglement"
+    },
+    {
+        "question": "Which asteroids can reflect infrared radiation?",
+        "answer": "Dwarfs"
     },
     {
         "question": "Which astronomer developed the theory of multidimensional space?",
@@ -35385,6 +35781,10 @@
     {
         "question": "Which constellation has the largest number of meteor showers?",
         "answer": "Perseus"
+    },
+    {
+        "question": "Which constellation is associated with a mythical lion but is not a zodiac sign?",
+        "answer": "Leo Minor"
     },
     {
         "question": "Which constellation is associated with the legend featuring a character named Icarus?",
@@ -35463,6 +35863,10 @@
         "answer": "General theory of relativity"
     },
     {
+        "question": "Which galaxy has the highest rotation speed?",
+        "answer": "NGC 1365"
+    },
+    {
         "question": "Which hypothesis explains the predominance of matter over antimatter?",
         "answer": "Baryogenesis"
     },
@@ -35511,8 +35915,16 @@
         "answer": "Mars Express"
     },
     {
+        "question": "Which mission was the first to discover traces of ancient life on Mars?",
+        "answer": "Curiosity"
+    },
+    {
         "question": "Which mission was the first to land on the surface of the Moon after the year 2000?",
         "answer": "Chang'e 3"
+    },
+    {
+        "question": "Which mission was the first to reach orbit around Venus in 1978?",
+        "answer": "Pioneer Venus"
     },
     {
         "question": "Which mission was the first to reach orbit around the Sun?",
@@ -35559,6 +35971,10 @@
         "answer": "Nereid"
     },
     {
+        "question": "Which moon of Uranus has canyons larger than the Grand Canyon?",
+        "answer": "Miranda"
+    },
+    {
         "question": "Which moons exhibit resonance with their planet's rings?",
         "answer": "Shepherd moons"
     },
@@ -35577,6 +35993,10 @@
     {
         "question": "Which parameter changes the observer's perspective in a gravitational field?",
         "answer": "Gravitational shift"
+    },
+    {
+        "question": "Which phenomenon indirectly confirms the existence of dark matter through the movement of light?",
+        "answer": "Gravitational lensing"
     },
     {
         "question": "Which physical processes might explain the nature of dark energy?",
@@ -35625,6 +36045,10 @@
     {
         "question": "Which project was the first to use a gravity assist maneuver?",
         "answer": "Mariner 10"
+    },
+    {
+        "question": "Which project was the first to use aerobraking at Venus?",
+        "answer": "Magellan"
     },
     {
         "question": "Which project was the first to use radar to study Venus?",
@@ -35847,6 +36271,10 @@
         "answer": "quintessence"
     },
     {
+        "question": "Which theory explains the existence of a triple system among asteroids?",
+        "answer": "Gravitational dynamics"
+    },
+    {
         "question": "Which theory extends the standard cosmological model to explain dark energy?",
         "answer": "Lambda-CDM"
     },
@@ -35869,6 +36297,10 @@
     {
         "question": "Who formulated the law relating the period and luminosity of Cepheid variable stars?",
         "answer": "Henrietta Leavitt"
+    },
+    {
+        "question": "Who proposed the grand unification theory explaining the interaction of fundamental forces?",
+        "answer": "Abdus Salam"
     },
     {
         "question": "Who took the first image of a black hole?",
