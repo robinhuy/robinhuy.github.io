@@ -60,8 +60,16 @@
     "answer": "Increase in exchange"
   },
   {
+    "question": "How did the global trade routes of the Middle Ages change migration flows?",
+    "answer": "Expanded them"
+  },
+  {
     "question": "How did the migration of peoples affect the social structure of the Ottoman Empire?",
     "answer": "Ethnic diversity"
+  },
+  {
+    "question": "How do biotic interactions affect the distribution of flora?",
+    "answer": "Competition"
   },
   {
     "question": "How do changes in the hydrological cycle affect global climate systems?",
@@ -80,6 +88,10 @@
     "answer": "Alter the structure"
   },
   {
+    "question": "How do geochemical barriers affect the concentration of metals in rocks?",
+    "answer": "Increase the content"
+  },
+  {
     "question": "How do glacier migrations affect species distribution?",
     "answer": "Create barriers"
   },
@@ -88,8 +100,16 @@
     "answer": "Climate change"
   },
   {
+    "question": "How do international free trade agreements affect the global economy?",
+    "answer": "Reduction of barriers"
+  },
+  {
     "question": "How do international relations affect the agro-industrial sector?",
     "answer": "Trade barriers"
+  },
+  {
+    "question": "How do international relations affect the resilience of local food systems?",
+    "answer": "Increased exchange"
   },
   {
     "question": "How do international trade barriers affect food availability?",
@@ -132,6 +152,10 @@
     "answer": "Create conditions"
   },
   {
+    "question": "How do tectonic plates influence the formation of new ecosystems?",
+    "answer": "Mountain formation"
+  },
+  {
     "question": "How do tectonic plates interact with mountain formation processes?",
     "answer": "Convergence"
   },
@@ -148,6 +172,10 @@
     "answer": "Temperature changes"
   },
   {
+    "question": "How does a change in consumer demand affect the dynamics of agricultural markets?",
+    "answer": "Shift in production"
+  },
+  {
     "question": "How does a change in ocean temperature affect the frequency of hurricanes?",
     "answer": "Increases"
   },
@@ -158,6 +186,10 @@
   {
     "question": "How does biological activity accelerate mineralization processes in soils?",
     "answer": "biogenic processes"
+  },
+  {
+    "question": "How does climate change affect erosion processes?",
+    "answer": "Intensification of erosion"
   },
   {
     "question": "How does climate change affect landscape dynamics in polar regions?",
@@ -200,8 +232,16 @@
     "answer": "Acidity increases"
   },
   {
+    "question": "How does globalization affect environmental standards?",
+    "answer": "Standardizes standards"
+  },
+  {
     "question": "How does globalization affect international competition?",
     "answer": "Intensification of competition"
+  },
+  {
+    "question": "How does globalization affect national labor markets?",
+    "answer": "Creates competition"
   },
   {
     "question": "How does globalization affect the international legal system?",
@@ -212,8 +252,16 @@
     "answer": "Positively"
   },
   {
+    "question": "How does isolation affect species morphology?",
+    "answer": "Divergent evolution"
+  },
+  {
     "question": "How does paleogeography determine changes in the levels of ancient seas?",
     "answer": "By layers"
+  },
+  {
+    "question": "How does paleogeography use fossils to study ancient ecosystems?",
+    "answer": "Reconstruction"
   },
   {
     "question": "How does policy change affect the efficiency of zones?",
@@ -232,6 +280,10 @@
     "answer": "Alters biodiversity"
   },
   {
+    "question": "How does the change in solar radiation affect global climate processes?",
+    "answer": "Thermal balance"
+  },
+  {
     "question": "How does the chemical composition of the oceans change during active volcanic activity?",
     "answer": "Increase in acidity"
   },
@@ -242,6 +294,10 @@
   {
     "question": "How does the ecosystem change during underwater volcanic eruptions?",
     "answer": "Increase in biomass"
+  },
+  {
+    "question": "How does the environment change after a volcanic eruption?",
+    "answer": "Formation of new soils"
   },
   {
     "question": "How does the interaction of organic and mineral components affect the agronomic value of soil?",
@@ -264,7 +320,15 @@
     "answer": "Tectonic faults"
   },
   {
+    "question": "How does urbanization affect cultural diversity?",
+    "answer": "Enhances interaction"
+  },
+  {
     "question": "How does urbanization affect the unemployment rate?"
+  },
+  {
+    "question": "How does urbanization change social structures?",
+    "answer": "Increases inequality"
   },
   {
     "question": "How have technological innovations impacted migrations in the 21st century?",
@@ -273,6 +337,10 @@
   {
     "question": "How is the age of rocks determined by radiometric dating?",
     "answer": "Isotopic analysis"
+  },
+  {
+    "question": "How is the speed of tectonic plate movement determined?",
+    "answer": "GPS observations"
   },
   {
     "question": "How is the speed of tectonic processes determined in different regions?",
@@ -285,6 +353,10 @@
   {
     "question": "How many water masses are in the Southern Ocean?",
     "answer": "Two"
+  },
+  {
+    "question": "In what natural conditions do plants develop deep root systems to obtain water?",
+    "answer": "Semi-deserts"
   },
   {
     "question": "In what year did the Krakatoa eruption occur?",
@@ -320,6 +392,10 @@
   },
   {
     "question": "In which country has the average life expectancy increased by 10 years since 1990?",
+    "answer": "China"
+  },
+  {
+    "question": "In which country is the city of Dalian with its economic zone located?",
     "answer": "China"
   },
   {
@@ -371,6 +447,10 @@
     "answer": "Antarctica"
   },
   {
+    "question": "On which peninsula are extensive tropical forests located in Southeast Asia?",
+    "answer": "Malay"
+  },
+  {
     "question": "On which peninsula do most desert storms occur?",
     "answer": "Arabian"
   },
@@ -395,12 +475,24 @@
     "answer": "Ghana"
   },
   {
+    "question": "The name of the currency of which country is related to an ancient Slavic word meaning wealth?",
+    "answer": "Serbian dinar"
+  },
+  {
     "question": "The phenomenon of 'singing dunes' occurs in?",
     "answer": "Taklamakan"
   },
   {
+    "question": "Through how many countries does the Danube River flow?",
+    "answer": "10 countries"
+  },
+  {
     "question": "What 18th-century event expanded sea routes?",
     "answer": "The discovery of new sea routes"
+  },
+  {
+    "question": "What adaptations are important for plants in Arctic zones?",
+    "answer": "Frost resistance"
   },
   {
     "question": "What adaptive strategies are characteristic of animals living in desert conditions?",
@@ -438,7 +530,15 @@
     "question": "What are the environmental consequences associated with anthropogenic activities in arid regions?"
   },
   {
+    "question": "What are the eruptions called that form volcanic islands?",
+    "answer": "Submarine eruptions"
+  },
+  {
     "question": "What are the forces called that govern the movement of lithospheric plates?"
+  },
+  {
+    "question": "What are the issues related to environmental sustainability in the era of globalization?",
+    "answer": "Increase in emissions"
   },
   {
     "question": "What are the key barriers to sustainable urban development?",
@@ -459,6 +559,10 @@
   {
     "question": "What are the prospects for local languages in the context of globalization?",
     "answer": "Decline"
+  },
+  {
+    "question": "What aspect of socio-economic zones is most important for innovation in South Korea?",
+    "answer": "Technology"
   },
   {
     "question": "What aspect of zones affects the local population?",
@@ -485,8 +589,16 @@
     "answer": "Soil saturation"
   },
   {
+    "question": "What cataclysm can cause a lack of vegetation?",
+    "answer": "Dust storm"
+  },
+  {
     "question": "What cataclysm can occur with a significant change in ocean temperature?",
     "answer": "El Niño"
+  },
+  {
+    "question": "What cataclysm is caused by heavy rainfall?",
+    "answer": "Flood"
   },
   {
     "question": "What cataclysm is caused by underwater earthquakes?",
@@ -495,6 +607,10 @@
   {
     "question": "What catastrophic process can lead to the complete destruction of ecosystems over large areas in a short time?",
     "answer": "Volcanic eruption"
+  },
+  {
+    "question": "What causes the formation of hypoxic zones in large bodies of water?",
+    "answer": "Eutrophication"
   },
   {
     "question": "What challenges do countries face in the context of cultural globalization?",
@@ -553,6 +669,10 @@
     "answer": "Seismic activity"
   },
   {
+    "question": "What chemical processes in the soil are activated by acid rain?",
+    "answer": "Eluviation"
+  },
+  {
     "question": "What city is the capital of the country known for its samurais and cherry blossoms, located on islands in the Pacific Ocean?",
     "answer": "Tokyo"
   },
@@ -576,8 +696,16 @@
     "answer": "Change in precipitation"
   },
   {
+    "question": "What climate features are characteristic of so-called 'cold deserts'?",
+    "answer": "Snowfall"
+  },
+  {
     "question": "What climatic conditions are typical for Arctic coasts?",
     "answer": "Cold winters"
+  },
+  {
+    "question": "What climatic conditions contribute to the formation of significant carbon reserves in the soils of certain zones?",
+    "answer": "Humid forests"
   },
   {
     "question": "What climatic process causes a significant increase in temperature at high altitudes?",
@@ -606,6 +734,10 @@
   {
     "question": "What cultural changes accompanied migrations to North Africa?",
     "answer": "Arabization"
+  },
+  {
+    "question": "What cultural factors of the 21st century contributed to migration to Europe?",
+    "answer": "Cultural globalization"
   },
   {
     "question": "What cultural phenomenon stimulated the migration of peoples to Southern Europe during Antiquity?",
@@ -648,6 +780,14 @@
     "answer": "Tundra"
   },
   {
+    "question": "What effect does globalization have on employment in countries?",
+    "answer": "Increases employment"
+  },
+  {
+    "question": "What effect does ocean temperature change have on atmospheric pressure?",
+    "answer": "Changes circulation"
+  },
+  {
     "question": "What effect does the alpine climate have on soil formation processes?",
     "answer": "Slowing down"
   },
@@ -660,6 +800,10 @@
     "answer": "Sea routes"
   },
   {
+    "question": "What elements form the structure of paleoecological formations?",
+    "answer": "fossil remains"
+  },
+  {
     "question": "What event caused significant changes in the ancient landscape of Earth?",
     "answer": "Mass extinction"
   },
@@ -668,8 +812,16 @@
     "answer": "The Fall of Rome"
   },
   {
+    "question": "What evidence is used to study ancient continents?",
+    "answer": "Fossil remains"
+  },
+  {
     "question": "What explains the movement of lithospheric plates over the asthenosphere?",
     "answer": "Convection"
+  },
+  {
+    "question": "What factor complicates city management in the context of urbanization?",
+    "answer": "Overpopulation"
   },
   {
     "question": "What factor contributes to the high endemism of species on large islands?",
@@ -684,6 +836,10 @@
     "answer": "Mantle circulation"
   },
   {
+    "question": "What factor is critically important for determining the accuracy of global navigation maps?",
+    "answer": "Satellite correction"
+  },
+  {
     "question": "What factor is most important for the formation of sea ice in polar latitudes?",
     "answer": "Air temperature"
   },
@@ -696,12 +852,20 @@
     "answer": "Temperature gradient"
   },
   {
+    "question": "What factor most influences the stability of prices in the global food market?",
+    "answer": "Weather conditions"
+  },
+  {
     "question": "What factor significantly increases the likelihood of a mudflow in mountainous areas?",
     "answer": "Heavy rains"
   },
   {
     "question": "What factors can contribute to the formation of natural terraces?",
     "answer": "Change in water level"
+  },
+  {
+    "question": "What factors contribute to the formation of deserts?",
+    "answer": "Atmospheric conditions"
   },
   {
     "question": "What factors contribute to the international competitiveness of zones?",
@@ -722,6 +886,10 @@
   {
     "question": "What factors determine biodiversity on continental margins?",
     "answer": "Climatic conditions"
+  },
+  {
+    "question": "What factors determine drainage systems in deserts?",
+    "answer": "Aeolian processes"
   },
   {
     "question": "What factors determine the choice of location for a zone?",
@@ -760,6 +928,10 @@
     "answer": "Moisture balance"
   },
   {
+    "question": "What factors influence the formation of global production systems?",
+    "answer": "Technology and transportation"
+  },
+  {
     "question": "What factors influence the formation of paleovolcanoes?",
     "answer": "Tectonic movements"
   },
@@ -788,6 +960,10 @@
     "answer": "Wave energy"
   },
   {
+    "question": "What factors most significantly influence the socio-economic zones in India?",
+    "answer": "Technology"
+  },
+  {
     "question": "What factors primarily influence the distribution of biomes on continents?",
     "answer": "Climatic conditions"
   },
@@ -808,12 +984,20 @@
     "answer": "Convection"
   },
   {
+    "question": "What forms of life existed in the Precambrian period?",
+    "answer": "Bacteria"
+  },
+  {
     "question": "What fossil data helps determine the ancient latitude of continents?",
     "answer": "Paleomagnetic directions"
   },
   {
     "question": "What geochemical phenomenon affects the evolution of soils in carbonate zones?",
     "answer": "Decarbonization"
+  },
+  {
+    "question": "What geological conditions determine the location of large deposits?",
+    "answer": "Folded structures"
   },
   {
     "question": "What geological evidence indicates the presence of ancient seas?",
@@ -840,6 +1024,10 @@
     "answer": "Diapirism"
   },
   {
+    "question": "What geological processes influence the formation of temporary water bodies in the desert?",
+    "answer": "Floods"
+  },
+  {
     "question": "What geological structures are characteristic of rift zones?",
     "answer": "Fractures and faults"
   },
@@ -860,6 +1048,10 @@
     "answer": "Gene flow"
   },
   {
+    "question": "What impact do mountain ranges have on the distribution of agricultural land?",
+    "answer": "Create barriers"
+  },
+  {
     "question": "What impact do multinational corporations (MNCs) have on the economic development of countries?",
     "answer": "Accelerate development"
   },
@@ -874,6 +1066,10 @@
   {
     "question": "What impact do tectonic processes have on ocean currents?",
     "answer": "Change in direction"
+  },
+  {
+    "question": "What impact do tectonic processes have on the formation of ancient continents?",
+    "answer": "Plate separation"
   },
   {
     "question": "What impact do transportation innovations have on the interaction between urban and suburban areas?",
@@ -892,12 +1088,20 @@
     "answer": "Alters circulation"
   },
   {
+    "question": "What impact does the interaction of tectonic plates have on the formation of mountains?",
+    "answer": "formation of folds"
+  },
+  {
     "question": "What impact does the movement of lithospheric plates have on climate change?",
     "answer": "Change in circulation"
   },
   {
     "question": "What impact does the movement of tectonic plates have on the parameters of ocean currents?",
     "answer": "Change in strength"
+  },
+  {
+    "question": "What impact does the movement of tectonic plates have on the positioning of continents?",
+    "answer": "Continental drift"
   },
   {
     "question": "What impact does urbanization have on food systems?",
@@ -920,6 +1124,14 @@
     "answer": "Geothermal heat"
   },
   {
+    "question": "What international measures have been taken to protect the Arctic?",
+    "answer": "Agreements"
+  },
+  {
+    "question": "What is characteristic of economic zones?",
+    "answer": "Benefits and subsidies"
+  },
+  {
     "question": "What is formed when an oceanic plate interacts with a continental plate?",
     "answer": "Mountain ranges"
   },
@@ -940,6 +1152,10 @@
     "answer": "Thimphu"
   },
   {
+    "question": "What is the capital of Botswana?",
+    "answer": "Gaborone"
+  },
+  {
     "question": "What is the capital of Easter Island?",
     "answer": "Hanga Roa"
   },
@@ -954,6 +1170,10 @@
   {
     "question": "What is the capital of Malawi?",
     "answer": "Lilongwe"
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "answer": "Sri Jayawardenepura Kotte"
   },
   {
     "question": "What is the capital of Suriname?",
@@ -984,6 +1204,10 @@
     "answer": "Competition"
   },
   {
+    "question": "What is the key factor when choosing an oil transit route from Russia to Europe?",
+    "answer": "Infrastructure"
+  },
+  {
     "question": "What is the key parameter for describing the water regime of a basin?",
     "answer": "Water balance"
   },
@@ -1004,6 +1228,10 @@
     "answer": "3487 km"
   },
   {
+    "question": "What is the line called where two tectonic plates meet?",
+    "answer": "Plate boundary"
+  },
+  {
     "question": "What is the longest river in Asia?",
     "answer": "Yangtze"
   },
@@ -1020,6 +1248,10 @@
     "answer": "Freezing of water"
   },
   {
+    "question": "What is the main factor in the movement of tectonic plates?",
+    "answer": "Thermal flow"
+  },
+  {
     "question": "What is the main type of zone that exists for export?",
     "answer": "Export zone"
   },
@@ -1034,6 +1266,10 @@
   {
     "question": "What is the name of the capital known as the cultural center of Scandinavia and located on islands?",
     "answer": "Stockholm"
+  },
+  {
+    "question": "What is the name of the desert on the Arabian Peninsula?",
+    "answer": "Rub' al Khali"
   },
   {
     "question": "What is the name of the largest oasis in the Sahara?",
@@ -1086,6 +1322,14 @@
   {
     "question": "What is the role of cation exchange in the chemical composition of soil?",
     "answer": "Maintaining balance"
+  },
+  {
+    "question": "What is the role of ecosystems in the carbon cycle?",
+    "answer": "Absorption of CO2"
+  },
+  {
+    "question": "What is the role of glaciers in shaping mountain landscapes?",
+    "answer": "Erosional"
   },
   {
     "question": "What is the role of infrastructure in the success of zones?",
@@ -1148,8 +1392,16 @@
     "answer": "Mountain ranges"
   },
   {
+    "question": "What major transportation project connects Brazil and Peru, passing through the Amazon?",
+    "answer": "Trans-Amazonian Corridor"
+  },
+  {
     "question": "What mechanism actively contributes to the formation of floodplain lakes?",
     "answer": "Flooding"
+  },
+  {
+    "question": "What mechanism contributes to the transport of sediments in river channels?",
+    "answer": "Turbulent flow"
   },
   {
     "question": "What mechanism facilitates the migration of species across continental barriers?",
@@ -1176,6 +1428,10 @@
     "answer": "Tectonic movements"
   },
   {
+    "question": "What method is used for dating ancient lava flows?",
+    "answer": "K-Ar method"
+  },
+  {
     "question": "What method is used for oil field evaluation?",
     "answer": "Seismic survey"
   },
@@ -1186,6 +1442,10 @@
   {
     "question": "What method is used to study the dynamics of tectonic plates?",
     "answer": "Satellite geodesy"
+  },
+  {
+    "question": "What method is used to study the impact of urbanization on climate?",
+    "answer": "Geospatial analysis"
   },
   {
     "question": "What methodological approach is used for integrating spatial and temporal data in maps?",
@@ -1244,6 +1504,10 @@
     "answer": "Tsunami"
   },
   {
+    "question": "What natural disaster can occur as a result of earthquakes in mountainous areas?",
+    "answer": "Avalanche"
+  },
+  {
     "question": "What natural disaster can occur due to a massive release of ash and gases into the atmosphere?",
     "answer": "Volcanic eruption"
   },
@@ -1280,8 +1544,16 @@
     "answer": "Dam burst"
   },
   {
+    "question": "What natural process can lead to significant climate change on a continent?",
+    "answer": "Tectonic shifts"
+  },
+  {
     "question": "What natural process leads to the formation of new ice in polar regions?",
     "answer": "freezing of the ocean"
+  },
+  {
+    "question": "What natural process leads to the increase in ocean acidity?",
+    "answer": "Absorption of CO2"
   },
   {
     "question": "What natural resources are commonly found in deserts?",
@@ -1290,6 +1562,10 @@
   {
     "question": "What natural zone is transitional between forest and steppe?",
     "answer": "Forest-steppe"
+  },
+  {
+    "question": "What percentage of the world's population lives in cities in 2023?",
+    "answer": "56%"
   },
   {
     "question": "What phenomena can intensify floods?",
@@ -1348,12 +1624,20 @@
     "answer": "Continental drift"
   },
   {
+    "question": "What phenomenon is associated with the destruction of coral reefs?",
+    "answer": "Coral bleaching"
+  },
+  {
     "question": "What phenomenon is characteristic of the tectonic plate boundaries in the Pacific Ocean?",
     "answer": "Ring of Fire"
   },
   {
     "question": "What phenomenon is related to seasons but can also be catastrophic due to climate change?",
     "answer": "Monsoons"
+  },
+  {
+    "question": "What phenomenon is responsible for the formation of alluvial valleys?",
+    "answer": "Flowing water"
   },
   {
     "question": "What phenomenon leads to changes in soil structure in permafrost climate zones?",
@@ -1382,6 +1666,10 @@
   {
     "question": "What political changes are associated with globalization?",
     "answer": "Integration is strengthened"
+  },
+  {
+    "question": "What political changes in the 20th century contributed to migration in Latin America?",
+    "answer": "Dictatorship"
   },
   {
     "question": "What population movements occurred as a result of the economic crisis in 19th century Europe?",
@@ -1420,6 +1708,10 @@
     "answer": "Tectonic activity"
   },
   {
+    "question": "What process can lead to significant loss of forests?",
+    "answer": "Wildfires"
+  },
+  {
     "question": "What process causes the formation of earthquakes at oceanic ridges?",
     "answer": "Divergence of plates"
   },
@@ -1444,6 +1736,10 @@
     "answer": "Physical"
   },
   {
+    "question": "What process contributes to the creation of new ecological niches as a result of volcanic activity?",
+    "answer": "Lava flow"
+  },
+  {
     "question": "What process controls the formation of thermocline layers in the seas?",
     "answer": "Temperature stratification"
   },
@@ -1456,12 +1752,20 @@
     "answer": "Thermohaline circulation"
   },
   {
+    "question": "What process determines the shape of lake basins?",
+    "answer": "Glacial erosion"
+  },
+  {
     "question": "What process explains the movement of continents?",
     "answer": "Plate tectonics"
   },
   {
     "question": "What process explains the uniqueness of Madagascar's species?",
     "answer": "Evolutionary isolation"
+  },
+  {
+    "question": "What process forms karst thermal caves?",
+    "answer": "Thermal erosion"
   },
   {
     "question": "What process forms the soil structure in podzolic zones?",
@@ -1478,6 +1782,14 @@
   {
     "question": "What process is activated by excessive soil moisture?",
     "answer": "Gleying"
+  },
+  {
+    "question": "What process is driven by the adaptation of species to isolated ecosystems?",
+    "answer": "Evolution"
+  },
+  {
+    "question": "What process is involved in the formation of erosion terraces?",
+    "answer": "Erosion"
   },
   {
     "question": "What process is responsible for the formation of cave lakes?",
@@ -1524,6 +1836,10 @@
     "answer": "Subduction"
   },
   {
+    "question": "What process prevents the infiltration of rainwater, causing the formation of surface runoff?",
+    "answer": "Surface runoff"
+  },
+  {
     "question": "What process transforms the physical landscape in arid zones?",
     "answer": "Wind erosion"
   },
@@ -1538,6 +1854,10 @@
   {
     "question": "What processes are involved in the formation of polar vortices?",
     "answer": "Atmospheric circulation"
+  },
+  {
+    "question": "What processes are responsible for long-term changes in atmospheric circulation?",
+    "answer": "Global warming"
   },
   {
     "question": "What processes can change the boundaries of forests in temperate zones?",
@@ -1576,6 +1896,14 @@
     "answer": "Post-glacial sedimentation"
   },
   {
+    "question": "What processes could have influenced changes in ancient shorelines?",
+    "answer": "Tectonic movements"
+  },
+  {
+    "question": "What processes determine the edaphic moisture of soils?",
+    "answer": "Infiltration and evaporation"
+  },
+  {
     "question": "What processes dominate the formation of rift valleys?",
     "answer": "tectonic movements"
   },
@@ -1598,6 +1926,14 @@
   {
     "question": "What processes lead to changes in the Earth's surface level in subduction zones?",
     "answer": "Tectonic movements"
+  },
+  {
+    "question": "What processes lead to fluvial landscape modeling?",
+    "answer": "Erosion by water flow"
+  },
+  {
+    "question": "What processes lead to the formation of oil deposits?",
+    "answer": "Diagenesis and catagenesis"
   },
   {
     "question": "What processes lead to the formation of stable anticyclones?",
@@ -1688,6 +2024,10 @@
     "answer": "Emigration"
   },
   {
+    "question": "What soil characteristics determine the flora of steppe zones?",
+    "answer": "Fertile soils"
+  },
+  {
     "question": "What soil property is determined by the presence of trivalent iron?",
     "answer": "Color"
   },
@@ -1706,6 +2046,10 @@
   {
     "question": "What strategies are used to enhance the resilience of global food systems?",
     "answer": "Innovations in agrotechnology"
+  },
+  {
+    "question": "What strategies are used to integrate suburban areas into the urban fabric?",
+    "answer": "Agglomeration planning"
   },
   {
     "question": "What strategies do countries use to protect their agricultural industry?",
@@ -1780,6 +2124,10 @@
     "answer": "Submarine"
   },
   {
+    "question": "What type of eruptions can create new islands in the ocean?",
+    "answer": "Subaqueous"
+  },
+  {
     "question": "What type of fault leads to rifting?",
     "answer": "Normal"
   },
@@ -1812,6 +2160,10 @@
     "answer": "Transform"
   },
   {
+    "question": "What type of plate movement forms the Mid-Atlantic Ridge?",
+    "answer": "Divergent"
+  },
+  {
     "question": "What type of plate movement leads to the formation of mountain ranges?",
     "answer": "Collision"
   },
@@ -1822,6 +2174,10 @@
   {
     "question": "What type of plate movement predominates in a fault zone?",
     "answer": "Transform"
+  },
+  {
+    "question": "What type of soil process dominates in permafrost conditions?",
+    "answer": "Gleying"
   },
   {
     "question": "What type of tectonic interaction leads to the formation of mountain ranges?",
@@ -1866,6 +2222,14 @@
   {
     "question": "Where in the world are the largest rubber processing enterprises concentrated?",
     "answer": "Malaysia"
+  },
+  {
+    "question": "Where is the 'chaparral' biome located?",
+    "answer": "Mediterranean"
+  },
+  {
+    "question": "Where is the Green Sea located?",
+    "answer": "Pacific Ocean"
   },
   {
     "question": "Where is the eastern boundary of the UTC-2 time zone in South America?",
@@ -1924,8 +2288,16 @@
     "answer": "Chile"
   },
   {
+    "question": "Which airport is the largest cargo hub in Asia?",
+    "answer": "Hong Kong Airport"
+  },
+  {
     "question": "Which algorithm is used to minimize errors in coordinate transformation in cartography?",
     "answer": "Geodetic adjustment"
+  },
+  {
+    "question": "Which algorithm is used to minimize errors in digital cartographic models?",
+    "answer": "Data filtering"
   },
   {
     "question": "Which archipelago is located between the Barents Sea and the Kara Sea?",
@@ -1942,6 +2314,14 @@
   {
     "question": "Which aspects of globalization most significantly impact international investments?",
     "answer": "Market regulation"
+  },
+  {
+    "question": "Which biogeographic subdivision is characterized by the lowest temperatures among all?",
+    "answer": "Arctic"
+  },
+  {
+    "question": "Which biogeographic zone has the greatest influence on the Earth's climate?",
+    "answer": "Tropics"
   },
   {
     "question": "Which biogeographic zone has the lowest biomass per unit area despite its vastness?",
@@ -1976,8 +2356,16 @@
     "answer": "Square grid"
   },
   {
+    "question": "Which cataclysm can be intensified by anthropogenic greenhouse gas emissions?",
+    "answer": "Global warming"
+  },
+  {
     "question": "Which cataclysm can cause power line breaks and building destruction due to strong winds?",
     "answer": "Hurricane"
+  },
+  {
+    "question": "Which cataclysm is characterized by the rapid destruction of mountain slopes due to soil saturation with water?",
+    "answer": "landslide"
   },
   {
     "question": "Which cataclysm is named after the Roman god of fire?",
@@ -1986,6 +2374,10 @@
   {
     "question": "Which characteristic of a body of water determines its resilience to changes in water level?",
     "answer": "Capacity of the body of water"
+  },
+  {
+    "question": "Which city has the highest population growth in the 21st century?",
+    "answer": "Lagos"
   },
   {
     "question": "Which city has the largest area of parks in the world?",
@@ -2059,6 +2451,10 @@
     "answer": "Istanbul"
   },
   {
+    "question": "Which city was the first to introduce electric street lighting?",
+    "answer": "New York"
+  },
+  {
     "question": "Which city was the first to use a sewer system?",
     "answer": "London"
   },
@@ -2069,6 +2465,10 @@
   {
     "question": "Which climate elements can lead to drought?",
     "answer": "High temperatures"
+  },
+  {
+    "question": "Which country adjusts its time zones by 15-minute shifts?",
+    "answer": "Nepal"
   },
   {
     "question": "Which country has a currency named after a sea creature but is landlocked?",
@@ -2095,6 +2495,18 @@
     "answer": "Nigeria"
   },
   {
+    "question": "Which country is actively developing technology parks?",
+    "answer": "China"
+  },
+  {
+    "question": "Which country is characterized by the fastest declining population in Europe?",
+    "answer": "Bulgaria"
+  },
+  {
+    "question": "Which country is developing initiatives to reduce food loss at all stages of the supply chain?",
+    "answer": "Japan"
+  },
+  {
     "question": "Which country is known for creating the first successful Special Economic Zone (SEZ)?",
     "answer": "China"
   },
@@ -2111,6 +2523,10 @@
     "answer": "China"
   },
   {
+    "question": "Which country uses the UTC+8:45 time zone?",
+    "answer": "Australia"
+  },
+  {
     "question": "Which cultural phenomenon contributed to population migration in Europe during the Renaissance?",
     "answer": "humanism"
   },
@@ -2121,6 +2537,10 @@
   {
     "question": "Which demographic trend has the greatest impact on the housing market?",
     "answer": "Aging population"
+  },
+  {
+    "question": "Which desert does the Tropic of Cancer cross?",
+    "answer": "Sahara"
   },
   {
     "question": "Which economic factor most influences the global grain market?",
@@ -2167,6 +2587,10 @@
     "answer": "Polar day"
   },
   {
+    "question": "Which geographical location provides the greatest control over transatlantic routes?",
+    "answer": "Atlantic Ocean"
+  },
+  {
     "question": "Which geological process contributes to the accumulation of magma in the Earth's crust?",
     "answer": "Divergent boundaries"
   },
@@ -2175,8 +2599,16 @@
     "answer": "Plate subduction"
   },
   {
+    "question": "Which geomorphological forms are caused by tectonic movements?",
+    "answer": "Faults"
+  },
+  {
     "question": "Which geopolitical event can drastically change sea routes?",
     "answer": "Global warming"
+  },
+  {
+    "question": "Which historical document first established international time zones?",
+    "answer": "Meridian Conference"
   },
   {
     "question": "Which historical document introduced the standard for time zones?",
@@ -2215,6 +2647,10 @@
     "answer": "Titicaca"
   },
   {
+    "question": "Which lake is famous for having the highest tide among freshwater lakes?",
+    "answer": "Lake Saint John"
+  },
+  {
     "question": "Which lake is known for its phenomenon of 'crying stones'?",
     "answer": "Lake Natron"
   },
@@ -2233,6 +2669,10 @@
   {
     "question": "Which method allows determining causal relationships between cartographic objects?",
     "answer": "Specific analysis"
+  },
+  {
+    "question": "Which method allows for accounting for temporal changes on maps?",
+    "answer": "Dynamic adaptation"
   },
   {
     "question": "Which mountain on the equator is illuminated by the sun all day?",
@@ -2259,6 +2699,14 @@
     "answer": "Floods"
   },
   {
+    "question": "Which natural phenomenon can cause infrastructure damage through soil erosion?",
+    "answer": "Erosion"
+  },
+  {
+    "question": "Which natural process enhances the heat outflow in the Arctic?",
+    "answer": "Thermohaline circulation"
+  },
+  {
     "question": "Which natural zone includes areas with saline soils and minimal vegetation?",
     "answer": "Salt flats"
   },
@@ -2273,6 +2721,10 @@
   {
     "question": "Which natural zone is characterized by tall trees that remain green all year round?",
     "answer": "Tropics"
+  },
+  {
+    "question": "Which ocean does the Trans-Siberian Railway cross?",
+    "answer": "None"
   },
   {
     "question": "Which ocean is slowly expanding?",
@@ -2295,6 +2747,10 @@
     "answer": "Annapurna"
   },
   {
+    "question": "Which peninsula influences the circulation of ocean currents in the Indian Ocean?",
+    "answer": "Indian subcontinent"
+  },
+  {
     "question": "Which peninsula is the main habitat for unique species of kangaroos?",
     "answer": "York"
   },
@@ -2315,6 +2771,10 @@
     "answer": "Genetic drift"
   },
   {
+    "question": "Which process is most important for the formation of marshy landscapes?",
+    "answer": "Swamping"
+  },
+  {
     "question": "Which process leads to the formation of terraces on slopes?",
     "answer": "Terracing"
   },
@@ -2325,6 +2785,10 @@
   {
     "question": "Which process most significantly alters the landscape in Arctic zones?",
     "answer": "Freeze-thaw"
+  },
+  {
+    "question": "Which process of interaction between lithospheric plates most often leads to the formation of volcanic islands?",
+    "answer": "Subduction"
   },
   {
     "question": "Which process significantly influences the formation of soil profile texture and structure under strong wind conditions?",
@@ -2341,6 +2805,10 @@
   {
     "question": "Which property of map projections helps to study climate changes?",
     "answer": "Preservation of shape"
+  },
+  {
+    "question": "Which property of water changes when interacting with polar ice?",
+    "answer": "Salinity"
   },
   {
     "question": "Which railway project connects Russia with South Korea through North Korea?",
@@ -2383,12 +2851,20 @@
     "answer": "Scandinavia"
   },
   {
+    "question": "Which region is the leader in hydrogen fuel production?",
+    "answer": "Scandinavia"
+  },
+  {
     "question": "Which region most actively uses agrotechnologies to increase crop yields?",
     "answer": "North America"
   },
   {
     "question": "Which region of Australia is the leading exporter of wool?",
     "answer": "New South Wales"
+  },
+  {
+    "question": "Which region of Russia changed its time zone in the 2000s due to changes in economic ties?",
+    "answer": "Kaliningrad"
   },
   {
     "question": "Which region of the world is most vulnerable to changes in demographic structure due to migration?",
@@ -2413,6 +2889,10 @@
   {
     "question": "Which river flows through the Amazon Basin?",
     "answer": "Amazon"
+  },
+  {
+    "question": "Which river flows through the Chinese city of Guangzhou?",
+    "answer": "Pearl River"
   },
   {
     "question": "Which river flows through the ancient city of Perge?",
@@ -2445,6 +2925,10 @@
   {
     "question": "Which river is considered the most famous in China?",
     "answer": "Yellow River"
+  },
+  {
+    "question": "Which river is considered the most winding in Scandinavia?",
+    "answer": "Glomma"
   },
   {
     "question": "Which river is the longest on the Arabian Peninsula?",
@@ -2507,8 +2991,16 @@
     "answer": "Trans-Andean Highway"
   },
   {
+    "question": "Which transportation route is a key link for exporting oil from the Caspian region?",
+    "answer": "Baku-Tbilisi-Ceyhan"
+  },
+  {
     "question": "Which type of plate interaction leads to the formation of deep-sea trenches?",
     "answer": "Subduction"
+  },
+  {
+    "question": "Which underwater tunnel is the longest in the world?",
+    "answer": "Seikan"
   },
   {
     "question": "Which volcanic eruption lasted the longest in human history?",
@@ -2541,6 +3033,10 @@
   {
     "question": "Who was the first to cross Australia from south to north?",
     "answer": "John Eyre"
+  },
+  {
+    "question": "Who was the first to cross the Southern Ocean on ice?",
+    "answer": "James Clark Ross"
   },
   {
     "question": "Why does the movement of tectonic plates lead to changes in the elevation of the Earth's surface?",
