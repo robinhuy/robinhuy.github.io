@@ -1242,6 +1242,10 @@
         "answer": "1976"
     },
     {
+        "question": "In what year was the Toyota GT86 first introduced?",
+        "answer": "2012"
+    },
+    {
         "question": "In what year was the company Honda founded?",
         "answer": "1948"
     },
@@ -1317,6 +1321,10 @@
         "answer": "Electric car"
     },
     {
+        "question": "What can be used to replace a damaged gasket?",
+        "answer": "A new gasket"
+    },
+    {
         "question": "What can cause an engine to overheat?",
         "answer": "Lack of antifreeze"
     },
@@ -1390,6 +1398,10 @@
     {
         "question": "What does 'turbocharger upgrade' mean?",
         "answer": "Increase in pressure"
+    },
+    {
+        "question": "What does a carbon fiber wing provide?",
+        "answer": "Reduction in weight"
     },
     {
         "question": "What does a carburetor do?",
@@ -1506,6 +1518,10 @@
     {
         "question": "What increases the autonomy of cars?",
         "answer": "Efficient battery"
+    },
+    {
+        "question": "What innovative material is used in modern electronics?",
+        "answer": "Graphene"
     },
     {
         "question": "What is 'ADAS'?",
@@ -1785,6 +1801,10 @@
         "answer": "Oil cooler"
     },
     {
+        "question": "What is the name of the part that changes the direction of movement?",
+        "answer": "Gearbox"
+    },
+    {
         "question": "What is the name of the race track in Austria?",
         "answer": "Spielberg"
     },
@@ -1826,6 +1846,10 @@
     {
         "question": "What is the name of the updated version of the Harley-Davidson Fat Boy?",
         "answer": "Fat Boy 114"
+    },
+    {
+        "question": "What is the normal tire pressure value?",
+        "answer": "2.5 bar"
     },
     {
         "question": "What is the penalty for driving under the influence?",
@@ -2026,6 +2050,10 @@
     {
         "question": "What regulates the oil pressure in an engine?",
         "answer": "Relief valve"
+    },
+    {
+        "question": "What should a driver do if there is a vehicle ahead with poor visibility for overtaking?",
+        "answer": "Wait for a safe moment"
     },
     {
         "question": "What should be checked when a car hasn't been used for a long time?",
@@ -2518,6 +2546,10 @@
         "answer": "Hyundai Genesis"
     },
     {
+        "question": "Which car won in the GT1 category at the 1997 Le Mans?",
+        "answer": "McLaren F1 GTR"
+    },
+    {
         "question": "Which category of cars became popular in 2021?",
         "answer": "Electric cars"
     },
@@ -2567,6 +2599,10 @@
     {
         "question": "Which company did Colin Chapman found in 1952?",
         "answer": "Lotus"
+    },
+    {
+        "question": "Which company has been known for producing luxury cars since 1919?",
+        "answer": "Bentley"
     },
     {
         "question": "Which company is the sponsor of the rally?",
@@ -40211,6 +40247,10 @@
         "answer": "Network dependency"
     },
     {
+        "question": "Quantum cryptography protects against?",
+        "answer": "Algorithm hacking"
+    },
+    {
         "question": "The main problem of quantum computing:",
         "answer": "Noise and errors"
     },
@@ -40261,6 +40301,10 @@
     {
         "question": "What are robots afraid of?",
         "answer": "Overload"
+    },
+    {
+        "question": "What are servomotors used for?",
+        "answer": "Precise positioning"
     },
     {
         "question": "What are specialists who test systems for security called?",
@@ -40413,6 +40457,10 @@
     {
         "question": "What does an encoder do?",
         "answer": "Encodes data"
+    },
+    {
+        "question": "What does autonomous driving control?",
+        "answer": "All processes"
     },
     {
         "question": "What does blockchain technology allow to create?",
@@ -40815,6 +40863,10 @@
         "answer": "Improving performance"
     },
     {
+        "question": "What is the main advantage of a heated bed?",
+        "answer": "Prevention of warping"
+    },
+    {
         "question": "What is the main advantage of nuclear energy?",
         "answer": "High productivity"
     },
@@ -40933,6 +40985,10 @@
     {
         "question": "What is the name of the emergency shutdown system for equipment?",
         "answer": "ESD System"
+    },
+    {
+        "question": "What is the name of the fast charging system by Oppo?",
+        "answer": "VOOC"
     },
     {
         "question": "What is the name of the first quantum network?",
@@ -41065,6 +41121,10 @@
     {
         "question": "What is the process of assembling and configuring a robot called?",
         "answer": "Integration"
+    },
+    {
+        "question": "What is the process of collecting data using a radio telescope called?",
+        "answer": "Radio astronomy"
     },
     {
         "question": "What is the process of composting called?",
@@ -41603,12 +41663,20 @@
         "answer": "Cubesat"
     },
     {
+        "question": "What technology is used to stabilize satellite orbits?",
+        "answer": "Reaction wheels"
+    },
+    {
         "question": "What technology provides the power of a quantum computer?",
         "answer": "Quantum parallelism"
     },
     {
         "question": "What term describes the system for automating the technological process at a factory?",
         "answer": "APCS"
+    },
+    {
+        "question": "What term is used to describe microbes that produce electricity?",
+        "answer": "Electrogens"
     },
     {
         "question": "What test does NASA use to check equipment resistance to vibrations?",
@@ -41709,6 +41777,10 @@
     {
         "question": "Which algorithm is often used for big data analysis?",
         "answer": "RGBoost"
+    },
+    {
+        "question": "Which algorithm is used to maintain a stable state of a system?",
+        "answer": "PID controller"
     },
     {
         "question": "Which algorithm speeds up database search on a quantum computer?",
@@ -41967,6 +42039,10 @@
         "answer": "GFP"
     },
     {
+        "question": "Which nanomaterials can change color when exposed to light?",
+        "answer": "Fullerenes"
+    },
+    {
         "question": "Which network is best suited for a smart city?",
         "answer": "LPWAN"
     },
@@ -42159,6 +42235,10 @@
         "answer": "Carbon capture"
     },
     {
+        "question": "Which technology securely connects IoT devices?",
+        "answer": "VPN"
+    },
+    {
         "question": "Which test assesses a machine's ability to mimic human thinking?",
         "answer": "Turing Test"
     },
@@ -42201,6 +42281,10 @@
     {
         "question": "Who developed the laws of robotics?",
         "answer": "Isaac Asimov"
+    },
+    {
+        "question": "Who founded the company Huawei?",
+        "answer": "Ren Zhengfei"
     },
     {
         "question": "Who introduces genetic material into microorganisms?",

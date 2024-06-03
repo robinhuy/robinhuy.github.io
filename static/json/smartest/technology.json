@@ -132,6 +132,10 @@
     "answer": "Network dependency"
   },
   {
+    "question": "Quantum cryptography protects against?",
+    "answer": "Algorithm hacking"
+  },
+  {
     "question": "The main problem of quantum computing:",
     "answer": "Noise and errors"
   },
@@ -182,6 +186,10 @@
   {
     "question": "What are robots afraid of?",
     "answer": "Overload"
+  },
+  {
+    "question": "What are servomotors used for?",
+    "answer": "Precise positioning"
   },
   {
     "question": "What are specialists who test systems for security called?",
@@ -334,6 +342,10 @@
   {
     "question": "What does an encoder do?",
     "answer": "Encodes data"
+  },
+  {
+    "question": "What does autonomous driving control?",
+    "answer": "All processes"
   },
   {
     "question": "What does blockchain technology allow to create?",
@@ -736,6 +748,10 @@
     "answer": "Improving performance"
   },
   {
+    "question": "What is the main advantage of a heated bed?",
+    "answer": "Prevention of warping"
+  },
+  {
     "question": "What is the main advantage of nuclear energy?",
     "answer": "High productivity"
   },
@@ -854,6 +870,10 @@
   {
     "question": "What is the name of the emergency shutdown system for equipment?",
     "answer": "ESD System"
+  },
+  {
+    "question": "What is the name of the fast charging system by Oppo?",
+    "answer": "VOOC"
   },
   {
     "question": "What is the name of the first quantum network?",
@@ -986,6 +1006,10 @@
   {
     "question": "What is the process of assembling and configuring a robot called?",
     "answer": "Integration"
+  },
+  {
+    "question": "What is the process of collecting data using a radio telescope called?",
+    "answer": "Radio astronomy"
   },
   {
     "question": "What is the process of composting called?",
@@ -1524,12 +1548,20 @@
     "answer": "Cubesat"
   },
   {
+    "question": "What technology is used to stabilize satellite orbits?",
+    "answer": "Reaction wheels"
+  },
+  {
     "question": "What technology provides the power of a quantum computer?",
     "answer": "Quantum parallelism"
   },
   {
     "question": "What term describes the system for automating the technological process at a factory?",
     "answer": "APCS"
+  },
+  {
+    "question": "What term is used to describe microbes that produce electricity?",
+    "answer": "Electrogens"
   },
   {
     "question": "What test does NASA use to check equipment resistance to vibrations?",
@@ -1630,6 +1662,10 @@
   {
     "question": "Which algorithm is often used for big data analysis?",
     "answer": "RGBoost"
+  },
+  {
+    "question": "Which algorithm is used to maintain a stable state of a system?",
+    "answer": "PID controller"
   },
   {
     "question": "Which algorithm speeds up database search on a quantum computer?",
@@ -1888,6 +1924,10 @@
     "answer": "GFP"
   },
   {
+    "question": "Which nanomaterials can change color when exposed to light?",
+    "answer": "Fullerenes"
+  },
+  {
     "question": "Which network is best suited for a smart city?",
     "answer": "LPWAN"
   },
@@ -2080,6 +2120,10 @@
     "answer": "Carbon capture"
   },
   {
+    "question": "Which technology securely connects IoT devices?",
+    "answer": "VPN"
+  },
+  {
     "question": "Which test assesses a machine's ability to mimic human thinking?",
     "answer": "Turing Test"
   },
@@ -2122,6 +2166,10 @@
   {
     "question": "Who developed the laws of robotics?",
     "answer": "Isaac Asimov"
+  },
+  {
+    "question": "Who founded the company Huawei?",
+    "answer": "Ren Zhengfei"
   },
   {
     "question": "Who introduces genetic material into microorganisms?",
