@@ -276,6 +276,10 @@
     "answer": "Laser rangefinder"
   },
   {
+    "question": "What device helps reduce electricity consumption?",
+    "answer": "Energy monitor"
+  },
+  {
     "question": "What device is used to measure plasma density in space?",
     "answer": "Plasma detector"
   },
@@ -370,6 +374,10 @@
   {
     "question": "What does the Imitation Learning method do?",
     "answer": "Imitates behavior"
+  },
+  {
+    "question": "What does the MES system control?",
+    "answer": "Production process"
   },
   {
     "question": "What does the PCR method do?",
@@ -940,6 +948,10 @@
     "answer": "GALEX"
   },
   {
+    "question": "What is the name of the sustainable farming technique?",
+    "answer": "Organic farming"
+  },
+  {
     "question": "What is the name of the system for control and management of technological processes?",
     "answer": "DCS"
   },
@@ -1020,6 +1032,10 @@
     "answer": "Sampling"
   },
   {
+    "question": "What is the process of converting nuclear fuel into energy called?",
+    "answer": "Nuclear fission"
+  },
+  {
     "question": "What is the process of creating thin films called?",
     "answer": "Nanocoating"
   },
@@ -1074,6 +1090,10 @@
   {
     "question": "What is the purpose of the 'Chandra' mission?",
     "answer": "Study of X-rays"
+  },
+  {
+    "question": "What is the role of the restriction enzyme?",
+    "answer": "Cuts DNA"
   },
   {
     "question": "What is the science called that studies atomic and molecular layer deposition?",
@@ -1164,6 +1184,10 @@
     "answer": "Simulation of RAM"
   },
   {
+    "question": "What issue can occur during 3D printing?",
+    "answer": "Nozzle clogging"
+  },
+  {
     "question": "What joins DNA from different sources?",
     "answer": "Ligases"
   },
@@ -1174,6 +1198,10 @@
   {
     "question": "What makes a building energy-efficient?",
     "answer": "Insulating materials"
+  },
+  {
+    "question": "What makes reinforcement learning methods special?",
+    "answer": "Use of rewards"
   },
   {
     "question": "What makes validation decentralized?",
@@ -1202,6 +1230,10 @@
   {
     "question": "What material is used to create high-performance processors?",
     "answer": "Silicon"
+  },
+  {
+    "question": "What measure enhances security?",
+    "answer": "Access control"
   },
   {
     "question": "What mechanism prevents double spending?",
@@ -1564,6 +1596,10 @@
     "answer": "Electrogens"
   },
   {
+    "question": "What term refers to the complete absence of delays in virtual reality (VR)?",
+    "answer": "Zero Latency"
+  },
+  {
     "question": "What test does NASA use to check equipment resistance to vibrations?",
     "answer": "Vibration test"
   },
@@ -1650,6 +1686,10 @@
   {
     "question": "When was the first genetic modification of a human performed?",
     "answer": "2018"
+  },
+  {
+    "question": "Where are biopolymers used?",
+    "answer": "In medicine"
   },
   {
     "question": "Where are gold nanoparticles used?",
@@ -2154,6 +2194,10 @@
   {
     "question": "Who coined the term 'robotics'?",
     "answer": "Isaac Asimov"
+  },
+  {
+    "question": "Who created the first industrial robot?",
+    "answer": "George Devol"
   },
   {
     "question": "Who developed one of the first approaches to deep learning?",

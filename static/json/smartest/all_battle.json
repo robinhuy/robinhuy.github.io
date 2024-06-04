@@ -1123,6 +1123,10 @@
         "answer": "963"
     },
     {
+        "question": "How many horsepower does the McLaren P1 have?",
+        "answer": "903 hp"
+    },
+    {
         "question": "How many hours does the endurance race at Le Mans last?",
         "answer": "24 hours"
     },
@@ -1166,6 +1170,10 @@
         "answer": "Every two years"
     },
     {
+        "question": "How often should a car be inspected?",
+        "answer": "Every 12 months"
+    },
+    {
         "question": "How often should spark plugs be checked?",
         "answer": "Every 10,000 km"
     },
@@ -1206,6 +1214,10 @@
         "answer": "Anti-corrosion treatment"
     },
     {
+        "question": "In what year did Lewis Hamilton make his debut?",
+        "answer": "2007"
+    },
+    {
         "question": "In what year did Michael Schumacher return to Formula 1?",
         "answer": "2010"
     },
@@ -1220,6 +1232,10 @@
     {
         "question": "In what year did the Mercedes-Benz W111 debut?",
         "answer": "1959"
+    },
+    {
+        "question": "In what year did the first Cadillac appear?",
+        "answer": "1902"
     },
     {
         "question": "In what year did the production of the Lada 2101 begin?",
@@ -1290,6 +1306,10 @@
         "answer": "On the left"
     },
     {
+        "question": "The Frankfurt Motor Show is held every:",
+        "answer": "two years"
+    },
+    {
         "question": "What actions should be taken during hydroplaning?",
         "answer": "Release the accelerator"
     },
@@ -1304,6 +1324,10 @@
     {
         "question": "What are mild hybrid cars?",
         "answer": "With a small battery"
+    },
+    {
+        "question": "What are sports shock absorbers used for?",
+        "answer": "Improving suspension"
     },
     {
         "question": "What are the signs with a blue border called?",
@@ -1398,6 +1422,10 @@
     {
         "question": "What does 'turbocharger upgrade' mean?",
         "answer": "Increase in pressure"
+    },
+    {
+        "question": "What does a barometer measure in a car?",
+        "answer": "Air pressure"
     },
     {
         "question": "What does a carbon fiber wing provide?",
@@ -1899,6 +1927,10 @@
         "answer": "less than 3 seconds"
     },
     {
+        "question": "What is the system called that allows controlling speed and distance to the vehicle ahead?",
+        "answer": "Adaptive cruise control"
+    },
+    {
         "question": "What is the system called that controls a motorcycle at low speeds?",
         "answer": "Stabilization"
     },
@@ -1992,6 +2024,10 @@
     {
         "question": "What is torque used for?",
         "answer": "Acceleration"
+    },
+    {
+        "question": "What is used to check the brakes?",
+        "answer": "pressure measurement"
     },
     {
         "question": "What is used to clean the fuel system?",
@@ -2445,6 +2481,10 @@
     {
         "question": "Which brand manufactures motorcycles for drifting?",
         "answer": "Harley-Davidson"
+    },
+    {
+        "question": "Which brand manufactures the Alazzurra motorcycle?",
+        "answer": "Cagiva"
     },
     {
         "question": "Which brand manufactures the Concours touring motorcycles?",
@@ -40391,6 +40431,10 @@
         "answer": "Laser rangefinder"
     },
     {
+        "question": "What device helps reduce electricity consumption?",
+        "answer": "Energy monitor"
+    },
+    {
         "question": "What device is used to measure plasma density in space?",
         "answer": "Plasma detector"
     },
@@ -40485,6 +40529,10 @@
     {
         "question": "What does the Imitation Learning method do?",
         "answer": "Imitates behavior"
+    },
+    {
+        "question": "What does the MES system control?",
+        "answer": "Production process"
     },
     {
         "question": "What does the PCR method do?",
@@ -41055,6 +41103,10 @@
         "answer": "GALEX"
     },
     {
+        "question": "What is the name of the sustainable farming technique?",
+        "answer": "Organic farming"
+    },
+    {
         "question": "What is the name of the system for control and management of technological processes?",
         "answer": "DCS"
     },
@@ -41135,6 +41187,10 @@
         "answer": "Sampling"
     },
     {
+        "question": "What is the process of converting nuclear fuel into energy called?",
+        "answer": "Nuclear fission"
+    },
+    {
         "question": "What is the process of creating thin films called?",
         "answer": "Nanocoating"
     },
@@ -41189,6 +41245,10 @@
     {
         "question": "What is the purpose of the 'Chandra' mission?",
         "answer": "Study of X-rays"
+    },
+    {
+        "question": "What is the role of the restriction enzyme?",
+        "answer": "Cuts DNA"
     },
     {
         "question": "What is the science called that studies atomic and molecular layer deposition?",
@@ -41279,6 +41339,10 @@
         "answer": "Simulation of RAM"
     },
     {
+        "question": "What issue can occur during 3D printing?",
+        "answer": "Nozzle clogging"
+    },
+    {
         "question": "What joins DNA from different sources?",
         "answer": "Ligases"
     },
@@ -41289,6 +41353,10 @@
     {
         "question": "What makes a building energy-efficient?",
         "answer": "Insulating materials"
+    },
+    {
+        "question": "What makes reinforcement learning methods special?",
+        "answer": "Use of rewards"
     },
     {
         "question": "What makes validation decentralized?",
@@ -41317,6 +41385,10 @@
     {
         "question": "What material is used to create high-performance processors?",
         "answer": "Silicon"
+    },
+    {
+        "question": "What measure enhances security?",
+        "answer": "Access control"
     },
     {
         "question": "What mechanism prevents double spending?",
@@ -41679,6 +41751,10 @@
         "answer": "Electrogens"
     },
     {
+        "question": "What term refers to the complete absence of delays in virtual reality (VR)?",
+        "answer": "Zero Latency"
+    },
+    {
         "question": "What test does NASA use to check equipment resistance to vibrations?",
         "answer": "Vibration test"
     },
@@ -41765,6 +41841,10 @@
     {
         "question": "When was the first genetic modification of a human performed?",
         "answer": "2018"
+    },
+    {
+        "question": "Where are biopolymers used?",
+        "answer": "In medicine"
     },
     {
         "question": "Where are gold nanoparticles used?",
@@ -42269,6 +42349,10 @@
     {
         "question": "Who coined the term 'robotics'?",
         "answer": "Isaac Asimov"
+    },
+    {
+        "question": "Who created the first industrial robot?",
+        "answer": "George Devol"
     },
     {
         "question": "Who developed one of the first approaches to deep learning?",
