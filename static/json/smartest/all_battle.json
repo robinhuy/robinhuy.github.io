@@ -812,6 +812,10 @@
         "answer": "Caterpillars"
     },
     {
+        "question": "Which insects use pheromones for communication?",
+        "answer": "Ants"
+    },
+    {
         "question": "Which jawed fish can breathe air?",
         "answer": "Lungfish"
     },
@@ -23723,6 +23727,10 @@
         "answer": "11"
     },
     {
+        "question": "How many Oscars did the film 'Schindler's List' win?",
+        "answer": "seven"
+    },
+    {
         "question": "How many Oscars did the movie 'Titanic' win?",
         "answer": "11"
     },
@@ -23795,6 +23803,10 @@
         "answer": "1999"
     },
     {
+        "question": "In which 21st-century film does Brad Pitt play the role of a baseball team's manager?",
+        "answer": "Moneyball"
+    },
+    {
         "question": "In which Asian country is the SICAF animation festival held annually?",
         "answer": "South Korea"
     },
@@ -23832,6 +23844,10 @@
     {
         "question": "In which film did James Cameron make his directorial debut?",
         "answer": "Piranha II: The Spawning"
+    },
+    {
+        "question": "In which film does Woody Allen play a jazz guitarist?",
+        "answer": "Sweet and Lowdown"
     },
     {
         "question": "In which film was computer graphics first used?"
@@ -23936,6 +23952,10 @@
         "answer": "Canadian Screen Awards"
     },
     {
+        "question": "What award is given for the best international animated film?",
+        "answer": "Annecy Award"
+    },
+    {
         "question": "What award is given in Italy for achievements in animation?",
         "answer": "David di Donatello"
     },
@@ -23985,6 +24005,10 @@
     {
         "question": "What does the Screen Actors Guild of the USA award?",
         "answer": "Screen Actors Guild Award"
+    },
+    {
+        "question": "What does the process 'matchmoving' mean?",
+        "answer": "Motion tracking"
     },
     {
         "question": "What film did Thor Heyerdahl make about his journey across the Pacific Ocean?",
@@ -24131,6 +24155,10 @@
         "answer": "Susan"
     },
     {
+        "question": "What is the name of Luis Buñuel's realism masterpiece?",
+        "answer": "The Young and the Damned"
+    },
+    {
         "question": "What is the name of Naruto's mother in 'Naruto'?",
         "answer": "Kushina"
     },
@@ -24169,6 +24197,10 @@
     {
         "question": "What is the name of Simba's daughter in the movie 'The Lion King'?",
         "answer": "Kiara"
+    },
+    {
+        "question": "What is the name of Snow White's friend in the movie 'Snow White and the Seven Dwarfs'?",
+        "answer": "Doc"
     },
     {
         "question": "What is the name of Stan's eldest daughter in 'American Dad!'?",
@@ -24249,6 +24281,10 @@
     {
         "question": "What is the name of the American remake of the film 'Suspiria'?",
         "answer": "Suspiria"
+    },
+    {
+        "question": "What is the name of the American remake of the film 'They Fought for Their Country'?",
+        "answer": "They Fought"
     },
     {
         "question": "What is the name of the American version of the film 'Scent of a Woman'?",
@@ -24369,6 +24405,10 @@
     {
         "question": "What is the name of the animated film about a flying castle?",
         "answer": "Howl's Moving Castle"
+    },
+    {
+        "question": "What is the name of the animated film about a magical vacuum cleaner?",
+        "answer": "Vupu"
     },
     {
         "question": "What is the name of the animated film about dinosaurs?",
@@ -24719,6 +24759,10 @@
         "answer": "In Time"
     },
     {
+        "question": "What is the name of the movie about time where a computer controls people's destinies?",
+        "answer": "In Time"
+    },
+    {
         "question": "What is the name of the movie starring Joaquin Phoenix, where he plays a man in love with an operating system?",
         "answer": "Her"
     },
@@ -24918,6 +24962,10 @@
         "answer": "Rotoscoping"
     },
     {
+        "question": "What is the technique of creating photorealistic images called?",
+        "answer": "Rendering"
+    },
+    {
         "question": "What is the technique of non-linear video editing called?",
         "answer": "Non-linear editing"
     },
@@ -25001,6 +25049,10 @@
         "answer": "Rotoscoping"
     },
     {
+        "question": "What reviews provide a new perspective on old films?",
+        "answer": "Retrospective"
+    },
+    {
         "question": "What should be avoided in a review?",
         "answer": "Spoilers"
     },
@@ -25057,6 +25109,10 @@
         "answer": "Grooming"
     },
     {
+        "question": "What term refers to the creation of sequential images?",
+        "answer": "Animatics"
+    },
+    {
         "question": "What term refers to the process of creating intermediate frames in animation?",
         "answer": "Tweening"
     },
@@ -25067,6 +25123,10 @@
     {
         "question": "What was the basis for French surrealism films?",
         "answer": "The subconscious"
+    },
+    {
+        "question": "What was the first 3D movie?",
+        "answer": "The Power of Love"
     },
     {
         "question": "What was the first animated film created using the stop-motion method?",
@@ -25149,6 +25209,10 @@
         "answer": "1950s"
     },
     {
+        "question": "When did regular television broadcasting begin in the USA?",
+        "answer": "1941"
+    },
+    {
         "question": "When did regular television broadcasting begin in the USSR?",
         "answer": "1939"
     },
@@ -25182,6 +25246,10 @@
     {
         "question": "When was the program 'Vremya' first broadcast on central Soviet television?",
         "answer": "1968"
+    },
+    {
+        "question": "Where does the movie 'Blade Runner' take place?",
+        "answer": "Los Angeles"
     },
     {
         "question": "Where is the 'Eros' award for animation presented?",
@@ -25264,12 +25332,20 @@
         "answer": "François Truffaut"
     },
     {
+        "question": "Which French film won the Palme d'Or in 2023?",
+        "answer": "Anatomy of a Fall"
+    },
+    {
         "question": "Which German director made 'Metropolis'?",
         "answer": "Fritz Lang"
     },
     {
         "question": "Which German director made the film 'Nosferatu'?",
         "answer": "Friedrich Wilhelm Murnau"
+    },
+    {
+        "question": "Which German festival awards animated films?",
+        "answer": "Oberhausen"
     },
     {
         "question": "Which German film is about World War II?",
@@ -25524,6 +25600,10 @@
         "answer": "Heart of a Dog"
     },
     {
+        "question": "Which book by Ostrovsky was adapted into a film?",
+        "answer": "Without a Dowry"
+    },
+    {
         "question": "Which character catches criminals in the series 'Dexter'?",
         "answer": "Dexter"
     },
@@ -25689,6 +25769,10 @@
     {
         "question": "Which film directed by Christopher Nolan was released in 2006?",
         "answer": "The Prestige"
+    },
+    {
+        "question": "Which film directed by Georgiy Daneliya was released in 1986?",
+        "answer": "Kin-dza-dza"
     },
     {
         "question": "Which film director received two 'Golden Lions' at the Venice Film Festival?",
@@ -25866,6 +25950,10 @@
         "answer": "Intolerance"
     },
     {
+        "question": "Which film was directed by David Fincher in 2010?",
+        "answer": "The Social Network"
+    },
+    {
         "question": "Which film was directed by Federico Fellini?",
         "answer": "La Dolce Vita"
     },
@@ -25914,6 +26002,10 @@
         "answer": "Tron"
     },
     {
+        "question": "Which film was the first to use a green screen?",
+        "answer": "The Thief of Bagdad"
+    },
+    {
         "question": "Which film was the first to use color chroma key?",
         "answer": "Mary Poppins"
     },
@@ -25956,6 +26048,10 @@
     {
         "question": "Which film won the 'Golden Lion' in 2022?",
         "answer": "Everything Everywhere All at Once"
+    },
+    {
+        "question": "Which film won the 'Oscar' for Best Picture in 2021?",
+        "answer": "Nomadland"
     },
     {
         "question": "Which film won the 'Oscar' in 1994?",
@@ -26019,6 +26115,10 @@
     },
     {
         "question": "Which former US president organized the 'Political Films' film festival?"
+    },
+    {
+        "question": "Which franchise includes Merlin and Arthur?",
+        "answer": "King Arthur"
     },
     {
         "question": "Which function allows you to visualize a 3D model as a finished image?",
@@ -26091,6 +26191,10 @@
     {
         "question": "Which movement is known for the use of grotesque?",
         "answer": "German Expressionism"
+    },
+    {
+        "question": "Which movie about real mobsters was released in 2006?",
+        "answer": "The Departed"
     },
     {
         "question": "Which movie features the character CatBus?",
@@ -26316,6 +26420,10 @@
         "answer": "CINAR"
     },
     {
+        "question": "Which studio released the animated film \"The Wizard of the Emerald City\"?",
+        "answer": "Soyuzmultfilm"
+    },
+    {
         "question": "Which studio released the animated film 'Isle of Dogs'?",
         "answer": "Indian Paintbrush"
     },
@@ -26370,6 +26478,10 @@
     {
         "question": "Who composed the music for 'The Cockroach'?",
         "answer": "Georgy Vasilyev"
+    },
+    {
+        "question": "Who composed the music for the TV series 'Hannibal' (2013)?",
+        "answer": "Brian Reitzell"
     },
     {
         "question": "Who composed the music for the animated film 'Bambi'?",
@@ -26444,6 +26556,10 @@
         "answer": "Jan A. P. Kaczmarek"
     },
     {
+        "question": "Who composed the music for the film 'Get Out'?",
+        "answer": "Michael Abels"
+    },
+    {
         "question": "Who composed the music for the film 'Interstate 60'?",
         "answer": "Mark Thomas"
     },
@@ -26500,6 +26616,10 @@
         "answer": "Howard Shore"
     },
     {
+        "question": "Who composed the music for the movie 'Drive'?",
+        "answer": "Cliff Martinez"
+    },
+    {
         "question": "Who composed the music for the movie 'Fight Club'?",
         "answer": "The Dust Brothers"
     },
@@ -26554,6 +26674,10 @@
     {
         "question": "Who directed 'Baius'?",
         "answer": "Andrea Dalle"
+    },
+    {
+        "question": "Who directed 'Coraline'?",
+        "answer": "Henry Selick"
     },
     {
         "question": "Who directed 'Crisis'?",
@@ -26660,6 +26784,10 @@
         "answer": "Manfred Kersten"
     },
     {
+        "question": "Who directed the animated film 'Ferdinand'?",
+        "answer": "Carlos Saldanha"
+    },
+    {
         "question": "Who directed the animated film 'Finding Dory'?",
         "answer": "Andrew Stanton"
     },
@@ -26688,6 +26816,10 @@
         "answer": "Tomm Moore"
     },
     {
+        "question": "Who directed the animated film 'The Mystery of the Third Planet'?",
+        "answer": "Roman Kachanov"
+    },
+    {
         "question": "Who directed the animated film 'The Secret of Kells'?",
         "answer": "Tomm Moore"
     },
@@ -26700,6 +26832,10 @@
         "answer": "Werner Herzog"
     },
     {
+        "question": "Who directed the film \"To Live\"?",
+        "answer": "Zhang Yimou"
+    },
+    {
         "question": "Who directed the film \"Zodiac\"?",
         "answer": "David Fincher"
     },
@@ -26708,8 +26844,16 @@
         "answer": "Mary Harron"
     },
     {
+        "question": "Who directed the film 'Ant Platform'?",
+        "answer": "Vitaliy Mansurov"
+    },
+    {
         "question": "Who directed the film 'Big Trouble in Little China'?",
         "answer": "John Carpenter"
+    },
+    {
+        "question": "Who directed the film 'Blade Runner'?",
+        "answer": "Ridley Scott"
     },
     {
         "question": "Who directed the film 'Blue Velvet'?",
@@ -26722,6 +26866,10 @@
     {
         "question": "Who directed the film 'Dogville'?",
         "answer": "Lars von Trier"
+    },
+    {
+        "question": "Who directed the film 'Elephant'?",
+        "answer": "Gus Van Sant"
     },
     {
         "question": "Who directed the film 'Father of a Soldier'?",
@@ -26784,6 +26932,10 @@
         "answer": "Marc Forster"
     },
     {
+        "question": "Who directed the movie 'Waterworld'?",
+        "answer": "Kevin Reynolds"
+    },
+    {
         "question": "Who directed the remake of the film 'Suspiria'?",
         "answer": "Luca Guadagnino"
     },
@@ -26802,6 +26954,10 @@
     {
         "question": "Who is Hayao Miyazaki?",
         "answer": "Famous director"
+    },
+    {
+        "question": "Who is Mabel Pines' younger brother in the animated series 'Gravity Falls'?",
+        "answer": "Dipper"
     },
     {
         "question": "Who is considered a pioneer in the field of montage?",
@@ -26994,6 +27150,10 @@
         "answer": "Robert De Niro"
     },
     {
+        "question": "Who is the killer in the series 'Broadchurch'?",
+        "answer": "Joe Miller"
+    },
+    {
         "question": "Who is the leader on Pandora?",
         "answer": "Jake Sully"
     },
@@ -27066,6 +27226,10 @@
         "answer": "Anthony Hopkins"
     },
     {
+        "question": "Who played James Bond in the movie 'Dr. No'?",
+        "answer": "Sean Connery"
+    },
+    {
         "question": "Who played Leonard Shelby in the movie 'Memento'?",
         "answer": "Guy Pearce"
     },
@@ -27130,12 +27294,20 @@
         "answer": "Andy Serkis"
     },
     {
+        "question": "Who played the role of Locke in the TV series 'Lost'?",
+        "answer": "Terry O'Quinn"
+    },
+    {
         "question": "Who played the role of Merlin in the movie 'King Arthur: Legend of the Sword'?",
         "answer": "Aidan Gillen"
     },
     {
         "question": "Who played the role of Mr. Spiegel in the movie 'Interstate 60'?",
         "answer": "Gary Oldman"
+    },
+    {
+        "question": "Who played the role of Oliver Twist in the 2005 film adaptation?",
+        "answer": "Barney Clark"
     },
     {
         "question": "Who played the role of Scarlett O'Hara in the film 'Gone with the Wind'?",
@@ -27194,8 +27366,16 @@
         "answer": "George Miller"
     },
     {
+        "question": "Who produced the movie 'Dark Warrior'?",
+        "answer": "James Feig"
+    },
+    {
         "question": "Who produced the movie 'You Might Be the Killer'?",
         "answer": "Teddy Margas"
+    },
+    {
+        "question": "Who produced the series 'Black Mirror'?",
+        "answer": "Charlie Brooker"
     },
     {
         "question": "Who produced the series 'True Detective'?",
@@ -27224,6 +27404,10 @@
     {
         "question": "Who said: 'Another Day in Paradise'?",
         "answer": "Phil Collins"
+    },
+    {
+        "question": "Who said: 'Don't give up, so you won't have to regret it'?",
+        "answer": "Max"
     },
     {
         "question": "Who said: 'Every story has a beginning'?",
@@ -27282,6 +27466,10 @@
         "answer": "Maximus"
     },
     {
+        "question": "Who said: 'You are full of determination'?",
+        "answer": "Smith"
+    },
+    {
         "question": "Who said: 'You must take the first step in faith. You don't have to see the whole staircase, just take the first step'?",
         "answer": "Martin Luther King Jr."
     },
@@ -27300,6 +27488,10 @@
     {
         "question": "Who voiced Yogi Bear?",
         "answer": "Dan Aykroyd"
+    },
+    {
+        "question": "Who was Buster Keaton's on-screen partner?",
+        "answer": "Joe Roberts"
     },
     {
         "question": "Who was one of the leaders of Soviet montage cinema?",
@@ -27650,6 +27842,10 @@
         "answer": "1935"
     },
     {
+        "question": "In what year was CBGB founded?",
+        "answer": "1973"
+    },
+    {
         "question": "In what year was Ludwig van Beethoven born?",
         "answer": "1770"
     },
@@ -27680,6 +27876,10 @@
     {
         "question": "In what year was the album 'High Voltage' by AC/DC released?",
         "answer": "1975"
+    },
+    {
+        "question": "In what year was the album 'Sgt. Pepper's Lonely Hearts Club Band' released?",
+        "answer": "1967"
     },
     {
         "question": "In what year was the album 'The Eminem Show' released?",
@@ -28110,6 +28310,10 @@
         "answer": "Whatever People Say I Am, That's What I'm Not"
     },
     {
+        "question": "What is the name of Bad Religion's first album?",
+        "answer": "How Could Hell Be Any Worse?"
+    },
+    {
         "question": "What is the name of Beck's popular 1994 album?",
         "answer": "Mellow Gold"
     },
@@ -28148,6 +28352,10 @@
     {
         "question": "What is the name of Drake's debut album?",
         "answer": "Thank Me Later"
+    },
+    {
+        "question": "What is the name of Emilíana Torrini's album released in 1999?",
+        "answer": "Love in the Time of Science"
     },
     {
         "question": "What is the name of Fiona Apple's debut album?",
@@ -28254,6 +28462,10 @@
         "answer": "Rusko"
     },
     {
+        "question": "What is the name of a large multi-part vocal composition performed by soloists, choir, and orchestra?",
+        "answer": "Oratorio"
+    },
+    {
         "question": "What is the name of a work created by mixing several tracks?",
         "answer": "Mashup"
     },
@@ -28342,6 +28554,10 @@
         "answer": "Arnold Schoenberg"
     },
     {
+        "question": "What is the name of the award for emerging musicians?",
+        "answer": "Best New Artist"
+    },
+    {
         "question": "What is the name of the award for outstanding musical contribution?",
         "answer": "Icon Award"
     },
@@ -28362,8 +28578,16 @@
         "answer": "Country Music Hall of Fame"
     },
     {
+        "question": "What is the name of the collection of Carolingian liturgical music?",
+        "answer": "Gregorian Chant"
+    },
+    {
         "question": "What is the name of the composer of 'The Tales of Hoffmann'?",
         "answer": "Offenbach"
+    },
+    {
+        "question": "What is the name of the composer of the opera 'The Tsar's Bride'?",
+        "answer": "Rimsky-Korsakov"
     },
     {
         "question": "What is the name of the composition by Alexander Vustin based on the poems of Arseny Tarkovsky?",
@@ -28506,8 +28730,16 @@
         "answer": "Rumba"
     },
     {
+        "question": "What is the name of the musical style of Venezuela?",
+        "answer": "Guaracha"
+    },
+    {
         "question": "What is the name of the musical style with a fast and energetic rhythm from Latin America?",
         "answer": "Salsa"
+    },
+    {
+        "question": "What is the name of the musical theme of the movie 'Pulp Fiction'?",
+        "answer": "Misirlou"
     },
     {
         "question": "What is the name of the national dance of Chile?",
@@ -28524,6 +28756,10 @@
     {
         "question": "What is the name of the popular rhythm in reggae?",
         "answer": "Syncopation"
+    },
+    {
+        "question": "What is the name of the popular type of Bolivian music?",
+        "answer": "Saya"
     },
     {
         "question": "What is the name of the second song on the album 'Nevermind'?",
@@ -28574,6 +28810,10 @@
         "answer": "Judy Garland"
     },
     {
+        "question": "What is the name of the work 'Sounds in Silence'?",
+        "answer": "Silence"
+    },
+    {
         "question": "What is the name of Ólafur Arnalds' album 'Eulogy for Evolution'?",
         "answer": "Eulogy for Evolution"
     },
@@ -28582,8 +28822,16 @@
         "answer": "Time stretching"
     },
     {
+        "question": "What is the process of creating sounds using wave generators called?",
+        "answer": "Sound design"
+    },
+    {
         "question": "What is the process of modulating sound in dubstep called?",
         "answer": "LFO modulation"
+    },
+    {
+        "question": "What is the purpose of using a phaser effect in dubstep?",
+        "answer": "Sound shifting"
     },
     {
         "question": "What is the real name of DJ Marshmello?",
@@ -28766,6 +29014,10 @@
         "answer": "Drum and bass"
     },
     {
+        "question": "What style of music includes fast guitar rhythms?",
+        "answer": "Flamenco"
+    },
+    {
         "question": "What style of music is characterized by a melancholic and dark atmosphere?",
         "answer": "Gothic"
     },
@@ -28776,6 +29028,10 @@
     {
         "question": "What style of music was popularized by the band Kraftwerk?",
         "answer": "Electronic music"
+    },
+    {
+        "question": "What subgenre of R&B emerged in the 1990s?",
+        "answer": "neo-soul"
     },
     {
         "question": "What technique does composer Pierre Boulez use?",
@@ -29006,12 +29262,20 @@
         "answer": "Clint Eastwood"
     },
     {
+        "question": "Which James Brown album is considered the first funk album?",
+        "answer": "Cold Sweat"
+    },
+    {
         "question": "Which Latin American singer is known for the song 'Héroe'?",
         "answer": "Enrique Iglesias"
     },
     {
         "question": "Which Mexican singer is known for the song 'Hasta Que Te Conocí'?",
         "answer": "Juan Gabriel"
+    },
+    {
+        "question": "Which Nick Cave song became famous in the 80s?",
+        "answer": "The Mercy Seat"
     },
     {
         "question": "Which Oasis album was released in 1997?",
@@ -29102,6 +29366,10 @@
         "answer": "Lemonade"
     },
     {
+        "question": "Which album was released by the band Lynyrd Skynyrd in 1973?",
+        "answer": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)"
+    },
+    {
         "question": "Which album was released by the singer Lady Gaga?",
         "answer": "The Fame"
     },
@@ -29184,6 +29452,18 @@
     {
         "question": "Which band performed 'La Rebelión'?",
         "answer": "Joe Arroyo"
+    },
+    {
+        "question": "Which band performed at the first Woodstock?",
+        "answer": "Jimi Hendrix"
+    },
+    {
+        "question": "Which band performed for the first time at the Monterey Pop Festival?",
+        "answer": "The Jimi Hendrix Experience"
+    },
+    {
+        "question": "Which band performed the song 'Layla'?",
+        "answer": "Derek and the Dominos"
     },
     {
         "question": "Which band performs the song 'El Matador'?",
@@ -29294,6 +29574,10 @@
         "answer": "Native Instruments"
     },
     {
+        "question": "Which compilation became famous in 1961?",
+        "answer": "'At Carnegie Hall'"
+    },
+    {
         "question": "Which composer is known for innovative techniques in music?",
         "answer": "Igor Stravinsky"
     },
@@ -29336,6 +29620,14 @@
     {
         "question": "Which composer wrote the cycle 'Aaron's Songs'?",
         "answer": "Leon Kirchner"
+    },
+    {
+        "question": "Which composer wrote the piece 'Noise and Silence'?",
+        "answer": "Morton Feldman"
+    },
+    {
+        "question": "Which composition by Duke Ellington became a jazz standard?",
+        "answer": "In a Sentimental Mood"
     },
     {
         "question": "Which conductor has won the most Grammy Awards?",
@@ -29390,6 +29682,10 @@
         "answer": "Stalker"
     },
     {
+        "question": "Which famous group released the album 'Boulevard'?",
+        "answer": "St Germain"
+    },
+    {
         "question": "Which famous singer released the album 'Let's Stay Together'?",
         "answer": "Al Green"
     },
@@ -29408,6 +29704,10 @@
     {
         "question": "Which festival begins with the ceremony of burning an effigy?",
         "answer": ""
+    },
+    {
+        "question": "Which festival is famous for its folk dances?",
+        "answer": "Kaliningrad Festival"
     },
     {
         "question": "Which festival is held in Belgium and is known for its musical performances?",
@@ -29456,6 +29756,10 @@
     {
         "question": "Which funk band released the hit 'Fantastic Voyage'?",
         "answer": "Lakeside"
+    },
+    {
+        "question": "Which genre developed due to the use of electronic instruments in the late 60s?",
+        "answer": "Krautrock"
     },
     {
         "question": "Which genre includes elements of blues and electronics?",
@@ -29534,12 +29838,20 @@
         "answer": "violin"
     },
     {
+        "question": "Which instrument consists of strings and keys?",
+        "answer": "Harpsichord"
+    },
+    {
         "question": "Which instrument has keys and a drum?",
         "answer": "Timpani"
     },
     {
         "question": "Which instrument has keys and strings inside its body?",
         "answer": "Grand piano"
+    },
+    {
+        "question": "Which instrument has stretched strings and a base made of a wooden frame?",
+        "answer": "Harp"
     },
     {
         "question": "Which instrument is associated with Iran?",
@@ -29604,6 +29916,10 @@
     {
         "question": "Which instrument sounds like an organ from a distance?",
         "answer": "Accordion"
+    },
+    {
+        "question": "Which international group won the 'Best International Group' award at the BRIT Awards in 2021?",
+        "answer": "Haim"
     },
     {
         "question": "Which jazz composition became Dizzy Gillespie's signature piece?",
@@ -29694,6 +30010,10 @@
         "answer": "Nuits Sonores"
     },
     {
+        "question": "Which music genre became popular due to the psychedelic culture?",
+        "answer": "Psytrance"
+    },
+    {
         "question": "Which music genre became popular thanks to the band R.E.M.?",
         "answer": "Alternative rock"
     },
@@ -29736,6 +30056,10 @@
     {
         "question": "Which music genre is known for using modular synthesizers?",
         "answer": "Modular"
+    },
+    {
+        "question": "Which music genre often uses loops and drones?",
+        "answer": "Ambient"
     },
     {
         "question": "Which music genre uses distortion?",
@@ -29826,6 +30150,10 @@
         "answer": "Piano"
     },
     {
+        "question": "Which musical instrument is most commonly associated with folklore?",
+        "answer": "Bandoneon"
+    },
+    {
         "question": "Which musical instrument is often used in rock music?",
         "answer": "Guitar"
     },
@@ -29870,6 +30198,10 @@
         "answer": "Ian MacKaye"
     },
     {
+        "question": "Which musician is known by the nickname 'El Rey' (The King)?",
+        "answer": "Vicente Fernandez"
+    },
+    {
         "question": "Which musician was awarded for their contribution to funk?",
         "answer": "Bootsy Collins"
     },
@@ -29902,6 +30234,10 @@
         "answer": "Ozzy Osbourne"
     },
     {
+        "question": "Which popular DJ is known for his dub mixes?",
+        "answer": "King Tubby"
+    },
+    {
         "question": "Which producer won a Grammy for the album 'Planet Her'?",
         "answer": "Dr. Luke"
     },
@@ -29910,12 +30246,20 @@
         "answer": "Havoc"
     },
     {
+        "question": "Which producer worked with Alice in Chains?",
+        "answer": "Rick Parashar"
+    },
+    {
         "question": "Which producer worked with Notorious B.I.G.?",
         "answer": "Puff Daddy"
     },
     {
         "question": "Which publication was key to the development of techno in Detroit?",
         "answer": "'Techno! The New Dance Sound of Detroit'"
+    },
+    {
+        "question": "Which punk subgenre combines punk and metal?",
+        "answer": "Crossover thrash"
     },
     {
         "question": "Which rapper is known for his fast-paced style?",
@@ -29940,6 +30284,10 @@
     {
         "question": "Which singer became the first major R&B performer?",
         "answer": "Ray Charles"
+    },
+    {
+        "question": "Which singer has the nickname 'Babyface'?",
+        "answer": "Kenny Edmonds"
     },
     {
         "question": "Which singer holds the title 'The Piano Man'?",
@@ -30122,6 +30470,10 @@
         "answer": "Sicko Mode"
     },
     {
+        "question": "Which track is considered one of the first house tracks?",
+        "answer": "On and On"
+    },
+    {
         "question": "Which track is considered the best in the drum and bass genre?",
         "answer": "Inner City Life"
     },
@@ -30138,12 +30490,20 @@
         "answer": "Trio"
     },
     {
+        "question": "Which work was composed by Glinka?",
+        "answer": "Ruslan and Lyudmila"
+    },
+    {
         "question": "Which work was composed by Guillaume Dufay?",
         "answer": "Nuper rosarum flores"
     },
     {
         "question": "Which work was composed by Johann Sebastian Bach?",
         "answer": "Brandenburg Concertos"
+    },
+    {
+        "question": "Who became famous for the track 'The Bridge Is Over'?",
+        "answer": "Boogie Down Productions"
     },
     {
         "question": "Who became popular thanks to the album 'Street Songs'?",
@@ -30164,6 +30524,10 @@
     {
         "question": "Who composed 'Messe de Nostre Dame'?",
         "answer": "Guillaume de Machaut"
+    },
+    {
+        "question": "Who composed 'Prometheus'?",
+        "answer": "Scriabin"
     },
     {
         "question": "Who composed 'The Childhood of Jesus'?",
@@ -30238,6 +30602,10 @@
         "answer": "Skalkovsky"
     },
     {
+        "question": "Who composed the music for the song 'Lullaby of Broadway'?",
+        "answer": "Harry Warren"
+    },
+    {
         "question": "Who composed the music for the song 'Raindrops Keep Fallin' on My Head'?",
         "answer": "Burt Bacharach"
     },
@@ -30306,6 +30674,10 @@
         "answer": "Perotin"
     },
     {
+        "question": "Who created the first modular synthesizer?",
+        "answer": "Robert Moog"
+    },
+    {
         "question": "Who created the solmization music system?",
         "answer": "Guido of Arezzo"
     },
@@ -30318,6 +30690,10 @@
         "answer": "Guido of Arezzo"
     },
     {
+        "question": "Who did DJ Alan Walker collaborate with?",
+        "answer": "Norlie"
+    },
+    {
         "question": "Who founded Critical Music?",
         "answer": "Kasra"
     },
@@ -30328,6 +30704,10 @@
     {
         "question": "Who founded the Burning Man festival?",
         "answer": "Larry Harvey"
+    },
+    {
+        "question": "Who founded the Ministry of Sound label?",
+        "answer": "James Palumbo"
     },
     {
         "question": "Who founded the Modern Jazz Quartet?",
@@ -30426,6 +30806,10 @@
         "answer": "Deadmau5"
     },
     {
+        "question": "Who is known for their contribution to 'Piedmont Blues'?",
+        "answer": "Blind Blake"
+    },
+    {
         "question": "Who is known for their famous 'Global Underground' series?",
         "answer": "DJ Sasha"
     },
@@ -30452,6 +30836,10 @@
     {
         "question": "Who is the author of the work 'Alaric'?",
         "answer": "Johannes Brahms"
+    },
+    {
+        "question": "Who is the author of the work 'Trio for Harpsichord'?",
+        "answer": "Joseph Haydn"
     },
     {
         "question": "Who is the bassist of the band Tool?",
@@ -30488,6 +30876,10 @@
     {
         "question": "Who is the composer of the opera 'Alceste'?",
         "answer": "Gluck"
+    },
+    {
+        "question": "Who is the composer of the opera 'Carmen'?",
+        "answer": "Bizet"
     },
     {
         "question": "Who is the composer of the symphony 'Manfred'?",
@@ -30546,6 +30938,10 @@
         "answer": "The Verve"
     },
     {
+        "question": "Who performed 'Cross Road Blues'?",
+        "answer": "Robert Johnson"
+    },
+    {
         "question": "Who performed at the Super Bowl 2022?",
         "answer": "Dr. Dre, Snoop Dogg, Eminem"
     },
@@ -30564,6 +30960,10 @@
     {
         "question": "Who performed the song 'Gimme Some Lovin''?",
         "answer": "Jaw harp"
+    },
+    {
+        "question": "Who performed the song 'Good Vibrations'?",
+        "answer": "The Beach Boys"
     },
     {
         "question": "Who performed the song 'Hallelujah' in the 1994 version?",
@@ -30606,6 +31006,10 @@
         "answer": "Frankie Valli"
     },
     {
+        "question": "Who played bass guitar in The Who?",
+        "answer": "John Entwistle"
+    },
+    {
         "question": "Who popularized the slap technique on the bass guitar in funk?",
         "answer": "Larry Graham"
     },
@@ -30646,6 +31050,10 @@
         "answer": "Sampha"
     },
     {
+        "question": "Who released the album 'Street Songs'?",
+        "answer": "Rick James"
+    },
+    {
         "question": "Who released the album 'The Dreaming' in 1982?",
         "answer": "Kate Bush"
     },
@@ -30670,6 +31078,10 @@
         "answer": ""
     },
     {
+        "question": "Who released the track 'Blinded by Your Grace'?",
+        "answer": "Stormzy"
+    },
+    {
         "question": "Who remixed Coldplay's song 'Hymn for the Weekend'?",
         "answer": "Seeb"
     },
@@ -30690,6 +31102,10 @@
         "answer": "Muddy Waters"
     },
     {
+        "question": "Who was a famous composer of the bebop era?",
+        "answer": "Thelonious Monk"
+    },
+    {
         "question": "Who was a famous jazz bassist?",
         "answer": "Charles Mingus"
     },
@@ -30700,6 +31116,10 @@
     {
         "question": "Who was a pioneer in the use of synthesizers in rock music?",
         "answer": "Pink Floyd"
+    },
+    {
+        "question": "Who was awarded the 'Best Soundtrack' in 2016?",
+        "answer": "Furious 7"
     },
     {
         "question": "Who was named the best female country artist in 2020?",
@@ -30744,6 +31164,10 @@
     {
         "question": "Who was the first to receive the BRIT Award for British Album of the Year?",
         "answer": "The Beatles"
+    },
+    {
+        "question": "Who was the first to use electric guitars in jazz?",
+        "answer": "Charlie Christian"
     },
     {
         "question": "Who was the first to win the Grammy Award for Best Musical?",
@@ -30862,6 +31286,10 @@
         "answer": "Sam Smith"
     },
     {
+        "question": "Who won the Grammy Award for Album of the Year in 2019?",
+        "answer": "Kacey Musgraves"
+    },
+    {
         "question": "Who won the Grammy Award for Best Dance/Electronic Album in 2021?",
         "answer": "Kaytranada"
     },
@@ -30892,6 +31320,10 @@
     {
         "question": "Who won the award for Best Rock Album in 2007?",
         "answer": "30 Seconds to Mars"
+    },
+    {
+        "question": "Who won the award for Best Rock Group in 2019?",
+        "answer": "Imagine Dragons"
     },
     {
         "question": "Who won the award for Best Soundtrack in 2019?",
@@ -30930,12 +31362,20 @@
         "answer": "Leo Tolstoy"
     },
     {
+        "question": "Who wrote the song 'Raindrops Keep Fallin' on My Head'?",
+        "answer": "Burt Bacharach"
+    },
+    {
         "question": "Who wrote the song 'We Belong Together'?",
         "answer": "Randy Newman"
     },
     {
         "question": "Whose 1970s album is 'There Goes Rhymin' Simon'?",
         "answer": "Paul Simon"
+    },
+    {
+        "question": "Year of release of the album 'Catch a Fire'?",
+        "answer": "1973"
     },
     {
         "question": "What discovery is attributed to Henri Becquerel?",
@@ -30946,12 +31386,20 @@
         "answer": "Paul Cézanne"
     },
     {
+        "question": "What is the title of Vladimir Nabokov's first published novella?",
+        "answer": "Mary"
+    },
+    {
         "question": "What was the name of the legendary Italian motorcyclist who won 9 titles in MotoGP?",
         "answer": "Valentino Rossi"
     },
     {
         "question": "Which artist is considered one of the founders of Dadaism?",
         "answer": "Marcel Duchamp"
+    },
+    {
+        "question": "Which artist is known as a master of still life?",
+        "answer": "Paul Cézanne"
     },
     {
         "question": "Which brand is famous for using rhinestones?",
@@ -30982,6 +31430,10 @@
         "answer": "Hans Holbein the Younger"
     },
     {
+        "question": "Who developed the concept of 'anti-fashion'?",
+        "answer": "Yohji Yamamoto"
+    },
+    {
         "question": "Who directed the film 'Breakfast at Tiffany's'?",
         "answer": "Blake Edwards"
     },
@@ -30994,12 +31446,20 @@
         "answer": "Elizabeth I"
     },
     {
+        "question": "Who initiated the reforms in Japan during the Meiji period?",
+        "answer": "Emperor Meiji"
+    },
+    {
         "question": "Who is the author of the poem \"Lucifer\"?",
         "answer": "Juliusz Słowacki"
     },
     {
         "question": "Who is the author of the sacred texts in Hinduism?",
         "answer": "Vyasa"
+    },
+    {
+        "question": "Who is the most successful woman in the history of tennis?",
+        "answer": "Margaret Court"
     },
     {
         "question": "Who played the lead role in the movie '2001: A Space Odyssey'?",
@@ -32810,6 +33270,10 @@
     {
         "question": "What is ecdysis?",
         "answer": "Shedding of the chitinous exoskeleton"
+    },
+    {
+        "question": "What is electronegativity?",
+        "answer": "The ability of an atom to attract electrons"
     },
     {
         "question": "What is epigenetics?",
@@ -35225,6 +35689,10 @@
     {
         "question": "Who was the first to measure the speed of light?",
         "answer": "Fizeau"
+    },
+    {
+        "question": "Who was the first to systematize dinosaurs?",
+        "answer": "Richard Owen"
     },
     {
         "question": "Who was the first to theoretically predict the existence of black holes?",

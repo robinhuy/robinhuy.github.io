@@ -156,6 +156,10 @@
     "answer": "1935"
   },
   {
+    "question": "In what year was CBGB founded?",
+    "answer": "1973"
+  },
+  {
     "question": "In what year was Ludwig van Beethoven born?",
     "answer": "1770"
   },
@@ -186,6 +190,10 @@
   {
     "question": "In what year was the album 'High Voltage' by AC/DC released?",
     "answer": "1975"
+  },
+  {
+    "question": "In what year was the album 'Sgt. Pepper's Lonely Hearts Club Band' released?",
+    "answer": "1967"
   },
   {
     "question": "In what year was the album 'The Eminem Show' released?",
@@ -616,6 +624,10 @@
     "answer": "Whatever People Say I Am, That's What I'm Not"
   },
   {
+    "question": "What is the name of Bad Religion's first album?",
+    "answer": "How Could Hell Be Any Worse?"
+  },
+  {
     "question": "What is the name of Beck's popular 1994 album?",
     "answer": "Mellow Gold"
   },
@@ -654,6 +666,10 @@
   {
     "question": "What is the name of Drake's debut album?",
     "answer": "Thank Me Later"
+  },
+  {
+    "question": "What is the name of Emilíana Torrini's album released in 1999?",
+    "answer": "Love in the Time of Science"
   },
   {
     "question": "What is the name of Fiona Apple's debut album?",
@@ -760,6 +776,10 @@
     "answer": "Rusko"
   },
   {
+    "question": "What is the name of a large multi-part vocal composition performed by soloists, choir, and orchestra?",
+    "answer": "Oratorio"
+  },
+  {
     "question": "What is the name of a work created by mixing several tracks?",
     "answer": "Mashup"
   },
@@ -848,6 +868,10 @@
     "answer": "Arnold Schoenberg"
   },
   {
+    "question": "What is the name of the award for emerging musicians?",
+    "answer": "Best New Artist"
+  },
+  {
     "question": "What is the name of the award for outstanding musical contribution?",
     "answer": "Icon Award"
   },
@@ -868,8 +892,16 @@
     "answer": "Country Music Hall of Fame"
   },
   {
+    "question": "What is the name of the collection of Carolingian liturgical music?",
+    "answer": "Gregorian Chant"
+  },
+  {
     "question": "What is the name of the composer of 'The Tales of Hoffmann'?",
     "answer": "Offenbach"
+  },
+  {
+    "question": "What is the name of the composer of the opera 'The Tsar's Bride'?",
+    "answer": "Rimsky-Korsakov"
   },
   {
     "question": "What is the name of the composition by Alexander Vustin based on the poems of Arseny Tarkovsky?",
@@ -1012,8 +1044,16 @@
     "answer": "Rumba"
   },
   {
+    "question": "What is the name of the musical style of Venezuela?",
+    "answer": "Guaracha"
+  },
+  {
     "question": "What is the name of the musical style with a fast and energetic rhythm from Latin America?",
     "answer": "Salsa"
+  },
+  {
+    "question": "What is the name of the musical theme of the movie 'Pulp Fiction'?",
+    "answer": "Misirlou"
   },
   {
     "question": "What is the name of the national dance of Chile?",
@@ -1030,6 +1070,10 @@
   {
     "question": "What is the name of the popular rhythm in reggae?",
     "answer": "Syncopation"
+  },
+  {
+    "question": "What is the name of the popular type of Bolivian music?",
+    "answer": "Saya"
   },
   {
     "question": "What is the name of the second song on the album 'Nevermind'?",
@@ -1080,6 +1124,10 @@
     "answer": "Judy Garland"
   },
   {
+    "question": "What is the name of the work 'Sounds in Silence'?",
+    "answer": "Silence"
+  },
+  {
     "question": "What is the name of Ólafur Arnalds' album 'Eulogy for Evolution'?",
     "answer": "Eulogy for Evolution"
   },
@@ -1088,8 +1136,16 @@
     "answer": "Time stretching"
   },
   {
+    "question": "What is the process of creating sounds using wave generators called?",
+    "answer": "Sound design"
+  },
+  {
     "question": "What is the process of modulating sound in dubstep called?",
     "answer": "LFO modulation"
+  },
+  {
+    "question": "What is the purpose of using a phaser effect in dubstep?",
+    "answer": "Sound shifting"
   },
   {
     "question": "What is the real name of DJ Marshmello?",
@@ -1272,6 +1328,10 @@
     "answer": "Drum and bass"
   },
   {
+    "question": "What style of music includes fast guitar rhythms?",
+    "answer": "Flamenco"
+  },
+  {
     "question": "What style of music is characterized by a melancholic and dark atmosphere?",
     "answer": "Gothic"
   },
@@ -1282,6 +1342,10 @@
   {
     "question": "What style of music was popularized by the band Kraftwerk?",
     "answer": "Electronic music"
+  },
+  {
+    "question": "What subgenre of R&B emerged in the 1990s?",
+    "answer": "neo-soul"
   },
   {
     "question": "What technique does composer Pierre Boulez use?",
@@ -1512,12 +1576,20 @@
     "answer": "Clint Eastwood"
   },
   {
+    "question": "Which James Brown album is considered the first funk album?",
+    "answer": "Cold Sweat"
+  },
+  {
     "question": "Which Latin American singer is known for the song 'Héroe'?",
     "answer": "Enrique Iglesias"
   },
   {
     "question": "Which Mexican singer is known for the song 'Hasta Que Te Conocí'?",
     "answer": "Juan Gabriel"
+  },
+  {
+    "question": "Which Nick Cave song became famous in the 80s?",
+    "answer": "The Mercy Seat"
   },
   {
     "question": "Which Oasis album was released in 1997?",
@@ -1608,6 +1680,10 @@
     "answer": "Lemonade"
   },
   {
+    "question": "Which album was released by the band Lynyrd Skynyrd in 1973?",
+    "answer": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)"
+  },
+  {
     "question": "Which album was released by the singer Lady Gaga?",
     "answer": "The Fame"
   },
@@ -1690,6 +1766,18 @@
   {
     "question": "Which band performed 'La Rebelión'?",
     "answer": "Joe Arroyo"
+  },
+  {
+    "question": "Which band performed at the first Woodstock?",
+    "answer": "Jimi Hendrix"
+  },
+  {
+    "question": "Which band performed for the first time at the Monterey Pop Festival?",
+    "answer": "The Jimi Hendrix Experience"
+  },
+  {
+    "question": "Which band performed the song 'Layla'?",
+    "answer": "Derek and the Dominos"
   },
   {
     "question": "Which band performs the song 'El Matador'?",
@@ -1800,6 +1888,10 @@
     "answer": "Native Instruments"
   },
   {
+    "question": "Which compilation became famous in 1961?",
+    "answer": "'At Carnegie Hall'"
+  },
+  {
     "question": "Which composer is known for innovative techniques in music?",
     "answer": "Igor Stravinsky"
   },
@@ -1842,6 +1934,14 @@
   {
     "question": "Which composer wrote the cycle 'Aaron's Songs'?",
     "answer": "Leon Kirchner"
+  },
+  {
+    "question": "Which composer wrote the piece 'Noise and Silence'?",
+    "answer": "Morton Feldman"
+  },
+  {
+    "question": "Which composition by Duke Ellington became a jazz standard?",
+    "answer": "In a Sentimental Mood"
   },
   {
     "question": "Which conductor has won the most Grammy Awards?",
@@ -1896,6 +1996,10 @@
     "answer": "Stalker"
   },
   {
+    "question": "Which famous group released the album 'Boulevard'?",
+    "answer": "St Germain"
+  },
+  {
     "question": "Which famous singer released the album 'Let's Stay Together'?",
     "answer": "Al Green"
   },
@@ -1914,6 +2018,10 @@
   {
     "question": "Which festival begins with the ceremony of burning an effigy?",
     "answer": ""
+  },
+  {
+    "question": "Which festival is famous for its folk dances?",
+    "answer": "Kaliningrad Festival"
   },
   {
     "question": "Which festival is held in Belgium and is known for its musical performances?",
@@ -1962,6 +2070,10 @@
   {
     "question": "Which funk band released the hit 'Fantastic Voyage'?",
     "answer": "Lakeside"
+  },
+  {
+    "question": "Which genre developed due to the use of electronic instruments in the late 60s?",
+    "answer": "Krautrock"
   },
   {
     "question": "Which genre includes elements of blues and electronics?",
@@ -2040,12 +2152,20 @@
     "answer": "violin"
   },
   {
+    "question": "Which instrument consists of strings and keys?",
+    "answer": "Harpsichord"
+  },
+  {
     "question": "Which instrument has keys and a drum?",
     "answer": "Timpani"
   },
   {
     "question": "Which instrument has keys and strings inside its body?",
     "answer": "Grand piano"
+  },
+  {
+    "question": "Which instrument has stretched strings and a base made of a wooden frame?",
+    "answer": "Harp"
   },
   {
     "question": "Which instrument is associated with Iran?",
@@ -2110,6 +2230,10 @@
   {
     "question": "Which instrument sounds like an organ from a distance?",
     "answer": "Accordion"
+  },
+  {
+    "question": "Which international group won the 'Best International Group' award at the BRIT Awards in 2021?",
+    "answer": "Haim"
   },
   {
     "question": "Which jazz composition became Dizzy Gillespie's signature piece?",
@@ -2200,6 +2324,10 @@
     "answer": "Nuits Sonores"
   },
   {
+    "question": "Which music genre became popular due to the psychedelic culture?",
+    "answer": "Psytrance"
+  },
+  {
     "question": "Which music genre became popular thanks to the band R.E.M.?",
     "answer": "Alternative rock"
   },
@@ -2242,6 +2370,10 @@
   {
     "question": "Which music genre is known for using modular synthesizers?",
     "answer": "Modular"
+  },
+  {
+    "question": "Which music genre often uses loops and drones?",
+    "answer": "Ambient"
   },
   {
     "question": "Which music genre uses distortion?",
@@ -2332,6 +2464,10 @@
     "answer": "Piano"
   },
   {
+    "question": "Which musical instrument is most commonly associated with folklore?",
+    "answer": "Bandoneon"
+  },
+  {
     "question": "Which musical instrument is often used in rock music?",
     "answer": "Guitar"
   },
@@ -2376,6 +2512,10 @@
     "answer": "Ian MacKaye"
   },
   {
+    "question": "Which musician is known by the nickname 'El Rey' (The King)?",
+    "answer": "Vicente Fernandez"
+  },
+  {
     "question": "Which musician was awarded for their contribution to funk?",
     "answer": "Bootsy Collins"
   },
@@ -2408,6 +2548,10 @@
     "answer": "Ozzy Osbourne"
   },
   {
+    "question": "Which popular DJ is known for his dub mixes?",
+    "answer": "King Tubby"
+  },
+  {
     "question": "Which producer won a Grammy for the album 'Planet Her'?",
     "answer": "Dr. Luke"
   },
@@ -2416,12 +2560,20 @@
     "answer": "Havoc"
   },
   {
+    "question": "Which producer worked with Alice in Chains?",
+    "answer": "Rick Parashar"
+  },
+  {
     "question": "Which producer worked with Notorious B.I.G.?",
     "answer": "Puff Daddy"
   },
   {
     "question": "Which publication was key to the development of techno in Detroit?",
     "answer": "'Techno! The New Dance Sound of Detroit'"
+  },
+  {
+    "question": "Which punk subgenre combines punk and metal?",
+    "answer": "Crossover thrash"
   },
   {
     "question": "Which rapper is known for his fast-paced style?",
@@ -2446,6 +2598,10 @@
   {
     "question": "Which singer became the first major R&B performer?",
     "answer": "Ray Charles"
+  },
+  {
+    "question": "Which singer has the nickname 'Babyface'?",
+    "answer": "Kenny Edmonds"
   },
   {
     "question": "Which singer holds the title 'The Piano Man'?",
@@ -2628,6 +2784,10 @@
     "answer": "Sicko Mode"
   },
   {
+    "question": "Which track is considered one of the first house tracks?",
+    "answer": "On and On"
+  },
+  {
     "question": "Which track is considered the best in the drum and bass genre?",
     "answer": "Inner City Life"
   },
@@ -2644,12 +2804,20 @@
     "answer": "Trio"
   },
   {
+    "question": "Which work was composed by Glinka?",
+    "answer": "Ruslan and Lyudmila"
+  },
+  {
     "question": "Which work was composed by Guillaume Dufay?",
     "answer": "Nuper rosarum flores"
   },
   {
     "question": "Which work was composed by Johann Sebastian Bach?",
     "answer": "Brandenburg Concertos"
+  },
+  {
+    "question": "Who became famous for the track 'The Bridge Is Over'?",
+    "answer": "Boogie Down Productions"
   },
   {
     "question": "Who became popular thanks to the album 'Street Songs'?",
@@ -2670,6 +2838,10 @@
   {
     "question": "Who composed 'Messe de Nostre Dame'?",
     "answer": "Guillaume de Machaut"
+  },
+  {
+    "question": "Who composed 'Prometheus'?",
+    "answer": "Scriabin"
   },
   {
     "question": "Who composed 'The Childhood of Jesus'?",
@@ -2744,6 +2916,10 @@
     "answer": "Skalkovsky"
   },
   {
+    "question": "Who composed the music for the song 'Lullaby of Broadway'?",
+    "answer": "Harry Warren"
+  },
+  {
     "question": "Who composed the music for the song 'Raindrops Keep Fallin' on My Head'?",
     "answer": "Burt Bacharach"
   },
@@ -2812,6 +2988,10 @@
     "answer": "Perotin"
   },
   {
+    "question": "Who created the first modular synthesizer?",
+    "answer": "Robert Moog"
+  },
+  {
     "question": "Who created the solmization music system?",
     "answer": "Guido of Arezzo"
   },
@@ -2824,6 +3004,10 @@
     "answer": "Guido of Arezzo"
   },
   {
+    "question": "Who did DJ Alan Walker collaborate with?",
+    "answer": "Norlie"
+  },
+  {
     "question": "Who founded Critical Music?",
     "answer": "Kasra"
   },
@@ -2834,6 +3018,10 @@
   {
     "question": "Who founded the Burning Man festival?",
     "answer": "Larry Harvey"
+  },
+  {
+    "question": "Who founded the Ministry of Sound label?",
+    "answer": "James Palumbo"
   },
   {
     "question": "Who founded the Modern Jazz Quartet?",
@@ -2932,6 +3120,10 @@
     "answer": "Deadmau5"
   },
   {
+    "question": "Who is known for their contribution to 'Piedmont Blues'?",
+    "answer": "Blind Blake"
+  },
+  {
     "question": "Who is known for their famous 'Global Underground' series?",
     "answer": "DJ Sasha"
   },
@@ -2958,6 +3150,10 @@
   {
     "question": "Who is the author of the work 'Alaric'?",
     "answer": "Johannes Brahms"
+  },
+  {
+    "question": "Who is the author of the work 'Trio for Harpsichord'?",
+    "answer": "Joseph Haydn"
   },
   {
     "question": "Who is the bassist of the band Tool?",
@@ -2994,6 +3190,10 @@
   {
     "question": "Who is the composer of the opera 'Alceste'?",
     "answer": "Gluck"
+  },
+  {
+    "question": "Who is the composer of the opera 'Carmen'?",
+    "answer": "Bizet"
   },
   {
     "question": "Who is the composer of the symphony 'Manfred'?",
@@ -3052,6 +3252,10 @@
     "answer": "The Verve"
   },
   {
+    "question": "Who performed 'Cross Road Blues'?",
+    "answer": "Robert Johnson"
+  },
+  {
     "question": "Who performed at the Super Bowl 2022?",
     "answer": "Dr. Dre, Snoop Dogg, Eminem"
   },
@@ -3070,6 +3274,10 @@
   {
     "question": "Who performed the song 'Gimme Some Lovin''?",
     "answer": "Jaw harp"
+  },
+  {
+    "question": "Who performed the song 'Good Vibrations'?",
+    "answer": "The Beach Boys"
   },
   {
     "question": "Who performed the song 'Hallelujah' in the 1994 version?",
@@ -3112,6 +3320,10 @@
     "answer": "Frankie Valli"
   },
   {
+    "question": "Who played bass guitar in The Who?",
+    "answer": "John Entwistle"
+  },
+  {
     "question": "Who popularized the slap technique on the bass guitar in funk?",
     "answer": "Larry Graham"
   },
@@ -3152,6 +3364,10 @@
     "answer": "Sampha"
   },
   {
+    "question": "Who released the album 'Street Songs'?",
+    "answer": "Rick James"
+  },
+  {
     "question": "Who released the album 'The Dreaming' in 1982?",
     "answer": "Kate Bush"
   },
@@ -3176,6 +3392,10 @@
     "answer": ""
   },
   {
+    "question": "Who released the track 'Blinded by Your Grace'?",
+    "answer": "Stormzy"
+  },
+  {
     "question": "Who remixed Coldplay's song 'Hymn for the Weekend'?",
     "answer": "Seeb"
   },
@@ -3196,6 +3416,10 @@
     "answer": "Muddy Waters"
   },
   {
+    "question": "Who was a famous composer of the bebop era?",
+    "answer": "Thelonious Monk"
+  },
+  {
     "question": "Who was a famous jazz bassist?",
     "answer": "Charles Mingus"
   },
@@ -3206,6 +3430,10 @@
   {
     "question": "Who was a pioneer in the use of synthesizers in rock music?",
     "answer": "Pink Floyd"
+  },
+  {
+    "question": "Who was awarded the 'Best Soundtrack' in 2016?",
+    "answer": "Furious 7"
   },
   {
     "question": "Who was named the best female country artist in 2020?",
@@ -3250,6 +3478,10 @@
   {
     "question": "Who was the first to receive the BRIT Award for British Album of the Year?",
     "answer": "The Beatles"
+  },
+  {
+    "question": "Who was the first to use electric guitars in jazz?",
+    "answer": "Charlie Christian"
   },
   {
     "question": "Who was the first to win the Grammy Award for Best Musical?",
@@ -3368,6 +3600,10 @@
     "answer": "Sam Smith"
   },
   {
+    "question": "Who won the Grammy Award for Album of the Year in 2019?",
+    "answer": "Kacey Musgraves"
+  },
+  {
     "question": "Who won the Grammy Award for Best Dance/Electronic Album in 2021?",
     "answer": "Kaytranada"
   },
@@ -3398,6 +3634,10 @@
   {
     "question": "Who won the award for Best Rock Album in 2007?",
     "answer": "30 Seconds to Mars"
+  },
+  {
+    "question": "Who won the award for Best Rock Group in 2019?",
+    "answer": "Imagine Dragons"
   },
   {
     "question": "Who won the award for Best Soundtrack in 2019?",
@@ -3436,11 +3676,19 @@
     "answer": "Leo Tolstoy"
   },
   {
+    "question": "Who wrote the song 'Raindrops Keep Fallin' on My Head'?",
+    "answer": "Burt Bacharach"
+  },
+  {
     "question": "Who wrote the song 'We Belong Together'?",
     "answer": "Randy Newman"
   },
   {
     "question": "Whose 1970s album is 'There Goes Rhymin' Simon'?",
     "answer": "Paul Simon"
+  },
+  {
+    "question": "Year of release of the album 'Catch a Fire'?",
+    "answer": "1973"
   }
 ]

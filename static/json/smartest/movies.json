@@ -119,6 +119,10 @@
     "answer": "11"
   },
   {
+    "question": "How many Oscars did the film 'Schindler's List' win?",
+    "answer": "seven"
+  },
+  {
     "question": "How many Oscars did the movie 'Titanic' win?",
     "answer": "11"
   },
@@ -191,6 +195,10 @@
     "answer": "1999"
   },
   {
+    "question": "In which 21st-century film does Brad Pitt play the role of a baseball team's manager?",
+    "answer": "Moneyball"
+  },
+  {
     "question": "In which Asian country is the SICAF animation festival held annually?",
     "answer": "South Korea"
   },
@@ -228,6 +236,10 @@
   {
     "question": "In which film did James Cameron make his directorial debut?",
     "answer": "Piranha II: The Spawning"
+  },
+  {
+    "question": "In which film does Woody Allen play a jazz guitarist?",
+    "answer": "Sweet and Lowdown"
   },
   {
     "question": "In which film was computer graphics first used?"
@@ -332,6 +344,10 @@
     "answer": "Canadian Screen Awards"
   },
   {
+    "question": "What award is given for the best international animated film?",
+    "answer": "Annecy Award"
+  },
+  {
     "question": "What award is given in Italy for achievements in animation?",
     "answer": "David di Donatello"
   },
@@ -381,6 +397,10 @@
   {
     "question": "What does the Screen Actors Guild of the USA award?",
     "answer": "Screen Actors Guild Award"
+  },
+  {
+    "question": "What does the process 'matchmoving' mean?",
+    "answer": "Motion tracking"
   },
   {
     "question": "What film did Thor Heyerdahl make about his journey across the Pacific Ocean?",
@@ -527,6 +547,10 @@
     "answer": "Susan"
   },
   {
+    "question": "What is the name of Luis Buñuel's realism masterpiece?",
+    "answer": "The Young and the Damned"
+  },
+  {
     "question": "What is the name of Naruto's mother in 'Naruto'?",
     "answer": "Kushina"
   },
@@ -565,6 +589,10 @@
   {
     "question": "What is the name of Simba's daughter in the movie 'The Lion King'?",
     "answer": "Kiara"
+  },
+  {
+    "question": "What is the name of Snow White's friend in the movie 'Snow White and the Seven Dwarfs'?",
+    "answer": "Doc"
   },
   {
     "question": "What is the name of Stan's eldest daughter in 'American Dad!'?",
@@ -645,6 +673,10 @@
   {
     "question": "What is the name of the American remake of the film 'Suspiria'?",
     "answer": "Suspiria"
+  },
+  {
+    "question": "What is the name of the American remake of the film 'They Fought for Their Country'?",
+    "answer": "They Fought"
   },
   {
     "question": "What is the name of the American version of the film 'Scent of a Woman'?",
@@ -765,6 +797,10 @@
   {
     "question": "What is the name of the animated film about a flying castle?",
     "answer": "Howl's Moving Castle"
+  },
+  {
+    "question": "What is the name of the animated film about a magical vacuum cleaner?",
+    "answer": "Vupu"
   },
   {
     "question": "What is the name of the animated film about dinosaurs?",
@@ -1115,6 +1151,10 @@
     "answer": "In Time"
   },
   {
+    "question": "What is the name of the movie about time where a computer controls people's destinies?",
+    "answer": "In Time"
+  },
+  {
     "question": "What is the name of the movie starring Joaquin Phoenix, where he plays a man in love with an operating system?",
     "answer": "Her"
   },
@@ -1314,6 +1354,10 @@
     "answer": "Rotoscoping"
   },
   {
+    "question": "What is the technique of creating photorealistic images called?",
+    "answer": "Rendering"
+  },
+  {
     "question": "What is the technique of non-linear video editing called?",
     "answer": "Non-linear editing"
   },
@@ -1397,6 +1441,10 @@
     "answer": "Rotoscoping"
   },
   {
+    "question": "What reviews provide a new perspective on old films?",
+    "answer": "Retrospective"
+  },
+  {
     "question": "What should be avoided in a review?",
     "answer": "Spoilers"
   },
@@ -1453,6 +1501,10 @@
     "answer": "Grooming"
   },
   {
+    "question": "What term refers to the creation of sequential images?",
+    "answer": "Animatics"
+  },
+  {
     "question": "What term refers to the process of creating intermediate frames in animation?",
     "answer": "Tweening"
   },
@@ -1463,6 +1515,10 @@
   {
     "question": "What was the basis for French surrealism films?",
     "answer": "The subconscious"
+  },
+  {
+    "question": "What was the first 3D movie?",
+    "answer": "The Power of Love"
   },
   {
     "question": "What was the first animated film created using the stop-motion method?",
@@ -1545,6 +1601,10 @@
     "answer": "1950s"
   },
   {
+    "question": "When did regular television broadcasting begin in the USA?",
+    "answer": "1941"
+  },
+  {
     "question": "When did regular television broadcasting begin in the USSR?",
     "answer": "1939"
   },
@@ -1578,6 +1638,10 @@
   {
     "question": "When was the program 'Vremya' first broadcast on central Soviet television?",
     "answer": "1968"
+  },
+  {
+    "question": "Where does the movie 'Blade Runner' take place?",
+    "answer": "Los Angeles"
   },
   {
     "question": "Where is the 'Eros' award for animation presented?",
@@ -1660,12 +1724,20 @@
     "answer": "François Truffaut"
   },
   {
+    "question": "Which French film won the Palme d'Or in 2023?",
+    "answer": "Anatomy of a Fall"
+  },
+  {
     "question": "Which German director made 'Metropolis'?",
     "answer": "Fritz Lang"
   },
   {
     "question": "Which German director made the film 'Nosferatu'?",
     "answer": "Friedrich Wilhelm Murnau"
+  },
+  {
+    "question": "Which German festival awards animated films?",
+    "answer": "Oberhausen"
   },
   {
     "question": "Which German film is about World War II?",
@@ -1920,6 +1992,10 @@
     "answer": "Heart of a Dog"
   },
   {
+    "question": "Which book by Ostrovsky was adapted into a film?",
+    "answer": "Without a Dowry"
+  },
+  {
     "question": "Which character catches criminals in the series 'Dexter'?",
     "answer": "Dexter"
   },
@@ -2085,6 +2161,10 @@
   {
     "question": "Which film directed by Christopher Nolan was released in 2006?",
     "answer": "The Prestige"
+  },
+  {
+    "question": "Which film directed by Georgiy Daneliya was released in 1986?",
+    "answer": "Kin-dza-dza"
   },
   {
     "question": "Which film director received two 'Golden Lions' at the Venice Film Festival?",
@@ -2262,6 +2342,10 @@
     "answer": "Intolerance"
   },
   {
+    "question": "Which film was directed by David Fincher in 2010?",
+    "answer": "The Social Network"
+  },
+  {
     "question": "Which film was directed by Federico Fellini?",
     "answer": "La Dolce Vita"
   },
@@ -2310,6 +2394,10 @@
     "answer": "Tron"
   },
   {
+    "question": "Which film was the first to use a green screen?",
+    "answer": "The Thief of Bagdad"
+  },
+  {
     "question": "Which film was the first to use color chroma key?",
     "answer": "Mary Poppins"
   },
@@ -2352,6 +2440,10 @@
   {
     "question": "Which film won the 'Golden Lion' in 2022?",
     "answer": "Everything Everywhere All at Once"
+  },
+  {
+    "question": "Which film won the 'Oscar' for Best Picture in 2021?",
+    "answer": "Nomadland"
   },
   {
     "question": "Which film won the 'Oscar' in 1994?",
@@ -2415,6 +2507,10 @@
   },
   {
     "question": "Which former US president organized the 'Political Films' film festival?"
+  },
+  {
+    "question": "Which franchise includes Merlin and Arthur?",
+    "answer": "King Arthur"
   },
   {
     "question": "Which function allows you to visualize a 3D model as a finished image?",
@@ -2487,6 +2583,10 @@
   {
     "question": "Which movement is known for the use of grotesque?",
     "answer": "German Expressionism"
+  },
+  {
+    "question": "Which movie about real mobsters was released in 2006?",
+    "answer": "The Departed"
   },
   {
     "question": "Which movie features the character CatBus?",
@@ -2712,6 +2812,10 @@
     "answer": "CINAR"
   },
   {
+    "question": "Which studio released the animated film \"The Wizard of the Emerald City\"?",
+    "answer": "Soyuzmultfilm"
+  },
+  {
     "question": "Which studio released the animated film 'Isle of Dogs'?",
     "answer": "Indian Paintbrush"
   },
@@ -2766,6 +2870,10 @@
   {
     "question": "Who composed the music for 'The Cockroach'?",
     "answer": "Georgy Vasilyev"
+  },
+  {
+    "question": "Who composed the music for the TV series 'Hannibal' (2013)?",
+    "answer": "Brian Reitzell"
   },
   {
     "question": "Who composed the music for the animated film 'Bambi'?",
@@ -2840,6 +2948,10 @@
     "answer": "Jan A. P. Kaczmarek"
   },
   {
+    "question": "Who composed the music for the film 'Get Out'?",
+    "answer": "Michael Abels"
+  },
+  {
     "question": "Who composed the music for the film 'Interstate 60'?",
     "answer": "Mark Thomas"
   },
@@ -2896,6 +3008,10 @@
     "answer": "Howard Shore"
   },
   {
+    "question": "Who composed the music for the movie 'Drive'?",
+    "answer": "Cliff Martinez"
+  },
+  {
     "question": "Who composed the music for the movie 'Fight Club'?",
     "answer": "The Dust Brothers"
   },
@@ -2950,6 +3066,10 @@
   {
     "question": "Who directed 'Baius'?",
     "answer": "Andrea Dalle"
+  },
+  {
+    "question": "Who directed 'Coraline'?",
+    "answer": "Henry Selick"
   },
   {
     "question": "Who directed 'Crisis'?",
@@ -3056,6 +3176,10 @@
     "answer": "Manfred Kersten"
   },
   {
+    "question": "Who directed the animated film 'Ferdinand'?",
+    "answer": "Carlos Saldanha"
+  },
+  {
     "question": "Who directed the animated film 'Finding Dory'?",
     "answer": "Andrew Stanton"
   },
@@ -3084,6 +3208,10 @@
     "answer": "Tomm Moore"
   },
   {
+    "question": "Who directed the animated film 'The Mystery of the Third Planet'?",
+    "answer": "Roman Kachanov"
+  },
+  {
     "question": "Who directed the animated film 'The Secret of Kells'?",
     "answer": "Tomm Moore"
   },
@@ -3096,6 +3224,10 @@
     "answer": "Werner Herzog"
   },
   {
+    "question": "Who directed the film \"To Live\"?",
+    "answer": "Zhang Yimou"
+  },
+  {
     "question": "Who directed the film \"Zodiac\"?",
     "answer": "David Fincher"
   },
@@ -3104,8 +3236,16 @@
     "answer": "Mary Harron"
   },
   {
+    "question": "Who directed the film 'Ant Platform'?",
+    "answer": "Vitaliy Mansurov"
+  },
+  {
     "question": "Who directed the film 'Big Trouble in Little China'?",
     "answer": "John Carpenter"
+  },
+  {
+    "question": "Who directed the film 'Blade Runner'?",
+    "answer": "Ridley Scott"
   },
   {
     "question": "Who directed the film 'Blue Velvet'?",
@@ -3118,6 +3258,10 @@
   {
     "question": "Who directed the film 'Dogville'?",
     "answer": "Lars von Trier"
+  },
+  {
+    "question": "Who directed the film 'Elephant'?",
+    "answer": "Gus Van Sant"
   },
   {
     "question": "Who directed the film 'Father of a Soldier'?",
@@ -3180,6 +3324,10 @@
     "answer": "Marc Forster"
   },
   {
+    "question": "Who directed the movie 'Waterworld'?",
+    "answer": "Kevin Reynolds"
+  },
+  {
     "question": "Who directed the remake of the film 'Suspiria'?",
     "answer": "Luca Guadagnino"
   },
@@ -3198,6 +3346,10 @@
   {
     "question": "Who is Hayao Miyazaki?",
     "answer": "Famous director"
+  },
+  {
+    "question": "Who is Mabel Pines' younger brother in the animated series 'Gravity Falls'?",
+    "answer": "Dipper"
   },
   {
     "question": "Who is considered a pioneer in the field of montage?",
@@ -3390,6 +3542,10 @@
     "answer": "Robert De Niro"
   },
   {
+    "question": "Who is the killer in the series 'Broadchurch'?",
+    "answer": "Joe Miller"
+  },
+  {
     "question": "Who is the leader on Pandora?",
     "answer": "Jake Sully"
   },
@@ -3462,6 +3618,10 @@
     "answer": "Anthony Hopkins"
   },
   {
+    "question": "Who played James Bond in the movie 'Dr. No'?",
+    "answer": "Sean Connery"
+  },
+  {
     "question": "Who played Leonard Shelby in the movie 'Memento'?",
     "answer": "Guy Pearce"
   },
@@ -3526,12 +3686,20 @@
     "answer": "Andy Serkis"
   },
   {
+    "question": "Who played the role of Locke in the TV series 'Lost'?",
+    "answer": "Terry O'Quinn"
+  },
+  {
     "question": "Who played the role of Merlin in the movie 'King Arthur: Legend of the Sword'?",
     "answer": "Aidan Gillen"
   },
   {
     "question": "Who played the role of Mr. Spiegel in the movie 'Interstate 60'?",
     "answer": "Gary Oldman"
+  },
+  {
+    "question": "Who played the role of Oliver Twist in the 2005 film adaptation?",
+    "answer": "Barney Clark"
   },
   {
     "question": "Who played the role of Scarlett O'Hara in the film 'Gone with the Wind'?",
@@ -3590,8 +3758,16 @@
     "answer": "George Miller"
   },
   {
+    "question": "Who produced the movie 'Dark Warrior'?",
+    "answer": "James Feig"
+  },
+  {
     "question": "Who produced the movie 'You Might Be the Killer'?",
     "answer": "Teddy Margas"
+  },
+  {
+    "question": "Who produced the series 'Black Mirror'?",
+    "answer": "Charlie Brooker"
   },
   {
     "question": "Who produced the series 'True Detective'?",
@@ -3620,6 +3796,10 @@
   {
     "question": "Who said: 'Another Day in Paradise'?",
     "answer": "Phil Collins"
+  },
+  {
+    "question": "Who said: 'Don't give up, so you won't have to regret it'?",
+    "answer": "Max"
   },
   {
     "question": "Who said: 'Every story has a beginning'?",
@@ -3678,6 +3858,10 @@
     "answer": "Maximus"
   },
   {
+    "question": "Who said: 'You are full of determination'?",
+    "answer": "Smith"
+  },
+  {
     "question": "Who said: 'You must take the first step in faith. You don't have to see the whole staircase, just take the first step'?",
     "answer": "Martin Luther King Jr."
   },
@@ -3696,6 +3880,10 @@
   {
     "question": "Who voiced Yogi Bear?",
     "answer": "Dan Aykroyd"
+  },
+  {
+    "question": "Who was Buster Keaton's on-screen partner?",
+    "answer": "Joe Roberts"
   },
   {
     "question": "Who was one of the leaders of Soviet montage cinema?",
