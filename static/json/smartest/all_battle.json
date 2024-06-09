@@ -12,6 +12,10 @@
         "answer": "Defense"
     },
     {
+        "question": "How do cephalopods move?",
+        "answer": "Jet propulsion"
+    },
+    {
         "question": "How do fish navigate in the dark?",
         "answer": "Lateral line"
     },
@@ -818,6 +822,10 @@
     {
         "question": "Which jawed fish can breathe air?",
         "answer": "Lungfish"
+    },
+    {
+        "question": "Which large herbivorous animal lives in rivers and lakes?",
+        "answer": "hippopotamus"
     },
     {
         "question": "Which lizard is known for freezing when scared?",
@@ -31394,6 +31402,10 @@
         "answer": "Valentino Rossi"
     },
     {
+        "question": "What was the name of the long jump champion who held the world record for 23 years?",
+        "answer": "Bob Beamon"
+    },
+    {
         "question": "Which artist is considered one of the founders of Dadaism?",
         "answer": "Marcel Duchamp"
     },
@@ -31414,6 +31426,10 @@
         "answer": "René Ramillon"
     },
     {
+        "question": "Which designer is known for incorporating natural motifs in his collections?",
+        "answer": "Alexander McQueen"
+    },
+    {
         "question": "Which designer often uses ethnic motifs?",
         "answer": "Gianfranco Ferré"
     },
@@ -31422,8 +31438,36 @@
         "answer": "Christian Siriano"
     },
     {
+        "question": "Which famous Persian artist created 'The Deer Hunt'?",
+        "answer": "Behzad"
+    },
+    {
+        "question": "Which model was Gianni Versace's muse?",
+        "answer": "Claudia Schiffer"
+    },
+    {
+        "question": "Which supermodel was nicknamed 'The Chameleon'?",
+        "answer": "Linda Evangelista"
+    },
+    {
+        "question": "Who became the first world champion in billiards?",
+        "answer": "Thomas Péraire"
+    },
+    {
         "question": "Who composed 'Sailing Wind'?",
         "answer": "Claude Debussy"
+    },
+    {
+        "question": "Who composed Symphony No. 3 'Eroica'?",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Who composed the \"Russian Dance\"?",
+        "answer": "Stravinsky"
+    },
+    {
+        "question": "Who created 'Her Height'?",
+        "answer": "Boris Kustodiev"
     },
     {
         "question": "Who created 'The Dance of Death'?",
@@ -31470,8 +31514,16 @@
         "answer": "Landau"
     },
     {
+        "question": "Who was known as the author of 'New Zealand'?",
+        "answer": "Jules Ferry"
+    },
+    {
         "question": "Who was the King of France in the 13th century?",
         "answer": "Louis IX"
+    },
+    {
+        "question": "Who was the President of Nigeria in 2015?",
+        "answer": "Muhammadu Buhari"
     },
     {
         "question": "Who was the captain of the Afghanistan national football team in 2008?",
@@ -31482,6 +31534,10 @@
         "answer": "Tony Kaye"
     },
     {
+        "question": "Who was the famous golfer who won 5 major titles?",
+        "answer": "Arnold Palmer"
+    },
+    {
         "question": "Who was the first to introduce the 'haute couture' collection?",
         "answer": "Charles Worth"
     },
@@ -31490,8 +31546,20 @@
         "answer": "John Knox"
     },
     {
+        "question": "Who wrote 'I Am That'?",
+        "answer": "Nisargadatta"
+    },
+    {
+        "question": "Who wrote 'The Masterpiece'?",
+        "answer": "Rockwell"
+    },
+    {
         "question": "Who wrote 'The Sad Knights'?",
         "answer": "Petrov-Vodkin"
+    },
+    {
+        "question": "Who wrote 'The Twelve Labors of Hercules'?",
+        "answer": "Unknown author"
     },
     {
         "question": "From the fruit of which plant is cider made?",
@@ -32616,6 +32684,10 @@
         "answer": "Endospores"
     },
     {
+        "question": "What are the leaf structures of ferns called?",
+        "answer": "Fronds"
+    },
+    {
         "question": "What are the long tails of comets called?",
         "answer": "Ion tails"
     },
@@ -32642,6 +32714,10 @@
     {
         "question": "What are the proteins involved in gene regulation called?",
         "answer": "Transcription factors"
+    },
+    {
+        "question": "What are the quasiparticles in a condensed medium called?",
+        "answer": "Phonons"
     },
     {
         "question": "What are the regions of galaxies with high energy consumption called?",
@@ -32704,6 +32780,10 @@
         "answer": "Inherited from both parents"
     },
     {
+        "question": "What characteristics do succulents have?",
+        "answer": "Moisture in leaves"
+    },
+    {
         "question": "What characterizes a chemical reaction?",
         "answer": "Change"
     },
@@ -32744,6 +32824,10 @@
         "answer": "Sequencer"
     },
     {
+        "question": "What device is used for analyzing chemical elements?",
+        "answer": "Mass spectrometer"
+    },
+    {
         "question": "What device is used for the Internet of Things?",
         "answer": "IoT modules"
     },
@@ -32758,6 +32842,10 @@
     {
         "question": "What device is used to work with a laser?",
         "answer": "Laser level"
+    },
+    {
+        "question": "What device measures gravitational force?",
+        "answer": "Gravimeter"
     },
     {
         "question": "What device visualizes magnetic fields?",
@@ -32842,6 +32930,10 @@
     {
         "question": "What does an urbanist do?",
         "answer": "Urban planning"
+    },
+    {
+        "question": "What does cosmological redshift determine?",
+        "answer": "Expansion of the Universe"
     },
     {
         "question": "What does cytogenetics study?",
@@ -33004,12 +33096,20 @@
         "answer": "Solar radiation"
     },
     {
+        "question": "What forms of matter are found in clouds?",
+        "answer": "Vapor and ice"
+    },
+    {
         "question": "What frequencies does a seismometer register?",
         "answer": "low"
     },
     {
         "question": "What function do the teeth of a toothless clam serve?",
         "answer": "holding food"
+    },
+    {
+        "question": "What function does albedo serve in climatology?",
+        "answer": "Reflection of solar radiation"
     },
     {
         "question": "What happens during a severe allergic reaction?",
@@ -33030,6 +33130,10 @@
     {
         "question": "What instrument is used to analyze the spectrum of light?",
         "answer": "Spectrometer"
+    },
+    {
+        "question": "What instrument is used to measure wind speed?",
+        "answer": "Anemometer"
     },
     {
         "question": "What interaction does quantum chromodynamics describe?",
@@ -33166,6 +33270,10 @@
     {
         "question": "What is a set of points called?",
         "answer": "Line"
+    },
+    {
+        "question": "What is a singularity?",
+        "answer": "A point of infinite density"
     },
     {
         "question": "What is a spectrometer used for?",
@@ -33340,6 +33448,10 @@
         "answer": "Inversion"
     },
     {
+        "question": "What is isomerism?",
+        "answer": "Different structure"
+    },
+    {
         "question": "What is isomerization?",
         "answer": "Change of structure"
     },
@@ -33430,6 +33542,10 @@
     {
         "question": "What is the antiderivative of a function?",
         "answer": "Integral"
+    },
+    {
+        "question": "What is the axiomatic method?",
+        "answer": "Basic truths"
     },
     {
         "question": "What is the basic principle of radar operation?",
@@ -33816,6 +33932,10 @@
         "answer": "Sanger sequencing"
     },
     {
+        "question": "What is the name of the hereditary disease associated with metabolic disorder?",
+        "answer": "Phenylketonuria"
+    },
+    {
         "question": "What is the name of the hypothetical form of matter with negative mass?",
         "answer": "Negative matter"
     },
@@ -33902,6 +34022,10 @@
     {
         "question": "What is the operation of finding a derivative called?",
         "answer": "differentiation"
+    },
+    {
+        "question": "What is the origin of the name Archaeopteryx?",
+        "answer": "Ancient wing"
     },
     {
         "question": "What is the outer layer of bacteria that protects them from the environment called?",
@@ -34334,6 +34458,10 @@
         "answer": "Heat engine"
     },
     {
+        "question": "What phenomenon indicates the presence of a large amount of dark matter?",
+        "answer": "Rotation of galaxies"
+    },
+    {
         "question": "What phenomenon is associated with cooling in the Pacific Ocean?",
         "answer": "La Niña"
     },
@@ -34370,6 +34498,10 @@
         "answer": "Fermentation"
     },
     {
+        "question": "What process does the Grignard reagent use?",
+        "answer": "Nucleophilic addition"
+    },
+    {
         "question": "What process enhances signal transmission between neurons?",
         "answer": "Potentiation"
     },
@@ -34396,6 +34528,10 @@
     {
         "question": "What process is necessary for the formation of oil?",
         "answer": "Decomposition of organic matter"
+    },
+    {
+        "question": "What process is performed on a CNC machine?",
+        "answer": "Milling"
     },
     {
         "question": "What process is used for the production of bioplastic?",
@@ -34448,6 +34584,10 @@
     {
         "question": "What provides the transportation of nutrients in a plant?",
         "answer": "Phloem"
+    },
+    {
+        "question": "What provides unique properties to nanomaterials?",
+        "answer": "Surface effects"
     },
     {
         "question": "What provides verification?",
@@ -34606,6 +34746,10 @@
         "answer": "Stem"
     },
     {
+        "question": "What type of cells make up the cambium?",
+        "answer": "Meristematic"
+    },
+    {
         "question": "What type of chemical reaction is characteristic of aromatic hydrocarbons?",
         "answer": "Electrophilic substitution"
     },
@@ -34688,6 +34832,10 @@
     {
         "question": "When was the term 'quantum' introduced?",
         "answer": "1900"
+    },
+    {
+        "question": "When were microscopes invented?",
+        "answer": "17th century"
     },
     {
         "question": "Where are endorphins produced?",
@@ -34807,6 +34955,10 @@
     {
         "question": "Which belt in the Solar System is composed of icy objects?",
         "answer": "Kuiper Belt"
+    },
+    {
+        "question": "Which bird can run on water?",
+        "answer": "Frigatebird"
     },
     {
         "question": "Which brain cell is responsible for immune defense?",
@@ -35641,6 +35793,10 @@
     {
         "question": "Who performs heart surgeries?",
         "answer": "Cardiac surgeon"
+    },
+    {
+        "question": "Who proposed the atomic model known as the Bohr model?",
+        "answer": "Niels Bohr"
     },
     {
         "question": "Who proposed the atomic theory?",
