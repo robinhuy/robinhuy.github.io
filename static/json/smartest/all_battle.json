@@ -240,6 +240,10 @@
         "answer": "Teeth"
     },
     {
+        "question": "What do these beetles lack?",
+        "answer": "Wings"
+    },
+    {
         "question": "What does a sea cucumber release when threatened?",
         "answer": "Internal organs"
     },
@@ -31438,8 +31442,20 @@
         "answer": "1973"
     },
     {
+        "question": "Famous skier who won the World Cup 8 times in a row?",
+        "answer": "Marcel Hirscher"
+    },
+    {
+        "question": "In which city did Savonarola preach?",
+        "answer": "Florence"
+    },
+    {
         "question": "What did John Dalton develop?",
         "answer": "Atomic theory"
+    },
+    {
+        "question": "What did Stepan Timofeyevich Demyanov study?",
+        "answer": "physics"
     },
     {
         "question": "What discovery is attributed to Henri Becquerel?",
@@ -31448,6 +31464,10 @@
     {
         "question": "What is Bob Dylan's real name?",
         "answer": "Robert Zimmerman"
+    },
+    {
+        "question": "What is the gathering of cardinals called?",
+        "answer": "Conclave"
     },
     {
         "question": "What is the name of Mozart's first studio opera?",
@@ -31482,6 +31502,10 @@
         "answer": "Envy"
     },
     {
+        "question": "What is the name of the series of symphonies written by Mahler?",
+        "answer": "Mahler's Symphonies"
+    },
+    {
         "question": "What is the title of Vladimir Nabokov's first published novella?",
         "answer": "Mary"
     },
@@ -31490,16 +31514,36 @@
         "answer": "Law of planetary motion"
     },
     {
+        "question": "What musical genre does the music of the band Eloy belong to?",
+        "answer": "Symphonic rock"
+    },
+    {
+        "question": "What profession did Hubert de Givenchy pursue?",
+        "answer": "Couturier"
+    },
+    {
         "question": "What technique did Henri de Toulouse-Lautrec use in his works?",
         "answer": "Lithography"
+    },
+    {
+        "question": "What was Genghis Khan called before he took this name?",
+        "answer": "Temujin"
     },
     {
         "question": "What was the name of Dmitry Donskoy's mother?",
         "answer": "Eudoxia"
     },
     {
+        "question": "What was the name of Perseus's chief advisor?",
+        "answer": "Amphictyon"
+    },
+    {
         "question": "What was the name of the artist known for her still lifes?",
         "answer": "Clara Peeters"
+    },
+    {
+        "question": "What was the name of the author of the series of paintings 'Sketches'?",
+        "answer": "Whistler"
     },
     {
         "question": "What was the name of the author of the series of paintings 'Winter Views'?",
@@ -31512,6 +31556,10 @@
     {
         "question": "What was the name of the first guitarist of The Rolling Stones?",
         "answer": "Brian Jones"
+    },
+    {
+        "question": "What was the name of the founder of the Pentecostal movement?",
+        "answer": "Charles Parham"
     },
     {
         "question": "What was the name of the legendary Italian motorcyclist who won 9 titles in MotoGP?",
@@ -31540,6 +31588,10 @@
     {
         "question": "Which Spanish painter is known as a representative of the Golden Age?",
         "answer": "Diego Velázquez"
+    },
+    {
+        "question": "Which actress played the role of Ginny Weasley?",
+        "answer": "Bonnie Wright"
     },
     {
         "question": "Which artist created 'Mixed Bouquet'?",
@@ -31584,6 +31636,10 @@
     {
         "question": "Which designer introduced the concept of prêt-à-porter?",
         "answer": "Pierre Cardin"
+    },
+    {
+        "question": "Which designer is famous for their avant-garde and Japanese style?",
+        "answer": "Yohji Yamamoto"
     },
     {
         "question": "Which designer is known for incorporating natural motifs in his collections?",
@@ -31662,8 +31718,16 @@
         "answer": "Garry Kasparov"
     },
     {
+        "question": "Who composed 'A Requiem'?",
+        "answer": "John Rutter"
+    },
+    {
         "question": "Who composed 'Orpheus in the Underworld'?",
         "answer": "Offenbach"
+    },
+    {
+        "question": "Who composed 'Rigoletto'?",
+        "answer": "Giuseppe Verdi"
     },
     {
         "question": "Who composed 'Sailing Wind'?",
@@ -31694,12 +31758,24 @@
         "answer": "Gustav Mahler"
     },
     {
+        "question": "Who composed the 'Symphonie fantastique'?",
+        "answer": "Berlioz"
+    },
+    {
+        "question": "Who composed the 'Trio for Violin, Oboe, and Piano'?",
+        "answer": "Francis Poulenc"
+    },
+    {
         "question": "Who composed the opera 'Boris Godunov'?",
         "answer": "Modest Mussorgsky"
     },
     {
         "question": "Who composed the opera 'Oedipus Rex'?",
         "answer": "Stravinsky"
+    },
+    {
+        "question": "Who conducted the New York Philharmonic Orchestra?",
+        "answer": "Bruno Walter"
     },
     {
         "question": "Who created 'Her Height'?",
@@ -31710,12 +31786,28 @@
         "answer": "Hans Holbein the Younger"
     },
     {
+        "question": "Who created the 'Missionary Sword'?",
+        "answer": "Friedrich"
+    },
+    {
+        "question": "Who created the 'grunge' style in fashion?",
+        "answer": "Marc Jacobs"
+    },
+    {
         "question": "Who created the painting 'The Last Day of Pompeii'?",
         "answer": "Karl Bryullov"
     },
     {
         "question": "Who created the panel 'Triptych'?",
         "answer": "Hieronymus Bosch"
+    },
+    {
+        "question": "Who declared India's independence in 1947?",
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "Who developed the Theory of Relativity?",
+        "answer": "Albert Einstein"
     },
     {
         "question": "Who developed the concept of 'Couture Sky'?",
@@ -31736,6 +31828,10 @@
     {
         "question": "Who directed the film 'Breakfast at Tiffany's'?",
         "answer": "Blake Edwards"
+    },
+    {
+        "question": "Who directed the film 'Pan's Labyrinth'?",
+        "answer": "Guillermo del Toro"
     },
     {
         "question": "Who directed the film 'Shutter Island' (2010)?",
@@ -31760,6 +31856,10 @@
     {
         "question": "Who first studied blood circulation?",
         "answer": "William Harvey"
+    },
+    {
+        "question": "Who formulated the first law of thermodynamics?",
+        "answer": "Rudolf Clausius"
     },
     {
         "question": "Who founded Taoism?",
@@ -31790,6 +31890,10 @@
         "answer": "Rei Kawakubo"
     },
     {
+        "question": "Who founded the company Maison Margiela?",
+        "answer": "Martin Margiela"
+    },
+    {
         "question": "Who founded the famous fashion house known for its feminine aesthetics and intricate draping?",
         "answer": "Madeleine Vionnet"
     },
@@ -31814,6 +31918,10 @@
         "answer": "Andrey Shevchenko"
     },
     {
+        "question": "Who is considered the founder of Symbolism?",
+        "answer": "Charles Baudelaire"
+    },
+    {
         "question": "Who is considered the main reformer of Christianity?",
         "answer": "Martin Luther"
     },
@@ -31826,6 +31934,10 @@
         "answer": "Giovanni Bellini"
     },
     {
+        "question": "Who is known for their explorations of Africa?",
+        "answer": "David Livingstone"
+    },
+    {
         "question": "Who is known for their work with geometric patterns and linear prints?",
         "answer": "Ettore Sottsass"
     },
@@ -31834,12 +31946,20 @@
         "answer": "Nikolai Gogol"
     },
     {
+        "question": "Who is the author of 'Demons'?",
+        "answer": "F. Dostoevsky"
+    },
+    {
         "question": "Who is the author of 'Doctor Zhivago'?",
         "answer": "Boris Pasternak"
     },
     {
         "question": "Who is the author of 'The Brothers Karamazov'?",
         "answer": "Fyodor Dostoevsky"
+    },
+    {
+        "question": "Who is the author of 'The Yawning Heights'?",
+        "answer": "Alexander Zinoviev"
     },
     {
         "question": "Who is the author of 'Ulysses'?",
@@ -31854,6 +31974,10 @@
         "answer": "Green"
     },
     {
+        "question": "Who is the author of the novel 'Earthly Sadness'?",
+        "answer": "Tatyana Ostapova"
+    },
+    {
         "question": "Who is the author of the novel 'Two Lives'?",
         "answer": "Concordia Antarova"
     },
@@ -31862,16 +31986,48 @@
         "answer": "Juliusz Słowacki"
     },
     {
+        "question": "Who is the author of the poem 'Silent Night'?",
+        "answer": "Iraida Danilova"
+    },
+    {
         "question": "Who is the author of the sacred texts in Hinduism?",
         "answer": "Vyasa"
+    },
+    {
+        "question": "Who is the author of the work 'Clean Monday'?",
+        "answer": "Ivan Bunin"
+    },
+    {
+        "question": "Who is the composer of the 'Fantastic Symphony'?",
+        "answer": "Hector Berlioz"
+    },
+    {
+        "question": "Who is the composer of the 'Mass in B minor'?",
+        "answer": "Johann Sebastian Bach"
     },
     {
         "question": "Who is the director of the movie 'Parasite'?",
         "answer": "Bong Joon-ho"
     },
     {
+        "question": "Who is the director of the movie 'The Dark Tower'?",
+        "answer": "Nikolaj Arcel"
+    },
+    {
+        "question": "Who is the founder of Gothic fashion style?",
+        "answer": "Gothic fashion does not have a specific founder"
+    },
+    {
         "question": "Who is the founder of the Diesel brand?",
         "answer": "Renzo Rosso"
+    },
+    {
+        "question": "Who is the main figure in Confucianism?",
+        "answer": "Confucius"
+    },
+    {
+        "question": "Who is the most successful winter athlete with 8 Olympic gold medals?",
+        "answer": "Bjørn Dæhlie"
     },
     {
         "question": "Who is the most successful woman in the history of tennis?",
@@ -31880,6 +32036,10 @@
     {
         "question": "Who led Cambodia before Pol Pot?",
         "answer": "Norodom Sihanouk"
+    },
+    {
+        "question": "Who led Yugoslavia after Tito?",
+        "answer": "Lazar Koliševski"
     },
     {
         "question": "Who led the Children's Crusade?",
@@ -31914,6 +32074,10 @@
         "answer": "Christian Bale"
     },
     {
+        "question": "Who played the main role in the movie 'Knockin' on Heaven's Door'?",
+        "answer": "Til Schweiger"
+    },
+    {
         "question": "Who popularized the punk style in fashion?",
         "answer": "Vivienne Westwood"
     },
@@ -31926,12 +32090,24 @@
         "answer": "Landau"
     },
     {
+        "question": "Who proposed the idea of the existence of black holes?",
+        "answer": "John Michell"
+    },
+    {
         "question": "Who said 'Eli, Eli, Lama Sabachthani'?",
         "answer": "Jesus Christ"
     },
     {
         "question": "Who was Reverend Varlaam of Khutyn?",
         "answer": "Saint"
+    },
+    {
+        "question": "Who was Saint Patrick?",
+        "answer": "Missionary"
+    },
+    {
+        "question": "Who was a famous cartographer of the Renaissance?",
+        "answer": "Gerardus Mercator"
     },
     {
         "question": "Who was awarded the first Nobel Prize in Physics?",
@@ -31948,6 +32124,10 @@
     {
         "question": "Who was one of the famous architects of Saint Petersburg?",
         "answer": "Bartolomeo Rastrelli"
+    },
+    {
+        "question": "Who was the Emperor of the Holy Roman Empire in 800 AD?",
+        "answer": "Charlemagne"
     },
     {
         "question": "Who was the Indian reformer of the 19th century?",
@@ -32002,6 +32182,10 @@
         "answer": "John Calvin"
     },
     {
+        "question": "Who was the chief architect of the Notre-Dame Cathedral?",
+        "answer": "Jean de Chelles"
+    },
+    {
         "question": "Who was the director of the film 'A Better Life'?",
         "answer": "Tony Kaye"
     },
@@ -32030,6 +32214,10 @@
         "answer": "Spyridon Louis"
     },
     {
+        "question": "Who was the first Patriarch of Moscow?",
+        "answer": "Job"
+    },
+    {
         "question": "Who was the first Prime Minister of the United Kingdom?",
         "answer": "Robert Walpole"
     },
@@ -32042,6 +32230,10 @@
         "answer": "Valentina Vezzali"
     },
     {
+        "question": "Who was the first president of Georgia?",
+        "answer": "Zviad Gamsakhurdia"
+    },
+    {
         "question": "Who was the first president of South Korea?",
         "answer": "Syngman Rhee"
     },
@@ -32050,8 +32242,16 @@
         "answer": "Charles Worth"
     },
     {
+        "question": "Who was the first to measure the speed of light?",
+        "answer": "Ole Rømer"
+    },
+    {
         "question": "Who was the first winner of the Tour de France?",
         "answer": "Maurice Garin"
+    },
+    {
+        "question": "Who was the first woman to land a quadruple toe loop in figure skating?",
+        "answer": "Alexandra Trusova"
     },
     {
         "question": "Who was the founder of Presbyterianism?",
@@ -32098,6 +32298,10 @@
         "answer": "Michael Phelps"
     },
     {
+        "question": "Who won five consecutive Tour de France titles from 1991 to 1995?",
+        "answer": "Miguel Indurain"
+    },
+    {
         "question": "Who won the Battle of Waterloo?",
         "answer": "Wellington"
     },
@@ -32106,12 +32310,20 @@
         "answer": "Anatoly Rybakov"
     },
     {
+        "question": "Who wrote 'Hamlet'?",
+        "answer": "William Shakespeare"
+    },
+    {
         "question": "Who wrote 'I Am That'?",
         "answer": "Nisargadatta"
     },
     {
         "question": "Who wrote 'Proletarian Leaders'?",
         "answer": "Viktor Nekrasov"
+    },
+    {
+        "question": "Who wrote 'Shogun'?",
+        "answer": "James Clavell"
     },
     {
         "question": "Who wrote 'The City of God'?",
@@ -32138,8 +32350,24 @@
         "answer": "Moses"
     },
     {
+        "question": "Who wrote the national anthem of the USA?",
+        "answer": "Francis Scott Key"
+    },
+    {
+        "question": "Who wrote the novel 'American Pastoral'?",
+        "answer": "Philip Roth"
+    },
+    {
         "question": "Who wrote the play 'Boris Godunov'?",
         "answer": "A. Pushkin"
+    },
+    {
+        "question": "Who wrote the screenplay for the movie \"Schindler's List\"?",
+        "answer": "Steven Zaillian"
+    },
+    {
+        "question": "Who wrote the series 'Salon Scenes'?",
+        "answer": "Adolph Menzel"
     },
     {
         "question": "Who wrote the treatise 'The Way to Poverty'?",
@@ -32148,6 +32376,14 @@
     {
         "question": "Who wrote the work 'The Forgotten Path'?",
         "answer": "Elena Nekrasova"
+    },
+    {
+        "question": "Who, according to religious tradition, wrote the Torah?",
+        "answer": "Moses"
+    },
+    {
+        "question": "With which field of study is Charles Lyell associated?",
+        "answer": "Geology"
     },
     {
         "question": "From the fruit of which plant is cider made?",
@@ -33630,6 +33866,10 @@
     {
         "question": "What does the term 'amphoterism' mean?",
         "answer": "Duality"
+    },
+    {
+        "question": "What does the term 'artificial intelligence' mean?",
+        "answer": "AI systems"
     },
     {
         "question": "What does the term 'biocenosis' describe?",
