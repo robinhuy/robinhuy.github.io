@@ -248,6 +248,10 @@
     "answer": "Mergers"
   },
   {
+    "question": "How does the magnetic field influence the formation of protostars?",
+    "answer": "Regulates accretion"
+  },
+  {
     "question": "How does the presence of water on asteroids affect their evolution?",
     "answer": "Hydration"
   },
@@ -332,6 +336,10 @@
     "answer": "1998"
   },
   {
+    "question": "What adaptations can organisms develop to survive on planets with high pressure?",
+    "answer": "Flexible cell wall"
+  },
+  {
     "question": "What adaptations can organisms develop to survive under high-pressure conditions on planets?",
     "answer": "Barophilia"
   },
@@ -386,6 +394,10 @@
   {
     "question": "What characteristic do exoplanets orbiting pulsars have?",
     "answer": "Pulsar planets"
+  },
+  {
+    "question": "What characteristic of meteorites allows us to determine their origin from the main asteroid belt?",
+    "answer": "Isotopic composition"
   },
   {
     "question": "What chemical changes occur in the atmosphere when interacting with meteors?",
@@ -912,6 +924,10 @@
     "answer": "Low"
   },
   {
+    "question": "What is the main hypothesis proposed to explain the nature of dark energy?",
+    "answer": "Cosmological constant"
+  },
+  {
     "question": "What is the mass ratio of gas and stellar components in galaxies?",
     "answer": "Depends on the type"
   },
@@ -1116,6 +1132,10 @@
     "answer": "Stabilization of position"
   },
   {
+    "question": "What is the significance of the lambda-CDM model for understanding the evolution of the Universe?",
+    "answer": "Cosmological model"
+  },
+  {
     "question": "What is the stellar density in the galactic disk?",
     "answer": "0.1 stars/cubic pc"
   },
@@ -1274,6 +1294,10 @@
   {
     "question": "What methodology is used to analyze the Martian atmosphere for its evolution?",
     "answer": "Spectrometry"
+  },
+  {
+    "question": "What methods allow determining the time of a meteorite's fall to Earth?",
+    "answer": "Radiocarbon dating"
   },
   {
     "question": "What methods allow studying the effects of radiation on materials?",
@@ -1456,6 +1480,10 @@
     "answer": "Gravitational interaction"
   },
   {
+    "question": "What phenomenon causes the movement of tectonic plates on the moons of ice giants?",
+    "answer": "Tidal forces"
+  },
+  {
     "question": "What phenomenon defines the boundaries between different types of galaxies?",
     "answer": "Gravitational interaction"
   },
@@ -1496,6 +1524,10 @@
     "answer": "Dark matter"
   },
   {
+    "question": "What phenomenon first confirmed the existence of supermassive black holes in the cores of galaxies?",
+    "answer": "X-ray emission"
+  },
+  {
     "question": "What phenomenon forms complex orbital resonances between planets and moons in the Solar System?",
     "answer": "Gravitational interactions"
   },
@@ -1534,6 +1566,10 @@
   {
     "question": "What phenomenon on the Moon is related to its tectonic activity?",
     "answer": "Moonquakes"
+  },
+  {
+    "question": "What phenomenon predicts the change in angular sizes of distant objects?",
+    "answer": "Gravitational lensing"
   },
   {
     "question": "What phenomenon reflects the instability of orbital motion around black holes?",
@@ -1580,6 +1616,10 @@
     "answer": "Gravitational lensing"
   },
   {
+    "question": "What physical phenomena contribute to the cooling of interstellar gas?",
+    "answer": "Radiation"
+  },
+  {
     "question": "What physical phenomenon ensures the stability of rings around gas giants?",
     "answer": "Orbital resonance"
   },
@@ -1614,6 +1654,10 @@
   {
     "question": "What physical processes determine the size and shape of asteroids?",
     "answer": "Gravity and rotation"
+  },
+  {
+    "question": "What physical processes maintain the spiral structure of the Milky Way?",
+    "answer": "Density waves"
   },
   {
     "question": "What physical processes were responsible for the formation of the first stars?",
@@ -1748,6 +1792,10 @@
     "answer": "Galactic winds"
   },
   {
+    "question": "What processes determine the stability of meteors in the atmosphere?",
+    "answer": "Aerodynamic drag"
+  },
+  {
     "question": "What processes determine the structure of galaxy clusters?",
     "answer": "Gravity and merging"
   },
@@ -1814,6 +1862,10 @@
   {
     "question": "What quantum state preceded the moment of singularity?",
     "answer": "Quantum foam"
+  },
+  {
+    "question": "What role do black holes play in the evolution of galaxies?",
+    "answer": "Form the cores"
   },
   {
     "question": "What role do black holes play in the formation of galaxies?",
@@ -1952,6 +2004,10 @@
     "answer": "Shielding"
   },
   {
+    "question": "What technologies are used for space weather forecasting?",
+    "answer": "Satellite monitoring"
+  },
+  {
     "question": "What technologies are used in experiments to search for hypothetical particles?",
     "answer": "Cryogenic detectors"
   },
@@ -1976,6 +2032,10 @@
     "answer": "Protective materials"
   },
   {
+    "question": "What technologies help minimize the impact of space weather on satellites?",
+    "answer": "Shielding coatings"
+  },
+  {
     "question": "What technologies support the operation of space telescopes in a vacuum environment?",
     "answer": "Thermal insulation of the devices"
   },
@@ -1990,6 +2050,10 @@
   {
     "question": "What tools allow tracking changes in space weather in real time?",
     "answer": "Observation satellites"
+  },
+  {
+    "question": "What tools help measure the effects of gravity in space?",
+    "answer": "Gravitational lenses"
   },
   {
     "question": "What type of black hole has a ring-shaped singularity?",
@@ -2046,6 +2110,10 @@
   {
     "question": "What was the first spacecraft to study the rings of Uranus?",
     "answer": "Voyager 2"
+  },
+  {
+    "question": "What was the name of the first artificial satellite of Mars?",
+    "answer": "Phobos-1"
   },
   {
     "question": "What waste disposal method was first used on a space station to minimize pollution?",
@@ -2136,6 +2204,10 @@
     "answer": "Fritz Zwicky"
   },
   {
+    "question": "Which astronomer first hypothesized that Saturn's rings are made of icy particles?",
+    "answer": "James Clerk Maxwell"
+  },
+  {
     "question": "Which astronomer first proposed that light could be bent by gravity?",
     "answer": "Albert Einstein"
   },
@@ -2184,6 +2256,10 @@
     "answer": "Protein crystallization"
   },
   {
+    "question": "Which component first enabled the space station to conduct long-term missions with minimal crew involvement?",
+    "answer": "Autonomous systems"
+  },
+  {
     "question": "Which component is responsible for the stability of galactic arms?",
     "answer": "Dark matter"
   },
@@ -2226,6 +2302,10 @@
   {
     "question": "Which cosmological models consider the influence of dark energy on the evolution of the Universe?",
     "answer": "Lambda-CDM"
+  },
+  {
+    "question": "Which cosmological observations confirmed the presence of accelerated expansion of the Universe?",
+    "answer": "Type Ia supernovae"
   },
   {
     "question": "Which device was the first to use laser communication for data transmission?",
@@ -2380,6 +2460,10 @@
     "answer": "Apollo 12"
   },
   {
+    "question": "Which mission was the first to study the effects of space radiation in lunar orbit?",
+    "answer": "Luna 10"
+  },
+  {
     "question": "Which mission was the first to study the radio emissions of Venus?",
     "answer": "Venera 4"
   },
@@ -2490,6 +2574,10 @@
   {
     "question": "Which probe was the first to study the magnetic field of Mars?",
     "answer": "MAVEN"
+  },
+  {
+    "question": "Which probe was the first to use Earth's gravity assist to accelerate towards the outer planets?",
+    "answer": "Voyager 2"
   },
   {
     "question": "Which probe was the first to use laser altimetry for mapping the surface of Mars?",
@@ -2878,6 +2966,10 @@
   {
     "question": "Who was the first to predict the existence of neutron stars?",
     "answer": "Lev Landau"
+  },
+  {
+    "question": "Who was the first to propose the concept of the Moon's geological activity?",
+    "answer": "Harold Urey"
   },
   {
     "question": "Who was the first to propose the existence of radio galaxies?",
