@@ -7109,6 +7109,10 @@
         "answer": "2012"
     },
     {
+        "question": "At what depth is spearfishing usually conducted?",
+        "answer": "Up to 30 m"
+    },
+    {
         "question": "For what type of fishing is fly fishing used?",
         "answer": "Trout fishing"
     },
@@ -7289,6 +7293,10 @@
         "answer": "Large boilies"
     },
     {
+        "question": "What can be determined using a chartplotter?",
+        "answer": "Position on the water"
+    },
+    {
         "question": "What can be used for sitting on ice?",
         "answer": "Fishing box"
     },
@@ -7299,6 +7307,10 @@
     {
         "question": "What can be used to scent baits?",
         "answer": "Essential oils"
+    },
+    {
+        "question": "What characteristic affects the casting distance of a fishing rod?",
+        "answer": "Stiffness"
     },
     {
         "question": "What color bait do fishermen most often choose?",
@@ -7315,6 +7327,10 @@
     {
         "question": "What dangerous sea creature might a spearfisher encounter?",
         "answer": "Shark"
+    },
+    {
+        "question": "What defines the rules of competitions?",
+        "answer": "Regulations"
     },
     {
         "question": "What depth does the burbot prefer?",
@@ -7401,6 +7417,10 @@
         "answer": "Wind and shade"
     },
     {
+        "question": "What factors should be considered when choosing a fly fishing lure?",
+        "answer": "Season"
+    },
+    {
         "question": "What feature of the fishing line affects the casting distance?",
         "answer": "weight"
     },
@@ -7469,6 +7489,10 @@
         "answer": "Spawning"
     },
     {
+        "question": "What fishing term refers to dragging the lure along the bottom?",
+        "answer": "Jigging"
+    },
+    {
         "question": "What fly casting technique is considered basic?",
         "answer": "Loop cast"
     },
@@ -7487,6 +7511,10 @@
     {
         "question": "What helps keep fishermen on slippery ice?",
         "answer": "Anti-slip pads"
+    },
+    {
+        "question": "What helps to avoid barotrauma?",
+        "answer": "Slow descent"
     },
     {
         "question": "What helps to increase casting distance?",
@@ -7563,6 +7591,10 @@
     {
         "question": "What is important to consider when choosing a fly fishing spot?",
         "answer": "Water depth"
+    },
+    {
+        "question": "What is important to consider when choosing a spot for fly fishing?",
+        "answer": "Water quality"
     },
     {
         "question": "What is necessary for the safety of fishermen on ice?",
@@ -7665,6 +7697,10 @@
         "answer": "Backcast"
     },
     {
+        "question": "What is the name of the device that detects weak electric discharges from fish?",
+        "answer": "Electro-nose"
+    },
+    {
         "question": "What is the name of the fishing rod used for long-distance casting?",
         "answer": "Spod rod"
     },
@@ -7693,8 +7729,16 @@
         "answer": "Bottom fishing rig"
     },
     {
+        "question": "What is the name of the underwater diving system without tanks?",
+        "answer": "Freediving"
+    },
+    {
         "question": "What is the penalty for poaching?",
         "answer": "Fine"
+    },
+    {
+        "question": "What is the process of drying fish in the air called?",
+        "answer": "Airing"
     },
     {
         "question": "What is the purpose of a fishing map?",
@@ -7767,6 +7811,10 @@
     {
         "question": "What movement helps control the lure when casting?",
         "answer": "Smooth tension"
+    },
+    {
+        "question": "What movement is made during jigging?",
+        "answer": "Lure hopping"
     },
     {
         "question": "What negatively affects water bodies?",
@@ -8081,8 +8129,16 @@
         "answer": "After getting permission from the inspector"
     },
     {
+        "question": "When is it best to loosen the drag on a reel?",
+        "answer": "During jerks"
+    },
+    {
         "question": "When is twitching used?",
         "answer": "Predator fishing"
+    },
+    {
+        "question": "When should you release the fishing line when casting?",
+        "answer": "on the upswing"
     },
     {
         "question": "Where do people fish in winter?",
@@ -8095,6 +8151,10 @@
     {
         "question": "Where were artificial lures first used?",
         "answer": "China"
+    },
+    {
+        "question": "Which bases are specially equipped for winter fishing?",
+        "answer": "Special"
     },
     {
         "question": "Which boots are best for ice fishing?",
@@ -8209,6 +8269,10 @@
         "answer": "Dragonfish"
     },
     {
+        "question": "Which fish is capable of changing its gender?",
+        "answer": "Clownfish"
+    },
+    {
         "question": "Which fish is capable of creating sound waves?",
         "answer": "Drumfish"
     },
@@ -8239,6 +8303,14 @@
     {
         "question": "Which fish is known for its ability to change the lateral plates on its body?",
         "answer": "Littoral fish"
+    },
+    {
+        "question": "Which fish is known for its ability to dive deep?",
+        "answer": "Lamprey"
+    },
+    {
+        "question": "Which fish is known for its ability to mimic other marine creatures?",
+        "answer": "Mimic fish"
     },
     {
         "question": "Which fish is known for its large size?",
@@ -8301,6 +8373,14 @@
         "answer": "Tilapia"
     },
     {
+        "question": "Which fish lives only at depths greater than 2000 meters?",
+        "answer": "Viperfish"
+    },
+    {
+        "question": "Which fish most often looks like a seahorse?",
+        "answer": "Leafy sea dragon"
+    },
+    {
         "question": "Which fish need protection?",
         "answer": "Rare species"
     },
@@ -8349,6 +8429,10 @@
         "answer": "Nymphing"
     },
     {
+        "question": "Which knot has proven its reliability for tying a load to a fishing line?",
+        "answer": "Five-turn knot"
+    },
+    {
         "question": "Which knot holds well under tension?",
         "answer": "Bramshkotovy knot"
     },
@@ -8359,6 +8443,10 @@
     {
         "question": "Which knot is best suited for wet line?",
         "answer": "Albright"
+    },
+    {
+        "question": "Which knot is best used for fishing from the shore?",
+        "answer": "Grinner"
     },
     {
         "question": "Which knot is considered stronger?",
@@ -8437,6 +8525,10 @@
         "answer": "Strong knot"
     },
     {
+        "question": "Which knot provides high strength for a connection?",
+        "answer": "Palomar"
+    },
+    {
         "question": "Which knot should be used for monofilament fishing line?",
         "answer": "Blood Knot"
     },
@@ -8459,6 +8551,10 @@
     {
         "question": "Which part of the fish is used to make fish stock?",
         "answer": "Bones"
+    },
+    {
+        "question": "Which part of the fishing reel helps prevent line tangling?",
+        "answer": "Line guide"
     },
     {
         "question": "Which part of the river is best suited for fly fishing?",
@@ -21452,6 +21548,10 @@
         "answer": "Restricted"
     },
     {
+        "question": "What arrowheads are effective for hunting big game?",
+        "answer": "Broadheads"
+    },
+    {
         "question": "What bait attracts foxes?",
         "answer": "Blood"
     },
@@ -21644,6 +21744,10 @@
         "answer": "Stopping the bleeding"
     },
     {
+        "question": "What first aid should be given for a snake bite?",
+        "answer": "Stay still"
+    },
+    {
         "question": "What food do ducks prefer?",
         "answer": "Algae"
     },
@@ -21674,6 +21778,10 @@
     {
         "question": "What helps to stabilize a stance?",
         "answer": "trekking poles"
+    },
+    {
+        "question": "What helps with navigation while hunting?",
+        "answer": "Map"
     },
     {
         "question": "What hunting innovations became popular in the 19th century?",
@@ -21746,6 +21854,10 @@
     {
         "question": "What is a wand used for in falconry?",
         "answer": "Command"
+    },
+    {
+        "question": "What is best suited for filtering water while hunting?",
+        "answer": "Filter attachment"
     },
     {
         "question": "What is better to use for long-term camera operation in the forest?",
@@ -21856,6 +21968,10 @@
         "answer": "PNA"
     },
     {
+        "question": "What is the device called for accurate shooting at long distances?",
+        "answer": "Optical sight"
+    },
+    {
         "question": "What is the device called that is used to find metal objects?",
         "answer": "Metal detector"
     },
@@ -21910,6 +22026,10 @@
     {
         "question": "What is the most important thing to do in case of an injury while hiking?",
         "answer": "Treat the wound"
+    },
+    {
+        "question": "What is the most popular method of transportation in winter?",
+        "answer": "Snowmobile"
     },
     {
         "question": "What is the most reliable landmark in the area?",
@@ -22080,6 +22200,10 @@
         "answer": "Cassowary"
     },
     {
+        "question": "What large deer inhabits North America?",
+        "answer": "Elk"
+    },
+    {
         "question": "What lures are used for deer hunting?",
         "answer": "Sound calls"
     },
@@ -22098,6 +22222,10 @@
     {
         "question": "What material is preferred for a tent in winter conditions?",
         "answer": "neoprene"
+    },
+    {
+        "question": "What material is suitable for a smoker?",
+        "answer": "Metal"
     },
     {
         "question": "What measures distance?",
@@ -22162,6 +22290,10 @@
     {
         "question": "What process is used for removing the entrails?",
         "answer": "evisceration"
+    },
+    {
+        "question": "What reduces hunting success?",
+        "answer": "Human scent"
     },
     {
         "question": "What regulates the appointment of hunting?",
@@ -22254,6 +22386,10 @@
     {
         "question": "What technique is used for tracking small game in the forest?",
         "answer": "Stalking"
+    },
+    {
+        "question": "What technique is used to attract ducks?",
+        "answer": "Duck call"
     },
     {
         "question": "What technique is used to attract frogs?",
@@ -22888,6 +23024,10 @@
         "answer": "Sled"
     },
     {
+        "question": "Which knife is best for everyday use?",
+        "answer": "Multifunctional knife"
+    },
+    {
         "question": "Which knot is important for hiking?",
         "answer": "Slip knot"
     },
@@ -22922,6 +23062,10 @@
     {
         "question": "Which pants are best suited for winter hunting?",
         "answer": "Insulated"
+    },
+    {
+        "question": "Which part of a bird is most sensitive to overloads?",
+        "answer": "Head"
     },
     {
         "question": "Which part of a crossbow ensures reliability?",
@@ -23038,6 +23182,10 @@
     {
         "question": "Who was known for their first hunting expedition?",
         "answer": "Thutmose III"
+    },
+    {
+        "question": "Who was often depicted in Roman mosaics in hunting scenes?",
+        "answer": "Lions"
     },
     {
         "question": "Who was the god of hunting in ancient Slavic mythology?",
@@ -36807,6 +36955,10 @@
         "answer": "Erosion"
     },
     {
+        "question": "How can the rotation of a black hole be measured?",
+        "answer": "X-ray emission"
+    },
+    {
         "question": "How can variations in solar activity affect the Earth's ozone layer?",
         "answer": "They destroy it"
     },
@@ -36861,6 +37013,10 @@
     {
         "question": "How do scientists predict changes in space weather?",
         "answer": "Numerical models"
+    },
+    {
+        "question": "How do solar flares affect Earth's climate?",
+        "answer": "Change the climate"
     },
     {
         "question": "How do space telescopes analyze the structure of interstellar dust?",
@@ -36947,6 +37103,10 @@
         "answer": "Reduces lifespan"
     },
     {
+        "question": "How does studying neutral hydrogen help in understanding the structure of a galaxy?",
+        "answer": "Radio astronomy"
+    },
+    {
         "question": "How does studying neutron stars contribute to understanding galactic dynamics?",
         "answer": "Gravity"
     },
@@ -36965,6 +37125,10 @@
     {
         "question": "How does the chemical composition of stars change as a galaxy ages?",
         "answer": "Richer in metals"
+    },
+    {
+        "question": "How does the cosmic microwave background radiation interact with forming stars?",
+        "answer": "Accelerates cooling"
     },
     {
         "question": "How does the distance between galaxies affect the perception of light?",
@@ -37033,6 +37197,10 @@
     {
         "question": "How is the concept of dark matter related to the study of the speed of light?",
         "answer": "Influences"
+    },
+    {
+        "question": "How is the cosmological influence of dark energy on expansion measured?",
+        "answer": "Analysis of the cosmic microwave background"
     },
     {
         "question": "How is the curvature of space determined over large cosmic distances?",
@@ -37135,6 +37303,18 @@
         "answer": "Malfunction"
     },
     {
+        "question": "What are the main mechanisms of galaxy cluster formation?",
+        "answer": "Gravitational attraction"
+    },
+    {
+        "question": "What are the mechanisms affecting the rotation of galactic disks?",
+        "answer": "Gravity"
+    },
+    {
+        "question": "What are the methods for detecting underground water on Mars?",
+        "answer": "Radar surveys"
+    },
+    {
         "question": "What astronomical instruments are used to study gravitational anomalies?",
         "answer": "Radio telescopes"
     },
@@ -37149,6 +37329,10 @@
     {
         "question": "What characteristic of meteorites allows us to determine their origin from the main asteroid belt?",
         "answer": "Isotopic composition"
+    },
+    {
+        "question": "What chemical changes occur in meteorites when entering the atmosphere?",
+        "answer": "Oxidation of metals"
     },
     {
         "question": "What chemical changes occur in the atmosphere when interacting with meteors?",
@@ -37175,6 +37359,10 @@
         "answer": "Chemical reactions"
     },
     {
+        "question": "What conditions are necessary for the emergence of life in oceans beneath the icy crust of a moon?",
+        "answer": "Heat and chemistry"
+    },
+    {
         "question": "What conditions are necessary for the formation of galactic bars?",
         "answer": "Orbital dynamics"
     },
@@ -37189,6 +37377,14 @@
     {
         "question": "What conditions contribute to the formation of complex organic molecules in protoplanetary disks?",
         "answer": "Temperature gradients"
+    },
+    {
+        "question": "What conditions existed in the first seconds after the Big Bang?",
+        "answer": "Extreme"
+    },
+    {
+        "question": "What control system was first used on 'Tiangong-2'?",
+        "answer": "Autonomous"
     },
     {
         "question": "What cosmological concepts are considered to describe unknown forces?",
@@ -37212,6 +37408,10 @@
     },
     {
         "question": "What determines the dynamics of galaxy clusters?",
+        "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What determines the orbital stability of an exoplanet in a planetary system?",
         "answer": "Gravitational interaction"
     },
     {
@@ -37423,6 +37623,10 @@
         "answer": "Radio emission"
     },
     {
+        "question": "What exotic material was used to make ultra-lightweight hulls for space stations?",
+        "answer": "Aerographite"
+    },
+    {
         "question": "What experimental data supports the initial conditions of the Universe?",
         "answer": "Cosmic radiation"
     },
@@ -37479,6 +37683,10 @@
         "answer": "Gravitational fields"
     },
     {
+        "question": "What factors can affect the dynamical stability of exoplanetary systems?",
+        "answer": "Gravity of neighboring planets"
+    },
+    {
         "question": "What factors complicate the study of Mars' magnetic field?",
         "answer": "Weakness of the field"
     },
@@ -37509,6 +37717,10 @@
     {
         "question": "What factors influence the distribution of stellar populations in the Milky Way?",
         "answer": "Galactic dynamics"
+    },
+    {
+        "question": "What factors influence the formation of galactic structures?",
+        "answer": "Gravity"
     },
     {
         "question": "What factors lead to complex orbital dynamics in the ring systems of giant planets?",
@@ -37615,6 +37827,14 @@
         "answer": "Water shields"
     },
     {
+        "question": "What instruments are necessary for measuring interstellar distances?",
+        "answer": "Telescopes"
+    },
+    {
+        "question": "What internal processes in galaxies determine their evolution?",
+        "answer": "Star formation"
+    },
+    {
         "question": "What is the average density of the Universe?",
         "answer": "Very low"
     },
@@ -37665,6 +37885,10 @@
     {
         "question": "What is the influence of magnetic fields on the structure of galaxies?",
         "answer": "Control of gas"
+    },
+    {
+        "question": "What is the interaction between relativistic physics and the speed of light in space?",
+        "answer": "Key"
     },
     {
         "question": "What is the key factor when choosing an orbit for satellites studying Mercury's atmosphere?",
@@ -37747,6 +37971,10 @@
         "answer": "Quantum fluctuations"
     },
     {
+        "question": "What is the relationship between the morphology of a galaxy and its dynamic evolution?",
+        "answer": "Morphology influences"
+    },
+    {
         "question": "What is the relationship between the rotation of a black hole and its accretion disk?",
         "answer": "Rotation speed"
     },
@@ -37761,6 +37989,10 @@
     {
         "question": "What is the role of a bar in the dynamics of a galaxy?",
         "answer": "Speeds up rotation"
+    },
+    {
+        "question": "What is the role of angular momentum in the process of forming star systems?",
+        "answer": "Stabilization of the disk"
     },
     {
         "question": "What is the role of asteroids in the formation of planetary systems?",
@@ -37947,8 +38179,16 @@
         "answer": "Yarkovsky effect"
     },
     {
+        "question": "What mechanism can sustain life in extremely hot conditions on other planets?",
+        "answer": "Thermotolerance"
+    },
+    {
         "question": "What mechanism determines the stability of comet orbits in the Solar System?",
         "answer": "Kepler's laws"
+    },
+    {
+        "question": "What mechanism explains the distribution of mass in the early Universe?",
+        "answer": "Gravitational instability"
     },
     {
         "question": "What mechanism explains the existence of stable orbits for small bodies in the Kuiper Belt?",
@@ -37983,6 +38223,10 @@
         "answer": "Spectral analysis"
     },
     {
+        "question": "What mechanisms contribute to the redistribution of angular momentum in a galaxy?",
+        "answer": "Gravitational interactions"
+    },
+    {
         "question": "What mechanisms determine the rate of star formation in galaxies?",
         "answer": "Gas gravity"
     },
@@ -38001,6 +38245,10 @@
     {
         "question": "What mechanisms stabilize the atmospheres of giant planets from losing gases into space?",
         "answer": "Magnetospheres"
+    },
+    {
+        "question": "What method allows determining the density of asteroids from a distance?",
+        "answer": "Gravimetry"
     },
     {
         "question": "What method allows telescopes to observe the polarization of light in space?",
@@ -38271,6 +38519,10 @@
         "answer": "Yarkovsky effect"
     },
     {
+        "question": "What phenomenon explains the formation of iron-stone meteorites in the interiors of planetesimals?",
+        "answer": "Differentiation"
+    },
+    {
         "question": "What phenomenon explains the stable rotation of galaxies contrary to expected effects?",
         "answer": "Dark matter"
     },
@@ -38317,6 +38569,10 @@
     {
         "question": "What phenomenon on the Moon is related to its tectonic activity?",
         "answer": "Moonquakes"
+    },
+    {
+        "question": "What phenomenon paved the way for understanding the nuclear energy of stars?",
+        "answer": "Nuclear fusion"
     },
     {
         "question": "What phenomenon predicts the change in angular sizes of distant objects?",
@@ -38369,6 +38625,10 @@
     {
         "question": "What physical phenomena contribute to the cooling of interstellar gas?",
         "answer": "Radiation"
+    },
+    {
+        "question": "What physical phenomenon contributes to the formation of dense cores in molecular clouds?",
+        "answer": "Turbulence"
     },
     {
         "question": "What physical phenomenon ensures the stability of rings around gas giants?",
@@ -38495,8 +38755,16 @@
         "answer": "gravitational interactions"
     },
     {
+        "question": "What processes can affect the thermal evolution of meteorites in space?",
+        "answer": "Radioactive decay"
+    },
+    {
         "question": "What processes can cause changes in the structure of asteroids in the Kuiper Belt?",
         "answer": "Cryovolcanism"
+    },
+    {
+        "question": "What processes can ensure the preservation of liquid water on planets with low atmospheric pressure?",
+        "answer": "Tectonic activity"
     },
     {
         "question": "What processes can lead to the formation of complex molecules in protoplanetary disks?",
@@ -38579,6 +38847,10 @@
         "answer": "Stellar winds"
     },
     {
+        "question": "What processes influence the distribution of stars in galaxies?",
+        "answer": "Gravity"
+    },
+    {
         "question": "What processes influence the formation of galaxies?",
         "answer": "Gravitational interaction"
     },
@@ -38641,6 +38913,10 @@
     {
         "question": "What role do magnetic fields play in the formation of star systems?",
         "answer": "Regulate accretion"
+    },
+    {
+        "question": "What role do planets play in the evolution of galaxies?",
+        "answer": "Influence on orbits"
     },
     {
         "question": "What role do shock waves play in the process of star formation?",
@@ -38709,6 +38985,14 @@
     {
         "question": "What sensor is used to measure humidity on Mars?",
         "answer": "Hygrometer"
+    },
+    {
+        "question": "What state of matter predominates in the early stages of galaxy formation?",
+        "answer": "Plasma"
+    },
+    {
+        "question": "What state preceded the stabilization of the fundamental forces of nature?",
+        "answer": "High-energy phase"
     },
     {
         "question": "What structure in space can cause a violation of the causality principle?",
@@ -38791,6 +39075,10 @@
         "answer": "Thermal insulation of the devices"
     },
     {
+        "question": "What technology was first used on the ISS to prevent corrosion?",
+        "answer": "Aluminum alloy"
+    },
+    {
         "question": "What technology was used for the first analysis of Martian soil?",
         "answer": "Gas chromatography"
     },
@@ -38817,6 +39105,10 @@
     {
         "question": "What type of experiments help identify hypothetical dark matter particles?",
         "answer": "Accelerator experiments"
+    },
+    {
+        "question": "What type of interaction promotes the migration of exoplanets?",
+        "answer": "Tidal forces"
     },
     {
         "question": "What type of lens minimizes chromatic aberration?",
@@ -38911,6 +39203,10 @@
         "answer": "Galileo"
     },
     {
+        "question": "Which aspect of lunar research helped refine the chronology of ancient eruptions on its surface?",
+        "answer": "Age of craters"
+    },
+    {
         "question": "Which aspect of quantum physics affects the early Universe?",
         "answer": "Quantum entanglement"
     },
@@ -38959,6 +39255,14 @@
         "answer": "James Clerk Maxwell"
     },
     {
+        "question": "Which astronomer first identified a star that periodically changes its brightness?",
+        "answer": "Goodricke"
+    },
+    {
+        "question": "Which astronomer first noticed the variable nature of the star Cephei?",
+        "answer": "John Goodricke"
+    },
+    {
         "question": "Which astronomer first proposed that light could be bent by gravity?",
         "answer": "Albert Einstein"
     },
@@ -38969,6 +39273,10 @@
     {
         "question": "Which astronomer first proposed the idea that galaxies might rotate based on observations of spiral nebulae?",
         "answer": "Vesto Slipher"
+    },
+    {
+        "question": "Which astronomer first proposed using the radial velocity method to detect exoplanets?",
+        "answer": "Otto Struve"
     },
     {
         "question": "Which astronomer played a key role in the development of radar methods in astronomy?",
@@ -39003,6 +39311,10 @@
         "answer": "Riccardo Giacconi"
     },
     {
+        "question": "Which astronomer was the first to suggest that radio waves could be used to study space?",
+        "answer": "Karl Jansky"
+    },
+    {
         "question": "Which biological process was first successfully conducted in the conditions of space microgravity?",
         "answer": "Protein crystallization"
     },
@@ -39031,8 +39343,16 @@
         "answer": "Cygnus"
     },
     {
+        "question": "Which constellation is associated with the myth of Patroclus's death and his protection by Achilles?",
+        "answer": "Ophiuchus"
+    },
+    {
         "question": "Which constellation is associated with the mythological story of a character who could change his form at the will of the gods?",
         "answer": "Centaurus"
+    },
+    {
+        "question": "Which constellation is named after a mythical creature resembling a half-wolf, half-dog?",
+        "answer": "Lupus"
     },
     {
         "question": "Which constellation is named after a mythological character symbolizing the cold wind?",
@@ -39057,6 +39377,10 @@
     {
         "question": "Which cosmological observations confirmed the presence of accelerated expansion of the Universe?",
         "answer": "Type Ia supernovae"
+    },
+    {
+        "question": "Which device first detected gravitational waves in space?",
+        "answer": "LIGO"
     },
     {
         "question": "Which device was the first to use laser communication for data transmission?",
@@ -39311,6 +39635,10 @@
         "answer": "Edward Witten"
     },
     {
+        "question": "Which principle of physics states the equivalence of inertial and gravitational mass?",
+        "answer": "Principle of Equivalence"
+    },
+    {
         "question": "Which probe first detected the presence of organic molecules on Titan?",
         "answer": "Cassini"
     },
@@ -39383,6 +39711,10 @@
         "answer": "Akatsuki"
     },
     {
+        "question": "Which satellite was the first to use ultraviolet sounding to study atmospheric processes on Jupiter?",
+        "answer": "Juno"
+    },
+    {
         "question": "Which scientist discovered that interstellar gas can emit radio waves?",
         "answer": "Karl Jansky"
     },
@@ -39405,6 +39737,10 @@
     {
         "question": "Which spacecraft detected gravitational anomalies on giant planets?",
         "answer": "Juno"
+    },
+    {
+        "question": "Which spacecraft discovered the rings around Uranus?",
+        "answer": "Voyager 2"
     },
     {
         "question": "Which spacecraft first detected precipitation on the moon Titan?",
@@ -39569,6 +39905,10 @@
     {
         "question": "Which spacecraft was the first to use radar to study the Moon's polar caps?",
         "answer": "Chandrayaan-1"
+    },
+    {
+        "question": "Which spacecraft was the first to use radar to study the dense clouds of planets?",
+        "answer": "Magellan"
     },
     {
         "question": "Which spacecraft was the first to use the Moon's gravity for a maneuver?",
@@ -39759,6 +40099,10 @@
         "answer": "Type of musculature"
     },
     {
+        "question": "How can indoor humidity affect the behavior of a tennis ball?",
+        "answer": "Speed"
+    },
+    {
         "question": "How do changes in competition rules affect athletes' training strategies?",
         "answer": "Technique adaptation"
     },
@@ -39783,6 +40127,14 @@
         "answer": "Optimizes control"
     },
     {
+        "question": "How does international cooperation contribute to the development of the Paralympic movement?",
+        "answer": "Exchange of experience"
+    },
+    {
+        "question": "How does preparation for a match affect tactics?",
+        "answer": "Analyzing the opponent"
+    },
+    {
         "question": "How does role distribution affect the attack?",
         "answer": "Efficiency"
     },
@@ -39791,8 +40143,16 @@
         "answer": "Increase in speed"
     },
     {
+        "question": "How does the angle of the racket affect the trajectory of the ball?",
+        "answer": "Changes the direction"
+    },
+    {
         "question": "How does the classification of athletes affect the fairness of competitions at the Paralympics?",
         "answer": "Levels the playing field"
+    },
+    {
+        "question": "How does the development of technology affect the accuracy of officiating and decision-making in rugby matches?",
+        "answer": "Video analysis"
     },
     {
         "question": "How does the distribution of body mass affect stability during a push?",
@@ -39805,6 +40165,10 @@
     {
         "question": "How does the flip turn technique in swimming affect the time to complete a distance?",
         "answer": "Reduces time"
+    },
+    {
+        "question": "How does the synchronization of movements affect swimming efficiency?",
+        "answer": "Reduces resistance"
     },
     {
         "question": "How does the wind interact with a windsurfer's sail?",
@@ -39919,6 +40283,10 @@
         "answer": "Tarrasch's Endgame"
     },
     {
+        "question": "In which martial art is the 'Iron Shirt' style known?",
+        "answer": "Kung Fu"
+    },
+    {
         "question": "In which track and field discipline is a starting block used?",
         "answer": "Sprinting"
     },
@@ -39959,6 +40327,10 @@
         "answer": "Pace and strategy"
     },
     {
+        "question": "What are the key factors that determine the success of a team's strategy in rugby?",
+        "answer": "Speed and coordination"
+    },
+    {
         "question": "What are the main challenges in adapting sports for the Paralympic Games?",
         "answer": "Accessibility"
     },
@@ -39969,6 +40341,10 @@
     {
         "question": "What are the main differences in rules between rugby union (15s) and rugby league (13s)?",
         "answer": "Number of players"
+    },
+    {
+        "question": "What area in rugby is used for significant attacks?",
+        "answer": "22-meter zone"
     },
     {
         "question": "What aspect affects the weight distribution on a barbell?",
@@ -39991,6 +40367,10 @@
         "answer": "Quality of the helmet"
     },
     {
+        "question": "What aspect is key when training beginner figure skaters?",
+        "answer": "Balance control"
+    },
+    {
         "question": "What aspect of biomechanics is critical for hammer throwing?",
         "answer": "Angular velocity"
     },
@@ -40009,6 +40389,10 @@
     {
         "question": "What aspect of ski equipment is most important for professional athletes in competitions?",
         "answer": "Precision of tuning"
+    },
+    {
+        "question": "What aspect of training is most important for the snatch technique?",
+        "answer": "Body positioning"
     },
     {
         "question": "What aspects should be considered to improve carving technique in skiing?",
@@ -40037,6 +40421,10 @@
     {
         "question": "What biomechanical principle underlies an effective snatch?",
         "answer": "Torque"
+    },
+    {
+        "question": "What breathing technique is optimal for long-distance swimming?",
+        "answer": "Lateral breathing"
     },
     {
         "question": "What breed of horse is used in racing?",
@@ -40115,6 +40503,14 @@
         "answer": "Contrasting"
     },
     {
+        "question": "What conditions are most dangerous for scuba divers?",
+        "answer": "Strong currents"
+    },
+    {
+        "question": "What conditions make open water swimming more challenging?",
+        "answer": "Strong currents"
+    },
+    {
         "question": "What criteria are important when choosing a location for extreme snowboarding competitions?",
         "answer": "Tracks and safety"
     },
@@ -40131,8 +40527,16 @@
         "answer": "Sight adjustment"
     },
     {
+        "question": "What device is used to control a horse?",
+        "answer": "Bridle"
+    },
+    {
         "question": "What distance do women cover in the relay?",
         "answer": "5 km"
+    },
+    {
+        "question": "What does 'ju' mean in judo?",
+        "answer": "Gentleness"
     },
     {
         "question": "What effect does aerobic training have on swimming?",
@@ -40141,6 +40545,10 @@
     {
         "question": "What effect does altitude have on shooting in biathlon?",
         "answer": "Reduced accuracy"
+    },
+    {
+        "question": "What effect does altitude have on the physical performance of biathletes?",
+        "answer": "Decreased endurance"
     },
     {
         "question": "What effect does the grip width have on the barbell's trajectory in the snatch?",
@@ -40303,6 +40711,10 @@
         "answer": "Avalanche beacon"
     },
     {
+        "question": "What factor is most critical in a snatch?",
+        "answer": "Speed of movement"
+    },
+    {
         "question": "What factor is most important for successful participation in extreme cycling races?",
         "answer": "Endurance"
     },
@@ -40317,6 +40729,14 @@
     {
         "question": "What factor most influences the trajectory of a ball?",
         "answer": "Force of the hit"
+    },
+    {
+        "question": "What factor most significantly influences the choice of skis for freeriding?",
+        "answer": "Width"
+    },
+    {
+        "question": "What factor plays a key role in choosing a city to host the Paralympic Games?",
+        "answer": "Accessibility"
     },
     {
         "question": "What factor should be considered when setting the bar in pole vaulting?",
@@ -40435,6 +40855,10 @@
         "answer": "Texture"
     },
     {
+        "question": "What innovations in weightlifting equipment appeared in the 21st century?",
+        "answer": "Lightweight bars"
+    },
+    {
         "question": "What innovations were introduced in table tennis at the beginning of the 21st century?",
         "answer": "Plastic balls"
     },
@@ -40445,6 +40869,10 @@
     {
         "question": "What is a key factor considered when selecting a course for a Biathlon World Cup stage?",
         "answer": "Climatic conditions"
+    },
+    {
+        "question": "What is a strong accurate shot called?",
+        "answer": "Vinher"
     },
     {
         "question": "What is blindfold chess?",
@@ -40487,6 +40915,10 @@
         "answer": "Bouldering"
     },
     {
+        "question": "What is the determining factor in pole vaulting technique?",
+        "answer": "Angle of takeoff"
+    },
+    {
         "question": "What is the diameter of a standard table tennis ball?",
         "answer": "40 mm"
     },
@@ -40499,8 +40931,16 @@
         "answer": "Offshore"
     },
     {
+        "question": "What is the effect of turbulence on a surfer's stability?",
+        "answer": "Reduces stability"
+    },
+    {
         "question": "What is the foundation of harmonious interaction between a horse and a rider?",
         "answer": "Trust"
+    },
+    {
+        "question": "What is the function of a warm-up in a workout?",
+        "answer": "Injury prevention"
     },
     {
         "question": "What is the goal in hypermodern strategy?",
@@ -40547,6 +40987,10 @@
         "answer": "Maintaining stability"
     },
     {
+        "question": "What is the main safety rule for surfers?",
+        "answer": "Do not surf alone"
+    },
+    {
         "question": "What is the maneuver with a sharp turn on the wave crest called?",
         "answer": "Cutback"
     },
@@ -40565,6 +41009,14 @@
     {
         "question": "What is the most important quality of a team leader for success in rugby?",
         "answer": "Strategic thinking"
+    },
+    {
+        "question": "What is the move called when approaching the opponent's hoop?",
+        "answer": "Slam dunk"
+    },
+    {
+        "question": "What is the movement along a diagonal called?",
+        "answer": "Diagonal movement"
     },
     {
         "question": "What is the movement called when a figure skater performs a spin on one leg with a change in level?",
@@ -40599,8 +41051,16 @@
         "answer": "Kür"
     },
     {
+        "question": "What is the name of the famous African footballer who became the president of Liberia?",
+        "answer": "George Weah"
+    },
+    {
         "question": "What is the name of the first president of the NHL?",
         "answer": "Frank Calder"
+    },
+    {
+        "question": "What is the name of the head coach of the gym?",
+        "answer": "Greg Jackson"
     },
     {
         "question": "What is the name of the home arena of the NHL team Toronto Maple Leafs?",
@@ -40693,6 +41153,14 @@
     {
         "question": "What is the race also known as the 'Lombardy Classic'?",
         "answer": "Giro di Lombardia"
+    },
+    {
+        "question": "What is the race known as the 'Hell of the North'?",
+        "answer": "Paris-Roubaix"
+    },
+    {
+        "question": "What is the requirement for a horse to participate in high-level equestrian competitions?",
+        "answer": "Emotional control"
     },
     {
         "question": "What is the role of biomechanics in optimizing the technique of the snatch?",
@@ -40819,12 +41287,24 @@
         "answer": "Bitless"
     },
     {
+        "question": "What is the term for a puck shot from behind the blue line?",
+        "answer": "Long shot"
+    },
+    {
         "question": "What is the term for an athlete who performs a throw?",
         "answer": "Tori"
     },
     {
+        "question": "What is the term for an unexpected short touch of the ball?",
+        "answer": "Dragonfly"
+    },
+    {
         "question": "What is the term for disallowing a goal in football after a video review?",
         "answer": "VAR decision"
+    },
+    {
+        "question": "What is the term for holding an opponent in martial arts?",
+        "answer": "Lewis Hamilton"
     },
     {
         "question": "What is the term for when the puck crosses the blue line on the ice?",
@@ -40871,6 +41351,10 @@
         "answer": "Polyethylene"
     },
     {
+        "question": "What material is used to enhance the strength of skis and snowboards?",
+        "answer": "Carbon"
+    },
+    {
         "question": "What measures are taken to integrate new sports into the Paralympics?",
         "answer": "Test events"
     },
@@ -40881,6 +41365,10 @@
     {
         "question": "What method of protection is used to defend pawns on one flank?",
         "answer": "Hedging"
+    },
+    {
+        "question": "What methods are used to analyze weightlifting techniques in modern sports?",
+        "answer": "Video analysis"
     },
     {
         "question": "What modern workouts help improve a swimmer's coordination?",
@@ -40897,6 +41385,10 @@
     {
         "question": "What parameter determines the type of starting block for a sprint?",
         "answer": "Incline angle"
+    },
+    {
+        "question": "What parameter is critical for balancing a barbell?",
+        "answer": "Center of gravity"
     },
     {
         "question": "What parameter is critical for controlling the barbell in a snatch?",
@@ -40951,6 +41443,10 @@
         "answer": "Springs"
     },
     {
+        "question": "What piece of horse equipment is used to improve traction on sandy arenas?",
+        "answer": "Studs"
+    },
+    {
         "question": "What piece of horse equipment protects the hooves?",
         "answer": "Horseshoes"
     },
@@ -40961,6 +41457,10 @@
     {
         "question": "What principle involves placing the rook behind the passed pawn to support it?",
         "answer": "Tarrasch's Principle"
+    },
+    {
+        "question": "What principle is known in Jeet Kune Do?",
+        "answer": "3"
     },
     {
         "question": "What principle states that it is necessary to control the center of the board?",
@@ -40979,8 +41479,24 @@
         "answer": "Aerodynamics"
     },
     {
+        "question": "What role did the English footballer Tony Adams play?",
+        "answer": "Footballer"
+    },
+    {
         "question": "What role do volunteers play in the organization of the Paralympic Games?",
         "answer": "Supporting participants"
+    },
+    {
+        "question": "What role does kinetic energy play in the technique of shot put?",
+        "answer": "Maximum distance"
+    },
+    {
+        "question": "What role does psychological preparation play for a horse before major competitions?",
+        "answer": "Reduces anxiety"
+    },
+    {
+        "question": "What role is important in developing an attack strategy in rugby?",
+        "answer": "Captain"
     },
     {
         "question": "What rule changes can affect the results of the Paralympic Games?",
@@ -41003,8 +41519,20 @@
         "answer": "Balanced"
     },
     {
+        "question": "What running style is used to accelerate in the final meters?",
+        "answer": "Sprint finish"
+    },
+    {
         "question": "What should be considered when choosing a surfboard?",
         "answer": "Level of experience"
+    },
+    {
+        "question": "What skill is critically important for performing tricks in windsurfing?",
+        "answer": "Balance"
+    },
+    {
+        "question": "What skill is necessary for a horse and rider to perform complex maneuvers in eventing?",
+        "answer": "Flexibility"
     },
     {
         "question": "What skills does classical dressage develop in a horse?",
@@ -41019,8 +41547,16 @@
         "answer": "Figure skating"
     },
     {
+        "question": "What sport is considered the oldest?",
+        "answer": "Athletics"
+    },
+    {
         "question": "What sport requires athletes to use bicycles?",
         "answer": "Cycling"
+    },
+    {
+        "question": "What starting technique is optimal for a sprint race?",
+        "answer": "Block start"
     },
     {
         "question": "What strategic action in rugby is used to coordinate team actions in attack?",
@@ -41061,6 +41597,10 @@
     {
         "question": "What strategy helps to consistently run 10 km?",
         "answer": "Tempo running"
+    },
+    {
+        "question": "What strategy is used at the Paralympics to enhance entertainment?",
+        "answer": "Robotics"
     },
     {
         "question": "What strategy is used for optimal distribution of effort throughout a race?",
@@ -41151,6 +41691,10 @@
         "answer": "Lineout"
     },
     {
+        "question": "What tactical element in rugby is used to increase space in attack?",
+        "answer": "Expanding the game"
+    },
+    {
         "question": "What tactical element in rugby sevens is used to ensure a quick attack?",
         "answer": "Quick tap"
     },
@@ -41203,6 +41747,10 @@
         "answer": "Eskimo roll"
     },
     {
+        "question": "What technique allows swimmers to quickly adapt to changes in pool depth?",
+        "answer": "Breath control"
+    },
+    {
         "question": "What technique allows you to bypass a wave?",
         "answer": "Cutback"
     },
@@ -41221,6 +41769,10 @@
     {
         "question": "What technique is most effective for changing the direction of the ball in table tennis?",
         "answer": "Slice"
+    },
+    {
+        "question": "What technique is most important for maintaining balance in windsurfing?",
+        "answer": "Sail tuning"
     },
     {
         "question": "What technique is necessary for a safe descent on mountain trails by bicycle?",
@@ -41287,6 +41839,10 @@
         "answer": "Edging"
     },
     {
+        "question": "What term describes a chess endgame where both players have only a king and one piece, such as a knight or bishop?",
+        "answer": "dead draw"
+    },
+    {
         "question": "What term describes a sharp hit on the ball that causes it to suddenly change trajectory?",
         "answer": "Twist"
     },
@@ -41341,6 +41897,10 @@
     {
         "question": "What type of bicycle is used in cyclocross?",
         "answer": "Cyclocross"
+    },
+    {
+        "question": "What type of energy is important in the technique of shot put?",
+        "answer": "Kinetic"
     },
     {
         "question": "What type of equestrian sport includes elements of horseback riding and archery?",
@@ -41407,8 +41967,16 @@
         "answer": "Tubular"
     },
     {
+        "question": "What unique aspect of a biathlete's rifle requires special attention in snowy conditions?",
+        "answer": "barrel cleanliness"
+    },
+    {
         "question": "What unique eligibility requirement is imposed on Paralympians in goalball competitions?",
         "answer": "Vision impairment"
+    },
+    {
+        "question": "What was the Olympic record for hammer throw set in 1988?",
+        "answer": "84.80 m"
     },
     {
         "question": "What was the impact of the political situation on the 1980 Paralympics?",
@@ -41439,8 +42007,16 @@
         "answer": "776 BC"
     },
     {
+        "question": "When should a surfer use the 'roll' technique to overcome a wave?",
+        "answer": "Large waves"
+    },
+    {
         "question": "When was FIDE founded?",
         "answer": "1924"
+    },
+    {
+        "question": "When was the NHL founded?",
+        "answer": "1917"
     },
     {
         "question": "Where and when did rugby originate?",
@@ -41475,6 +42051,10 @@
         "answer": "Aston Martin"
     },
     {
+        "question": "Which Formula 1 team made its debut in 2021?",
+        "answer": "Alpine"
+    },
+    {
         "question": "Which Italian motorcycle manufacturer is the title sponsor of the Mugello Circuit?",
         "answer": "Ducati"
     },
@@ -41501,6 +42081,10 @@
     {
         "question": "Which aspect has the greatest impact on the stability of the barbell?",
         "answer": "Foot positioning"
+    },
+    {
+        "question": "Which aspect of ball spin is considered the most difficult to block?",
+        "answer": "Side spin"
     },
     {
         "question": "Which aspect of biomechanics is most critical for optimizing turning speed in swimming?",
@@ -41535,12 +42119,20 @@
         "answer": "Breath stability"
     },
     {
+        "question": "Which athlete dominated the Biathlon World Cup from 1998 to 2002?",
+        "answer": "Raphaël Poirée"
+    },
+    {
         "question": "Which athlete scores the most points in the decathlon?",
         "answer": "Kevin Mayer"
     },
     {
         "question": "Which athlete was the first to clear the five-meter barrier in pole vaulting?",
         "answer": "Sergey Bubka"
+    },
+    {
+        "question": "Which athlete was the first to complete a 50 km running race in under 3 hours?",
+        "answer": "Kenenisa Bekele"
     },
     {
         "question": "Which athlete was the first to snatch 250 kg?",
@@ -41583,6 +42175,10 @@
         "answer": "Ole Einar Bjørndalen"
     },
     {
+        "question": "Which biathlete used a unique prone shooting technique, combining high speed and accuracy?",
+        "answer": "Simon Eder"
+    },
+    {
         "question": "Which biathlete was the first to win a medal in four different disciplines at a single World Championship?",
         "answer": "Emil Svendsen"
     },
@@ -41611,6 +42207,10 @@
         "answer": "Ford"
     },
     {
+        "question": "Which car manufacturer was the first to implement the ERS system in Formula 1?",
+        "answer": "Toyota"
+    },
+    {
         "question": "Which car manufacturer was the first to use the ABS system in racing?",
         "answer": "Mercedes"
     },
@@ -41623,8 +42223,20 @@
         "answer": "Toyota"
     },
     {
+        "question": "Which car manufacturer won Le Mans in 1998?",
+        "answer": "Porsche"
+    },
+    {
+        "question": "Which characteristic of the track surface is critically important for sprint races?",
+        "answer": "Coefficient of friction"
+    },
+    {
         "question": "Which chess move is possible only once per game?",
         "answer": "Castling"
+    },
+    {
+        "question": "Which chess opening is named after an ancient Persian city?",
+        "answer": "Najdorf"
     },
     {
         "question": "Which chess piece is used to jump over other pieces?",
@@ -41641,6 +42253,10 @@
     {
         "question": "Which chess player was the first to reach an Elo rating of 2800?",
         "answer": "Garry Kasparov"
+    },
+    {
+        "question": "Which chess player was the first to use the system known as the 'Pawn Parallel'?",
+        "answer": "Alexander Alekhine"
     },
     {
         "question": "Which chess principle concerns the rapid mobilization of pieces at the beginning of the game?",
@@ -41707,6 +42323,10 @@
         "answer": "Dressage"
     },
     {
+        "question": "Which component evaluates the complexity of program elements?",
+        "answer": "Technical score"
+    },
+    {
         "question": "Which component of a biathlete's equipment helps stabilize the aim when shooting?",
         "answer": "Rifle sling"
     },
@@ -41747,6 +42367,14 @@
         "answer": "Norway"
     },
     {
+        "question": "Which country organized the first World Amateur Boxing Championship?",
+        "answer": "Cuba"
+    },
+    {
+        "question": "Which country won the first Men's Volleyball World Championship?",
+        "answer": "USSR"
+    },
+    {
         "question": "Which country won the first mixed relay at the Olympic Games?",
         "answer": "Norway"
     },
@@ -41757,6 +42385,10 @@
     {
         "question": "Which criterion evaluates the consistency of movements with music?",
         "answer": "Rhythmicity"
+    },
+    {
+        "question": "Which cycling race is considered the most difficult in the world?",
+        "answer": "Tour de France"
     },
     {
         "question": "Which cycling race is nicknamed 'The Old Lady'?",
@@ -41793,6 +42425,10 @@
     {
         "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
         "answer": "Adam Hansen"
+    },
+    {
+        "question": "Which cyclist was the first to win 8 stages of the Tour de France in a row?",
+        "answer": "Mark Cavendish"
     },
     {
         "question": "Which cyclist was the first to win Liège-Bastogne-Liège after crashing during the race?",
@@ -41843,6 +42479,10 @@
         "answer": "Paolo Bettini"
     },
     {
+        "question": "Which cyclist was the first to win the 'Giro d'Italia' after a long break?",
+        "answer": "Steven Kruijswijk"
+    },
+    {
         "question": "Which cyclist was the first to win the Cyclo-cross World Cup nine times in a row?",
         "answer": "Sven Nys"
     },
@@ -41861,6 +42501,18 @@
     {
         "question": "Which cyclist was the first to win the Vuelta a España in the 21st century?",
         "answer": "Alex Zülle"
+    },
+    {
+        "question": "Which cyclist was the first to win three different Grand Tours in one season?",
+        "answer": "Tony Rominger"
+    },
+    {
+        "question": "Which cyclist was the first to win three gold medals in BMX at the Olympics?",
+        "answer": "Maris Strombergs"
+    },
+    {
+        "question": "Which cyclist won the Cyclo-cross World Championship five times in a row?",
+        "answer": "Sven Nys"
     },
     {
         "question": "Which cyclist won the Liège-Bastogne-Liège race starting last?",
@@ -41915,12 +42567,24 @@
         "answer": "Lewis Hamilton"
     },
     {
+        "question": "Which driver was the first to win a Formula 1 race with a turbocharged engine?",
+        "answer": "Jean-Pierre Jabouille"
+    },
+    {
         "question": "Which driver was the first to win a Grand Prix on all five existing continents?",
         "answer": "Lewis Hamilton"
     },
     {
         "question": "Which driver was the first to win the World Rally Championship in a hybrid car?",
         "answer": "Sébastien Loeb"
+    },
+    {
+        "question": "Which driver won the F1 World Championship in 1981?",
+        "answer": "Nelson Piquet"
+    },
+    {
+        "question": "Which duo became the first in history to win an eighth consecutive doubles title at a Grand Slam tournament?",
+        "answer": "The Bryan Brothers"
     },
     {
         "question": "Which element affects the control of a surfboard?",
@@ -41939,8 +42603,16 @@
         "answer": "Pass"
     },
     {
+        "question": "Which element first protected racers from injuries in helmets?",
+        "answer": "Visor"
+    },
+    {
         "question": "Which element in a sports game requires precise timing?",
         "answer": "Pass"
+    },
+    {
+        "question": "Which element in figure skating requires the maximum rotational speed?",
+        "answer": "Axel jump"
     },
     {
         "question": "Which element in figure skating requires the most coordination?",
@@ -42015,6 +42687,10 @@
         "answer": "Speed"
     },
     {
+        "question": "Which element requires perfect balance on one leg?",
+        "answer": "Pirouette"
+    },
+    {
         "question": "Which equestrian sport element involves performing high-speed maneuvers and jumps?",
         "answer": "Steeplechase"
     },
@@ -42037,6 +42713,14 @@
     {
         "question": "Which famous chess match ended after 48 moves and led to a well-known rivalry?",
         "answer": "Fischer – Spassky"
+    },
+    {
+        "question": "Which famous chess player developed the strategic approach known as the 'Theory of Weak Squares'?",
+        "answer": "Akiba Rubinstein"
+    },
+    {
+        "question": "Which famous chess player used unconventional defensive methods?",
+        "answer": "Aron Nimzowitsch"
     },
     {
         "question": "Which famous chess tournament is held annually in Wijk aan Zee?",
@@ -42073,6 +42757,10 @@
     {
         "question": "Which figure skater was the first to use unusual musical accompaniment, delighting the audience?",
         "answer": "Johnny Weir"
+    },
+    {
+        "question": "Which figure skater was the first to win four consecutive World Championships in men's singles?",
+        "answer": "Kurt Browning"
     },
     {
         "question": "Which figure skating competition requires the highest level of difficulty in the free program?",
@@ -42121,6 +42809,14 @@
     {
         "question": "Which ice arena is most commonly used for hosting major international figure skating competitions?",
         "answer": "Megasport"
+    },
+    {
+        "question": "Which innovations in ski design have had the greatest impact on their stability during descents?",
+        "answer": "Reinforced edges"
+    },
+    {
+        "question": "Which international federation governs weightlifting?",
+        "answer": "IWF"
     },
     {
         "question": "Which international organization is responsible for conducting and regulating figure skating competitions?",
@@ -42187,6 +42883,10 @@
         "answer": "Rossi"
     },
     {
+        "question": "Which motorcycle racer was the first to use asymmetric tires in races?",
+        "answer": "Jorge Lorenzo"
+    },
+    {
         "question": "Which motorcycle was the first to use an ABS system in racing?",
         "answer": "BMW S1000RR"
     },
@@ -42203,6 +42903,10 @@
         "answer": "Deltoid muscles"
     },
     {
+        "question": "Which muscles are most engaged when swimming the butterfly stroke?",
+        "answer": "Deltoid muscles"
+    },
+    {
         "question": "Which organization competes with the UFC?",
         "answer": "Bellator"
     },
@@ -42215,8 +42919,20 @@
         "answer": "Angle of attack"
     },
     {
+        "question": "Which parameter is important for regulating breathing during ascent?",
+        "answer": "Breathing rhythm"
+    },
+    {
         "question": "Which parameter is most critical for optimizing a snatch?",
         "answer": "Lift speed"
+    },
+    {
+        "question": "Which parameter of a racket is most important for topspin?",
+        "answer": "Flexibility of the rubber"
+    },
+    {
+        "question": "Which part of the body is most actively involved when holding a barbell overhead?",
+        "answer": "Shoulders"
     },
     {
         "question": "Which part of the body should be relaxed when swimming freestyle?",
@@ -42243,6 +42959,14 @@
         "answer": "Rubber pad"
     },
     {
+        "question": "Which piece of equipment reduces the risk of back injuries?",
+        "answer": "Belt"
+    },
+    {
+        "question": "Which piece of snowboarder's equipment affects their speed on the slope?",
+        "answer": "Boots"
+    },
+    {
         "question": "Which piece of surfing equipment critically affects a surfer's safety in the water?",
         "answer": "Leash"
     },
@@ -42265,6 +42989,10 @@
     {
         "question": "Which race requires riders to constantly be in high temperature conditions?",
         "answer": "Tour Down Under"
+    },
+    {
+        "question": "Which race was first held in 1913?",
+        "answer": "Giro d'Italia"
     },
     {
         "question": "Which racer is known as the only one to win championships in both motocross and supercross in the same year?",
@@ -42295,8 +43023,20 @@
         "answer": "Autódromo Hermanos Rodríguez"
     },
     {
+        "question": "Which racetrack uses the most advanced safety systems?",
+        "answer": "Losail"
+    },
+    {
         "question": "Which racing track in the USA is nicknamed 'The Blue Oval'?",
         "answer": "Daytona Track"
+    },
+    {
+        "question": "Which racing track is known for its challenging turns and is used in Formula 1?",
+        "answer": "Monaco"
+    },
+    {
+        "question": "Which riding style requires absolute trust between the horse and the rider?",
+        "answer": "Free riding"
     },
     {
         "question": "Which riding style requires minimal contact with the horse?",
@@ -42317,6 +43057,14 @@
     {
         "question": "Which ski track is considered the windiest?",
         "answer": "Oberhof"
+    },
+    {
+        "question": "Which skier set the world record for the number of victories in a single World Cup season?",
+        "answer": "Marit Bjørgen"
+    },
+    {
+        "question": "Which skier was the first to win 15 World Cup stages in one season?",
+        "answer": "Ingemar Stenmark"
     },
     {
         "question": "Which skier was the first to win more than 10 World Cups in a row?",
@@ -42399,6 +43147,10 @@
         "answer": "Goalball"
     },
     {
+        "question": "Which stadium is the largest in the world?",
+        "answer": "Rungrado 1st of May Stadium"
+    },
+    {
         "question": "Which style of surfing involves using a shorter board?",
         "answer": "Shortboarding"
     },
@@ -42423,6 +43175,10 @@
         "answer": "Sustained possession"
     },
     {
+        "question": "Which tactical element in rugby allows controlling the direction and speed of the game?",
+        "answer": "Tempo control"
+    },
+    {
         "question": "Which team did Alex Ferguson coach first?",
         "answer": "East Stirlingshire"
     },
@@ -42433,6 +43189,10 @@
     {
         "question": "Which team won the 2012 Olympic volleyball tournament?",
         "answer": "Russia"
+    },
+    {
+        "question": "Which technique allows controlling the ball over a short distance?",
+        "answer": "Chop-block"
     },
     {
         "question": "Which technique allows players to better control long shots?",
@@ -42465,6 +43225,10 @@
     {
         "question": "Which tennis event is known for the introduction of instant replay?",
         "answer": "Hawk-Eye"
+    },
+    {
+        "question": "Which tennis organization manages the Fed Cup?",
+        "answer": "ITF"
     },
     {
         "question": "Which tennis player finished the season with the highest winning percentage in Grand Slam tournaments?",
@@ -42527,12 +43291,20 @@
         "answer": "US Open"
     },
     {
+        "question": "Which tournament is known as the 'fifth major'?",
+        "answer": "Indian Wells"
+    },
+    {
         "question": "Which track has the longest section for drifting?",
         "answer": "Fuji"
     },
     {
         "question": "Which track in MotoGP is known for having the greatest elevation change?",
         "answer": "Portimão"
+    },
+    {
+        "question": "Which track in motorsport is known for its sharp elevation changes and challenging conditions?",
+        "answer": "Laguna Seca"
     },
     {
         "question": "Which track in the Formula 1 calendar is known for having the highest altitude above sea level?",
@@ -42555,12 +43327,24 @@
         "answer": "Fartlek"
     },
     {
+        "question": "Which training element helps improve hurdle running technique?",
+        "answer": "Repetitions"
+    },
+    {
         "question": "Which training element improves runners' recovery ability?",
         "answer": "Intervals"
     },
     {
         "question": "Which training method improves explosive strength in weightlifting?",
         "answer": "Plyometrics"
+    },
+    {
+        "question": "Which training method improves sprint speed?",
+        "answer": "Plyometrics"
+    },
+    {
+        "question": "Which type of equestrian sport appeared before all the others?",
+        "answer": "Horse racing"
     },
     {
         "question": "Which type of equestrian sport requires performing complex exercises at high speeds?",
@@ -42597,6 +43381,10 @@
     {
         "question": "Who became the world boxing champion in six different weight classes?",
         "answer": "Manny Pacquiao"
+    },
+    {
+        "question": "Who did Vasyl Lomachenko fight in 2016 for the world championship title?",
+        "answer": "Roman Martinez"
     },
     {
         "question": "Who has held the world record in the 800 meters since 2012?",
@@ -42687,6 +43475,10 @@
         "answer": "Francisco Varcarcel"
     },
     {
+        "question": "Who is the most decorated player in volleyball history?",
+        "answer": "Giba"
+    },
+    {
         "question": "Who is the top scorer in World Cup history?",
         "answer": "Miroslav Klose"
     },
@@ -42699,8 +43491,16 @@
         "answer": "Zinedine Zidane"
     },
     {
+        "question": "Who scored the winning goal in the 1972 Summit Series?",
+        "answer": "Paul Henderson"
+    },
+    {
         "question": "Who set the world record in the 3000 meters steeplechase in 2004?",
         "answer": "Saif Saaeed Shaheen"
+    },
+    {
+        "question": "Who was the captain of the England national team in 2006?",
+        "answer": "David Beckham"
     },
     {
         "question": "Who was the coach of Vitali and Wladimir Klitschko?",
@@ -42713,6 +43513,10 @@
     {
         "question": "Who was the first WBC world boxing champion?",
         "answer": "Sonny Liston"
+    },
+    {
+        "question": "Who was the first athlete to win the Olympic Games in three different sports?",
+        "answer": "Eddie Ignatius"
     },
     {
         "question": "Who was the first biathlete to win three consecutive races at the World Championships?",
@@ -42747,6 +43551,14 @@
         "answer": "Andre Agassi"
     },
     {
+        "question": "Who was the first to complete a 100 km road race in less than two hours?",
+        "answer": "Harry Stevens"
+    },
+    {
+        "question": "Who was the first to finish in the stage with rain and snow?",
+        "answer": "Fausto Coppi"
+    },
+    {
         "question": "Who was the first to jump over 2 meters in height?",
         "answer": "Michael Swinton"
     },
@@ -42767,8 +43579,16 @@
         "answer": "Hansford"
     },
     {
+        "question": "Who was the first to reach 100 goals in La Liga?",
+        "answer": "Telmo Zarra"
+    },
+    {
         "question": "Who was the first to run 10,000 meters in under 27 minutes?",
         "answer": "Haile Gebrselassie"
+    },
+    {
+        "question": "Who was the first to run 100 meters in under 9.6 seconds?",
+        "answer": "Usain Bolt"
     },
     {
         "question": "Who was the first to run 400 meters in under 44 seconds?",
@@ -42801,6 +43621,10 @@
     {
         "question": "Who was the first to swim 1500 meters in under 15 minutes?",
         "answer": "Grant Hackett"
+    },
+    {
+        "question": "Who was the first to swim 200 meters freestyle in under 1:40?",
+        "answer": "Paul Biedermann"
     },
     {
         "question": "Who was the first to use aerodynamic control elements in motorsport?",
@@ -42865,6 +43689,10 @@
     {
         "question": "Who won Euro 1996?",
         "answer": "Germany"
+    },
+    {
+        "question": "Who won the 1985 UCI Road World Championships?",
+        "answer": "Bernard Hinault"
     },
     {
         "question": "Who won the Ballon d'Or in 2003?",

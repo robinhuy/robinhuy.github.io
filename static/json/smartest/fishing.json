@@ -1,5 +1,9 @@
 [
   {
+    "question": "At what depth is spearfishing usually conducted?",
+    "answer": "Up to 30 m"
+  },
+  {
     "question": "For what type of fishing is fly fishing used?",
     "answer": "Trout fishing"
   },
@@ -180,6 +184,10 @@
     "answer": "Large boilies"
   },
   {
+    "question": "What can be determined using a chartplotter?",
+    "answer": "Position on the water"
+  },
+  {
     "question": "What can be used for sitting on ice?",
     "answer": "Fishing box"
   },
@@ -190,6 +198,10 @@
   {
     "question": "What can be used to scent baits?",
     "answer": "Essential oils"
+  },
+  {
+    "question": "What characteristic affects the casting distance of a fishing rod?",
+    "answer": "Stiffness"
   },
   {
     "question": "What color bait do fishermen most often choose?",
@@ -206,6 +218,10 @@
   {
     "question": "What dangerous sea creature might a spearfisher encounter?",
     "answer": "Shark"
+  },
+  {
+    "question": "What defines the rules of competitions?",
+    "answer": "Regulations"
   },
   {
     "question": "What depth does the burbot prefer?",
@@ -292,6 +308,10 @@
     "answer": "Wind and shade"
   },
   {
+    "question": "What factors should be considered when choosing a fly fishing lure?",
+    "answer": "Season"
+  },
+  {
     "question": "What feature of the fishing line affects the casting distance?",
     "answer": "weight"
   },
@@ -360,6 +380,10 @@
     "answer": "Spawning"
   },
   {
+    "question": "What fishing term refers to dragging the lure along the bottom?",
+    "answer": "Jigging"
+  },
+  {
     "question": "What fly casting technique is considered basic?",
     "answer": "Loop cast"
   },
@@ -378,6 +402,10 @@
   {
     "question": "What helps keep fishermen on slippery ice?",
     "answer": "Anti-slip pads"
+  },
+  {
+    "question": "What helps to avoid barotrauma?",
+    "answer": "Slow descent"
   },
   {
     "question": "What helps to increase casting distance?",
@@ -454,6 +482,10 @@
   {
     "question": "What is important to consider when choosing a fly fishing spot?",
     "answer": "Water depth"
+  },
+  {
+    "question": "What is important to consider when choosing a spot for fly fishing?",
+    "answer": "Water quality"
   },
   {
     "question": "What is necessary for the safety of fishermen on ice?",
@@ -556,6 +588,10 @@
     "answer": "Backcast"
   },
   {
+    "question": "What is the name of the device that detects weak electric discharges from fish?",
+    "answer": "Electro-nose"
+  },
+  {
     "question": "What is the name of the fishing rod used for long-distance casting?",
     "answer": "Spod rod"
   },
@@ -584,8 +620,16 @@
     "answer": "Bottom fishing rig"
   },
   {
+    "question": "What is the name of the underwater diving system without tanks?",
+    "answer": "Freediving"
+  },
+  {
     "question": "What is the penalty for poaching?",
     "answer": "Fine"
+  },
+  {
+    "question": "What is the process of drying fish in the air called?",
+    "answer": "Airing"
   },
   {
     "question": "What is the purpose of a fishing map?",
@@ -658,6 +702,10 @@
   {
     "question": "What movement helps control the lure when casting?",
     "answer": "Smooth tension"
+  },
+  {
+    "question": "What movement is made during jigging?",
+    "answer": "Lure hopping"
   },
   {
     "question": "What negatively affects water bodies?",
@@ -972,8 +1020,16 @@
     "answer": "After getting permission from the inspector"
   },
   {
+    "question": "When is it best to loosen the drag on a reel?",
+    "answer": "During jerks"
+  },
+  {
     "question": "When is twitching used?",
     "answer": "Predator fishing"
+  },
+  {
+    "question": "When should you release the fishing line when casting?",
+    "answer": "on the upswing"
   },
   {
     "question": "Where do people fish in winter?",
@@ -986,6 +1042,10 @@
   {
     "question": "Where were artificial lures first used?",
     "answer": "China"
+  },
+  {
+    "question": "Which bases are specially equipped for winter fishing?",
+    "answer": "Special"
   },
   {
     "question": "Which boots are best for ice fishing?",
@@ -1100,6 +1160,10 @@
     "answer": "Dragonfish"
   },
   {
+    "question": "Which fish is capable of changing its gender?",
+    "answer": "Clownfish"
+  },
+  {
     "question": "Which fish is capable of creating sound waves?",
     "answer": "Drumfish"
   },
@@ -1130,6 +1194,14 @@
   {
     "question": "Which fish is known for its ability to change the lateral plates on its body?",
     "answer": "Littoral fish"
+  },
+  {
+    "question": "Which fish is known for its ability to dive deep?",
+    "answer": "Lamprey"
+  },
+  {
+    "question": "Which fish is known for its ability to mimic other marine creatures?",
+    "answer": "Mimic fish"
   },
   {
     "question": "Which fish is known for its large size?",
@@ -1192,6 +1264,14 @@
     "answer": "Tilapia"
   },
   {
+    "question": "Which fish lives only at depths greater than 2000 meters?",
+    "answer": "Viperfish"
+  },
+  {
+    "question": "Which fish most often looks like a seahorse?",
+    "answer": "Leafy sea dragon"
+  },
+  {
     "question": "Which fish need protection?",
     "answer": "Rare species"
   },
@@ -1240,6 +1320,10 @@
     "answer": "Nymphing"
   },
   {
+    "question": "Which knot has proven its reliability for tying a load to a fishing line?",
+    "answer": "Five-turn knot"
+  },
+  {
     "question": "Which knot holds well under tension?",
     "answer": "Bramshkotovy knot"
   },
@@ -1250,6 +1334,10 @@
   {
     "question": "Which knot is best suited for wet line?",
     "answer": "Albright"
+  },
+  {
+    "question": "Which knot is best used for fishing from the shore?",
+    "answer": "Grinner"
   },
   {
     "question": "Which knot is considered stronger?",
@@ -1328,6 +1416,10 @@
     "answer": "Strong knot"
   },
   {
+    "question": "Which knot provides high strength for a connection?",
+    "answer": "Palomar"
+  },
+  {
     "question": "Which knot should be used for monofilament fishing line?",
     "answer": "Blood Knot"
   },
@@ -1350,6 +1442,10 @@
   {
     "question": "Which part of the fish is used to make fish stock?",
     "answer": "Bones"
+  },
+  {
+    "question": "Which part of the fishing reel helps prevent line tangling?",
+    "answer": "Line guide"
   },
   {
     "question": "Which part of the river is best suited for fly fishing?",
