@@ -968,6 +968,10 @@
     "answer": "GALEX"
   },
   {
+    "question": "What is the name of the unique transaction identifier?",
+    "answer": "TxID"
+  },
+  {
     "question": "What is the newest data transmission format in mobile networks?",
     "answer": "5G"
   },
@@ -1700,6 +1704,10 @@
     "answer": "India"
   },
   {
+    "question": "Which agricultural crop is often modified for pest resistance?",
+    "answer": "Soybeans"
+  },
+  {
     "question": "Which algorithm is often used for big data analysis?",
     "answer": "RGBoost"
   },
@@ -2024,6 +2032,10 @@
     "answer": "ARM"
   },
   {
+    "question": "Which programming language is often used in computational tasks and modeling?",
+    "answer": "MATLAB"
+  },
+  {
     "question": "Which protein is used for binding DNA?",
     "answer": "Histone"
   },
@@ -2190,6 +2202,10 @@
   {
     "question": "Who can validate transactions in a public blockchain?",
     "answer": "Anyone"
+  },
+  {
+    "question": "Who cloned the sheep Dolly?",
+    "answer": "Ian Wilmut"
   },
   {
     "question": "Who coined the term 'robotics'?",

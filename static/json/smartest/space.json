@@ -404,6 +404,10 @@
     "answer": "Malfunction"
   },
   {
+    "question": "What are the main differences in the composition of gas clouds of varying densities in the Milky Way?",
+    "answer": "Metallicity"
+  },
+  {
     "question": "What are the main mechanisms of galaxy cluster formation?",
     "answer": "Gravitational attraction"
   },
@@ -418,6 +422,10 @@
   {
     "question": "What astronomical instruments are used to study gravitational anomalies?",
     "answer": "Radio telescopes"
+  },
+  {
+    "question": "What caused the uneven distribution of matter after the Big Bang?",
+    "answer": "Quantum fluctuations"
   },
   {
     "question": "What challenges arise in studying the nature of dark matter?",
@@ -840,6 +848,10 @@
     "answer": "Radiation protection"
   },
   {
+    "question": "What factors slow down the rotation of galaxies?",
+    "answer": "Dark matter"
+  },
+  {
     "question": "What features of exoplanet orbits can indicate their formation under different conditions?",
     "answer": "Resonant orbits"
   },
@@ -849,6 +861,10 @@
   },
   {
     "question": "What forces influence the distribution of mass in cosmological models?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What forces played a key role in forming structures from the initial plasma?",
     "answer": "Gravity"
   },
   {
@@ -1168,6 +1184,10 @@
     "answer": "Particle acceleration"
   },
   {
+    "question": "What is the role of star associations in the formation of galactic structures?",
+    "answer": "Formation of star clusters"
+  },
+  {
     "question": "What is the role of stardust in the formation of galactic structures?",
     "answer": "Foundation for planets"
   },
@@ -1202,6 +1222,10 @@
   {
     "question": "What is the role of tidal forces in the evolution of galactic structures?",
     "answer": "Stretching of stars"
+  },
+  {
+    "question": "What is the role of turbulence in molecular clouds in the formation of star systems?",
+    "answer": "Creating inhomogeneities"
   },
   {
     "question": "What is the role of turbulence in molecular clouds?",
@@ -1390,6 +1414,10 @@
   {
     "question": "What method was used to analyze the lunar soil in the 'Chang'e-4' mission?",
     "answer": "Spectroscopy"
+  },
+  {
+    "question": "What method was used to measure the heat flow from the lunar crust?",
+    "answer": "Drilling"
   },
   {
     "question": "What methodology is used to analyze the Martian atmosphere for its evolution?",
@@ -1788,6 +1816,10 @@
     "answer": "Metallic segregation"
   },
   {
+    "question": "What process can lead to the formation of relativistic jets from active galactic nuclei?",
+    "answer": "Accretion of matter"
+  },
+  {
     "question": "What process contributes to the formation of massive galaxies?",
     "answer": "Galaxy merger"
   },
@@ -2002,6 +2034,10 @@
   {
     "question": "What role do cosmic rays play in cloud formation?",
     "answer": "Participate"
+  },
+  {
+    "question": "What role do gravitational anomalies play in the evolution of the Universe?",
+    "answer": "Formation of structures"
   },
   {
     "question": "What role do magnetic fields play in protecting exoplanet atmospheres from stellar wind?",
@@ -2356,6 +2392,10 @@
     "answer": "James Clerk Maxwell"
   },
   {
+    "question": "Which astronomer first hypothesized the existence of planets outside the Solar System?",
+    "answer": "Gerasimovich"
+  },
+  {
     "question": "Which astronomer first identified a star that periodically changes its brightness?",
     "answer": "Goodricke"
   },
@@ -2378,6 +2418,10 @@
   {
     "question": "Which astronomer first proposed using the radial velocity method to detect exoplanets?",
     "answer": "Otto Struve"
+  },
+  {
+    "question": "Which astronomer first suggested that pulsars could be neutron stars?",
+    "answer": "Thomas Gold"
   },
   {
     "question": "Which astronomer played a key role in the development of radar methods in astronomy?",
@@ -2780,6 +2824,10 @@
     "answer": "Project Eagle"
   },
   {
+    "question": "Which project was the first to use a gravity assist maneuver to reach the outer planets?",
+    "answer": "Pioneer 10"
+  },
+  {
     "question": "Which project was the first to use a gravity assist maneuver?",
     "answer": "Mariner 10"
   },
@@ -2858,6 +2906,10 @@
   {
     "question": "Which spacecraft first studied the magnetic field of Titan?",
     "answer": "Huygens"
+  },
+  {
+    "question": "Which spacecraft first used infrared spectroscopy to study the surface of Mars?",
+    "answer": "Mars Odyssey"
   },
   {
     "question": "Which spacecraft first used the Moon's gravity assist to enter an interplanetary trajectory?",
@@ -3134,6 +3186,10 @@
   {
     "question": "Who proposed the grand unification theory explaining the interaction of fundamental forces?",
     "answer": "Abdus Salam"
+  },
+  {
+    "question": "Who proposed the use of photometry in astronomy in the 19th century?",
+    "answer": "Armand Fizeau"
   },
   {
     "question": "Who took the first image of a black hole?",
