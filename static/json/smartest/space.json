@@ -176,6 +176,10 @@
     "answer": "Does not change"
   },
   {
+    "question": "How does hypothetical mass affect the trajectories of galaxies?",
+    "answer": "Alters the curves"
+  },
+  {
     "question": "How does interaction between the magnetospheres of planets occur?",
     "answer": "Complex processes"
   },
@@ -460,6 +464,10 @@
     "answer": "High temperature"
   },
   {
+    "question": "What conditions are most favorable for the formation of massive stars in galaxies?",
+    "answer": "High gas density"
+  },
+  {
     "question": "What conditions are necessary for gravitational compression to occur in the cores of exoplanets?",
     "answer": "High mass"
   },
@@ -572,6 +580,10 @@
     "answer": "Water"
   },
   {
+    "question": "What discovery was made through the analysis of the microwave background?",
+    "answer": "Cosmic relic radiation"
+  },
+  {
     "question": "What does multispectral analysis of the Milky Way's structure include?",
     "answer": "Data from different wavelengths"
   },
@@ -606,6 +618,10 @@
   {
     "question": "What effect do black holes have on the movement of star clusters?",
     "answer": "Change in orbits"
+  },
+  {
+    "question": "What effect do cosmic rays have on Earth's atmosphere?",
+    "answer": "Ionization"
   },
   {
     "question": "What effect do cosmic rays have on Earth's climate?",
@@ -672,6 +688,10 @@
     "answer": "Cosmological shift"
   },
   {
+    "question": "What effect does the interstellar medium have on the propagation of light waves in space?",
+    "answer": "Dispersion"
+  },
+  {
     "question": "What effect does the magnetic field have on star formation in the Milky Way?",
     "answer": "Slows down collapse"
   },
@@ -736,6 +756,10 @@
     "answer": "Aerographite"
   },
   {
+    "question": "What experiment was first conducted on the ISS in 2001?",
+    "answer": "Plant embryos"
+  },
+  {
     "question": "What experimental data supports the initial conditions of the Universe?",
     "answer": "Cosmic radiation"
   },
@@ -746,6 +770,10 @@
   {
     "question": "What factor causes the movement of matter in galactic arms?",
     "answer": "Gravitational waves"
+  },
+  {
+    "question": "What factor determines the change in the early temperature regime?",
+    "answer": "Radiative cooling"
   },
   {
     "question": "What factor determines the density of clouds on ice giants?",
@@ -834,6 +862,10 @@
   {
     "question": "What factors lead to complex orbital dynamics in the ring systems of giant planets?",
     "answer": "Orbital resonances"
+  },
+  {
+    "question": "What factors most influence the orbital resonance of satellites?",
+    "answer": "Gravitational forces"
   },
   {
     "question": "What factors need to be considered when designing telescopes for deep space?",
@@ -1064,6 +1096,10 @@
     "answer": "Vortex flows"
   },
   {
+    "question": "What is the orbital speed of the Sun relative to the center of the Milky Way?",
+    "answer": "220 km/s"
+  },
+  {
     "question": "What is the origin of intergalactic gas?",
     "answer": "Galaxy mergers"
   },
@@ -1190,6 +1226,10 @@
   {
     "question": "What is the role of stardust in the formation of galactic structures?",
     "answer": "Foundation for planets"
+  },
+  {
+    "question": "What is the role of stellar flares in interstellar space?",
+    "answer": "Disturbance of gases"
   },
   {
     "question": "What is the role of stellar winds in the formation of galaxies?",
@@ -1812,6 +1852,10 @@
     "answer": "Deceleration braking"
   },
   {
+    "question": "What process can lead to significant changes in the orbital configuration of an exoplanetary system?",
+    "answer": "Planetary migration"
+  },
+  {
     "question": "What process can lead to the formation of iron-nickel meteorites during cooling and crystallization in the interiors of large asteroids?",
     "answer": "Metallic segregation"
   },
@@ -1860,6 +1904,10 @@
     "answer": "Gravitational amplification"
   },
   {
+    "question": "What process leads to the formation of relativistic jets from the core of a galaxy?",
+    "answer": "Accretion onto a black hole"
+  },
+  {
     "question": "What process leads to the formation of spiral arms in galaxies?",
     "answer": "Density waves"
   },
@@ -1882,6 +1930,10 @@
   {
     "question": "What processes are responsible for the formation of bars in spiral galaxies?",
     "answer": "Gravitational instability"
+  },
+  {
+    "question": "What processes are responsible for the formation of geological structures on icy moons?",
+    "answer": "Cryovolcanism"
   },
   {
     "question": "What processes can affect the stability of asteroid orbits?",
@@ -1988,6 +2040,10 @@
     "answer": "Gravitational interaction"
   },
   {
+    "question": "What processes lead to increased turbulence in molecular clouds?",
+    "answer": "Shock waves"
+  },
+  {
     "question": "What processes lead to the formation of galactic nuclei?",
     "answer": "Accretion of matter"
   },
@@ -2014,6 +2070,10 @@
   {
     "question": "What property of dark energy causes the Universe to expand?",
     "answer": "Negative pressure"
+  },
+  {
+    "question": "What quantum phenomenon can disrupt the energy of a black hole?",
+    "answer": "Quantum fluctuations"
   },
   {
     "question": "What quantum state preceded the moment of singularity?",
@@ -2148,6 +2208,10 @@
     "answer": "Heat pipes"
   },
   {
+    "question": "What systems are used to control the thermal regime of satellites on Venus?",
+    "answer": "Thermoregulators"
+  },
+  {
     "question": "What technique do telescopes use to adjust orbital parameters?",
     "answer": "Gyroscopes"
   },
@@ -2268,6 +2332,10 @@
     "answer": "Heavy metals"
   },
   {
+    "question": "What type of solar panels is used for maximum efficiency in space?",
+    "answer": "Multi-azimuth panels"
+  },
+  {
     "question": "What type of stars form the spiral arms of the Milky Way?",
     "answer": "Young stars"
   },
@@ -2306,6 +2374,10 @@
   {
     "question": "Which Mars mission was the first to discover signs of ancient hydrothermal activity?",
     "answer": "Perseverance"
+  },
+  {
+    "question": "Which Martian mission was the first to successfully perform radar mapping of the surface?",
+    "answer": "Mars Express"
   },
   {
     "question": "Which Soviet cosmonaut completed the first long-duration flight on 'Salyut 7'?",
@@ -2452,6 +2524,10 @@
     "answer": "Maarten Schmidt"
   },
   {
+    "question": "Which astronomer was the first to propose that comets move in parabolic orbits?",
+    "answer": "Isaac Newton"
+  },
+  {
     "question": "Which astronomer was the first to propose using X-rays to observe cosmic objects?",
     "answer": "Riccardo Giacconi"
   },
@@ -2482,6 +2558,10 @@
   {
     "question": "Which constellation is associated with a mythical lion but is not a zodiac sign?",
     "answer": "Leo Minor"
+  },
+  {
+    "question": "Which constellation is associated with a mythological hero who performed a feat related to killing a serpent, but not the Hydra?",
+    "answer": "Hercules"
   },
   {
     "question": "Which constellation is associated with the legend featuring a character named Icarus?",
@@ -2644,6 +2724,10 @@
     "answer": "Apollo 15"
   },
   {
+    "question": "Which mission was the first to conduct radar research of the Moon's polar caps?",
+    "answer": "Mini-RF"
+  },
+  {
     "question": "Which mission was the first to detect signs of volcanic activity on Io?",
     "answer": "Voyager 1"
   },
@@ -2722,6 +2806,10 @@
   {
     "question": "Which module was the last to be added to the 'Mir' space station?",
     "answer": "Priboy"
+  },
+  {
+    "question": "Which molecule plays a key role in hypotheses about methanogenic life?",
+    "answer": "Methane"
   },
   {
     "question": "Which moon of Neptune has the largest orbital eccentricity?",
@@ -2868,6 +2956,10 @@
     "answer": "Karl Jansky"
   },
   {
+    "question": "Which soil analysis method is preferred for investigating the potential presence of hydrogen on the Moon?",
+    "answer": "Neutron spectroscopy"
+  },
+  {
     "question": "Which space event was the first to use a radioisotope power source on a spacecraft?",
     "answer": "Pioneer Mission"
   },
@@ -2948,6 +3040,10 @@
     "answer": "Voyager 2"
   },
   {
+    "question": "Which spacecraft was the first to discover geysers on a moon of Jupiter?",
+    "answer": "Galileo"
+  },
+  {
     "question": "Which spacecraft was the first to measure the length of a day on Mercury using laser altimetry?",
     "answer": "MESSENGER"
   },
@@ -3020,6 +3116,10 @@
     "answer": "Mars Reconnaissance Orbiter"
   },
   {
+    "question": "Which spacecraft was the first to transmit data from an asteroid?",
+    "answer": "NEAR Shoemaker"
+  },
+  {
     "question": "Which spacecraft was the first to transmit high-resolution images of Jupiter using a gravity assist maneuver?",
     "answer": "Galileo"
   },
@@ -3032,6 +3132,10 @@
     "answer": "Dawn"
   },
   {
+    "question": "Which spacecraft was the first to use infrared spectroscopy to analyze the atmospheres of distant planets?",
+    "answer": "Voyager 1"
+  },
+  {
     "question": "Which spacecraft was the first to use laser altimetry for topographic studies of Mars?",
     "answer": "MGS"
   },
@@ -3042,6 +3146,10 @@
   {
     "question": "Which spacecraft was the first to use microwave sounding to analyze the climate of Uranus?",
     "answer": "Voyager 2"
+  },
+  {
+    "question": "Which spacecraft was the first to use microwave sounding to study Jupiter's atmosphere?",
+    "answer": "Juno"
   },
   {
     "question": "Which spacecraft was the first to use radar sounding to study the atmospheres of planets?",
@@ -3136,6 +3244,10 @@
     "answer": "Quantum cosmology"
   },
   {
+    "question": "Which theoretical concepts suggest the existence of additional dimensions?",
+    "answer": "String theory"
+  },
+  {
     "question": "Which theoretical models consider the properties of dark matter?",
     "answer": "Standard Model"
   },
@@ -3146,6 +3258,10 @@
   {
     "question": "Which theory considers dark energy as the fifth fundamental interaction?",
     "answer": "quintessence"
+  },
+  {
+    "question": "Which theory describes the interaction of dark matter with ordinary particles?",
+    "answer": "Supersymmetry"
   },
   {
     "question": "Which theory explains the existence of a triple system among asteroids?",
