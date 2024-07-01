@@ -308,6 +308,10 @@
     "answer": "Lagotto"
   },
   {
+    "question": "What breed of dog is used in difficult conditions?",
+    "answer": "Laika"
+  },
+  {
     "question": "What bullet weight is optimal for hunting foxes?",
     "answer": "40 grains"
   },
@@ -444,12 +448,20 @@
     "answer": "Aperture"
   },
   {
+    "question": "What factor is important to consider when hunting?",
+    "answer": "Ethical"
+  },
+  {
     "question": "What factor is important when choosing a place to stay overnight?",
     "answer": "Hazel grouse"
   },
   {
     "question": "What factor reduces the effectiveness of a trap?",
     "answer": "Noise"
+  },
+  {
+    "question": "What factors are important when choosing a location for small game hunting?",
+    "answer": "Terrain"
   },
   {
     "question": "What feature do humane traps have?",
@@ -490,6 +502,10 @@
   {
     "question": "What function is important for a trail camera?",
     "answer": "Motion detector"
+  },
+  {
+    "question": "What helps a camera remain unnoticed?",
+    "answer": "Camouflage"
   },
   {
     "question": "What helps cameras transmit data over long distances?",
@@ -688,6 +704,10 @@
     "answer": "Compass or map"
   },
   {
+    "question": "What is the coat color of an Irish Setter?",
+    "answer": "red"
+  },
+  {
     "question": "What is the correct term for protected natural areas?",
     "answer": "PNA"
   },
@@ -734,6 +754,10 @@
   {
     "question": "What is the maximum speed a duck can fly?",
     "answer": "Up to 80 km/h"
+  },
+  {
+    "question": "What is the minimum number of people required to participate in a moose hunt?",
+    "answer": "Two"
   },
   {
     "question": "What is the most common violation in nature reserves?",
@@ -904,6 +928,10 @@
     "answer": "Weight"
   },
   {
+    "question": "What is used to make climbing a tree easier?",
+    "answer": "Climbing spikes"
+  },
+  {
     "question": "What item helps determine direction?",
     "answer": "Compass"
   },
@@ -926,6 +954,10 @@
   {
     "question": "What large deer inhabits North America?",
     "answer": "Elk"
+  },
+  {
+    "question": "What large mammal lives in the tropical forests of Africa?",
+    "answer": "Gorilla"
   },
   {
     "question": "What lures are used for deer hunting?",
@@ -1052,8 +1084,16 @@
     "answer": "Everything unnecessary is prohibited"
   },
   {
+    "question": "What sensors are used in camera traps?",
+    "answer": "Infrared"
+  },
+  {
     "question": "What shooting distance is best suited for covert surveillance?",
     "answer": "Long"
+  },
+  {
+    "question": "What shooting technique is preferred when hunting big game?",
+    "answer": "With a rifle"
   },
   {
     "question": "What should be considered when choosing a location for camera installation?",
@@ -1138,6 +1178,10 @@
   {
     "question": "What tool is important for bird hunting?",
     "answer": "Gun"
+  },
+  {
+    "question": "What tool is important for processing bones?",
+    "answer": "Saw"
   },
   {
     "question": "What tool is needed for cleaning a caught fish?",
@@ -1268,6 +1312,10 @@
     "answer": "Hunting with birds of prey"
   },
   {
+    "question": "What type of meat is suitable for stewing?",
+    "answer": "Brisket"
+  },
+  {
     "question": "What type of sensor is often used in surveillance cameras?",
     "answer": "Passive infrared"
   },
@@ -1336,6 +1384,10 @@
     "answer": "Temperature"
   },
   {
+    "question": "What was the traditional hunting ritual called among the non-noble classes in Medieval Europe?",
+    "answer": "poaching"
+  },
+  {
     "question": "What weapon is best used for hunting big game?",
     "answer": "Crossbow"
   },
@@ -1384,6 +1436,10 @@
     "answer": "Venatio"
   },
   {
+    "question": "What were the organized hunts of the nobility in Europe called?",
+    "answer": "falconry"
+  },
+  {
     "question": "When are geese most active?",
     "answer": "in spring"
   },
@@ -1406,6 +1462,10 @@
   {
     "question": "When is boar hunting most effective?",
     "answer": "In the fall"
+  },
+  {
+    "question": "When should water be purified?",
+    "answer": "Always"
   },
   {
     "question": "Where are rare birds most commonly hunted?",
@@ -1490,6 +1550,10 @@
   {
     "question": "Which bait element can increase the success of catching a mink?",
     "answer": "Fish"
+  },
+  {
+    "question": "Which bird builds nests on the ground?",
+    "answer": "Lark"
   },
   {
     "question": "Which bird is called the 'Royal'?",
@@ -1600,6 +1664,10 @@
     "answer": "Germany"
   },
   {
+    "question": "Which country was the first to introduce game protection?",
+    "answer": "England"
+  },
+  {
     "question": "Which dog breed can work in cold conditions?",
     "answer": "Alaskan Malamute"
   },
@@ -1610,6 +1678,10 @@
   {
     "question": "Which dog breed has roots in Egypt?",
     "answer": "Pharaoh Hound"
+  },
+  {
+    "question": "Which dog breed is best suited for hunting small game?",
+    "answer": "Pointer"
   },
   {
     "question": "Which dog breed is distinguished by its wrinkled skin?",
@@ -1670,6 +1742,10 @@
   {
     "question": "Which duck is known for its speed?",
     "answer": "Wigeon"
+  },
+  {
+    "question": "Which duck is most known for its paired call?",
+    "answer": "Northern Pintail"
   },
   {
     "question": "Which duck prefers salty water?",
@@ -1882,6 +1958,10 @@
   {
     "question": "Which types of birds also hunt together with waterfowl?",
     "answer": "Rook"
+  },
+  {
+    "question": "Which waterfowl have long beaks?",
+    "answer": "Sandpipers"
   },
   {
     "question": "Who has the right to hunt in the grounds?",

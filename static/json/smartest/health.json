@@ -20,6 +20,10 @@
     "answer": "Regulate"
   },
   {
+    "question": "How do intense physical exercises affect cortisol levels in the blood?",
+    "answer": "Increase"
+  },
+  {
     "question": "How do peptides contribute to skin rejuvenation?",
     "answer": "Stimulation of tissue reconstruction"
   },
@@ -372,6 +376,10 @@
     "answer": "Improvement of memory"
   },
   {
+    "question": "What effect does chronic sleep deprivation have on metabolism?",
+    "answer": "Increased insulin resistance"
+  },
+  {
     "question": "What effect does chronic stress have on DNA telomeres?",
     "answer": "Shortening"
   },
@@ -462,6 +470,10 @@
   {
     "question": "What factors influence the development of phobias?",
     "answer": "Genetics"
+  },
+  {
+    "question": "What family history factors increase the likelihood of developing autoimmune diseases?",
+    "answer": "Genetic mutations"
   },
   {
     "question": "What features of skin structure determine its type?",
@@ -782,6 +794,10 @@
   {
     "question": "What is the role of antioxidants in the prevention of cardiovascular diseases?",
     "answer": "Protection of blood vessels"
+  },
+  {
+    "question": "What is the role of collagen in cardiac tissue?",
+    "answer": "Mechanical support"
   },
   {
     "question": "What is the role of genetics in the development of cardiovascular diseases?",
@@ -1216,6 +1232,10 @@
     "answer": "Catecholamines"
   },
   {
+    "question": "Which biologically active substances regulate the heart's function?",
+    "answer": "Neuropeptides"
+  },
+  {
     "question": "Which brain structures are associated with recognizing and responding to threats that trigger a stress response?",
     "answer": "Amygdala"
   },
@@ -1244,12 +1264,20 @@
     "answer": "Osteoblasts"
   },
   {
+    "question": "Which cells are the main regulators of the adaptive immune response?",
+    "answer": "T-lymphocytes"
+  },
+  {
     "question": "Which cells contribute to atherosclerosis?",
     "answer": "Foam cells"
   },
   {
     "question": "Which cells express MHC class II?",
     "answer": "Dendritic cells"
+  },
+  {
+    "question": "Which cells maintain the homeostasis of bone tissue?",
+    "answer": "osteocytes"
   },
   {
     "question": "Which cells of the pulmonary alveoli provide the respiratory function?",
@@ -1648,6 +1676,10 @@
     "answer": "Pancreas"
   },
   {
+    "question": "Which parameter is important for preventing the degradation of collagen fibers in joints?",
+    "answer": "Hydration"
+  },
+  {
     "question": "Which part of the brain inhibits stress-threshold reflexes during anxiety?",
     "answer": "Prefrontal cortex"
   },
@@ -1758,6 +1790,10 @@
   {
     "question": "Which structure of the immune system is responsible for recognizing HLA on foreign cells?",
     "answer": "MHC Class I"
+  },
+  {
+    "question": "Which structure of the lymph node is located near the sinus?",
+    "answer": "Capsule"
   },
   {
     "question": "Which structures on the cell surface are involved in immune responses?",
@@ -1948,6 +1984,10 @@
     "answer": "B6"
   },
   {
+    "question": "Which vitamin is involved in the regeneration of glutathione?",
+    "answer": "Ascorbic acid"
+  },
+  {
     "question": "Which vitamin is key for the synthesis of nucleic acids?",
     "answer": "Folic acid"
   },
@@ -2006,6 +2046,10 @@
   {
     "question": "Which vitamins are involved in methylation?",
     "answer": "B12 and B9"
+  },
+  {
+    "question": "Which vitamins are necessary for the synthesis of hemoglobin?",
+    "answer": "B6"
   },
   {
     "question": "Which vitamins are synthesized in the body from cholesterol?",
