@@ -37807,6 +37807,10 @@
         "answer": "accelerated"
     },
     {
+        "question": "How are dark matter interactions studied?",
+        "answer": "Through gravity"
+    },
+    {
         "question": "How are elliptical galaxies formed?",
         "answer": "Merging of galaxies"
     },
@@ -37911,8 +37915,16 @@
         "answer": "Slow it down"
     },
     {
+        "question": "How do magnetic fields affect galaxies?",
+        "answer": "Stabilization of structure"
+    },
+    {
         "question": "How do magnetic fields affect the structure of galaxies?",
         "answer": "Delay star formation"
+    },
+    {
+        "question": "How do meteors affect the Earth's ionosphere?",
+        "answer": "Ionize gases"
     },
     {
         "question": "How do scientists predict changes in space weather?",
@@ -38143,6 +38155,10 @@
         "answer": "Studying lensing"
     },
     {
+        "question": "How is the magnetic field of an exoplanet studied?",
+        "answer": "Radio sounding"
+    },
+    {
         "question": "How is the mass of a black hole in galactic nuclei determined?",
         "answer": "Orbits of stars"
     },
@@ -38203,6 +38219,10 @@
         "answer": "Change in orbits"
     },
     {
+        "question": "What are the consequences of massive star activity for galaxies?",
+        "answer": "Formation of shock waves"
+    },
+    {
         "question": "What are the effects of gravitational lensing on interstellar objects?",
         "answer": "Distortion of light"
     },
@@ -38244,6 +38264,10 @@
     },
     {
         "question": "What characteristic of meteorites allows us to determine their origin from the main asteroid belt?",
+        "answer": "Isotopic composition"
+    },
+    {
+        "question": "What characteristics of meteorites allow us to determine their age and origin?",
         "answer": "Isotopic composition"
     },
     {
@@ -38515,6 +38539,10 @@
         "answer": "Breaks down molecules"
     },
     {
+        "question": "What effect does ultraviolet radiation have on star formation?",
+        "answer": "Ionization of hydrogen"
+    },
+    {
         "question": "What effect influences the apparent color of stars?",
         "answer": "Gravitational redshift"
     },
@@ -38663,6 +38691,10 @@
         "answer": "Gravity"
     },
     {
+        "question": "What factors influence the rate of star formation in different galaxies?",
+        "answer": "Gas content"
+    },
+    {
         "question": "What factors lead to complex orbital dynamics in the ring systems of giant planets?",
         "answer": "Orbital resonances"
     },
@@ -38689,6 +38721,10 @@
     {
         "question": "What features of exoplanet orbits can indicate their formation under different conditions?",
         "answer": "Resonant orbits"
+    },
+    {
+        "question": "What features of planetary systems are necessary to support complex biospheres?",
+        "answer": "Orbital stability"
     },
     {
         "question": "What forces form the spiral arms?",
@@ -38777,6 +38813,10 @@
     {
         "question": "What innovative radiation protection method has been implemented on the latest models of space stations?",
         "answer": "Water shields"
+    },
+    {
+        "question": "What instrument was used in the Luna-24 mission to collect soil samples?",
+        "answer": "Drilling rig"
     },
     {
         "question": "What instruments are necessary for measuring interstellar distances?",
@@ -38873,6 +38913,10 @@
     {
         "question": "What is the name of the theory that unifies quantum mechanics and general relativity?",
         "answer": "Quantum Gravity"
+    },
+    {
+        "question": "What is the nature of dark energy?",
+        "answer": "unknown"
     },
     {
         "question": "What is the nature of galactic flares?",
@@ -38991,6 +39035,10 @@
         "answer": "Compression"
     },
     {
+        "question": "What is the role of gravitational waves in star formation?",
+        "answer": "Cloud fragmentation"
+    },
+    {
         "question": "What is the role of hydrothermal vents in the development of potential life on other planets?",
         "answer": "Energy and nutrients"
     },
@@ -39017,6 +39065,10 @@
     {
         "question": "What is the role of radiation pressure in shaping the orbits of exoplanets?",
         "answer": "Alters orbits"
+    },
+    {
+        "question": "What is the role of relativistic effects in astronomical observations?",
+        "answer": "Time distortion"
     },
     {
         "question": "What is the role of relativistic particles in galactic winds?",
@@ -39083,6 +39135,10 @@
         "answer": "Stabilization of position"
     },
     {
+        "question": "What is the significance of the constancy of the speed of light in Einstein's equations?",
+        "answer": "Basic condition"
+    },
+    {
         "question": "What is the significance of the lambda-CDM model for understanding the evolution of the Universe?",
         "answer": "Cosmological model"
     },
@@ -39117,6 +39173,10 @@
     {
         "question": "What material was first used to protect orbital stations from radiation?",
         "answer": "Boron polyethylene"
+    },
+    {
+        "question": "What material was used in the construction of the 'Salyut-6' station's hull to increase durability?",
+        "answer": "Titanium"
     },
     {
         "question": "What mathematical models describe the influence of unknown forces on cosmological parameters?",
@@ -39199,6 +39259,10 @@
         "answer": "Gas gravity"
     },
     {
+        "question": "What mechanisms ensure the stability of large galactic structures?",
+        "answer": "Gravity"
+    },
+    {
         "question": "What mechanisms ensured the homogeneity and isotropy of the early Universe?",
         "answer": "Inflation"
     },
@@ -39213,6 +39277,10 @@
     {
         "question": "What mechanisms stabilize the atmospheres of giant planets from losing gases into space?",
         "answer": "Magnetospheres"
+    },
+    {
+        "question": "What mechanisms support galactic spirality?",
+        "answer": "Density waves"
     },
     {
         "question": "What method allows determining the density of asteroids from a distance?",
@@ -39269,6 +39337,10 @@
     {
         "question": "What methods allow determining the time of a meteorite's fall to Earth?",
         "answer": "Radiocarbon dating"
+    },
+    {
+        "question": "What methods allow predicting the impact of space radiation on astronauts' health?",
+        "answer": "Biomonitoring"
     },
     {
         "question": "What methods allow studying the effects of radiation on materials?",
@@ -39335,6 +39407,10 @@
         "answer": "Spectroscopy"
     },
     {
+        "question": "What methods help in studying the structure of the Universe?",
+        "answer": "Astronomical observations"
+    },
+    {
         "question": "What methods help to study galactic nuclei?",
         "answer": "Spectral analysis"
     },
@@ -39351,12 +39427,20 @@
         "answer": "Rotational curves"
     },
     {
+        "question": "What paradox arises from the inability to reconcile quantum mechanics and general relativity in the description of black holes?",
+        "answer": "Information paradox"
+    },
+    {
         "question": "What parameter describes the initial distribution of matter density?",
         "answer": "Fluctuations"
     },
     {
         "question": "What parameter determines the evolution of galactic structures?",
         "answer": "Dark matter"
+    },
+    {
+        "question": "What parameter determines the stability of an expanding universe model?",
+        "answer": "Energy dominance"
     },
     {
         "question": "What parameter determines the stability of the Universe in large-scale structures?",
@@ -39457,6 +39541,10 @@
     {
         "question": "What phenomenon defines the boundaries between different types of galaxies?",
         "answer": "Gravitational interaction"
+    },
+    {
+        "question": "What phenomenon defines the uniform distribution of energy in cosmological models?",
+        "answer": "Isotropy"
     },
     {
         "question": "What phenomenon demonstrates the quantum nature of black holes?",
@@ -39645,6 +39733,10 @@
     {
         "question": "What physical processes were responsible for the formation of the first stars?",
         "answer": "Gravitational collapse"
+    },
+    {
+        "question": "What physical properties are used to model dark matter?",
+        "answer": "Mass and gravity"
     },
     {
         "question": "What principle underlies cosmological research?",
@@ -39871,6 +39963,10 @@
         "answer": "Negative pressure"
     },
     {
+        "question": "What properties of asteroids suggest the presence of ancient oceans?",
+        "answer": "Clay and salts"
+    },
+    {
         "question": "What property of dark energy causes the Universe to expand?",
         "answer": "Negative pressure"
     },
@@ -39881,6 +39977,10 @@
     {
         "question": "What quantum state preceded the moment of singularity?",
         "answer": "Quantum foam"
+    },
+    {
+        "question": "What role do Martian canyons play in the study of the planet's tectonic activity?",
+        "answer": "Structural faults"
     },
     {
         "question": "What role do black holes play in the evolution of galaxies?",
@@ -39897,6 +39997,10 @@
     {
         "question": "What role do cosmic rays play in cloud formation?",
         "answer": "Participate"
+    },
+    {
+        "question": "What role do galactic magnetic fields play in star formation?",
+        "answer": "Directing flows"
     },
     {
         "question": "What role do gravitational anomalies play in the evolution of the Universe?",
@@ -39917,6 +40021,10 @@
     {
         "question": "What role do planets play in the evolution of galaxies?",
         "answer": "Influence on orbits"
+    },
+    {
+        "question": "What role do resonances play in the orbital movements of planets and moons in the Solar System?",
+        "answer": "Stabilization"
     },
     {
         "question": "What role do shock waves play in the process of star formation?",
@@ -40643,8 +40751,24 @@
         "answer": "Gravitational shift"
     },
     {
+        "question": "Which parameter is important for determining the initial density conditions in cosmological models?",
+        "answer": "Matter density"
+    },
+    {
+        "question": "Which parameter of an exoplanet's spectrum indicates the presence of molecular hydrogen?",
+        "answer": "Spectral lines"
+    },
+    {
         "question": "Which parameters of the orbit of the largest asteroid in the Main Belt affect its stability?",
         "answer": "Eccentricity"
+    },
+    {
+        "question": "Which particle initiated inflation?",
+        "answer": "Inflaton"
+    },
+    {
+        "question": "Which phenomenon allowed the confirmation of the existence of dark matter?",
+        "answer": "Galactic rotation"
     },
     {
         "question": "Which phenomenon indirectly confirms the existence of dark matter through the movement of light?",
@@ -40829,6 +40953,10 @@
     {
         "question": "Which spacecraft was the first to conduct a spectral analysis of Uranus's atmosphere?",
         "answer": "Voyager 2"
+    },
+    {
+        "question": "Which spacecraft was the first to conduct radar mapping of Venus's surface through its dense atmosphere?",
+        "answer": "Magellan"
     },
     {
         "question": "Which spacecraft was the first to conduct radar mapping of Venus's surface?",
@@ -45787,6 +45915,10 @@
         "answer": "Improving performance"
     },
     {
+        "question": "What is the key role of augmented reality (AR) in medicine?",
+        "answer": "Training doctors"
+    },
+    {
         "question": "What is the main advantage of a heated bed?",
         "answer": "Prevention of warping"
     },
@@ -46331,6 +46463,10 @@
         "answer": "Backpropagation"
     },
     {
+        "question": "What method is used to study the composition of planetary atmospheres?",
+        "answer": "Spectroscopy"
+    },
+    {
         "question": "What method is used to verify a user's identity using multiple factors?",
         "answer": "Multi-factor authentication"
     },
@@ -46341,6 +46477,10 @@
     {
         "question": "What mission did Voyager 1 accomplish?",
         "answer": "Exploration of deep space"
+    },
+    {
+        "question": "What nanomaterials are used in electronics?",
+        "answer": "Nanotubes"
     },
     {
         "question": "What popular technology is used for IoT devices?",
@@ -47055,6 +47195,10 @@
         "answer": "SLM"
     },
     {
+        "question": "Which probe was sent to Pluto?",
+        "answer": "New Horizons"
+    },
+    {
         "question": "Which process improves the properties of materials in nanotechnology?",
         "answer": "Defect control"
     },
@@ -47153,6 +47297,10 @@
     {
         "question": "Which system uses HD maps for navigation?",
         "answer": "Autonomous driving systems"
+    },
+    {
+        "question": "Which technique allows the visualization of atoms?",
+        "answer": "Scanning tunneling microscopy"
     },
     {
         "question": "Which technology anchors a 3D model to the real world?",
