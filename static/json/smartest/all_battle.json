@@ -16,12 +16,20 @@
         "answer": "Jet propulsion"
     },
     {
+        "question": "How do echinoderms reproduce?",
+        "answer": "Sexually"
+    },
+    {
         "question": "How do fish navigate in the dark?",
         "answer": "Lateral line"
     },
     {
         "question": "How do gastropods protect themselves from predators?",
         "answer": "Shell"
+    },
+    {
+        "question": "How do lancelets reproduce?",
+        "answer": "Spawning"
     },
     {
         "question": "How do sea cucumbers clean their insides when threatened?",
@@ -120,6 +128,10 @@
         "answer": "Two"
     },
     {
+        "question": "How many types of tissues do lancelets have?",
+        "answer": "Four"
+    },
+    {
         "question": "How many years does a beluga whale live?",
         "answer": "60"
     },
@@ -216,8 +228,16 @@
         "answer": "Aye-Aye"
     },
     {
+        "question": "What are organisms that glow in the dark called?",
+        "answer": "Bioluminescent"
+    },
+    {
         "question": "What are pedicellariae in sea urchins?",
         "answer": "Small pincers"
+    },
+    {
+        "question": "What are the ancient ancestors of the lancelet called?",
+        "answer": "Pikaia"
     },
     {
         "question": "What are the combs protruding from the mantle edge of a mollusk called?",
@@ -234,6 +254,10 @@
     {
         "question": "What are the specialized respiratory organs in spiders called?",
         "answer": "Book lungs"
+    },
+    {
+        "question": "What color is most commonly predominant in deep-sea fish?",
+        "answer": "Dark"
     },
     {
         "question": "What determines the hunting difficulty for sharks?",
@@ -276,6 +300,10 @@
         "answer": "food capture"
     },
     {
+        "question": "What function does the mantle serve in mollusks?",
+        "answer": "Protection of the body"
+    },
+    {
         "question": "What function does the respiratory system perform?",
         "answer": "Beaver"
     },
@@ -298,6 +326,10 @@
     {
         "question": "What is a trepang?",
         "answer": "Sea cucumber"
+    },
+    {
+        "question": "What is an Argopecten?",
+        "answer": "Mollusk"
     },
     {
         "question": "What is an anemone?",
@@ -344,12 +376,20 @@
         "answer": "Whale shark"
     },
     {
+        "question": "What is the leg span of the largest crab in the world?",
+        "answer": "3.8 meters"
+    },
+    {
         "question": "What is the life cycle of a lamprey?",
         "answer": "Complete cycle"
     },
     {
         "question": "What is the life cycle of insects called?",
         "answer": "Metamorphosis"
+    },
+    {
+        "question": "What is the main cause of sea urchin mortality?",
+        "answer": "Predators"
     },
     {
         "question": "What is the main function of the ambulacral system?",
@@ -436,6 +476,10 @@
         "answer": "Predators and prey"
     },
     {
+        "question": "What is the science of fish called?",
+        "answer": "Ichthyology"
+    },
+    {
         "question": "What is the science that studies reptiles called?",
         "answer": "Herpetology"
     },
@@ -462,6 +506,10 @@
     {
         "question": "What role do pedipalps serve in spiders?",
         "answer": "Sensation"
+    },
+    {
+        "question": "What role do primates often play in the ecosystem?",
+        "answer": "Seed dispersal"
     },
     {
         "question": "What size can lampreys reach?",
@@ -524,6 +572,10 @@
         "answer": "Kuril Islands"
     },
     {
+        "question": "Where do giant squids live?",
+        "answer": "In the ocean"
+    },
+    {
         "question": "Where do rare species of sandpipers inhabit?",
         "answer": "Vitimsky"
     },
@@ -566,6 +618,14 @@
     {
         "question": "Which animal can regenerate its tentacles?",
         "answer": "Squid"
+    },
+    {
+        "question": "Which animal eats cacti?",
+        "answer": "Spectacled bear"
+    },
+    {
+        "question": "Which animal eats tree buds in winter?",
+        "answer": "Moose"
     },
     {
         "question": "Which animal feeds on mosses and lichens?",
@@ -624,6 +684,10 @@
         "answer": "Hagfish"
     },
     {
+        "question": "Which beetle is the largest?",
+        "answer": "Hercules beetle"
+    },
+    {
         "question": "Which bird builds large bowers to attract females?",
         "answer": "Bowerbird"
     },
@@ -676,6 +740,10 @@
         "answer": "kiwi"
     },
     {
+        "question": "Which bird is the loudest?",
+        "answer": "Jackdaw"
+    },
+    {
         "question": "Which bird lives in the desert?",
         "answer": "ostrich"
     },
@@ -694,6 +762,10 @@
     {
         "question": "Which birds can fly backwards?",
         "answer": "Hummingbirds"
+    },
+    {
+        "question": "Which body part do insects not have?",
+        "answer": "Tentacles"
     },
     {
         "question": "Which creature emits light in the dark?",
@@ -726,6 +798,10 @@
     {
         "question": "Which fish builds nests?",
         "answer": "Stickleback"
+    },
+    {
+        "question": "Which fish can change its color?",
+        "answer": "Platax"
     },
     {
         "question": "Which fish can change its shape?",
@@ -762,6 +838,10 @@
     {
         "question": "Which fish lives in the Baltic Sea?",
         "answer": "Herring"
+    },
+    {
+        "question": "Which fish lives under the ice?",
+        "answer": "Antarctic toothfish"
     },
     {
         "question": "Which fish uses electricity for orientation?",
@@ -816,6 +896,10 @@
         "answer": "fireflies"
     },
     {
+        "question": "Which insects hibernate in trees?",
+        "answer": "Lacewings"
+    },
+    {
         "question": "Which insects secrete saliva to create silky threads?",
         "answer": "Caterpillars"
     },
@@ -830,6 +914,10 @@
     {
         "question": "Which large herbivorous animal lives in rivers and lakes?",
         "answer": "hippopotamus"
+    },
+    {
+        "question": "Which lizard is considered sacred in Egypt?",
+        "answer": "Gecko"
     },
     {
         "question": "Which lizard is known for freezing when scared?",
@@ -860,6 +948,10 @@
         "answer": "Several hours"
     },
     {
+        "question": "Which mammal is an endangered species from South America?",
+        "answer": "Jaguar"
+    },
+    {
         "question": "Which mammal is capable of making fire?",
         "answer": "Human"
     },
@@ -882,6 +974,10 @@
     {
         "question": "Which mammal migrates the longest distances?",
         "answer": "Whale"
+    },
+    {
+        "question": "Which mammal regurgitates its stomach contents when threatened?",
+        "answer": "Underground pig"
     },
     {
         "question": "Which marine creature builds trap-nests?",
@@ -934,6 +1030,10 @@
     {
         "question": "Which nature reserve is known for rare species of rodents?",
         "answer": "Far Eastern Marine Reserve"
+    },
+    {
+        "question": "Which nature reserve is located on Wrangel Island?",
+        "answer": "Wrangel Island"
     },
     {
         "question": "Which of these primates has the shortest tail?",
@@ -990,6 +1090,14 @@
     {
         "question": "Which sea creature is known for its solitude?",
         "answer": "Moray eel"
+    },
+    {
+        "question": "Which sea creature is often called a dancer?",
+        "answer": "Seahorse"
+    },
+    {
+        "question": "Which sea creature uses camouflage?",
+        "answer": "Octopus"
     },
     {
         "question": "Which seabird is known for its long migrations?",
@@ -1118,6 +1226,10 @@
     {
         "question": "How many cylinders does the engine of the 1920 Ford Model T have?",
         "answer": "4"
+    },
+    {
+        "question": "How many cylinders does the engine of the 1984 Ferrari Testarossa have?",
+        "answer": "12"
     },
     {
         "question": "How many cylinders does the engine of the Mercedes-Benz 300SEL 6.3 have?"
@@ -1344,6 +1456,10 @@
     {
         "question": "What are sports shock absorbers used for?",
         "answer": "Improving suspension"
+    },
+    {
+        "question": "What are the distinctive doors of the Mercedes-Benz 300SL called?",
+        "answer": "Gullwing"
     },
     {
         "question": "What are the signs with a blue border called?",
@@ -1590,6 +1706,10 @@
     {
         "question": "What is a Head-Up Display system?",
         "answer": "Projection of information onto the windshield"
+    },
+    {
+        "question": "What is a balancing weight used for?",
+        "answer": "Balancing wheels"
     },
     {
         "question": "What is a bypass used for?",
@@ -2186,6 +2306,10 @@
     {
         "question": "What technology uses solar panels for charging?",
         "answer": "Solar battery"
+    },
+    {
+        "question": "What tires are preferable for drifting?",
+        "answer": "hard rear tires"
     },
     {
         "question": "What tool is needed to remove a sprocket?",
