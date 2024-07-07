@@ -28,6 +28,10 @@
     "answer": "Clarity"
   },
   {
+    "question": "How does AR help in a museum?",
+    "answer": "Guide assistant"
+  },
+  {
     "question": "How does AR help manufacturing?",
     "answer": "Instructions"
   },
@@ -1116,6 +1120,10 @@
     "answer": "PLC software"
   },
   {
+    "question": "What is the system called that analyzes the operation of equipment?",
+    "answer": "Diagnostics"
+  },
+  {
     "question": "What is the technical document of a cryptocurrency called?",
     "answer": "Whitepaper"
   },
@@ -1158,6 +1166,10 @@
   {
     "question": "What is the term for the time interval during which the image on a VR screen is updated?",
     "answer": "Refresh rate"
+  },
+  {
+    "question": "What is the test called that assesses a machine's ability to recognize and avoid obstacles?",
+    "answer": "Avoidance test"
   },
   {
     "question": "What is used for manipulating nanoparticles?",

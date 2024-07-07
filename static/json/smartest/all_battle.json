@@ -1378,6 +1378,10 @@
         "answer": "1921"
     },
     {
+        "question": "In what year was the Bugatti Owners' Club founded?",
+        "answer": "1929"
+    },
+    {
         "question": "In what year was the Bugatti brand founded?",
         "answer": "1909"
     },
@@ -2355,6 +2359,10 @@
         "answer": "V-type"
     },
     {
+        "question": "What type of frame is used for lightweight construction?",
+        "answer": "Aluminum"
+    },
+    {
         "question": "What type of hybrid cars is the most common?",
         "answer": "Full hybrids"
     },
@@ -2399,12 +2407,20 @@
         "answer": "Alloy"
     },
     {
+        "question": "What types of engines are used in hybrid cars?",
+        "answer": "Electric and internal combustion engine"
+    },
+    {
         "question": "What was the first production model of Aston Martin?",
         "answer": "Aston Martin DB1"
     },
     {
         "question": "What was the horsepower of the Dodge Viper V10 engine?",
         "answer": "450 hp"
+    },
+    {
+        "question": "What was the name of the 1967 Pontiac model?",
+        "answer": "Firebird"
     },
     {
         "question": "What was the name of the Bentley model from the 1950s?",
@@ -2752,6 +2768,10 @@
     {
         "question": "Which community organizes drift competitions?",
         "answer": "Drift Club"
+    },
+    {
+        "question": "Which community organizes meetings for owners of rare and collectible cars?",
+        "answer": "RaritetAutoClub"
     },
     {
         "question": "Which community organizes off-road meetings?",
@@ -3153,6 +3173,10 @@
     {
         "question": "Which system forces air into the engine cylinders?",
         "answer": "Turbocharging"
+    },
+    {
+        "question": "Which system prevents loss of control in turns?",
+        "answer": "Traction control"
     },
     {
         "question": "Which system projects information onto the windshield?",
@@ -38047,6 +38071,10 @@
         "answer": "Delay star formation"
     },
     {
+        "question": "How do magnetic fields interact in the process of star formation?",
+        "answer": "Focusing of matter"
+    },
+    {
         "question": "How do meteors affect the Earth's ionosphere?",
         "answer": "Ionize gases"
     },
@@ -38131,6 +38159,10 @@
         "answer": "Change in structure"
     },
     {
+        "question": "How does intergalactic gas affect the dynamics of galactic clusters?",
+        "answer": "Deceleration"
+    },
+    {
         "question": "How does interstellar radiation affect star formation?",
         "answer": "Ionization of gas"
     },
@@ -38145,6 +38177,10 @@
     {
         "question": "How does space radiation affect the longevity of orbital satellites?",
         "answer": "Reduces lifespan"
+    },
+    {
+        "question": "How does studying galaxy clusters help in understanding cosmological models?",
+        "answer": "Dark energy"
     },
     {
         "question": "How does studying neutral hydrogen help in understanding the structure of a galaxy?",
@@ -38165,6 +38201,10 @@
     {
         "question": "How does the chemical composition of a galaxy change over time?",
         "answer": "Accumulation of elements"
+    },
+    {
+        "question": "How does the chemical composition of a galaxy change with age?",
+        "answer": "Increase in metallicity"
     },
     {
         "question": "How does the chemical composition of stars change as a galaxy ages?",
@@ -38217,6 +38257,10 @@
     {
         "question": "How does the speed of light affect the curvature of spacetime?",
         "answer": "Determines"
+    },
+    {
+        "question": "How does the structure of a galaxy change after a merger?",
+        "answer": "Bridges appear"
     },
     {
         "question": "How does the theory of relativity explain the constancy of the speed of light?",
@@ -38303,6 +38347,18 @@
         "answer": "1998"
     },
     {
+        "question": "On which exoplanet was an atmosphere with chloroform discovered?",
+        "answer": "K2-18b"
+    },
+    {
+        "question": "What adaptations can organisms develop to survive in extreme temperature conditions on planets?",
+        "answer": "Heat-resistant proteins"
+    },
+    {
+        "question": "What adaptations can organisms develop to survive in low gravity conditions?",
+        "answer": "Structural changes"
+    },
+    {
         "question": "What adaptations can organisms develop to survive on planets with high pressure?",
         "answer": "Flexible cell wall"
     },
@@ -38337,6 +38393,10 @@
     {
         "question": "What are the conditions for the formation of dense cores in molecular clouds?",
         "answer": "High density"
+    },
+    {
+        "question": "What are the consequences of galaxy interactions on their stellar population?",
+        "answer": "Formation of new stars"
     },
     {
         "question": "What are the consequences of gravitational interaction between galaxies on stars?",
@@ -38535,6 +38595,10 @@
         "answer": "Cosmic relic radiation"
     },
     {
+        "question": "What do stars look like as a result of gravitational lensing?",
+        "answer": "Distorted"
+    },
+    {
         "question": "What does multispectral analysis of the Milky Way's structure include?",
         "answer": "Data from different wavelengths"
     },
@@ -38625,6 +38689,10 @@
     {
         "question": "What effect does stellar wind have on exoplanets?",
         "answer": "Atmospheric erosion"
+    },
+    {
+        "question": "What effect does temperature have on the brightness of a meteor?",
+        "answer": "Increases"
     },
     {
         "question": "What effect does the central black hole have on galactic dynamics?",
@@ -39159,6 +39227,10 @@
         "answer": "Compression"
     },
     {
+        "question": "What is the role of galaxies in the formation of the large-scale structure of the Universe?",
+        "answer": "Gravitational attraction"
+    },
+    {
         "question": "What is the role of gravitational waves in star formation?",
         "answer": "Cloud fragmentation"
     },
@@ -39237,6 +39309,10 @@
     {
         "question": "What is the role of the intergalactic medium in the dynamics of galaxy clusters?",
         "answer": "Gravity"
+    },
+    {
+        "question": "What is the role of the intergalactic medium in the evolution of galaxies?",
+        "answer": "Material exchange"
     },
     {
         "question": "What is the role of tidal forces in the evolution of galactic structures?",
@@ -39415,6 +39491,10 @@
         "answer": "Polarimetry"
     },
     {
+        "question": "What method is used for image stabilization in space telescopes?",
+        "answer": "Adaptive optics"
+    },
+    {
         "question": "What method is used to analyze Martian samples for the presence of microorganisms?",
         "answer": "Mass spectrometry"
     },
@@ -39537,6 +39617,10 @@
     {
         "question": "What methods help to study galactic nuclei?",
         "answer": "Spectral analysis"
+    },
+    {
+        "question": "What new discovery about the lunar magnetic field was made using ultra-sensitive instruments?",
+        "answer": "Instability"
     },
     {
         "question": "What observation led to the discovery of dark energy?",
@@ -40583,6 +40667,10 @@
         "answer": "Dark matter"
     },
     {
+        "question": "Which constellation has the largest number of confirmed planets?",
+        "answer": "Hercules"
+    },
+    {
         "question": "Which constellation has the largest number of meteor showers?",
         "answer": "Perseus"
     },
@@ -40605,6 +40693,10 @@
     {
         "question": "Which constellation is associated with the myth of Patroclus's death and his protection by Achilles?",
         "answer": "Ophiuchus"
+    },
+    {
+        "question": "Which constellation is associated with the mythological battle between two great warriors?",
+        "answer": "Orion"
     },
     {
         "question": "Which constellation is associated with the mythological story of a character who could change his form at the will of the gods?",
@@ -40657,6 +40749,14 @@
     {
         "question": "Which element is used for temperature regulation on the ISS?",
         "answer": "Ammonia"
+    },
+    {
+        "question": "Which element of the 'Salyut' station was used in life support systems?",
+        "answer": "Air regeneration system"
+    },
+    {
+        "question": "Which exoplanet has a 3:2 orbital resonance?",
+        "answer": "Gliese 581g"
     },
     {
         "question": "Which exoplanet has one of the longest orbital periods?",
@@ -40725,6 +40825,10 @@
     {
         "question": "Which instrument was first used to analyze the Moon's atmosphere?",
         "answer": "LADEE"
+    },
+    {
+        "question": "Which interaction became dominant after the electroweak epoch?",
+        "answer": "Gravitational"
     },
     {
         "question": "Which lunar region was first mapped in detail using high-precision spectrometry?",
@@ -40809,6 +40913,10 @@
     {
         "question": "Which mission was the first to successfully conduct an analysis of Martian dust storms?",
         "answer": "MRO"
+    },
+    {
+        "question": "Which mission was the first to transmit images from the surface of a comet?",
+        "answer": "Rosetta"
     },
     {
         "question": "Which mission was the first to use a landing platform on another celestial body?",
@@ -41051,6 +41159,10 @@
         "answer": "Huygens"
     },
     {
+        "question": "Which spacecraft first used a gravity assist maneuver to change its trajectory?",
+        "answer": "Mariner 10"
+    },
+    {
         "question": "Which spacecraft first used infrared spectroscopy to study the surface of Mars?",
         "answer": "Mars Odyssey"
     },
@@ -41105,6 +41217,10 @@
     {
         "question": "Which spacecraft was the first to measure the surface temperature of Mercury?",
         "answer": "Mariner 10"
+    },
+    {
+        "question": "Which spacecraft was the first to obtain data on Triton's magnetic fields?",
+        "answer": "Voyager 2"
     },
     {
         "question": "Which spacecraft was the first to perform a detailed spectral analysis of Venus's atmosphere?",
@@ -41377,6 +41493,10 @@
     {
         "question": "Who was the first to determine the nature of quasars?",
         "answer": "Schmidt"
+    },
+    {
+        "question": "Who was the first to discover an exoplanet using the transit method?",
+        "answer": "David Charbonneau"
     },
     {
         "question": "Who was the first to discover that the speed of light depends on the gravitational field but did not receive recognition during their lifetime?",
@@ -45311,6 +45431,10 @@
         "answer": "Clarity"
     },
     {
+        "question": "How does AR help in a museum?",
+        "answer": "Guide assistant"
+    },
+    {
         "question": "How does AR help manufacturing?",
         "answer": "Instructions"
     },
@@ -46399,6 +46523,10 @@
         "answer": "PLC software"
     },
     {
+        "question": "What is the system called that analyzes the operation of equipment?",
+        "answer": "Diagnostics"
+    },
+    {
         "question": "What is the technical document of a cryptocurrency called?",
         "answer": "Whitepaper"
     },
@@ -46441,6 +46569,10 @@
     {
         "question": "What is the term for the time interval during which the image on a VR screen is updated?",
         "answer": "Refresh rate"
+    },
+    {
+        "question": "What is the test called that assesses a machine's ability to recognize and avoid obstacles?",
+        "answer": "Avoidance test"
     },
     {
         "question": "What is used for manipulating nanoparticles?",

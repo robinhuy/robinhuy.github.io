@@ -202,6 +202,10 @@
     "answer": "1921"
   },
   {
+    "question": "In what year was the Bugatti Owners' Club founded?",
+    "answer": "1929"
+  },
+  {
     "question": "In what year was the Bugatti brand founded?",
     "answer": "1909"
   },
@@ -1179,6 +1183,10 @@
     "answer": "V-type"
   },
   {
+    "question": "What type of frame is used for lightweight construction?",
+    "answer": "Aluminum"
+  },
+  {
     "question": "What type of hybrid cars is the most common?",
     "answer": "Full hybrids"
   },
@@ -1223,12 +1231,20 @@
     "answer": "Alloy"
   },
   {
+    "question": "What types of engines are used in hybrid cars?",
+    "answer": "Electric and internal combustion engine"
+  },
+  {
     "question": "What was the first production model of Aston Martin?",
     "answer": "Aston Martin DB1"
   },
   {
     "question": "What was the horsepower of the Dodge Viper V10 engine?",
     "answer": "450 hp"
+  },
+  {
+    "question": "What was the name of the 1967 Pontiac model?",
+    "answer": "Firebird"
   },
   {
     "question": "What was the name of the Bentley model from the 1950s?",
@@ -1576,6 +1592,10 @@
   {
     "question": "Which community organizes drift competitions?",
     "answer": "Drift Club"
+  },
+  {
+    "question": "Which community organizes meetings for owners of rare and collectible cars?",
+    "answer": "RaritetAutoClub"
   },
   {
     "question": "Which community organizes off-road meetings?",
@@ -1977,6 +1997,10 @@
   {
     "question": "Which system forces air into the engine cylinders?",
     "answer": "Turbocharging"
+  },
+  {
+    "question": "Which system prevents loss of control in turns?",
+    "answer": "Traction control"
   },
   {
     "question": "Which system projects information onto the windshield?",
