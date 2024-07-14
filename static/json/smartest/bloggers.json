@@ -72,6 +72,10 @@
     "answer": ""
   },
   {
+    "question": "On which channel can you learn about jazz?",
+    "answer": "JazzCorner"
+  },
+  {
     "question": "On which device was the first popular podcasting launched?",
     "answer": "Electronic music"
   },
@@ -94,6 +98,10 @@
   {
     "question": "What can a podcast contain?",
     "answer": "Opinions"
+  },
+  {
+    "question": "What diet is suitable for fitness training?",
+    "answer": "Balanced diet"
   },
   {
     "question": "What does RSS mean?",
@@ -150,6 +158,10 @@
   {
     "question": "What is IRL?",
     "answer": "In real life"
+  },
+  {
+    "question": "What is a long text or article on the internet called?",
+    "answer": "Longread"
   },
   {
     "question": "What is a video blog?",
@@ -216,6 +228,10 @@
     "answer": "Sergey Popov"
   },
   {
+    "question": "What is the name of the author of the channel that analyzes musical theories?",
+    "answer": "Aleksey Vishnevsky"
+  },
+  {
     "question": "What is the name of the author of the classical music blog?",
     "answer": "Igor Mikhailov"
   },
@@ -254,6 +270,10 @@
   {
     "question": "What is the name of the podcast hosted by Tatyana Lazareva?",
     "answer": "Lazareva TV"
+  },
+  {
+    "question": "What is the name of the podcast that jokes about science fiction?",
+    "answer": "Fantastic Laughter"
   },
   {
     "question": "What is the name of the podcast that parodies famous personalities?",
@@ -316,6 +336,10 @@
     "answer": "Science"
   },
   {
+    "question": "What topic is often discussed in conversational podcasts?",
+    "answer": "Analysis"
+  },
+  {
     "question": "What type of camera helps to see in the dark?",
     "answer": ""
   },
@@ -340,6 +364,10 @@
     "answer": "Stretching"
   },
   {
+    "question": "What type of workout does the blog 'Strength Training with Maria' showcase?",
+    "answer": "Strength exercises"
+  },
+  {
     "question": "What unique natural phenomenon can be seen in Iceland?",
     "answer": "Northern Lights"
   },
@@ -356,8 +384,16 @@
     "answer": "Viral"
   },
   {
+    "question": "When did Google launch support for podcasts in Google Podcasts?",
+    "answer": "2018"
+  },
+  {
     "question": "When did YouTube Live start broadcasting?",
     "answer": "2008"
+  },
+  {
+    "question": "When was the first streaming service launched?",
+    "answer": "1993"
   },
   {
     "question": "Which actor directed the film \"Into the Wild\"?",
@@ -386,6 +422,10 @@
   {
     "question": "Which blog is dedicated to learning foreign languages?",
     "answer": "Danil Vetrov"
+  },
+  {
+    "question": "Which blog is dedicated to psychology?",
+    "answer": "Psychologist Speaks"
   },
   {
     "question": "Which blog talks about a healthy lifestyle?",
@@ -422,6 +462,10 @@
   {
     "question": "Which blogger is known as Kim Kardashian's makeup artist?",
     "answer": "Mario Dedivanovic"
+  },
+  {
+    "question": "Which blogger is known for Pilates workouts?",
+    "answer": "Anna Kuznetsova"
   },
   {
     "question": "Which blogger is known for their in-depth technical reviews?",
@@ -554,6 +598,14 @@
   {
     "question": "Which genre is not suitable for educational podcasts?",
     "answer": ""
+  },
+  {
+    "question": "Which lifestyle blogger discusses digital gadgets?",
+    "answer": "IT Guru"
+  },
+  {
+    "question": "Which music streamer is known for playing the ukulele?",
+    "answer": "TwitchSings"
   },
   {
     "question": "Which music streamer is known for their live covers?",
@@ -784,6 +836,14 @@
     "answer": "Ivan Smirnov"
   },
   {
+    "question": "Who hosts shows about biology?",
+    "answer": "Svetlana Petrova"
+  },
+  {
+    "question": "Who hosts the channel 'Social Studies in Detail'?",
+    "answer": "Elena Mikhailova"
+  },
+  {
     "question": "Who hosts the jazz music segment?",
     "answer": "Daily"
   },
@@ -956,6 +1016,10 @@
     "answer": ""
   },
   {
+    "question": "Who specializes in CrossFit streaming?",
+    "answer": "Maria Kuzmina"
+  },
+  {
     "question": "Who streams poker?",
     "answer": "Jcarver"
   },
@@ -972,12 +1036,24 @@
     "answer": "Violetta Zhukova"
   },
   {
+    "question": "Who talks about philosophy in their videos?",
+    "answer": "Sergey Belyaev"
+  },
+  {
     "question": "Who talks about psychology on their YouTube channel?",
     "answer": "Dmitry Panov"
   },
   {
+    "question": "Who talks about rare music genres?",
+    "answer": "UniqueBeats"
+  },
+  {
     "question": "Who talks about space and astronomy?",
     "answer": "Oleg Vasilyev"
+  },
+  {
+    "question": "Who was the first U.S. president to launch a podcast?",
+    "answer": "George Bush"
   },
   {
     "question": "Who was the first guest on the podcast 'Creative Meetings'?",

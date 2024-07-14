@@ -156,6 +156,10 @@
     "answer": "Middle Ages"
   },
   {
+    "question": "In which century did the tradition of hunting with birds of prey begin?",
+    "answer": "5th century"
+  },
+  {
     "question": "In which country can you find polar bear hunting?",
     "answer": "Canada"
   },
@@ -240,8 +244,16 @@
     "answer": "Panda"
   },
   {
+    "question": "What animals are hunted with dogs?",
+    "answer": "Hares"
+  },
+  {
     "question": "What animals were the main hunting target for the indigenous peoples of Siberia?",
     "answer": "Sable"
+  },
+  {
+    "question": "What are broadheads used for on hunting bows?",
+    "answer": "Penetrating penetration"
   },
   {
     "question": "What are cameras in rivers useful for?",
@@ -410,6 +422,10 @@
   {
     "question": "What equipment is necessary for bear hunting?",
     "answer": "Firearm"
+  },
+  {
+    "question": "What equipment is necessary for ice fishing?",
+    "answer": "Ice auger"
   },
   {
     "question": "What equipment is put on the feet of falcons?",
@@ -674,6 +690,10 @@
   {
     "question": "What is often used to attract quails?",
     "answer": "Call"
+  },
+  {
+    "question": "What is protected in the Lazovsky Nature Reserve?",
+    "answer": "Tigers"
   },
   {
     "question": "What is required for successful shooting?",
@@ -1012,6 +1032,14 @@
     "answer": "From behind"
   },
   {
+    "question": "What method of meat processing prevents spoilage for a long time?",
+    "answer": "Smoking"
+  },
+  {
+    "question": "What methods did people use for hunting in the Middle Ages?",
+    "answer": "Driving"
+  },
+  {
     "question": "What methods of protection are used in hunting grounds?",
     "answer": "Tracking"
   },
@@ -1114,6 +1142,10 @@
   {
     "question": "What should you do if you encounter a bear?",
     "answer": "Back away slowly"
+  },
+  {
+    "question": "What should you do if your body temperature drops suddenly?",
+    "answer": "Find shelter"
   },
   {
     "question": "What should you do in rainy weather?",
@@ -1416,12 +1448,20 @@
     "answer": "rifle"
   },
   {
+    "question": "What weather conditions are considered unfavorable?",
+    "answer": "Rainy day"
+  },
+  {
     "question": "What weather conditions are favorable for bird hunting?",
     "answer": "Dawn"
   },
   {
     "question": "What weather conditions are preferable for lynx hunting?",
     "answer": "Scythians"
+  },
+  {
+    "question": "What weather conditions reduce the chances of a successful trap hunt?",
+    "answer": "Rainy weather"
   },
   {
     "question": "What weather is preferable for autumn hunting?",
@@ -1654,6 +1694,10 @@
   {
     "question": "Which camera has the best focusing capabilities?",
     "answer": "Autofocus"
+  },
+  {
+    "question": "Which connection is best suited for real-time video transmission?",
+    "answer": "4G"
   },
   {
     "question": "Which cooking method is considered the healthiest?",

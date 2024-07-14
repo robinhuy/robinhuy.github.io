@@ -68,12 +68,20 @@
     "answer": "88"
   },
   {
+    "question": "How many members are in the group Pendulum?",
+    "answer": "6"
+  },
+  {
     "question": "How many movements are in Beethoven's Symphony No. 6?",
     "answer": "5"
   },
   {
     "question": "How many songs are in the album 'Reputation'?",
     "answer": "15"
+  },
+  {
+    "question": "How many statuettes are awarded in one category?",
+    "answer": "One"
   },
   {
     "question": "How many studio albums did The Rolling Stones release before 2020?",
@@ -158,6 +166,10 @@
   {
     "question": "In what year did the song 'Streets of Philadelphia' win an Oscar?",
     "answer": "1994"
+  },
+  {
+    "question": "In what year did the song 'We Belong Together' win a Grammy Award?",
+    "answer": "2005"
   },
   {
     "question": "In what year was Arvo Pärt born?",
@@ -256,6 +268,10 @@
     "answer": "Paris"
   },
   {
+    "question": "In which city did the premiere of Xenakis' 'Musical Theatre' take place?",
+    "answer": "Paris"
+  },
+  {
     "question": "In which city did the rave genre originate?",
     "answer": "Manchester"
   },
@@ -266,6 +282,10 @@
   {
     "question": "In which city was the first Live Aid concert held?",
     "answer": "London"
+  },
+  {
+    "question": "In which city were the EMAs held in 1994?",
+    "answer": "Berlin"
   },
   {
     "question": "In which city were the EMAs held in 2010?",
@@ -292,8 +312,16 @@
     "answer": "Oboe"
   },
   {
+    "question": "Name of an ancient string instrument?",
+    "answer": "Zither"
+  },
+  {
     "question": "Name the 1990 hit by Depeche Mode.",
     "answer": "Enjoy the Silence"
+  },
+  {
+    "question": "Name the dubstep subgenre with elements of metal.",
+    "answer": "Deathcore"
   },
   {
     "question": "Name the famous 1998 hit by the band Aerosmith.",
@@ -326,6 +354,10 @@
   {
     "question": "Since what year has the Rock Werchter festival been held?",
     "answer": "1974"
+  },
+  {
+    "question": "The music of which jazz band became a synthesis of jazz and rock?",
+    "answer": "Weather Report"
   },
   {
     "question": "The song 'Falling Slowly' is from which movie?",
@@ -520,6 +552,10 @@
     "answer": "French horn"
   },
   {
+    "question": "What instrument is often used for music at weddings?",
+    "answer": "Accordion"
+  },
+  {
     "question": "What instrument is used in samba?",
     "answer": "Cavaquinho"
   },
@@ -616,8 +652,16 @@
     "answer": "New Wave"
   },
   {
+    "question": "What is the guitar playing technique called in funk?",
+    "answer": "Chicken picking"
+  },
+  {
     "question": "What is the instrumental part in progressive rock called?",
     "answer": "Interlude"
+  },
+  {
+    "question": "What is the key element of vocals called?",
+    "answer": "syncopation"
   },
   {
     "question": "What is the largest international electronic music festival held in Poland?",
@@ -788,6 +832,10 @@
     "answer": "In the Lonely Hour"
   },
   {
+    "question": "What is the name of Santana's hit released in 1999?",
+    "answer": "Smooth"
+  },
+  {
     "question": "What is the name of Schubert's famous symphony with an unfinished third part?",
     "answer": "Unfinished"
   },
@@ -834,6 +882,10 @@
   {
     "question": "What is the name of a work created by mixing several tracks?",
     "answer": "Mashup"
+  },
+  {
+    "question": "What is the name of one of the popular bluegrass bands?",
+    "answer": "Punch Brothers"
   },
   {
     "question": "What is the name of the Aphex Twin album released in 1996?",
@@ -964,6 +1016,10 @@
     "answer": "Stochastic music"
   },
   {
+    "question": "What is the name of the composition method that uses randomness?",
+    "answer": "Aleatoricism"
+  },
+  {
     "question": "What is the name of the composition that plays at the beginning of the movie 'Mad Max: Fury Road'?",
     "answer": "Survive"
   },
@@ -1012,8 +1068,16 @@
     "answer": "Every Good Boy Deserves Fudge"
   },
   {
+    "question": "What is the name of the famous folk ballad?",
+    "answer": "Barbara Allen"
+  },
+  {
     "question": "What is the name of the famous opera by Giuseppe Verdi about an Egyptian princess?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of the famous opera by Prokofiev?",
+    "answer": "War and Peace"
   },
   {
     "question": "What is the name of the famous suite from 'Carmen'?",
@@ -1176,6 +1240,10 @@
     "answer": "Song of Love"
   },
   {
+    "question": "What is the name of the song that plays at the end of the movie '300'?",
+    "answer": "To Victory"
+  },
+  {
     "question": "What is the name of the third studio album by the Backstreet Boys?",
     "answer": "Hits"
   },
@@ -1234,6 +1302,10 @@
   {
     "question": "What is the real name of the rapper known as Common?",
     "answer": "Lonnie Lynn"
+  },
+  {
+    "question": "What is the real name of the rapper known by the stage name Rakim?",
+    "answer": "William Griffin"
   },
   {
     "question": "What is the real name of the singer Madonna?",
@@ -1320,8 +1392,16 @@
     "answer": "Lux Aeterna"
   },
   {
+    "question": "What melody does the pianist play in the movie 'The Pianist'?",
+    "answer": "Ballade No. 1"
+  },
+  {
     "question": "What music genre mixes dubstep with jazz?",
     "answer": "Jazzstep"
+  },
+  {
+    "question": "What musical forms were popular in Burgundy?",
+    "answer": "Ballata and canzona"
   },
   {
     "question": "What musical instrument does Les Claypool from the band Primus play?",
@@ -1460,6 +1540,10 @@
     "answer": "The Lizard King"
   },
   {
+    "question": "What was Kurt Cobain's nickname?",
+    "answer": "Grunge Icon"
+  },
+  {
     "question": "What was Whitney Houston's first single?",
     "answer": "You Give Good Love"
   },
@@ -1554,6 +1638,10 @@
   {
     "question": "What were the music collections for the church called?",
     "answer": "Hymnals"
+  },
+  {
+    "question": "What were the spiritual songs of wandering monks called?",
+    "answer": "Laudes"
   },
   {
     "question": "What work was created by Torsten Nielsen?",
@@ -1720,6 +1808,10 @@
     "answer": "Apple"
   },
   {
+    "question": "Which album by Public Enemy was released in 1990?",
+    "answer": "Fear of a Black Planet"
+  },
+  {
     "question": "Which album did Fergie release in 2006?",
     "answer": "The Dutchess"
   },
@@ -1782,6 +1874,10 @@
   {
     "question": "Which album won the Grammy Award in 1999?",
     "answer": "Supernatural"
+  },
+  {
+    "question": "Which album won the Grammy for Best Rock Album in 2018?",
+    "answer": "A Deeper Understanding"
   },
   {
     "question": "Which architectural style is associated with a flying buttress?",
@@ -1872,6 +1968,10 @@
     "answer": "Joe Arroyo"
   },
   {
+    "question": "Which band performed 'Mr. Brightside'?",
+    "answer": "The Killers"
+  },
+  {
     "question": "Which band performed at the first Woodstock?",
     "answer": "Jimi Hendrix"
   },
@@ -1932,6 +2032,10 @@
     "answer": "Rush"
   },
   {
+    "question": "Which band released the single 'Somebody That I Used to Know'?",
+    "answer": "Gotye"
+  },
+  {
     "question": "Which band releases their albums on the Epitaph Records label?",
     "answer": "NOFX"
   },
@@ -1978,6 +2082,10 @@
   {
     "question": "Which city became famous for drum and bass?",
     "answer": "London"
+  },
+  {
+    "question": "Which city became famous for the drum and bass genre?",
+    "answer": "Bristol"
   },
   {
     "question": "Which city became the center of the soul music genre in the 1960s?",
@@ -2052,6 +2160,10 @@
     "answer": "Morton Feldman"
   },
   {
+    "question": "Which composition became a jazz standard and was written by Gershwin?",
+    "answer": "Summertime"
+  },
+  {
     "question": "Which composition by Duke Ellington became a jazz standard?",
     "answer": "In a Sentimental Mood"
   },
@@ -2086,6 +2198,10 @@
   {
     "question": "Which element is often added for dynamics in a dubstep track?",
     "answer": "Sub-bass"
+  },
+  {
+    "question": "Which element often characterizes the structure of dubstep tracks?",
+    "answer": "Half-time rhythm"
   },
   {
     "question": "Which ensemble first performed 'So What'?",
@@ -2126,6 +2242,10 @@
   {
     "question": "Which female artist won 'Best New Artist' in 2022?",
     "answer": "Olivia Rodrigo"
+  },
+  {
+    "question": "Which female band performs grunge?",
+    "answer": "L7"
   },
   {
     "question": "Which female group is known for performing funk?",
@@ -2196,6 +2316,10 @@
     "answer": "Frankie Goes to Hollywood"
   },
   {
+    "question": "Which form of blues uses a 12-bar structure?",
+    "answer": "Standard Blues"
+  },
+  {
     "question": "Which funk band released the hit 'Fantastic Voyage'?",
     "answer": "Lakeside"
   },
@@ -2230,6 +2354,10 @@
   {
     "question": "Which genre of music has deep roots in church chants?",
     "answer": "Gregorian chant"
+  },
+  {
+    "question": "Which genre of music originated in Berlin?",
+    "answer": "Minimal techno"
   },
   {
     "question": "Which genre of music originated in Germany in the 1970s?",
@@ -2578,6 +2706,10 @@
   {
     "question": "Which musical genre originated in the Ars Nova period?",
     "answer": "Isorhythm"
+  },
+  {
+    "question": "Which musical genre originated in the Middle Ages?",
+    "answer": "Motet"
   },
   {
     "question": "Which musical genre uses mathematical structures?",
@@ -2968,6 +3100,10 @@
     "answer": "Inner City Life"
   },
   {
+    "question": "Which track is significant for the house genre?",
+    "answer": "Move Your Body"
+  },
+  {
     "question": "Which track made High Contrast famous?",
     "answer": "'Days Go By'"
   },
@@ -2990,6 +3126,10 @@
   {
     "question": "Which work was composed by Johann Sebastian Bach?",
     "answer": "Brandenburg Concertos"
+  },
+  {
+    "question": "Who are considered the pioneers of dubstep?",
+    "answer": "Digital Mystikz"
   },
   {
     "question": "Who became famous for the track 'The Bridge Is Over'?",
@@ -3022,6 +3162,10 @@
   {
     "question": "Who composed 'Prometheus'?",
     "answer": "Scriabin"
+  },
+  {
+    "question": "Who composed 'Symphony No. 3'?",
+    "answer": "L. Beethoven"
   },
   {
     "question": "Who composed 'The Childhood of Jesus'?",
@@ -3114,6 +3258,10 @@
   {
     "question": "Who composed the opera 'Alceste'?",
     "answer": "C. W. Gluck"
+  },
+  {
+    "question": "Who composed the opera 'Boris Godunov'?",
+    "answer": "Mussorgsky"
   },
   {
     "question": "Who composed the opera 'Carmen'?",
@@ -3240,6 +3388,10 @@
     "answer": "Original Dixieland Jazz Band"
   },
   {
+    "question": "Who has most frequently won the 'Best International Artist' award?",
+    "answer": "Eminem"
+  },
+  {
     "question": "Who has won the most AMA awards?",
     "answer": "Taylor Swift"
   },
@@ -3270,6 +3422,10 @@
   {
     "question": "Who is a popular DJ often playing house music?",
     "answer": "Tiësto"
+  },
+  {
+    "question": "Who is a well-known DJ and producer in the techno genre?",
+    "answer": "Adam Beyer"
   },
   {
     "question": "Who is behind the Deadmau5 project?",
@@ -3366,6 +3522,10 @@
   {
     "question": "Who is the composer of 'In a Sentimental Mood'?",
     "answer": "Duke Ellington"
+  },
+  {
+    "question": "Who is the composer of 'Orfeo'?",
+    "answer": "Claudio Monteverdi"
   },
   {
     "question": "Who is the composer of 'Requiem'?",
@@ -3540,6 +3700,10 @@
     "answer": "Grandmaster Caz"
   },
   {
+    "question": "Who popularized funk?",
+    "answer": "James Brown"
+  },
+  {
     "question": "Who popularized the slap technique on the bass guitar in funk?",
     "answer": "Larry Graham"
   },
@@ -3566,6 +3730,10 @@
   {
     "question": "Who released the album 'Confessions on a Dance Floor'?",
     "answer": "Madonna"
+  },
+  {
+    "question": "Who released the album 'Funky Dory'?",
+    "answer": "Rachel Stevens"
   },
   {
     "question": "Who released the album 'Grace' in 1994?",
@@ -3688,6 +3856,10 @@
     "answer": "Philosopher"
   },
   {
+    "question": "Who was the first artist to receive a Grammy Award for Best Musical?",
+    "answer": "Meredith Willson"
+  },
+  {
     "question": "Who was the first artist to receive the 'Top Streaming Songs Artist' award?",
     "answer": "Drake"
   },
@@ -3774,6 +3946,10 @@
   {
     "question": "Who was the host of the AMA in 2021?",
     "answer": "Cardi B"
+  },
+  {
+    "question": "Who was the host of the EMA in 2015?",
+    "answer": "Ed Sheeran"
   },
   {
     "question": "Who was the lead vocalist of Pendulum?",

@@ -24,6 +24,10 @@
     "answer": "Increase"
   },
   {
+    "question": "How do macrophages recognize pathogens?",
+    "answer": "by PAMP"
+  },
+  {
     "question": "How do peptides contribute to skin rejuvenation?",
     "answer": "Stimulation of tissue reconstruction"
   },
@@ -126,6 +130,10 @@
   {
     "question": "Through which axis is the hypothalamic-pituitary-adrenal system activated during stress?",
     "answer": "HPA axis"
+  },
+  {
+    "question": "Through which mechanism do probiotics affect the immune system?",
+    "answer": "Stimulation of lymphocytes"
   },
   {
     "question": "What VO2 max value is considered high for untrained individuals?",
@@ -984,6 +992,10 @@
     "answer": "Opsonization"
   },
   {
+    "question": "What process does the complement system facilitate?",
+    "answer": "Opsonization of pathogens"
+  },
+  {
     "question": "What process initiates opsonization?",
     "answer": "Binding of antibodies"
   },
@@ -1050,6 +1062,10 @@
   {
     "question": "What role does hormonal balance play in joint health?",
     "answer": "Regulates inflammation"
+  },
+  {
+    "question": "What role does oxytocin play in stress management?",
+    "answer": "Reduction of anxiety"
   },
   {
     "question": "What role does the Major Histocompatibility Complex (MHC) play in immunity?",
@@ -1246,6 +1262,10 @@
   {
     "question": "Which brain waves are predominant during REM sleep?",
     "answer": "Beta waves"
+  },
+  {
+    "question": "Which cell develops in the alveoli for protection?",
+    "answer": "Macrophages"
   },
   {
     "question": "Which cell is necessary for the activation of the humoral immune response?",
@@ -1596,6 +1616,10 @@
     "answer": "Ceramides"
   },
   {
+    "question": "Which molecule activates phagocytes to destroy bacteria?",
+    "answer": "Cytokine"
+  },
+  {
     "question": "Which molecule is characterized by high variability in the immune response?",
     "answer": "Antibody"
   },
@@ -1666,6 +1690,10 @@
   {
     "question": "Which neurotransmitters are actively released during stress?",
     "answer": "Norepinephrine"
+  },
+  {
+    "question": "Which neurotransmitters are associated with sleep regulation?",
+    "answer": "GABA"
   },
   {
     "question": "Which nutrient is necessary to maintain normal progesterone levels?",
