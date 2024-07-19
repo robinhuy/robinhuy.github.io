@@ -320,6 +320,10 @@
     "answer": "The Amazing Spider-Man #300"
   },
   {
+    "question": "In which comic did Wanda Maximoff first appear?",
+    "answer": "X-Men #4"
+  },
+  {
     "question": "In which comic does Deadpool interact with philosophical concepts?",
     "answer": "Deadpool: Philosophy"
   },
@@ -1344,6 +1348,10 @@
     "answer": "Accident"
   },
   {
+    "question": "What event led Scott Lang to become Ant-Man?",
+    "answer": "Robbery"
+  },
+  {
     "question": "What event led Tony Stark to reassess his moral values?",
     "answer": "Capture by terrorists"
   },
@@ -2072,6 +2080,10 @@
     "answer": "The Seal of the Vishanti"
   },
   {
+    "question": "What is the name of Doctor Strange's mentor?",
+    "answer": "The Ancient One"
+  },
+  {
     "question": "What is the name of Doctor Strange's sanctuary in New York?",
     "answer": "Sanctum Sanctorum"
   },
@@ -2286,6 +2298,10 @@
   {
     "question": "What is the name of the medicine that instantly heals any wound in the Galactic Heroes comics?",
     "answer": "Elixir of Life"
+  },
+  {
+    "question": "What is the name of the mystical order that protects the world?",
+    "answer": "Kamar-Taj"
   },
   {
     "question": "What is the name of the newspaper where Peter Parker works?",
@@ -2662,6 +2678,10 @@
   {
     "question": "What magical artifact does Doctor Strange use for protection?",
     "answer": "Cloak of Levitation"
+  },
+  {
+    "question": "What magical aspect allows time manipulation in Marvel?",
+    "answer": "Temporal Control"
   },
   {
     "question": "What magical barrier protects dimensions from invasion?",
@@ -3308,6 +3328,10 @@
     "answer": "Support"
   },
   {
+    "question": "What role does Captain America play in maintaining morale among other superheroes?",
+    "answer": "Moral compass"
+  },
+  {
     "question": "What role does Captain Marvel play in the 'Avengers' team?",
     "answer": "Main fighter"
   },
@@ -3594,6 +3618,10 @@
   {
     "question": "What spell does Doctor Strange use for invulnerability?",
     "answer": "Circles of Agamotto"
+  },
+  {
+    "question": "What spell does Doctor Strange use for protection against dark magic?",
+    "answer": "Shield"
   },
   {
     "question": "What spell does Doctor Strange use to control time?",
@@ -3956,6 +3984,10 @@
     "answer": "Trial of Mjolnir"
   },
   {
+    "question": "What trial symbolizes true nobility in Asgard?",
+    "answer": "Worthiness of Mjolnir"
+  },
+  {
     "question": "What type of armor was created to protect against energy attacks?",
     "answer": "Energy shield"
   },
@@ -3990,6 +4022,10 @@
   {
     "question": "What type of magic does Wanda use to alter reality?",
     "answer": "Chaos magic"
+  },
+  {
+    "question": "What type of sensors in armor allows for the detection of hidden threats?",
+    "answer": "Stealth detectors"
   },
   {
     "question": "What type of sensors provide a 360-degree view for the pilot of the suit?",
@@ -4632,6 +4668,10 @@
     "answer": "Animus"
   },
   {
+    "question": "Which Marvel villain manipulated reality to achieve their goals?",
+    "answer": "Master Pandemonium"
+  },
+  {
     "question": "Which Marvel villain orchestrated the events leading to the Infinity War?",
     "answer": "Thanos"
   },
@@ -4834,6 +4874,10 @@
   {
     "question": "Which ally helped Banner deal with his transformations?",
     "answer": "Doctor Strange"
+  },
+  {
+    "question": "Which ally of Captain America became the Winter Soldier?",
+    "answer": "Bucky Barnes"
   },
   {
     "question": "Which ally of Hulk became his enemy due to a misunderstanding?",
@@ -5536,6 +5580,10 @@
     "answer": "Bruce"
   },
   {
+    "question": "Which character wears a suit made of vibranium?",
+    "answer": "Black Panther"
+  },
+  {
     "question": "Which character wears the Iron Man suit after Tony Stark?",
     "answer": "James Rhodes"
   },
@@ -5574,6 +5622,10 @@
   {
     "question": "Which comic book character was a close ally of Captain America and later gained their own superhero identity?",
     "answer": "Bucky Barnes"
+  },
+  {
+    "question": "Which comic book depicted a universe where heroes became zombies?",
+    "answer": "Marvel Zombies"
   },
   {
     "question": "Which comic book depicted an event where all heroes were stripped of their powers?",
@@ -6016,6 +6068,10 @@
     "answer": "Howard the Duck"
   },
   {
+    "question": "Which famous helmet is featured in the movie 'Guardians of the Galaxy'?",
+    "answer": "Nova Corps Helmet"
+  },
+  {
     "question": "Which famous logo appears in Peter Parker's apartment in the movie 'Spider-Man'?",
     "answer": "NASA logo"
   },
@@ -6274,6 +6330,10 @@
   {
     "question": "Which member of the 'Avengers' was the first to make contact with Carol Danvers?",
     "answer": "Nick Fury"
+  },
+  {
+    "question": "Which member of the 'Fantastic Four' is known for their ability to become invisible?",
+    "answer": "Invisible Woman"
   },
   {
     "question": "Which member of the Avengers played a key role in the development of the Hulk?",
@@ -7192,6 +7252,10 @@
     "answer": "Extremis"
   },
   {
+    "question": "Which version of Spider-Man comes from an alternate universe with a noir style?",
+    "answer": "Spider-Man Noir"
+  },
+  {
     "question": "Which version of Spider-Man is from universe 1610?",
     "answer": "Ultimate"
   },
@@ -7680,6 +7744,10 @@
     "answer": "Dark King"
   },
   {
+    "question": "Who inspired Peter Parker to become a superhero?",
+    "answer": "Uncle Ben"
+  },
+  {
     "question": "Who invented the Hulk?",
     "answer": "Stan Lee"
   },
@@ -7722,6 +7790,10 @@
   {
     "question": "Who is considered the guardian of magic on Earth?",
     "answer": "Wong"
+  },
+  {
+    "question": "Who is known as Drax the Destroyer?",
+    "answer": "Drax"
   },
   {
     "question": "Who is known for their armor and ambition for world domination?",
