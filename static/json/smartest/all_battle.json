@@ -38703,6 +38703,10 @@
         "answer": "Accelerates expansion"
     },
     {
+        "question": "How does dark energy affect the density of the Universe?",
+        "answer": "Decreases"
+    },
+    {
         "question": "How does dark energy interact with other forms of energy in the cosmos?",
         "answer": "Gravitationally"
     },
@@ -38803,6 +38807,10 @@
         "answer": "Stability of rotation"
     },
     {
+        "question": "How does the environment influence the formation of galactic clusters?",
+        "answer": "Gravitational interaction"
+    },
+    {
         "question": "How does the galactic bar affect the movement of stars in the Milky Way?",
         "answer": "Speeds them up"
     },
@@ -38825,6 +38833,10 @@
     {
         "question": "How does the interaction of galaxies in clusters affect their evolution?",
         "answer": "Mergers"
+    },
+    {
+        "question": "How does the interaction of galaxies shape their structures?",
+        "answer": "Form disks"
     },
     {
         "question": "How does the magnetic field influence the formation of protostars?",
@@ -38905,6 +38917,10 @@
     {
         "question": "How is the magnetic field of an exoplanet studied?",
         "answer": "Radio sounding"
+    },
+    {
+        "question": "How is the mass of a black hole in a binary system measured?",
+        "answer": "By orbits"
     },
     {
         "question": "How is the mass of a black hole in galactic nuclei determined?",
@@ -39267,6 +39283,10 @@
         "answer": "Acceleration of flows"
     },
     {
+        "question": "What effect does stellar radiation have on the atmospheric chemistry of planets?",
+        "answer": "Photodissociation of molecules"
+    },
+    {
         "question": "What effect does stellar wind have on exoplanets?",
         "answer": "Atmospheric erosion"
     },
@@ -39443,6 +39463,10 @@
         "answer": "Gravitational forces"
     },
     {
+        "question": "What factors determine the level of radiation threat in space?",
+        "answer": "Cosmic rays"
+    },
+    {
         "question": "What factors determine variations in ionospheric currents during magnetic storms?",
         "answer": "Solar wind"
     },
@@ -39599,6 +39623,10 @@
         "answer": "Star formation"
     },
     {
+        "question": "What is the albedo of the exoplanet Kepler-10b?",
+        "answer": "0.1"
+    },
+    {
         "question": "What is the average density of the Universe?",
         "answer": "Very low"
     },
@@ -39729,6 +39757,10 @@
     {
         "question": "What is the phenomenon called that explains the distribution of large-scale structures in the Universe?",
         "answer": "Cosmic inflation"
+    },
+    {
+        "question": "What is the primary method used to study the internal structure of asteroids?",
+        "answer": "Radar echo sounding"
     },
     {
         "question": "What is the primary role of the galactic magnetic field in the Milky Way?",
@@ -39907,6 +39939,10 @@
         "answer": "Core formation"
     },
     {
+        "question": "What is the role of turbulence in the process of accretion of matter?",
+        "answer": "Accelerates accretion"
+    },
+    {
         "question": "What is the significance of galactic winds in evolution?",
         "answer": "Mass ejection"
     },
@@ -39917,6 +39953,10 @@
     {
         "question": "What is the significance of the constancy of the speed of light in Einstein's equations?",
         "answer": "Basic condition"
+    },
+    {
+        "question": "What is the significance of the galactic bar for the evolution of the Milky Way?",
+        "answer": "Mass transport"
     },
     {
         "question": "What is the significance of the lambda-CDM model for understanding the evolution of the Universe?",
@@ -40029,6 +40069,10 @@
     {
         "question": "What mechanisms are considered for detecting biosignals in the atmospheres of exoplanets?",
         "answer": "Spectral analysis"
+    },
+    {
+        "question": "What mechanisms can sustain a magnetic field on potentially habitable planets?",
+        "answer": "Liquid core"
     },
     {
         "question": "What mechanisms contribute to the redistribution of angular momentum in a galaxy?",
@@ -40151,6 +40195,10 @@
         "answer": "Gravitational lensing"
     },
     {
+        "question": "What methods are used to predict geomagnetic storms and their impact on Earth?",
+        "answer": "Numerical modeling"
+    },
+    {
         "question": "What methods are used to stabilize satellite orbits around Jupiter?",
         "answer": "Gravitational maneuvering"
     },
@@ -40233,6 +40281,10 @@
     {
         "question": "What parameter determines the stability of the Universe in large-scale structures?",
         "answer": "Cosmological constant"
+    },
+    {
+        "question": "What parameter is critically important for the stability of Jupiter's satellite orbits?",
+        "answer": "Magnetic field"
     },
     {
         "question": "What parameter of a star system is critical for the stability of exoplanet orbits?",
@@ -40383,8 +40435,16 @@
         "answer": "Gravitational interactions"
     },
     {
+        "question": "What phenomenon in the Milky Way is associated with the presence of large-scale magnetic fields?",
+        "answer": "Galactic magnetism"
+    },
+    {
         "question": "What phenomenon in the Solar System explains the movement of icy bodies near gas giants?",
         "answer": "Gravitational maneuver"
+    },
+    {
+        "question": "What phenomenon indicates the activity of an exoplanet's crust?",
+        "answer": "Volcanism"
     },
     {
         "question": "What phenomenon is associated with a sudden change in the space-time structure?",
@@ -40457,6 +40517,10 @@
     {
         "question": "What physical mechanism is responsible for the homogeneity of the Universe?",
         "answer": "Inflation"
+    },
+    {
+        "question": "What physical models describe the Universe?",
+        "answer": "Quantum theory"
     },
     {
         "question": "What physical models study the expansion of the Universe?",
@@ -40763,6 +40827,10 @@
         "answer": "Quantum fluctuations"
     },
     {
+        "question": "What quantum phenomenon is studied in the context of a black hole singularity?",
+        "answer": "Decoherence"
+    },
+    {
         "question": "What quantum state preceded the moment of singularity?",
         "answer": "Quantum foam"
     },
@@ -40893,6 +40961,10 @@
     {
         "question": "What structure in space can cause a violation of the causality principle?",
         "answer": "Virtual singularity"
+    },
+    {
+        "question": "What studies are conducted to confirm the extraterrestrial origin of amino acids in meteorites?",
+        "answer": "Isotopic analysis"
     },
     {
         "question": "What studies help understand the impact of space weather on technology?",
@@ -41207,6 +41279,10 @@
         "answer": "John Michell"
     },
     {
+        "question": "Which astronomer proposed the existence of star wormholes?",
+        "answer": "Kip Thorne"
+    },
+    {
         "question": "Which astronomer proposed the first theory of light years?",
         "answer": "Ole Rømer"
     },
@@ -41235,6 +41311,10 @@
         "answer": "Karl Jansky"
     },
     {
+        "question": "Which astronomical techniques reveal the nature of gravitational anomalies?",
+        "answer": "Gravitational lensing"
+    },
+    {
         "question": "Which biological process was first successfully conducted in the conditions of space microgravity?",
         "answer": "Protein crystallization"
     },
@@ -41255,6 +41335,10 @@
         "answer": "Perseus"
     },
     {
+        "question": "Which constellation in the southern hemisphere is known as the inverted snake?",
+        "answer": "Hydra"
+    },
+    {
         "question": "Which constellation is associated with a mythical creature that guards sacred groves?",
         "answer": "Boötes"
     },
@@ -41273,6 +41357,10 @@
     {
         "question": "Which constellation is associated with the myth of Patroclus's death and his protection by Achilles?",
         "answer": "Ophiuchus"
+    },
+    {
+        "question": "Which constellation is associated with the myth of a woman with a snake's tail?",
+        "answer": "Draco"
     },
     {
         "question": "Which constellation is associated with the mythological battle between two great warriors?",
@@ -41335,6 +41423,10 @@
         "answer": "Air regeneration system"
     },
     {
+        "question": "Which element was first detected in the atmosphere of an exoplanet?",
+        "answer": "Sodium"
+    },
+    {
         "question": "Which exoplanet has a 3:2 orbital resonance?",
         "answer": "Gliese 581g"
     },
@@ -41369,6 +41461,10 @@
     {
         "question": "Which experiments are aimed at identifying dark matter particles?",
         "answer": "LUX"
+    },
+    {
+        "question": "Which experiments are aimed at studying the fundamental properties of cosmic anomalies?",
+        "answer": "LHC experiments"
     },
     {
         "question": "Which factor most influences the rate of radiative cooling of large exoplanets?",
@@ -41461,6 +41557,10 @@
     {
         "question": "Which mission was the first to discover traces of ancient life on Mars?",
         "answer": "Curiosity"
+    },
+    {
+        "question": "Which mission was the first to fly by all four Galilean moons?",
+        "answer": "Galileo"
     },
     {
         "question": "Which mission was the first to land on the surface of the Moon after the year 2000?",
@@ -41595,6 +41695,10 @@
         "answer": "Quantum fluctuations"
     },
     {
+        "question": "Which physical theories attempt to unify the properties of dark matter and dark energy?",
+        "answer": "String theory"
+    },
+    {
         "question": "Which physicist first proposed the concept of a universe with multiple parallel worlds?",
         "answer": "Hugh Everett"
     },
@@ -41607,6 +41711,10 @@
         "answer": "Edward Witten"
     },
     {
+        "question": "Which planet was discovered using radio telescopes?",
+        "answer": "No such discovery"
+    },
+    {
         "question": "Which principle of physics states the equivalence of inertial and gravitational mass?",
         "answer": "Principle of Equivalence"
     },
@@ -41617,6 +41725,10 @@
     {
         "question": "Which probe used radar to study the lunar polar caps?",
         "answer": "Chandrayaan-1"
+    },
+    {
+        "question": "Which probe was the first to explore the subsurface oceans on Europa?",
+        "answer": "Galileo"
     },
     {
         "question": "Which probe was the first to land on Mars using aerodynamic braking?",
@@ -42029,6 +42141,10 @@
     {
         "question": "Who developed the first radio telescopes and discovered radio galaxies?",
         "answer": "Bernard Lovell"
+    },
+    {
+        "question": "Who developed the theory of Earth's cooling?",
+        "answer": "Kelvin"
     },
     {
         "question": "Who discovered that the luminosity of galaxies correlates with their rotation speed?",
