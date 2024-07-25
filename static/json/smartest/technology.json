@@ -12,6 +12,10 @@
     "answer": "Medicine"
   },
   {
+    "question": "How are genes introduced?",
+    "answer": "Using a vector"
+  },
+  {
     "question": "How are recombinant proteins produced?",
     "answer": "Using DNA technologies"
   },
@@ -1944,6 +1948,10 @@
     "answer": "Hydrogel"
   },
   {
+    "question": "Which materials have nanoscale properties?",
+    "answer": "Nanomaterials"
+  },
+  {
     "question": "Which method adds a new block?",
     "answer": "Addition"
   },
@@ -1966,6 +1974,10 @@
   {
     "question": "Which method is safe for storing information?",
     "answer": "Secure hard drive"
+  },
+  {
+    "question": "Which method is used to create functional coatings?",
+    "answer": "Electrophoresis"
   },
   {
     "question": "Which method reduces overfitting?",
