@@ -7381,6 +7381,10 @@
         "answer": "Zander"
     },
     {
+        "question": "For which type of fishing is an underwater camera used?",
+        "answer": "Winter"
+    },
+    {
         "question": "How can you determine the age of a fish by its appearance?",
         "answer": "By its scales"
     },
@@ -7417,6 +7421,14 @@
         "answer": "in meters"
     },
     {
+        "question": "How many hours a day is fishing most effective?",
+        "answer": "4 hours"
+    },
+    {
+        "question": "How many types of fishing are there?",
+        "answer": "Many"
+    },
+    {
         "question": "How often should a fishing hook be changed?",
         "answer": "When it becomes dull"
     },
@@ -7435,6 +7447,10 @@
     {
         "question": "How often should you soak fish before cooking?",
         "answer": "Depends on the recipe"
+    },
+    {
+        "question": "How to choose a fishing rod for carp fishing?",
+        "answer": "Strong and flexible"
     },
     {
         "question": "How to hold the fish while reeling it in?",
@@ -7503,6 +7519,10 @@
     {
         "question": "What are bathymetric maps used for?",
         "answer": "Studying the seafloor topography"
+    },
+    {
+        "question": "What are dough mixers used for?",
+        "answer": "for kneading dough"
     },
     {
         "question": "What are isobaths useful for?",
@@ -7633,8 +7653,16 @@
         "answer": "Live bait"
     },
     {
+        "question": "What do you need to hunt a stingray?",
+        "answer": "Harpoon"
+    },
+    {
         "question": "What does a nautical chart depict?",
         "answer": "Sea charts"
+    },
+    {
+        "question": "What does a nautical chart show?",
+        "answer": "Depths"
     },
     {
         "question": "What does a trout eat?",
@@ -7665,6 +7693,14 @@
         "answer": "Battery"
     },
     {
+        "question": "What events are often held at fishing lodges?",
+        "answer": "Fishing tournaments"
+    },
+    {
+        "question": "What factor helps to avoid line tangling?",
+        "answer": "Technique"
+    },
+    {
         "question": "What factor is most important for successful ice fishing?",
         "answer": "Ice"
     },
@@ -7683,6 +7719,10 @@
     {
         "question": "What feature of the fishing line affects the casting distance?",
         "answer": "weight"
+    },
+    {
+        "question": "What fish inhabits Antarctica?",
+        "answer": "Icefish"
     },
     {
         "question": "What fish inhabits fast-flowing rivers?",
@@ -7797,6 +7837,10 @@
         "answer": "swinging"
     },
     {
+        "question": "What improves navigation accuracy on water?",
+        "answer": "GPS"
+    },
+    {
         "question": "What information can be obtained using a directed sound wave underwater?",
         "answer": "Seafloor topography"
     },
@@ -7807,6 +7851,10 @@
     {
         "question": "What instrument is used to measure the salinity of water?",
         "answer": "Salinometer"
+    },
+    {
+        "question": "What is a 'bryushchatka' in fishing?",
+        "answer": "Artificial bait"
     },
     {
         "question": "What is a 'cobra' in ice fishing?",
@@ -7929,6 +7977,10 @@
         "answer": "Ice fishing"
     },
     {
+        "question": "What is the device called for automatic boat control?",
+        "answer": "Autopilot"
+    },
+    {
         "question": "What is the device called for displaying underwater objects?",
         "answer": "Sonar"
     },
@@ -7965,6 +8017,10 @@
         "answer": "10 kg"
     },
     {
+        "question": "What is the most basic casting technique?",
+        "answer": "Overhead"
+    },
+    {
         "question": "What is the most dietary method of cooking fish?",
         "answer": "Steaming"
     },
@@ -7993,6 +8049,10 @@
         "answer": "Samodur"
     },
     {
+        "question": "What is the name of the high-sensitivity sensor on a fishing rod?",
+        "answer": "Gyroscope"
+    },
+    {
         "question": "What is the name of the knot used for catching large fish?",
         "answer": "Palomar knot"
     },
@@ -8003,6 +8063,10 @@
     {
         "question": "What is the name of the multi-toothed lure used for catching pike?",
         "answer": "Wobbler"
+    },
+    {
+        "question": "What is the name of the special knot for tying a hook?",
+        "answer": "Palomar"
     },
     {
         "question": "What is the name of the spring fishing tournament?",
@@ -8021,6 +8085,10 @@
         "answer": "Fine"
     },
     {
+        "question": "What is the primary function of navigational charts?",
+        "answer": "Navigation"
+    },
+    {
         "question": "What is the process of drying fish in the air called?",
         "answer": "Airing"
     },
@@ -8031,6 +8099,10 @@
     {
         "question": "What is the purpose of a fishing map?",
         "answer": "Identifying fish habitats"
+    },
+    {
+        "question": "What is the temporary shelter for fishermen called?",
+        "answer": "Tent"
     },
     {
         "question": "What is the term for placing multiple hooks on one fishing line?",
@@ -8047,6 +8119,10 @@
     {
         "question": "What is the working principle of feeder fishing?",
         "answer": "with a feeder"
+    },
+    {
+        "question": "What is used for catching fish on the water's surface?",
+        "answer": "Surface lures"
     },
     {
         "question": "What is used for winter fishing in shallow water?",
@@ -8073,6 +8149,10 @@
         "answer": "Fisherman's"
     },
     {
+        "question": "What knot is used to connect a fishing line with a braided line?",
+        "answer": "FG knot"
+    },
+    {
         "question": "What lines are used to indicate depths on maps?",
         "answer": "Isobaths"
     },
@@ -8083,6 +8163,10 @@
     {
         "question": "What lure is best to use for fishing in murky water?",
         "answer": "Bright twister"
+    },
+    {
+        "question": "What lure is often used for fishing in a river?",
+        "answer": "Spoon lure"
     },
     {
         "question": "What lure should be chosen for fishing at depth?",
@@ -8103,6 +8187,10 @@
     {
         "question": "What movement is made during jigging?",
         "answer": "Lure hopping"
+    },
+    {
+        "question": "What must be released back into the water body?",
+        "answer": "Small fish"
     },
     {
         "question": "What negatively affects water bodies?",
@@ -8177,8 +8265,16 @@
         "answer": "Line"
     },
     {
+        "question": "What tackle is used for shark fishing?",
+        "answer": "Cape Codder"
+    },
+    {
         "question": "What tactic helps to increase the fish catch?",
         "answer": "Studying the body of water"
+    },
+    {
+        "question": "What tactic is effective for catching large carp?",
+        "answer": "Float fishing"
     },
     {
         "question": "What tactic is used for catching catfish?",
@@ -8199,6 +8295,10 @@
     {
         "question": "What technique helps to hold your breath underwater?",
         "answer": "Apnea"
+    },
+    {
+        "question": "What technique is important when reeling in large fish?",
+        "answer": "Fine tuning"
     },
     {
         "question": "What technique is particularly useful for fly fishing in shallow waters?",
@@ -8289,6 +8389,10 @@
         "answer": "Bone"
     },
     {
+        "question": "What type of fishing involves the use of fly fishing tackle?",
+        "answer": "Fly fishing"
+    },
+    {
         "question": "What type of fishing line is best suited for catching trophy fish?",
         "answer": "braided"
     },
@@ -8365,6 +8469,10 @@
         "answer": "Harmful"
     },
     {
+        "question": "What viscosity should carp bait have?",
+        "answer": "high"
+    },
+    {
         "question": "What was the ancient Roman method of fishing using hooks called?",
         "answer": "Piscatio"
     },
@@ -8407,6 +8515,10 @@
     {
         "question": "What woolen clothing should be avoided when fishing?",
         "answer": "Sweater"
+    },
+    {
+        "question": "When did people start using floats?",
+        "answer": "In the 15th century"
     },
     {
         "question": "When did people start using nets?",
@@ -8453,12 +8565,20 @@
         "answer": "China"
     },
     {
+        "question": "Which ancient Roman author wrote a treatise on fishing?",
+        "answer": "Oppian"
+    },
+    {
         "question": "Which bases are specially equipped for winter fishing?",
         "answer": "Special"
     },
     {
         "question": "Which boots are best for ice fishing?",
         "answer": "With thermal insulation"
+    },
+    {
+        "question": "Which casting method for spinning is the most accurate?",
+        "answer": "Overhead"
     },
     {
         "question": "Which country became famous for the dish 'boiled anchovy'?",
@@ -8601,6 +8721,14 @@
         "answer": "Moray eel"
     },
     {
+        "question": "Which fish is known as the 'blue dragon'?",
+        "answer": "Blue dragon"
+    },
+    {
+        "question": "Which fish is known as the 'queen of the rivers'?",
+        "answer": "Salmon"
+    },
+    {
         "question": "Which fish is known for its 'dance' during courtship?",
         "answer": "Mandarinfish"
     },
@@ -8619,6 +8747,14 @@
     {
         "question": "Which fish is known for its ability to mimic other marine creatures?",
         "answer": "Mimic fish"
+    },
+    {
+        "question": "Which fish is known for its ability to produce milk?",
+        "answer": "Milkfish"
+    },
+    {
+        "question": "Which fish is known for its ability to swim up waterfalls?",
+        "answer": "Salmon"
     },
     {
         "question": "Which fish is known for its fast swimming speed?",
@@ -8643,6 +8779,10 @@
     {
         "question": "Which fish is most active in winter?",
         "answer": "Roach"
+    },
+    {
+        "question": "Which fish is nicknamed 'brick fish'?",
+        "answer": "Tetraodont"
     },
     {
         "question": "Which fish is nicknamed 'white hunter'?",
@@ -8691,6 +8831,10 @@
     {
         "question": "Which fish most often looks like a seahorse?",
         "answer": "Leafy sea dragon"
+    },
+    {
+        "question": "Which fish most often requires the use of anchor buoys?",
+        "answer": "Tuna"
     },
     {
         "question": "Which fish need protection?",
@@ -8753,6 +8897,10 @@
         "answer": "Bramshkotovy knot"
     },
     {
+        "question": "Which knot is best suited for holding heavy loads?",
+        "answer": "Clinch"
+    },
+    {
         "question": "Which knot is best suited for use with a carabiner?",
         "answer": "Munter hitch"
     },
@@ -8805,6 +8953,10 @@
         "answer": "Aero knot"
     },
     {
+        "question": "Which knot is recommended for tying fishing hooks?",
+        "answer": "Sandwich Knot"
+    },
+    {
         "question": "Which knot is recommended for use in freshwater?",
         "answer": "Freshwater knot"
     },
@@ -8815,6 +8967,10 @@
     {
         "question": "Which knot is suitable for creating a strong loop?",
         "answer": "Bowline"
+    },
+    {
+        "question": "Which knot is suitable for high-strength fishing line?",
+        "answer": "Double Uni Knot"
     },
     {
         "question": "Which knot is suitable for large bodies of water?",
@@ -8873,6 +9029,10 @@
         "answer": "Line guide"
     },
     {
+        "question": "Which part of the fishing rod touches the line last?",
+        "answer": "Guide ring"
+    },
+    {
         "question": "Which part of the river is best suited for fly fishing?",
         "answer": "Riffle"
     },
@@ -8887,6 +9047,10 @@
     {
         "question": "Which river is known for a large number of big fish?",
         "answer": "Amur"
+    },
+    {
+        "question": "Which river is suitable for fly fishing?",
+        "answer": "Fish River"
     },
     {
         "question": "Which rivers are best suited for fly fishing?",
@@ -8943,6 +9107,10 @@
     {
         "question": "Which type of fish is distinguished by highly developed fins?",
         "answer": "Snakehead"
+    },
+    {
+        "question": "Who caught the largest shark?",
+        "answer": "John Lynch"
     },
     {
         "question": "Who invented the first mechanical hook?",
