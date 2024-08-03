@@ -172,6 +172,10 @@
     "answer": "January"
   },
   {
+    "question": "In which month is hunting game allowed?",
+    "answer": "November"
+  },
+  {
     "question": "In which month is it optimal to hunt in the winter season?",
     "answer": "January"
   },
@@ -692,6 +696,10 @@
     "answer": "Call"
   },
   {
+    "question": "What is prohibited during the animal breeding season?",
+    "answer": "Hunting"
+  },
+  {
     "question": "What is protected in the Lazovsky Nature Reserve?",
     "answer": "Tigers"
   },
@@ -1136,8 +1144,16 @@
     "answer": "Cool it down"
   },
   {
+    "question": "What should be the strength of the marinade?",
+    "answer": "Medium"
+  },
+  {
     "question": "What should be the weapon for hunting a boar?",
     "answer": "Heavy and powerful"
+  },
+  {
+    "question": "What should you do if bitten by a snake?",
+    "answer": "Immobilize the limb"
   },
   {
     "question": "What should you do if you encounter a bear?",
@@ -1174,6 +1190,10 @@
   {
     "question": "What tactic is used to attract game?",
     "answer": "Sound lure"
+  },
+  {
+    "question": "What technique is used for rapid shooting?",
+    "answer": "Instinctive shooting"
   },
   {
     "question": "What technique is used for stealthy movement across a field?",
@@ -1326,6 +1346,10 @@
   {
     "question": "What type of hunting is used for tracking animals from a distance?",
     "answer": "Stalking"
+  },
+  {
+    "question": "What type of hunting knife is considered the most convenient?",
+    "answer": "Fixed blade"
   },
   {
     "question": "What type of hunting requires good knowledge of animal behavior?",
@@ -1582,6 +1606,10 @@
   {
     "question": "Which area is part of protected territories?",
     "answer": "Nature reserve"
+  },
+  {
+    "question": "Which arrow is designed for deep penetration of the target?",
+    "answer": "Broadhead"
   },
   {
     "question": "Which backpack is best suited for winter hunting?",
