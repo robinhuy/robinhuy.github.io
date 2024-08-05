@@ -20,6 +20,10 @@
     "answer": "Inevitability"
   },
   {
+    "question": "How are the Deathly Hallows related to the concept of power and ambition in the book series?",
+    "answer": "Power"
+  },
+  {
     "question": "How are the themes of death and immortality explored in 'The Deathly Hallows'?",
     "answer": "Master of the three artifacts"
   },
@@ -30,6 +34,10 @@
   {
     "question": "How could the presence of a Horcrux be determined?",
     "answer": "Dark magic"
+  },
+  {
+    "question": "How did Arthur Weasley demonstrate his ingenuity at work?",
+    "answer": "Projects with Muggles"
   },
   {
     "question": "How did Draco Malfoy use the Vanishing Cabinet?",
@@ -244,12 +252,20 @@
     "answer": "Goblet of Fire"
   },
   {
+    "question": "In which century was Hogwarts founded?",
+    "answer": "10th century"
+  },
+  {
     "question": "In which event did the Malfoy family play a significant role in the Harry Potter books?",
     "answer": "The War with Voldemort"
   },
   {
     "question": "In which work is the symbol of the Deathly Hallows first mentioned?",
     "answer": "Harry Potter and the Deathly Hallows"
+  },
+  {
+    "question": "To which house will you be sorted for kindness?",
+    "answer": "Hufflepuff"
   },
   {
     "question": "To whom did Dumbledore bequeath the Invisibility Cloak?",
@@ -298,6 +314,10 @@
   {
     "question": "What animal is associated with Gryffindor?",
     "answer": "Lion"
+  },
+  {
+    "question": "What animal is the symbol of Ravenclaw house?",
+    "answer": "Eagle"
   },
   {
     "question": "What animal is the symbol of the Slytherin house?",
@@ -430,6 +450,10 @@
   {
     "question": "What character trait is associated with the symbol of the lion?",
     "answer": "Bravery"
+  },
+  {
+    "question": "What characteristic is a distinguishing trait of Slytherin students?",
+    "answer": "Cunning"
   },
   {
     "question": "What cloak can make you invisible?",
@@ -764,6 +788,10 @@
     "answer": "Lobbying laws"
   },
   {
+    "question": "What influence does the Order of the Phoenix have on the Ministry of Magic?",
+    "answer": "Indirect influence"
+  },
+  {
     "question": "What influenced Voldemort's choice of the path of darkness and cruelty?",
     "answer": "Fear of death"
   },
@@ -908,6 +936,10 @@
     "answer": "Attract misfortune"
   },
   {
+    "question": "What is the dark fortress in the wizarding world?",
+    "answer": "Azkaban"
+  },
+  {
     "question": "What is the hair color of all the Weasley children?",
     "answer": "Red"
   },
@@ -1008,6 +1040,10 @@
     "answer": "Unknown"
   },
   {
+    "question": "What is the relationship between the Malfoys and the Ministry of Magic after Voldemort's defeat?",
+    "answer": "Strained"
+  },
+  {
     "question": "What is the role of international contacts in the order's strategy?",
     "answer": "Gathering intelligence"
   },
@@ -1066,6 +1102,10 @@
   {
     "question": "What item enhances the abilities of Legilimency?",
     "answer": "Seer's Helmet"
+  },
+  {
+    "question": "What item helped Harry Potter view the map of the castle?",
+    "answer": "Marauder's Map"
   },
   {
     "question": "What item helped Harry and his friends sneak around unnoticed?",
@@ -1300,6 +1340,10 @@
     "answer": "Protective dome"
   },
   {
+    "question": "What magical method did the Weasleys use for long-distance communication?",
+    "answer": "Floo Powder"
+  },
+  {
     "question": "What magical object is hidden in Godric's Hollow?",
     "answer": "Grave Skull"
   },
@@ -1310,6 +1354,10 @@
   {
     "question": "What magical object was destroyed in the Room of Requirement?",
     "answer": "Diadem"
+  },
+  {
+    "question": "What magical object was used to capture a soul?",
+    "answer": "Horcrux"
   },
   {
     "question": "What magical phenomenon is studied in secret laboratories?",
@@ -1332,8 +1380,16 @@
     "answer": "Creating a Horcrux"
   },
   {
+    "question": "What magical properties make the houses at Hogwarts unique?",
+    "answer": "Secret"
+  },
+  {
     "question": "What magical protection guards Hogwarts from intrusions?",
     "answer": "Anti-Apparition"
+  },
+  {
+    "question": "What magical protection was used to defend against dark charms in the decisive battle?",
+    "answer": "Protego Maxima"
   },
   {
     "question": "What magical protection was used to guard the locket?",
@@ -1342,6 +1398,10 @@
   {
     "question": "What magical ritual was used to found Hogwarts?",
     "answer": "Arcanum"
+  },
+  {
+    "question": "What magical skill was used to control enchanted objects in the Weasley house?",
+    "answer": "Charms"
   },
   {
     "question": "What magical spell can destroy a Horcrux?",
@@ -1468,6 +1528,10 @@
     "answer": "Car"
   },
   {
+    "question": "What object was used to create the first Horcrux?",
+    "answer": "Diary"
+  },
+  {
     "question": "What object was used to send messages to the Order of the Phoenix?",
     "answer": "Patronus"
   },
@@ -1584,6 +1648,10 @@
     "answer": "Protego Totalum"
   },
   {
+    "question": "What protective spell did the Weasley family use in a critical moment?",
+    "answer": "Protego Maxima"
+  },
+  {
     "question": "What quality distinguishes the students of the Hogwarts house known for its modesty and honesty?",
     "answer": "Hard work"
   },
@@ -1614,6 +1682,10 @@
   {
     "question": "What rare ingredient is required for the potion that awakens icy powers?",
     "answer": "Snow Crystal"
+  },
+  {
+    "question": "What rare ingredient is used for a potion that enhances hearing?",
+    "answer": "Echo Stone"
   },
   {
     "question": "What rare ingredient is used for the potion granting invisibility?",
@@ -1820,6 +1892,10 @@
     "answer": "Transfiguration"
   },
   {
+    "question": "What spell causes confusion?",
+    "answer": "Confundus"
+  },
+  {
     "question": "What spell causes plants to grow?",
     "answer": "Floreatus"
   },
@@ -1834,6 +1910,10 @@
   {
     "question": "What spell creates the illusion of another person?",
     "answer": "Polyjuice Potion"
+  },
+  {
+    "question": "What spell destroys a Horcrux?",
+    "answer": "Basilisk venom"
   },
   {
     "question": "What spell did Harry Potter use against the dragon in the Triwizard Tournament?",
@@ -1866,6 +1946,10 @@
   {
     "question": "What spell is required to remove a magical effect?",
     "answer": "Finite Incantatem"
+  },
+  {
+    "question": "What spell is used for complex reconstruction of a magical entity after destruction?",
+    "answer": "Rekonstruo"
   },
   {
     "question": "What spell is used for immobilization?",
@@ -1920,8 +2004,16 @@
     "answer": "Resonario"
   },
   {
+    "question": "What spell is used to create a temporary illusion?",
+    "answer": "Fidelius"
+  },
+  {
     "question": "What spell is used to create a temporary magical barrier around the caster?",
     "answer": "Protego Totalum"
+  },
+  {
+    "question": "What spell is used to create an illusion of another time?",
+    "answer": "Temporal Glitch"
   },
   {
     "question": "What spell is used to create an invisible wall?",
@@ -2018,6 +2110,10 @@
   {
     "question": "What spell is used to stabilize flight?",
     "answer": "Aerodynamics"
+  },
+  {
+    "question": "What spell is used to summon ancient spiritual guardians in extreme danger?",
+    "answer": "Conflaygro"
   },
   {
     "question": "What spell is used to summon objects from a distance?",
@@ -2168,8 +2264,16 @@
     "answer": "Protecting her family"
   },
   {
+    "question": "What tactic did the Malfoys use to maintain their influence in society after Voldemort's fall?",
+    "answer": "Reevaluation of priorities"
+  },
+  {
     "question": "What tactic did the members of the Order of the Phoenix use for disguise?",
     "answer": "Polyjuice Potion"
+  },
+  {
+    "question": "What tactic is used by the Order to maintain confidentiality?",
+    "answer": "Magic Charms"
   },
   {
     "question": "What tactic was used in the defense of Hogwarts?",
@@ -2241,6 +2345,10 @@
   },
   {
     "question": "What type of magic is most commonly associated with the Malfoy family?",
+    "answer": "Dark magic"
+  },
+  {
+    "question": "What type of magic is used for domination or destruction?",
     "answer": "Dark magic"
   },
   {
@@ -2472,6 +2580,10 @@
     "answer": "Half-Blood Prince"
   },
   {
+    "question": "Which Deathly Hallow allows one to return to life?",
+    "answer": "Resurrection Stone"
+  },
+  {
     "question": "Which Deathly Hallows artifact is central to the story of the eldest brother?",
     "answer": "Elder Wand"
   },
@@ -2538,6 +2650,10 @@
   {
     "question": "Which actor played adult Harry in the epilogue?",
     "answer": "Daniel Radcliffe"
+  },
+  {
+    "question": "Which actor was originally cast as Sirius Black but was replaced?",
+    "answer": "Tim Roth"
   },
   {
     "question": "Which actress played the role of Bellatrix Lestrange?",
@@ -3080,6 +3196,10 @@
     "answer": "Amethyst essence"
   },
   {
+    "question": "Which element must be included in a potion to ensure its resistance to external magical influences?",
+    "answer": "Protective element"
+  },
+  {
     "question": "Which element of magical sports involves the use of special brooms?",
     "answer": "Flying"
   },
@@ -3110,6 +3230,10 @@
   {
     "question": "Which extract is used to create a potion that temporarily immobilizes an opponent?",
     "answer": "Moonflower"
+  },
+  {
+    "question": "Which famous artifact is associated with the history of the Malfoy family?",
+    "answer": "Peverell Ring"
   },
   {
     "question": "Which famous battle is directly associated with the members of the Weasley family?",
@@ -3324,6 +3448,10 @@
     "answer": "Lake Selena"
   },
   {
+    "question": "Which magical artifact can change the weather in a stadium?",
+    "answer": "Meteorglobe"
+  },
+  {
     "question": "Which magical artifact helps to detect deceit and lies?",
     "answer": "Truth Serum"
   },
@@ -3334,6 +3462,10 @@
   {
     "question": "Which magical artifact was crucial for preventing Voldemort's invulnerability?",
     "answer": "Horcrux"
+  },
+  {
+    "question": "Which magical artifacts were designed to overcome death?",
+    "answer": "Invisibility Cloak"
   },
   {
     "question": "Which magical bow is used for shooting?",
@@ -3552,6 +3684,10 @@
     "answer": "Coven of Archmages"
   },
   {
+    "question": "Which organization is responsible for tracking dark wizards?",
+    "answer": "Auror Office"
+  },
+  {
     "question": "Which place is famous for its cultural events?",
     "answer": "Pudlmir Venue"
   },
@@ -3566,6 +3702,10 @@
   {
     "question": "Which place is known for its magical portal gates?",
     "answer": "Jerusalem"
+  },
+  {
+    "question": "Which plan to capture Hogwarts failed due to betrayal among the Death Eaters?",
+    "answer": "Assault through the tunnels"
   },
   {
     "question": "Which player is known for inventing the maneuver 'Cherry Whirl'?",
@@ -3676,6 +3816,10 @@
     "answer": "Bloomsbury"
   },
   {
+    "question": "Which region is known for its magical storms?",
+    "answer": "Storm Coast"
+  },
+  {
     "question": "Which relic belonged to the founder of Hufflepuff?",
     "answer": "Cup"
   },
@@ -3706,6 +3850,10 @@
   {
     "question": "Which shop sells owls and supplies?",
     "answer": "Eeylops Owl Emporium"
+  },
+  {
+    "question": "Which society dedicated itself to the study of transfiguration phenomena?",
+    "answer": "Metamorphs"
   },
   {
     "question": "Which society studies the connection between Muggles and wizards?",
@@ -3912,8 +4060,16 @@
     "answer": "Ron Weasley"
   },
   {
+    "question": "Who developed tactics for operations in the magical world?",
+    "answer": "Albus Dumbledore"
+  },
+  {
     "question": "Who developed the visual style concept for the first Harry Potter film?",
     "answer": "Stuart Craig"
+  },
+  {
+    "question": "Who devised the escape plan from Little Whinging?",
+    "answer": "Alastor Moody"
   },
   {
     "question": "Who devised the plan to distract the enemy using Dumbledore's Army?",
@@ -3962,6 +4118,10 @@
   {
     "question": "Who helped Harry defeat Draco in a duel?",
     "answer": "Hermione Granger"
+  },
+  {
+    "question": "Who holds the position of Minister for Magic after the end of the war?",
+    "answer": "Kingsley Shacklebolt"
   },
   {
     "question": "Who illustrated the first editions?",
@@ -4046,6 +4206,10 @@
   {
     "question": "Who played the role of Professor Dumbledore after Richard Harris?",
     "answer": "Michael Gambon"
+  },
+  {
+    "question": "Who proposed the creation of Hogwarts?",
+    "answer": "The Founders"
   },
   {
     "question": "Who rescued Lucius from Azkaban?",
@@ -4134,6 +4298,10 @@
   {
     "question": "Who was the last owner of the Elder Wand?",
     "answer": "Harry Potter"
+  },
+  {
+    "question": "Who was the secret helper?",
+    "answer": "Kreacher"
   },
   {
     "question": "Who was the strategist in defending the magical world against the forces of darkness?",
