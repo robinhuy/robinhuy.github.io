@@ -60,6 +60,10 @@
     "answer": "Many"
   },
   {
+    "question": "How much does the largest catfish in the world weigh?",
+    "answer": "300 kg"
+  },
+  {
     "question": "How often should a fishing hook be changed?",
     "answer": "When it becomes dull"
   },
@@ -70,6 +74,10 @@
   {
     "question": "How often should you change your toothbrush head?",
     "answer": "Every 3 months"
+  },
+  {
+    "question": "How often should you clean your fishing rod?",
+    "answer": "After each fishing trip"
   },
   {
     "question": "How often should you drill new holes when ice fishing?",
@@ -280,6 +288,14 @@
     "answer": "Gloves"
   },
   {
+    "question": "What do contour lines on a map show?",
+    "answer": "relief"
+  },
+  {
+    "question": "What do fishermen use special footwear like waders for?",
+    "answer": "safety and comfort"
+  },
+  {
     "question": "What do they use to catch burbot in winter?",
     "answer": "Live bait"
   },
@@ -324,6 +340,10 @@
     "answer": "Battery"
   },
   {
+    "question": "What equipment is useful for stabilizing the position of a boat?",
+    "answer": "Anchor"
+  },
+  {
     "question": "What events are often held at fishing lodges?",
     "answer": "Fishing tournaments"
   },
@@ -360,6 +380,10 @@
     "answer": "Trout"
   },
   {
+    "question": "What fish is caught with a float fishing rod?",
+    "answer": "Crucian carp"
+  },
+  {
     "question": "What fish is the most popular catch in tropical seas?",
     "answer": "Cuban barracuda"
   },
@@ -382,6 +406,10 @@
   {
     "question": "What fishing method involves casting nets from a ship?",
     "answer": "Trawling"
+  },
+  {
+    "question": "What fishing technique involves using small lure weights?",
+    "answer": "Ultralight"
   },
   {
     "question": "What fishing technique is used at night for predatory fish?",
@@ -450,6 +478,10 @@
   {
     "question": "What helps to avoid barotrauma?",
     "answer": "Slow descent"
+  },
+  {
+    "question": "What helps to bring fish to the surface?",
+    "answer": "Winch"
   },
   {
     "question": "What helps to hold the fish in place during fishing without additional preparation?",
@@ -576,12 +608,24 @@
     "answer": "Tackle and license"
   },
   {
+    "question": "What is often added to fish for juiciness?",
+    "answer": "Oil"
+  },
+  {
+    "question": "What is often used to add scent to baits?",
+    "answer": "Attractants"
+  },
+  {
     "question": "What is often used to add weight to fly fishing lures?",
     "answer": "Lead"
   },
   {
     "question": "What is often used to determine the depth of water?",
     "answer": "Echo sounder"
+  },
+  {
+    "question": "What is the artificial lure for fly fishing called?",
+    "answer": "Fly"
   },
   {
     "question": "What is the best bait for catching crabs?",
@@ -634,6 +678,10 @@
   {
     "question": "What is the largest fish in the Amazon Basin?",
     "answer": "Arapaima"
+  },
+  {
+    "question": "What is the length of the mast?",
+    "answer": "4-5 meters"
   },
   {
     "question": "What is the lifespan of a trout?",
@@ -784,6 +832,10 @@
     "answer": "FG knot"
   },
   {
+    "question": "What knowledge is necessary for successful spearfishing?",
+    "answer": "Fish biology"
+  },
+  {
     "question": "What lines are used to indicate depths on maps?",
     "answer": "Isobaths"
   },
@@ -810,6 +862,10 @@
   {
     "question": "What material is used for a lightweight jig?",
     "answer": "Beads"
+  },
+  {
+    "question": "What material is used for invisible fishing line?",
+    "answer": "Fluorocarbon"
   },
   {
     "question": "What movement helps control the lure when casting?",
@@ -912,6 +968,10 @@
     "answer": "long casting"
   },
   {
+    "question": "What technique allows controlling the direction of the fly in fly fishing?",
+    "answer": "Mending"
+  },
+  {
     "question": "What technique helps improve breath-holding?",
     "answer": "Hyperventilation"
   },
@@ -978,6 +1038,10 @@
   {
     "question": "What thickness of fishing line is used for catching large bream?",
     "answer": "0.2-0.3 mm"
+  },
+  {
+    "question": "What thickness of fishing line should be chosen for catching large burbot?",
+    "answer": "Above 0.35 mm"
   },
   {
     "question": "What to do in case of quota violations?",
@@ -1070,6 +1134,10 @@
   {
     "question": "What type of marine fish lives at the greatest depth?",
     "answer": "Mariana eel"
+  },
+  {
+    "question": "What type of retrieve is important when fishing in cold water?",
+    "answer": "Slow"
   },
   {
     "question": "What type of rod is often used for catfish fishing?",
@@ -1172,12 +1240,20 @@
     "answer": "During jerks"
   },
   {
+    "question": "When is the best time to fish in winter?",
+    "answer": "Before dawn"
+  },
+  {
     "question": "When is twitching used?",
     "answer": "Predator fishing"
   },
   {
     "question": "When should you release the fishing line when casting?",
     "answer": "on the upswing"
+  },
+  {
+    "question": "Where did the first known fishing trawl originate?",
+    "answer": "Northern Europe"
   },
   {
     "question": "Where do people fish in winter?",
@@ -1198,6 +1274,10 @@
   {
     "question": "Which ancient Roman author wrote a treatise on fishing?",
     "answer": "Oppian"
+  },
+  {
+    "question": "Which ancient civilization was renowned for its fishing skills and fish trade?",
+    "answer": "Phoenicia"
   },
   {
     "question": "Which bases are specially equipped for winter fishing?",
@@ -1312,6 +1392,10 @@
     "answer": "Butterfly fish"
   },
   {
+    "question": "Which fish is called the 'sea devil'?",
+    "answer": "Manta"
+  },
+  {
     "question": "Which fish is called the 'sea frog'?",
     "answer": "Anglerfish"
   },
@@ -1342,6 +1426,10 @@
   {
     "question": "Which fish is capable of moving backwards?",
     "answer": "Knifefish"
+  },
+  {
+    "question": "Which fish is capable of surviving in low-temperature conditions?",
+    "answer": "Icefish"
   },
   {
     "question": "Which fish is considered a valuable trophy?",
@@ -1544,6 +1632,10 @@
     "answer": "Grinner"
   },
   {
+    "question": "Which knot is considered strong?",
+    "answer": "Palomar"
+  },
+  {
     "question": "Which knot is considered stronger?",
     "answer": "Triple surgical knot"
   },
@@ -1650,6 +1742,10 @@
   {
     "question": "Which method of preserving fish retains its flavor for a long time?",
     "answer": "Drying"
+  },
+  {
+    "question": "Which part of the fish is used to make broth?",
+    "answer": "Tail"
   },
   {
     "question": "Which part of the fish is used to make fish stock?",
