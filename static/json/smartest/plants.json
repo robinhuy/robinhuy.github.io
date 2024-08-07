@@ -24,6 +24,14 @@
     "answer": "Root method"
   },
   {
+    "question": "How do ants help plants?",
+    "answer": "eliminate pests"
+  },
+  {
+    "question": "How do fungi obtain their nutrition?",
+    "answer": "Osmotrophy"
+  },
+  {
     "question": "How do mosses reproduce in the presence of water?",
     "answer": "Spores"
   },
@@ -38,6 +46,10 @@
   {
     "question": "How do plants spread their scent?",
     "answer": "volatile compounds"
+  },
+  {
+    "question": "How many species of prickly pear cactus are there?",
+    "answer": "200"
   },
   {
     "question": "How many types of echinacea are used in medicine?",
@@ -58,6 +70,10 @@
   {
     "question": "To which group of substances does chlorophyll, which catalyzes the process of photosynthesis, belong?",
     "answer": "Pigments"
+  },
+  {
+    "question": "What acids do lichens contain?",
+    "answer": "Lichen acids"
   },
   {
     "question": "What adaptations does a cactus have?",
@@ -92,6 +108,10 @@
     "answer": "Glandules"
   },
   {
+    "question": "What are the vessels for transpiration called?",
+    "answer": "Xylem"
+  },
+  {
     "question": "What can be used for the genetic transformation of plants?",
     "answer": "Plasmids"
   },
@@ -104,8 +124,20 @@
     "answer": "Fungal"
   },
   {
+    "question": "What do molecular biologists do?",
+    "answer": "DNA analysis"
+  },
+  {
+    "question": "What does genomics study?",
+    "answer": "Study of genomes"
+  },
+  {
     "question": "What does the term 'gametophyte' mean?",
     "answer": "Reproductive phase"
+  },
+  {
+    "question": "What function do the fruiting bodies of fungi serve?",
+    "answer": "Reproduction"
   },
   {
     "question": "What happens in the light phase of photosynthesis?",
@@ -114,6 +146,10 @@
   {
     "question": "What is CRISPR used for?",
     "answer": "Genome editing"
+  },
+  {
+    "question": "What is aneuploidy?",
+    "answer": "Abnormal number of chromosomes"
   },
   {
     "question": "What is called 'Siberian ginseng'?",
@@ -148,8 +184,20 @@
     "answer": "Glucose"
   },
   {
+    "question": "What is the main source of water for cacti?",
+    "answer": "Dew"
+  },
+  {
     "question": "What is the name for a bonsai with multiple roots exposed above the soil surface?",
     "answer": "Neagari"
+  },
+  {
+    "question": "What is the name of the cactus often used to make beverages?",
+    "answer": "Peyote"
+  },
+  {
+    "question": "What is the name of the flower known as 'ivan-da-marya'?",
+    "answer": "Melampyrum"
   },
   {
     "question": "What is the name of the fruit produced by the pomegranate tree?",
@@ -180,8 +228,16 @@
     "answer": "Yellow Iris"
   },
   {
+    "question": "What is the name of the rare fern?",
+    "answer": "Marsilea quadrifolia"
+  },
+  {
     "question": "What is the name of the rare plant with bright yellow flowers that grows in South Africa?",
     "answer": "Cape Daisy"
+  },
+  {
+    "question": "What is the name of the rare shrub with blue fruits that grows in Australia?",
+    "answer": "Pestrusha"
   },
   {
     "question": "What is the name of the rare species of cedar that grows in Morocco?",
@@ -202,6 +258,10 @@
   {
     "question": "What is the oldest type of fern?",
     "answer": "Ophioglossum vulgatum"
+  },
+  {
+    "question": "What is the part of the photosynthetic apparatus called that conducts only the light phase?",
+    "answer": "Photosystem"
   },
   {
     "question": "What is the plant called that is scientifically referred to as 'Acanthaceae'?",
@@ -276,8 +336,20 @@
     "answer": "Phytoncides"
   },
   {
+    "question": "What plant is the symbol of Indonesia?",
+    "answer": "Rafflesia"
+  },
+  {
+    "question": "What plants grow in swamps?",
+    "answer": "Peat mosses"
+  },
+  {
     "question": "What plants grow in the tundra?",
     "answer": "Lichens"
+  },
+  {
+    "question": "What process allows the transfer of genes from one plant to another?",
+    "answer": "Genetic engineering"
   },
   {
     "question": "What process creates genetic diversity?",
@@ -310,6 +382,14 @@
   {
     "question": "What substance in plants can kill insects?",
     "answer": "alkaloids"
+  },
+  {
+    "question": "What tissue do ferns need for water transport?",
+    "answer": "Vascular tissue"
+  },
+  {
+    "question": "What trees are characteristic of savanna ecosystems?",
+    "answer": "Baobabs"
   },
   {
     "question": "What type of coating is characteristic of desert plant leaves?",
@@ -348,6 +428,10 @@
     "answer": "In the leaves"
   },
   {
+    "question": "Where does heather grow?",
+    "answer": "In the forest"
+  },
+  {
     "question": "Where does membrane transport occur in plants?",
     "answer": "Vacuole"
   },
@@ -360,12 +444,36 @@
     "answer": "Africa"
   },
   {
+    "question": "Which Chinese plant is specifically cultivated for use in tea?",
+    "answer": "Chrysanthemum"
+  },
+  {
     "question": "Which DNA analysis method allows for the detection of mutations?",
     "answer": "PCR"
   },
   {
+    "question": "Which algae is most common in freshwater?",
+    "answer": "Chlorella"
+  },
+  {
+    "question": "Which ancient type of fern still exists?",
+    "answer": "Oligofloum"
+  },
+  {
+    "question": "Which annual plant is delicious when cooked?",
+    "answer": "Fennel"
+  },
+  {
     "question": "Which berries are known for their help with inflammations?",
     "answer": "Cranberries"
+  },
+  {
+    "question": "Which biological reaction creates conditions for the transmission of hereditary information?",
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Which cellular structure is used for genetic transformation of plants?",
+    "answer": "Agrobacterium"
   },
   {
     "question": "Which country is the native home of the 'Blue Fern'?",
@@ -432,6 +540,10 @@
     "answer": "Mycorrhizal"
   },
   {
+    "question": "Which group of fungi are parasites?",
+    "answer": "Rust fungi"
+  },
+  {
     "question": "Which herbaceous plant is called the 'jubilee flower'?",
     "answer": "Carnation"
   },
@@ -448,6 +560,10 @@
     "answer": "Aspen beetles"
   },
   {
+    "question": "Which insects devastate wheat crops?",
+    "answer": "Locusts"
+  },
+  {
     "question": "Which lichen is used as an indicator of air purity?",
     "answer": "Cetraria"
   },
@@ -462,6 +578,10 @@
   {
     "question": "Which mosses precede forest ecosystems?",
     "answer": "Pioneer mosses"
+  },
+  {
+    "question": "Which mushroom is known for its glow?",
+    "answer": "Honey fungus"
   },
   {
     "question": "Which mushrooms glow in the dark?",
@@ -508,6 +628,10 @@
     "answer": "Light-dependent"
   },
   {
+    "question": "Which plant attracts many insects with its color?",
+    "answer": "Gypsophila"
+  },
+  {
     "question": "Which plant belongs to the class of bryophytes?",
     "answer": "Fontinalis"
   },
@@ -524,6 +648,14 @@
     "answer": "Hydrangea"
   },
   {
+    "question": "Which plant has a very fine structure and is often found in still waters?",
+    "answer": "Riccia"
+  },
+  {
+    "question": "Which plant has the ability to 'breathe' through its roots?",
+    "answer": "Pandanus"
+  },
+  {
     "question": "Which plant has underwater flowers and leaves floating on the water surface?",
     "answer": "Water lily"
   },
@@ -536,12 +668,24 @@
     "answer": "Angelica"
   },
   {
+    "question": "Which plant is a natural tonic?",
+    "answer": "Ginseng"
+  },
+  {
     "question": "Which plant is a popular honey plant?",
     "answer": "Alfalfa"
   },
   {
+    "question": "Which plant is a symbol of the Mediterranean?",
+    "answer": "Olive tree"
+  },
+  {
     "question": "Which plant is also known as 'Adam's head'?",
     "answer": "Gentian"
+  },
+  {
+    "question": "Which plant is an epiphyte and grows on trees?",
+    "answer": "orchid"
   },
   {
     "question": "Which plant is an important source of food and medicine in the tropics?",
@@ -596,6 +740,10 @@
     "answer": "Cyclamen"
   },
   {
+    "question": "Which plant is known for its bright blue color and grows in the north of Kamchatka?",
+    "answer": "Kamchatka Rhododendron"
+  },
+  {
     "question": "Which plant is known for its bright flowers and numerous species?",
     "answer": "Orchid"
   },
@@ -620,12 +768,28 @@
     "answer": "Coccoloba"
   },
   {
+    "question": "Which plant is often grown in alpine flower beds?",
+    "answer": "Edelweiss"
+  },
+  {
     "question": "Which plant is often grown in rock gardens?",
     "answer": "Sedum"
   },
   {
     "question": "Which plant is often mistaken for a water lily?",
     "answer": "Lotus"
+  },
+  {
+    "question": "Which plant is often planted along roads?",
+    "answer": "Daylily"
+  },
+  {
+    "question": "Which plant is often used for rock gardens?",
+    "answer": "Sedum"
+  },
+  {
+    "question": "Which plant is particularly sensitive to overwatering?",
+    "answer": "Cactus"
   },
   {
     "question": "Which plant is rarely grown in northern latitudes?",
@@ -652,6 +816,10 @@
     "answer": "Echinacea"
   },
   {
+    "question": "Which plant organ performs transpiration?",
+    "answer": "Leaves"
+  },
+  {
     "question": "Which plant prefers partial shade?",
     "answer": "Fern"
   },
@@ -674,6 +842,10 @@
   {
     "question": "Which plant tissue contributes to its strength?",
     "answer": "Sclerenchyma"
+  },
+  {
+    "question": "Which plants are capable of surviving in salty water?",
+    "answer": "Mangroves"
   },
   {
     "question": "Which plants are known for their ability to regenerate tissues?",
@@ -732,6 +904,10 @@
     "answer": "Carnivorous plants"
   },
   {
+    "question": "Which plants protect themselves with poisonous substances?",
+    "answer": "Nettle"
+  },
+  {
     "question": "Which plants take root in sand dunes?",
     "answer": "Rhizomatous"
   },
@@ -744,6 +920,10 @@
     "answer": "Histone"
   },
   {
+    "question": "Which shrub has red berries?",
+    "answer": "Elderberry"
+  },
+  {
     "question": "Which shrub produces white berries?",
     "answer": "Snowberry"
   },
@@ -754,6 +934,10 @@
   {
     "question": "Which structure in mosses is multicellular?",
     "answer": "Apical meristem"
+  },
+  {
+    "question": "Which structure of a fungus is responsible for releasing spores?",
+    "answer": "Sporangium"
   },
   {
     "question": "Which succulents are popular in medicine?",
@@ -772,6 +956,10 @@
     "answer": "Larch"
   },
   {
+    "question": "Which tree has gray leaves?",
+    "answer": "Olive"
+  },
+  {
     "question": "Which tree is most commonly used for bonsai?",
     "answer": "Ficus"
   },
@@ -784,6 +972,10 @@
     "answer": "Alder"
   },
   {
+    "question": "Which tropical plant is famous for its bright red flowers and is used in perfumery?",
+    "answer": "Ylang-ylang"
+  },
+  {
     "question": "Which tropical plant is known as a 'carnivorous plant'?",
     "answer": "Nepenthes"
   },
@@ -792,8 +984,16 @@
     "answer": "Vanda"
   },
   {
+    "question": "Which tropical plant is known for its ability to retain water?",
+    "answer": "Alocasia"
+  },
+  {
     "question": "Which tropical plant is renowned for its antibacterial properties and is used in traditional medicine?",
     "answer": "Neem"
+  },
+  {
+    "question": "Which tropical plant provides aromatic spices?",
+    "answer": "Cinnamon tree"
   },
   {
     "question": "Which tropical tree can grow taller than 30 meters?",
