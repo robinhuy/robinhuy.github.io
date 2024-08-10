@@ -188,6 +188,10 @@
     "answer": "Bryansky Les"
   },
   {
+    "question": "In which nature reserve do snow leopards live?",
+    "answer": "Sailugemsky"
+  },
+  {
     "question": "In which region did the first organized hunts occur?",
     "answer": "Ancient Egypt"
   },
@@ -352,12 +356,20 @@
     "answer": "Protected area status"
   },
   {
+    "question": "What cartridges are used for hunting shotguns?",
+    "answer": "12 gauge"
+  },
+  {
     "question": "What characteristic is important for long-distance shooting?",
     "answer": "Accuracy"
   },
   {
     "question": "What clothing item protects against insect bites?",
     "answer": "Mosquito net"
+  },
+  {
+    "question": "What clothing item protects the face from the cold?",
+    "answer": "Balaclava"
   },
   {
     "question": "What conditions are important for training falcons?",
@@ -370,6 +382,10 @@
   {
     "question": "What determines the range of a shot?",
     "answer": "Caliber"
+  },
+  {
+    "question": "What device do hunters use to store weapons?",
+    "answer": "Gun case"
   },
   {
     "question": "What device eliminates odors?",
@@ -616,6 +632,10 @@
     "answer": "Command"
   },
   {
+    "question": "What is a way to drink water without filtration?",
+    "answer": "From a stream"
+  },
+  {
     "question": "What is best suited for filtering water while hunting?",
     "answer": "Filter attachment"
   },
@@ -784,6 +804,10 @@
     "answer": "Up to 80 km/h"
   },
   {
+    "question": "What is the minimum distance to be maintained from populated areas while hunting?",
+    "answer": "500 meters"
+  },
+  {
     "question": "What is the minimum number of people required to participate in a moose hunt?",
     "answer": "Two"
   },
@@ -848,6 +872,10 @@
     "answer": "Toroka"
   },
   {
+    "question": "What is the name of the wooden weapon used in hunting?",
+    "answer": "Bow"
+  },
+  {
     "question": "What is the name of this type of optical sight?",
     "answer": "Collimator"
   },
@@ -858,6 +886,10 @@
   {
     "question": "What is the penalty for hunting rare animal species?",
     "answer": "Fine"
+  },
+  {
+    "question": "What is the penalty for poaching?",
+    "answer": "Fine or arrest"
   },
   {
     "question": "What is the preferred material for a backpack?",
@@ -894,6 +926,10 @@
   {
     "question": "What is the purpose of a suppressor in a firearm?",
     "answer": "Noise reduction"
+  },
+  {
+    "question": "What is the purpose of a tent on a hunting trip?",
+    "answer": "For resting"
   },
   {
     "question": "What is the purpose of using salt in marination?",
@@ -1584,6 +1620,10 @@
     "answer": "Bat"
   },
   {
+    "question": "Which animals are active in winter?",
+    "answer": "Hares"
+  },
+  {
     "question": "Which animals are commonly found in Arctic regions?",
     "answer": "Reindeer"
   },
@@ -1918,6 +1958,10 @@
   {
     "question": "Which method of cooking meat retains the most juice?",
     "answer": "Roasting"
+  },
+  {
+    "question": "Which mushroom is edible?",
+    "answer": "Porcini mushroom"
   },
   {
     "question": "Which of the following conditions affects video quality?",

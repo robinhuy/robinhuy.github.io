@@ -36,6 +36,10 @@
     "answer": "Eject their organs"
   },
   {
+    "question": "How do spiders digest their food?",
+    "answer": "externally"
+  },
+  {
     "question": "How do starfish maintain balance?",
     "answer": "With their tube feet"
   },
@@ -68,6 +72,10 @@
     "answer": "Several years"
   },
   {
+    "question": "How long does digestion take in a lancelet?",
+    "answer": "Several hours"
+  },
+  {
     "question": "How long does whale migration last?",
     "answer": "Several months"
   },
@@ -92,8 +100,16 @@
     "answer": "600"
   },
   {
+    "question": "How many nature reserves are there in Russia?",
+    "answer": "103"
+  },
+  {
     "question": "How many pairs of gills do jawless fish have?",
     "answer": "7"
+  },
+  {
+    "question": "How many pairs of gills does a lancelet have?",
+    "answer": "6-7 pairs"
   },
   {
     "question": "How many radial canals does a starfish have?",
@@ -116,6 +132,14 @@
     "answer": "1600+"
   },
   {
+    "question": "How many species of lemurs are there?",
+    "answer": "About 100"
+  },
+  {
+    "question": "How many species of lizards exist in the world?",
+    "answer": "6000"
+  },
+  {
     "question": "How many species of mollusks are there?",
     "answer": "More than 100,000"
   },
@@ -126,6 +150,10 @@
   {
     "question": "How many species of rays are there?",
     "answer": "More than 500"
+  },
+  {
+    "question": "How many species of sharks are there?",
+    "answer": "About 520"
   },
   {
     "question": "How many species of snakes exist in the world?",
@@ -166,6 +194,10 @@
   {
     "question": "How to optimize water usage in an irrigation system?",
     "answer": "Install timers"
+  },
+  {
+    "question": "In what type of water do hagfish lay their eggs?",
+    "answer": "Saltwater"
   },
   {
     "question": "In which century were lancelets first described?",
@@ -276,6 +308,10 @@
     "answer": "Small pincers"
   },
   {
+    "question": "What are scientists who study insects called?",
+    "answer": "entomologists"
+  },
+  {
     "question": "What are the ancient ancestors of the lancelet called?",
     "answer": "Pikaia"
   },
@@ -292,8 +328,16 @@
     "answer": "Chelicerae"
   },
   {
+    "question": "What are the protective shields of crayfish called?",
+    "answer": "Carapaces"
+  },
+  {
     "question": "What are the specialized respiratory organs in spiders called?",
     "answer": "Book lungs"
+  },
+  {
+    "question": "What are the well-adapted for swimming jawed fish called?",
+    "answer": "Sharks"
   },
   {
     "question": "What are warm substrates used for?",
@@ -310,6 +354,14 @@
   {
     "question": "What determines the hunting difficulty for sharks?",
     "answer": "Teeth"
+  },
+  {
+    "question": "What distinguishes baboons?",
+    "answer": "They inhabit savannas"
+  },
+  {
+    "question": "What do goats like to eat?",
+    "answer": "Leaves"
   },
   {
     "question": "What do mollusks use siphons for?",
@@ -330,6 +382,10 @@
   {
     "question": "What does a sea cucumber release when threatened?",
     "answer": "Internal organs"
+  },
+  {
+    "question": "What does a shell secrete?",
+    "answer": "Nacre"
   },
   {
     "question": "What does the notochord in lancelets represent?",
@@ -366,6 +422,18 @@
   {
     "question": "What function do ancient gill slits serve in jawless vertebrates?",
     "answer": "Respiratory"
+  },
+  {
+    "question": "What function do pedicellariae serve in echinoderms?",
+    "answer": "Protection"
+  },
+  {
+    "question": "What function do the baleen plates serve in whales?",
+    "answer": "Filtering food"
+  },
+  {
+    "question": "What function does geotropism serve in lancelets?",
+    "answer": "Orientation in water"
   },
   {
     "question": "What function does the dental plate serve in hagfish?",
@@ -464,8 +532,16 @@
     "answer": "Ruck"
   },
   {
+    "question": "What is the ambulacral system?",
+    "answer": "Hydraulic organ"
+  },
+  {
     "question": "What is the average number of eggs laid by a cockroach at one time?",
     "answer": "16"
+  },
+  {
+    "question": "What is the average speed of a shark?",
+    "answer": "40 km/h"
   },
   {
     "question": "What is the best fertilizer to use for strawberries?",
@@ -482,6 +558,10 @@
   {
     "question": "What is the correct name for a hose with small holes?",
     "answer": "Soaker"
+  },
+  {
+    "question": "What is the dorsal fin of a humpback whale called?",
+    "answer": "Hump"
   },
   {
     "question": "What is the duration of humpback whale migration?",
@@ -524,6 +604,10 @@
     "answer": "Predators"
   },
   {
+    "question": "What is the main difference between lampreys and fish?",
+    "answer": "absence of jaws"
+  },
+  {
     "question": "What is the main function of the ambulacral system?",
     "answer": "Locomotion"
   },
@@ -536,8 +620,20 @@
     "answer": "3000 meters"
   },
   {
+    "question": "What is the maximum length a cobra can reach?",
+    "answer": "5.5 meters"
+  },
+  {
     "question": "What is the maximum length an anaconda can reach?",
     "answer": "12 meters"
+  },
+  {
+    "question": "What is the maximum length of a baleen whale's baleen?",
+    "answer": "4 meters"
+  },
+  {
+    "question": "What is the maximum shell length of a turtle?",
+    "answer": "up to 200 cm"
   },
   {
     "question": "What is the method of growing vegetables without using soil called?",
@@ -592,6 +688,10 @@
     "answer": "marmoset"
   },
   {
+    "question": "What is the name of the smallest primate?",
+    "answer": "Mouse lemur"
+  },
+  {
     "question": "What is the name of the soil cultivation tool invented by Fokin?",
     "answer": "Flat-cutter"
   },
@@ -622,6 +722,10 @@
   {
     "question": "What is the primary function of the water vascular system in echinoderms?",
     "answer": "Hydrostatic pressure"
+  },
+  {
+    "question": "What is the process called when a fish opens and closes its gills?",
+    "answer": "Gill breathing"
   },
   {
     "question": "What is the process of digestion in starfish called?",
@@ -660,8 +764,16 @@
     "answer": "Herpetology"
   },
   {
+    "question": "What is the smallest insect in the world?",
+    "answer": "Trichogramma wasp"
+  },
+  {
     "question": "What is the stage of development called when an insect turns into a pupa?",
     "answer": "Pupa"
+  },
+  {
+    "question": "What is the swimming speed of a fin whale?",
+    "answer": "up to 50 km/h"
   },
   {
     "question": "What is the tool called for creating narrow grooves?",
@@ -674,6 +786,10 @@
   {
     "question": "What is the vertical mast on the neutral line called?",
     "answer": "Antenna"
+  },
+  {
+    "question": "What is unique about dragonfly eyes?",
+    "answer": "Compound eyes"
   },
   {
     "question": "What is used to lift large stones?",
@@ -740,6 +856,10 @@
     "answer": "Garlic infusion"
   },
   {
+    "question": "What plant do manatees eat?",
+    "answer": "Seaweed"
+  },
+  {
     "question": "What plants are called ground cover plants?",
     "answer": "Periwinkle"
   },
@@ -762,6 +882,14 @@
   {
     "question": "What running technique optimizes energy in a marathon?",
     "answer": "Economical style"
+  },
+  {
+    "question": "What separates the head from the thorax in insects?",
+    "answer": "Neck"
+  },
+  {
+    "question": "What shape are the eyes of dragonflies?",
+    "answer": "Compound"
   },
   {
     "question": "What should be considered when choosing polycarbonate for a greenhouse?",
@@ -884,6 +1012,10 @@
     "answer": "After 6 months"
   },
   {
+    "question": "When did the cephalochordates first appear?",
+    "answer": "Cambrian period"
+  },
+  {
     "question": "Where are dolphins born?",
     "answer": "In water"
   },
@@ -902,6 +1034,10 @@
   {
     "question": "Where can you see nesting flamingos?",
     "answer": "Chelkar-Abaginsky"
+  },
+  {
+    "question": "Where can you see rare grasshoppers?",
+    "answer": "Akshinsky Nature Reserve"
   },
   {
     "question": "Where can you see the Eastern Curlew?",
@@ -934,6 +1070,10 @@
   {
     "question": "Where is the Far Eastern Marine Reserve located?",
     "answer": "Primorsky Krai"
+  },
+  {
+    "question": "Where is the nerve cord located in cephalochordates?",
+    "answer": "above the notochord"
   },
   {
     "question": "Which Russian nature reserve is famous for its population of brown bears?",
@@ -1008,6 +1148,10 @@
     "answer": "Chamois"
   },
   {
+    "question": "Which animal lives in the mountains?",
+    "answer": "Yaks"
+  },
+  {
     "question": "Which animals are morphologically simple?",
     "answer": "lancelets"
   },
@@ -1016,8 +1160,24 @@
     "answer": "Sheep"
   },
   {
+    "question": "Which animals hibernate in Canada?",
+    "answer": "Deer"
+  },
+  {
     "question": "Which animals live in saltwater?",
     "answer": "Hagfish"
+  },
+  {
+    "question": "Which animals live in the jungle and are herbivores?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which animals usually have sharp teeth?",
+    "answer": "Predators"
+  },
+  {
+    "question": "Which arthropod has the longest legs?",
+    "answer": "Stick insect"
   },
   {
     "question": "Which beetle is the largest?",
@@ -1046,6 +1206,10 @@
   {
     "question": "Which bird has a crest on its head and a hooked beak?",
     "answer": "frigatebird"
+  },
+  {
+    "question": "Which bird is capable of mimicking sounds?",
+    "answer": "raven"
   },
   {
     "question": "Which bird is famous for its intricate nests in trees?",
@@ -1192,8 +1356,16 @@
     "answer": "Grouper"
   },
   {
+    "question": "Which fish is known for having the largest population?",
+    "answer": "Tuna"
+  },
+  {
     "question": "Which fish is known for its curved body?",
     "answer": "Moray eel"
+  },
+  {
+    "question": "Which fish lives in cold waters?",
+    "answer": "Pacific saury"
   },
   {
     "question": "Which fish lives in the Baltic Sea?",
@@ -1256,6 +1428,10 @@
     "answer": "Terraces"
   },
   {
+    "question": "Which herbivore is the largest antelope?",
+    "answer": "Eland"
+  },
+  {
     "question": "Which herbivorous animal lives high in the mountains?",
     "answer": "Goat"
   },
@@ -1292,6 +1468,14 @@
     "answer": "Bees"
   },
   {
+    "question": "Which insects are capable of changing color?",
+    "answer": "Chameleon beetles"
+  },
+  {
+    "question": "Which insects feed on carrion?",
+    "answer": "Burying beetles"
+  },
+  {
     "question": "Which insects glow in the dark?",
     "answer": "fireflies"
   },
@@ -1304,6 +1488,10 @@
     "answer": "Aphids"
   },
   {
+    "question": "Which insects prefer to feed on dead organic matter?",
+    "answer": "Flies"
+  },
+  {
     "question": "Which insects secrete saliva to create silky threads?",
     "answer": "Caterpillars"
   },
@@ -1314,6 +1502,10 @@
   {
     "question": "Which jawed fish can breathe air?",
     "answer": "Lungfish"
+  },
+  {
+    "question": "Which jellyfish is known for its deadly venom?",
+    "answer": "Box jellyfish"
   },
   {
     "question": "Which large herbivorous animal lives in rivers and lakes?",
@@ -1332,8 +1524,16 @@
     "answer": "Whale"
   },
   {
+    "question": "Which mammal gives birth to the largest number of offspring at one time?",
+    "answer": "Domestic pig"
+  },
+  {
     "question": "Which mammal has the longest sleep duration?",
     "answer": "Bat"
+  },
+  {
+    "question": "Which mammal has the longest tongue?",
+    "answer": "Pangolin"
   },
   {
     "question": "Which mammal hunts at night?",
@@ -1392,6 +1592,10 @@
     "answer": "Coral polyp"
   },
   {
+    "question": "Which marine creature uses its nose to move objects?",
+    "answer": "Elephant fish"
+  },
+  {
     "question": "Which method creates an unfavorable environment for pests in the garden?",
     "answer": "Mulching"
   },
@@ -1408,6 +1612,10 @@
     "answer": "Cone snail"
   },
   {
+    "question": "Which mollusk listed is the smallest?",
+    "answer": "Small slug"
+  },
+  {
     "question": "Which mollusk moves using jet propulsion?",
     "answer": "Squid"
   },
@@ -1420,6 +1628,10 @@
     "answer": "Cones"
   },
   {
+    "question": "Which mollusks often attach themselves to rocks?",
+    "answer": "Abalones"
+  },
+  {
     "question": "Which monkey is carnivorous?",
     "answer": "Chimpanzee"
   },
@@ -1430,6 +1642,10 @@
   {
     "question": "Which nature reserve is famous for rare animals?",
     "answer": "Darvinsky"
+  },
+  {
+    "question": "Which nature reserve is famous for red pandas?",
+    "answer": "Kaurymsky Nature Reserve"
   },
   {
     "question": "Which nature reserve is known for its population of Amur tigers?",
@@ -1452,8 +1668,20 @@
     "answer": "Wrangel Island"
   },
   {
+    "question": "Which nature reserve is located on the Taymyr Peninsula?",
+    "answer": "Great Arctic"
+  },
+  {
+    "question": "Which of the following animals is the smallest herbivore?",
+    "answer": "Mouse"
+  },
+  {
     "question": "Which of these primates has the shortest tail?",
     "answer": "Rhesus macaque"
+  },
+  {
+    "question": "Which organs help echinoderms navigate their environment?",
+    "answer": "Receptors"
   },
   {
     "question": "Which organs in echinoderms facilitate the exchange of substances?",
@@ -1512,8 +1740,16 @@
     "answer": "uakari"
   },
   {
+    "question": "Which primate monkey is known for its yellow fur?",
+    "answer": "howler monkey"
+  },
+  {
     "question": "Which primates are known for their monogamous mating?",
     "answer": "Gibbons"
+  },
+  {
+    "question": "Which primates are often found in high-altitude regions?",
+    "answer": "Langurs"
   },
   {
     "question": "Which primates can swim?",
@@ -1534,6 +1770,10 @@
   {
     "question": "Which reserve does Mount Elbrus belong to?",
     "answer": "Kabardino-Balkarian"
+  },
+  {
+    "question": "Which sea animal is carnivorous?",
+    "answer": "Moray eel"
   },
   {
     "question": "Which sea creature has a ring-shaped body structure?",
@@ -1576,6 +1816,10 @@
     "answer": "Cone snail"
   },
   {
+    "question": "Which snake can breathe through its skin?",
+    "answer": "Garter"
+  },
+  {
     "question": "Which snake is known for its beautiful skin patterns?",
     "answer": "King Cobra"
   },
@@ -1606,6 +1850,10 @@
   {
     "question": "Which tick is commonly found on animals?",
     "answer": "Ixodid tick"
+  },
+  {
+    "question": "Which type of fish is known for its unique way of catching prey using a glowing lure?",
+    "answer": "Anglerfish"
   },
   {
     "question": "Which vegetable is often grown on circular beds?",
