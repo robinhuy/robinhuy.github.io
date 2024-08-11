@@ -1,5 +1,9 @@
 [
   {
+    "question": "ALF is a phase?",
+    "answer": "Dark"
+  },
+  {
     "question": "From the fruit of which plant is cider made?",
     "answer": "Apple"
   },
@@ -18,6 +22,10 @@
   {
     "question": "From which plant is the Panama hat made?",
     "answer": "Palm"
+  },
+  {
+    "question": "From which plant is the traditional Japanese drink matcha made?",
+    "answer": "Camellia sinensis"
   },
   {
     "question": "How are fertilizers applied to bonsai?",
@@ -48,6 +56,10 @@
     "answer": "volatile compounds"
   },
   {
+    "question": "How long does it take to grow a bonsai?",
+    "answer": "Years"
+  },
+  {
     "question": "How many species of prickly pear cactus are there?",
     "answer": "200"
   },
@@ -64,12 +76,20 @@
     "answer": "Tropical rainforests"
   },
   {
+    "question": "Name the plant with giant leaves reaching up to 3 meters.",
+    "answer": "Rafflesia"
+  },
+  {
     "question": "On what mycelium does the tinder fungus grow?",
     "answer": "Woody"
   },
   {
     "question": "To which group of substances does chlorophyll, which catalyzes the process of photosynthesis, belong?",
     "answer": "Pigments"
+  },
+  {
+    "question": "Under what conditions can mosses enter a state of anabiosis?",
+    "answer": "Dry conditions"
   },
   {
     "question": "What acids do lichens contain?",
@@ -92,12 +112,24 @@
     "answer": "Lithophytes"
   },
   {
+    "question": "What are plants that store water called?",
+    "answer": "Succulents"
+  },
+  {
     "question": "What are the areas of tissue where cell growth occurs called?",
     "answer": "Meristems"
   },
   {
+    "question": "What are the mushrooms that grow on wood called?",
+    "answer": "Xylophytes"
+  },
+  {
     "question": "What are the organelles that store starch called?",
     "answer": "Amyloplasts"
+  },
+  {
+    "question": "What are the specialized roots called that support stems in swampy conditions?",
+    "answer": "Aerial roots"
   },
   {
     "question": "What are the sporangia of ferns covered with?",
@@ -120,6 +152,10 @@
     "answer": "Toxic"
   },
   {
+    "question": "What compound is the end product of glycolysis?",
+    "answer": "Pyruvate"
+  },
+  {
     "question": "What diseases can affect bonsai?",
     "answer": "Fungal"
   },
@@ -134,6 +170,10 @@
   {
     "question": "What does the term 'gametophyte' mean?",
     "answer": "Reproductive phase"
+  },
+  {
+    "question": "What flower is called 'Kadupul'?",
+    "answer": "Epiphyllum"
   },
   {
     "question": "What function do the fruiting bodies of fungi serve?",
@@ -176,6 +216,10 @@
     "answer": "Alternation of generations"
   },
   {
+    "question": "What is the life cycle period of perennial plants?",
+    "answer": "More than a year"
+  },
+  {
     "question": "What is the main part of the fern gametophyte?",
     "answer": "Prothallus"
   },
@@ -188,12 +232,24 @@
     "answer": "Dew"
   },
   {
+    "question": "What is the modified stem that forms tubers called?",
+    "answer": "Tuber"
+  },
+  {
     "question": "What is the name for a bonsai with multiple roots exposed above the soil surface?",
     "answer": "Neagari"
   },
   {
+    "question": "What is the name of the Japanese knife used for trimming roots and branches?",
+    "answer": "Kiri"
+  },
+  {
     "question": "What is the name of the cactus often used to make beverages?",
     "answer": "Peyote"
+  },
+  {
+    "question": "What is the name of the dead wood element on a bonsai?",
+    "answer": "Jin"
   },
   {
     "question": "What is the name of the flower known as 'ivan-da-marya'?",
@@ -210,6 +266,14 @@
   {
     "question": "What is the name of the largest living fern?",
     "answer": "Cyatheales"
+  },
+  {
+    "question": "What is the name of the miniature bonsai tree?",
+    "answer": "Bonsai"
+  },
+  {
+    "question": "What is the name of the mushroom with poisonous spores?",
+    "answer": "Death cap"
   },
   {
     "question": "What is the name of the next-generation DNA sequencing technology?",
@@ -280,6 +344,10 @@
     "answer": "Elongation"
   },
   {
+    "question": "What is the process of organic synthesis in plants called?",
+    "answer": "Photosynthesis"
+  },
+  {
     "question": "What is the protective layer on succulents called?",
     "answer": "Epidermis"
   },
@@ -298,6 +366,10 @@
   {
     "question": "What is the role of the gametophyte in the life cycle of mosses?",
     "answer": "Reproduction"
+  },
+  {
+    "question": "What is the science of lichens called?",
+    "answer": "Lichenology"
   },
   {
     "question": "What is the science that studies ferns called?",
@@ -356,6 +428,10 @@
     "answer": "Mutation"
   },
   {
+    "question": "What process doubles DNA for analysis?",
+    "answer": "PCR"
+  },
+  {
     "question": "What process occurs in the roots?",
     "answer": "Absorption of water"
   },
@@ -376,6 +452,10 @@
     "answer": "Thallus"
   },
   {
+    "question": "What substance do tree bark cells contain?",
+    "answer": "Cellulose"
+  },
+  {
     "question": "What substance found in the male fern is used in medicine?",
     "answer": "Filicin"
   },
@@ -384,12 +464,20 @@
     "answer": "alkaloids"
   },
   {
+    "question": "What technique allows for editing plant genes?",
+    "answer": "CRISPR"
+  },
+  {
     "question": "What tissue do ferns need for water transport?",
     "answer": "Vascular tissue"
   },
   {
     "question": "What trees are characteristic of savanna ecosystems?",
     "answer": "Baobabs"
+  },
+  {
+    "question": "What type of cactus produces mescaline?",
+    "answer": "Lophophora"
   },
   {
     "question": "What type of coating is characteristic of desert plant leaves?",
@@ -418,6 +506,10 @@
   {
     "question": "Where are chromoplasts located?",
     "answer": "In plant cells"
+  },
+  {
+    "question": "Where can you find rare plants that grow only on cliffs?",
+    "answer": "In the Andes"
   },
   {
     "question": "Where do modern ferns originate from?",
@@ -470,6 +562,10 @@
   {
     "question": "Which biological reaction creates conditions for the transmission of hereditary information?",
     "answer": "Meiosis"
+  },
+  {
+    "question": "Which cacti are known for their night blooming?",
+    "answer": "Epiphyllums"
   },
   {
     "question": "Which cellular structure is used for genetic transformation of plants?",
@@ -536,6 +632,10 @@
     "answer": "Kiwi"
   },
   {
+    "question": "Which fruit tastes like an orange and grows on shrubs?",
+    "answer": "Sea buckthorn"
+  },
+  {
     "question": "Which fungi most commonly form a symbiosis with tree roots?",
     "answer": "Mycorrhizal"
   },
@@ -550,6 +650,10 @@
   {
     "question": "Which herbaceous plant is used in perfumery?",
     "answer": "Lavender"
+  },
+  {
+    "question": "Which insect is used to control aphid populations in gardens?",
+    "answer": "Gall midge"
   },
   {
     "question": "Which insects are attracted to woodlice?",
@@ -574,6 +678,10 @@
   {
     "question": "Which lichens contain bright red pigments?",
     "answer": "Teloschistaceae"
+  },
+  {
+    "question": "Which mosses can survive in high radiation conditions?",
+    "answer": "Radiophilic mosses"
   },
   {
     "question": "Which mosses precede forest ecosystems?",
@@ -644,8 +752,20 @@
     "answer": "Christmas cactus"
   },
   {
+    "question": "Which plant can bloom underwater?",
+    "answer": "Lotus"
+  },
+  {
     "question": "Which plant can change color depending on the soil's acidity?",
     "answer": "Hydrangea"
+  },
+  {
+    "question": "Which plant can grow at the bottom of water bodies?",
+    "answer": "Pondweed"
+  },
+  {
+    "question": "Which plant from the cactus family is used to create living fences and has long needle-like spines?",
+    "answer": "Prickly Pear (Opuntia)"
   },
   {
     "question": "Which plant has a very fine structure and is often found in still waters?",
@@ -682,6 +802,10 @@
   {
     "question": "Which plant is also known as 'Adam's head'?",
     "answer": "Gentian"
+  },
+  {
+    "question": "Which plant is also known as autumn gold?",
+    "answer": "Goldenrod"
   },
   {
     "question": "Which plant is an epiphyte and grows on trees?",
@@ -724,6 +848,10 @@
     "answer": "rattan palm"
   },
   {
+    "question": "Which plant is characterized by small white flowers?",
+    "answer": "Baby's breath"
+  },
+  {
     "question": "Which plant is commonly found in meadows?",
     "answer": "Dactylis glomerata"
   },
@@ -736,6 +864,10 @@
     "answer": "Coleus"
   },
   {
+    "question": "Which plant is famous for its flowers with bright orange-red hues?",
+    "answer": "Heliacanthus"
+  },
+  {
     "question": "Which plant is known as the 'winter guest'?",
     "answer": "Cyclamen"
   },
@@ -745,6 +877,10 @@
   },
   {
     "question": "Which plant is known for its bright flowers and numerous species?",
+    "answer": "Orchid"
+  },
+  {
+    "question": "Which plant is known for its unusual petal structure?",
     "answer": "Orchid"
   },
   {
@@ -794,6 +930,10 @@
   {
     "question": "Which plant is rarely grown in northern latitudes?",
     "answer": "Watermelon"
+  },
+  {
+    "question": "Which plant is the most popular among shade lovers?",
+    "answer": "Fern"
   },
   {
     "question": "Which plant is used for arranging decorative bouquets?",
@@ -864,6 +1004,10 @@
     "answer": "Alpine asters"
   },
   {
+    "question": "Which plants are often used for roadside landscaping?",
+    "answer": "jasmine"
+  },
+  {
     "question": "Which plants are suitable for rock gardens?",
     "answer": "Aralias"
   },
@@ -874,6 +1018,10 @@
   {
     "question": "Which plants attract ants for protection against other insects?",
     "answer": "Acacias"
+  },
+  {
+    "question": "Which plants attract flies?",
+    "answer": "Holly"
   },
   {
     "question": "Which plants can survive in swamps?",
@@ -920,8 +1068,16 @@
     "answer": "Histone"
   },
   {
+    "question": "Which rare plant is used in Asian medicine and is famous for its black roots?",
+    "answer": "Black Korean ginseng"
+  },
+  {
     "question": "Which shrub has red berries?",
     "answer": "Elderberry"
+  },
+  {
+    "question": "Which shrub produces blueberries?",
+    "answer": "Blueberry bush"
   },
   {
     "question": "Which shrub produces white berries?",
@@ -966,6 +1122,10 @@
   {
     "question": "Which tree is often used in perfumery?",
     "answer": "Sandalwood"
+  },
+  {
+    "question": "Which tree is one of the longest-living?",
+    "answer": "Sequoia"
   },
   {
     "question": "Which tree often grows in swamps?",
@@ -1014,5 +1174,9 @@
   {
     "question": "Who helps the lichen synthesize organic substances?",
     "answer": "Algae"
+  },
+  {
+    "question": "Why are mushrooms beneficial for the forest?",
+    "answer": "Decompose organic matter"
   }
 ]
