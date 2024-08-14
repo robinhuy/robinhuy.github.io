@@ -1,6 +1,6 @@
 ---
 title: 'Xử lý bất đồng bộ trong JavaScript Phần 2'
-date: 2024-09-09
+date: 2024-05-09
 draft: false
 images: ['/images/xu-ly-bat-dong-bo-trong-javascript-phan-2.jpg']
 tags: ['JavaScript']
