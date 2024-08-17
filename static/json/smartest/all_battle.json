@@ -80,8 +80,16 @@
         "answer": "Several months"
     },
     {
+        "question": "How many extinct species of whales are known?",
+        "answer": "More than 20"
+    },
+    {
         "question": "How many eyes do flies have?",
         "answer": "5"
+    },
+    {
+        "question": "How many fins does a lamprey have?",
+        "answer": "None"
     },
     {
         "question": "How many gill openings does a lamprey have?",
@@ -132,6 +140,10 @@
         "answer": "1600+"
     },
     {
+        "question": "How many species of gibbons are there?",
+        "answer": "Sixteen"
+    },
+    {
         "question": "How many species of lemurs are there?",
         "answer": "About 100"
     },
@@ -158,6 +170,10 @@
     {
         "question": "How many species of snakes exist in the world?",
         "answer": "more than 3000"
+    },
+    {
+        "question": "How many species of whales are there?",
+        "answer": "About 90"
     },
     {
         "question": "How many tentacles does an argopect have?",
@@ -324,12 +340,24 @@
         "answer": "buds"
     },
     {
+        "question": "What are the early stages of development in cephalochordates called?",
+        "answer": "Larvae"
+    },
+    {
         "question": "What are the fangs of spiders called?",
         "answer": "Chelicerae"
     },
     {
+        "question": "What are the main characteristics of primates?",
+        "answer": "Large brain"
+    },
+    {
         "question": "What are the protective shields of crayfish called?",
         "answer": "Carapaces"
+    },
+    {
+        "question": "What are the ring-shaped muscles in lancelets called?",
+        "answer": "myomeres"
     },
     {
         "question": "What are the specialized respiratory organs in spiders called?",
@@ -352,12 +380,20 @@
         "answer": "Dark"
     },
     {
+        "question": "What creature is known as the 'seahorse'?",
+        "answer": "seahorse"
+    },
+    {
         "question": "What determines the hunting difficulty for sharks?",
         "answer": "Teeth"
     },
     {
         "question": "What distinguishes baboons?",
         "answer": "They inhabit savannas"
+    },
+    {
+        "question": "What distinguishes sea urchins from starfish?",
+        "answer": "Body shape"
     },
     {
         "question": "What do goats like to eat?",
@@ -584,6 +620,10 @@
         "answer": "Giant squid"
     },
     {
+        "question": "What is the largest reptile in the world?",
+        "answer": "Saltwater crocodile"
+    },
+    {
         "question": "What is the largest shark in the world?",
         "answer": "Whale shark"
     },
@@ -652,6 +692,10 @@
         "answer": "Harmony"
     },
     {
+        "question": "What is the name of a toothed whale?",
+        "answer": "Odontocete"
+    },
+    {
         "question": "What is the name of the dental apparatus in rays?",
         "answer": "Plates"
     },
@@ -666,6 +710,10 @@
     {
         "question": "What is the name of the fish with a long snout?",
         "answer": "Seahorse"
+    },
+    {
+        "question": "What is the name of the mollusk with a shell as transparent as glass?",
+        "answer": "Glass octopus"
     },
     {
         "question": "What is the name of the nocturnal primate with big eyes?",
@@ -742,6 +790,10 @@
     {
         "question": "What is the process of trimming shrubs into geometric shapes called?",
         "answer": "Topiary"
+    },
+    {
+        "question": "What is the property of a snake's special scales?",
+        "answer": "Protection"
     },
     {
         "question": "What is the purpose of drainage in a greenhouse?",
@@ -870,6 +922,10 @@
     {
         "question": "What recovery method is considered the most effective after workouts?",
         "answer": "Contrast shower"
+    },
+    {
+        "question": "What reptile inhabits the Galapagos Islands?",
+        "answer": "Galapagos tortoise"
     },
     {
         "question": "What role do pedipalps serve in spiders?",
@@ -1180,6 +1236,10 @@
         "answer": "Stick insect"
     },
     {
+        "question": "Which arthropods can fully regenerate limbs?",
+        "answer": "Crabs"
+    },
+    {
         "question": "Which beetle is the largest?",
         "answer": "Hercules beetle"
     },
@@ -1250,6 +1310,10 @@
     {
         "question": "Which bird returns to the north first?",
         "answer": "Rook"
+    },
+    {
+        "question": "Which birds are known for their ability to rapidly change flight altitude?",
+        "answer": "Swifts"
     },
     {
         "question": "Which birds build nests in burrows?",
@@ -1344,6 +1408,10 @@
         "answer": "Eel"
     },
     {
+        "question": "Which fish has the ability to quickly change direction?",
+        "answer": "Barracuda"
+    },
+    {
         "question": "Which fish inhabits coral reefs and has poisonous organs?",
         "answer": "Stonefish"
     },
@@ -1354,6 +1422,14 @@
     {
         "question": "Which fish is capable of changing its sex during its lifetime?",
         "answer": "Grouper"
+    },
+    {
+        "question": "Which fish is capable of regeneration?",
+        "answer": "Coelacanth"
+    },
+    {
+        "question": "Which fish is known as a coral predator?",
+        "answer": "Parrotfish"
     },
     {
         "question": "Which fish is known for having the largest population?",
@@ -1436,12 +1512,20 @@
         "answer": "Goat"
     },
     {
+        "question": "Which herbivorous animal most often falls prey to a leopard?",
+        "answer": "impala"
+    },
+    {
         "question": "Which insect builds burrows?",
         "answer": "cricket"
     },
     {
         "question": "Which insect has the longest antennae?",
         "answer": "Longhorn beetle"
+    },
+    {
+        "question": "Which insect has the strongest jaws?",
+        "answer": "Antlion"
     },
     {
         "question": "Which insect is a symbol of bravery in China?",
@@ -1454,6 +1538,10 @@
     {
         "question": "Which insect is often found in fogs?",
         "answer": "Mosquito"
+    },
+    {
+        "question": "Which insect lives in water?",
+        "answer": "Water strider"
     },
     {
         "question": "Which insect makes an unusual sound when threatened?",
@@ -1484,6 +1572,10 @@
         "answer": "Lacewings"
     },
     {
+        "question": "Which insects migrate long distances?",
+        "answer": "butterflies"
+    },
+    {
         "question": "Which insects often attack berry crops?",
         "answer": "Aphids"
     },
@@ -1510,6 +1602,10 @@
     {
         "question": "Which large herbivorous animal lives in rivers and lakes?",
         "answer": "hippopotamus"
+    },
+    {
+        "question": "Which living creature carries anodes?",
+        "answer": "Anodoreya"
     },
     {
         "question": "Which lizard is considered sacred in Egypt?",
@@ -1680,6 +1776,14 @@
         "answer": "Rhesus macaque"
     },
     {
+        "question": "Which organ do grasshoppers use to produce sounds?",
+        "answer": "Wings"
+    },
+    {
+        "question": "Which organ helps mollusks to feed?",
+        "answer": "radula"
+    },
+    {
         "question": "Which organs help echinoderms navigate their environment?",
         "answer": "Receptors"
     },
@@ -1744,6 +1848,10 @@
         "answer": "howler monkey"
     },
     {
+        "question": "Which primate most commonly has white fur?",
+        "answer": "Tamarin"
+    },
+    {
         "question": "Which primates are known for their monogamous mating?",
         "answer": "Gibbons"
     },
@@ -1758,6 +1866,10 @@
     {
         "question": "Which reptile can move its eyes independently of each other?",
         "answer": "Chameleon"
+    },
+    {
+        "question": "Which reptile has the most powerful bite?",
+        "answer": "Crocodile"
     },
     {
         "question": "Which reptile is called the 'queen of the desert'?",
@@ -1822,6 +1934,10 @@
     {
         "question": "Which snake is known for its beautiful skin patterns?",
         "answer": "King Cobra"
+    },
+    {
+        "question": "Which snake lives in trees?",
+        "answer": "Green mamba"
     },
     {
         "question": "Which snowboard parameter affects its performance in deep snow?",
@@ -1922,6 +2038,10 @@
     {
         "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
         "answer": "Cristiano Ronaldo"
+    },
+    {
+        "question": "Whose remains are considered the first jawed vertebrates?",
+        "answer": "Placoderms"
     },
     {
         "question": "Why do sea cucumbers wash up on shore?",
@@ -8161,6 +8281,10 @@
         "answer": "Trout fishing"
     },
     {
+        "question": "For which fishing method is a bottom rig used?",
+        "answer": "At the bottom"
+    },
+    {
         "question": "For which type of fish is an active lure characteristic?",
         "answer": "Zander"
     },
@@ -8343,6 +8467,10 @@
     {
         "question": "What bait do catfish like to feast on?",
         "answer": "Live bait"
+    },
+    {
+        "question": "What bait is effective for big fish?",
+        "answer": "fish oil"
     },
     {
         "question": "What bait is effective for catching big fish?",
@@ -9049,6 +9177,10 @@
         "answer": "in circles"
     },
     {
+        "question": "What rod test is suitable for heavy jigging?",
+        "answer": "Heavy"
+    },
+    {
         "question": "What rods are used for long-distance fishing?",
         "answer": "Carp rods"
     },
@@ -9211,6 +9343,10 @@
     {
         "question": "What type of cast is particularly popular among experienced fly fishermen?",
         "answer": "Spey cast"
+    },
+    {
+        "question": "What type of clothing is best to avoid when fishing?",
+        "answer": "Woolen"
     },
     {
         "question": "What type of fish is commonly used as bait for trophy catfish?",
@@ -9455,6 +9591,10 @@
     {
         "question": "Which country is the birthplace of fly fishing?",
         "answer": "England"
+    },
+    {
+        "question": "Which country was famous for its fishing trade?",
+        "answer": "Greece"
     },
     {
         "question": "Which country was the first to introduce fishing licenses?",
@@ -9841,6 +9981,10 @@
         "answer": "Bimini"
     },
     {
+        "question": "Which knot is suitable for connecting networks?",
+        "answer": "Arbor"
+    },
+    {
         "question": "Which knot is suitable for creating a strong loop?",
         "answer": "Bowline"
     },
@@ -9855,6 +9999,10 @@
     {
         "question": "Which knot is suitable for saltwater?",
         "answer": "Bowline"
+    },
+    {
+        "question": "Which knot is suitable for tying nets?",
+        "answer": "Turkish Knot"
     },
     {
         "question": "Which knot is used to attach a leader to the main fishing line?",
@@ -9891,6 +10039,10 @@
     {
         "question": "Which maps show changes in elevation?",
         "answer": "topographic"
+    },
+    {
+        "question": "Which method of ice fishing is considered the most labor-intensive?",
+        "answer": "Jigging"
     },
     {
         "question": "Which method of preserving fish retains its flavor for a long time?",
@@ -10023,6 +10175,10 @@
     {
         "question": "Why is it not recommended to use dynamite?",
         "answer": "Dangerous"
+    },
+    {
+        "question": "Why should fishing gear be equipped ethically?",
+        "answer": "To minimize harm"
     },
     {
         "question": "For which board game are twenty tokens required?",

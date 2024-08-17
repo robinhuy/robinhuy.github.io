@@ -8,6 +8,10 @@
     "answer": "Trout fishing"
   },
   {
+    "question": "For which fishing method is a bottom rig used?",
+    "answer": "At the bottom"
+  },
+  {
     "question": "For which type of fish is an active lure characteristic?",
     "answer": "Zander"
   },
@@ -190,6 +194,10 @@
   {
     "question": "What bait do catfish like to feast on?",
     "answer": "Live bait"
+  },
+  {
+    "question": "What bait is effective for big fish?",
+    "answer": "fish oil"
   },
   {
     "question": "What bait is effective for catching big fish?",
@@ -896,6 +904,10 @@
     "answer": "in circles"
   },
   {
+    "question": "What rod test is suitable for heavy jigging?",
+    "answer": "Heavy"
+  },
+  {
     "question": "What rods are used for long-distance fishing?",
     "answer": "Carp rods"
   },
@@ -1058,6 +1070,10 @@
   {
     "question": "What type of cast is particularly popular among experienced fly fishermen?",
     "answer": "Spey cast"
+  },
+  {
+    "question": "What type of clothing is best to avoid when fishing?",
+    "answer": "Woolen"
   },
   {
     "question": "What type of fish is commonly used as bait for trophy catfish?",
@@ -1302,6 +1318,10 @@
   {
     "question": "Which country is the birthplace of fly fishing?",
     "answer": "England"
+  },
+  {
+    "question": "Which country was famous for its fishing trade?",
+    "answer": "Greece"
   },
   {
     "question": "Which country was the first to introduce fishing licenses?",
@@ -1688,6 +1708,10 @@
     "answer": "Bimini"
   },
   {
+    "question": "Which knot is suitable for connecting networks?",
+    "answer": "Arbor"
+  },
+  {
     "question": "Which knot is suitable for creating a strong loop?",
     "answer": "Bowline"
   },
@@ -1702,6 +1726,10 @@
   {
     "question": "Which knot is suitable for saltwater?",
     "answer": "Bowline"
+  },
+  {
+    "question": "Which knot is suitable for tying nets?",
+    "answer": "Turkish Knot"
   },
   {
     "question": "Which knot is used to attach a leader to the main fishing line?",
@@ -1738,6 +1766,10 @@
   {
     "question": "Which maps show changes in elevation?",
     "answer": "topographic"
+  },
+  {
+    "question": "Which method of ice fishing is considered the most labor-intensive?",
+    "answer": "Jigging"
   },
   {
     "question": "Which method of preserving fish retains its flavor for a long time?",
@@ -1870,5 +1902,9 @@
   {
     "question": "Why is it not recommended to use dynamite?",
     "answer": "Dangerous"
+  },
+  {
+    "question": "Why should fishing gear be equipped ethically?",
+    "answer": "To minimize harm"
   }
 ]
