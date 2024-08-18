@@ -330,6 +330,10 @@
     "answer": "Bosons"
   },
   {
+    "question": "What are the plants called that are capable of storing water?",
+    "answer": "Succulents"
+  },
+  {
     "question": "What are the powerful and long-lasting air currents called?",
     "answer": "Jet streams"
   },
@@ -498,6 +502,10 @@
     "answer": "Steam engine"
   },
   {
+    "question": "What did Margaret and Goff discover?",
+    "answer": "Propanenitrile"
+  },
+  {
     "question": "What did Vladimir Prelog synthesize?",
     "answer": "Antibiotic rifampicin"
   },
@@ -552,6 +560,10 @@
   {
     "question": "What does a heat flow meter measure?",
     "answer": "heat flow meter"
+  },
+  {
+    "question": "What does a matrix calculate?",
+    "answer": "System of equations"
   },
   {
     "question": "What does a refractometer measure?",
@@ -786,6 +798,10 @@
     "answer": "Wave function collapse"
   },
   {
+    "question": "What instrument is used for analyzing chemical composition?",
+    "answer": "Chromatograph"
+  },
+  {
     "question": "What instrument is used to analyze the spectrum of light?",
     "answer": "Spectrometer"
   },
@@ -924,6 +940,10 @@
   {
     "question": "What is a redox reaction?",
     "answer": "A process in which the oxidation states of atoms change"
+  },
+  {
+    "question": "What is a robotic complex?",
+    "answer": "A system of machines"
   },
   {
     "question": "What is a set of points called?",
@@ -1714,6 +1734,10 @@
     "answer": "capsule"
   },
   {
+    "question": "What is the phenomenon called when a star forms a new astronomical object?",
+    "answer": "Nova"
+  },
+  {
     "question": "What is the phenomenon called when particles are connected regardless of distance?"
   },
   {
@@ -2420,6 +2444,10 @@
     "answer": "Algorithms"
   },
   {
+    "question": "What technology is used for treating, restoring, or enhancing human cells and tissues?",
+    "answer": "Regenerative medicine"
+  },
+  {
     "question": "What temperature is required for sterilization in an autoclave?",
     "answer": "121 °C"
   },
@@ -2814,6 +2842,10 @@
     "answer": "Down syndrome"
   },
   {
+    "question": "Which ecosystem is the most vulnerable?",
+    "answer": "Tropical rainforests"
+  },
+  {
     "question": "Which element contains 79 protons?",
     "answer": "Gold"
   },
@@ -2840,6 +2872,10 @@
   {
     "question": "Which element is known as a corrosion-resistant metal?",
     "answer": "Titanium"
+  },
+  {
+    "question": "Which element is the most electronegative?",
+    "answer": "Fluorine"
   },
   {
     "question": "Which element was first isolated by Henri Becquerel?",
@@ -2886,6 +2922,10 @@
     "answer": "Mechatronics"
   },
   {
+    "question": "Which fish can breathe atmospheric air?",
+    "answer": "Labyrinth fish"
+  },
+  {
     "question": "Which fish can breathe through its skin?",
     "answer": "Eel"
   },
@@ -2924,6 +2964,10 @@
   {
     "question": "Which group of plants is characterized by the presence of flowers and fruits?",
     "answer": "Angiosperms"
+  },
+  {
+    "question": "Which hormone is produced by the thyroid gland?",
+    "answer": "Thyroxine"
   },
   {
     "question": "Which insect can move backwards?",
@@ -3154,6 +3198,10 @@
     "answer": "Electron"
   },
   {
+    "question": "Which particle has the smallest mass?",
+    "answer": "Neutrino"
+  },
+  {
     "question": "Which particle is predicted by the electroweak theory?",
     "answer": "Higgs boson"
   },
@@ -3182,12 +3230,20 @@
     "answer": "Jupiter"
   },
   {
+    "question": "Which plant is a succulent?",
+    "answer": "Aloe"
+  },
+  {
     "question": "Which plant is often used in genetic engineering?",
     "answer": "Tobacco"
   },
   {
     "question": "Which plant organ is primarily responsible for further growth?",
     "answer": "Bud"
+  },
+  {
+    "question": "Which plants annually grow a significant layer of wood?",
+    "answer": "Trees"
   },
   {
     "question": "Which process leads to an increase in genetic diversity within a population?",
@@ -3469,6 +3525,10 @@
     "answer": "Friedrich Kekulé"
   },
   {
+    "question": "Who discovered the tuberculosis mycobacterium?",
+    "answer": "Robert Koch"
+  },
+  {
     "question": "Who discovered volcanism on Venus?",
     "answer": "Lynn Carter"
   },
@@ -3557,8 +3617,16 @@
     "answer": "Richard Feynman"
   },
   {
+    "question": "Who is the developer of the 'Gaia Hypothesis'?",
+    "answer": "James Lovelock"
+  },
+  {
     "question": "Who performs heart surgeries?",
     "answer": "Cardiac surgeon"
+  },
+  {
+    "question": "Who popularized the paradigm of the 'scientific revolution'?",
+    "answer": "Kuhn"
   },
   {
     "question": "Who proposed the atomic model known as the Bohr model?",
