@@ -43139,6 +43139,10 @@
         "answer": "Alters orbits"
     },
     {
+        "question": "How does the interaction of galaxies affect their evolution?",
+        "answer": "Acceleration of changes"
+    },
+    {
         "question": "How does the interaction of galaxies affect their morphological development?",
         "answer": "Merger of structures"
     },
@@ -43659,6 +43663,10 @@
         "answer": "Stabilization"
     },
     {
+        "question": "What effect does turbulence have on interstellar clouds?",
+        "answer": "Fragmentation of clouds"
+    },
+    {
         "question": "What effect does ultraviolet radiation have on molecular structure in space conditions?",
         "answer": "Breaks down molecules"
     },
@@ -43899,6 +43907,10 @@
         "answer": "Enrichment with elements"
     },
     {
+        "question": "What impact do stellar winds have on the star formation process?",
+        "answer": "Mass reduction"
+    },
+    {
         "question": "What impact does solar activity have on navigation systems?",
         "answer": "Signal disruption"
     },
@@ -43987,8 +43999,16 @@
         "answer": "Turbulence"
     },
     {
+        "question": "What is the distribution of metallicity of stars in different parts of the galaxy?",
+        "answer": "Metallicity gradient"
+    },
+    {
         "question": "What is the effect of angular momentum on star formation?",
         "answer": "Speeds up rotation"
+    },
+    {
+        "question": "What is the effect of cosmic rays on molecular clouds?",
+        "answer": "Ionize the gas"
     },
     {
         "question": "What is the hypothetical process called that resulted in the separation of fundamental forces?",
@@ -44667,6 +44687,10 @@
         "answer": "Solar storms"
     },
     {
+        "question": "What phenomena contribute to the formation of galactic clusters?",
+        "answer": "Gravitational forces"
+    },
+    {
         "question": "What phenomena contributed to the cooling of the early Universe?",
         "answer": "Expansion of the Universe"
     },
@@ -45067,6 +45091,10 @@
         "answer": "Tectonic activity"
     },
     {
+        "question": "What processes can explain the presence of amino acids in meteorites?",
+        "answer": "Panspermia"
+    },
+    {
         "question": "What processes can lead to the formation of complex molecules in protoplanetary disks?",
         "answer": "Chemical evolution"
     },
@@ -45105,6 +45133,10 @@
     {
         "question": "What processes determine the brightness of a galaxy?",
         "answer": "Stellar activity"
+    },
+    {
+        "question": "What processes determine the chemical evolution of stars in the Milky Way?",
+        "answer": "Nucleosynthesis"
     },
     {
         "question": "What processes determine the distribution of stellar matter?",
@@ -45439,12 +45471,20 @@
         "answer": "Gravitational lenses"
     },
     {
+        "question": "What trajectory should be chosen for studying Venus with satellites?",
+        "answer": "Parabolic"
+    },
+    {
         "question": "What type of black hole has a ring-shaped singularity?",
         "answer": "Kerr"
     },
     {
         "question": "What type of energy is not carried by cosmic radiation?",
         "answer": "Thermal energy"
+    },
+    {
+        "question": "What type of engines are used to change orbit without using fuel?",
+        "answer": "Electrodynamic"
     },
     {
         "question": "What type of experiments help identify hypothetical dark matter particles?",
@@ -45485,6 +45525,10 @@
     {
         "question": "What types of energies predominated in the first moments of the universe's existence?",
         "answer": "High-energy"
+    },
+    {
+        "question": "What unique approach to thermal regulation was first implemented on modern space stations?",
+        "answer": "Liquid heat exchange"
     },
     {
         "question": "What unique engine was developed for maneuvers in space based on plasma?",
@@ -45839,6 +45883,10 @@
         "answer": "LUX-ZEPLIN"
     },
     {
+        "question": "Which experiment first measured thermal emission from the surface of the Moon?",
+        "answer": "ALSEP"
+    },
+    {
         "question": "Which experiments are aimed at identifying dark matter particles?",
         "answer": "LUX"
     },
@@ -45909,6 +45957,10 @@
     {
         "question": "Which mission studied the distribution of elements on the lunar surface in the 1990s?",
         "answer": "Lunar Prospector"
+    },
+    {
+        "question": "Which mission was the first international project in orbit around Venus?",
+        "answer": "Venus Express"
     },
     {
         "question": "Which mission was the first to conduct a detailed analysis of dust in a comet's tail?",
@@ -46065,6 +46117,10 @@
     {
         "question": "Which phenomenon indirectly confirms the existence of dark matter through the movement of light?",
         "answer": "Gravitational lensing"
+    },
+    {
+        "question": "Which phenomenon is associated with the explanation of dark energy?",
+        "answer": "Acceleration of expansion"
     },
     {
         "question": "Which phenomenon is studied to understand dark matter?",
@@ -46279,6 +46335,10 @@
         "answer": "Voyager 2"
     },
     {
+        "question": "Which spacecraft was the first to detect the magnetic field around Jupiter?",
+        "answer": "Pioneer 10"
+    },
+    {
         "question": "Which spacecraft was the first to discover geysers on a moon of Jupiter?",
         "answer": "Galileo"
     },
@@ -46363,6 +46423,10 @@
         "answer": "NEAR Shoemaker"
     },
     {
+        "question": "Which spacecraft was the first to transmit data from the surface of a comet?",
+        "answer": "Philae"
+    },
+    {
         "question": "Which spacecraft was the first to transmit high-resolution images of Jupiter using a gravity assist maneuver?",
         "answer": "Galileo"
     },
@@ -46393,6 +46457,10 @@
     {
         "question": "Which spacecraft was the first to use microwave sounding to study Jupiter's atmosphere?",
         "answer": "Juno"
+    },
+    {
+        "question": "Which spacecraft was the first to use radar mapping to study the surface of Venus?",
+        "answer": "Magellan"
     },
     {
         "question": "Which spacecraft was the first to use radar sounding to study the atmospheres of planets?",
@@ -46549,6 +46617,10 @@
     {
         "question": "Who formulated the law relating the period and luminosity of Cepheid variable stars?",
         "answer": "Henrietta Leavitt"
+    },
+    {
+        "question": "Who proposed the first model of the Universe with dark energy?",
+        "answer": "Albert Einstein"
     },
     {
         "question": "Who proposed the grand unification theory explaining the interaction of fundamental forces?",
