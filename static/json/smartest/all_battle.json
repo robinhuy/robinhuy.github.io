@@ -4241,6 +4241,10 @@
         "answer": "2006"
     },
     {
+        "question": "In what year did the channel 'Lunch without Problems' appear?",
+        "answer": "2012"
+    },
+    {
         "question": "In which country is Machu Picchu located?",
         "answer": "Peru"
     },
@@ -4263,6 +4267,10 @@
     {
         "question": "On which channel can you learn about jazz?",
         "answer": "JazzCorner"
+    },
+    {
+        "question": "On which channel can you learn about vinyl records?",
+        "answer": "Vinyl Club"
     },
     {
         "question": "On which device was the first popular podcasting launched?",
@@ -4513,6 +4521,10 @@
         "answer": "Complex emotions"
     },
     {
+        "question": "What is used to distribute podcasts?",
+        "answer": "RSS"
+    },
+    {
         "question": "What music genre is often used by DJ streamers?",
         "answer": "TenZ"
     },
@@ -4661,6 +4673,10 @@
         "answer": "Anna Kuznetsova"
     },
     {
+        "question": "Which blogger is known for luxury cosmetics reviews?",
+        "answer": "Lisa Eldridge"
+    },
+    {
         "question": "Which blogger is known for their in-depth technical reviews?",
         "answer": "Dave Lee"
     },
@@ -4701,6 +4717,10 @@
         "answer": "Denis Orlov"
     },
     {
+        "question": "Which blogger releases guitar tutorials?",
+        "answer": "GuitarGuru"
+    },
+    {
         "question": "Which blogger runs a channel about cooking fish and seafood?",
         "answer": "Brandon Truaxe"
     },
@@ -4735,6 +4755,10 @@
     {
         "question": "Which blogger talks about rare music genres?",
         "answer": "Rare genres"
+    },
+    {
+        "question": "Which blogger talks about rare music styles?",
+        "answer": "Exotic Sound"
     },
     {
         "question": "Which blogger teaches foreign languages?",
@@ -4801,6 +4825,10 @@
         "answer": "IT Guru"
     },
     {
+        "question": "Which lifestyle blogger publishes repair tips?",
+        "answer": "Domostroy"
+    },
+    {
         "question": "Which music streamer is known for playing the ukulele?",
         "answer": "TwitchSings"
     },
@@ -4827,6 +4855,10 @@
     {
         "question": "Which podcast covers global finance?",
         "answer": "Global Finance"
+    },
+    {
+        "question": "Which podcast covers venture capital opportunities?",
+        "answer": "Venture Investments"
     },
     {
         "question": "Which podcast explains complex scientific terms?",
@@ -4969,6 +5001,10 @@
         "answer": ""
     },
     {
+        "question": "Which streamer made running workouts famous?",
+        "answer": "Viktor Tarasov"
+    },
+    {
         "question": "Which streamer performs live jazz improvisations?",
         "answer": "JazzPlayer"
     },
@@ -5073,6 +5109,10 @@
         "answer": "Natalia Orlova"
     },
     {
+        "question": "Who hosts the podcast 'Science Every Day'?",
+        "answer": "Ivan Petrov"
+    },
+    {
         "question": "Who hosts the podcast 'Trëkha'?",
         "answer": "Lectures"
     },
@@ -5095,6 +5135,10 @@
     {
         "question": "Who is called the 'Marathon Streamer'?",
         "answer": "Ilya Zimin"
+    },
+    {
+        "question": "Who is known as 'Dr DisRespect'?",
+        "answer": "Dr DisRespect"
     },
     {
         "question": "Who is known for creating realistic Halloween makeup?",
@@ -10193,6 +10237,10 @@
         "answer": "8"
     },
     {
+        "question": "How many hours per week does a top football streamer stream?",
+        "answer": "20 hours"
+    },
+    {
         "question": "How many levels are there in Candy Crush Saga?",
         "answer": "10000+ levels"
     },
@@ -10209,8 +10257,20 @@
         "answer": "13"
     },
     {
+        "question": "How often are playlists on music streaming services updated?",
+        "answer": "Weekly"
+    },
+    {
+        "question": "How often are podcasts released?",
+        "answer": "Weekly"
+    },
+    {
         "question": "In what setting does the game Metro Exodus take place?",
         "answer": "Post-apocalypse"
+    },
+    {
+        "question": "In what year did the channel 'Lunch without Problems' appear?",
+        "answer": "2012"
     },
     {
         "question": "In what year was Hearthstone released?",
@@ -10445,12 +10505,20 @@
         "answer": "RTS"
     },
     {
+        "question": "In which month did the podcast 'Business Stories' start?",
+        "answer": "January"
+    },
+    {
         "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
         "answer": "HGC"
     },
     {
         "question": "Name the magical art of elven mages in the game Dragon Age.",
         "answer": "Arcanum"
+    },
+    {
+        "question": "On which channel are kitchen gadget reviews regularly released?",
+        "answer": "Reviews and Gadgets"
     },
     {
         "question": "The character leading the 'Masquerade' clans in Bloodlines is...",
@@ -10481,6 +10549,10 @@
         "answer": "Events"
     },
     {
+        "question": "What can a podcast contain?",
+        "answer": "Opinions"
+    },
+    {
         "question": "What cards are used for healing in the original games?",
         "answer": "Potion cards"
     },
@@ -10491,6 +10563,10 @@
     {
         "question": "What creature is encountered in the game 'Gloomhaven'?",
         "answer": "Monster"
+    },
+    {
+        "question": "What does RSS mean?",
+        "answer": "Format for publishing news"
     },
     {
         "question": "What does the term 4X mean in strategy games?",
@@ -10597,6 +10673,10 @@
         "answer": "ESL"
     },
     {
+        "question": "What is the largest island in the world?",
+        "answer": "Greenland"
+    },
+    {
         "question": "What is the main objective in the game Monument Valley?",
         "answer": "Solving puzzles"
     },
@@ -10649,6 +10729,10 @@
         "answer": "Wipeout"
     },
     {
+        "question": "What is the name of the author of the channel 'Piano Secrets'?",
+        "answer": "Eldar Kasimov"
+    },
+    {
         "question": "What is the name of the board game where players grow vegetables?",
         "answer": "Agricola"
     },
@@ -10671,6 +10755,10 @@
     {
         "question": "What is the name of the creator of The Elder Scrolls series?",
         "answer": "Todd Howard"
+    },
+    {
+        "question": "What is the name of the creator of the podcast 'Serial'?",
+        "answer": "Sarah Koenig"
     },
     {
         "question": "What is the name of the database with details of RPG worlds?",
@@ -10911,6 +10999,10 @@
     {
         "question": "What is the name of the people's assembly in 'Final Fantasy X'?",
         "answer": "Highbridge"
+    },
+    {
+        "question": "What is the name of the popular music streamer who often plays the guitar?",
+        "answer": "Sungha Jung"
     },
     {
         "question": "What is the name of the popular space game?",
@@ -11201,6 +11293,46 @@
         "answer": "Dragon"
     },
     {
+        "question": "Which artist combines live performance with DJ sets?",
+        "answer": "Kaskade"
+    },
+    {
+        "question": "Which audience prefers podcasts?",
+        "answer": "Adults"
+    },
+    {
+        "question": "Which blogger is involved in creating makeup and wigs for shows?",
+        "answer": "Miss Fame"
+    },
+    {
+        "question": "Which blogger is known for promoting CrossFit?",
+        "answer": "Ilya Zakharov"
+    },
+    {
+        "question": "Which blogger is known for their high professionalism in makeup?",
+        "answer": "Wei Li"
+    },
+    {
+        "question": "Which blogger is known for their philosophical reflections?",
+        "answer": "Frolov"
+    },
+    {
+        "question": "Which blogger often uses bright color schemes in makeup?",
+        "answer": "Patrick Starrr"
+    },
+    {
+        "question": "Which blogger shares knowledge about history?",
+        "answer": "Andrey Ilyin"
+    },
+    {
+        "question": "Which blogger specializes in makeup for horror movies?",
+        "answer": "Glam Gore"
+    },
+    {
+        "question": "Which blogger specializes in retro looks?",
+        "answer": "Stephanie Lan"
+    },
+    {
         "question": "Which board game involves moving pieces on a hexagonal board with goals of economy and diplomacy?",
         "answer": "Terra Mystica"
     },
@@ -11217,6 +11349,10 @@
         "answer": "Laurence"
     },
     {
+        "question": "Which channel debunks kitchen myths?",
+        "answer": "Myths and Kitchen"
+    },
+    {
         "question": "Which character appears in the game Monument Valley?",
         "answer": "Ida"
     },
@@ -11227,6 +11363,10 @@
     {
         "question": "Which company owns Oculus?",
         "answer": "Facebook"
+    },
+    {
+        "question": "Which culinary blogger is known for their videos about fermented products?",
+        "answer": "Alexander Khlebnikov"
     },
     {
         "question": "Which dragon is trapped in Skyrim?",
@@ -11243,6 +11383,10 @@
     {
         "question": "Which faction is represented in World of Warcraft?",
         "answer": "Horde"
+    },
+    {
+        "question": "Which female athlete streams about swimming?",
+        "answer": "Marina Osipova"
     },
     {
         "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -11263,6 +11407,10 @@
     {
         "question": "Which game attracted attention with its storyline in 2018?",
         "answer": "Red Dead Redemption 2"
+    },
+    {
+        "question": "Which game combines elements of a post-apocalyptic world and turn-based combat?",
+        "answer": "Wasteland"
     },
     {
         "question": "Which game company created the Xenoblade Chronicles series?",
@@ -11393,6 +11541,10 @@
         "answer": "Sega Genesis"
     },
     {
+        "question": "Which genre is not suitable for educational podcasts?",
+        "answer": "Thriller"
+    },
+    {
         "question": "Which graphics library is used in Vulkan?",
         "answer": "Vulkan API"
     },
@@ -11429,6 +11581,22 @@
         "answer": "DreamHack AB"
     },
     {
+        "question": "Which podcast discusses investments?",
+        "answer": "Investment Club"
+    },
+    {
+        "question": "Which podcast mixes music and humor?",
+        "answer": "Musicomedy"
+    },
+    {
+        "question": "Which podcast often combines humor and politics?",
+        "answer": "Politically Joking"
+    },
+    {
+        "question": "Which podcast teaches investing?",
+        "answer": "Investing for Everyone"
+    },
+    {
         "question": "Which puzzle can be solved by moving rings?",
         "answer": "Tower of Hanoi"
     },
@@ -11463,6 +11631,18 @@
     {
         "question": "Which skill is responsible for the art of persuasion?",
         "answer": "Speech"
+    },
+    {
+        "question": "Which streamer goes by the pseudonym Dr Disrespect?",
+        "answer": "Guy Beahm"
+    },
+    {
+        "question": "Which streamer performs their own songs in hip-hop style?",
+        "answer": "Watsky"
+    },
+    {
+        "question": "Which streamer regularly performs piano covers?",
+        "answer": "CassyJam"
     },
     {
         "question": "Which studio developed the game The Last Guardian?",
@@ -11517,12 +11697,28 @@
         "answer": "Jack Etienne"
     },
     {
+        "question": "Who hosts the podcast \"Cultural Focus\"?",
+        "answer": "Anna Petrova"
+    },
+    {
         "question": "Who is considered the founder of the RPG genre?",
         "answer": "Gary Gygax"
     },
     {
+        "question": "Who is known for their retro looks?",
+        "answer": "Lucia Vander"
+    },
+    {
         "question": "Who is responsible for setting up lighting in a game?",
         "answer": "Technical artist"
+    },
+    {
+        "question": "Who is the author of the 'sand eyes' concept?",
+        "answer": "Tati Westbrook"
+    },
+    {
+        "question": "Who is the creator of LiveJournal?",
+        "answer": "Brad Fitzpatrick"
     },
     {
         "question": "Who is the creator of the character Mario?",
@@ -11575,6 +11771,18 @@
     {
         "question": "Who programs the logical interactions in a game?",
         "answer": "Gameplay programmer"
+    },
+    {
+        "question": "Who shares knowledge about biology?",
+        "answer": "Maria Kuzmina"
+    },
+    {
+        "question": "Who talks about psychology on their YouTube channel?",
+        "answer": "Dmitry Panov"
+    },
+    {
+        "question": "Who talks about space and astronomy?",
+        "answer": "Oleg Vasilyev"
     },
     {
         "question": "Who was the commentator at The Overwatch League tournament?",
@@ -18128,6 +18336,10 @@
         "answer": "Surfactant"
     },
     {
+        "question": "What mechanism regulates the secretion of pituitary hormones?",
+        "answer": "feedback"
+    },
+    {
         "question": "What mechanism triggers an allergic reaction?",
         "answer": "Activation of IgE"
     },
@@ -18416,6 +18628,10 @@
         "answer": "Blood test"
     },
     {
+        "question": "What test is used for early diagnosis of lung cancer?",
+        "answer": "CT scan"
+    },
+    {
         "question": "What tests are methods of early diagnosis of prostate cancer?",
         "answer": "PSA test"
     },
@@ -18698,6 +18914,10 @@
     {
         "question": "Which function of REM sleep is most significant for cognitive processes?",
         "answer": "Memory consolidation"
+    },
+    {
+        "question": "Which gene is responsible for cystic fibrosis?",
+        "answer": "CFTR"
     },
     {
         "question": "Which gene is responsible for the production of MHC classes?",
@@ -19032,6 +19252,10 @@
         "answer": "Biogenesis"
     },
     {
+        "question": "Which process is associated with the activation of the hypothalamic-pituitary-adrenal axis?",
+        "answer": "Stress response"
+    },
+    {
         "question": "Which process is involved in bone tissue remodeling?",
         "answer": "Bone resorption"
     },
@@ -19358,6 +19582,10 @@
     {
         "question": "Which vitamins are necessary for the synthesis of hemoglobin?",
         "answer": "B6"
+    },
+    {
+        "question": "Which vitamins are synthesized by the intestinal microflora?",
+        "answer": "B7, K"
     },
     {
         "question": "Which vitamins are synthesized in the body from cholesterol?",
@@ -42787,56 +43015,616 @@
         "answer": "Catching prey"
     },
     {
+        "question": "How does active use of gadgets affect people?",
+        "answer": "Digital fatigue"
+    },
+    {
+        "question": "How does globalization affect world politics?",
+        "answer": "Internationalization"
+    },
+    {
         "question": "How does sociology divide society by different statuses?",
         "answer": "Social structure"
+    },
+    {
+        "question": "In what year did apartheid end in South Africa?",
+        "answer": "1994"
+    },
+    {
+        "question": "In what year did the Thirty Years' War begin?",
+        "answer": "1618"
+    },
+    {
+        "question": "In which country is Yom Kippur a public holiday?",
+        "answer": "Israel"
+    },
+    {
+        "question": "In which country is the headquarters of the World Bank located?",
+        "answer": "USA"
+    },
+    {
+        "question": "In which direction is globalization developing?",
+        "answer": "Integration"
+    },
+    {
+        "question": "Name a genetic blood disorder.",
+        "answer": "Hemophilia"
+    },
+    {
+        "question": "The study of criminal behavior is called",
+        "answer": "Criminology"
+    },
+    {
+        "question": "What are Chinese characters called?",
+        "answer": "Hanzi"
+    },
+    {
+        "question": "What are devices called that perform work for humans?",
+        "answer": "Robots"
     },
     {
         "question": "What concept describes equal opportunities for everyone?",
         "answer": "Inclusion"
     },
     {
+        "question": "What describes the distribution of power resources in society?",
+        "answer": "Political sociology"
+    },
+    {
+        "question": "What does 'ethical pluralism' mean?",
+        "answer": "Diversity of values"
+    },
+    {
+        "question": "What does 'value' represent?",
+        "answer": "Worth"
+    },
+    {
+        "question": "What does biological anthropology study?",
+        "answer": "Human evolution"
+    },
+    {
+        "question": "What does cybernetics study?",
+        "answer": "Control of systems"
+    },
+    {
+        "question": "What does ecofeminism study?",
+        "answer": "The connection between ecology and feminism"
+    },
+    {
+        "question": "What does economic sociology study?",
+        "answer": "The interaction between economy and society"
+    },
+    {
+        "question": "What does ethnomethodology study?",
+        "answer": "Everyday interactions"
+    },
+    {
+        "question": "What does globalization lead to?",
+        "answer": "Cultural blending"
+    },
+    {
         "question": "What does hermeneutics deal with?",
         "answer": "interpretation of texts"
+    },
+    {
+        "question": "What does phenomenology study?",
+        "answer": "Phenomena"
+    },
+    {
+        "question": "What does the CIS do?",
+        "answer": "Cooperation of countries"
+    },
+    {
+        "question": "What does the concept of 'deontology' mean?",
+        "answer": "moral duties"
     },
     {
         "question": "What does the science of 'Welfare Economics' study?",
         "answer": "Resource allocation"
     },
     {
+        "question": "What does the term \"interculturalism\" mean?",
+        "answer": "Dialogue of cultures"
+    },
+    {
+        "question": "What does the term 'anamnesis' mean?",
+        "answer": "Recollection"
+    },
+    {
+        "question": "What does the term 'codification' mean?",
+        "answer": "creation of a code"
+    },
+    {
+        "question": "What does the term 'ontology' mean?",
+        "answer": "The study of being"
+    },
+    {
+        "question": "What factor influences the global market?",
+        "answer": "Innovation"
+    },
+    {
+        "question": "What forms the basis of cognitive schemas?",
+        "answer": "Experience"
+    },
+    {
+        "question": "What is a priority area in the economy?",
+        "answer": "Key development area"
+    },
+    {
         "question": "What is an 'aporia'?",
         "answer": "Logical paradox"
+    },
+    {
+        "question": "What is an element of material culture?",
+        "answer": "Architecture"
+    },
+    {
+        "question": "What is an object of cultural rights?",
+        "answer": "Heritage"
+    },
+    {
+        "question": "What is cultural relativism?",
+        "answer": "The relativity of cultural norms"
+    },
+    {
+        "question": "What is ethical subjectivism?",
+        "answer": "Personal opinion"
+    },
+    {
+        "question": "What is important when studying artifacts?",
+        "answer": "Context"
+    },
+    {
+        "question": "What is subjective value?",
+        "answer": "Value to the individual"
+    },
+    {
+        "question": "What is the disease called that is caused by the destruction of cartilage?",
+        "answer": "Osteoarthritis"
+    },
+    {
+        "question": "What is the doctrine called that asserts human actions are predetermined?",
+        "answer": "Determinism"
+    },
+    {
+        "question": "What is the first court session called?",
+        "answer": "preliminary"
+    },
+    {
+        "question": "What is the form of education called where study is combined with work?",
+        "answer": "Dual system"
+    },
+    {
+        "question": "What is the form of government called where the head of state primarily performs ceremonial duties?",
+        "answer": "Constitutional monarchy"
+    },
+    {
+        "question": "What is the group of people called that considers a case in court?",
+        "answer": "Jury"
+    },
+    {
+        "question": "What is the holy site located in Mecca?",
+        "answer": "Kaaba"
+    },
+    {
+        "question": "What is the main purpose of lobbying?",
+        "answer": "Influencing decisions"
+    },
+    {
+        "question": "What is the main purpose of propaganda?",
+        "answer": "Influence opinion"
+    },
+    {
+        "question": "What is the name of the famous African style of masks?",
+        "answer": "Punu masks"
+    },
+    {
+        "question": "What is the name of the international court?",
+        "answer": "International Court of Justice"
+    },
+    {
+        "question": "What is the name of the international organization that fights against torture?",
+        "answer": "Amnesty International"
+    },
+    {
+        "question": "What is the name of the international relations theory that focuses on power interests?",
+        "answer": "Realism"
+    },
+    {
+        "question": "What is the name of the philosophical doctrine that centers around the idea of constant change?",
+        "answer": "Dialectics"
+    },
+    {
+        "question": "What is the name of the program that supports citizens' income during crisis moments in life?",
+        "answer": "Social insurance"
+    },
+    {
+        "question": "What is the name of the thyroid gland disease characterized by increased functional activity?",
+        "answer": "Hyperthyroidism"
     },
     {
         "question": "What is the name of the work by philosopher Francis Bacon related to the scientific revolution?",
         "answer": "Novum Organum"
     },
     {
+        "question": "What is the political theory that advocates for minimal government intervention in the economy called?",
+        "answer": "Libertarianism"
+    },
+    {
+        "question": "What is the procedure of listening to the heart called?",
+        "answer": "Auscultation"
+    },
+    {
+        "question": "What is the process of a person's adaptation to changing conditions called?",
+        "answer": "Adaptation"
+    },
+    {
+        "question": "What is the process of eliminating harmful substances called?",
+        "answer": "Detoxification"
+    },
+    {
+        "question": "What is the process of learning gender roles called?",
+        "answer": "Gender socialization"
+    },
+    {
+        "question": "What is the process of passing culture through generations called?",
+        "answer": "Cultural tradition"
+    },
+    {
+        "question": "What is the process of protecting rights called?",
+        "answer": "Judicial proceedings"
+    },
+    {
+        "question": "What is the process of reliving a traumatic event called?",
+        "answer": "Flashback"
+    },
+    {
+        "question": "What is the psychological distress due to a mismatch of gender called?",
+        "answer": "Gender dysphoria"
+    },
+    {
+        "question": "What is the psychological state of self-love called?",
+        "answer": "Narcissism"
+    },
+    {
+        "question": "What is the right to protection from arbitrary interference in personal life called?",
+        "answer": "Privacy"
+    },
+    {
+        "question": "What is the scientific study of social change and development called?",
+        "answer": "Social theory"
+    },
+    {
+        "question": "What is the subject of a contract?",
+        "answer": "Terms of the agreement"
+    },
+    {
+        "question": "What is the technique of gesture control called?",
+        "answer": "Gesture Control"
+    },
+    {
+        "question": "What is the term for spiritual self-improvement in Taoism?",
+        "answer": "Dao"
+    },
+    {
+        "question": "What is the term for the transmission of cultural traditions from generation to generation?",
+        "answer": "Socialization"
+    },
+    {
+        "question": "What is the transition from mortal life to the afterlife called in Christianity?",
+        "answer": "Dormition"
+    },
+    {
+        "question": "What is utilitarianism?",
+        "answer": "ethics of utility"
+    },
+    {
         "question": "What limits 'scarcity'?",
         "answer": "Available resources"
+    },
+    {
+        "question": "What movement opposes corporate control and inequality?",
+        "answer": "Anti-consumerism"
+    },
+    {
+        "question": "What movement opposes globalization?",
+        "answer": "Anti-globalization"
     },
     {
         "question": "What phenomenon contributes to global mobility?",
         "answer": "Migration"
     },
     {
+        "question": "What phenomenon describes a sharp decline in population?",
+        "answer": "Depopulation"
+    },
+    {
+        "question": "What phenomenon includes the norms of society?",
+        "answer": "Social control"
+    },
+    {
+        "question": "What philosophical term means 'existence'?",
+        "answer": "Being"
+    },
+    {
+        "question": "What principle did Zeno of Citium propose?",
+        "answer": "Apathy"
+    },
+    {
+        "question": "What protects children's rights?",
+        "answer": "Convention"
+    },
+    {
+        "question": "What right allows participation in elections?",
+        "answer": "Suffrage"
+    },
+    {
+        "question": "What right does a citizen's passport protect?",
+        "answer": "Right to citizenship"
+    },
+    {
+        "question": "What right guarantees participation in public life?",
+        "answer": "Right to assembly"
+    },
+    {
+        "question": "What substance in blood serum helps fight infections?",
+        "answer": "Antibodies"
+    },
+    {
+        "question": "What technology converts solar energy into electricity?",
+        "answer": "Photovoltaics"
+    },
+    {
+        "question": "What technology converts sound into text?",
+        "answer": "Speech recognition"
+    },
+    {
+        "question": "What technology powers cryptocurrencies?",
+        "answer": "Blockchain"
+    },
+    {
+        "question": "What term describes the development of technologies in education?",
+        "answer": "EdTech"
+    },
+    {
+        "question": "What term is often used in the context of globalization?",
+        "answer": "Glocalization"
+    },
+    {
+        "question": "What term refers to the systematic planning of the educational process?",
+        "answer": "Curriculum"
+    },
+    {
+        "question": "What trend is characteristic of the global economy?",
+        "answer": "Increasing interdependence"
+    },
+    {
+        "question": "What type of course is typically short and focused on specific skills?",
+        "answer": "Mini-course"
+    },
+    {
+        "question": "What was the name of the ancient Indian empire?",
+        "answer": "Maurya"
+    },
+    {
+        "question": "What was the war between England and France in the 14th century called?",
+        "answer": "Hundred Years' War"
+    },
+    {
+        "question": "When did the migrant rights movement first emerge?",
+        "answer": "19th century"
+    },
+    {
+        "question": "When was the Byzantine Empire founded?",
+        "answer": "395"
+    },
+    {
+        "question": "Where are laws enacted in a federal system?",
+        "answer": "Federal Assembly"
+    },
+    {
+        "question": "Where did the 'Green Morning' movement take place?",
+        "answer": "In Kenya"
+    },
+    {
         "question": "Which anthropologist developed the method of ethnography?",
         "answer": "Bronisław Malinowski"
+    },
+    {
+        "question": "Which architect designed the Sagrada Familia?",
+        "answer": "Gaudi"
+    },
+    {
+        "question": "Which article of the European Convention on Human Rights protects the right to a fair trial?",
+        "answer": "Article 6"
+    },
+    {
+        "question": "Which church reformation began in the 16th century?",
+        "answer": "Protestant"
+    },
+    {
+        "question": "Which city is considered the financial center of the world?",
+        "answer": "New York"
+    },
+    {
+        "question": "Which country is not a signatory of the European Convention on Human Rights?",
+        "answer": "Belarus"
+    },
+    {
+        "question": "Which decade is considered the beginning of the feminist movement in Russia?",
+        "answer": "1910s"
+    },
+    {
+        "question": "Which doctrine claims that the Universe possesses intelligence?",
+        "answer": "Pantheism"
+    },
+    {
+        "question": "Which dynasty ruled China from the late 14th to the early 17th century?",
+        "answer": "Ming"
+    },
+    {
+        "question": "Which feminist theorist is known for her work on patriarchy?",
+        "answer": "Silvia Federici"
+    },
+    {
+        "question": "Which industries dominate the world?",
+        "answer": "technological"
+    },
+    {
+        "question": "Which organizations are involved in social support?",
+        "answer": "Charitable foundations"
+    },
+    {
+        "question": "Which principle respects cultural diversity and intercultural dialogue?",
+        "answer": "Multiculturalism"
     },
     {
         "question": "Which region is the most integrated into the process of globalization?",
         "answer": "The West"
     },
     {
+        "question": "Which right protects against violence?",
+        "answer": "Personal"
+    },
+    {
+        "question": "Which right protects the freedom of movement?",
+        "answer": "Right to movement"
+    },
+    {
+        "question": "Which science studies tissues?",
+        "answer": "Histology"
+    },
+    {
+        "question": "Which style did Van Gogh popularize?",
+        "answer": "Post-Impressionism"
+    },
+    {
+        "question": "Which system supports the employment level?",
+        "answer": "Social policy"
+    },
+    {
+        "question": "Which theory analyzes the intersection of different forms of oppression?",
+        "answer": "Intersectionality"
+    },
+    {
+        "question": "Which theory examines the influence of gender on language?",
+        "answer": "Feminist linguistics"
+    },
+    {
+        "question": "Which theory explains inequality in society?",
+        "answer": "Conflict"
+    },
+    {
+        "question": "Which theory studies the performativity of gender?",
+        "answer": "Judith Butler's Theory"
+    },
+    {
+        "question": "Which transportation system facilitated global trade?",
+        "answer": "Container shipping"
+    },
+    {
+        "question": "Who can apply to the European Court of Human Rights?",
+        "answer": "Any citizen"
+    },
+    {
+        "question": "Who conducted the famous survey in Chicago?",
+        "answer": "E. W. Burgess"
+    },
+    {
+        "question": "Who determines economic policy?",
+        "answer": "Government"
+    },
+    {
         "question": "Who developed structuralism in sociology?",
         "answer": "Claude Lévi-Strauss"
+    },
+    {
+        "question": "Who developed the concept of 'will to power'?",
+        "answer": "Friedrich Nietzsche"
+    },
+    {
+        "question": "Who developed the concept of behavioral economics?",
+        "answer": "Daniel Kahneman"
+    },
+    {
+        "question": "Who founded Stoicism?",
+        "answer": "Zeno"
     },
     {
         "question": "Who introduced the term 'Postmodern'?",
         "answer": "Jean-François Lyotard"
     },
     {
+        "question": "Who introduced the term 'charisma'?",
+        "answer": "Max Weber"
+    },
+    {
+        "question": "Who introduced the term 'existentialism'?",
+        "answer": "Jean-Paul Sartre"
+    },
+    {
+        "question": "Who introduced the term 'profanation'?",
+        "answer": "Henri Lefebvre"
+    },
+    {
         "question": "Who is considered the founder of feminism?",
         "answer": "Simone de Beauvoir"
+    },
+    {
+        "question": "Who is considered the founder of structural functionalism?",
+        "answer": "Talcott Parsons"
+    },
+    {
+        "question": "Who is the author of the book 'Anthropology Treatise'?",
+        "answer": "Claude Lévi-Strauss"
+    },
+    {
+        "question": "Who is the author of the book 'Correspondence School'?",
+        "answer": "Ushinsky"
+    },
+    {
+        "question": "Who is the author of the book 'Suicide'?",
+        "answer": "Émile Durkheim"
+    },
+    {
+        "question": "Who is the author of the work 'Leviathan'?",
+        "answer": "Thomas Hobbes"
+    },
+    {
+        "question": "Who is the founder of symbolic interactionism?",
+        "answer": "Herbert Blumer"
+    },
+    {
+        "question": "Who led the Salt March?",
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who proposed the social learning theory?",
+        "answer": "Bandura"
+    },
+    {
+        "question": "Who ruled France after Napoleon?",
+        "answer": "Louis XVIII"
+    },
+    {
+        "question": "Who studied the influence of culture on personality?",
+        "answer": "Margaret Mead"
+    },
+    {
+        "question": "Who wrote 'Ethics' in the 17th century?",
+        "answer": "Spinoza"
+    },
+    {
+        "question": "Who wrote 'The Arguments of Anthropology'?",
+        "answer": "Jack Goody"
+    },
+    {
+        "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?",
+        "answer": "Mirabeau"
+    },
+    {
+        "question": "Who wrote the book 'Gender Trouble'?",
+        "answer": "Judith Butler"
     },
     {
         "question": "At what rate is the Universe expanding under the influence of dark energy?",

@@ -1,54 +1,614 @@
 [
   {
+    "question": "How does active use of gadgets affect people?",
+    "answer": "Digital fatigue"
+  },
+  {
+    "question": "How does globalization affect world politics?",
+    "answer": "Internationalization"
+  },
+  {
     "question": "How does sociology divide society by different statuses?",
     "answer": "Social structure"
+  },
+  {
+    "question": "In what year did apartheid end in South Africa?",
+    "answer": "1994"
+  },
+  {
+    "question": "In what year did the Thirty Years' War begin?",
+    "answer": "1618"
+  },
+  {
+    "question": "In which country is Yom Kippur a public holiday?",
+    "answer": "Israel"
+  },
+  {
+    "question": "In which country is the headquarters of the World Bank located?",
+    "answer": "USA"
+  },
+  {
+    "question": "In which direction is globalization developing?",
+    "answer": "Integration"
+  },
+  {
+    "question": "Name a genetic blood disorder.",
+    "answer": "Hemophilia"
+  },
+  {
+    "question": "The study of criminal behavior is called",
+    "answer": "Criminology"
+  },
+  {
+    "question": "What are Chinese characters called?",
+    "answer": "Hanzi"
+  },
+  {
+    "question": "What are devices called that perform work for humans?",
+    "answer": "Robots"
   },
   {
     "question": "What concept describes equal opportunities for everyone?",
     "answer": "Inclusion"
   },
   {
+    "question": "What describes the distribution of power resources in society?",
+    "answer": "Political sociology"
+  },
+  {
+    "question": "What does 'ethical pluralism' mean?",
+    "answer": "Diversity of values"
+  },
+  {
+    "question": "What does 'value' represent?",
+    "answer": "Worth"
+  },
+  {
+    "question": "What does biological anthropology study?",
+    "answer": "Human evolution"
+  },
+  {
+    "question": "What does cybernetics study?",
+    "answer": "Control of systems"
+  },
+  {
+    "question": "What does ecofeminism study?",
+    "answer": "The connection between ecology and feminism"
+  },
+  {
+    "question": "What does economic sociology study?",
+    "answer": "The interaction between economy and society"
+  },
+  {
+    "question": "What does ethnomethodology study?",
+    "answer": "Everyday interactions"
+  },
+  {
+    "question": "What does globalization lead to?",
+    "answer": "Cultural blending"
+  },
+  {
     "question": "What does hermeneutics deal with?",
     "answer": "interpretation of texts"
+  },
+  {
+    "question": "What does phenomenology study?",
+    "answer": "Phenomena"
+  },
+  {
+    "question": "What does the CIS do?",
+    "answer": "Cooperation of countries"
+  },
+  {
+    "question": "What does the concept of 'deontology' mean?",
+    "answer": "moral duties"
   },
   {
     "question": "What does the science of 'Welfare Economics' study?",
     "answer": "Resource allocation"
   },
   {
+    "question": "What does the term \"interculturalism\" mean?",
+    "answer": "Dialogue of cultures"
+  },
+  {
+    "question": "What does the term 'anamnesis' mean?",
+    "answer": "Recollection"
+  },
+  {
+    "question": "What does the term 'codification' mean?",
+    "answer": "creation of a code"
+  },
+  {
+    "question": "What does the term 'ontology' mean?",
+    "answer": "The study of being"
+  },
+  {
+    "question": "What factor influences the global market?",
+    "answer": "Innovation"
+  },
+  {
+    "question": "What forms the basis of cognitive schemas?",
+    "answer": "Experience"
+  },
+  {
+    "question": "What is a priority area in the economy?",
+    "answer": "Key development area"
+  },
+  {
     "question": "What is an 'aporia'?",
     "answer": "Logical paradox"
+  },
+  {
+    "question": "What is an element of material culture?",
+    "answer": "Architecture"
+  },
+  {
+    "question": "What is an object of cultural rights?",
+    "answer": "Heritage"
+  },
+  {
+    "question": "What is cultural relativism?",
+    "answer": "The relativity of cultural norms"
+  },
+  {
+    "question": "What is ethical subjectivism?",
+    "answer": "Personal opinion"
+  },
+  {
+    "question": "What is important when studying artifacts?",
+    "answer": "Context"
+  },
+  {
+    "question": "What is subjective value?",
+    "answer": "Value to the individual"
+  },
+  {
+    "question": "What is the disease called that is caused by the destruction of cartilage?",
+    "answer": "Osteoarthritis"
+  },
+  {
+    "question": "What is the doctrine called that asserts human actions are predetermined?",
+    "answer": "Determinism"
+  },
+  {
+    "question": "What is the first court session called?",
+    "answer": "preliminary"
+  },
+  {
+    "question": "What is the form of education called where study is combined with work?",
+    "answer": "Dual system"
+  },
+  {
+    "question": "What is the form of government called where the head of state primarily performs ceremonial duties?",
+    "answer": "Constitutional monarchy"
+  },
+  {
+    "question": "What is the group of people called that considers a case in court?",
+    "answer": "Jury"
+  },
+  {
+    "question": "What is the holy site located in Mecca?",
+    "answer": "Kaaba"
+  },
+  {
+    "question": "What is the main purpose of lobbying?",
+    "answer": "Influencing decisions"
+  },
+  {
+    "question": "What is the main purpose of propaganda?",
+    "answer": "Influence opinion"
+  },
+  {
+    "question": "What is the name of the famous African style of masks?",
+    "answer": "Punu masks"
+  },
+  {
+    "question": "What is the name of the international court?",
+    "answer": "International Court of Justice"
+  },
+  {
+    "question": "What is the name of the international organization that fights against torture?",
+    "answer": "Amnesty International"
+  },
+  {
+    "question": "What is the name of the international relations theory that focuses on power interests?",
+    "answer": "Realism"
+  },
+  {
+    "question": "What is the name of the philosophical doctrine that centers around the idea of constant change?",
+    "answer": "Dialectics"
+  },
+  {
+    "question": "What is the name of the program that supports citizens' income during crisis moments in life?",
+    "answer": "Social insurance"
+  },
+  {
+    "question": "What is the name of the thyroid gland disease characterized by increased functional activity?",
+    "answer": "Hyperthyroidism"
   },
   {
     "question": "What is the name of the work by philosopher Francis Bacon related to the scientific revolution?",
     "answer": "Novum Organum"
   },
   {
+    "question": "What is the political theory that advocates for minimal government intervention in the economy called?",
+    "answer": "Libertarianism"
+  },
+  {
+    "question": "What is the procedure of listening to the heart called?",
+    "answer": "Auscultation"
+  },
+  {
+    "question": "What is the process of a person's adaptation to changing conditions called?",
+    "answer": "Adaptation"
+  },
+  {
+    "question": "What is the process of eliminating harmful substances called?",
+    "answer": "Detoxification"
+  },
+  {
+    "question": "What is the process of learning gender roles called?",
+    "answer": "Gender socialization"
+  },
+  {
+    "question": "What is the process of passing culture through generations called?",
+    "answer": "Cultural tradition"
+  },
+  {
+    "question": "What is the process of protecting rights called?",
+    "answer": "Judicial proceedings"
+  },
+  {
+    "question": "What is the process of reliving a traumatic event called?",
+    "answer": "Flashback"
+  },
+  {
+    "question": "What is the psychological distress due to a mismatch of gender called?",
+    "answer": "Gender dysphoria"
+  },
+  {
+    "question": "What is the psychological state of self-love called?",
+    "answer": "Narcissism"
+  },
+  {
+    "question": "What is the right to protection from arbitrary interference in personal life called?",
+    "answer": "Privacy"
+  },
+  {
+    "question": "What is the scientific study of social change and development called?",
+    "answer": "Social theory"
+  },
+  {
+    "question": "What is the subject of a contract?",
+    "answer": "Terms of the agreement"
+  },
+  {
+    "question": "What is the technique of gesture control called?",
+    "answer": "Gesture Control"
+  },
+  {
+    "question": "What is the term for spiritual self-improvement in Taoism?",
+    "answer": "Dao"
+  },
+  {
+    "question": "What is the term for the transmission of cultural traditions from generation to generation?",
+    "answer": "Socialization"
+  },
+  {
+    "question": "What is the transition from mortal life to the afterlife called in Christianity?",
+    "answer": "Dormition"
+  },
+  {
+    "question": "What is utilitarianism?",
+    "answer": "ethics of utility"
+  },
+  {
     "question": "What limits 'scarcity'?",
     "answer": "Available resources"
+  },
+  {
+    "question": "What movement opposes corporate control and inequality?",
+    "answer": "Anti-consumerism"
+  },
+  {
+    "question": "What movement opposes globalization?",
+    "answer": "Anti-globalization"
   },
   {
     "question": "What phenomenon contributes to global mobility?",
     "answer": "Migration"
   },
   {
+    "question": "What phenomenon describes a sharp decline in population?",
+    "answer": "Depopulation"
+  },
+  {
+    "question": "What phenomenon includes the norms of society?",
+    "answer": "Social control"
+  },
+  {
+    "question": "What philosophical term means 'existence'?",
+    "answer": "Being"
+  },
+  {
+    "question": "What principle did Zeno of Citium propose?",
+    "answer": "Apathy"
+  },
+  {
+    "question": "What protects children's rights?",
+    "answer": "Convention"
+  },
+  {
+    "question": "What right allows participation in elections?",
+    "answer": "Suffrage"
+  },
+  {
+    "question": "What right does a citizen's passport protect?",
+    "answer": "Right to citizenship"
+  },
+  {
+    "question": "What right guarantees participation in public life?",
+    "answer": "Right to assembly"
+  },
+  {
+    "question": "What substance in blood serum helps fight infections?",
+    "answer": "Antibodies"
+  },
+  {
+    "question": "What technology converts solar energy into electricity?",
+    "answer": "Photovoltaics"
+  },
+  {
+    "question": "What technology converts sound into text?",
+    "answer": "Speech recognition"
+  },
+  {
+    "question": "What technology powers cryptocurrencies?",
+    "answer": "Blockchain"
+  },
+  {
+    "question": "What term describes the development of technologies in education?",
+    "answer": "EdTech"
+  },
+  {
+    "question": "What term is often used in the context of globalization?",
+    "answer": "Glocalization"
+  },
+  {
+    "question": "What term refers to the systematic planning of the educational process?",
+    "answer": "Curriculum"
+  },
+  {
+    "question": "What trend is characteristic of the global economy?",
+    "answer": "Increasing interdependence"
+  },
+  {
+    "question": "What type of course is typically short and focused on specific skills?",
+    "answer": "Mini-course"
+  },
+  {
+    "question": "What was the name of the ancient Indian empire?",
+    "answer": "Maurya"
+  },
+  {
+    "question": "What was the war between England and France in the 14th century called?",
+    "answer": "Hundred Years' War"
+  },
+  {
+    "question": "When did the migrant rights movement first emerge?",
+    "answer": "19th century"
+  },
+  {
+    "question": "When was the Byzantine Empire founded?",
+    "answer": "395"
+  },
+  {
+    "question": "Where are laws enacted in a federal system?",
+    "answer": "Federal Assembly"
+  },
+  {
+    "question": "Where did the 'Green Morning' movement take place?",
+    "answer": "In Kenya"
+  },
+  {
     "question": "Which anthropologist developed the method of ethnography?",
     "answer": "Bronisław Malinowski"
+  },
+  {
+    "question": "Which architect designed the Sagrada Familia?",
+    "answer": "Gaudi"
+  },
+  {
+    "question": "Which article of the European Convention on Human Rights protects the right to a fair trial?",
+    "answer": "Article 6"
+  },
+  {
+    "question": "Which church reformation began in the 16th century?",
+    "answer": "Protestant"
+  },
+  {
+    "question": "Which city is considered the financial center of the world?",
+    "answer": "New York"
+  },
+  {
+    "question": "Which country is not a signatory of the European Convention on Human Rights?",
+    "answer": "Belarus"
+  },
+  {
+    "question": "Which decade is considered the beginning of the feminist movement in Russia?",
+    "answer": "1910s"
+  },
+  {
+    "question": "Which doctrine claims that the Universe possesses intelligence?",
+    "answer": "Pantheism"
+  },
+  {
+    "question": "Which dynasty ruled China from the late 14th to the early 17th century?",
+    "answer": "Ming"
+  },
+  {
+    "question": "Which feminist theorist is known for her work on patriarchy?",
+    "answer": "Silvia Federici"
+  },
+  {
+    "question": "Which industries dominate the world?",
+    "answer": "technological"
+  },
+  {
+    "question": "Which organizations are involved in social support?",
+    "answer": "Charitable foundations"
+  },
+  {
+    "question": "Which principle respects cultural diversity and intercultural dialogue?",
+    "answer": "Multiculturalism"
   },
   {
     "question": "Which region is the most integrated into the process of globalization?",
     "answer": "The West"
   },
   {
+    "question": "Which right protects against violence?",
+    "answer": "Personal"
+  },
+  {
+    "question": "Which right protects the freedom of movement?",
+    "answer": "Right to movement"
+  },
+  {
+    "question": "Which science studies tissues?",
+    "answer": "Histology"
+  },
+  {
+    "question": "Which style did Van Gogh popularize?",
+    "answer": "Post-Impressionism"
+  },
+  {
+    "question": "Which system supports the employment level?",
+    "answer": "Social policy"
+  },
+  {
+    "question": "Which theory analyzes the intersection of different forms of oppression?",
+    "answer": "Intersectionality"
+  },
+  {
+    "question": "Which theory examines the influence of gender on language?",
+    "answer": "Feminist linguistics"
+  },
+  {
+    "question": "Which theory explains inequality in society?",
+    "answer": "Conflict"
+  },
+  {
+    "question": "Which theory studies the performativity of gender?",
+    "answer": "Judith Butler's Theory"
+  },
+  {
+    "question": "Which transportation system facilitated global trade?",
+    "answer": "Container shipping"
+  },
+  {
+    "question": "Who can apply to the European Court of Human Rights?",
+    "answer": "Any citizen"
+  },
+  {
+    "question": "Who conducted the famous survey in Chicago?",
+    "answer": "E. W. Burgess"
+  },
+  {
+    "question": "Who determines economic policy?",
+    "answer": "Government"
+  },
+  {
     "question": "Who developed structuralism in sociology?",
     "answer": "Claude Lévi-Strauss"
+  },
+  {
+    "question": "Who developed the concept of 'will to power'?",
+    "answer": "Friedrich Nietzsche"
+  },
+  {
+    "question": "Who developed the concept of behavioral economics?",
+    "answer": "Daniel Kahneman"
+  },
+  {
+    "question": "Who founded Stoicism?",
+    "answer": "Zeno"
   },
   {
     "question": "Who introduced the term 'Postmodern'?",
     "answer": "Jean-François Lyotard"
   },
   {
+    "question": "Who introduced the term 'charisma'?",
+    "answer": "Max Weber"
+  },
+  {
+    "question": "Who introduced the term 'existentialism'?",
+    "answer": "Jean-Paul Sartre"
+  },
+  {
+    "question": "Who introduced the term 'profanation'?",
+    "answer": "Henri Lefebvre"
+  },
+  {
     "question": "Who is considered the founder of feminism?",
     "answer": "Simone de Beauvoir"
+  },
+  {
+    "question": "Who is considered the founder of structural functionalism?",
+    "answer": "Talcott Parsons"
+  },
+  {
+    "question": "Who is the author of the book 'Anthropology Treatise'?",
+    "answer": "Claude Lévi-Strauss"
+  },
+  {
+    "question": "Who is the author of the book 'Correspondence School'?",
+    "answer": "Ushinsky"
+  },
+  {
+    "question": "Who is the author of the book 'Suicide'?",
+    "answer": "Émile Durkheim"
+  },
+  {
+    "question": "Who is the author of the work 'Leviathan'?",
+    "answer": "Thomas Hobbes"
+  },
+  {
+    "question": "Who is the founder of symbolic interactionism?",
+    "answer": "Herbert Blumer"
+  },
+  {
+    "question": "Who led the Salt March?",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Who proposed the social learning theory?",
+    "answer": "Bandura"
+  },
+  {
+    "question": "Who ruled France after Napoleon?",
+    "answer": "Louis XVIII"
+  },
+  {
+    "question": "Who studied the influence of culture on personality?",
+    "answer": "Margaret Mead"
+  },
+  {
+    "question": "Who wrote 'Ethics' in the 17th century?",
+    "answer": "Spinoza"
+  },
+  {
+    "question": "Who wrote 'The Arguments of Anthropology'?",
+    "answer": "Jack Goody"
+  },
+  {
+    "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?",
+    "answer": "Mirabeau"
+  },
+  {
+    "question": "Who wrote the book 'Gender Trouble'?",
+    "answer": "Judith Butler"
   }
 ]

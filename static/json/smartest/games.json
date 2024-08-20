@@ -12,6 +12,10 @@
     "answer": "8"
   },
   {
+    "question": "How many hours per week does a top football streamer stream?",
+    "answer": "20 hours"
+  },
+  {
     "question": "How many levels are there in Candy Crush Saga?",
     "answer": "10000+ levels"
   },
@@ -28,8 +32,20 @@
     "answer": "13"
   },
   {
+    "question": "How often are playlists on music streaming services updated?",
+    "answer": "Weekly"
+  },
+  {
+    "question": "How often are podcasts released?",
+    "answer": "Weekly"
+  },
+  {
     "question": "In what setting does the game Metro Exodus take place?",
     "answer": "Post-apocalypse"
+  },
+  {
+    "question": "In what year did the channel 'Lunch without Problems' appear?",
+    "answer": "2012"
   },
   {
     "question": "In what year was Hearthstone released?",
@@ -264,12 +280,20 @@
     "answer": "RTS"
   },
   {
+    "question": "In which month did the podcast 'Business Stories' start?",
+    "answer": "January"
+  },
+  {
     "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
     "answer": "HGC"
   },
   {
     "question": "Name the magical art of elven mages in the game Dragon Age.",
     "answer": "Arcanum"
+  },
+  {
+    "question": "On which channel are kitchen gadget reviews regularly released?",
+    "answer": "Reviews and Gadgets"
   },
   {
     "question": "The character leading the 'Masquerade' clans in Bloodlines is...",
@@ -300,6 +324,10 @@
     "answer": "Events"
   },
   {
+    "question": "What can a podcast contain?",
+    "answer": "Opinions"
+  },
+  {
     "question": "What cards are used for healing in the original games?",
     "answer": "Potion cards"
   },
@@ -310,6 +338,10 @@
   {
     "question": "What creature is encountered in the game 'Gloomhaven'?",
     "answer": "Monster"
+  },
+  {
+    "question": "What does RSS mean?",
+    "answer": "Format for publishing news"
   },
   {
     "question": "What does the term 4X mean in strategy games?",
@@ -416,6 +448,10 @@
     "answer": "ESL"
   },
   {
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
     "question": "What is the main objective in the game Monument Valley?",
     "answer": "Solving puzzles"
   },
@@ -468,6 +504,10 @@
     "answer": "Wipeout"
   },
   {
+    "question": "What is the name of the author of the channel 'Piano Secrets'?",
+    "answer": "Eldar Kasimov"
+  },
+  {
     "question": "What is the name of the board game where players grow vegetables?",
     "answer": "Agricola"
   },
@@ -490,6 +530,10 @@
   {
     "question": "What is the name of the creator of The Elder Scrolls series?",
     "answer": "Todd Howard"
+  },
+  {
+    "question": "What is the name of the creator of the podcast 'Serial'?",
+    "answer": "Sarah Koenig"
   },
   {
     "question": "What is the name of the database with details of RPG worlds?",
@@ -730,6 +774,10 @@
   {
     "question": "What is the name of the people's assembly in 'Final Fantasy X'?",
     "answer": "Highbridge"
+  },
+  {
+    "question": "What is the name of the popular music streamer who often plays the guitar?",
+    "answer": "Sungha Jung"
   },
   {
     "question": "What is the name of the popular space game?",
@@ -1020,6 +1068,46 @@
     "answer": "Dragon"
   },
   {
+    "question": "Which artist combines live performance with DJ sets?",
+    "answer": "Kaskade"
+  },
+  {
+    "question": "Which audience prefers podcasts?",
+    "answer": "Adults"
+  },
+  {
+    "question": "Which blogger is involved in creating makeup and wigs for shows?",
+    "answer": "Miss Fame"
+  },
+  {
+    "question": "Which blogger is known for promoting CrossFit?",
+    "answer": "Ilya Zakharov"
+  },
+  {
+    "question": "Which blogger is known for their high professionalism in makeup?",
+    "answer": "Wei Li"
+  },
+  {
+    "question": "Which blogger is known for their philosophical reflections?",
+    "answer": "Frolov"
+  },
+  {
+    "question": "Which blogger often uses bright color schemes in makeup?",
+    "answer": "Patrick Starrr"
+  },
+  {
+    "question": "Which blogger shares knowledge about history?",
+    "answer": "Andrey Ilyin"
+  },
+  {
+    "question": "Which blogger specializes in makeup for horror movies?",
+    "answer": "Glam Gore"
+  },
+  {
+    "question": "Which blogger specializes in retro looks?",
+    "answer": "Stephanie Lan"
+  },
+  {
     "question": "Which board game involves moving pieces on a hexagonal board with goals of economy and diplomacy?",
     "answer": "Terra Mystica"
   },
@@ -1036,6 +1124,10 @@
     "answer": "Laurence"
   },
   {
+    "question": "Which channel debunks kitchen myths?",
+    "answer": "Myths and Kitchen"
+  },
+  {
     "question": "Which character appears in the game Monument Valley?",
     "answer": "Ida"
   },
@@ -1046,6 +1138,10 @@
   {
     "question": "Which company owns Oculus?",
     "answer": "Facebook"
+  },
+  {
+    "question": "Which culinary blogger is known for their videos about fermented products?",
+    "answer": "Alexander Khlebnikov"
   },
   {
     "question": "Which dragon is trapped in Skyrim?",
@@ -1062,6 +1158,10 @@
   {
     "question": "Which faction is represented in World of Warcraft?",
     "answer": "Horde"
+  },
+  {
+    "question": "Which female athlete streams about swimming?",
+    "answer": "Marina Osipova"
   },
   {
     "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -1082,6 +1182,10 @@
   {
     "question": "Which game attracted attention with its storyline in 2018?",
     "answer": "Red Dead Redemption 2"
+  },
+  {
+    "question": "Which game combines elements of a post-apocalyptic world and turn-based combat?",
+    "answer": "Wasteland"
   },
   {
     "question": "Which game company created the Xenoblade Chronicles series?",
@@ -1212,6 +1316,10 @@
     "answer": "Sega Genesis"
   },
   {
+    "question": "Which genre is not suitable for educational podcasts?",
+    "answer": "Thriller"
+  },
+  {
     "question": "Which graphics library is used in Vulkan?",
     "answer": "Vulkan API"
   },
@@ -1248,6 +1356,22 @@
     "answer": "DreamHack AB"
   },
   {
+    "question": "Which podcast discusses investments?",
+    "answer": "Investment Club"
+  },
+  {
+    "question": "Which podcast mixes music and humor?",
+    "answer": "Musicomedy"
+  },
+  {
+    "question": "Which podcast often combines humor and politics?",
+    "answer": "Politically Joking"
+  },
+  {
+    "question": "Which podcast teaches investing?",
+    "answer": "Investing for Everyone"
+  },
+  {
     "question": "Which puzzle can be solved by moving rings?",
     "answer": "Tower of Hanoi"
   },
@@ -1282,6 +1406,18 @@
   {
     "question": "Which skill is responsible for the art of persuasion?",
     "answer": "Speech"
+  },
+  {
+    "question": "Which streamer goes by the pseudonym Dr Disrespect?",
+    "answer": "Guy Beahm"
+  },
+  {
+    "question": "Which streamer performs their own songs in hip-hop style?",
+    "answer": "Watsky"
+  },
+  {
+    "question": "Which streamer regularly performs piano covers?",
+    "answer": "CassyJam"
   },
   {
     "question": "Which studio developed the game The Last Guardian?",
@@ -1336,12 +1472,28 @@
     "answer": "Jack Etienne"
   },
   {
+    "question": "Who hosts the podcast \"Cultural Focus\"?",
+    "answer": "Anna Petrova"
+  },
+  {
     "question": "Who is considered the founder of the RPG genre?",
     "answer": "Gary Gygax"
   },
   {
+    "question": "Who is known for their retro looks?",
+    "answer": "Lucia Vander"
+  },
+  {
     "question": "Who is responsible for setting up lighting in a game?",
     "answer": "Technical artist"
+  },
+  {
+    "question": "Who is the author of the 'sand eyes' concept?",
+    "answer": "Tati Westbrook"
+  },
+  {
+    "question": "Who is the creator of LiveJournal?",
+    "answer": "Brad Fitzpatrick"
   },
   {
     "question": "Who is the creator of the character Mario?",
@@ -1394,6 +1546,18 @@
   {
     "question": "Who programs the logical interactions in a game?",
     "answer": "Gameplay programmer"
+  },
+  {
+    "question": "Who shares knowledge about biology?",
+    "answer": "Maria Kuzmina"
+  },
+  {
+    "question": "Who talks about psychology on their YouTube channel?",
+    "answer": "Dmitry Panov"
+  },
+  {
+    "question": "Who talks about space and astronomy?",
+    "answer": "Oleg Vasilyev"
   },
   {
     "question": "Who was the commentator at The Overwatch League tournament?",
