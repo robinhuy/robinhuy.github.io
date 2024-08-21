@@ -108,6 +108,10 @@
         "answer": "600"
     },
     {
+        "question": "How many liters of water does a blue whale filter at once?",
+        "answer": "10000 liters"
+    },
+    {
         "question": "How many nature reserves are there in Russia?",
         "answer": "103"
     },
@@ -142,6 +146,10 @@
     {
         "question": "How many species of gibbons are there?",
         "answer": "Sixteen"
+    },
+    {
+        "question": "How many species of lancelets are there?",
+        "answer": "More than 30"
     },
     {
         "question": "How many species of lemurs are there?",
@@ -248,6 +256,10 @@
         "answer": "Sikhote-Alin"
     },
     {
+        "question": "In which nature reserve do snow leopards live?",
+        "answer": "Sailugemsky"
+    },
+    {
         "question": "In which nature reserve does the rare sea comb live?",
         "answer": "Far Eastern Marine Reserve"
     },
@@ -272,6 +284,10 @@
         "answer": "Africa"
     },
     {
+        "question": "The most venomous mammal?",
+        "answer": "Platypus"
+    },
+    {
         "question": "To which class do echinoderms with long tentacles belong?",
         "answer": "Holothuroidea"
     },
@@ -284,12 +300,20 @@
         "answer": "Musk ox"
     },
     {
+        "question": "What animals inhabit the Caucasian Reserve?",
+        "answer": "Caucasian bison"
+    },
+    {
         "question": "What animals inhabit the Darwin Reserve?",
         "answer": "Sea otters"
     },
     {
         "question": "What animals inhabit the Yamal Nature Reserve?",
         "answer": "Musk oxen"
+    },
+    {
+        "question": "What animals live in the desert?",
+        "answer": "Camel"
     },
     {
         "question": "What are Japanese gardens decorated with?",
@@ -344,6 +368,10 @@
         "answer": "Larvae"
     },
     {
+        "question": "What are the eyes of most insects called?",
+        "answer": "Compound"
+    },
+    {
         "question": "What are the fangs of spiders called?",
         "answer": "Chelicerae"
     },
@@ -358,6 +386,10 @@
     {
         "question": "What are the ring-shaped muscles in lancelets called?",
         "answer": "myomeres"
+    },
+    {
+        "question": "What are the smallest antelopes called?",
+        "answer": "Dik-diks"
     },
     {
         "question": "What are the specialized respiratory organs in spiders called?",
@@ -394,6 +426,10 @@
     {
         "question": "What distinguishes sea urchins from starfish?",
         "answer": "Body shape"
+    },
+    {
+        "question": "What do ants use for communication?",
+        "answer": "Pheromones"
     },
     {
         "question": "What do goats like to eat?",
@@ -520,6 +556,10 @@
         "answer": "Sea cucumber"
     },
     {
+        "question": "What is a unique feature of the humpback whale's migration?",
+        "answer": "Songs"
+    },
+    {
         "question": "What is added to compost to improve its structure?",
         "answer": "Sawdust"
     },
@@ -576,6 +616,10 @@
         "answer": "16"
     },
     {
+        "question": "What is the average number of teeth a shark has?",
+        "answer": "Up to 3000"
+    },
+    {
         "question": "What is the average speed of a shark?",
         "answer": "40 km/h"
     },
@@ -590,6 +634,10 @@
     {
         "question": "What is the brain size of a chimpanzee?",
         "answer": "400 grams"
+    },
+    {
+        "question": "What is the class to which lampreys and hagfish belong called?",
+        "answer": "Cyclostomes"
     },
     {
         "question": "What is the correct name for a hose with small holes?",
@@ -920,6 +968,10 @@
         "answer": "ventilation"
     },
     {
+        "question": "What rare predators inhabit the Caucasian Reserve?",
+        "answer": "Leopards"
+    },
+    {
         "question": "What recovery method is considered the most effective after workouts?",
         "answer": "Contrast shower"
     },
@@ -938,6 +990,10 @@
     {
         "question": "What running technique optimizes energy in a marathon?",
         "answer": "Economical style"
+    },
+    {
+        "question": "What sea creature inhabits the deepest parts of the ocean?",
+        "answer": "Deep-sea fish"
     },
     {
         "question": "What separates the head from the thorax in insects?",
@@ -1036,6 +1092,10 @@
         "answer": "Sunlight"
     },
     {
+        "question": "What type of mosquito transmits the Zika virus?",
+        "answer": "Aedes aegypti"
+    },
+    {
         "question": "What type of nervous system does a lamprey have?",
         "answer": "Central"
     },
@@ -1116,6 +1176,10 @@
         "answer": "Freshwater bodies"
     },
     {
+        "question": "Where does the snow leopard live?",
+        "answer": "Sayano-Shushensky Nature Reserve"
+    },
+    {
         "question": "Where is the 'Stolby' Nature Reserve located?",
         "answer": "Krasnoyarsk Krai"
     },
@@ -1148,12 +1212,24 @@
         "answer": "Chameleon"
     },
     {
+        "question": "Which animal can eat more than 100 kg of vegetation per day?",
+        "answer": "Elephant"
+    },
+    {
         "question": "Which animal can regenerate its tentacles?",
         "answer": "Squid"
     },
     {
+        "question": "Which animal can transmit a radio signal over the longest distance?",
+        "answer": "Elephant"
+    },
+    {
         "question": "Which animal eats cacti?",
         "answer": "Spectacled bear"
+    },
+    {
+        "question": "Which animal eats pine nuts?",
+        "answer": "Chipmunk"
     },
     {
         "question": "Which animal eats tree buds in winter?",
@@ -1316,6 +1392,10 @@
         "answer": "Swifts"
     },
     {
+        "question": "Which birds are known for their long-distance migrations?",
+        "answer": "Cranes"
+    },
+    {
         "question": "Which birds build nests in burrows?",
         "answer": "Kingfishers"
     },
@@ -1408,12 +1488,20 @@
         "answer": "Eel"
     },
     {
+        "question": "Which fish has rhomboid-shaped scales?",
+        "answer": "Gar"
+    },
+    {
         "question": "Which fish has the ability to quickly change direction?",
         "answer": "Barracuda"
     },
     {
         "question": "Which fish inhabits coral reefs and has poisonous organs?",
         "answer": "Stonefish"
+    },
+    {
+        "question": "Which fish is called the 'living sea antenna'?",
+        "answer": "Batfish"
     },
     {
         "question": "Which fish is called the sea wolf?",
@@ -1450,6 +1538,10 @@
     {
         "question": "Which fish lives under the ice?",
         "answer": "Antarctic toothfish"
+    },
+    {
+        "question": "Which fish produces low-frequency sounds?",
+        "answer": "Triggerfish"
     },
     {
         "question": "Which fish uses electricity for orientation?",
@@ -1528,6 +1620,10 @@
         "answer": "Antlion"
     },
     {
+        "question": "Which insect infects mosquitoes with viruses?",
+        "answer": "Nematodes"
+    },
+    {
         "question": "Which insect is a symbol of bravery in China?",
         "answer": "Dragonfly"
     },
@@ -1566,6 +1662,14 @@
     {
         "question": "Which insects glow in the dark?",
         "answer": "fireflies"
+    },
+    {
+        "question": "Which insects have soldier castes?",
+        "answer": "Termites"
+    },
+    {
+        "question": "Which insects have spiny legs?",
+        "answer": "Colorado beetles"
     },
     {
         "question": "Which insects hibernate in trees?",
@@ -1632,6 +1736,10 @@
         "answer": "Pangolin"
     },
     {
+        "question": "Which mammal has the sharpest hearing?",
+        "answer": "Bat"
+    },
+    {
         "question": "Which mammal hunts at night?",
         "answer": "Cat"
     },
@@ -1684,6 +1792,10 @@
         "answer": "Dusky jawfish"
     },
     {
+        "question": "Which marine creature has the ability to bioluminesce?",
+        "answer": "Sea firefly"
+    },
+    {
         "question": "Which marine creature is often called the 'engineer of the coral reef'?",
         "answer": "Coral polyp"
     },
@@ -1732,6 +1844,10 @@
         "answer": "Chimpanzee"
     },
     {
+        "question": "Which nature reserve is famous for a large number of orchid species?",
+        "answer": "Ladoga"
+    },
+    {
         "question": "Which nature reserve is famous for its ornithological station?",
         "answer": "Prioksko-Terrasny"
     },
@@ -1742,6 +1858,10 @@
     {
         "question": "Which nature reserve is famous for red pandas?",
         "answer": "Kaurymsky Nature Reserve"
+    },
+    {
+        "question": "Which nature reserve is known for its diverse grasslands?",
+        "answer": "Kuban-Anik"
     },
     {
         "question": "Which nature reserve is known for its population of Amur tigers?",
@@ -1768,6 +1888,10 @@
         "answer": "Great Arctic"
     },
     {
+        "question": "Which of the animals feed exclusively on leaves?",
+        "answer": "Koala"
+    },
+    {
         "question": "Which of the following animals is the smallest herbivore?",
         "answer": "Mouse"
     },
@@ -1782,6 +1906,10 @@
     {
         "question": "Which organ helps mollusks to feed?",
         "answer": "radula"
+    },
+    {
+        "question": "Which organs allow hagfish to hide in substrates?",
+        "answer": "Slime"
     },
     {
         "question": "Which organs help echinoderms navigate their environment?",
@@ -1836,6 +1964,14 @@
         "answer": "Annuals"
     },
     {
+        "question": "Which primate has a high forehead?",
+        "answer": "Chimpanzee"
+    },
+    {
+        "question": "Which primate is known for its complex nests?",
+        "answer": "orangutan"
+    },
+    {
         "question": "Which primate is known for its predatory behavior?",
         "answer": "Baboon"
     },
@@ -1850,6 +1986,10 @@
     {
         "question": "Which primate most commonly has white fur?",
         "answer": "Tamarin"
+    },
+    {
+        "question": "Which primates are capable of gliding from tree to tree?",
+        "answer": "Flying lemurs"
     },
     {
         "question": "Which primates are known for their monogamous mating?",
@@ -1932,12 +2072,20 @@
         "answer": "Garter"
     },
     {
+        "question": "Which snake is considered the most venomous?",
+        "answer": "Inland Taipan"
+    },
+    {
         "question": "Which snake is known for its beautiful skin patterns?",
         "answer": "King Cobra"
     },
     {
         "question": "Which snake lives in trees?",
         "answer": "Green mamba"
+    },
+    {
+        "question": "Which snakes are capable of gliding?",
+        "answer": "Flying snakes"
     },
     {
         "question": "Which snowboard parameter affects its performance in deep snow?",
@@ -1970,6 +2118,10 @@
     {
         "question": "Which type of fish is known for its unique way of catching prey using a glowing lure?",
         "answer": "Anglerfish"
+    },
+    {
+        "question": "Which type of whale can reach speeds of up to 56 km/h?",
+        "answer": "Fin whale"
     },
     {
         "question": "Which vegetable is often grown on circular beds?",
@@ -2038,6 +2190,10 @@
     {
         "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
         "answer": "Cristiano Ronaldo"
+    },
+    {
+        "question": "Who were the ancient ancestors of lancelets?",
+        "answer": "Tunicates"
     },
     {
         "question": "Whose remains are considered the first jawed vertebrates?",
@@ -2450,6 +2606,10 @@
     {
         "question": "What does a catalytic converter do in the exhaust system?",
         "answer": "Cleans the exhaust"
+    },
+    {
+        "question": "What does a coilover suspension do?",
+        "answer": "Adjusts the ride height"
     },
     {
         "question": "What does a forged piston do?",
@@ -6037,6 +6197,10 @@
         "answer": "Fiscal stimulus"
     },
     {
+        "question": "How can a government support the exchange rate?",
+        "answer": "Market interventions"
+    },
+    {
         "question": "How do central banks control the money supply?",
         "answer": "Interest rates"
     },
@@ -6147,6 +6311,10 @@
     {
         "question": "What determines the demand for money in the Bailey model?",
         "answer": "Inflation"
+    },
+    {
+        "question": "What determines the exchange rate?",
+        "answer": "Value of the currency"
     },
     {
         "question": "What did the Russian Investment Fund invest in during the early 2000s?",
@@ -6261,6 +6429,10 @@
         "answer": "International trade"
     },
     {
+        "question": "What does the Heckscher-Ohlin model represent?",
+        "answer": "Factor theory"
+    },
+    {
         "question": "What does the IS-LM model describe?",
         "answer": "capital and money markets"
     },
@@ -6279,6 +6451,10 @@
     {
         "question": "What does the Modigliani-Miller theorem describe?",
         "answer": "Capital structure"
+    },
+    {
+        "question": "What does the Nasdaq index measure?",
+        "answer": "Technology companies"
     },
     {
         "question": "What does the Nikkei index measure?",
@@ -6351,6 +6527,10 @@
     {
         "question": "What does the term 'dumping' mean?",
         "answer": "Lowering prices"
+    },
+    {
+        "question": "What does the term 'marginal revenue' mean?",
+        "answer": "Revenue from the last unit of product"
     },
     {
         "question": "What does the term 'tax multiplier' mean?",
@@ -6545,8 +6725,16 @@
         "answer": "Price charts"
     },
     {
+        "question": "What is the Gauss-Markov hypothesis?",
+        "answer": "Unbiasedness of errors"
+    },
+    {
         "question": "What is the Lorenz curve used for?",
         "answer": "Measuring inequality"
+    },
+    {
+        "question": "What is the change in a variable over time called?",
+        "answer": "Trend"
     },
     {
         "question": "What is the distribution with one peak called?",
@@ -6637,6 +6825,10 @@
         "answer": "Optimization of the system"
     },
     {
+        "question": "What is the situation called when expenses exceed income?",
+        "answer": "Budget deficit"
+    },
+    {
         "question": "What is the term for a cost that cannot be recovered?",
         "answer": "Sunk cost"
     },
@@ -6685,6 +6877,10 @@
         "answer": "Monetary restriction"
     },
     {
+        "question": "What measure is aimed at improving competitiveness in the domestic market?",
+        "answer": "Import substitution"
+    },
+    {
         "question": "What measure is aimed at reducing the budget deficit?",
         "answer": "Reducing expenses"
     },
@@ -6695,6 +6891,10 @@
     {
         "question": "What measure is used to reduce the economy's dependence on external factors?",
         "answer": "Import substitution"
+    },
+    {
+        "question": "What measures are taken to regulate aggregate economic indicators?",
+        "answer": "Fiscal policy"
     },
     {
         "question": "What measures are used to control inflation?",
@@ -6893,6 +7093,10 @@
         "answer": "Solow model"
     },
     {
+        "question": "Which model explains short-term fluctuations in production and employment?",
+        "answer": "AD-AS"
+    },
+    {
         "question": "Which model is used to analyze the relationships between dependent and independent variables?",
         "answer": "Regression"
     },
@@ -7009,6 +7213,10 @@
         "answer": "Antoine de Montchrétien"
     },
     {
+        "question": "Who is the author of 'The Theory of Economic Growth'?",
+        "answer": "Robert Solow"
+    },
+    {
         "question": "Who is the author of the book 'The Theory of Economic Development'?",
         "answer": "Schumpeter"
     },
@@ -7027,6 +7235,10 @@
     {
         "question": "Who proposed the new design of the US dollar?",
         "answer": "Fred Kent"
+    },
+    {
+        "question": "Who was the first to use a steamboat in commerce?",
+        "answer": "Fulton"
     },
     {
         "question": "Who won the Nobel Prize in Economics?",
@@ -27463,6 +27675,10 @@
         "answer": "Twin Peaks"
     },
     {
+        "question": "In which TV series does Evan Peters star?",
+        "answer": "American Horror Story"
+    },
+    {
         "question": "In which TV series does the company 'Pied Piper' appear?"
     },
     {
@@ -27699,6 +27915,10 @@
         "answer": "Multiple exposure"
     },
     {
+        "question": "What international award is given for achievements in animation?",
+        "answer": "Annecy"
+    },
+    {
         "question": "What is '3D rigging'?",
         "answer": "Bone system"
     },
@@ -27721,6 +27941,10 @@
     {
         "question": "What is a film review with analysis called?",
         "answer": "detailed review"
+    },
+    {
+        "question": "What is a review based on?",
+        "answer": "Analysis"
     },
     {
         "question": "What is a shader?",
@@ -27751,6 +27975,10 @@
         "answer": "Lighting of objects"
     },
     {
+        "question": "What is skinning?",
+        "answer": "Texture processing"
+    },
+    {
         "question": "What is the animation technique that uses photographs called?",
         "answer": "Photocollage"
     },
@@ -27761,6 +27989,10 @@
     {
         "question": "What is the device called in the movie 'Inception'?",
         "answer": "The Immersion"
+    },
+    {
+        "question": "What is the film 'Post in Antarctica' about?",
+        "answer": "Life of researchers"
     },
     {
         "question": "What is the filming of scenes with glass mirrors called?",
@@ -28079,6 +28311,10 @@
         "answer": "Gozer"
     },
     {
+        "question": "What is the name of the army bus in 'Forrest Gump'?",
+        "answer": "Blue Bird"
+    },
+    {
         "question": "What is the name of the assistant robot in 'Asterix'?",
         "answer": "Beng"
     },
@@ -28153,6 +28389,10 @@
     {
         "question": "What is the name of the documentary about human organ trafficking?",
         "answer": "Tales From the Organ Trade"
+    },
+    {
+        "question": "What is the name of the dragon in the German animated film 'Kantor'?",
+        "answer": "Kantor"
     },
     {
         "question": "What is the name of the duck in the cartoon 'Darkwing Duck'?",
@@ -28351,6 +28591,10 @@
         "answer": "Cody Banks"
     },
     {
+        "question": "What is the name of the main character in the movie '12 Monkeys'?",
+        "answer": "James Cole"
+    },
+    {
         "question": "What is the name of the main character in the movie '12 Years a Slave'?",
         "answer": "Solomon Northup"
     },
@@ -28377,6 +28621,10 @@
     {
         "question": "What is the name of the main villain in 'Futurama'?",
         "answer": "Mom"
+    },
+    {
+        "question": "What is the name of the main villain in the animated series 'Scooby-Doo'?",
+        "answer": "Scrappy"
     },
     {
         "question": "What is the name of the mermaid's song in 'Avatar: The Legend of Korra'?",
@@ -28912,6 +29160,10 @@
         "answer": "Los Angeles"
     },
     {
+        "question": "Where is Gamora from?",
+        "answer": "Zen-Whoberi"
+    },
+    {
         "question": "Where is the 'Eros' award for animation presented?",
         "answer": "Italy"
     },
@@ -29116,6 +29368,10 @@
         "answer": "Janet Gaynor"
     },
     {
+        "question": "Which actress was the first to win two consecutive Oscars?",
+        "answer": "Luise Rainer"
+    },
+    {
         "question": "Which algorithm is used for smoothing animation?",
         "answer": "Interpolation"
     },
@@ -29206,6 +29462,10 @@
     {
         "question": "Which animation studio created the anime 'Oldboy'?",
         "answer": "Madhouse"
+    },
+    {
+        "question": "Which animation studio created the cartoon \"Two and a Half Cats\"?",
+        "answer": "Mercury Filmworks"
     },
     {
         "question": "Which animation studio created the cartoon 'Voltron: Legendary Defender'?",
@@ -29797,6 +30057,10 @@
         "question": "Which former US president organized the 'Political Films' film festival?"
     },
     {
+        "question": "Which franchise includes Alan Grant?",
+        "answer": "Jurassic Park"
+    },
+    {
         "question": "Which franchise includes Merlin and Arthur?",
         "answer": "King Arthur"
     },
@@ -30054,6 +30318,10 @@
     {
         "question": "Which studio created 'Black Clover'?",
         "answer": "Pierrot"
+    },
+    {
+        "question": "Which studio created the animated film 'Boy and the World'?",
+        "answer": "Filme de Papel"
     },
     {
         "question": "Which studio created the animated film 'The Secret of Kells'?",
@@ -30731,6 +30999,10 @@
         "answer": "Hans Zimmer"
     },
     {
+        "question": "Who is the creator of 'Black Mirror'?",
+        "answer": "Charlie Brooker"
+    },
+    {
         "question": "Who is the creator of 'The Simpsons'?",
         "answer": "Matt Groening"
     },
@@ -30830,6 +31102,10 @@
         "answer": "Darren Aronofsky"
     },
     {
+        "question": "Who is the director of the movie 'City of God'?",
+        "answer": "Fernando Meirelles"
+    },
+    {
         "question": "Who is the director of the movie 'Disaster'?",
         "answer": "Michael Knight"
     },
@@ -30914,6 +31190,10 @@
         "answer": "Miki Ruso"
     },
     {
+        "question": "Who organized the prestigious Japanese animation festival?",
+        "answer": "JAA"
+    },
+    {
         "question": "Who performed the song 'Bibbidi-Bobbidi-Boo' in the movie 'Cinderella'?",
         "answer": "Verna Felton"
     },
@@ -30980,6 +31260,10 @@
     {
         "question": "Who played the main character in the film 'Nosferatu'?",
         "answer": "Max Schreck"
+    },
+    {
+        "question": "Who played the main character in the movie '12 Years a Slave'?",
+        "answer": "Chiwetel Ejiofor"
     },
     {
         "question": "Who played the role of Agent Smith in 'The Matrix'?",
@@ -31076,6 +31360,10 @@
     {
         "question": "Who produced the film 'Mad Max: Fury Road'?",
         "answer": "George Miller"
+    },
+    {
+        "question": "Who produced the film 'The Curious Case of Benjamin Button'?",
+        "answer": "Kathleen Kennedy"
     },
     {
         "question": "Who produced the movie 'Dark Warrior'?",
@@ -31200,6 +31488,10 @@
     {
         "question": "Who taught Jake dragon slaying in the animated series 'American Dragon'?",
         "answer": "Gordon"
+    },
+    {
+        "question": "Who voiced Yogi Bear in the 2010 version?",
+        "answer": "Dan Aykroyd"
     },
     {
         "question": "Who voiced Yogi Bear?",
@@ -33374,6 +33666,10 @@
         "answer": "Polyphony"
     },
     {
+        "question": "What are the first words of the song 'Over the Rainbow'?",
+        "answer": "Somewhere over the rainbow"
+    },
+    {
         "question": "What are the funk horn sections called?",
         "answer": "Industrial"
     },
@@ -33482,6 +33778,10 @@
         "answer": "EBM"
     },
     {
+        "question": "What genre of music is associated with the band Daft Punk?",
+        "answer": "French House"
+    },
+    {
         "question": "What genre of music is characterized by heavy, experimental sounds?",
         "answer": "Industrial"
     },
@@ -33540,6 +33840,10 @@
     {
         "question": "What instrument is often used for music at weddings?",
         "answer": "Accordion"
+    },
+    {
+        "question": "What instrument is traditionally used in Greece?",
+        "answer": "Bouzouki"
     },
     {
         "question": "What instrument is used in samba?",
@@ -33710,6 +34014,10 @@
         "answer": "Cheshire Cat"
     },
     {
+        "question": "What is the name of British singer Dido's third studio album?",
+        "answer": "Safe Trip Home"
+    },
+    {
         "question": "What is the name of Cheryl Lynn's debut album?",
         "answer": "Cheryl Lynn"
     },
@@ -33842,6 +34150,10 @@
         "answer": "Wonderlove"
     },
     {
+        "question": "What is the name of The Beatles' second album?",
+        "answer": "With the Beatles"
+    },
+    {
         "question": "What is the name of The Chemical Brothers' 1997 album?",
         "answer": "Dig Your Own Hole"
     },
@@ -33940,6 +34252,10 @@
     {
         "question": "What is the name of the U2 album released in 2000?",
         "answer": "All That You Can't Leave Behind"
+    },
+    {
+        "question": "What is the name of the Venezuelan musical style?",
+        "answer": "Joropo"
     },
     {
         "question": "What is the name of the Wu-Tang Clan album?",
@@ -34060,6 +34376,10 @@
     {
         "question": "What is the name of the famous album by Charles Mingus?",
         "answer": "The Black Saint and the Sinner Lady"
+    },
+    {
+        "question": "What is the name of the famous album by Genesis released in 1986?",
+        "answer": "Invisible Touch"
     },
     {
         "question": "What is the name of the famous album by Mudhoney released in 1991?",
@@ -34242,6 +34562,10 @@
         "answer": "To Victory"
     },
     {
+        "question": "What is the name of the soundtrack from the movie \"Thelma & Louise\"?",
+        "answer": "Part of Me, Part of You"
+    },
+    {
         "question": "What is the name of the third studio album by the Backstreet Boys?",
         "answer": "Hits"
     },
@@ -34324,6 +34648,10 @@
     {
         "question": "What is the study of the harmonious combination of voices called?",
         "answer": "Polyphony"
+    },
+    {
+        "question": "What is the style called that combines R&B and hip-hop?",
+        "answer": "New Jack Swing"
     },
     {
         "question": "What is the style of country music with elements of blues called?",
@@ -34600,6 +34928,10 @@
     {
         "question": "What was the name of the alt-rock band formed in 1990?",
         "answer": "Pearl Jam"
+    },
+    {
+        "question": "What was the name of the collaboration between DJ KSHMR and Hardwell?",
+        "answer": "Power"
     },
     {
         "question": "What was the name of the drummer for Nirvana before Dave Grohl?",
@@ -35070,6 +35402,10 @@
         "answer": "Twenty One Pilots"
     },
     {
+        "question": "Which band won the 'Top Rock Group' award in 2021?",
+        "answer": "Machine Gun Kelly"
+    },
+    {
         "question": "Which brand of synthesizer was popular in the 1980s?",
         "answer": "Roland"
     },
@@ -35196,6 +35532,10 @@
     {
         "question": "Which country is known for creating the pan flute?",
         "answer": "Romania"
+    },
+    {
+        "question": "Which country was the first to adopt EMA in 2010?",
+        "answer": "Spain"
     },
     {
         "question": "Which culture contributed to the development of house music in Europe?",
@@ -35402,6 +35742,10 @@
         "answer": "Phuture"
     },
     {
+        "question": "Which group released 'Mecca and the Soul Brother'?",
+        "answer": "Pete Rock & CL Smooth"
+    },
+    {
         "question": "Which group was awarded the BRIT Award for Best British Album in 2015?",
         "answer": "Ed Sheeran"
     },
@@ -35456,6 +35800,10 @@
     {
         "question": "Which instrument is historically associated with dragons?",
         "answer": "Tambourine"
+    },
+    {
+        "question": "Which instrument is known as the analogue of the organ?",
+        "answer": "Accordion"
     },
     {
         "question": "Which instrument is often used in grindcore bands?",
@@ -35726,6 +36074,10 @@
         "answer": "Born This Way"
     },
     {
+        "question": "Which musical composition includes singing multiple voices simultaneously?",
+        "answer": "polyphony"
+    },
+    {
         "question": "Which musical composition was written by Mussorgsky?",
         "answer": "Night on Bald Mountain"
     },
@@ -35820,6 +36172,10 @@
     {
         "question": "Which musical style is characterized by the use of contrast between groups of instruments?",
         "answer": "Concerto grosso"
+    },
+    {
+        "question": "Which musician demanded a thunderous applause at the premiere of 'Pierrot Lunaire'?",
+        "answer": "Schoenberg"
     },
     {
         "question": "Which musician founded free jazz?",
@@ -36290,6 +36646,10 @@
         "answer": "Burt Bacharach"
     },
     {
+        "question": "Who composed the music for the song 'Thank You Very Much' from 'Scrooge'?",
+        "answer": "Leslie Bricusse"
+    },
+    {
         "question": "Who composed the opera 'Alceste'?",
         "answer": "C. W. Gluck"
     },
@@ -36742,6 +37102,10 @@
         "answer": "John Entwistle"
     },
     {
+        "question": "Who played guitar in The Rolling Stones?",
+        "answer": "Keith Richards"
+    },
+    {
         "question": "Who popularized freestyle in hip-hop?",
         "answer": "Grandmaster Caz"
     },
@@ -36852,6 +37216,10 @@
     {
         "question": "Who was Nathan Roussel's teacher?",
         "answer": "Liszt"
+    },
+    {
+        "question": "Who was a famous English composer of the 15th century?",
+        "answer": "John Dunstable"
     },
     {
         "question": "Who was a famous blues performer?",
@@ -37038,6 +37406,10 @@
         "answer": "Dua Lipa"
     },
     {
+        "question": "Who won the 'Best Dance Album' award in 2019?",
+        "answer": "The Chemical Brothers"
+    },
+    {
         "question": "Who won the 'Best Local Act' award in the UK and Ireland in 2019?",
         "answer": "Little Mix"
     },
@@ -37108,6 +37480,10 @@
     {
         "question": "Who won the Grammy for Best Soundtrack in the movie 'Harry Potter'?",
         "answer": "John Williams"
+    },
+    {
+        "question": "Who won the Top Touring Artist award in 2019?",
+        "answer": "Ed Sheeran"
     },
     {
         "question": "Who won the award for 'Best Dance/Electronic Album' in 2022?",
@@ -39668,6 +40044,10 @@
         "answer": "Magnetars"
     },
     {
+        "question": "What are the root structures called for symbiosis with fungi?",
+        "answer": "Mycorrhiza"
+    },
+    {
         "question": "What are the short but strong regional winds in deserts called?",
         "answer": "Sirocco"
     },
@@ -41123,6 +41503,10 @@
         "answer": "Nitrogen fixation"
     },
     {
+        "question": "What is the process of plant growth towards light called?",
+        "answer": "Phototropism"
+    },
+    {
         "question": "What is the process of removing an electron from an atom called?",
         "answer": "Ionization"
     },
@@ -41728,6 +42112,10 @@
     {
         "question": "What systems track weather changes?",
         "answer": "Weather satellites"
+    },
+    {
+        "question": "What technique allows for cloning organisms?",
+        "answer": "Cloning"
     },
     {
         "question": "What technique allows the manipulation of atoms to create new materials?",
@@ -52737,6 +53125,10 @@
     {
         "question": "What consensus is used in the Polkadot network?",
         "answer": "Nominated Proof of Stake"
+    },
+    {
+        "question": "What consensus mechanism does Ripple use?",
+        "answer": "Consensus"
     },
     {
         "question": "What control system is used for satellite orientation in space?",

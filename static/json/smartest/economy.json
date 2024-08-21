@@ -4,6 +4,10 @@
     "answer": "Fiscal stimulus"
   },
   {
+    "question": "How can a government support the exchange rate?",
+    "answer": "Market interventions"
+  },
+  {
     "question": "How do central banks control the money supply?",
     "answer": "Interest rates"
   },
@@ -114,6 +118,10 @@
   {
     "question": "What determines the demand for money in the Bailey model?",
     "answer": "Inflation"
+  },
+  {
+    "question": "What determines the exchange rate?",
+    "answer": "Value of the currency"
   },
   {
     "question": "What did the Russian Investment Fund invest in during the early 2000s?",
@@ -228,6 +236,10 @@
     "answer": "International trade"
   },
   {
+    "question": "What does the Heckscher-Ohlin model represent?",
+    "answer": "Factor theory"
+  },
+  {
     "question": "What does the IS-LM model describe?",
     "answer": "capital and money markets"
   },
@@ -246,6 +258,10 @@
   {
     "question": "What does the Modigliani-Miller theorem describe?",
     "answer": "Capital structure"
+  },
+  {
+    "question": "What does the Nasdaq index measure?",
+    "answer": "Technology companies"
   },
   {
     "question": "What does the Nikkei index measure?",
@@ -318,6 +334,10 @@
   {
     "question": "What does the term 'dumping' mean?",
     "answer": "Lowering prices"
+  },
+  {
+    "question": "What does the term 'marginal revenue' mean?",
+    "answer": "Revenue from the last unit of product"
   },
   {
     "question": "What does the term 'tax multiplier' mean?",
@@ -512,8 +532,16 @@
     "answer": "Price charts"
   },
   {
+    "question": "What is the Gauss-Markov hypothesis?",
+    "answer": "Unbiasedness of errors"
+  },
+  {
     "question": "What is the Lorenz curve used for?",
     "answer": "Measuring inequality"
+  },
+  {
+    "question": "What is the change in a variable over time called?",
+    "answer": "Trend"
   },
   {
     "question": "What is the distribution with one peak called?",
@@ -604,6 +632,10 @@
     "answer": "Optimization of the system"
   },
   {
+    "question": "What is the situation called when expenses exceed income?",
+    "answer": "Budget deficit"
+  },
+  {
     "question": "What is the term for a cost that cannot be recovered?",
     "answer": "Sunk cost"
   },
@@ -652,6 +684,10 @@
     "answer": "Monetary restriction"
   },
   {
+    "question": "What measure is aimed at improving competitiveness in the domestic market?",
+    "answer": "Import substitution"
+  },
+  {
     "question": "What measure is aimed at reducing the budget deficit?",
     "answer": "Reducing expenses"
   },
@@ -662,6 +698,10 @@
   {
     "question": "What measure is used to reduce the economy's dependence on external factors?",
     "answer": "Import substitution"
+  },
+  {
+    "question": "What measures are taken to regulate aggregate economic indicators?",
+    "answer": "Fiscal policy"
   },
   {
     "question": "What measures are used to control inflation?",
@@ -860,6 +900,10 @@
     "answer": "Solow model"
   },
   {
+    "question": "Which model explains short-term fluctuations in production and employment?",
+    "answer": "AD-AS"
+  },
+  {
     "question": "Which model is used to analyze the relationships between dependent and independent variables?",
     "answer": "Regression"
   },
@@ -976,6 +1020,10 @@
     "answer": "Antoine de Montchrétien"
   },
   {
+    "question": "Who is the author of 'The Theory of Economic Growth'?",
+    "answer": "Robert Solow"
+  },
+  {
     "question": "Who is the author of the book 'The Theory of Economic Development'?",
     "answer": "Schumpeter"
   },
@@ -994,6 +1042,10 @@
   {
     "question": "Who proposed the new design of the US dollar?",
     "answer": "Fred Kent"
+  },
+  {
+    "question": "Who was the first to use a steamboat in commerce?",
+    "answer": "Fulton"
   },
   {
     "question": "Who won the Nobel Prize in Economics?",

@@ -207,6 +207,10 @@
     "answer": "Twin Peaks"
   },
   {
+    "question": "In which TV series does Evan Peters star?",
+    "answer": "American Horror Story"
+  },
+  {
     "question": "In which TV series does the company 'Pied Piper' appear?"
   },
   {
@@ -443,6 +447,10 @@
     "answer": "Multiple exposure"
   },
   {
+    "question": "What international award is given for achievements in animation?",
+    "answer": "Annecy"
+  },
+  {
     "question": "What is '3D rigging'?",
     "answer": "Bone system"
   },
@@ -465,6 +473,10 @@
   {
     "question": "What is a film review with analysis called?",
     "answer": "detailed review"
+  },
+  {
+    "question": "What is a review based on?",
+    "answer": "Analysis"
   },
   {
     "question": "What is a shader?",
@@ -495,6 +507,10 @@
     "answer": "Lighting of objects"
   },
   {
+    "question": "What is skinning?",
+    "answer": "Texture processing"
+  },
+  {
     "question": "What is the animation technique that uses photographs called?",
     "answer": "Photocollage"
   },
@@ -505,6 +521,10 @@
   {
     "question": "What is the device called in the movie 'Inception'?",
     "answer": "The Immersion"
+  },
+  {
+    "question": "What is the film 'Post in Antarctica' about?",
+    "answer": "Life of researchers"
   },
   {
     "question": "What is the filming of scenes with glass mirrors called?",
@@ -823,6 +843,10 @@
     "answer": "Gozer"
   },
   {
+    "question": "What is the name of the army bus in 'Forrest Gump'?",
+    "answer": "Blue Bird"
+  },
+  {
     "question": "What is the name of the assistant robot in 'Asterix'?",
     "answer": "Beng"
   },
@@ -897,6 +921,10 @@
   {
     "question": "What is the name of the documentary about human organ trafficking?",
     "answer": "Tales From the Organ Trade"
+  },
+  {
+    "question": "What is the name of the dragon in the German animated film 'Kantor'?",
+    "answer": "Kantor"
   },
   {
     "question": "What is the name of the duck in the cartoon 'Darkwing Duck'?",
@@ -1095,6 +1123,10 @@
     "answer": "Cody Banks"
   },
   {
+    "question": "What is the name of the main character in the movie '12 Monkeys'?",
+    "answer": "James Cole"
+  },
+  {
     "question": "What is the name of the main character in the movie '12 Years a Slave'?",
     "answer": "Solomon Northup"
   },
@@ -1121,6 +1153,10 @@
   {
     "question": "What is the name of the main villain in 'Futurama'?",
     "answer": "Mom"
+  },
+  {
+    "question": "What is the name of the main villain in the animated series 'Scooby-Doo'?",
+    "answer": "Scrappy"
   },
   {
     "question": "What is the name of the mermaid's song in 'Avatar: The Legend of Korra'?",
@@ -1656,6 +1692,10 @@
     "answer": "Los Angeles"
   },
   {
+    "question": "Where is Gamora from?",
+    "answer": "Zen-Whoberi"
+  },
+  {
     "question": "Where is the 'Eros' award for animation presented?",
     "answer": "Italy"
   },
@@ -1860,6 +1900,10 @@
     "answer": "Janet Gaynor"
   },
   {
+    "question": "Which actress was the first to win two consecutive Oscars?",
+    "answer": "Luise Rainer"
+  },
+  {
     "question": "Which algorithm is used for smoothing animation?",
     "answer": "Interpolation"
   },
@@ -1950,6 +1994,10 @@
   {
     "question": "Which animation studio created the anime 'Oldboy'?",
     "answer": "Madhouse"
+  },
+  {
+    "question": "Which animation studio created the cartoon \"Two and a Half Cats\"?",
+    "answer": "Mercury Filmworks"
   },
   {
     "question": "Which animation studio created the cartoon 'Voltron: Legendary Defender'?",
@@ -2541,6 +2589,10 @@
     "question": "Which former US president organized the 'Political Films' film festival?"
   },
   {
+    "question": "Which franchise includes Alan Grant?",
+    "answer": "Jurassic Park"
+  },
+  {
     "question": "Which franchise includes Merlin and Arthur?",
     "answer": "King Arthur"
   },
@@ -2798,6 +2850,10 @@
   {
     "question": "Which studio created 'Black Clover'?",
     "answer": "Pierrot"
+  },
+  {
+    "question": "Which studio created the animated film 'Boy and the World'?",
+    "answer": "Filme de Papel"
   },
   {
     "question": "Which studio created the animated film 'The Secret of Kells'?",
@@ -3475,6 +3531,10 @@
     "answer": "Hans Zimmer"
   },
   {
+    "question": "Who is the creator of 'Black Mirror'?",
+    "answer": "Charlie Brooker"
+  },
+  {
     "question": "Who is the creator of 'The Simpsons'?",
     "answer": "Matt Groening"
   },
@@ -3574,6 +3634,10 @@
     "answer": "Darren Aronofsky"
   },
   {
+    "question": "Who is the director of the movie 'City of God'?",
+    "answer": "Fernando Meirelles"
+  },
+  {
     "question": "Who is the director of the movie 'Disaster'?",
     "answer": "Michael Knight"
   },
@@ -3658,6 +3722,10 @@
     "answer": "Miki Ruso"
   },
   {
+    "question": "Who organized the prestigious Japanese animation festival?",
+    "answer": "JAA"
+  },
+  {
     "question": "Who performed the song 'Bibbidi-Bobbidi-Boo' in the movie 'Cinderella'?",
     "answer": "Verna Felton"
   },
@@ -3724,6 +3792,10 @@
   {
     "question": "Who played the main character in the film 'Nosferatu'?",
     "answer": "Max Schreck"
+  },
+  {
+    "question": "Who played the main character in the movie '12 Years a Slave'?",
+    "answer": "Chiwetel Ejiofor"
   },
   {
     "question": "Who played the role of Agent Smith in 'The Matrix'?",
@@ -3820,6 +3892,10 @@
   {
     "question": "Who produced the film 'Mad Max: Fury Road'?",
     "answer": "George Miller"
+  },
+  {
+    "question": "Who produced the film 'The Curious Case of Benjamin Button'?",
+    "answer": "Kathleen Kennedy"
   },
   {
     "question": "Who produced the movie 'Dark Warrior'?",
@@ -3944,6 +4020,10 @@
   {
     "question": "Who taught Jake dragon slaying in the animated series 'American Dragon'?",
     "answer": "Gordon"
+  },
+  {
+    "question": "Who voiced Yogi Bear in the 2010 version?",
+    "answer": "Dan Aykroyd"
   },
   {
     "question": "Who voiced Yogi Bear?",

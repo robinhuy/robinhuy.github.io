@@ -108,6 +108,10 @@
     "answer": "600"
   },
   {
+    "question": "How many liters of water does a blue whale filter at once?",
+    "answer": "10000 liters"
+  },
+  {
     "question": "How many nature reserves are there in Russia?",
     "answer": "103"
   },
@@ -142,6 +146,10 @@
   {
     "question": "How many species of gibbons are there?",
     "answer": "Sixteen"
+  },
+  {
+    "question": "How many species of lancelets are there?",
+    "answer": "More than 30"
   },
   {
     "question": "How many species of lemurs are there?",
@@ -248,6 +256,10 @@
     "answer": "Sikhote-Alin"
   },
   {
+    "question": "In which nature reserve do snow leopards live?",
+    "answer": "Sailugemsky"
+  },
+  {
     "question": "In which nature reserve does the rare sea comb live?",
     "answer": "Far Eastern Marine Reserve"
   },
@@ -272,6 +284,10 @@
     "answer": "Africa"
   },
   {
+    "question": "The most venomous mammal?",
+    "answer": "Platypus"
+  },
+  {
     "question": "To which class do echinoderms with long tentacles belong?",
     "answer": "Holothuroidea"
   },
@@ -284,12 +300,20 @@
     "answer": "Musk ox"
   },
   {
+    "question": "What animals inhabit the Caucasian Reserve?",
+    "answer": "Caucasian bison"
+  },
+  {
     "question": "What animals inhabit the Darwin Reserve?",
     "answer": "Sea otters"
   },
   {
     "question": "What animals inhabit the Yamal Nature Reserve?",
     "answer": "Musk oxen"
+  },
+  {
+    "question": "What animals live in the desert?",
+    "answer": "Camel"
   },
   {
     "question": "What are Japanese gardens decorated with?",
@@ -344,6 +368,10 @@
     "answer": "Larvae"
   },
   {
+    "question": "What are the eyes of most insects called?",
+    "answer": "Compound"
+  },
+  {
     "question": "What are the fangs of spiders called?",
     "answer": "Chelicerae"
   },
@@ -358,6 +386,10 @@
   {
     "question": "What are the ring-shaped muscles in lancelets called?",
     "answer": "myomeres"
+  },
+  {
+    "question": "What are the smallest antelopes called?",
+    "answer": "Dik-diks"
   },
   {
     "question": "What are the specialized respiratory organs in spiders called?",
@@ -394,6 +426,10 @@
   {
     "question": "What distinguishes sea urchins from starfish?",
     "answer": "Body shape"
+  },
+  {
+    "question": "What do ants use for communication?",
+    "answer": "Pheromones"
   },
   {
     "question": "What do goats like to eat?",
@@ -520,6 +556,10 @@
     "answer": "Sea cucumber"
   },
   {
+    "question": "What is a unique feature of the humpback whale's migration?",
+    "answer": "Songs"
+  },
+  {
     "question": "What is added to compost to improve its structure?",
     "answer": "Sawdust"
   },
@@ -576,6 +616,10 @@
     "answer": "16"
   },
   {
+    "question": "What is the average number of teeth a shark has?",
+    "answer": "Up to 3000"
+  },
+  {
     "question": "What is the average speed of a shark?",
     "answer": "40 km/h"
   },
@@ -590,6 +634,10 @@
   {
     "question": "What is the brain size of a chimpanzee?",
     "answer": "400 grams"
+  },
+  {
+    "question": "What is the class to which lampreys and hagfish belong called?",
+    "answer": "Cyclostomes"
   },
   {
     "question": "What is the correct name for a hose with small holes?",
@@ -920,6 +968,10 @@
     "answer": "ventilation"
   },
   {
+    "question": "What rare predators inhabit the Caucasian Reserve?",
+    "answer": "Leopards"
+  },
+  {
     "question": "What recovery method is considered the most effective after workouts?",
     "answer": "Contrast shower"
   },
@@ -938,6 +990,10 @@
   {
     "question": "What running technique optimizes energy in a marathon?",
     "answer": "Economical style"
+  },
+  {
+    "question": "What sea creature inhabits the deepest parts of the ocean?",
+    "answer": "Deep-sea fish"
   },
   {
     "question": "What separates the head from the thorax in insects?",
@@ -1036,6 +1092,10 @@
     "answer": "Sunlight"
   },
   {
+    "question": "What type of mosquito transmits the Zika virus?",
+    "answer": "Aedes aegypti"
+  },
+  {
     "question": "What type of nervous system does a lamprey have?",
     "answer": "Central"
   },
@@ -1116,6 +1176,10 @@
     "answer": "Freshwater bodies"
   },
   {
+    "question": "Where does the snow leopard live?",
+    "answer": "Sayano-Shushensky Nature Reserve"
+  },
+  {
     "question": "Where is the 'Stolby' Nature Reserve located?",
     "answer": "Krasnoyarsk Krai"
   },
@@ -1148,12 +1212,24 @@
     "answer": "Chameleon"
   },
   {
+    "question": "Which animal can eat more than 100 kg of vegetation per day?",
+    "answer": "Elephant"
+  },
+  {
     "question": "Which animal can regenerate its tentacles?",
     "answer": "Squid"
   },
   {
+    "question": "Which animal can transmit a radio signal over the longest distance?",
+    "answer": "Elephant"
+  },
+  {
     "question": "Which animal eats cacti?",
     "answer": "Spectacled bear"
+  },
+  {
+    "question": "Which animal eats pine nuts?",
+    "answer": "Chipmunk"
   },
   {
     "question": "Which animal eats tree buds in winter?",
@@ -1316,6 +1392,10 @@
     "answer": "Swifts"
   },
   {
+    "question": "Which birds are known for their long-distance migrations?",
+    "answer": "Cranes"
+  },
+  {
     "question": "Which birds build nests in burrows?",
     "answer": "Kingfishers"
   },
@@ -1408,12 +1488,20 @@
     "answer": "Eel"
   },
   {
+    "question": "Which fish has rhomboid-shaped scales?",
+    "answer": "Gar"
+  },
+  {
     "question": "Which fish has the ability to quickly change direction?",
     "answer": "Barracuda"
   },
   {
     "question": "Which fish inhabits coral reefs and has poisonous organs?",
     "answer": "Stonefish"
+  },
+  {
+    "question": "Which fish is called the 'living sea antenna'?",
+    "answer": "Batfish"
   },
   {
     "question": "Which fish is called the sea wolf?",
@@ -1450,6 +1538,10 @@
   {
     "question": "Which fish lives under the ice?",
     "answer": "Antarctic toothfish"
+  },
+  {
+    "question": "Which fish produces low-frequency sounds?",
+    "answer": "Triggerfish"
   },
   {
     "question": "Which fish uses electricity for orientation?",
@@ -1528,6 +1620,10 @@
     "answer": "Antlion"
   },
   {
+    "question": "Which insect infects mosquitoes with viruses?",
+    "answer": "Nematodes"
+  },
+  {
     "question": "Which insect is a symbol of bravery in China?",
     "answer": "Dragonfly"
   },
@@ -1566,6 +1662,14 @@
   {
     "question": "Which insects glow in the dark?",
     "answer": "fireflies"
+  },
+  {
+    "question": "Which insects have soldier castes?",
+    "answer": "Termites"
+  },
+  {
+    "question": "Which insects have spiny legs?",
+    "answer": "Colorado beetles"
   },
   {
     "question": "Which insects hibernate in trees?",
@@ -1632,6 +1736,10 @@
     "answer": "Pangolin"
   },
   {
+    "question": "Which mammal has the sharpest hearing?",
+    "answer": "Bat"
+  },
+  {
     "question": "Which mammal hunts at night?",
     "answer": "Cat"
   },
@@ -1684,6 +1792,10 @@
     "answer": "Dusky jawfish"
   },
   {
+    "question": "Which marine creature has the ability to bioluminesce?",
+    "answer": "Sea firefly"
+  },
+  {
     "question": "Which marine creature is often called the 'engineer of the coral reef'?",
     "answer": "Coral polyp"
   },
@@ -1732,6 +1844,10 @@
     "answer": "Chimpanzee"
   },
   {
+    "question": "Which nature reserve is famous for a large number of orchid species?",
+    "answer": "Ladoga"
+  },
+  {
     "question": "Which nature reserve is famous for its ornithological station?",
     "answer": "Prioksko-Terrasny"
   },
@@ -1742,6 +1858,10 @@
   {
     "question": "Which nature reserve is famous for red pandas?",
     "answer": "Kaurymsky Nature Reserve"
+  },
+  {
+    "question": "Which nature reserve is known for its diverse grasslands?",
+    "answer": "Kuban-Anik"
   },
   {
     "question": "Which nature reserve is known for its population of Amur tigers?",
@@ -1768,6 +1888,10 @@
     "answer": "Great Arctic"
   },
   {
+    "question": "Which of the animals feed exclusively on leaves?",
+    "answer": "Koala"
+  },
+  {
     "question": "Which of the following animals is the smallest herbivore?",
     "answer": "Mouse"
   },
@@ -1782,6 +1906,10 @@
   {
     "question": "Which organ helps mollusks to feed?",
     "answer": "radula"
+  },
+  {
+    "question": "Which organs allow hagfish to hide in substrates?",
+    "answer": "Slime"
   },
   {
     "question": "Which organs help echinoderms navigate their environment?",
@@ -1836,6 +1964,14 @@
     "answer": "Annuals"
   },
   {
+    "question": "Which primate has a high forehead?",
+    "answer": "Chimpanzee"
+  },
+  {
+    "question": "Which primate is known for its complex nests?",
+    "answer": "orangutan"
+  },
+  {
     "question": "Which primate is known for its predatory behavior?",
     "answer": "Baboon"
   },
@@ -1850,6 +1986,10 @@
   {
     "question": "Which primate most commonly has white fur?",
     "answer": "Tamarin"
+  },
+  {
+    "question": "Which primates are capable of gliding from tree to tree?",
+    "answer": "Flying lemurs"
   },
   {
     "question": "Which primates are known for their monogamous mating?",
@@ -1932,12 +2072,20 @@
     "answer": "Garter"
   },
   {
+    "question": "Which snake is considered the most venomous?",
+    "answer": "Inland Taipan"
+  },
+  {
     "question": "Which snake is known for its beautiful skin patterns?",
     "answer": "King Cobra"
   },
   {
     "question": "Which snake lives in trees?",
     "answer": "Green mamba"
+  },
+  {
+    "question": "Which snakes are capable of gliding?",
+    "answer": "Flying snakes"
   },
   {
     "question": "Which snowboard parameter affects its performance in deep snow?",
@@ -1970,6 +2118,10 @@
   {
     "question": "Which type of fish is known for its unique way of catching prey using a glowing lure?",
     "answer": "Anglerfish"
+  },
+  {
+    "question": "Which type of whale can reach speeds of up to 56 km/h?",
+    "answer": "Fin whale"
   },
   {
     "question": "Which vegetable is often grown on circular beds?",
@@ -2038,6 +2190,10 @@
   {
     "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
     "answer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "Who were the ancient ancestors of lancelets?",
+    "answer": "Tunicates"
   },
   {
     "question": "Whose remains are considered the first jawed vertebrates?",
