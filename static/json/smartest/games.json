@@ -120,6 +120,10 @@
     "answer": "Divinity: Original Sin"
   },
   {
+    "question": "In which game are there many factions and clans?",
+    "answer": "Fallout 4"
+  },
+  {
     "question": "In which game are there transportation cards?",
     "answer": "Ticket to Ride"
   },
@@ -138,6 +142,10 @@
   {
     "question": "In which game can you face alien threats?",
     "answer": "X-COM"
+  },
+  {
+    "question": "In which game can you find the planet Sybertap?",
+    "answer": "No Man's Sky"
   },
   {
     "question": "In which game can you fly on dragons?",
@@ -214,6 +222,10 @@
   {
     "question": "In which game does the hero face mythical creatures?",
     "answer": "Dark Souls III"
+  },
+  {
+    "question": "In which game does the team Counter Logic Gaming participate?",
+    "answer": "League of Legends"
   },
   {
     "question": "In which game is Alduin featured?",
@@ -344,12 +356,24 @@
     "answer": "Format for publishing news"
   },
   {
+    "question": "What does a player do in the game Battle Cats?",
+    "answer": "Fights with cats"
+  },
+  {
     "question": "What does the term 4X mean in strategy games?",
     "answer": "Explore, expand, exploit, exterminate"
   },
   {
     "question": "What does the word 'Tangram' mean?",
     "answer": "Seven boards of skill"
+  },
+  {
+    "question": "What does the word 'nerf' mean?",
+    "answer": "Weakening"
+  },
+  {
+    "question": "What element links the hero and their ability in Hearthstone?",
+    "answer": "Hero card"
   },
   {
     "question": "What engine does the game DOOM 2016 use?",
@@ -492,6 +516,10 @@
     "answer": "Hand Simulator"
   },
   {
+    "question": "What is the name of the VR game where players can explore deep space?",
+    "answer": "No Man's Sky VR"
+  },
+  {
     "question": "What is the name of the VR game where players can explore the world using a portal gun?",
     "answer": "Portal Stories: VR"
   },
@@ -526,6 +554,10 @@
   {
     "question": "What is the name of the city governed by the Eternal Guardian in the game Divinity: Original Sin?",
     "answer": "Cyclopean"
+  },
+  {
+    "question": "What is the name of the company known for its AR games?",
+    "answer": "Niantic"
   },
   {
     "question": "What is the name of the creator of The Elder Scrolls series?",
@@ -632,6 +664,10 @@
     "answer": "Gravity Ghost"
   },
   {
+    "question": "What is the name of the game where it is important to develop strategy and manage resources?",
+    "answer": "Gloomhaven"
+  },
+  {
     "question": "What is the name of the game where players become detectives?",
     "answer": "Sherlock Holmes: Consulting Detective"
   },
@@ -690,6 +726,10 @@
   {
     "question": "What is the name of the island where the game Rime takes place?",
     "answer": "Tlamac"
+  },
+  {
+    "question": "What is the name of the largest real-time strategy tournament?",
+    "answer": "StarCraft II WCS"
   },
   {
     "question": "What is the name of the location where most of the action in the game 'BioShock' takes place?",
@@ -888,6 +928,10 @@
     "answer": "Nirn"
   },
   {
+    "question": "What mechanic allows you to draw additional cards in Magic: The Gathering?",
+    "answer": "Draw"
+  },
+  {
     "question": "What prize is often awarded at LoL tournaments?",
     "answer": "Skin Pack"
   },
@@ -906,6 +950,10 @@
   {
     "question": "What role does the main character play in the game Hellblade: Senua's Sacrifice?",
     "answer": "Warrior"
+  },
+  {
+    "question": "What term is used to denote the position of points in 3D space?",
+    "answer": "Coordinates"
   },
   {
     "question": "What tournament is held for Blizzard games in the middle of the year?",
@@ -964,6 +1012,10 @@
     "answer": "Meridian 59"
   },
   {
+    "question": "What was the first game released on CD-ROM?",
+    "answer": "Myst"
+  },
+  {
     "question": "What was the first mass-produced interactive video game?",
     "answer": "Spacewar!"
   },
@@ -1006,6 +1058,10 @@
   {
     "question": "Which Apex Legends tournament is considered the most prestigious?",
     "answer": "ALGS Championship"
+  },
+  {
+    "question": "Which BioWare game is titled \"Anthem\"?",
+    "answer": "Anthem"
   },
   {
     "question": "Which MTG set first introduced double-faced cards?",
@@ -1058,6 +1114,10 @@
   {
     "question": "Which VR game simulates a robot war?",
     "answer": "Mech Battle"
+  },
+  {
+    "question": "Which Valve project became a cult classic?",
+    "answer": "Half-Life"
   },
   {
     "question": "Which Yu-Gi-Oh! set introduced the 'Destiny Hero' series of cards?",
@@ -1170,6 +1230,10 @@
   {
     "question": "Which game allows players to build and manage a partisan movement?",
     "answer": "Partisans"
+  },
+  {
+    "question": "Which game allows you to control a post-apocalyptic world?",
+    "answer": "Mad Max"
   },
   {
     "question": "Which game allows you to develop industry and economy?",
@@ -1460,6 +1524,10 @@
     "answer": "Hideo Kojima"
   },
   {
+    "question": "Who creates content?",
+    "answer": "Content creators"
+  },
+  {
     "question": "Who developed the game 'Path of Exile'?",
     "answer": "Grinding Gear Games"
   },
@@ -1524,6 +1592,10 @@
     "answer": "Higgs"
   },
   {
+    "question": "Who is the main character in the game Dead Cells?",
+    "answer": "The Prisoner"
+  },
+  {
     "question": "Who is the main enemy in the game Bloodborne?",
     "answer": "Beasts"
   },
@@ -1562,6 +1634,10 @@
   {
     "question": "Who was the commentator at The Overwatch League tournament?",
     "answer": "MonteCristo"
+  },
+  {
+    "question": "Who was the creator of the main storyline for the game Disco Elysium?",
+    "answer": "Robert Kurvitz"
   },
   {
     "question": "Who won the 2023 World Chess Championship?",
