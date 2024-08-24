@@ -38798,8 +38798,16 @@
         "answer": "eliminate pests"
     },
     {
+        "question": "How do ferns reproduce?",
+        "answer": "Spores"
+    },
+    {
         "question": "How do fungi obtain their nutrition?",
         "answer": "Osmotrophy"
+    },
+    {
+        "question": "How do lichens spread?",
+        "answer": "By spores"
     },
     {
         "question": "How do mosses reproduce in the presence of water?",
@@ -38818,8 +38826,16 @@
         "answer": "volatile compounds"
     },
     {
+        "question": "How is prickly pear used?",
+        "answer": "Food"
+    },
+    {
         "question": "How long does it take to grow a bonsai?",
         "answer": "Years"
+    },
+    {
+        "question": "How many chromosomes do most ferns have?",
+        "answer": "1280"
     },
     {
         "question": "How many species of prickly pear cactus are there?",
@@ -38830,12 +38846,24 @@
         "answer": "Three"
     },
     {
+        "question": "How many types of plants are pollinated by flies?",
+        "answer": "Thousands"
+    },
+    {
         "question": "In what form do ferns deposit their spores?",
         "answer": "Sorus"
     },
     {
+        "question": "In which century were bryophytes first classified?",
+        "answer": "17th"
+    },
+    {
         "question": "In which places do rare species of orchids inhabit?",
         "answer": "Tropical rainforests"
+    },
+    {
+        "question": "In which region do rare plants on the brink of extinction live?",
+        "answer": "South America"
     },
     {
         "question": "Name the plant with giant leaves reaching up to 3 meters.",
@@ -38846,12 +38874,24 @@
         "answer": "Woody"
     },
     {
+        "question": "The Lophophora cactus is known for its?",
+        "answer": "Psychoactive properties"
+    },
+    {
+        "question": "To which division of plants do ferns belong?",
+        "answer": "Polypodiopsida"
+    },
+    {
         "question": "To which group of substances does chlorophyll, which catalyzes the process of photosynthesis, belong?",
         "answer": "Pigments"
     },
     {
         "question": "Under what conditions can mosses enter a state of anabiosis?",
         "answer": "Dry conditions"
+    },
+    {
+        "question": "Up to what age can baobabs live?",
+        "answer": "2000 years"
     },
     {
         "question": "What acids do lichens contain?",
@@ -38862,12 +38902,20 @@
         "answer": "water retention"
     },
     {
+        "question": "What advantage do ferns have when reproducing by spores?",
+        "answer": "Easily spread"
+    },
+    {
         "question": "What ancient name is given to ferns for their beauty?",
         "answer": "Green gifts"
     },
     {
         "question": "What are flowering plants called?",
         "answer": "Angiosperms"
+    },
+    {
+        "question": "What are mosses capable of doing?",
+        "answer": "Retain water"
     },
     {
         "question": "What are plants adapted to living on rocks called?",
@@ -38880,6 +38928,10 @@
     {
         "question": "What are the areas of tissue where cell growth occurs called?",
         "answer": "Meristems"
+    },
+    {
+        "question": "What are the habitats of mosses?",
+        "answer": "Terrestrial"
     },
     {
         "question": "What are the mushrooms that grow on wood called?",
@@ -38902,6 +38954,10 @@
         "answer": "Glandules"
     },
     {
+        "question": "What are the structures on the underside of a fern leaf called?",
+        "answer": "Sori"
+    },
+    {
         "question": "What are the vessels for transpiration called?",
         "answer": "Xylem"
     },
@@ -38920,6 +38976,10 @@
     {
         "question": "What diseases can affect bonsai?",
         "answer": "Fungal"
+    },
+    {
+        "question": "What do fern spores develop into?",
+        "answer": "Prothallus"
     },
     {
         "question": "What do molecular biologists do?",
@@ -38950,6 +39010,10 @@
         "answer": "Production of ATP"
     },
     {
+        "question": "What important role do mosses play in the ecosystem?",
+        "answer": "Retain moisture"
+    },
+    {
         "question": "What is CRISPR used for?",
         "answer": "Genome editing"
     },
@@ -38960,6 +39024,14 @@
     {
         "question": "What is called 'Siberian ginseng'?",
         "answer": "Eleutherococcus"
+    },
+    {
+        "question": "What is genetic transformation?",
+        "answer": "Change in DNA"
+    },
+    {
+        "question": "What is one of the smallest flowering plants?",
+        "answer": "Wolffia"
     },
     {
         "question": "What is teak wood used for?",
@@ -39026,12 +39098,20 @@
         "answer": "Arils"
     },
     {
+        "question": "What is the name of the fruit with soft flesh and spiky skin?",
+        "answer": "Durian"
+    },
+    {
         "question": "What is the name of the genetic analysis method?",
         "answer": "DNA sequencing"
     },
     {
         "question": "What is the name of the largest living fern?",
         "answer": "Cyatheales"
+    },
+    {
+        "question": "What is the name of the largest tree in Madagascar?",
+        "answer": "Baobab"
     },
     {
         "question": "What is the name of the miniature bonsai tree?",
@@ -39044,6 +39124,10 @@
     {
         "question": "What is the name of the next-generation DNA sequencing technology?",
         "answer": "NGS"
+    },
+    {
+        "question": "What is the name of the plant that blooms only once in its lifetime?",
+        "answer": "Agave"
     },
     {
         "question": "What is the name of the plant that is often mistaken for moss?",
@@ -39084,6 +39168,18 @@
     {
         "question": "What is the name of the unique tree with fire-resistant bark that grows in California?",
         "answer": "Sequoiadendron"
+    },
+    {
+        "question": "What is the native country of the agave plant?",
+        "answer": "Mexico"
+    },
+    {
+        "question": "What is the nature of lichens?",
+        "answer": "Symbiotic"
+    },
+    {
+        "question": "What is the oldest living tree in the world?",
+        "answer": "Methuselah"
     },
     {
         "question": "What is the oldest type of fern?",
@@ -39146,6 +39242,10 @@
         "answer": "Sporangium"
     },
     {
+        "question": "What is the symbiosis between ants and acacia called?",
+        "answer": "Mutualism"
+    },
+    {
         "question": "What is the term for additional plant nutrition using animals?",
         "answer": "Carnivory"
     },
@@ -39170,12 +39270,24 @@
         "answer": "secretion of toxins"
     },
     {
+        "question": "What method do special plants use to catch and digest insects?",
+        "answer": "Predation"
+    },
+    {
         "question": "What method of insect protection do maples use?",
         "answer": "Phytoncides"
     },
     {
+        "question": "What occurs in the thylakoid membranes?",
+        "answer": "Light phase"
+    },
+    {
         "question": "What plant is the symbol of Indonesia?",
         "answer": "Rafflesia"
+    },
+    {
+        "question": "What plants can be cultivated in a winter garden?",
+        "answer": "Succulents"
     },
     {
         "question": "What plants grow in swamps?",
@@ -39184,6 +39296,10 @@
     {
         "question": "What plants grow in the tundra?",
         "answer": "Lichens"
+    },
+    {
+        "question": "What process allows for the preservation of genetic diversity?",
+        "answer": "Crossbreeding"
     },
     {
         "question": "What process allows the transfer of genes from one plant to another?",
@@ -39206,8 +39322,16 @@
         "answer": "Transpiration"
     },
     {
+        "question": "What rare plant is found in Alaska?",
+        "answer": "Poppy"
+    },
+    {
         "question": "What shape can lichens have?",
         "answer": "Foliose"
+    },
+    {
+        "question": "What shape do lichens usually take?",
+        "answer": "Crust"
     },
     {
         "question": "What sprouts are grown from a test tube?",
@@ -39216,6 +39340,10 @@
     {
         "question": "What structure forms the body of a lichen?",
         "answer": "Thallus"
+    },
+    {
+        "question": "What structures in plants facilitate gas exchange?",
+        "answer": "Stomata"
     },
     {
         "question": "What substance do tree bark cells contain?",
@@ -39242,12 +39370,32 @@
         "answer": "Baobabs"
     },
     {
+        "question": "What tropical plant grows in the Amazon?",
+        "answer": "Hevea"
+    },
+    {
         "question": "What type of cactus produces mescaline?",
         "answer": "Lophophora"
     },
     {
         "question": "What type of coating is characteristic of desert plant leaves?",
         "answer": "Waxy"
+    },
+    {
+        "question": "What type of diet do ants have?",
+        "answer": "Omnivores"
+    },
+    {
+        "question": "What type of fern tissue is used for the transport of water and minerals?",
+        "answer": "Xylem"
+    },
+    {
+        "question": "What type of fruit does a peanut have?",
+        "answer": "Legume"
+    },
+    {
+        "question": "What type of mushrooms grow in symbiosis with trees?",
+        "answer": "Mycorrhizal"
     },
     {
         "question": "What type of mushrooms often grow on tree roots?",
@@ -39266,16 +39414,32 @@
         "answer": "Cones"
     },
     {
+        "question": "What type of water supply is absent in mosses?",
+        "answer": "Vascular system"
+    },
+    {
         "question": "What type of wood is Africa famous for?",
         "answer": "Ebony"
+    },
+    {
+        "question": "When did bonsai appear in Japan?",
+        "answer": "13th century"
     },
     {
         "question": "Where are chromoplasts located?",
         "answer": "In plant cells"
     },
     {
+        "question": "Where can the greatest variety of plants be found?",
+        "answer": "Tropical rainforest"
+    },
+    {
         "question": "Where can you find rare plants that grow only on cliffs?",
         "answer": "In the Andes"
+    },
+    {
+        "question": "Where can you find the Lebanese cedar?",
+        "answer": "Lebanon"
     },
     {
         "question": "Where do modern ferns originate from?",
@@ -39300,6 +39464,10 @@
     {
         "question": "Where does the rare plant Fefera grow?",
         "answer": "Africa"
+    },
+    {
+        "question": "Where is glucose synthesized in a plant?",
+        "answer": "Leaves"
     },
     {
         "question": "Which Chinese plant is specifically cultivated for use in tea?",
@@ -39374,12 +39542,24 @@
         "answer": "Azalea"
     },
     {
+        "question": "Which flower grows from a tuber?",
+        "answer": "Begonia"
+    },
+    {
+        "question": "Which flower is called the 'flower of love'?",
+        "answer": "Orchid"
+    },
+    {
         "question": "Which flower is cultivated for obtaining essential oil?",
         "answer": "Jasmine"
     },
     {
         "question": "Which flower is often called the 'flower of evil'?",
         "answer": "Belladonna"
+    },
+    {
+        "question": "Which flowering plant is known for its medicinal properties?",
+        "answer": "Calendula"
     },
     {
         "question": "Which fruit has pink skin and white flesh?",
@@ -39438,6 +39618,10 @@
         "answer": "Root flies"
     },
     {
+        "question": "Which lichen is used as a dye?",
+        "answer": "Litmus lichen"
+    },
+    {
         "question": "Which lichen is used as an indicator of air purity?",
         "answer": "Cetraria"
     },
@@ -39446,8 +39630,20 @@
         "answer": "Cetraria"
     },
     {
+        "question": "Which lichens can be found in Arctic regions?",
+        "answer": "Reindeer lichen"
+    },
+    {
         "question": "Which lichens contain bright red pigments?",
         "answer": "Teloschistaceae"
+    },
+    {
+        "question": "Which meadow is known for its flowers?",
+        "answer": "Alpine meadow"
+    },
+    {
+        "question": "Which mosses can grow in the desert?",
+        "answer": "Xerophilous mosses"
     },
     {
         "question": "Which mosses can survive in high radiation conditions?",
@@ -39522,6 +39718,10 @@
         "answer": "Christmas cactus"
     },
     {
+        "question": "Which plant can be planted in a rock garden?",
+        "answer": "Sempervivum"
+    },
+    {
         "question": "Which plant can bloom underwater?",
         "answer": "Lotus"
     },
@@ -39548,6 +39748,18 @@
     {
         "question": "Which plant has a very fine structure and is often found in still waters?",
         "answer": "Riccia"
+    },
+    {
+        "question": "Which plant has giant aerial bulbs?",
+        "answer": "Longin"
+    },
+    {
+        "question": "Which plant has orange flowers and is often used in antispasmodic collections?",
+        "answer": "Calendula"
+    },
+    {
+        "question": "Which plant has pods with spices?",
+        "answer": "Tamarind"
     },
     {
         "question": "Which plant has the ability to 'breathe' through its roots?",
@@ -39578,6 +39790,10 @@
         "answer": "Olive tree"
     },
     {
+        "question": "Which plant is adapted to live both in water and on land?",
+        "answer": "Cattail"
+    },
+    {
         "question": "Which plant is also known as 'Adam's head'?",
         "answer": "Gentian"
     },
@@ -39598,6 +39814,10 @@
         "answer": "Dong Quai"
     },
     {
+        "question": "Which plant is called 'gvozdika travyanka'?",
+        "answer": "Dianthus deltoides"
+    },
+    {
         "question": "Which plant is called 'water star'?",
         "answer": "Alisma"
     },
@@ -39608,6 +39828,10 @@
     {
         "question": "Which plant is called a 'living fossil'?",
         "answer": "Ginkgo"
+    },
+    {
+        "question": "Which plant is called a natural filter?",
+        "answer": "Pondweed"
     },
     {
         "question": "Which plant is called the 'Chinese globe chrysanthemum'?",
@@ -39638,12 +39862,20 @@
         "answer": "Water lily"
     },
     {
+        "question": "Which plant is endemic to Madagascar?",
+        "answer": "Triumphant palm"
+    },
+    {
         "question": "Which plant is famous for its bright leaves?",
         "answer": "Coleus"
     },
     {
         "question": "Which plant is famous for its flowers with bright orange-red hues?",
         "answer": "Heliacanthus"
+    },
+    {
+        "question": "Which plant is found in the Far Eastern taiga?",
+        "answer": "Aralia"
     },
     {
         "question": "Which plant is highly valued for its blue flowers?",
@@ -39654,12 +39886,28 @@
         "answer": "Cyclamen"
     },
     {
+        "question": "Which plant is known for its aerial roots and is found in India and other parts of Asia?",
+        "answer": "Banyan"
+    },
+    {
         "question": "Which plant is known for its bright blue color and grows in the north of Kamchatka?",
         "answer": "Kamchatka Rhododendron"
     },
     {
         "question": "Which plant is known for its bright flowers and numerous species?",
         "answer": "Orchid"
+    },
+    {
+        "question": "Which plant is known for its decorative flowers in spring?",
+        "answer": "Azalea"
+    },
+    {
+        "question": "Which plant is known for its giant leaves?",
+        "answer": "Victoria amazonica"
+    },
+    {
+        "question": "Which plant is known for its unique taste and grows everywhere?",
+        "answer": "Papaya"
     },
     {
         "question": "Which plant is known for its unusual petal structure?",
@@ -39670,6 +39918,10 @@
         "answer": "Lotus"
     },
     {
+        "question": "Which plant is listed in the European Red Book?",
+        "answer": "Fritillaria"
+    },
+    {
         "question": "Which plant is listed in the Red Book of Russia?",
         "answer": "Nut-bearing lotus"
     },
@@ -39678,12 +39930,20 @@
         "answer": "Filifolium"
     },
     {
+        "question": "Which plant is often associated with winter?",
+        "answer": "Poinsettia"
+    },
+    {
         "question": "Which plant is often called 'rapunzel'?",
         "answer": "Rampion bellflower"
     },
     {
         "question": "Which plant is often called 'sea grape'?",
         "answer": "Coccoloba"
+    },
+    {
+        "question": "Which plant is often grown for decorative purposes?",
+        "answer": "Clematis"
     },
     {
         "question": "Which plant is often grown in alpine flower beds?",
@@ -39702,12 +39962,24 @@
         "answer": "Daylily"
     },
     {
+        "question": "Which plant is often planted in rock gardens?",
+        "answer": "Alpine pink"
+    },
+    {
+        "question": "Which plant is often used for creating green walls?",
+        "answer": "Ivy"
+    },
+    {
         "question": "Which plant is often used for rock gardens?",
         "answer": "Sedum"
     },
     {
         "question": "Which plant is particularly sensitive to overwatering?",
         "answer": "Cactus"
+    },
+    {
+        "question": "Which plant is popular among carnivorous plants?",
+        "answer": "Nepenthes"
     },
     {
         "question": "Which plant is rarely grown in northern latitudes?",
@@ -39720,6 +39992,10 @@
     {
         "question": "Which plant is typical for the steppe?",
         "answer": "Feather grass"
+    },
+    {
+        "question": "Which plant is used as a sweetener?",
+        "answer": "Stevia"
     },
     {
         "question": "Which plant is used for arranging decorative bouquets?",
@@ -39768,6 +40044,14 @@
     {
         "question": "Which plant tissue contributes to its strength?",
         "answer": "Sclerenchyma"
+    },
+    {
+        "question": "Which plants are adapted to live in water?",
+        "answer": "Aquatic plants"
+    },
+    {
+        "question": "Which plants are anchored to the bottom of water bodies?",
+        "answer": "Rhizomatous"
     },
     {
         "question": "Which plants are capable of surviving in salty water?",
@@ -39826,6 +40110,10 @@
         "answer": "Ferns"
     },
     {
+        "question": "Which plants feed on insects to obtain nitrogen?",
+        "answer": "Venus flytrap"
+    },
+    {
         "question": "Which plants have the ability to retain water and survive in drought conditions?",
         "answer": "Succulents"
     },
@@ -39838,6 +40126,10 @@
         "answer": "Azaleas"
     },
     {
+        "question": "Which plants prefer frequent watering?",
+        "answer": "Hydrangea"
+    },
+    {
         "question": "Which plants produce a sticky liquid to catch insects?",
         "answer": "Carnivorous plants"
     },
@@ -39848,6 +40140,10 @@
     {
         "question": "Which plants take root in sand dunes?",
         "answer": "Rhizomatous"
+    },
+    {
+        "question": "Which pollinators can help a bonsai in blooming?",
+        "answer": "Bees"
     },
     {
         "question": "Which primary bonsai style imitates the slant of trees under the influence of wind?",
@@ -39886,6 +40182,10 @@
         "answer": "Sporangium"
     },
     {
+        "question": "Which structures perform the functions of roots?",
+        "answer": "rhizome"
+    },
+    {
         "question": "Which succulents are popular in medicine?",
         "answer": "aloe vera"
     },
@@ -39922,6 +40222,10 @@
         "answer": "Alder"
     },
     {
+        "question": "Which tropical plant has giant leaves?",
+        "answer": "Victoria"
+    },
+    {
         "question": "Which tropical plant is famous for its bright red flowers and is used in perfumery?",
         "answer": "Ylang-ylang"
     },
@@ -39940,6 +40244,14 @@
     {
         "question": "Which tropical plant is renowned for its antibacterial properties and is used in traditional medicine?",
         "answer": "Neem"
+    },
+    {
+        "question": "Which tropical plant is used in weaving?",
+        "answer": "Rattan"
+    },
+    {
+        "question": "Which tropical plant produces nutmeg?",
+        "answer": "Nutmeg tree"
     },
     {
         "question": "Which tropical plant provides aromatic spices?",
@@ -39964,6 +40276,10 @@
     {
         "question": "Who helps the lichen synthesize organic substances?",
         "answer": "Algae"
+    },
+    {
+        "question": "Why are mosses important for ecosystems?",
+        "answer": "Soil formation"
     },
     {
         "question": "Why are mushrooms beneficial for the forest?",
