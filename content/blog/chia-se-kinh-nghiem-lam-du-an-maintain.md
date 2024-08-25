@@ -1,8 +1,8 @@
 ---
-title: "Chia sẻ kinh nghiệm làm dự án maintain"
+title: 'Chia sẻ kinh nghiệm làm dự án maintain'
 date: 2024-05-26
 draft: false
-tags: ["Programming", "AI"]
+tags: ['Programming', 'AI']
 ---
 
 Đã là lập trình viên thì chắc bạn sẽ không thể tránh khỏi phải làm các dự án maintain (bảo trì dự án, fix bug, ...), chỉ là sớm hay muộn 😅
@@ -74,6 +74,8 @@ Trường hợp này nên báo lại với Project Manager hoặc Leader chứ k
 ### 8. Cần đọc hiểu code logic, business logic trước khi sửa
 
 Cái này thì chắc chắn rồi. Tuy nhiên mình vẫn gặp một số trường hợp có dev chỉ `fix cho nó chạy được` (đúng với test case), chứ không hiểu hết toàn bộ code logic liên quan, dẫn đến phát sinh thêm bug khác.
+
+Có những bug giải pháp fix chỉ 1 dòng code. Nhưng để có 1 dòng code đó bạn phải đọc hàng ngàn dòng code, phải debug hàng trăm lần để hiểu được nguyên nhân gốc gây ra lỗi (chứ không chỉ nguyên nhân trực tiếp). Cái này cần phải kiên trì, và phải giải thích được cho PM/Leader, không lại mang tiếng là ngồi chơi 😂
 
 ### 9. Chỗ nào không hiểu thì phải hỏi
 
