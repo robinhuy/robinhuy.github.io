@@ -6517,6 +6517,10 @@
         "answer": "Credit rating"
     },
     {
+        "question": "What does the Solow model represent?",
+        "answer": "Capital growth"
+    },
+    {
         "question": "What does the aggregate demand function show?",
         "answer": "Total demand"
     },
@@ -6535,6 +6539,10 @@
     {
         "question": "What does the cost of ownership include?",
         "answer": "Expenses"
+    },
+    {
+        "question": "What does the demand function show?",
+        "answer": "Dependence of demand"
     },
     {
         "question": "What does the indifference curve model describe?",
@@ -6677,6 +6685,10 @@
         "answer": "Monopsony"
     },
     {
+        "question": "What is a recession?",
+        "answer": "A decline in economic activity"
+    },
+    {
         "question": "What is a short-term loan secured by securities?",
         "answer": "Repo"
     },
@@ -6691,6 +6703,10 @@
     {
         "question": "What is an example of a market with imperfect competition?",
         "answer": "Oligopoly"
+    },
+    {
+        "question": "What is an example of elastic demand?",
+        "answer": "Luxury items"
     },
     {
         "question": "What is an indifference curve?",
@@ -6737,6 +6753,10 @@
         "answer": "Technological innovations"
     },
     {
+        "question": "What is important for sustainable economic development?",
+        "answer": "investment"
+    },
+    {
         "question": "What is included in macroeconomic policy?",
         "answer": "Fiscal and monetary policy"
     },
@@ -6763,6 +6783,10 @@
     {
         "question": "What is often used to assess economic activity?",
         "answer": "indexes"
+    },
+    {
+        "question": "What is price discrimination?",
+        "answer": "Different prices"
     },
     {
         "question": "What is stagnation?",
@@ -7045,6 +7069,10 @@
         "answer": "Germany"
     },
     {
+        "question": "Which country is considered the leader in technology exports?",
+        "answer": "USA"
+    },
+    {
         "question": "Which country is known for the highest labor productivity?",
         "answer": "Norway"
     },
@@ -7067,6 +7095,10 @@
     {
         "question": "Which country was the first to introduce bank checks?",
         "answer": "United Kingdom"
+    },
+    {
+        "question": "Which distribution is used to describe molecular motion?",
+        "answer": "Maxwell-Boltzmann"
     },
     {
         "question": "Which document established the modern international financial system after World War II?",
@@ -7119,6 +7151,10 @@
     {
         "question": "Which industry adapts to innovations the fastest?",
         "answer": "IT sector"
+    },
+    {
+        "question": "Which market analysis method is based on charts?",
+        "answer": "Technical"
     },
     {
         "question": "Which metric compares models based on accuracy?",
@@ -7179,6 +7215,10 @@
     {
         "question": "Which test is used to check for autocorrelation of residuals?",
         "answer": "Durbin-Watson test"
+    },
+    {
+        "question": "Which test is used to check for heteroscedasticity?",
+        "answer": "Breusch-Pagan test"
     },
     {
         "question": "Which test is used to check the homogeneity of variances?",
@@ -10805,6 +10845,10 @@
         "answer": "Dark Souls III"
     },
     {
+        "question": "In which game does the player control an underwater civilization?",
+        "answer": "Aquanox"
+    },
+    {
         "question": "In which game does the team Counter Logic Gaming participate?",
         "answer": "League of Legends"
     },
@@ -12187,6 +12231,10 @@
     {
         "question": "Who is the main protagonist of the Assassin's Creed game series?",
         "answer": "Desmond Miles"
+    },
+    {
+        "question": "Who is the main villain in the game BioShock?",
+        "answer": "Frank Fontaine"
     },
     {
         "question": "Who is the most decorated player in the EVO Tekken tournament?",
@@ -24972,6 +25020,10 @@
         "answer": "100-300 meters"
     },
     {
+        "question": "Dogs of which group are characterized by powerful musculature and strong legs?",
+        "answer": "Mastiffs"
+    },
+    {
         "question": "For catching which animal is a snare trap most commonly used?",
         "answer": "hare"
     },
@@ -25228,6 +25280,10 @@
         "answer": "Leopard"
     },
     {
+        "question": "What animal lives in the Amazon forests and hunts small mammals?",
+        "answer": "Jaguar"
+    },
+    {
         "question": "What animals are hunted with dogs?",
         "answer": "Hares"
     },
@@ -25438,6 +25494,10 @@
     {
         "question": "What exotic animals can be found in subalpine meadows?",
         "answer": "Tibetan antelopes"
+    },
+    {
+        "question": "What factor affects hunting in the summer?",
+        "answer": "Temperature"
     },
     {
         "question": "What factor determines the best places for hunting wild boar?",
@@ -26288,6 +26348,10 @@
         "answer": "Live trap"
     },
     {
+        "question": "What trap catches animals at height?",
+        "answer": "Net trap"
+    },
+    {
         "question": "What trap is often used to catch lynxes?",
         "answer": "Steel trap"
     },
@@ -26496,6 +26560,10 @@
         "answer": "Dawn"
     },
     {
+        "question": "What weather conditions are preferable for hunting hares?",
+        "answer": "Snowfall"
+    },
+    {
         "question": "What weather conditions are preferable for lynx hunting?",
         "answer": "Scythians"
     },
@@ -26652,6 +26720,10 @@
         "answer": "driven hunting"
     },
     {
+        "question": "Which bird is hunted in winter?",
+        "answer": "Hazel grouse"
+    },
+    {
         "question": "Which bird is known for its complex courtship dances?",
         "answer": "Black grouse"
     },
@@ -26738,6 +26810,10 @@
     {
         "question": "Which camera can operate underwater?",
         "answer": "Waterproof camera"
+    },
+    {
+        "question": "Which camera feature is useful for detecting the heat of objects?",
+        "answer": "Thermal imaging"
     },
     {
         "question": "Which camera has the best focusing capabilities?",
@@ -44051,12 +44127,20 @@
         "answer": "Robots"
     },
     {
+        "question": "What are the goods called that are used for further production?",
+        "answer": "Intermediate goods"
+    },
+    {
         "question": "What concept describes equal opportunities for everyone?",
         "answer": "Inclusion"
     },
     {
         "question": "What describes the distribution of power resources in society?",
         "answer": "Political sociology"
+    },
+    {
+        "question": "What devices are used for home security?",
+        "answer": "Surveillance systems"
     },
     {
         "question": "What does 'ethical pluralism' mean?",
@@ -44133,6 +44217,10 @@
     {
         "question": "What forms the basis of cognitive schemas?",
         "answer": "Experience"
+    },
+    {
+        "question": "What is a legal norm?",
+        "answer": "Mandatory rule"
     },
     {
         "question": "What is a priority area in the economy?",
@@ -44371,6 +44459,10 @@
         "answer": "Blockchain"
     },
     {
+        "question": "What term describes the corrupt practice of using one's official position?",
+        "answer": "Nepotism"
+    },
+    {
         "question": "What term describes the development of technologies in education?",
         "answer": "EdTech"
     },
@@ -44459,6 +44551,10 @@
         "answer": "technological"
     },
     {
+        "question": "Which law regulates social security in Russia?",
+        "answer": "Federal Law No. 255-FZ"
+    },
+    {
         "question": "Which organizations are involved in social support?",
         "answer": "Charitable foundations"
     },
@@ -44541,6 +44637,10 @@
     {
         "question": "Who introduced the term 'Postmodern'?",
         "answer": "Jean-François Lyotard"
+    },
+    {
+        "question": "Who introduced the term 'anomie'?",
+        "answer": "Durkheim"
     },
     {
         "question": "Who introduced the term 'charisma'?",

@@ -276,6 +276,10 @@
     "answer": "Credit rating"
   },
   {
+    "question": "What does the Solow model represent?",
+    "answer": "Capital growth"
+  },
+  {
     "question": "What does the aggregate demand function show?",
     "answer": "Total demand"
   },
@@ -294,6 +298,10 @@
   {
     "question": "What does the cost of ownership include?",
     "answer": "Expenses"
+  },
+  {
+    "question": "What does the demand function show?",
+    "answer": "Dependence of demand"
   },
   {
     "question": "What does the indifference curve model describe?",
@@ -436,6 +444,10 @@
     "answer": "Monopsony"
   },
   {
+    "question": "What is a recession?",
+    "answer": "A decline in economic activity"
+  },
+  {
     "question": "What is a short-term loan secured by securities?",
     "answer": "Repo"
   },
@@ -450,6 +462,10 @@
   {
     "question": "What is an example of a market with imperfect competition?",
     "answer": "Oligopoly"
+  },
+  {
+    "question": "What is an example of elastic demand?",
+    "answer": "Luxury items"
   },
   {
     "question": "What is an indifference curve?",
@@ -496,6 +512,10 @@
     "answer": "Technological innovations"
   },
   {
+    "question": "What is important for sustainable economic development?",
+    "answer": "investment"
+  },
+  {
     "question": "What is included in macroeconomic policy?",
     "answer": "Fiscal and monetary policy"
   },
@@ -522,6 +542,10 @@
   {
     "question": "What is often used to assess economic activity?",
     "answer": "indexes"
+  },
+  {
+    "question": "What is price discrimination?",
+    "answer": "Different prices"
   },
   {
     "question": "What is stagnation?",
@@ -804,6 +828,10 @@
     "answer": "Germany"
   },
   {
+    "question": "Which country is considered the leader in technology exports?",
+    "answer": "USA"
+  },
+  {
     "question": "Which country is known for the highest labor productivity?",
     "answer": "Norway"
   },
@@ -826,6 +854,10 @@
   {
     "question": "Which country was the first to introduce bank checks?",
     "answer": "United Kingdom"
+  },
+  {
+    "question": "Which distribution is used to describe molecular motion?",
+    "answer": "Maxwell-Boltzmann"
   },
   {
     "question": "Which document established the modern international financial system after World War II?",
@@ -878,6 +910,10 @@
   {
     "question": "Which industry adapts to innovations the fastest?",
     "answer": "IT sector"
+  },
+  {
+    "question": "Which market analysis method is based on charts?",
+    "answer": "Technical"
   },
   {
     "question": "Which metric compares models based on accuracy?",
@@ -938,6 +974,10 @@
   {
     "question": "Which test is used to check for autocorrelation of residuals?",
     "answer": "Durbin-Watson test"
+  },
+  {
+    "question": "Which test is used to check for heteroscedasticity?",
+    "answer": "Breusch-Pagan test"
   },
   {
     "question": "Which test is used to check the homogeneity of variances?",
