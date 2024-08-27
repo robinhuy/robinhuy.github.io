@@ -168,6 +168,10 @@
     "answer": "Overcoming"
   },
   {
+    "question": "How do the Deathly Hallows symbolize the struggle against evil?",
+    "answer": "Test of character"
+  },
+  {
     "question": "How does knowledge of ancient artifacts affect mages?",
     "answer": "Reveals secrets"
   },
@@ -222,6 +226,10 @@
   {
     "question": "How many directors worked on the Harry Potter films?",
     "answer": "four"
+  },
+  {
+    "question": "How many studios were involved in the creation of all the Harry Potter films?",
+    "answer": "Three"
   },
   {
     "question": "How many years did it take J.K. Rowling to write 'The Philosopher's Stone'?",
@@ -356,6 +364,10 @@
     "answer": "Qualities"
   },
   {
+    "question": "What are the house symbols depicted on the school's crest?",
+    "answer": "Lion, Eagle, Badger, Snake"
+  },
+  {
     "question": "What are the main challenges faced by the Order in their struggle?",
     "answer": "Deadly threats"
   },
@@ -390,6 +402,10 @@
   {
     "question": "What artifact do the winners of the championship receive?",
     "answer": "Trophy"
+  },
+  {
+    "question": "What artifact is needed to enhance the potion of truth?",
+    "answer": "Crystal of Truth"
   },
   {
     "question": "What artifact opens secret doors?",
@@ -462,6 +478,10 @@
   {
     "question": "What cloak can make you invisible?",
     "answer": "Invisibility cloak"
+  },
+  {
+    "question": "What color is associated with the Weasley family in the magical world?",
+    "answer": "Red"
   },
   {
     "question": "What color were Voldemort's eyes after his transformation?",
@@ -548,12 +568,24 @@
     "answer": "Banshee"
   },
   {
+    "question": "What creature resides in the Forbidden Forest and is friends with unicorns?",
+    "answer": "Centaur"
+  },
+  {
     "question": "What creature serves as the guardian of underwater secrets?",
     "answer": "Merfolk"
   },
   {
     "question": "What creature was in the arsenal of the Order of the Phoenix?",
     "answer": "Fawkes"
+  },
+  {
+    "question": "What creature works at Gringotts Bank?",
+    "answer": "Goblin"
+  },
+  {
+    "question": "What creatures can appear when using a map that shows everyone in the castle?",
+    "answer": "Ghosts"
   },
   {
     "question": "What creatures inhabit the dragon sanctuary in Romania?",
@@ -804,6 +836,10 @@
     "answer": "Holy water"
   },
   {
+    "question": "What ingredient is added to a potion that allows you to talk to animals?",
+    "answer": "Chameleon's tongue"
+  },
+  {
     "question": "What ingredient is added to a potion that creates illusions?",
     "answer": "Fairy dust"
   },
@@ -888,6 +924,10 @@
     "answer": "Essence of Oak"
   },
   {
+    "question": "What ingredient is used for a potion that increases physical strength?",
+    "answer": "Troll bones"
+  },
+  {
     "question": "What ingredient is used for a potion that reveals hidden gates?",
     "answer": "Key-grass"
   },
@@ -902,6 +942,10 @@
   {
     "question": "What internal conflicts do the Deathly Hallows cause?",
     "answer": "Moral dilemmas"
+  },
+  {
+    "question": "What is Voldemort's real name?",
+    "answer": "Tom Riddle"
   },
   {
     "question": "What is a characteristic family trait that manifests in the children of the Weasley family?",
@@ -940,6 +984,10 @@
     "answer": "True understanding of death"
   },
   {
+    "question": "What is the connection between the Deathly Hallows and human desires?",
+    "answer": "Desire for control"
+  },
+  {
     "question": "What is the danger of the Deathly Hallows?",
     "answer": "Attract misfortune"
   },
@@ -954,6 +1002,10 @@
   {
     "question": "What is the key character trait that unites all members of the Malfoy family?",
     "answer": "Ambition"
+  },
+  {
+    "question": "What is the key principle underlying Voldemort's philosophy?",
+    "answer": "Blood purity"
   },
   {
     "question": "What is the magic called that is associated with dark forces and forbidden spells?",
@@ -1006,6 +1058,10 @@
   {
     "question": "What is the name of the hippogriff that Harry Potter saved?",
     "answer": "Buckbeak"
+  },
+  {
+    "question": "What is the name of the house-elf in the Malfoy household?",
+    "answer": "Dobby"
   },
   {
     "question": "What is the name of the organization that protects the rights of Muggles?",
@@ -1074,6 +1130,10 @@
   {
     "question": "What is the significance of support from allies outside the United Kingdom for the Order?",
     "answer": "Key strategic role"
+  },
+  {
+    "question": "What is the significance of the Deathly Hallows in understanding power?",
+    "answer": "Might"
   },
   {
     "question": "What is the significance of the first Battle of Hogwarts?",
@@ -1290,6 +1350,10 @@
   {
     "question": "What magical item controls light and darkness?",
     "answer": "Orb of Light"
+  },
+  {
+    "question": "What magical item did Fred and George Weasley use for pranks at school?",
+    "answer": "Joke sweets"
   },
   {
     "question": "What magical item did the Weasleys use to detect enemies?",
@@ -1736,8 +1800,16 @@
     "answer": "Protection Amulet"
   },
   {
+    "question": "What rare maneuver is taught only at the School of Old Wizards?",
+    "answer": "Dancing Whirlwind"
+  },
+  {
     "question": "What risk is associated with possessing magical artifacts containing a part of the soul?",
     "answer": "Loss of humanity"
+  },
+  {
+    "question": "What role did Arthur Weasley play in the fight against the Death Eaters?",
+    "answer": "Working in the Order of the Phoenix"
   },
   {
     "question": "What role did Dominic Decourt play in the Order?",
@@ -1920,6 +1992,10 @@
     "answer": "Frangoso"
   },
   {
+    "question": "What spell can speed up the flight of a magic broom?",
+    "answer": "Turbo"
+  },
+  {
     "question": "What spell can temporarily blind an opponent in Quidditch?",
     "answer": "Blinding Ray"
   },
@@ -1962,6 +2038,10 @@
   {
     "question": "What spell did Voldemort use to control the will of others?",
     "answer": "Imperius"
+  },
+  {
+    "question": "What spell did Voldemort use to create his Horcruxes?",
+    "answer": "Avada Kedavra"
   },
   {
     "question": "What spell do mages use for temporarily increasing agility in the arena?",
@@ -2204,6 +2284,10 @@
     "answer": "Portus"
   },
   {
+    "question": "What spell was used to win the battle?",
+    "answer": "Patronus"
+  },
+  {
     "question": "What spells did the Malfoy family use to protect their manor?",
     "answer": "Powerful"
   },
@@ -2306,6 +2390,10 @@
   {
     "question": "What tactic did Narcissa Malfoy choose during the final battle of Hogwarts?",
     "answer": "Protecting her family"
+  },
+  {
+    "question": "What tactic did Voldemort use to control the magical world?",
+    "answer": "Intimidation"
   },
   {
     "question": "What tactic did the Malfoys use to maintain their influence in society after Voldemort's fall?",
@@ -2696,6 +2784,10 @@
     "answer": "Daniel Radcliffe"
   },
   {
+    "question": "Which actor played the role of Severus Snape?",
+    "answer": "Alan Rickman"
+  },
+  {
     "question": "Which actor was originally cast as Sirius Black but was replaced?",
     "answer": "Tim Roth"
   },
@@ -2764,6 +2856,10 @@
     "answer": "Marauder's Map"
   },
   {
+    "question": "Which artifact allows you to see the past?",
+    "answer": "Pensieve"
+  },
+  {
     "question": "Which artifact allows you to store and view other people's memories?",
     "answer": "Pensieve"
   },
@@ -2818,6 +2914,10 @@
   {
     "question": "Which artifact enhances dark magic?",
     "answer": "Elder Wand"
+  },
+  {
+    "question": "Which artifact enhances defensive spells?",
+    "answer": "Shield of Protection"
   },
   {
     "question": "Which artifact enhances magical power?",
@@ -2980,6 +3080,10 @@
     "answer": "Proteus"
   },
   {
+    "question": "Which artifact was used to enhance protection?",
+    "answer": "Hufflepuff's Cup"
+  },
+  {
     "question": "Which artifact was used to predict events?",
     "answer": "Oracle"
   },
@@ -3080,6 +3184,10 @@
     "answer": "Hepzibah Smith"
   },
   {
+    "question": "Which character owned the Horcrux in the form of a diary?",
+    "answer": "Tom Riddle"
+  },
+  {
     "question": "Which character sought immortality through alchemy?",
     "answer": "Nicolas Flamel"
   },
@@ -3090,6 +3198,10 @@
   {
     "question": "Which character wanted to possess all three artifacts?",
     "answer": "Voldemort"
+  },
+  {
+    "question": "Which characteristic is most associated with the Malfoy family's ethnic identity?",
+    "answer": "Pure-blood status"
   },
   {
     "question": "Which coach led the British team to victory in the 1954 Quidditch World Cup?",
@@ -3146,6 +3258,10 @@
   {
     "question": "Which creature can manipulate time?",
     "answer": "Time Guardian"
+  },
+  {
+    "question": "Which creature governs sleep and dreams?",
+    "answer": "Morpheus"
   },
   {
     "question": "Which creature has the ability to neutralize magical anomalies?",
@@ -3312,6 +3428,10 @@
     "answer": "Forbidden Forest"
   },
   {
+    "question": "Which founder created the house known for its loyalty and hard work?",
+    "answer": "Helga"
+  },
+  {
     "question": "Which founder is known for their love of scholars?",
     "answer": "Rowena Ravenclaw"
   },
@@ -3458,6 +3578,10 @@
   {
     "question": "Which institution is engaged in the study of mystical phenomena?",
     "answer": "Center of Enigmas"
+  },
+  {
+    "question": "Which institution is known for its Muggle artifacts?",
+    "answer": "Muggle Museum"
   },
   {
     "question": "Which institution offers training in ancient spells?",
@@ -3868,6 +3992,10 @@
     "answer": "Remus Lupin"
   },
   {
+    "question": "Which professor was known as a specialist in ancient runes?",
+    "answer": "Bathilda Bagshot"
+  },
+  {
     "question": "Which professor was known for being a defender of students and had extensive knowledge in magic?",
     "answer": "Remus Lupin"
   },
@@ -3918,6 +4046,10 @@
   {
     "question": "Which scene was added to the movie due to fan popularity?",
     "answer": "The Yule Ball at Hogwarts"
+  },
+  {
+    "question": "Which school was chosen for Tom Riddle's education?",
+    "answer": "Hogwarts"
   },
   {
     "question": "Which secret order is responsible for protecting ancient magical knowledge?",
@@ -4028,6 +4160,10 @@
     "answer": "Ancient Runes"
   },
   {
+    "question": "Which subject was taught by the professor known for their observations of stars?",
+    "answer": "Astronomy"
+  },
+  {
     "question": "Which teacher in 'Harry Potter' created unique potions and brews?",
     "answer": "Slughorn"
   },
@@ -4076,8 +4212,16 @@
     "answer": "Minerva McGonagall"
   },
   {
+    "question": "Which team used the 'Viper' tactic in the 1974 FIFA World Cup?",
+    "answer": "Netherlands"
+  },
+  {
     "question": "Which team used the famous 'Bat' strategy in magical sports?",
     "answer": "Falmouth Falcons"
+  },
+  {
+    "question": "Which team won the Quidditch World Cup in 1994?",
+    "answer": "Ireland"
   },
   {
     "question": "Which tournament is held exclusively for young wizards?",
@@ -4366,6 +4510,10 @@
   {
     "question": "Who was the composer for the first three films of the series?",
     "answer": "John Williams"
+  },
+  {
+    "question": "Who was the first Weasley child to be sorted into Gryffindor?",
+    "answer": "Bill Weasley"
   },
   {
     "question": "Who was the first headmaster of Hogwarts?",

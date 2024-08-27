@@ -8957,6 +8957,10 @@
         "answer": "Live bait"
     },
     {
+        "question": "What do underwater hunters use a knife for?",
+        "answer": "Safety"
+    },
+    {
         "question": "What do you need to hunt a stingray?",
         "answer": "Harpoon"
     },
@@ -9357,6 +9361,10 @@
         "answer": "11 years"
     },
     {
+        "question": "What is the main goal of an angler when fly fishing?",
+        "answer": "Fishing"
+    },
+    {
         "question": "What is the mapping of the underwater landscape called?",
         "answer": "Bathymetry"
     },
@@ -9485,6 +9493,10 @@
         "answer": "Jigging Rap"
     },
     {
+        "question": "What is used to catch fish at depth without bait?",
+        "answer": "Sonar"
+    },
+    {
         "question": "What is used to imitate the movement of an insect on the water?",
         "answer": "Fly"
     },
@@ -9511,6 +9523,10 @@
     {
         "question": "What knot is used to connect a fishing line with a braided line?",
         "answer": "FG knot"
+    },
+    {
+        "question": "What knowledge is helpful in spearfishing?",
+        "answer": "Fish behavior"
     },
     {
         "question": "What knowledge is necessary for successful spearfishing?",
@@ -9747,6 +9763,10 @@
     {
         "question": "What type of clothing is best to avoid when fishing?",
         "answer": "Woolen"
+    },
+    {
+        "question": "What type of fish can change its gender?",
+        "answer": "Clownfish"
     },
     {
         "question": "What type of fish is commonly used as bait for trophy catfish?",
@@ -13273,6 +13293,14 @@
         "answer": "Shift of zones"
     },
     {
+        "question": "How did the Great Geographical Discoveries affect the demographics of America?",
+        "answer": "Colonization"
+    },
+    {
+        "question": "How did the Great Migration of Peoples change the political map of Europe?",
+        "answer": "The fall of the Roman Empire"
+    },
+    {
         "question": "How did the development of trade in the Middle Ages affect migrations?",
         "answer": "Increase in exchange"
     },
@@ -13291,6 +13319,10 @@
     {
         "question": "How do biotic interactions affect the distribution of flora?",
         "answer": "Competition"
+    },
+    {
+        "question": "How do bird migration routes adapt to climate change?",
+        "answer": "Route shifts"
     },
     {
         "question": "How do changes in the Arctic affect global climate systems?",
@@ -13327,6 +13359,10 @@
     {
         "question": "How do consumer preferences affect the production of vegetable oils?",
         "answer": "Increase in demand"
+    },
+    {
+        "question": "How do demographic changes affect infrastructure?",
+        "answer": "Transport load"
     },
     {
         "question": "How do demographic changes affect the labor market?",
@@ -13445,6 +13481,10 @@
         "answer": "Move apart"
     },
     {
+        "question": "How do the physical properties of rocks change during metamorphism?",
+        "answer": "The properties change"
+    },
+    {
         "question": "How do volcanoes affect the ocean biosphere?",
         "answer": "Formation of islands"
     },
@@ -13485,6 +13525,10 @@
         "answer": "Changes the temperature"
     },
     {
+        "question": "How does altitude affect the tundra biome?",
+        "answer": "Decrease in temperature"
+    },
+    {
         "question": "How does atmospheric circulation affect the distribution of climate zones?",
         "answer": "Forms fronts"
     },
@@ -13519,6 +13563,10 @@
     {
         "question": "How does climate change affect the range of vineyards?",
         "answer": "Shift to the north"
+    },
+    {
+        "question": "How does climate change affect the seasonal dynamics of precipitation?",
+        "answer": "Changes the cycle"
     },
     {
         "question": "How does demography affect the political system?",
@@ -13627,6 +13675,10 @@
     {
         "question": "How does the change in solar radiation affect global climate processes?",
         "answer": "Thermal balance"
+    },
+    {
+        "question": "How does the chemical composition of magma change during its fractionation?",
+        "answer": "Enrichment with silica"
     },
     {
         "question": "How does the chemical composition of the oceans change during active volcanic activity?",
@@ -13788,6 +13840,10 @@
         "answer": "Nepal"
     },
     {
+        "question": "In which capital city is the famous castle on the water located, which is one of the most popular tourist attractions in the world?",
+        "answer": "Paris"
+    },
+    {
         "question": "In which city is the largest medical center by number of doctors located?",
         "answer": "Cleveland"
     },
@@ -13814,6 +13870,10 @@
     {
         "question": "In which country is the Con Son Special Economic Zone located?",
         "answer": "Vietnam"
+    },
+    {
+        "question": "In which country is the Rufiji River known as the 'river of the delta'?",
+        "answer": "Tanzania"
     },
     {
         "question": "In which country is the city of Dalian with its economic zone located?",
@@ -13856,6 +13916,10 @@
         "answer": "East Asia"
     },
     {
+        "question": "In which part of the world is a time zone with a 45-minute offset used?",
+        "answer": "Nepal"
+    },
+    {
         "question": "In which region is the UTC+8:45 time zone used?",
         "answer": "Southern Australia"
     },
@@ -13876,12 +13940,20 @@
         "answer": "Bandar Seri Begawan"
     },
     {
+        "question": "Name the capital of the country known for its highland meadows and the Yellow River.",
+        "answer": "Beijing"
+    },
+    {
         "question": "Name the capital of the country known for its pyramids.",
         "answer": "Cairo"
     },
     {
         "question": "Name the city that is a scientific center in the Netherlands.",
         "answer": "Leiden"
+    },
+    {
+        "question": "Name the river in South America that crosses the equator twice.",
+        "answer": "Amazon"
     },
     {
         "question": "On which continent is Mount Pokaldul located?",
@@ -13914,6 +13986,10 @@
     {
         "question": "On which river is the Grand Coulee Dam located?",
         "answer": "Columbia"
+    },
+    {
+        "question": "On which river is the capital of Argentina located?",
+        "answer": "La Plata"
     },
     {
         "question": "The currency of which country is associated with the history of ancient traders?",
@@ -13950,6 +14026,10 @@
     {
         "question": "What adaptations allow plants to survive in deserts?",
         "answer": "Deep roots"
+    },
+    {
+        "question": "What adaptations allow plants to survive in low temperatures?",
+        "answer": "Antifreeze proteins"
     },
     {
         "question": "What adaptations allow survival in the desert?",
@@ -13994,6 +14074,10 @@
     {
         "question": "What are the consequences of desert expansion observed on the planet?",
         "answer": "Droughts"
+    },
+    {
+        "question": "What are the consequences of desertification due to anthropogenic and natural factors?",
+        "answer": "Soil degradation"
     },
     {
         "question": "What are the consequences of globalization for national economies?",
@@ -14052,6 +14136,14 @@
     {
         "question": "What are the main differences between Arctic landscapes and other zones?",
         "answer": "Precipitation transfer"
+    },
+    {
+        "question": "What are the main factors affecting food security in developing countries?",
+        "answer": "Economic"
+    },
+    {
+        "question": "What are the mixtures of rocks in the desert called?",
+        "answer": "Reg"
     },
     {
         "question": "What are the potential consequences of global economic crises?",
@@ -14152,6 +14244,10 @@
     {
         "question": "What causes the formation of hypoxic zones in large bodies of water?",
         "answer": "Eutrophication"
+    },
+    {
+        "question": "What challenges do cities face in ensuring sustainable transportation?",
+        "answer": "Reducing emissions"
     },
     {
         "question": "What challenges do countries face in the context of cultural globalization?",
@@ -14449,6 +14545,10 @@
         "answer": "Climate"
     },
     {
+        "question": "What factor affects the length of a lava flow?",
+        "answer": "Viscosity of magma"
+    },
+    {
         "question": "What factor causes volcanism at tectonic plate boundaries?",
         "answer": "Subduction"
     },
@@ -14605,6 +14705,14 @@
         "answer": "Availability of water"
     },
     {
+        "question": "What factors determine the shape of a volcano?",
+        "answer": "Type of eruption"
+    },
+    {
+        "question": "What factors determine the speed of a volcanic eruption?",
+        "answer": "Viscosity of magma"
+    },
+    {
         "question": "What factors determine the success of socio-economic zones?",
         "answer": "Infrastructure"
     },
@@ -14619,6 +14727,10 @@
     {
         "question": "What factors influence changes in Arctic species populations?",
         "answer": "Climate change"
+    },
+    {
+        "question": "What factors influence changes in coastlines?",
+        "answer": "Erosion and sedimentation"
     },
     {
         "question": "What factors influence the boundaries of Arctic zones?",
@@ -14685,6 +14797,10 @@
         "answer": "Different temperatures"
     },
     {
+        "question": "What factors influence the global distribution of precipitation?",
+        "answer": "Air circulation"
+    },
+    {
         "question": "What factors influence the global price of cocoa?",
         "answer": "Supply and demand"
     },
@@ -14699,6 +14815,10 @@
     {
         "question": "What factors influenced the change in ancient climate conditions?",
         "answer": "Plate tectonics"
+    },
+    {
+        "question": "What factors lead to changes in the boundaries of natural zones?",
+        "answer": "Climate changes"
     },
     {
         "question": "What factors most significantly influence the socio-economic zones in India?",
@@ -14765,6 +14885,10 @@
         "answer": "Plate tectonics"
     },
     {
+        "question": "What geological feature is commonly found in subduction zones?",
+        "answer": "Oceanic trenches"
+    },
+    {
         "question": "What geological formation is associated with the interaction of lithospheric plates under the oceans?",
         "answer": "Mid-ocean ridge"
     },
@@ -14777,12 +14901,20 @@
         "answer": "Earthquake"
     },
     {
+        "question": "What geological processes contribute to the formation of temporary lakes in desert landscapes?",
+        "answer": "Aeolian deposits"
+    },
+    {
         "question": "What geological processes contribute to the formation of temporary water streams in deserts?",
         "answer": "Flash floods"
     },
     {
         "question": "What geological processes determine the formation of mud volcanoes on continental margins?",
         "answer": "Diapirism"
+    },
+    {
+        "question": "What geological processes determine the transformation of granitoids into gneisses?",
+        "answer": "Metamorphism"
     },
     {
         "question": "What geological processes form oil and gas deposits?",
@@ -14817,6 +14949,10 @@
         "answer": "Heat redistribution"
     },
     {
+        "question": "What impact did continental drift have on the formation of modern oceans?",
+        "answer": "Expansion of oceans"
+    },
+    {
         "question": "What impact did cultural exchanges have on migrations in North America in the 20th century?",
         "answer": "Positive"
     },
@@ -14839,6 +14975,10 @@
     {
         "question": "What impact do migration processes have on the genetic diversity of species?",
         "answer": "Gene flow"
+    },
+    {
+        "question": "What impact do mountain barriers have on the distribution of species?",
+        "answer": "Isolation"
     },
     {
         "question": "What impact do mountain ranges have on the distribution of agricultural land?",
@@ -14997,6 +15137,10 @@
         "answer": "Gaborone"
     },
     {
+        "question": "What is the capital of Djibouti?",
+        "answer": "Djibouti"
+    },
+    {
         "question": "What is the capital of Easter Island?",
         "answer": "Hanga Roa"
     },
@@ -15031,6 +15175,10 @@
     {
         "question": "What is the capital of Togo?",
         "answer": "Lomé"
+    },
+    {
+        "question": "What is the capital of Yemen?",
+        "answer": "Sana'a"
     },
     {
         "question": "What is the capital of Zimbabwe?",
@@ -15177,6 +15325,10 @@
         "answer": "Athabasca"
     },
     {
+        "question": "What is the name of the river in Iceland known for its glacial lagoons and waterfalls?",
+        "answer": "Jökulsá"
+    },
+    {
         "question": "What is the name of the river that flows through the most populous city in China?",
         "answer": "Yangtze"
     },
@@ -15219,6 +15371,10 @@
     {
         "question": "What is the rarest form of volcanic cone?",
         "answer": "Folded"
+    },
+    {
+        "question": "What is the role of biotic factors in forming the structure and properties of the soil cover?",
+        "answer": "Form the structure"
     },
     {
         "question": "What is the role of capillary forces in soil hydrology?",
@@ -15321,6 +15477,10 @@
         "answer": "Troughs"
     },
     {
+        "question": "What landforms indicate the existence of ancient glaciers?",
+        "answer": "drumlins"
+    },
+    {
         "question": "What major transportation project connects Brazil and Peru, passing through the Amazon?",
         "answer": "Trans-Amazonian Corridor"
     },
@@ -15359,6 +15519,10 @@
     {
         "question": "What mechanism regulates the water balance in wetland ecosystems?",
         "answer": "Evaporation and precipitation"
+    },
+    {
+        "question": "What mechanisms alter the movement of atmospheric currents in the Arctic?",
+        "answer": "Polar vortex"
     },
     {
         "question": "What mechanisms alter the structure of atmospheric flows?",
@@ -15411,6 +15575,10 @@
     {
         "question": "What method is used to determine the accuracy of point positions on maps considering distortions?",
         "answer": "Geodetic referencing"
+    },
+    {
+        "question": "What method is used to preserve soil fertility in arid zones?",
+        "answer": "Terracing"
     },
     {
         "question": "What method is used to study the dynamics of tectonic plates?",
@@ -15489,6 +15657,10 @@
         "answer": "El Niño"
     },
     {
+        "question": "What natural disaster can be caused by a rapid rise in river water levels as a result of heavy rains or snowmelt?",
+        "answer": "Flood"
+    },
+    {
         "question": "What natural disaster can be caused by a sharp increase in ocean temperature?",
         "answer": "Tsunami"
     },
@@ -15561,6 +15733,10 @@
         "answer": "Fluctuations in water levels"
     },
     {
+        "question": "What natural phenomenon can result from the intense melting of glaciers?",
+        "answer": "Flooding"
+    },
+    {
         "question": "What natural phenomenon in the oceans is the result of the interaction of sunlight and specific physical properties of water, affecting the color and transparency of the ocean?",
         "answer": "Fluorescence"
     },
@@ -15585,12 +15761,20 @@
         "answer": "Tectonic shifts"
     },
     {
+        "question": "What natural process influences the formation of loess plateaus?",
+        "answer": "Wind"
+    },
+    {
         "question": "What natural process leads to the formation of new ice in polar regions?",
         "answer": "freezing of the ocean"
     },
     {
         "question": "What natural process leads to the increase in ocean acidity?",
         "answer": "Absorption of CO2"
+    },
+    {
+        "question": "What natural processes shape savannas?",
+        "answer": "Fires"
     },
     {
         "question": "What natural resources are commonly found in deserts?",
@@ -15603,6 +15787,10 @@
     {
         "question": "What parameters are considered when creating a conic projection?",
         "answer": "Longitude and latitude"
+    },
+    {
+        "question": "What parameters determine the economic feasibility of copper deposit development?",
+        "answer": "Metal content"
     },
     {
         "question": "What percentage of the world's population lives in cities in 2023?",
@@ -15619,6 +15807,10 @@
     {
         "question": "What phenomenon allows international organizations to regulate global processes?",
         "answer": "Global governance"
+    },
+    {
+        "question": "What phenomenon can cause a change in the ocean floor's topography?",
+        "answer": "Underwater earthquake"
     },
     {
         "question": "What phenomenon can cause sea level changes due to tectonic activity?",
@@ -15639,6 +15831,10 @@
     {
         "question": "What phenomenon can exacerbate flooding in coastal areas?",
         "answer": "Storm surges"
+    },
+    {
+        "question": "What phenomenon can lead to large-scale oil spills in the oceans?",
+        "answer": "Storms"
     },
     {
         "question": "What phenomenon can lead to mass death of marine life due to temperature changes?",
@@ -15845,6 +16041,14 @@
         "answer": "Lava flow"
     },
     {
+        "question": "What process contributes to the formation of a salt crust?",
+        "answer": "Evaporation"
+    },
+    {
+        "question": "What process contributes to the formation of linear bars in coastal regions?",
+        "answer": "Longshore drift"
+    },
+    {
         "question": "What process contributes to the formation of unique species in the Aral Sea?",
         "answer": "Isolation"
     },
@@ -15867,6 +16071,10 @@
     {
         "question": "What process determines the direction of groundwater movement?",
         "answer": "Gradient"
+    },
+    {
+        "question": "What process determines the formation of cracks in granites?",
+        "answer": "Differential pressure"
     },
     {
         "question": "What process determines the formation of the hypergenesis zone on the Earth's surface?",
@@ -16013,6 +16221,10 @@
         "answer": "Alluvial deposition"
     },
     {
+        "question": "What process leads to the formation of skarns?",
+        "answer": "Metasomatism"
+    },
+    {
         "question": "What process leads to the formation of soil texture?",
         "answer": "Weathering"
     },
@@ -16105,6 +16317,14 @@
         "answer": "Convective currents"
     },
     {
+        "question": "What processes contribute to the formation of deserts?",
+        "answer": "Low precipitation"
+    },
+    {
+        "question": "What processes contribute to the formation of magmatic complexes?",
+        "answer": "Crystallization of magma"
+    },
+    {
         "question": "What processes contribute to the formation of sand dunes?",
         "answer": "Erosion"
     },
@@ -16131,6 +16351,10 @@
     {
         "question": "What processes dominate the formation of rift valleys?",
         "answer": "tectonic movements"
+    },
+    {
+        "question": "What processes form monsoon climate zones?",
+        "answer": "Seasonal winds"
     },
     {
         "question": "What processes form the soil's ability to retain moisture?",
@@ -16201,6 +16425,10 @@
         "answer": "Wind systems"
     },
     {
+        "question": "What processes stimulate international cooperation in science?",
+        "answer": "Collaborative research"
+    },
+    {
         "question": "What processes transform temporary rivers into permanent ones in desert conditions?",
         "answer": "Underground aquifers"
     },
@@ -16215,6 +16443,10 @@
     {
         "question": "What religious factors contributed to migrations in the Middle Ages?",
         "answer": "Crusades"
+    },
+    {
+        "question": "What river is the main tributary of the Missouri River?",
+        "answer": "Yellowstone"
     },
     {
         "question": "What role did ancient oceans play in the distribution of heat on Earth?",
@@ -16297,6 +16529,10 @@
         "answer": "Regulate climate"
     },
     {
+        "question": "What role do polar ice caps play in Earth's ecosystems?",
+        "answer": "Reflecting sunlight"
+    },
+    {
         "question": "What role do polar zones play in the global water cycle?",
         "answer": "Source of fresh water"
     },
@@ -16343,6 +16579,10 @@
     {
         "question": "What soil property is determined by the presence of trivalent iron?",
         "answer": "Color"
+    },
+    {
+        "question": "What specific features of flora are characteristic of tropical rainforests?",
+        "answer": "Lianas"
     },
     {
         "question": "What strategic challenges does urbanization create?",
@@ -16509,6 +16749,10 @@
         "answer": "Foreign"
     },
     {
+        "question": "What type of land is typically formed in drainage areas with a high concentration of sodium?",
+        "answer": "Solonchaks"
+    },
+    {
         "question": "What type of plants is common in conditions of extreme water scarcity?",
         "answer": "Cacti"
     },
@@ -16523,6 +16767,10 @@
     {
         "question": "What type of plate interaction causes the formation of volcanoes?",
         "answer": "Subduction"
+    },
+    {
+        "question": "What type of plate interaction leads to the formation of volcanic arcs?",
+        "answer": "Converging plates"
     },
     {
         "question": "What type of plate interaction leads to the formation of volcanic island arcs?",
@@ -16625,6 +16873,10 @@
         "answer": "Mesozoic"
     },
     {
+        "question": "When did the movement of continents that formed the modern Earth begin?",
+        "answer": "100 million years ago"
+    },
+    {
         "question": "Where does it snow more often?",
         "answer": "Tundra"
     },
@@ -16673,6 +16925,10 @@
         "answer": "Taiwan"
     },
     {
+        "question": "Where is the largest underwater river located?",
+        "answer": "Black Sea"
+    },
+    {
         "question": "Where is the largest wheat market in the world located?",
         "answer": "Chicago"
     },
@@ -16701,12 +16957,20 @@
         "answer": "Singapore"
     },
     {
+        "question": "Which Asian country has the fastest growing urbanization?",
+        "answer": "China"
+    },
+    {
         "question": "Which Asian port is the largest for oil imports?",
         "answer": "Singapore"
     },
     {
         "question": "Which Asian river has one of the longest deltas in the world but starts on a plateau?",
         "answer": "Brahmaputra"
+    },
+    {
+        "question": "Which Caribbean country uses a dollar whose name is linked to the cultural heritage of the region?",
+        "answer": "Belize"
     },
     {
         "question": "Which Central American country uses a unique currency linked to an ancient trade route?",
@@ -16945,6 +17209,10 @@
         "answer": "Chicago"
     },
     {
+        "question": "Which city in North America is known as an innovation hub for renewable energy research?",
+        "answer": "San Francisco"
+    },
+    {
         "question": "Which city in North America is known for its innovations in sustainable architecture?",
         "answer": "Vancouver"
     },
@@ -16970,6 +17238,10 @@
     {
         "question": "Which city in the USA switches to the UTC-5 time zone in the summer?",
         "answer": "Chicago"
+    },
+    {
+        "question": "Which city in the world is the largest financial center by currency turnover?",
+        "answer": "London"
     },
     {
         "question": "Which city in the world leads in hosting the most international exhibitions?",
@@ -17080,6 +17352,10 @@
         "answer": "Nigeria"
     },
     {
+        "question": "Which country in Africa uses a currency whose name is associated with ancient trading empires?",
+        "answer": "Ghana"
+    },
+    {
         "question": "Which country in Asia leads in optical fiber production?",
         "answer": "China"
     },
@@ -17108,6 +17384,10 @@
         "answer": "Japan"
     },
     {
+        "question": "Which country is the leading exporter of wine in the Southern Hemisphere?",
+        "answer": "Chile"
+    },
+    {
         "question": "Which country leads in geothermal energy production?",
         "answer": "Iceland"
     },
@@ -17126,6 +17406,10 @@
     {
         "question": "Which country uses a 45-minute time offset in several parts?",
         "answer": "Nepal"
+    },
+    {
+        "question": "Which country uses a currency with a name related to an ancient Slavic word meaning 'trade'?",
+        "answer": "Poland"
     },
     {
         "question": "Which country uses the UTC+8:45 time zone?",
@@ -17158,6 +17442,10 @@
     {
         "question": "Which desert does the Tropic of Cancer cross?",
         "answer": "Sahara"
+    },
+    {
+        "question": "Which desert is called the 'White Desert'?",
+        "answer": "White Desert in Egypt"
     },
     {
         "question": "Which desert is known as 'Erg Chebbi'?",
@@ -17220,6 +17508,10 @@
         "answer": "James Cook"
     },
     {
+        "question": "Which explorer was the first to cross the Sahara Desert on a camel?",
+        "answer": "Alexandre Lagrange"
+    },
+    {
         "question": "Which explorer was the first to reach South Georgia Island?",
         "answer": "James Cook"
     },
@@ -17260,6 +17552,10 @@
         "answer": "Polar day"
     },
     {
+        "question": "Which farming method reduces environmental impact in arid zones?",
+        "answer": "Drip irrigation"
+    },
+    {
         "question": "Which geographical location provides the greatest control over transatlantic routes?",
         "answer": "Atlantic Ocean"
     },
@@ -17292,6 +17588,10 @@
         "answer": "Vertical farming"
     },
     {
+        "question": "Which innovations are most significant for reducing the carbon footprint in agriculture?",
+        "answer": "Agroecology"
+    },
+    {
         "question": "Which instrument first allowed for the accurate determination of longitude at sea?",
         "answer": "Marine chronometer"
     },
@@ -17310,6 +17610,10 @@
     {
         "question": "Which island is the largest in the Arctic region?",
         "answer": "Greenland"
+    },
+    {
+        "question": "Which island region of Russia is located in the Arctic?",
+        "answer": "Svalbard"
     },
     {
         "question": "Which island uses UTC+12:45 during the summer?",
@@ -17338,6 +17642,10 @@
     {
         "question": "Which lake in South America is known for its reed boats?",
         "answer": "Titicaca"
+    },
+    {
+        "question": "Which lake in the world is famous for having natural hot springs?",
+        "answer": "Rotorua"
     },
     {
         "question": "Which lake is famous for having the highest tide among freshwater lakes?",
@@ -17376,6 +17684,10 @@
         "answer": "Dynamic adaptation"
     },
     {
+        "question": "Which method allows for precise determination of coordinates considering distortions?",
+        "answer": "Triangulation"
+    },
+    {
         "question": "Which method allows the reconstruction of past sea level changes?",
         "answer": "Stratigraphic analysis"
     },
@@ -17398,6 +17710,10 @@
     {
         "question": "Which mountain peak in the Karakoram shares its name with a famous river?",
         "answer": "Indus"
+    },
+    {
+        "question": "Which mountain peak is known among climbers as 'The Mountain of Madness'?",
+        "answer": "K2"
     },
     {
         "question": "Which national park is known for its unique system of high-altitude lakes and glacial valleys located at an elevation of over 5000 meters?",
@@ -17484,6 +17800,10 @@
         "answer": "Arabian"
     },
     {
+        "question": "Which peninsula is considered the habitat of seals in Northern Europe?",
+        "answer": "Scandinavian"
+    },
+    {
         "question": "Which peninsula is home to unique species in South America?",
         "answer": "Patagonia"
     },
@@ -17508,8 +17828,20 @@
         "answer": "Iberian"
     },
     {
+        "question": "Which peninsula was the main region for studying ancient inhabitants of Eurasia?",
+        "answer": "Indian subcontinent"
+    },
+    {
+        "question": "Which peninsula was the main route for Alexander the Great's conquests?",
+        "answer": "Balkan"
+    },
+    {
         "question": "Which phenomenon can be intensified by changes in global atmospheric patterns and lead to significant destruction?",
         "answer": "Typhoon"
+    },
+    {
+        "question": "Which physical quantity directly affects the movement of tectonic plates?",
+        "answer": "Heat flow"
     },
     {
         "question": "Which plate collides with the African Plate?",
@@ -17660,12 +17992,20 @@
         "answer": "Afghanistan"
     },
     {
+        "question": "Which region was the first in the world to reach urbanization of more than 50%?",
+        "answer": "Europe"
+    },
+    {
         "question": "Which regions are most affected by water scarcity for agriculture?",
         "answer": "Middle East"
     },
     {
         "question": "Which ridge was formed as a result of mountain-building processes in the Arctic?",
         "answer": "Gakkel Ridge"
+    },
+    {
+        "question": "Which river changed its course due to an earthquake in 1811?",
+        "answer": "Mississippi"
     },
     {
         "question": "Which river crosses the most climate zones?",
@@ -17772,6 +18112,10 @@
         "answer": "Iron oxides"
     },
     {
+        "question": "Which substance plays a key role in soil formation in the tundra?",
+        "answer": "Humus"
+    },
+    {
         "question": "Which supercontinent existed before Pangaea?",
         "answer": "Rodinia"
     },
@@ -17784,8 +18128,16 @@
         "answer": "Internet of Things"
     },
     {
+        "question": "Which technology is most effectively used to increase crop yields in conditions of water scarcity?",
+        "answer": "drip irrigation"
+    },
+    {
         "question": "Which tectonic boundaries are characterized by plates moving in opposite directions?",
         "answer": "Transform boundaries"
+    },
+    {
+        "question": "Which tectonic plate is responsible for the formation of the Mariana Trench?",
+        "answer": "Philippine Plate"
     },
     {
         "question": "Which tectonic plate is responsible for the growth of the Himalayas?",
@@ -27840,6 +28192,10 @@
         "answer": "dream"
     },
     {
+        "question": "Complete the quote: 'Who knew I could be so...'",
+        "answer": "happy"
+    },
+    {
         "question": "Complete the quote: 'You either die a hero...'",
         "answer": "a hero"
     },
@@ -28100,6 +28456,10 @@
         "answer": "German Expressionism"
     },
     {
+        "question": "What Australian film is about a police investigation?",
+        "answer": "Coffee Break"
+    },
+    {
         "question": "What TV shows do the characters of the animated series 'Pinky and the Brain' watch?",
         "answer": "Window to the TV"
     },
@@ -28255,6 +28615,10 @@
         "answer": "Bone system"
     },
     {
+        "question": "What is 'matchmoving'?",
+        "answer": "Camera tracking"
+    },
+    {
         "question": "What is 'rigging' used for in animation?",
         "answer": "Setting up movements"
     },
@@ -28301,6 +28665,10 @@
     {
         "question": "What is matte painting?",
         "answer": "Background painting"
+    },
+    {
+        "question": "What is rendering?",
+        "answer": "Graphics processing"
     },
     {
         "question": "What is shading?",
@@ -28423,6 +28791,10 @@
         "answer": "A Space Odyssey"
     },
     {
+        "question": "What is the name of Thor's sister?",
+        "answer": "Hela"
+    },
+    {
         "question": "What is the name of Wong Kar-wai's film about love?",
         "answer": "In the Mood for Love"
     },
@@ -28469,6 +28841,10 @@
     {
         "question": "What is the name of the 2020 film about unsuccessful robbers?",
         "answer": "Totally Careless"
+    },
+    {
+        "question": "What is the name of the 2021 film starring Denzel Washington?",
+        "answer": "The Little Things"
     },
     {
         "question": "What is the name of the American adaptation of the French film 'Pierrot le Fou'?",
@@ -28747,6 +29123,10 @@
         "answer": "Bad Roads"
     },
     {
+        "question": "What is the name of the fictional disease in the TV series 'The Walking Dead'?",
+        "answer": "Walker Syndrome"
+    },
+    {
         "question": "What is the name of the film about Lawrence of Arabia?",
         "answer": "Lawrence of Arabia"
     },
@@ -28843,6 +29223,10 @@
         "answer": "Lapis"
     },
     {
+        "question": "What is the name of the grasshopper in 'A Bug's Life'?",
+        "answer": "Hopper"
+    },
+    {
         "question": "What is the name of the group of mutants in the series 'The X-Files'?",
         "answer": "The Islanders"
     },
@@ -28895,6 +29279,10 @@
         "answer": "Anung Un Rama"
     },
     {
+        "question": "What is the name of the magical mirror in 'The Snow Queen'?",
+        "answer": "Snow Mirror"
+    },
+    {
         "question": "What is the name of the main award at the San Sebastián International Film Festival?",
         "answer": "Golden Shell"
     },
@@ -28917,6 +29305,10 @@
     {
         "question": "What is the name of the main character in the animated series 'Guyver'?",
         "answer": "Sho Fukamachi"
+    },
+    {
+        "question": "What is the name of the main character in the animated series 'The Adventures of Mizmiks'?",
+        "answer": "Mix"
     },
     {
         "question": "What is the name of the main character in the movie \"Agent Cody Banks\"?",
@@ -29059,6 +29451,10 @@
         "answer": "Batman Returns"
     },
     {
+        "question": "What is the name of the series about pugs and their owners?",
+        "answer": "Freaks"
+    },
+    {
         "question": "What is the name of the series about the adventures of an orc knight?",
         "answer": "Orc Knight"
     },
@@ -29175,6 +29571,10 @@
         "answer": "Scanning"
     },
     {
+        "question": "What is the release year of the movie 'Terminator 2'?",
+        "answer": "1991"
+    },
+    {
         "question": "What is the runtime of the movie 'Thelma & Louise'?"
     },
     {
@@ -29253,6 +29653,10 @@
         "answer": "global illumination"
     },
     {
+        "question": "What is used to direct and control sound during filming?",
+        "answer": "Sound barriers"
+    },
+    {
         "question": "What is used to stabilize a camera?",
         "answer": "Steadicam"
     },
@@ -29321,6 +29725,10 @@
         "answer": "Ray casting"
     },
     {
+        "question": "What technique was used to create special effects in films before the advent of computers?",
+        "answer": "Optical tricks"
+    },
+    {
         "question": "What technique was used to create special effects in silent films?",
         "answer": "Double exposure"
     },
@@ -29353,6 +29761,10 @@
         "answer": "Piano music"
     },
     {
+        "question": "What was Charlie Chaplin's first comedy film?",
+        "answer": "Making a Living"
+    },
+    {
         "question": "What was the basis for French surrealism films?",
         "answer": "The subconscious"
     },
@@ -29371,6 +29783,10 @@
     {
         "question": "What was the first sound film?",
         "answer": "The Jazz Singer"
+    },
+    {
+        "question": "What was the main art subject in the movie 'The Da Vinci Code'?",
+        "answer": "The Holy Grail"
     },
     {
         "question": "What was the name of Aang's teacher?",
@@ -29405,6 +29821,10 @@
         "answer": "The Birth of a Nation"
     },
     {
+        "question": "What was the name of the first film to use special effects?",
+        "answer": "A Trip to the Moon"
+    },
+    {
         "question": "What was the name of the first film with subtitles?",
         "answer": "Intolerance"
     },
@@ -29427,6 +29847,10 @@
     {
         "question": "What was the title of Friedrich Murnau's first film?",
         "answer": "Satanas"
+    },
+    {
+        "question": "What was the title of Georges Méliès' first film?",
+        "answer": "Cinderella"
     },
     {
         "question": "What was the title of Hayao Miyazaki's first feature film?",
@@ -29528,6 +29952,10 @@
         "answer": "Francis Ford Coppola"
     },
     {
+        "question": "Which Andy Warhol film participated in a 1960s film festival?",
+        "answer": "Sleep"
+    },
+    {
         "question": "Which Antonioni film is known for its revolutionary artistic techniques?",
         "answer": "Zabriskie Point"
     },
@@ -29622,6 +30050,10 @@
     {
         "question": "Which Oscar category did John Williams win for the film 'Indiana Jones'?",
         "answer": "Best Original Score"
+    },
+    {
+        "question": "Which Patrick Ness novel adaptation tells the story of a girl with unusual abilities?",
+        "answer": "A Monster Calls"
     },
     {
         "question": "Which Pedro Almodóvar film won an Oscar in 2003?",
@@ -29732,6 +30164,10 @@
         "answer": "Peter and the Wolf"
     },
     {
+        "question": "Which animated film is considered the first short animated film?",
+        "answer": "Humorous Phases of Funny Faces"
+    },
+    {
         "question": "Which animated film tells about Norse mythology?",
         "answer": "Vikings of Valhalla"
     },
@@ -29822,6 +30258,10 @@
     {
         "question": "Which animation studio is known for the cartoon 'Zak Storm'?",
         "answer": "Zag"
+    },
+    {
+        "question": "Which animation studio released the film 'Akira'?",
+        "answer": "Tokyo Movie Shinsha"
     },
     {
         "question": "Which animation studio was acquired by the company?",
@@ -29971,6 +30411,10 @@
         "answer": "Guillermo del Toro"
     },
     {
+        "question": "Which director won the Palme d'Or at the Cannes Film Festival for the film 'Eyes Wide Shut'?",
+        "answer": "Stanley Kubrick"
+    },
+    {
         "question": "Which director won the Palme d'Or for the film 'A Clockwork Orange'?",
         "answer": "Stanley Kubrick"
     },
@@ -30013,6 +30457,10 @@
     {
         "question": "Which film became a cult classic in Nigeria?",
         "answer": "Only One Day"
+    },
+    {
+        "question": "Which film by Luca Guadagnino received worldwide recognition?",
+        "answer": "Call Me by Your Name"
     },
     {
         "question": "Which film by Peter Jackson is related to the events of World War I?",
@@ -30155,6 +30603,10 @@
         "answer": "Italian Neorealism"
     },
     {
+        "question": "Which film received the most Annie Awards for Best Animated Feature?",
+        "answer": "Toy Story"
+    },
+    {
         "question": "Which film style is characterized by the use of long takes and minimal editing?",
         "answer": "Dogme 95"
     },
@@ -30232,6 +30684,10 @@
     {
         "question": "Which film was directed by François Truffaut?",
         "answer": "Jules and Jim"
+    },
+    {
+        "question": "Which film was directed by Jean-Pierre Jeunet?",
+        "answer": "Amélie"
     },
     {
         "question": "Which film was directed by Quentin Tarantino?",
@@ -30576,6 +31032,10 @@
         "answer": "Terminator"
     },
     {
+        "question": "Which project was produced by Sergio Zaragoza?",
+        "answer": "Corridor of Immortality"
+    },
+    {
         "question": "Which school does Dziga Vertov's film represent?",
         "answer": "Vertov"
     },
@@ -30860,6 +31320,10 @@
         "answer": "Mark Thomas"
     },
     {
+        "question": "Who composed the music for the film 'Life is Beautiful'?",
+        "answer": "Nicola Piovani"
+    },
+    {
         "question": "Who composed the music for the film 'Sleep'?",
         "answer": "Michael Abels"
     },
@@ -30894,6 +31358,10 @@
     {
         "question": "Who composed the music for the film 'The Great Dictator'?",
         "answer": "Charlie Chaplin"
+    },
+    {
+        "question": "Who composed the music for the film 'The Hurt Locker'?",
+        "answer": "Marco Beltrami"
     },
     {
         "question": "Who composed the music for the film 'The Island' (2006)?",
@@ -30962,6 +31430,10 @@
     {
         "question": "Who created the 'bullet time' effect in 'The Matrix'?",
         "answer": "John Gaeta"
+    },
+    {
+        "question": "Who created the animated film 'WALL·E'?",
+        "answer": "Andrew Stanton"
     },
     {
         "question": "Who created the animated series \"Transformers\"?",
@@ -31112,6 +31584,10 @@
         "answer": "Kornél Mundruczó"
     },
     {
+        "question": "Who directed the animated film 'Naughty Days'?",
+        "answer": "Stanley Tong"
+    },
+    {
         "question": "Who directed the animated film 'Shrek 2'?",
         "answer": "Andrew Adamson"
     },
@@ -31130,6 +31606,10 @@
     {
         "question": "Who directed the animated film 'The Tale of Tsar Saltan'?",
         "answer": "Lev Milchin"
+    },
+    {
+        "question": "Who directed the anime 'Barefoot Gen'?",
+        "answer": "Masaki Moriama"
     },
     {
         "question": "Who directed the documentary film 'Barbarossa'?",
@@ -31224,6 +31704,10 @@
         "answer": "Errol Morris"
     },
     {
+        "question": "Who directed the film 'The Pianist'?",
+        "answer": "Roman Polanski"
+    },
+    {
         "question": "Who directed the film 'Tomorrow Never Dies'?",
         "answer": "Roger Spottiswoode"
     },
@@ -31236,6 +31720,10 @@
         "answer": "Marc Forster"
     },
     {
+        "question": "Who directed the movie 'Goodfellas'?",
+        "answer": "Martin Scorsese"
+    },
+    {
         "question": "Who directed the movie 'Waterworld'?",
         "answer": "Kevin Reynolds"
     },
@@ -31246,6 +31734,10 @@
     {
         "question": "Who founded 'CNBC'?",
         "answer": "Robert Wright"
+    },
+    {
+        "question": "Who founded the ASIFA-Hollywood award?",
+        "answer": "Bill Littlejohn"
     },
     {
         "question": "Who founded the Annie Award?",
@@ -31540,6 +32032,10 @@
     {
         "question": "Who performs the song 'When You Believe' in the movie 'The Prince of Egypt'?",
         "answer": "Whitney Houston"
+    },
+    {
+        "question": "Who played Hannibal Lecter in the TV series 'Hannibal'?",
+        "answer": "Mads Mikkelsen"
     },
     {
         "question": "Who played Hannibal Lecter in the movie 'The Silence of the Lambs'?",
