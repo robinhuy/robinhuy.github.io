@@ -420,6 +420,10 @@
     "answer": "Support"
   },
   {
+    "question": "What aspect of magic do the Malfoys consider a family pride?",
+    "answer": "Dark Arts"
+  },
+  {
     "question": "What aspect of the Malfoys' character sets them apart from other pure-blood families?",
     "answer": "Cunning"
   },
@@ -928,6 +932,10 @@
     "answer": "Metamorphmagus"
   },
   {
+    "question": "What is the connection between Horcruxes and the soul?",
+    "answer": "Part of the soul"
+  },
+  {
     "question": "What is the connection between the Deathly Hallows and ancient magical wisdom?",
     "answer": "True understanding of death"
   },
@@ -990,6 +998,10 @@
   {
     "question": "What is the name of the first Harry Potter movie?",
     "answer": "The Philosopher's Stone"
+  },
+  {
+    "question": "What is the name of the giant spider, Hagrid's friend?",
+    "answer": "Aragog"
   },
   {
     "question": "What is the name of the hippogriff that Harry Potter saved?",
@@ -1412,6 +1424,10 @@
     "answer": "Gobstones"
   },
   {
+    "question": "What magical structure is the symbol of Hogwarts?",
+    "answer": "Castle"
+  },
+  {
     "question": "What magical talent did one of the Weasleys display in the battle?",
     "answer": "Legilimency"
   },
@@ -1424,12 +1440,20 @@
     "answer": "Alarm Charms"
   },
   {
+    "question": "What magical technique was used to conceal troop movements in a key battle?",
+    "answer": "Silent March"
+  },
+  {
     "question": "What magical transport takes students to Hogwarts?",
     "answer": "Hogwarts Express"
   },
   {
     "question": "What maneuver led to victory in defense?",
     "answer": "Labyrinth"
+  },
+  {
+    "question": "What material of Harry Potter's wand is considered unique?",
+    "answer": "Phoenix feather"
   },
   {
     "question": "What material was used in the construction of Hogwarts?",
@@ -1470,6 +1494,10 @@
   {
     "question": "What mistake did Voldemort make in choosing his victims that led to his downfall?",
     "answer": "Attacking the Potters"
+  },
+  {
+    "question": "What mode of transportation was used for fast travel in fairy tales and myths?",
+    "answer": "Flying carpet"
   },
   {
     "question": "What moral aspects accompany the desire to possess the Deathly Hallows?",
@@ -1540,6 +1568,10 @@
     "answer": "Cold-bloodedness"
   },
   {
+    "question": "What place became important in Voldemort's youth where he found artifacts?",
+    "answer": "Hogwarts"
+  },
+  {
     "question": "What place became key for Voldemort during his uprising?",
     "answer": "The Forbidden Forest"
   },
@@ -1606,6 +1638,10 @@
   {
     "question": "What potion is used to change appearance?",
     "answer": "Polyjuice Potion"
+  },
+  {
+    "question": "What potion is used to enhance agility in flight?",
+    "answer": "Felix Felicis"
   },
   {
     "question": "What potion is used to speed up flight?",
@@ -2124,6 +2160,10 @@
     "answer": "Tempus Fugit"
   },
   {
+    "question": "What spell must be cast to remove paralysis?",
+    "answer": "Ennervate"
+  },
+  {
     "question": "What spell neutralizes the effects of other spells?",
     "answer": "Finite Incantatem"
   },
@@ -2202,6 +2242,10 @@
   {
     "question": "What strategy allowed the Malfoys to avoid punishment after the war?",
     "answer": "Political maneuvers"
+  },
+  {
+    "question": "What strategy did Voldemort choose to weaken the Ministry of Magic?",
+    "answer": "Infiltration"
   },
   {
     "question": "What strategy did one of the Weasleys choose to win the competition?",
@@ -3300,6 +3344,10 @@
     "answer": "Slytherin"
   },
   {
+    "question": "Which group was particularly important in defending against Voldemort?",
+    "answer": "Dumbledore's Army"
+  },
+  {
     "question": "Which herb is used to accelerate hair growth in potion-making?",
     "answer": "Spiky Burdock"
   },
@@ -3476,6 +3524,10 @@
     "answer": "Horcrux"
   },
   {
+    "question": "Which magical artifact was used to store incredible knowledge?",
+    "answer": "Ravenclaw's Diadem"
+  },
+  {
     "question": "Which magical artifacts were designed to overcome death?",
     "answer": "Invisibility Cloak"
   },
@@ -3612,8 +3664,16 @@
     "answer": "Iris"
   },
   {
+    "question": "Which mythological creature has three heads?",
+    "answer": "Cerberus"
+  },
+  {
     "question": "Which object in Quidditch gives additional points when caught?",
     "answer": "Snitch"
+  },
+  {
+    "question": "Which of Voldemort's closest associates was the first to doubt his methods?",
+    "answer": "Regulus Black"
   },
   {
     "question": "Which of the Deathly Hallows allows one to master death?",
@@ -3722,6 +3782,10 @@
   {
     "question": "Which player is known for inventing the maneuver 'Cherry Whirl'?",
     "answer": "Perkins"
+  },
+  {
+    "question": "Which players in magical sports use bats to defend against Bludgers?",
+    "answer": "Beaters"
   },
   {
     "question": "Which potion allows you to take the form of another person?",
@@ -3934,6 +3998,10 @@
   {
     "question": "Which spell temporarily strengthens the magical protection of a room against intrusion?",
     "answer": "Fortress Charm"
+  },
+  {
+    "question": "Which spell temporarily strengthens the magical structure of an object, protecting it from physical damage?",
+    "answer": "Duro"
   },
   {
     "question": "Which spellbinding duo of famous wizard brothers is known for their inventions?",
@@ -4168,6 +4236,10 @@
     "answer": "Dumbledore"
   },
   {
+    "question": "Who is the founder of the house known for honesty?",
+    "answer": "Helga Hufflepuff"
+  },
+  {
     "question": "Who is the keeper of knowledge about magical duels?",
     "answer": "Armando Dippet"
   },
@@ -4240,6 +4312,10 @@
     "answer": "Rubeus Hagrid"
   },
   {
+    "question": "Who taught Muggle Studies?",
+    "answer": "Professor Burbage"
+  },
+  {
     "question": "Who taught Tom Riddle dark magic and helped expand its influence?",
     "answer": "Gellert Grindelwald"
   },
@@ -4308,6 +4384,10 @@
     "answer": "Horace Slughorn"
   },
   {
+    "question": "Who was the head of the house known for its bravery?",
+    "answer": "Minerva McGonagall"
+  },
+  {
     "question": "Who was the last owner of the Elder Wand?",
     "answer": "Harry Potter"
   },
@@ -4338,6 +4418,10 @@
   {
     "question": "Why does Harry Potter refuse to use one of the Deathly Hallows in the final battle?",
     "answer": "Ethical considerations"
+  },
+  {
+    "question": "Why does creating a Horcrux require a sacrifice?",
+    "answer": "Splitting the soul"
   },
   {
     "question": "Why does the legend of the Deathly Hallows remain relevant to wizards?",
