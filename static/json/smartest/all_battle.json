@@ -39434,6 +39434,10 @@
         "answer": "Yemen"
     },
     {
+        "question": "In which geological period did the first ferns appear?",
+        "answer": "Devonian"
+    },
+    {
         "question": "In which places do rare species of orchids inhabit?",
         "answer": "Tropical rainforests"
     },
@@ -39518,6 +39522,10 @@
         "answer": "Lithophytes"
     },
     {
+        "question": "What are plants called that are able to adapt to arid conditions?",
+        "answer": "Succulents"
+    },
+    {
         "question": "What are plants that store water called?",
         "answer": "Succulents"
     },
@@ -39536,6 +39544,10 @@
     {
         "question": "What are the organelles that store starch called?",
         "answer": "Amyloplasts"
+    },
+    {
+        "question": "What are the organs of a plant that produce spores called?",
+        "answer": "Sporangia"
     },
     {
         "question": "What are the specialized roots called that support stems in swampy conditions?",
@@ -39560,6 +39572,10 @@
     {
         "question": "What can be used for the genetic transformation of plants?",
         "answer": "Plasmids"
+    },
+    {
+        "question": "What characteristic feature do ferns have?",
+        "answer": "Fronds unroll"
     },
     {
         "question": "What chemicals do plants release for protection?",
@@ -39604,6 +39620,10 @@
     {
         "question": "What function do the fruiting bodies of fungi serve?",
         "answer": "Reproduction"
+    },
+    {
+        "question": "What function does a lichen perform?",
+        "answer": "Bioindicator"
     },
     {
         "question": "What happens during glycolysis?",
@@ -39798,6 +39818,10 @@
         "answer": "Sequoiadendron"
     },
     {
+        "question": "What is the name of the white flowering plant in the Andes?",
+        "answer": "Espeletia"
+    },
+    {
         "question": "What is the native country of the agave plant?",
         "answer": "Mexico"
     },
@@ -39862,6 +39886,10 @@
         "answer": "Restricting growth"
     },
     {
+        "question": "What is the rare plant Amorphophallus commonly known as?",
+        "answer": "Corpse flower"
+    },
+    {
         "question": "What is the reproductive organ of ferns called?",
         "answer": "Sorus"
     },
@@ -39872,6 +39900,10 @@
     {
         "question": "What is the role of the gametophyte in the life cycle of mosses?",
         "answer": "Reproduction"
+    },
+    {
+        "question": "What is the role of water in photosynthesis?",
+        "answer": "Electron donor"
     },
     {
         "question": "What is the science of lichens called?",
@@ -39940,6 +39972,10 @@
     {
         "question": "What method of insect protection do maples use?",
         "answer": "Phytoncides"
+    },
+    {
+        "question": "What methods improve plant genes?",
+        "answer": "Breeding and GMO"
     },
     {
         "question": "What occurs in the thylakoid membranes?",
@@ -40278,6 +40314,10 @@
         "answer": "Calendula"
     },
     {
+        "question": "Which flowers change color during blooming?",
+        "answer": "Hydrangeas"
+    },
+    {
         "question": "Which fruit has pink skin and white flesh?",
         "answer": "Dragon fruit"
     },
@@ -40292,6 +40332,10 @@
     {
         "question": "Which fruit is known for its hairy skins?",
         "answer": "Kiwi"
+    },
+    {
+        "question": "Which fruit is known for its high content of vitamins A and E?",
+        "answer": "Mango"
     },
     {
         "question": "Which fruit tastes like an orange and grows on shrubs?",
@@ -40322,8 +40366,16 @@
         "answer": "Lavender"
     },
     {
+        "question": "Which insect harms the oat crop?",
+        "answer": "Grasshopper"
+    },
+    {
         "question": "Which insect is used to control aphid populations in gardens?",
         "answer": "Gall midge"
+    },
+    {
+        "question": "Which insect pollinates plants at night?",
+        "answer": "Moth"
     },
     {
         "question": "Which insects are attracted to woodlice?",
@@ -40378,6 +40430,10 @@
         "answer": "ATP"
     },
     {
+        "question": "Which mosses can be found in glacial areas?",
+        "answer": "Polytrichum"
+    },
+    {
         "question": "Which mosses can grow in the desert?",
         "answer": "Xerophilous mosses"
     },
@@ -40396,6 +40452,10 @@
     {
         "question": "Which mushrooms glow in the dark?",
         "answer": "Pholiota"
+    },
+    {
+        "question": "Which of the ferns has medicinal uses?",
+        "answer": "Male fern"
     },
     {
         "question": "Which of the following plants is carnivorous?",
@@ -40440,6 +40500,10 @@
     {
         "question": "Which part of the fern protects the spores?",
         "answer": "Sporangia"
+    },
+    {
+        "question": "Which part of the tree is responsible for growth?",
+        "answer": "Cambium"
     },
     {
         "question": "Which part of the tree transports water from the roots to the leaves?",
@@ -40492,6 +40556,18 @@
     {
         "question": "Which plant cells are capable of transforming into meristematic cells?",
         "answer": "cambium"
+    },
+    {
+        "question": "Which plant cells regulate gas exchange and transpiration?",
+        "answer": "Guard cells"
+    },
+    {
+        "question": "Which plant contains a large amount of iron?",
+        "answer": "Nettle"
+    },
+    {
+        "question": "Which plant forms large floating leaves?",
+        "answer": "Victoria amazonica"
     },
     {
         "question": "Which plant from the amaranth family produces flower umbels and has small red flowers?",
@@ -40582,6 +40658,10 @@
         "answer": "Bamboo"
     },
     {
+        "question": "Which plant is called 'Bogorodskaya grass'?",
+        "answer": "Thyme"
+    },
+    {
         "question": "Which plant is called 'female ginseng'?",
         "answer": "Dong Quai"
     },
@@ -40618,8 +40698,16 @@
         "answer": "Rafflesia Arnoldii"
     },
     {
+        "question": "Which plant is called the 'camel stick'?",
+        "answer": "Stapelia"
+    },
+    {
         "question": "Which plant is called the 'green hydra'?",
         "answer": "Chara"
+    },
+    {
+        "question": "Which plant is called the 'king of herbs' due to its beneficial properties?",
+        "answer": "Ginseng"
     },
     {
         "question": "Which plant is called the 'rattan palm'?",
@@ -40698,6 +40786,10 @@
         "answer": "Orchid"
     },
     {
+        "question": "Which plant is known for its unusual scent?",
+        "answer": "Titan arum"
+    },
+    {
         "question": "Which plant is known for its waterproof leaves?",
         "answer": "Lotus"
     },
@@ -40712,6 +40804,14 @@
     {
         "question": "Which plant is most commonly found in the tropics?",
         "answer": "Filifolium"
+    },
+    {
+        "question": "Which plant is most commonly used for creating a bioplateau?",
+        "answer": "Pistia"
+    },
+    {
+        "question": "Which plant is often added to black tea?",
+        "answer": "Bergamot"
     },
     {
         "question": "Which plant is often associated with winter?",
@@ -40814,12 +40914,20 @@
         "answer": "Echinacea"
     },
     {
+        "question": "Which plant often becomes an epiphyte in the tropics?",
+        "answer": "Orchid"
+    },
+    {
         "question": "Which plant organ performs transpiration?",
         "answer": "Leaves"
     },
     {
         "question": "Which plant prefers partial shade?",
         "answer": "Fern"
+    },
+    {
+        "question": "Which plant prefers shallow water?",
+        "answer": "Sweet flag"
     },
     {
         "question": "Which plant produces goji berries?",
@@ -40884,6 +40992,10 @@
     {
         "question": "Which plants are suitable for rock gardens?",
         "answer": "Aralias"
+    },
+    {
+        "question": "Which plants are used for chlorophyll enrichment?",
+        "answer": "Microalgae"
     },
     {
         "question": "Which plants are used in laboratory experiments?",
@@ -40998,6 +41110,10 @@
         "answer": "Sporangium"
     },
     {
+        "question": "Which structure of a lichen serves for attachment to the substrate?",
+        "answer": "Rhizoids"
+    },
+    {
         "question": "Which structures perform the functions of roots?",
         "answer": "rhizome"
     },
@@ -41028,6 +41144,10 @@
     {
         "question": "Which tree is most commonly used for bonsai?",
         "answer": "Ficus"
+    },
+    {
+        "question": "Which tree is often used in medicine?",
+        "answer": "Birch"
     },
     {
         "question": "Which tree is often used in perfumery?",
@@ -41108,6 +41228,10 @@
     {
         "question": "Why are mushrooms beneficial for the forest?",
         "answer": "Decompose organic matter"
+    },
+    {
+        "question": "Why can lichens grow on rocks?",
+        "answer": "They secrete acids"
     },
     {
         "question": "Albedo is...",
@@ -44959,6 +45083,10 @@
         "answer": "The study of being"
     },
     {
+        "question": "What economic process supports globalization?",
+        "answer": "Liberalization"
+    },
+    {
         "question": "What factor influences the global market?",
         "answer": "Innovation"
     },
@@ -45009,6 +45137,10 @@
     {
         "question": "What is the doctrine called that asserts human actions are predetermined?",
         "answer": "Determinism"
+    },
+    {
+        "question": "What is the educational institution for adults called?",
+        "answer": "Institute"
     },
     {
         "question": "What is the first court session called?",
@@ -45291,6 +45423,10 @@
         "answer": "Ming"
     },
     {
+        "question": "Which feminist text criticized female passivity?",
+        "answer": "The Women's Gospel"
+    },
+    {
         "question": "Which feminist theorist is known for her work on patriarchy?",
         "answer": "Silvia Federici"
     },
@@ -45321,6 +45457,10 @@
     {
         "question": "Which right protects the freedom of movement?",
         "answer": "Right to movement"
+    },
+    {
+        "question": "Which ruler implemented major reforms in Japan in 1868?",
+        "answer": "Emperor Meiji"
     },
     {
         "question": "Which science studies tissues?",
