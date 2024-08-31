@@ -60,6 +60,10 @@
     "answer": "Custom designs"
   },
   {
+    "question": "The main material for 3D printing clothing:",
+    "answer": "Polyester"
+  },
+  {
     "question": "To which era does the Empire style belong?",
     "answer": "Napoleonic"
   },
@@ -82,6 +86,10 @@
   {
     "question": "What accessory is often used to clip a tie?",
     "answer": "Tie clip"
+  },
+  {
+    "question": "What accessory is used to create a formal business look?",
+    "answer": "Briefcase"
   },
   {
     "question": "What accessory often complements a suit?",
@@ -150,6 +158,10 @@
   {
     "question": "What clothing style includes retro elements?",
     "answer": "Retro chic"
+  },
+  {
+    "question": "What color symbolized fashion in the 1970s?",
+    "answer": "Brown"
   },
   {
     "question": "What conditions must fashion houses meet to create haute couture in Paris?",
@@ -248,6 +260,10 @@
     "answer": "Virtual fitting"
   },
   {
+    "question": "What is a coat without a belt called?",
+    "answer": "Robe coat"
+  },
+  {
     "question": "What is a fashion ecosystem?",
     "answer": "Closed loop"
   },
@@ -284,12 +300,20 @@
     "answer": "Paris Fashion Week"
   },
   {
+    "question": "What is the name of a necklace with beads?",
+    "answer": "Choker"
+  },
+  {
     "question": "What is the name of a ring with a seal?",
     "answer": "Signet ring"
   },
   {
     "question": "What is the name of a suit composed of separate pieces?",
     "answer": "Set"
+  },
+  {
+    "question": "What is the name of an exquisite hair ornament?",
+    "answer": "Agrafe"
   },
   {
     "question": "What is the name of clothing that displays notifications?",
@@ -460,6 +484,10 @@
     "answer": "Upcycling"
   },
   {
+    "question": "What style characterizes the fashion of the 1920s?",
+    "answer": "Garçonne"
+  },
+  {
     "question": "What style did Elsa Schiaparelli adhere to in her works?",
     "answer": "Surrealism"
   },
@@ -470,6 +498,10 @@
   {
     "question": "What style of necklace did Egyptian pharaohs wear?",
     "answer": "Pectoral necklace"
+  },
+  {
+    "question": "What style of street fashion includes retro elements?",
+    "answer": "Vintage"
   },
   {
     "question": "What style of suits was popular in the 1990s?",
@@ -502,6 +534,10 @@
   {
     "question": "What technology is used in smart sneakers?",
     "answer": "Piezo sensors"
+  },
+  {
+    "question": "What technology is used to create additional layers of clothing?",
+    "answer": "Laser cutting"
   },
   {
     "question": "What technology is used to create interactive fashion shows?",
@@ -598,6 +634,10 @@
   {
     "question": "What type of shirt is popular in the summer?",
     "answer": "Linen"
+  },
+  {
+    "question": "What type of skirt accentuates the waist?",
+    "answer": "Pleated"
   },
   {
     "question": "What type of stiff hat is popular in grunge style?",
@@ -704,6 +744,10 @@
     "answer": "Coach"
   },
   {
+    "question": "Which brand emphasizes minimalism?",
+    "answer": "Acne Studios"
+  },
+  {
     "question": "Which brand held a historic show at the Palace of Versailles?",
     "answer": "Chanel"
   },
@@ -714,6 +758,10 @@
   {
     "question": "Which brand introduces 'Nude' shoes?",
     "answer": "Christian Louboutin"
+  },
+  {
+    "question": "Which brand is associated with traditional Scottish tartan patterns?",
+    "answer": "Burberry"
   },
   {
     "question": "Which brand is famous for its briefcases and business accessories?",
@@ -920,6 +968,14 @@
     "answer": "Tommy Hilfiger"
   },
   {
+    "question": "Which designer experimented with headwear from different eras?",
+    "answer": "Philip Treacy"
+  },
+  {
+    "question": "Which designer founded the fashion house Balenciaga?",
+    "answer": "Cristóbal Balenciaga"
+  },
+  {
     "question": "Which designer has always supported minimalism in their collections?",
     "answer": "Yohji Yamamoto"
   },
@@ -930,6 +986,10 @@
   {
     "question": "Which designer is known for collaborations with famous musicians?",
     "answer": "Rick Owens"
+  },
+  {
+    "question": "Which designer is known for creating dresses from flowers?",
+    "answer": "Rodarte"
   },
   {
     "question": "Which designer is known for his innovations in men's fashion?",
@@ -1116,6 +1176,10 @@
     "answer": "Amethyst"
   },
   {
+    "question": "Which stone is rarely found in nature?",
+    "answer": "Alexandrite"
+  },
+  {
     "question": "Which street fashion item is popular among artists?",
     "answer": "Beret"
   },
@@ -1272,6 +1336,10 @@
     "answer": "Mary Quant"
   },
   {
+    "question": "Who popularized the oversized fashion trend in 2023?",
+    "answer": "Designers"
+  },
+  {
     "question": "Who was at the origins of the popularity of the fashion house 'Valentino'?",
     "answer": "Valentino Garavani"
   },
@@ -1298,6 +1366,10 @@
   {
     "question": "Why is haute couture expensive?",
     "answer": "Personalized approach"
+  },
+  {
+    "question": "Why is it important to reduce fashion waste?",
+    "answer": "Conservation of resources"
   },
   {
     "question": "Year of release of the first smartwatches:",

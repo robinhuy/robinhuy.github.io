@@ -3763,6 +3763,10 @@
         "answer": "Volkswagen"
     },
     {
+        "question": "Which brand owns the Bugatti marque?",
+        "answer": "Volkswagen"
+    },
+    {
         "question": "Which brand produced the Cord 810 model?",
         "answer": "Cord"
     },
@@ -4421,6 +4425,10 @@
         "answer": "Leonid Yeremeyev"
     },
     {
+        "question": "How many subscribers does Shroud have in 2023?",
+        "answer": "10M"
+    },
+    {
         "question": "How often are playlists on music streaming services updated?",
         "answer": "Weekly"
     },
@@ -4877,6 +4885,10 @@
         "answer": "Anton Rokov"
     },
     {
+        "question": "Which blogger became famous for makeup looks inspired by movie characters?",
+        "answer": "Stephanie Hall"
+    },
+    {
         "question": "Which blogger covers topics on healthy eating?",
         "answer": "Anna Smirnova"
     },
@@ -4905,6 +4917,10 @@
         "answer": "Anna Kuznetsova"
     },
     {
+        "question": "Which blogger is known for composing jingles?",
+        "answer": "Sergey Zvonkij"
+    },
+    {
         "question": "Which blogger is known for luxury cosmetics reviews?",
         "answer": "Lisa Eldridge"
     },
@@ -4923,6 +4939,10 @@
     {
         "question": "Which blogger is known for their skill in creating Halloween makeup?",
         "answer": "Glam and Gore"
+    },
+    {
+        "question": "Which blogger is known for their traditional Russian recipes?",
+        "answer": "Anton Traditsionny"
     },
     {
         "question": "Which blogger is known for their videos about Russian traditional dishes?",
@@ -5065,6 +5085,10 @@
         "answer": "Anastasia Ivanova"
     },
     {
+        "question": "Which female athlete streams about swimming?",
+        "answer": "Marina Osipova"
+    },
+    {
         "question": "Which game does streamer G most frequently stream?",
         "answer": "Dota 2"
     },
@@ -5115,6 +5139,14 @@
     {
         "question": "Which podcast explains complex scientific terms?",
         "answer": ""
+    },
+    {
+        "question": "Which podcast explores the interaction between humans and technology?",
+        "answer": "Humans and Technology"
+    },
+    {
+        "question": "Which podcast focuses on music?",
+        "answer": "Music with Jokes"
     },
     {
         "question": "Which podcast focuses on personal stories and life experiences?",
@@ -5405,6 +5437,10 @@
         "answer": "Sodapoppin"
     },
     {
+        "question": "Who is known as the king of music streaming?",
+        "answer": "Monstercat"
+    },
+    {
         "question": "Who is known for creating realistic Halloween makeup?",
         "answer": "Glam Ghoul"
     },
@@ -5551,6 +5587,10 @@
     {
         "question": "Who talks about music theory?",
         "answer": "Violetta Zhukova"
+    },
+    {
+        "question": "Who talks about musical innovations?",
+        "answer": "Maxim Kotov"
     },
     {
         "question": "Who talks about philosophy in their videos?",
@@ -7457,6 +7497,10 @@
         "answer": "Custom designs"
     },
     {
+        "question": "The main material for 3D printing clothing:",
+        "answer": "Polyester"
+    },
+    {
         "question": "To which era does the Empire style belong?",
         "answer": "Napoleonic"
     },
@@ -7479,6 +7523,10 @@
     {
         "question": "What accessory is often used to clip a tie?",
         "answer": "Tie clip"
+    },
+    {
+        "question": "What accessory is used to create a formal business look?",
+        "answer": "Briefcase"
     },
     {
         "question": "What accessory often complements a suit?",
@@ -7547,6 +7595,10 @@
     {
         "question": "What clothing style includes retro elements?",
         "answer": "Retro chic"
+    },
+    {
+        "question": "What color symbolized fashion in the 1970s?",
+        "answer": "Brown"
     },
     {
         "question": "What conditions must fashion houses meet to create haute couture in Paris?",
@@ -7645,6 +7697,10 @@
         "answer": "Virtual fitting"
     },
     {
+        "question": "What is a coat without a belt called?",
+        "answer": "Robe coat"
+    },
+    {
         "question": "What is a fashion ecosystem?",
         "answer": "Closed loop"
     },
@@ -7681,12 +7737,20 @@
         "answer": "Paris Fashion Week"
     },
     {
+        "question": "What is the name of a necklace with beads?",
+        "answer": "Choker"
+    },
+    {
         "question": "What is the name of a ring with a seal?",
         "answer": "Signet ring"
     },
     {
         "question": "What is the name of a suit composed of separate pieces?",
         "answer": "Set"
+    },
+    {
+        "question": "What is the name of an exquisite hair ornament?",
+        "answer": "Agrafe"
     },
     {
         "question": "What is the name of clothing that displays notifications?",
@@ -7857,6 +7921,10 @@
         "answer": "Upcycling"
     },
     {
+        "question": "What style characterizes the fashion of the 1920s?",
+        "answer": "Garçonne"
+    },
+    {
         "question": "What style did Elsa Schiaparelli adhere to in her works?",
         "answer": "Surrealism"
     },
@@ -7867,6 +7935,10 @@
     {
         "question": "What style of necklace did Egyptian pharaohs wear?",
         "answer": "Pectoral necklace"
+    },
+    {
+        "question": "What style of street fashion includes retro elements?",
+        "answer": "Vintage"
     },
     {
         "question": "What style of suits was popular in the 1990s?",
@@ -7899,6 +7971,10 @@
     {
         "question": "What technology is used in smart sneakers?",
         "answer": "Piezo sensors"
+    },
+    {
+        "question": "What technology is used to create additional layers of clothing?",
+        "answer": "Laser cutting"
     },
     {
         "question": "What technology is used to create interactive fashion shows?",
@@ -7995,6 +8071,10 @@
     {
         "question": "What type of shirt is popular in the summer?",
         "answer": "Linen"
+    },
+    {
+        "question": "What type of skirt accentuates the waist?",
+        "answer": "Pleated"
     },
     {
         "question": "What type of stiff hat is popular in grunge style?",
@@ -8101,6 +8181,10 @@
         "answer": "Coach"
     },
     {
+        "question": "Which brand emphasizes minimalism?",
+        "answer": "Acne Studios"
+    },
+    {
         "question": "Which brand held a historic show at the Palace of Versailles?",
         "answer": "Chanel"
     },
@@ -8111,6 +8195,10 @@
     {
         "question": "Which brand introduces 'Nude' shoes?",
         "answer": "Christian Louboutin"
+    },
+    {
+        "question": "Which brand is associated with traditional Scottish tartan patterns?",
+        "answer": "Burberry"
     },
     {
         "question": "Which brand is famous for its briefcases and business accessories?",
@@ -8317,6 +8405,14 @@
         "answer": "Tommy Hilfiger"
     },
     {
+        "question": "Which designer experimented with headwear from different eras?",
+        "answer": "Philip Treacy"
+    },
+    {
+        "question": "Which designer founded the fashion house Balenciaga?",
+        "answer": "Cristóbal Balenciaga"
+    },
+    {
         "question": "Which designer has always supported minimalism in their collections?",
         "answer": "Yohji Yamamoto"
     },
@@ -8327,6 +8423,10 @@
     {
         "question": "Which designer is known for collaborations with famous musicians?",
         "answer": "Rick Owens"
+    },
+    {
+        "question": "Which designer is known for creating dresses from flowers?",
+        "answer": "Rodarte"
     },
     {
         "question": "Which designer is known for his innovations in men's fashion?",
@@ -8513,6 +8613,10 @@
         "answer": "Amethyst"
     },
     {
+        "question": "Which stone is rarely found in nature?",
+        "answer": "Alexandrite"
+    },
+    {
         "question": "Which street fashion item is popular among artists?",
         "answer": "Beret"
     },
@@ -8669,6 +8773,10 @@
         "answer": "Mary Quant"
     },
     {
+        "question": "Who popularized the oversized fashion trend in 2023?",
+        "answer": "Designers"
+    },
+    {
         "question": "Who was at the origins of the popularity of the fashion house 'Valentino'?",
         "answer": "Valentino Garavani"
     },
@@ -8695,6 +8803,10 @@
     {
         "question": "Why is haute couture expensive?",
         "answer": "Personalized approach"
+    },
+    {
+        "question": "Why is it important to reduce fashion waste?",
+        "answer": "Conservation of resources"
     },
     {
         "question": "Year of release of the first smartwatches:",
@@ -22814,6 +22926,10 @@
         "answer": "1992"
     },
     {
+        "question": "When was the Monroe Doctrine adopted?",
+        "answer": "1823"
+    },
+    {
         "question": "When was the North American Free Trade Agreement signed?"
     },
     {
@@ -23388,6 +23504,10 @@
     },
     {
         "question": "Which continent did Abel Tasman discover?"
+    },
+    {
+        "question": "Which control element is important?",
+        "answer": "Centralization"
     },
     {
         "question": "Which council strengthened Catholicism in the 16th century?",
@@ -24444,6 +24564,10 @@
     {
         "question": "Who conquered Babylon in 539 BC?",
         "answer": "Cyrus the Great"
+    },
+    {
+        "question": "Who conquered Egypt during the Achaemenid Empire?",
+        "answer": "Cambyses II"
     },
     {
         "question": "Who conquered Mesopotamia in the 6th century BC?",
@@ -45983,6 +46107,10 @@
         "answer": "Bending of light"
     },
     {
+        "question": "How does metallicity affect star formation processes?",
+        "answer": "Accelerates processes"
+    },
+    {
         "question": "How does relic radiation affect galactic structures?",
         "answer": "Increases density"
     },
@@ -46245,6 +46373,10 @@
     {
         "question": "What are the effects of space radiation on electronics?",
         "answer": "Malfunction"
+    },
+    {
+        "question": "What are the main challenges in studying Martian dust storms?",
+        "answer": "Low visibility"
     },
     {
         "question": "What are the main differences in the composition of gas clouds of varying densities in the Milky Way?",
@@ -47223,6 +47355,10 @@
         "answer": "Accelerates accretion"
     },
     {
+        "question": "What is the rotation speed of the galactic bar?",
+        "answer": "110 km/s"
+    },
+    {
         "question": "What is the significance of galactic winds in evolution?",
         "answer": "Mass ejection"
     },
@@ -47369,6 +47505,10 @@
     {
         "question": "What mechanisms ensure the stability of large galactic structures?",
         "answer": "Gravity"
+    },
+    {
+        "question": "What mechanisms ensure water retention on planets with low pressure?",
+        "answer": "Subsurface reservoirs"
     },
     {
         "question": "What mechanisms ensured the homogeneity and isotropy of the early Universe?",
@@ -47927,6 +48067,10 @@
         "answer": "Cosmic inflation"
     },
     {
+        "question": "What process dominates in the chemical evolution of galaxies?",
+        "answer": "Star formation"
+    },
+    {
         "question": "What process explains the formation of the large-scale structure of galaxies?",
         "answer": "Structure formation"
     },
@@ -48249,6 +48393,10 @@
     {
         "question": "What role does studying seasonal changes in Martian glaciers play in modeling the planet's climate?",
         "answer": "Understanding cycles"
+    },
+    {
+        "question": "What role does the central supermassive black hole play in the evolution of a galaxy?",
+        "answer": "Regulates growth"
     },
     {
         "question": "What role does the speed of light play in determining cosmological models?",
