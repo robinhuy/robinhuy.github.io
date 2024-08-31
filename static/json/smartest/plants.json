@@ -56,6 +56,10 @@
     "answer": "Carried by the wind"
   },
   {
+    "question": "How do mosses survive drought?",
+    "answer": "Anabiosis"
+  },
+  {
     "question": "How do plants protect themselves from being eaten by insects?",
     "answer": "Toxins"
   },
@@ -320,6 +324,10 @@
     "answer": "Abnormal number of chromosomes"
   },
   {
+    "question": "What is another name for the eucalyptus tree?",
+    "answer": "Gum"
+  },
+  {
     "question": "What is called 'Siberian ginseng'?",
     "answer": "Eleutherococcus"
   },
@@ -440,6 +448,10 @@
     "answer": "Riccia"
   },
   {
+    "question": "What is the name of the plant that produces peanuts?",
+    "answer": "Peanut"
+  },
+  {
     "question": "What is the name of the plant with beautiful flowers native to Bulgaria?",
     "answer": "Cuckoo flower"
   },
@@ -522,6 +534,10 @@
   {
     "question": "What is the process of achieving homozygosity called?",
     "answer": "Pure line"
+  },
+  {
+    "question": "What is the process of converting sucrose called?",
+    "answer": "Hydrolysis"
   },
   {
     "question": "What is the process of forming organic substances from CO2 in the dark phase called?",
@@ -860,6 +876,10 @@
     "answer": "In the forest"
   },
   {
+    "question": "Where does knotweed grow?",
+    "answer": "In meadows"
+  },
+  {
     "question": "Where does membrane transport occur in plants?",
     "answer": "Vacuole"
   },
@@ -896,12 +916,20 @@
     "answer": "Fennel"
   },
   {
+    "question": "Which aquatic plant is called 'water cabbage'?",
+    "answer": "Pistia"
+  },
+  {
     "question": "Which berries are known for their help with inflammations?",
     "answer": "Cranberries"
   },
   {
     "question": "Which biological reaction creates conditions for the transmission of hereditary information?",
     "answer": "Meiosis"
+  },
+  {
+    "question": "Which bonsai style creates the illusion of an old tree?",
+    "answer": "Seizan"
   },
   {
     "question": "Which cacti are known for their night blooming?",
@@ -974,6 +1002,10 @@
   {
     "question": "Which flower is often called the 'flower of evil'?",
     "answer": "Belladonna"
+  },
+  {
+    "question": "Which flowering plant from the orchid family is widely known?",
+    "answer": "Phalaenopsis"
   },
   {
     "question": "Which flowering plant is known for its medicinal properties?",
@@ -1058,6 +1090,14 @@
   {
     "question": "Which insects feed on plant roots?",
     "answer": "Root flies"
+  },
+  {
+    "question": "Which insects produce honeydew?",
+    "answer": "Aphids"
+  },
+  {
+    "question": "Which lichen is an indicator of pollution?",
+    "answer": "Fruticose"
   },
   {
     "question": "Which lichen is used as a dye?",
@@ -1256,6 +1296,10 @@
     "answer": "Thymus vulgaris"
   },
   {
+    "question": "Which plant has edible seeds called 'chilim'?",
+    "answer": "Water caltrop"
+  },
+  {
     "question": "Which plant has giant aerial bulbs?",
     "answer": "Longin"
   },
@@ -1304,6 +1348,10 @@
     "answer": "Olive tree"
   },
   {
+    "question": "Which plant is actively used in biotechnology for creating new species?",
+    "answer": "Fern"
+  },
+  {
     "question": "Which plant is adapted to live both in water and on land?",
     "answer": "Cattail"
   },
@@ -1334,6 +1382,10 @@
   {
     "question": "Which plant is called 'gvozdika travyanka'?",
     "answer": "Dianthus deltoides"
+  },
+  {
+    "question": "Which plant is called 'living stones'?",
+    "answer": "Lithops"
   },
   {
     "question": "Which plant is called 'water star'?",
@@ -1444,6 +1496,10 @@
     "answer": "Victoria amazonica"
   },
   {
+    "question": "Which plant is known for its long, intertwining stems?",
+    "answer": "Climbing bean"
+  },
+  {
     "question": "Which plant is known for its unique taste and grows everywhere?",
     "answer": "Papaya"
   },
@@ -1474,6 +1530,10 @@
   {
     "question": "Which plant is most commonly used for creating a bioplateau?",
     "answer": "Pistia"
+  },
+  {
+    "question": "Which plant is named after a U.S. President?",
+    "answer": "Clivia"
   },
   {
     "question": "Which plant is often added to black tea?",
@@ -1580,6 +1640,10 @@
     "answer": "Echinacea"
   },
   {
+    "question": "Which plant needs to be pruned to create a crown shape?",
+    "answer": "Topiary"
+  },
+  {
     "question": "Which plant often becomes an epiphyte in the tropics?",
     "answer": "Orchid"
   },
@@ -1600,6 +1664,10 @@
     "answer": "Lycium barbarum"
   },
   {
+    "question": "Which plant resembles a netting?",
+    "answer": "Fritillaria"
+  },
+  {
     "question": "Which plant secretes milky sap?",
     "answer": "dandelion"
   },
@@ -1614,6 +1682,10 @@
   {
     "question": "Which plant tissue contributes to its strength?",
     "answer": "Sclerenchyma"
+  },
+  {
+    "question": "Which plant was used to produce blue dye?",
+    "answer": "Indigofera"
   },
   {
     "question": "Which plants are adapted to live in water?",
@@ -1712,6 +1784,10 @@
     "answer": "Carnivorous plants"
   },
   {
+    "question": "Which plants produce sticky sap to catch insects?",
+    "answer": "Carnivorous plants"
+  },
+  {
     "question": "Which plants protect themselves with poisonous substances?",
     "answer": "Nettle"
   },
@@ -1780,6 +1856,10 @@
     "answer": "Rhizoids"
   },
   {
+    "question": "Which structures in a plant perform the function of gas exchange?",
+    "answer": "Stomata"
+  },
+  {
     "question": "Which structures perform the functions of roots?",
     "answer": "rhizome"
   },
@@ -1802,6 +1882,10 @@
   {
     "question": "Which tree has gray leaves?",
     "answer": "Olive"
+  },
+  {
+    "question": "Which tree has white wood?",
+    "answer": "Poplar"
   },
   {
     "question": "Which tree is a symbol of independence and freedom in the USA?",
@@ -1830,6 +1914,10 @@
   {
     "question": "Which tropical plant has giant leaves?",
     "answer": "Victoria"
+  },
+  {
+    "question": "Which tropical plant has the largest leaves?",
+    "answer": "Rafflesia"
   },
   {
     "question": "Which tropical plant is famous for its bright red flowers and is used in perfumery?",
