@@ -12,12 +12,20 @@
     "answer": "Social structure"
   },
   {
+    "question": "How many years does a bachelor's degree take?",
+    "answer": "Four"
+  },
+  {
     "question": "In what year did apartheid end in South Africa?",
     "answer": "1994"
   },
   {
     "question": "In what year did the Thirty Years' War begin?",
     "answer": "1618"
+  },
+  {
+    "question": "In what year was the first women's college founded?",
+    "answer": "1837"
   },
   {
     "question": "In which country is Yom Kippur a public holiday?",
@@ -36,6 +44,14 @@
     "answer": "Hemophilia"
   },
   {
+    "question": "Social policy in a democratic society?",
+    "answer": "Transparency and participation"
+  },
+  {
+    "question": "The critical period of development is called...",
+    "answer": "Critical age"
+  },
+  {
     "question": "The study of criminal behavior is called",
     "answer": "Criminology"
   },
@@ -52,6 +68,10 @@
     "answer": "Intermediate goods"
   },
   {
+    "question": "What are the main gods of Hinduism called?",
+    "answer": "Trimurti"
+  },
+  {
     "question": "What concept describes equal opportunities for everyone?",
     "answer": "Inclusion"
   },
@@ -64,16 +84,40 @@
     "answer": "Surveillance systems"
   },
   {
+    "question": "What do non-governmental funds do?",
+    "answer": "Charity"
+  },
+  {
     "question": "What does 'ethical pluralism' mean?",
     "answer": "Diversity of values"
+  },
+  {
+    "question": "What does 'thing-in-itself' mean according to Kant?",
+    "answer": "unthinkable object"
   },
   {
     "question": "What does 'value' represent?",
     "answer": "Worth"
   },
   {
+    "question": "What does a pulse oximeter do?",
+    "answer": "Measures saturation"
+  },
+  {
+    "question": "What does a spirometer measure?",
+    "answer": "Lung volume"
+  },
+  {
     "question": "What does biological anthropology study?",
     "answer": "Human evolution"
+  },
+  {
+    "question": "What does blockchain technology do?",
+    "answer": "Recording transactions"
+  },
+  {
+    "question": "What does clinical psychology study?",
+    "answer": "Mental disorders"
   },
   {
     "question": "What does cybernetics study?",
@@ -90,6 +134,10 @@
   {
     "question": "What does ethnomethodology study?",
     "answer": "Everyday interactions"
+  },
+  {
+    "question": "What does gender psychology study?",
+    "answer": "Gender differences"
   },
   {
     "question": "What does globalization lead to?",
@@ -110,6 +158,10 @@
   {
     "question": "What does the concept of 'deontology' mean?",
     "answer": "moral duties"
+  },
+  {
+    "question": "What does the ethical concept of 'duty' reflect?",
+    "answer": "Moral obligations"
   },
   {
     "question": "What does the science of 'Welfare Economics' study?",
@@ -144,6 +196,14 @@
     "answer": "Experience"
   },
   {
+    "question": "What helps create digital artificial content?",
+    "answer": "Graphic editors"
+  },
+  {
+    "question": "What is a digital footprint?",
+    "answer": "Internet activity"
+  },
+  {
     "question": "What is a legal norm?",
     "answer": "Mandatory rule"
   },
@@ -172,8 +232,20 @@
     "answer": "Personal opinion"
   },
   {
+    "question": "What is ethnomethodology?",
+    "answer": "Study of everyday actions"
+  },
+  {
     "question": "What is important when studying artifacts?",
     "answer": "Context"
+  },
+  {
+    "question": "What is reaction formation?",
+    "answer": "Opposite expression"
+  },
+  {
+    "question": "What is sociometry?",
+    "answer": "A method of analysis"
   },
   {
     "question": "What is subjective value?",
@@ -204,6 +276,10 @@
     "answer": "Constitutional monarchy"
   },
   {
+    "question": "What is the form of government with local self-government called?",
+    "answer": "Federation"
+  },
+  {
     "question": "What is the group of people called that considers a case in court?",
     "answer": "Jury"
   },
@@ -218,6 +294,14 @@
   {
     "question": "What is the main purpose of propaganda?",
     "answer": "Influence opinion"
+  },
+  {
+    "question": "What is the name of the ancient Greek harvest festival?",
+    "answer": "Thesmophoria"
+  },
+  {
+    "question": "What is the name of the doctrine that evaluates morality in terms of consequences?",
+    "answer": "Consequentialism"
   },
   {
     "question": "What is the name of the famous African style of masks?",
@@ -296,6 +380,10 @@
     "answer": "Privacy"
   },
   {
+    "question": "What is the science of blood called?",
+    "answer": "Hematology"
+  },
+  {
     "question": "What is the scientific study of social change and development called?",
     "answer": "Social theory"
   },
@@ -322,6 +410,10 @@
   {
     "question": "What is utilitarianism?",
     "answer": "ethics of utility"
+  },
+  {
+    "question": "What laws govern relations at the international level?",
+    "answer": "International law"
   },
   {
     "question": "What limits 'scarcity'?",
@@ -372,6 +464,14 @@
     "answer": "Right to assembly"
   },
   {
+    "question": "What role do megacities play?",
+    "answer": "Global hubs"
+  },
+  {
+    "question": "What style is characteristic of the Renaissance era?",
+    "answer": "Renaissance"
+  },
+  {
     "question": "What substance in blood serum helps fight infections?",
     "answer": "Antibodies"
   },
@@ -394,6 +494,10 @@
   {
     "question": "What term describes the development of technologies in education?",
     "answer": "EdTech"
+  },
+  {
+    "question": "What term describes the process of mixing cultures?",
+    "answer": "Interculturation"
   },
   {
     "question": "What term is often used in the context of globalization?",
@@ -430,6 +534,10 @@
   {
     "question": "Where are laws enacted in a federal system?",
     "answer": "Federal Assembly"
+  },
+  {
+    "question": "Where are pension fund assets invested?",
+    "answer": "Securities"
   },
   {
     "question": "Where did the 'Green Morning' movement take place?",
@@ -472,6 +580,10 @@
     "answer": "Ming"
   },
   {
+    "question": "Which dynasty ruled England in the 12th-13th centuries?",
+    "answer": "Plantagenets"
+  },
+  {
     "question": "Which feminist text criticized female passivity?",
     "answer": "The Women's Gospel"
   },
@@ -488,12 +600,24 @@
     "answer": "Federal Law No. 255-FZ"
   },
   {
+    "question": "Which movement campaigned against nuclear weapons?",
+    "answer": "Campaign for Nuclear Disarmament"
+  },
+  {
     "question": "Which organizations are involved in social support?",
     "answer": "Charitable foundations"
   },
   {
     "question": "Which principle respects cultural diversity and intercultural dialogue?",
     "answer": "Multiculturalism"
+  },
+  {
+    "question": "Which program helps to increase employment?",
+    "answer": "Employment Center"
+  },
+  {
+    "question": "Which program provides free medication for retirees?",
+    "answer": "FL"
   },
   {
     "question": "Which region is the most integrated into the process of globalization?",
@@ -510,6 +634,10 @@
   {
     "question": "Which ruler implemented major reforms in Japan in 1868?",
     "answer": "Emperor Meiji"
+  },
+  {
+    "question": "Which school of philosophy used paradoxes?",
+    "answer": "Eleatics"
   },
   {
     "question": "Which science studies tissues?",
@@ -568,8 +696,28 @@
     "answer": "Daniel Kahneman"
   },
   {
+    "question": "Who developed the concept of cultural universals?",
+    "answer": "George Murdock"
+  },
+  {
+    "question": "Who developed the theory of justice as fairness?",
+    "answer": "John Rawls"
+  },
+  {
     "question": "Who founded Stoicism?",
     "answer": "Zeno"
+  },
+  {
+    "question": "Who founded the Bahá'í Faith?",
+    "answer": "Bahá'u'lláh"
+  },
+  {
+    "question": "Who founded the neoclassical economic theory?",
+    "answer": "Alfred Marshall"
+  },
+  {
+    "question": "Who gives the mandate to govern the country in elections?",
+    "answer": "Citizens"
   },
   {
     "question": "Who introduced the term 'Postmodern'?",
@@ -592,12 +740,28 @@
     "answer": "Henri Lefebvre"
   },
   {
+    "question": "Who is considered one of the founders of masculinity studies?",
+    "answer": "R.W. Connell"
+  },
+  {
+    "question": "Who is considered the father of anthropology?",
+    "answer": "Tylor"
+  },
+  {
     "question": "Who is considered the founder of feminism?",
     "answer": "Simone de Beauvoir"
   },
   {
     "question": "Who is considered the founder of structural functionalism?",
     "answer": "Talcott Parsons"
+  },
+  {
+    "question": "Who is known for their work in queer theory?",
+    "answer": "Judith Butler"
+  },
+  {
+    "question": "Who is one of the principal deities in Hinduism?",
+    "answer": "Brahma"
   },
   {
     "question": "Who is the author of the book 'Anthropology Treatise'?",
@@ -610,6 +774,10 @@
   {
     "question": "Who is the author of the book 'Suicide'?",
     "answer": "Émile Durkheim"
+  },
+  {
+    "question": "Who is the author of the concept of positive thinking?",
+    "answer": "Martin Seligman"
   },
   {
     "question": "Who is the author of the work 'Leviathan'?",
@@ -636,12 +804,24 @@
     "answer": "Margaret Mead"
   },
   {
+    "question": "Who was one of the leaders of the anti-colonial movements in Africa?",
+    "answer": "Kwame Nkrumah"
+  },
+  {
+    "question": "Who was the leader of the migrant rights movement in the USA?",
+    "answer": "Cesar Chavez"
+  },
+  {
     "question": "Who wrote 'Ethics' in the 17th century?",
     "answer": "Spinoza"
   },
   {
     "question": "Who wrote 'The Arguments of Anthropology'?",
     "answer": "Jack Goody"
+  },
+  {
+    "question": "Who wrote 'The Second Sex'?",
+    "answer": "Simone de Beauvoir"
   },
   {
     "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?",
