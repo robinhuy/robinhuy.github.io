@@ -32,6 +32,10 @@
     "answer": "13"
   },
   {
+    "question": "How many tiles are there in the game 'Mahjong'?",
+    "answer": "144"
+  },
+  {
     "question": "How often are playlists on music streaming services updated?",
     "answer": "Weekly"
   },
@@ -216,12 +220,24 @@
     "answer": "S.T.A.L.K.E.R."
   },
   {
+    "question": "In which game does the action take place on a Martian colony?",
+    "answer": "Red Faction"
+  },
+  {
     "question": "In which game does the action take place on an abandoned spaceship?",
     "answer": "Dead Space"
   },
   {
     "question": "In which game does the hero face mythical creatures?",
     "answer": "Dark Souls III"
+  },
+  {
+    "question": "In which game does the hero respawn in the same place after death?",
+    "answer": "Hades"
+  },
+  {
+    "question": "In which game does the main character use superpowers against enemies?",
+    "answer": "Control"
   },
   {
     "question": "In which game does the player control an underwater civilization?",
@@ -290,6 +306,14 @@
   {
     "question": "In which game is the synergy of music and visual effects important?",
     "answer": "Crypt of the Necrodancer"
+  },
+  {
+    "question": "In which game is the team Cloud9 known?",
+    "answer": "CS:GO"
+  },
+  {
+    "question": "In which game is there a battle between tank divisions of different nations?",
+    "answer": "World in Conflict"
   },
   {
     "question": "In which genre of games is the esports player 'Scarlett' known?",
@@ -820,6 +844,10 @@
     "answer": "Highbridge"
   },
   {
+    "question": "What is the name of the popular game mode with 100-card decks?",
+    "answer": "Commander"
+  },
+  {
     "question": "What is the name of the popular music streamer who often plays the guitar?",
     "answer": "Sungha Jung"
   },
@@ -896,6 +924,10 @@
     "answer": "Christopher Alesund"
   },
   {
+    "question": "What is the real name of the esports player known as ZywOo?",
+    "answer": "Mathieu Herbaut"
+  },
+  {
     "question": "What is the system called for automatic game code quality checking?",
     "answer": "CI"
   },
@@ -958,6 +990,10 @@
   {
     "question": "What term is used to denote the position of points in 3D space?",
     "answer": "Coordinates"
+  },
+  {
+    "question": "What tool is used to create new cards in Hearthstone?",
+    "answer": "The Forge"
   },
   {
     "question": "What tournament is held for Blizzard games in the middle of the year?",
@@ -1204,6 +1240,10 @@
     "answer": "Facebook"
   },
   {
+    "question": "Which computer game is used as a training tool in military academies?",
+    "answer": "Command: Modern Ops"
+  },
+  {
     "question": "Which culinary blogger is known for their videos about fermented products?",
     "answer": "Alexander Khlebnikov"
   },
@@ -1424,6 +1464,14 @@
     "answer": "DreamHack AB"
   },
   {
+    "question": "Which platformer is known for its difficulty?",
+    "answer": "Celeste"
+  },
+  {
+    "question": "Which player became the Hearthstone World Champion in 2019?",
+    "answer": "Hunterace"
+  },
+  {
     "question": "Which podcast discusses investments?",
     "answer": "Investment Club"
   },
@@ -1450,6 +1498,10 @@
   {
     "question": "Which puzzle requires assembling a three-dimensional figure from connected cubes?",
     "answer": "Soma Cube"
+  },
+  {
+    "question": "Which resource is not used in the game Age of Empires?",
+    "answer": "Oil"
   },
   {
     "question": "Which role-playing online game is known for its large tournaments?",
@@ -1572,6 +1624,10 @@
     "answer": "Shigeru Miyamoto"
   },
   {
+    "question": "Who is the developer of the 'Dark Souls' game series?",
+    "answer": "FromSoftware"
+  },
+  {
     "question": "Who is the head of the guild?",
     "answer": "Leader"
   },
@@ -1686,5 +1742,9 @@
   {
     "question": "Who won the Teamfight Tactics World Championship in 2021?",
     "answer": "3Zz"
+  },
+  {
+    "question": "Who won the Tekken tournament at EVO 2021?",
+    "answer": "Arslan Ash"
   }
 ]
