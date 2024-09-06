@@ -140,6 +140,10 @@
     "answer": "FTL: Faster Than Light"
   },
   {
+    "question": "In which game can you control flying machines and create items in an open world?",
+    "answer": "No Man's Sky"
+  },
+  {
     "question": "In which game can you develop a mountain base?",
     "answer": "Frostpunk"
   },
@@ -232,6 +236,10 @@
     "answer": "Dark Souls III"
   },
   {
+    "question": "In which game does the hero fight against robots?",
+    "answer": "Titanfall 2"
+  },
+  {
     "question": "In which game does the hero respawn in the same place after death?",
     "answer": "Hades"
   },
@@ -278,6 +286,10 @@
   {
     "question": "In which game is the character Jesse Faden featured?",
     "answer": "Control"
+  },
+  {
+    "question": "In which game is the goal to create the best kingdom of fairy tale creatures?",
+    "answer": "Tainted Grail"
   },
   {
     "question": "In which game is the location Lileynoe Pole featured?",
@@ -378,6 +390,10 @@
   {
     "question": "What creature is encountered in the game 'Gloomhaven'?",
     "answer": "Monster"
+  },
+  {
+    "question": "What does HUD stand for?",
+    "answer": "Heads-Up Display"
   },
   {
     "question": "What does RSS mean?",
@@ -508,6 +524,10 @@
     "answer": "Solving puzzles"
   },
   {
+    "question": "What is the main resource in the game SimCity BuildIt?",
+    "answer": "Simoleons"
+  },
+  {
     "question": "What is the main tournament held for the game StarCraft II?",
     "answer": "WCS"
   },
@@ -518,6 +538,10 @@
   {
     "question": "What is the mode called in Assassin's Creed IV where you can control a ship?",
     "answer": "Naval Battles"
+  },
+  {
+    "question": "What is the most popular genre of VR games?",
+    "answer": "Shooter"
   },
   {
     "question": "What is the most prestigious Hearthstone tournament?",
@@ -700,6 +724,10 @@
     "answer": "Sherlock Holmes: Consulting Detective"
   },
   {
+    "question": "What is the name of the game where players develop an underwater civilization?",
+    "answer": "Aquatic Empire"
+  },
+  {
     "question": "What is the name of the game where players explore a maze?",
     "answer": "Labyrinth"
   },
@@ -728,6 +756,10 @@
     "answer": "Castle Crashers"
   },
   {
+    "question": "What is the name of the game where you have to control a ball through complex levels?",
+    "answer": "Rolling Sky"
+  },
+  {
     "question": "What is the name of the game where you need to develop a charter agency?",
     "answer": "Airline Tycoon"
   },
@@ -738,6 +770,10 @@
   {
     "question": "What is the name of the game where you need to solve puzzles with mechanical objects?",
     "answer": "The Room"
+  },
+  {
+    "question": "What is the name of the game with survival elements in an open world?",
+    "answer": "The Forest"
   },
   {
     "question": "What is the name of the game with survival mechanics on an island?",
@@ -892,12 +928,20 @@
     "answer": "EVE Online"
   },
   {
+    "question": "What is the name of the strategy game that focuses primarily on submarine management?",
+    "answer": "Silent Hunter"
+  },
+  {
     "question": "What is the name of the survival simulator with dinosaurs?",
     "answer": "ARK: Survival Evolved"
   },
   {
     "question": "What is the name of the sword in The Legend of Zelda?",
     "answer": "Master Sword"
+  },
+  {
+    "question": "What is the name of the video game where you explore ancient ruins and fight monsters?",
+    "answer": "Dark Souls"
   },
   {
     "question": "What is the name of the virtual fitness club in VR?",
@@ -1132,6 +1176,10 @@
     "answer": "Sea of Pirates"
   },
   {
+    "question": "Which VR game allows you to explore virtual dungeons?",
+    "answer": "Moss"
+  },
+  {
     "question": "Which VR game allows you to participate in space battles?",
     "answer": "Galaxy War"
   },
@@ -1166,6 +1214,10 @@
   {
     "question": "Which animal is present in the game 'Carcassonne'?",
     "answer": "Dragon"
+  },
+  {
+    "question": "Which artifact in the game The Legend of Zelda grants immortality?",
+    "answer": "Golden Claw"
   },
   {
     "question": "Which artist combines live performance with DJ sets?",
@@ -1206,6 +1258,10 @@
   {
     "question": "Which blogger specializes in retro looks?",
     "answer": "Stephanie Lan"
+  },
+  {
+    "question": "Which board game consists of hexagonal tiles and numerous miniatures?",
+    "answer": "Twilight Imperium"
   },
   {
     "question": "Which board game involves moving pieces on a hexagonal board with goals of economy and diplomacy?",
@@ -1260,6 +1316,10 @@
     "answer": "CDL"
   },
   {
+    "question": "Which faction is in the game Total War: Warhammer?",
+    "answer": "The Empire"
+  },
+  {
     "question": "Which faction is represented in World of Warcraft?",
     "answer": "Horde"
   },
@@ -1308,6 +1368,10 @@
     "answer": "MTG"
   },
   {
+    "question": "Which game in The Elder Scrolls series was the first to introduce crafting?",
+    "answer": "Daggerfall"
+  },
+  {
     "question": "Which game in the Dark Souls series lacks a multiplayer mode?",
     "answer": "Demon's Souls"
   },
@@ -1336,6 +1400,10 @@
     "answer": "Hacknet"
   },
   {
+    "question": "Which game is about investigating a murder involving ghosts?",
+    "answer": "Murdered: Soul Suspect"
+  },
+  {
     "question": "Which game is based on myths and legends?",
     "answer": "Myth"
   },
@@ -1362,6 +1430,10 @@
   {
     "question": "Which game is known for its sword fights and intense battles?",
     "answer": "Dark Souls"
+  },
+  {
+    "question": "Which game is known for its unusual graphics and heavy atmosphere?",
+    "answer": "Inside"
   },
   {
     "question": "Which game is known for the mythic card 'Black Lotus'?",
@@ -1400,8 +1472,16 @@
     "answer": "Dark Souls"
   },
   {
+    "question": "Which game simulates school life with time management elements?",
+    "answer": "Time Management School"
+  },
+  {
     "question": "Which game takes place in a world of flights and skies?",
     "answer": "Sky: Children of the Light"
+  },
+  {
+    "question": "Which game uses the mechanic of managing ecological balance?",
+    "answer": "Terraforming Mars"
   },
   {
     "question": "Which game was based on the popular Adult Swim animated series?",
@@ -1460,6 +1540,10 @@
     "answer": "Mahjong"
   },
   {
+    "question": "Which organization fights for control over the galaxy in Mass Effect?",
+    "answer": "Cerberus"
+  },
+  {
     "question": "Which organization hosts the DreamHack tournament?",
     "answer": "DreamHack AB"
   },
@@ -1494,6 +1578,10 @@
   {
     "question": "Which puzzle is a fusion of even prints?",
     "answer": "Kotorika"
+  },
+  {
+    "question": "Which puzzle is used to develop cognitive skills?",
+    "answer": "Tangram"
   },
   {
     "question": "Which puzzle requires assembling a three-dimensional figure from connected cubes?",
@@ -1554,6 +1642,10 @@
   {
     "question": "Which team won the LEC 2020 tournament in LoL?",
     "answer": "G2 Esports"
+  },
+  {
+    "question": "Which team won the League of Legends World Championship in 2021?",
+    "answer": "EDward Gaming"
   },
   {
     "question": "Which team won the PGL Major Stockholm 2021 in CS:GO?",
@@ -1666,6 +1758,10 @@
   {
     "question": "Who is the main protagonist of the Assassin's Creed game series?",
     "answer": "Desmond Miles"
+  },
+  {
+    "question": "Who is the main villain in the game BioShock Infinite?",
+    "answer": "Zachary Comstock"
   },
   {
     "question": "Who is the main villain in the game BioShock?",
