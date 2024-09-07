@@ -228,6 +228,10 @@
     "answer": "Internal communication"
   },
   {
+    "question": "How does the Order of the Phoenix ensure the secrecy of its operations?",
+    "answer": "Secret routes"
+  },
+  {
     "question": "How does the Order of the Phoenix implement innovations in its actions?",
     "answer": "Use of magical artifacts"
   },
@@ -440,6 +444,10 @@
     "answer": "Mirror"
   },
   {
+    "question": "What artifact did Dumbledore use to study memories?",
+    "answer": "Pensieve"
+  },
+  {
     "question": "What artifact did Harry use to communicate with Sirius?",
     "answer": "Mirror"
   },
@@ -546,6 +554,10 @@
   {
     "question": "What characteristic is a distinguishing trait of Slytherin students?",
     "answer": "Cunning"
+  },
+  {
+    "question": "What characteristic is important for joining the order?",
+    "answer": "Courage"
   },
   {
     "question": "What cloak can make you invisible?",
@@ -812,6 +824,10 @@
     "answer": "Dumbledore's death"
   },
   {
+    "question": "What event unites all magical communities of the world?",
+    "answer": "Congress"
+  },
+  {
     "question": "What event was a turning point in Ron Weasley's life?",
     "answer": "Battle"
   },
@@ -900,6 +916,10 @@
     "answer": "Gift of Death"
   },
   {
+    "question": "What groundbreaking technique was used to create visual effects in the film 'Goblet of Fire'?",
+    "answer": "3D modeling"
+  },
+  {
     "question": "What happened to Voldemort after the ritual in the book 'Goblet of Fire'?",
     "answer": "Rebirth"
   },
@@ -946,6 +966,10 @@
   {
     "question": "What incident served as the catalyst for the revival of the Order of the Phoenix?",
     "answer": "The return of Voldemort"
+  },
+  {
+    "question": "What influence did the Malfoy family have on events at the Ministry of Magic?",
+    "answer": "Political intrigue"
   },
   {
     "question": "What influence did the Malfoy family have on public sentiment in the magical world after the war?",
@@ -1032,6 +1056,10 @@
     "answer": "Obsidian amulet"
   },
   {
+    "question": "What ingredient is needed for a potion that grants control over the weather?",
+    "answer": "Storm drop"
+  },
+  {
     "question": "What ingredient is needed for a potion that increases a wizard's endurance?",
     "answer": "Mandrake root"
   },
@@ -1062,6 +1090,10 @@
   {
     "question": "What ingredient is required for a potion that grants clarity of mind?",
     "answer": "Brain cactus"
+  },
+  {
+    "question": "What ingredient is required for a potion that protects against magical fire?",
+    "answer": "Basilisk scale"
   },
   {
     "question": "What ingredient is required for the potion granting eternal vigor?",
@@ -1236,6 +1268,10 @@
     "answer": "Dobby"
   },
   {
+    "question": "What is the name of the newspaper in the wizarding world?",
+    "answer": "The Daily Prophet"
+  },
+  {
     "question": "What is the name of the organization that protects the rights of Muggles?",
     "answer": "S.P.E.W."
   },
@@ -1330,6 +1366,10 @@
   {
     "question": "What is the task of the patrols in the Order?",
     "answer": "Tracking threats"
+  },
+  {
+    "question": "What is the true nature of the Deathly Hallows symbol in the wizarding world and how is it connected to ancient artifacts?",
+    "answer": "Three artifacts"
   },
   {
     "question": "What item can hide its owner from everyone?",
@@ -1626,6 +1666,10 @@
   {
     "question": "What magical method did the Weasleys use for long-distance communication?",
     "answer": "Floo Powder"
+  },
+  {
+    "question": "What magical object helps to hide Hogwarts from Muggles?",
+    "answer": "Invisibility Charms"
   },
   {
     "question": "What magical object is hidden in Godric's Hollow?",
@@ -1952,6 +1996,10 @@
     "answer": "The protection of Hogwarts"
   },
   {
+    "question": "What price does a wizard pay for creating a Horcrux?",
+    "answer": "A piece of soul"
+  },
+  {
     "question": "What principle did the Malfoy family follow regarding blood purity?",
     "answer": "Strictly"
   },
@@ -2004,6 +2052,10 @@
     "answer": "Mystical Phantom"
   },
   {
+    "question": "What rare element is needed for a potion that grants fiery strength?",
+    "answer": "Salamander Flame"
+  },
+  {
     "question": "What rare gift manifested in one of the Weasleys in moments of danger?",
     "answer": "Foresight"
   },
@@ -2042,6 +2094,10 @@
   {
     "question": "What rare maneuver is taught only at the School of Old Wizards?",
     "answer": "Dancing Whirlwind"
+  },
+  {
+    "question": "What reputation did the Malfoy family have in public opinion?",
+    "answer": "Questionable"
   },
   {
     "question": "What risk is associated with possessing magical artifacts containing a part of the soul?",
@@ -2236,12 +2292,20 @@
     "answer": "Reparo"
   },
   {
+    "question": "What spell alters memory?",
+    "answer": "Obliviate"
+  },
+  {
     "question": "What spell alters the structure of objects?",
     "answer": "Alchemorphus"
   },
   {
     "question": "What spell amplifies sounds?",
     "answer": "Sonorus"
+  },
+  {
+    "question": "What spell breaks illusions?",
+    "answer": "Revelio"
   },
   {
     "question": "What spell can change the weather within a room?",
@@ -2368,6 +2432,14 @@
     "answer": "Protego"
   },
   {
+    "question": "What spell is used for temporarily stabilizing the flow of time in an area?",
+    "answer": "Temporal"
+  },
+  {
+    "question": "What spell is used for transfiguring objects?",
+    "answer": "Feraverto"
+  },
+  {
     "question": "What spell is used to amplify the volume of one's voice?",
     "answer": "Sonorus"
   },
@@ -2442,6 +2514,10 @@
   {
     "question": "What spell is used to create magical concealment?",
     "answer": "Muffliato"
+  },
+  {
+    "question": "What spell is used to create magical music?",
+    "answer": "Melody"
   },
   {
     "question": "What spell is used to create magical portraits?",
@@ -2784,6 +2860,10 @@
     "answer": "Dark magic"
   },
   {
+    "question": "What type of magic did Voldemort use to create Horcruxes?",
+    "answer": "Dark magic"
+  },
+  {
     "question": "What type of magic is associated with splitting the soul?",
     "answer": "Dark magic"
   },
@@ -2902,6 +2982,10 @@
   {
     "question": "What was the basis for the creation of Voldemort's army?",
     "answer": "Ideology of purity"
+  },
+  {
+    "question": "What was the entry code to the Order's headquarters?",
+    "answer": "Grimmauld Place"
   },
   {
     "question": "What was the first battle of the Second Wizarding War?",
@@ -3176,6 +3260,10 @@
     "answer": "Animagus Medallion"
   },
   {
+    "question": "Which artifact allows communication with spirits?",
+    "answer": "Resurrection Stone"
+  },
+  {
     "question": "Which artifact allows instant recovery of strength in the arena?",
     "answer": "Restoration Stone"
   },
@@ -3364,8 +3452,16 @@
     "answer": "Philosopher's Stone"
   },
   {
+    "question": "Which artifact is associated with ancient spells?",
+    "answer": "Scroll of Wisdom"
+  },
+  {
     "question": "Which artifact is associated with dark magic?",
     "answer": "Marvolo's Ring"
+  },
+  {
+    "question": "Which artifact is associated with healing magical injuries?",
+    "answer": "Philosopher's Stone"
   },
   {
     "question": "Which artifact is associated with immortality magic through soul splitting?",
@@ -3394,6 +3490,10 @@
   {
     "question": "Which artifact is capable of breaking spells?",
     "answer": "Amulet of Destruction"
+  },
+  {
+    "question": "Which artifact is capable of controlling time?",
+    "answer": "Time-Turner"
   },
   {
     "question": "Which artifact is capable of manipulating shadows?",
@@ -3482,6 +3582,10 @@
   {
     "question": "Which artifact was used to predict events?",
     "answer": "Oracle"
+  },
+  {
+    "question": "Which artifact was used to send magical messages?",
+    "answer": "Patronus"
   },
   {
     "question": "Which aspect of Tom Riddle's youth most influenced his development?",
@@ -3804,6 +3908,10 @@
     "answer": "Agility maneuver"
   },
   {
+    "question": "Which element of the book 'Goblet of Fire' was completely cut from the movie?",
+    "answer": "The forest quest"
+  },
+  {
     "question": "Which element of the game requires hunters to have special coordination?",
     "answer": "defending the hoops"
   },
@@ -3818,6 +3926,10 @@
   {
     "question": "Which establishment in Diagon Alley sells brooms?",
     "answer": "Quality Quidditch Supplies"
+  },
+  {
+    "question": "Which event resulted in the loss of the leader of the Order of the Phoenix?",
+    "answer": "Death of Dumbledore"
   },
   {
     "question": "Which events had the greatest impact on the hero in childhood?",
@@ -3996,6 +4108,10 @@
     "answer": "Dragon wing"
   },
   {
+    "question": "Which ingredient enhances the effect of the truth potion?",
+    "answer": "Reseda petals"
+  },
+  {
     "question": "Which ingredient enhances the regeneration potion?",
     "answer": "Snail slime"
   },
@@ -4066,6 +4182,10 @@
   {
     "question": "Which item enhances magical power?",
     "answer": "Magic wand"
+  },
+  {
+    "question": "Which item enhances potion-making skills?",
+    "answer": "Master Cauldron"
   },
   {
     "question": "Which item helps to detect hidden caches?",
@@ -4348,6 +4468,10 @@
     "answer": "Godric Gryffindor"
   },
   {
+    "question": "Which of the founders was known for their knowledge in potion-making?",
+    "answer": "Salazar Slytherin"
+  },
+  {
     "question": "Which of the spells is an Unforgivable Curse?",
     "answer": "Imperius"
   },
@@ -4420,6 +4544,10 @@
     "answer": "Quartz"
   },
   {
+    "question": "Which potion ingredient increases its effectiveness in high humidity conditions?",
+    "answer": "Hygroscopic powder"
+  },
+  {
     "question": "Which potion is used in dangerous missions?",
     "answer": "Polyjuice"
   },
@@ -4450,6 +4578,10 @@
   {
     "question": "Which professor is known for creating the potion 'Felix Felicis'?",
     "answer": "Horace Slughorn"
+  },
+  {
+    "question": "Which professor is known for iconoclasm in teaching?",
+    "answer": "Gilderoy Lockhart"
   },
   {
     "question": "Which professor specializes in the care of magical creatures?",
@@ -4736,6 +4868,10 @@
     "answer": "Falmouth Falcons"
   },
   {
+    "question": "Which team uses the 'Closed Wave' strategy?",
+    "answer": "Holyhead"
+  },
+  {
     "question": "Which team won the Quidditch World Cup in 1994?",
     "answer": "Ireland"
   },
@@ -4986,6 +5122,10 @@
   {
     "question": "Who proposed the creation of Hogwarts?",
     "answer": "The Founders"
+  },
+  {
+    "question": "Who replaced Severus Snape as the Potions Master?",
+    "answer": "Horace Slughorn"
   },
   {
     "question": "Who rescued Lucius from Azkaban?",
