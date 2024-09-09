@@ -2,7 +2,7 @@
 title: 'Xử lý bất đồng bộ trong JavaScript Phần 1'
 date: 2024-02-25
 draft: false
-images: ["/images/xu-ly-bat-dong-bo-trong-javascript-phan-1.jpg"]
+images: ['/images/xu-ly-bat-dong-bo-trong-javascript-phan-1.jpg']
 tags: ['JavaScript']
 ---
 
@@ -149,7 +149,7 @@ console.timeEnd('run');
 ```
 
 Kết quả sẽ ra như này:
-![Kết quả thực thi lần 1](/images/luoc-rau-1.png)
+![Kết quả thực thi lần 1](/images/javascript-async-1.png)
 
 _console.timeEnd_ còn chạy trước các _console.log_ khác và các bước lung tung không theo đúng trình tự, vớt rau trước cả khi nước sôi 😂.
 
@@ -187,7 +187,7 @@ dunSoiNuoc(checkCallback);
 
 Kết quả:
 
-![Kết quả thực thi lần 2](/images/luoc-rau-2.png)
+![Kết quả thực thi lần 2](/images/javascript-async-2.png)
 
 Như vậy các hàm vẫn chạy đúng trình tự mong muốn và chúng ta đã rút ngắn tổng thời gian xuống còn khoảng **12 giây**, tiết kiệm được 3 giây.
 
@@ -196,7 +196,7 @@ Trong thực tế nếu số lượng các hàm lớn thì hiệu suất (perfor
 Lập trình bất đồng bộ cũng sẽ có nhược điểm là khó xử lý hơn, đặc biệt nếu chúng ta chỉ dùng callback như ví dụ ở trên, sẽ dẫn đến callback hell khiến code vừa khó đọc vừa khó bảo trì. Các bạn thử tăng độ khó của ví dụ trên lên sẽ thấy code khó hơn và callback hell rõ ràng hơn:
 
 > Viết lại chương trình mô tả quy trình luộc rau ở trên nhưng bước sơ chế rau sẽ tách ra thành vặt rau và rửa rau.
-Khi đó chúng ta cần cho _vatRau()_ + _ruaRau()_ + _dunSoiNuoc()_ chạy cùng lúc, nhưng vẫn phải đảm bảo _vatRau()_ chạy xong rồi mới đến _ruaRau()_.
+> Khi đó chúng ta cần cho _vatRau()_ + _ruaRau()_ + _dunSoiNuoc()_ chạy cùng lúc, nhưng vẫn phải đảm bảo _vatRau()_ chạy xong rồi mới đến _ruaRau()_.
 
 {{< figure src="/images/callback-hell.jpg" alt="Callback Hell" title="Callback Hell" >}}
 
@@ -204,3 +204,5 @@ Giờ đến lúc các bạn nên tự thực hành để hiểu rõ hơn về l
 Phần tiếp theo mình sẽ hướng dẫn tiếp về lập trình bất đồng bộ với **Promise**, **async await** và các cách **"bắt lỗi"** (handling error) để chương trình chạy chuẩn hơn.
 
 See you again!
+
+Tiếp theo: [Xử lý bất đồng bộ trong JavaScript Phần 2](/blog/xu-ly-bat-dong-bo-trong-javascript-phan-2).
