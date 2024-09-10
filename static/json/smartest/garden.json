@@ -20,6 +20,10 @@
     "answer": "Growing seedlings"
   },
   {
+    "question": "How is soil fertility maintained?",
+    "answer": "Composting"
+  },
+  {
     "question": "How long do red cabbage seeds remain viable?",
     "answer": "Sprayer"
   },
@@ -78,6 +82,10 @@
   {
     "question": "What are elevations in the landscape commonly called?",
     "answer": "Hills"
+  },
+  {
+    "question": "What are enclosing structures used for?",
+    "answer": "Zoning"
   },
   {
     "question": "What are the types of biological enemies of pests?",
@@ -148,6 +156,14 @@
     "answer": "Measures temperature"
   },
   {
+    "question": "What garden element often serves as a focal point?",
+    "answer": "Fountain"
+  },
+  {
+    "question": "What happens with excess moisture?",
+    "answer": "Rotting"
+  },
+  {
     "question": "What height can a delphinium reach?",
     "answer": "2 meters"
   },
@@ -166,6 +182,10 @@
   {
     "question": "What helps prevent the spread of pests?",
     "answer": "crop rotation"
+  },
+  {
+    "question": "What helps to control watering remotely?",
+    "answer": "Wi-Fi controller"
   },
   {
     "question": "What helps to save water in drip irrigation?",
@@ -204,6 +224,10 @@
     "answer": "Sand"
   },
   {
+    "question": "What is an artificial hill called?",
+    "answer": "Tumulus"
+  },
+  {
     "question": "What is an effective method for mosquito control?",
     "answer": "Biological methods"
   },
@@ -234,6 +258,10 @@
   {
     "question": "What is often used to reinforce the frame of a greenhouse?",
     "answer": "Beams"
+  },
+  {
+    "question": "What is one of the methods of composting?",
+    "answer": "Vermicomposting"
   },
   {
     "question": "What is permaculture?",
@@ -340,6 +368,10 @@
     "answer": "Monophyllia"
   },
   {
+    "question": "What is the name of the soil cultivation tool invented by Fokin?",
+    "answer": "Flat-cutter"
+  },
+  {
     "question": "What is the optimal moisture level for composting?",
     "answer": "40-60%"
   },
@@ -350,6 +382,10 @@
   {
     "question": "What is the process of supplying water underground called?",
     "answer": "Subsurface irrigation"
+  },
+  {
+    "question": "What is the process of trimming shrubs into geometric shapes called?",
+    "answer": "Topiary"
   },
   {
     "question": "What is the purpose of drainage in a greenhouse?",
@@ -412,8 +448,16 @@
     "answer": "solarization"
   },
   {
+    "question": "What method improves soil?",
+    "answer": "Green manure"
+  },
+  {
     "question": "What method is used to attract predatory insects to the garden?",
     "answer": "Mixed planting"
+  },
+  {
+    "question": "What method of attracting predatory insects is used in the garden?",
+    "answer": "Flowering garden"
   },
   {
     "question": "What method of rodent control is considered effective?",
@@ -494,6 +538,10 @@
   {
     "question": "What should you do if aphids appear on plants?",
     "answer": "Treat with insecticide"
+  },
+  {
+    "question": "What should you do if there is excess moisture in the compost?",
+    "answer": "Add dry material"
   },
   {
     "question": "What smell should good compost have?",
@@ -676,6 +724,10 @@
     "answer": "Moonflowers"
   },
   {
+    "question": "Which flowers prefer acidic soil?",
+    "answer": "Rhododendron"
+  },
+  {
     "question": "Which flowers symbolize eternal love and devotion?",
     "answer": "Tulips"
   },
@@ -740,8 +792,16 @@
     "answer": "Mulching"
   },
   {
+    "question": "Which method of propagation is not suitable for fuchsias?",
+    "answer": "Tubers"
+  },
+  {
     "question": "Which microorganisms are important for neutralizing pathogens?",
     "answer": "Bacteria"
+  },
+  {
+    "question": "Which microorganisms are important for soil?",
+    "answer": "Nitrogen-fixing bacteria"
   },
   {
     "question": "Which pest attacks peach trees?",
@@ -854,6 +914,10 @@
   {
     "question": "Which shape of a greenhouse retains heat better?",
     "answer": "Dome-shaped"
+  },
+  {
+    "question": "Which shrubs are best suited for drought conditions?",
+    "answer": "Barberry"
   },
   {
     "question": "Which soil element helps in pest control?",
