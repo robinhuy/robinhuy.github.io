@@ -80,8 +80,16 @@
     "answer": "From Dumbledore"
   },
   {
+    "question": "How did Voldemort maintain the loyalty of his followers?",
+    "answer": "Intimidation"
+  },
+  {
     "question": "How did Voldemort manipulate events in the wizarding world?",
     "answer": "Misinformation"
+  },
+  {
+    "question": "How did the Malfoy family influence the Hogwarts Board of Governors?",
+    "answer": "Through bribery"
   },
   {
     "question": "How did the Malfoy family manipulate the political elite?",
@@ -540,6 +548,14 @@
     "answer": "Invincibility"
   },
   {
+    "question": "What creature can create strong illusions in a person's mind?",
+    "answer": "Illusory Spirit"
+  },
+  {
+    "question": "What creature can destroy souls?",
+    "answer": "Dementor"
+  },
+  {
     "question": "What creature can tame a werewolf without magic?",
     "answer": "Silverhorn"
   },
@@ -550,6 +566,10 @@
   {
     "question": "What creature feeds on dreams?",
     "answer": "Baku"
+  },
+  {
+    "question": "What creature guards the Atlantic Bastion?",
+    "answer": "Sea Whistle"
   },
   {
     "question": "What creature helps set up magical arenas?",
@@ -636,6 +656,10 @@
     "answer": "Portal"
   },
   {
+    "question": "What did Draco do on the train?",
+    "answer": "Broke Harry's nose"
+  },
+  {
     "question": "What did Voldemort see in the Mirror of Erised?",
     "answer": "Himself all-powerful"
   },
@@ -646,6 +670,10 @@
   {
     "question": "What do all the founders of Hogwarts have in common?",
     "answer": "Founded the school"
+  },
+  {
+    "question": "What do lunar calf leeches feed on?",
+    "answer": "Blood"
   },
   {
     "question": "What do the gifts symbolize?",
@@ -888,6 +916,10 @@
     "answer": "Dragon heart"
   },
   {
+    "question": "What ingredient is added to a potion to enhance telepathy?",
+    "answer": "Star dust"
+  },
+  {
     "question": "What ingredient is added to a potion to increase resistance to temperature?",
     "answer": "Dragon sand"
   },
@@ -988,6 +1020,10 @@
     "answer": "Moral dilemmas"
   },
   {
+    "question": "What is Hogwarts protected from by spells?",
+    "answer": "From Muggles"
+  },
+  {
     "question": "What is Voldemort's real name?",
     "answer": "Tom Riddle"
   },
@@ -1076,6 +1112,10 @@
     "answer": "Protecting wizards"
   },
   {
+    "question": "What is the most dangerous way to store a soul?",
+    "answer": "Horcrux"
+  },
+  {
     "question": "What is the name for a face mask?",
     "answer": "Mask"
   },
@@ -1086,6 +1126,10 @@
   {
     "question": "What is the name of George and Fred Weasley's shop?",
     "answer": "Weasleys' Wizard Wheezes"
+  },
+  {
+    "question": "What is the name of the Hogwarts house whose students are known for their honesty and hard work?",
+    "answer": "Hufflepuff"
   },
   {
     "question": "What is the name of the Weasleys' shop located in Diagon Alley?",
@@ -1134,6 +1178,10 @@
   {
     "question": "What is the name of the spell that forces the victim to tell the truth?",
     "answer": "Veritaserum"
+  },
+  {
+    "question": "What is the name of the symbol that characterizes Voldemort?",
+    "answer": "Dark Mark"
   },
   {
     "question": "What is the name of the vehicle known in the Muggle world?",
@@ -1266,6 +1314,10 @@
   {
     "question": "What language did the founders of Hogwarts use to communicate?",
     "answer": "Middle English"
+  },
+  {
+    "question": "What language do goblins study?",
+    "answer": "Goblin"
   },
   {
     "question": "What language do the Malfoys prefer to use in their family?",
@@ -1402,6 +1454,10 @@
   {
     "question": "What magical item allows you to avoid magical traps?",
     "answer": "Amulet of Warning"
+  },
+  {
+    "question": "What magical item can change the size of its owner?",
+    "answer": "Enlarging Hat"
   },
   {
     "question": "What magical item can summon rain?",
@@ -1916,6 +1972,10 @@
     "answer": "Saved Harry Potter"
   },
   {
+    "question": "What role did Ron play in the wizard's chess in the movie \"Harry Potter and the Philosopher's Stone\"?",
+    "answer": "Knight"
+  },
+  {
     "question": "What role did the Malfoy family play in the magical society?",
     "answer": "Influential"
   },
@@ -1942,6 +2002,10 @@
   {
     "question": "What role do connections with other magical organizations play in the activities of the Order?",
     "answer": "Cooperation in intelligence"
+  },
+  {
+    "question": "What role do the Deathly Hallows play in eternal life?",
+    "answer": "Illusion of immortality"
   },
   {
     "question": "What role do the Deathly Hallows play in the development of magical power?",
@@ -2204,6 +2268,10 @@
     "answer": "Protego Maxima"
   },
   {
+    "question": "What spell is used to create a protective magical barrier?",
+    "answer": "Protego"
+  },
+  {
     "question": "What spell is used to create a stable magical resonance in space?",
     "answer": "Resonario"
   },
@@ -2288,6 +2356,10 @@
     "answer": "Clean Sweep"
   },
   {
+    "question": "What spell is used to open secret passages?",
+    "answer": "Parseltongue"
+  },
+  {
     "question": "What spell is used to protect against mind control spells?",
     "answer": "Protego"
   },
@@ -2298,10 +2370,6 @@
   {
     "question": "What spell is used to repel Dementors?",
     "answer": "Expecto Patronum"
-  },
-  {
-    "question": "What spell is used to replace one object with another?",
-    "answer": "Switcheroo"
   },
   {
     "question": "What spell is used to restore the integrity of ancient magical bonds?",
@@ -2434,6 +2502,10 @@
   {
     "question": "What strategy did the Malfoys use to maintain their influence after Voldemort's fall?",
     "answer": "Social integration"
+  },
+  {
+    "question": "What strategy did the Malfoys use to strengthen their position in the wizarding society?",
+    "answer": "Alliances with pure-bloods"
   },
   {
     "question": "What strategy helped the Malfoys maintain influence after the war?",
@@ -2760,10 +2832,6 @@
     "answer": "Allies of Voldemort"
   },
   {
-    "question": "What was used to transmit a signal?",
-    "answer": "Mirror"
-  },
-  {
     "question": "What were the names of Voldemort's parents?",
     "answer": "Tom and Merope"
   },
@@ -2806,6 +2874,10 @@
   {
     "question": "Where was one of the last Horcruxes destroyed?",
     "answer": "Hogwarts"
+  },
+  {
+    "question": "Where was the headquarters of the Order of the Phoenix located?",
+    "answer": "Grimmauld Place"
   },
   {
     "question": "Where was the symbol of the Deathly Hallows first seen?",
@@ -2886,6 +2958,10 @@
   {
     "question": "Which Weasley married Fleur Delacour?",
     "answer": "Bill"
+  },
+  {
+    "question": "Which actor auditioned for the role of Harry but played a different character?",
+    "answer": "Tom Felton"
   },
   {
     "question": "Which actor insisted on changing their role?",
@@ -2984,6 +3060,10 @@
     "answer": "Ring of Elements"
   },
   {
+    "question": "Which artifact awakens souls?",
+    "answer": "Harmonizer"
+  },
+  {
     "question": "Which artifact belongs to the House of Slytherin?",
     "answer": "Locket"
   },
@@ -3072,6 +3152,10 @@
     "answer": "Marauder's Map"
   },
   {
+    "question": "Which artifact helps detect magical traps?",
+    "answer": "Charm Detector"
+  },
+  {
     "question": "Which artifact helps in spell creation?",
     "answer": "Interwoven Wand"
   },
@@ -3142,6 +3226,10 @@
   {
     "question": "Which artifact is capable of neutralizing magical effects?",
     "answer": "Amulet of Morpheus"
+  },
+  {
+    "question": "Which artifact is capable of storing magical energy?",
+    "answer": "Crystal of Power"
   },
   {
     "question": "Which artifact is capable of storing memories?",
@@ -3412,6 +3500,10 @@
     "answer": "Phoenix"
   },
   {
+    "question": "Which creature is associated with dark omens?",
+    "answer": "Thestral"
+  },
+  {
     "question": "Which creature is associated with magical mirrors?",
     "answer": "The Snow Queen"
   },
@@ -3616,6 +3708,10 @@
     "answer": "Mint"
   },
   {
+    "question": "Which herb is used to reduce the toxicity of a potion?",
+    "answer": "Mint"
+  },
+  {
     "question": "Which house artifact was one of the Horcruxes and belonged to the founder known for their wisdom?",
     "answer": "Diadem"
   },
@@ -3624,8 +3720,16 @@
     "answer": "Ravenclaw"
   },
   {
+    "question": "Which house at Hogwarts is associated with the symbol of an eagle?",
+    "answer": "Ravenclaw"
+  },
+  {
     "question": "Which house did Cedric Diggory belong to?",
     "answer": "Hufflepuff"
+  },
+  {
+    "question": "Which house did Draco Malfoy belong to?",
+    "answer": "Slytherin"
   },
   {
     "question": "Which house did Hermione Granger belong to?",
@@ -3650,6 +3754,10 @@
   {
     "question": "Which house ghost is known for their incredible wisdom and mystery?",
     "answer": "The Grey Lady"
+  },
+  {
+    "question": "Which house is associated with a badger?",
+    "answer": "Hufflepuff"
   },
   {
     "question": "Which house is associated with a lion?",
@@ -3706,6 +3814,10 @@
   {
     "question": "Which ingredient must be added to a potion to make it effective against curses?",
     "answer": "Griffon down"
+  },
+  {
+    "question": "Which ingredient stabilizes the color of a potion?",
+    "answer": "Carmine"
   },
   {
     "question": "Which institute is known for its research in spatial magic?",
@@ -3854,6 +3966,10 @@
   {
     "question": "Which magical item is associated with the house of Slytherin?",
     "answer": "The Sword of Godric Gryffindor"
+  },
+  {
+    "question": "Which magical item is associated with the past?",
+    "answer": "Memory of the Past"
   },
   {
     "question": "Which magical practice is considered the most dangerous?",
@@ -4348,6 +4464,10 @@
     "answer": "Wilhelmina Grubbly-Plank"
   },
   {
+    "question": "Which teacher used special artifacts for teaching?",
+    "answer": "Lupin"
+  },
+  {
     "question": "Which teacher was known for their abilities in Transfiguration and taught this magic?",
     "answer": "Minerva McGonagall"
   },
@@ -4464,12 +4584,20 @@
     "answer": "Molly Weasley"
   },
   {
+    "question": "Who from the Weasley family actively supported the fight against Voldemort without being a member of the Order?",
+    "answer": "Ginny"
+  },
+  {
     "question": "Who from the Weasley family became a pioneer in the study of Muggle culture?",
     "answer": "Arthur Weasley"
   },
   {
     "question": "Who from the Weasley family became a prefect?",
     "answer": "Percy"
+  },
+  {
+    "question": "Who from the Weasley family worked with dragons?",
+    "answer": "Charlie Weasley"
   },
   {
     "question": "Who guarded the prophecy in the Ministry of Magic?",
@@ -4706,6 +4834,10 @@
   {
     "question": "Who was the secret helper?",
     "answer": "Kreacher"
+  },
+  {
+    "question": "Who was the spy for the Order of the Phoenix among the Death Eaters?",
+    "answer": "Severus Snape"
   },
   {
     "question": "Who was the strategist in defending the magical world against the forces of darkness?",
