@@ -11473,6 +11473,10 @@
         "answer": "No Man's Sky"
     },
     {
+        "question": "In which game can you create levels on your phone?",
+        "answer": "Geometry Dash"
+    },
+    {
         "question": "In which game can you develop a mountain base?",
         "answer": "Frostpunk"
     },
@@ -11487,6 +11491,10 @@
     {
         "question": "In which game can you fly on dragons?",
         "answer": "Dragon Age"
+    },
+    {
+        "question": "In which game can you play as Sam Porter?",
+        "answer": "Death Stranding"
     },
     {
         "question": "In which game do players control a Roman legion?",
@@ -11555,6 +11563,10 @@
     {
         "question": "In which game does the action take place in Chernobyl?",
         "answer": "S.T.A.L.K.E.R."
+    },
+    {
+        "question": "In which game does the action take place on Mars?",
+        "answer": "DOOM 2016"
     },
     {
         "question": "In which game does the action take place on a Martian colony?",
@@ -12017,6 +12029,10 @@
         "answer": "Dragon Quest"
     },
     {
+        "question": "What is the name of the first city in the game Fallout 4?",
+        "answer": "Sanctuary"
+    },
+    {
         "question": "What is the name of the first classic arcade game?",
         "answer": "Space Invaders"
     },
@@ -12095,6 +12111,10 @@
     {
         "question": "What is the name of the game where survival is critically important?",
         "answer": "Survival Craft"
+    },
+    {
+        "question": "What is the name of the game where survival takes place on an island with wild animals?",
+        "answer": "The Forest"
     },
     {
         "question": "What is the name of the game where the main action takes place during the Japanese invasion of Tsushima Island?",
@@ -12725,6 +12745,10 @@
         "answer": "Partisans"
     },
     {
+        "question": "Which game allows players to explore a vast open world with dragons and magic?",
+        "answer": "Skyrim"
+    },
+    {
         "question": "Which game allows you to control a post-apocalyptic world?",
         "answer": "Mad Max"
     },
@@ -12799,6 +12823,10 @@
     {
         "question": "Which game is dedicated to traveling through post-apocalyptic London?",
         "answer": "Dying Light"
+    },
+    {
+        "question": "Which game is known for its complex economic system?",
+        "answer": "Europa Universalis IV"
     },
     {
         "question": "Which game is known for its high level of difficulty?",
@@ -12977,6 +13005,10 @@
         "answer": "Investing for Everyone"
     },
     {
+        "question": "Which programming language was developed by Google?",
+        "answer": "Go"
+    },
+    {
         "question": "Which puzzle can be solved by moving rings?",
         "answer": "Tower of Hanoi"
     },
@@ -13089,12 +13121,20 @@
         "answer": "Hideo Kojima"
     },
     {
+        "question": "Who created the Oculus Rift device?",
+        "answer": "Palmer Luckey"
+    },
+    {
         "question": "Who creates content?",
         "answer": "Content creators"
     },
     {
         "question": "Who developed the game 'Path of Exile'?",
         "answer": "Grinding Gear Games"
+    },
+    {
+        "question": "Who does the player control in the game Don't Starve?",
+        "answer": "Wilson"
     },
     {
         "question": "Who founded the company Team Liquid?",
@@ -26824,6 +26864,10 @@
         "answer": "Balaclava"
     },
     {
+        "question": "What conditions are important for a successful hunt?",
+        "answer": "Weather conditions"
+    },
+    {
         "question": "What conditions are important for training falcons?",
         "answer": "Silence"
     },
@@ -28016,6 +28060,10 @@
         "answer": "in spring"
     },
     {
+        "question": "When did people start using nets for bird hunting?",
+        "answer": "Ancient Egypt"
+    },
+    {
         "question": "When did the first hunting dogs appear?",
         "answer": "Neolithic era"
     },
@@ -28478,6 +28526,10 @@
     {
         "question": "Which part of a rifle is responsible for reloading?",
         "answer": "Bolt"
+    },
+    {
+        "question": "Which part of a shotgun helps prevent the spread of shot?",
+        "answer": "Choke"
     },
     {
         "question": "Which part of hunting requires a license?",
