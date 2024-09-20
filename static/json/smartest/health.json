@@ -1140,6 +1140,10 @@
     "answer": "myocardial hypertrophy"
   },
   {
+    "question": "What structure on cells is recognized by T-lymphocytes?",
+    "answer": "antigen"
+  },
+  {
     "question": "What structure regulates intercellular interactions in the immune system?",
     "answer": "Cytokines"
   },
@@ -1726,6 +1730,10 @@
   {
     "question": "Which molecules regulate intercellular interactions?",
     "answer": "Cytokines"
+  },
+  {
+    "question": "Which molecules serve as markers for the destruction of target cells?",
+    "answer": "Antibodies"
   },
   {
     "question": "Which neurohormonal system is activated in heart failure?",
