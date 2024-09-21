@@ -47887,6 +47887,10 @@
         "answer": "Charged particle detectors"
     },
     {
+        "question": "How do telescopes determine the rate of the universe's expansion?",
+        "answer": "Redshift"
+    },
+    {
         "question": "How do telescopes measure magnetic fields in space?",
         "answer": "Polarimetry"
     },
@@ -48017,6 +48021,10 @@
     {
         "question": "How does the distribution of angular momentum affect star formation?",
         "answer": "Stability of rotation"
+    },
+    {
+        "question": "How does the emission spectrum of stars observed with the James Webb Telescope change?",
+        "answer": "Infrared shift"
     },
     {
         "question": "How does the environment influence the formation of galactic clusters?",
@@ -48361,6 +48369,10 @@
     {
         "question": "What determined the primary inhomogeneity of the Universe?",
         "answer": "Quantum fluctuations"
+    },
+    {
+        "question": "What determines the degree of curvature of space in the model of the Universe?",
+        "answer": "Cosmological constant"
     },
     {
         "question": "What determines the dynamics of galaxy clusters?",
@@ -48743,6 +48755,10 @@
         "answer": "Orbital resonances"
     },
     {
+        "question": "What factors lead to the formation of elliptical galaxies?",
+        "answer": "Mergers"
+    },
+    {
         "question": "What factors most influence the orbital resonance of satellites?",
         "answer": "Gravitational forces"
     },
@@ -48933,6 +48949,10 @@
     {
         "question": "What is the impact of interstellar radiation on star formation?",
         "answer": "Acceleration of processes"
+    },
+    {
+        "question": "What is the impact of relic radiation on the temperature of galactic structures?",
+        "answer": "Maintains low"
     },
     {
         "question": "What is the impact of stellar flares on molecular clouds?",
@@ -49775,6 +49795,10 @@
         "answer": "Supernovae"
     },
     {
+        "question": "What phenomenon is associated with the change in the apparent size of objects at significant interstellar distances?",
+        "answer": "Cosmological effect"
+    },
+    {
         "question": "What phenomenon is associated with the violation of time symmetry in a black hole?",
         "answer": "Temporal asymmetry"
     },
@@ -49885,6 +49909,14 @@
     {
         "question": "What physical process can lead to the formation of a ring structure in a black hole's accretion disk?",
         "answer": "Gravitational differentiation"
+    },
+    {
+        "question": "What physical process can stabilize the climate of an exoplanet?",
+        "answer": "Feedback"
+    },
+    {
+        "question": "What physical process caused the separation of forces in the Universe?",
+        "answer": "Phase transition"
     },
     {
         "question": "What physical process determines the conversion of energy into matter in the early Universe?",
@@ -50001,6 +50033,10 @@
     {
         "question": "What process plays a key role in the formation of galactic halos?",
         "answer": "Merging"
+    },
+    {
+        "question": "What process prevents a star from becoming a black hole?",
+        "answer": "Thermal pressure"
     },
     {
         "question": "What processes are responsible for the active geology of the icy giant planet moons?",
@@ -50907,6 +50943,10 @@
         "answer": "Spectroscopy"
     },
     {
+        "question": "Which method first enabled fully autonomous oxygen regeneration on a space station?",
+        "answer": "Photobioreactor"
+    },
+    {
         "question": "Which method was first used to measure the radial velocities of stars?",
         "answer": "Spectroscopy"
     },
@@ -51107,6 +51147,10 @@
         "answer": "Everett"
     },
     {
+        "question": "Which physicist proposed the existence of antimatter?",
+        "answer": "Paul Dirac"
+    },
+    {
         "question": "Which physicist proposed the string theory?",
         "answer": "Edward Witten"
     },
@@ -51215,6 +51259,10 @@
         "answer": "Neutron spectroscopy"
     },
     {
+        "question": "Which space agency was the first to implement automatic docking module technology?",
+        "answer": "Roscosmos"
+    },
+    {
         "question": "Which space event was the first to use a radioisotope power source on a spacecraft?",
         "answer": "Pioneer Mission"
     },
@@ -51225,6 +51273,10 @@
     {
         "question": "Which space probe was the first to make a soft landing on the surface of a comet?",
         "answer": "Philae"
+    },
+    {
+        "question": "Which spacecraft conducted the study of Mars' atmosphere in the 1960s?",
+        "answer": "Mariner 4"
     },
     {
         "question": "Which spacecraft delivered the first crew to 'Salyut 1'?",
@@ -51481,6 +51533,10 @@
     {
         "question": "Which system first integrated computer control to improve stability?",
         "answer": "Autopilot"
+    },
+    {
+        "question": "Which system first provided accurate navigation for orbital stations?",
+        "answer": "Inertial system"
     },
     {
         "question": "Which technologies are most effective for accurately maintaining the orbit of satellites around Venus?",
