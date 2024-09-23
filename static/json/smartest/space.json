@@ -516,6 +516,10 @@
     "answer": "Malfunction"
   },
   {
+    "question": "What are the implications of the inflation theory for the early Universe?",
+    "answer": "Accelerated expansion"
+  },
+  {
     "question": "What are the main challenges in studying Martian dust storms?",
     "answer": "Low visibility"
   },
@@ -662,6 +666,10 @@
   {
     "question": "What determines the stability of asteroids in the Kuiper Belt?",
     "answer": "Orbital resonance"
+  },
+  {
+    "question": "What determines the star formation rate in galaxies?",
+    "answer": "Gas density"
   },
   {
     "question": "What device measures weak gravitational fields?",
@@ -914,6 +922,10 @@
   {
     "question": "What experiment was first conducted on the ISS in 2001?",
     "answer": "Plant embryos"
+  },
+  {
+    "question": "What experimental approaches are used for the direct detection of dark matter particles?",
+    "answer": "Underground detectors"
   },
   {
     "question": "What experimental data supports the initial conditions of the Universe?",
@@ -1668,6 +1680,14 @@
     "answer": "Liquid core"
   },
   {
+    "question": "What mechanisms can sustain liquid water on the surface of exoplanets with low atmospheric pressure?",
+    "answer": "Geothermal energy"
+  },
+  {
+    "question": "What mechanisms contribute to the formation of spiral galaxies?",
+    "answer": "Differential rotation"
+  },
+  {
     "question": "What mechanisms contribute to the redistribution of angular momentum in a galaxy?",
     "answer": "Gravitational interactions"
   },
@@ -1710,6 +1730,10 @@
   {
     "question": "What method allows telescopes to observe the polarization of light in space?",
     "answer": "Polarimetry"
+  },
+  {
+    "question": "What method did the mission use to measure the thermal emission of the Moon?",
+    "answer": "Radiometry"
   },
   {
     "question": "What method is used for image stabilization in space telescopes?",
@@ -2424,6 +2448,10 @@
     "answer": "Orbital resonances"
   },
   {
+    "question": "What processes explain the formation and evolution of atmospheres on icy moons?",
+    "answer": "Volcanic activity"
+  },
+  {
     "question": "What processes form dense cores?",
     "answer": "Gravitational"
   },
@@ -2716,6 +2744,10 @@
     "answer": "Thermal insulation of the devices"
   },
   {
+    "question": "What technology was first used on 'Mir' to control the solar panels?",
+    "answer": "Rotary mechanisms"
+  },
+  {
     "question": "What technology was first used on the ISS to prevent corrosion?",
     "answer": "Aluminum alloy"
   },
@@ -2758,6 +2790,10 @@
   {
     "question": "What type of experiments help identify hypothetical dark matter particles?",
     "answer": "Accelerator experiments"
+  },
+  {
+    "question": "What type of interaction affects the density of an exoplanet's atmosphere?",
+    "answer": "Tidal"
   },
   {
     "question": "What type of interaction promotes the migration of exoplanets?",
@@ -3124,6 +3160,10 @@
     "answer": "Sodium"
   },
   {
+    "question": "Which equation describes the relationship between dark energy and the expansion of the Universe?",
+    "answer": "Friedmann equation"
+  },
+  {
     "question": "Which exoplanet has a 3:2 orbital resonance?",
     "answer": "Gliese 581g"
   },
@@ -3324,6 +3364,10 @@
     "answer": "Clementine"
   },
   {
+    "question": "Which modern satellite studies Jupiter's magnetosphere?",
+    "answer": "Juno"
+  },
+  {
     "question": "Which modern technologies contribute to high-precision mapping of the Milky Way?",
     "answer": "Gaia"
   },
@@ -3406,6 +3450,10 @@
   {
     "question": "Which phenomenon is studied to understand dark matter?",
     "answer": "Gravitational lensing"
+  },
+  {
+    "question": "Which philosopher was the first to suggest that the Milky Way is one of many galaxies?",
+    "answer": "Immanuel Kant"
   },
   {
     "question": "Which physical processes might explain the nature of dark energy?",
@@ -3792,6 +3840,10 @@
     "answer": "Sirius"
   },
   {
+    "question": "Which station element was the first to use nanotechnology for self-healing coating from micrometeoroids?",
+    "answer": "Nanocomposite shield"
+  },
+  {
     "question": "Which station system first provided uninterrupted power supply using hybrid energy sources?",
     "answer": "Solar-nuclear reactor"
   },
@@ -3920,6 +3972,10 @@
     "answer": "Edwin Hubble"
   },
   {
+    "question": "Who first proposed the concept of dark energy to explain the accelerated expansion of the Universe?",
+    "answer": "Albert Einstein"
+  },
+  {
     "question": "Who first proposed the concept of the 'multiverse'?",
     "answer": "Hugh Everett"
   },
@@ -3962,6 +4018,10 @@
   {
     "question": "Who was the first project manager of the ISS?",
     "answer": "Craig Kaplan"
+  },
+  {
+    "question": "Who was the first to apply the Doppler effect to study galaxies?",
+    "answer": "Vesto Slipher"
   },
   {
     "question": "Who was the first to determine the nature of quasars?",

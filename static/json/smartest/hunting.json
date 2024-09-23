@@ -580,6 +580,10 @@
     "answer": "Oily feathers"
   },
   {
+    "question": "What helps to camouflage a trap?",
+    "answer": "Using branches"
+  },
+  {
     "question": "What helps to stabilize a stance?",
     "answer": "trekking poles"
   },
@@ -738,6 +742,10 @@
   {
     "question": "What is often added to bait for wolves?",
     "answer": "Blood"
+  },
+  {
+    "question": "What is often used for processing meat in the kitchen?",
+    "answer": "Cleaver"
   },
   {
     "question": "What is often used to attract quails?",
@@ -1192,6 +1200,10 @@
     "answer": "Infrared"
   },
   {
+    "question": "What sensors are used in security systems?",
+    "answer": "Motion sensors"
+  },
+  {
     "question": "What shooting distance is best suited for covert surveillance?",
     "answer": "Long"
   },
@@ -1474,6 +1486,10 @@
   {
     "question": "What type of traps are used for hunting rabbits?",
     "answer": "Snares"
+  },
+  {
+    "question": "What type of vehicle is used for traveling on water?",
+    "answer": "Catamaran"
   },
   {
     "question": "What type of weapon is most commonly used for hunting?",
@@ -1986,6 +2002,10 @@
   {
     "question": "Which hunting technique requires fast movement?",
     "answer": "Drive hunting"
+  },
+  {
+    "question": "Which hunting technique requires observing animals?",
+    "answer": "Stalking"
   },
   {
     "question": "Which item is most suitable for creating a shelter?",

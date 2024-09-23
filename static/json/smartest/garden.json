@@ -24,6 +24,10 @@
     "answer": "Composting"
   },
   {
+    "question": "How long do carrot seeds remain viable?",
+    "answer": "2-3 years"
+  },
+  {
     "question": "How long do red cabbage seeds remain viable?",
     "answer": "Sprayer"
   },
@@ -620,6 +624,10 @@
     "answer": "Stratifier"
   },
   {
+    "question": "What tool is used for weed removal?",
+    "answer": "Sprayer"
+  },
+  {
     "question": "What type of composter is the fastest?",
     "answer": "Tumbler"
   },
@@ -988,11 +996,23 @@
     "answer": "Pumpkin"
   },
   {
+    "question": "Which vegetable prefers slightly alkaline soil?",
+    "answer": "Cabbage"
+  },
+  {
     "question": "Which vegetables prefer acidic soil?",
     "answer": "Potatoes"
   },
   {
+    "question": "Which vegetables prefer shade?",
+    "answer": "Spinach"
+  },
+  {
     "question": "Which weeds are often suppressed using mulch?",
     "answer": "Annuals"
+  },
+  {
+    "question": "Why is compost aeration important?",
+    "answer": "Prevents odor"
   }
 ]
