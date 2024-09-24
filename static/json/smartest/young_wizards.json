@@ -16,6 +16,10 @@
     "answer": "Mandrake"
   },
   {
+    "question": "How are Horcruxes related to Voldemort's immortality?",
+    "answer": "Part of the soul"
+  },
+  {
     "question": "How are the Deathly Hallows related to the concept of fate?",
     "answer": "Inevitability"
   },
@@ -66,6 +70,10 @@
   {
     "question": "How did Voldemort attempt to regain his body?",
     "answer": "Potion and ritual"
+  },
+  {
+    "question": "How did Voldemort feel about Muggles?",
+    "answer": "Contempt"
   },
   {
     "question": "How did Voldemort hide his plans from his enemies?",
@@ -172,6 +180,10 @@
     "answer": "The power of choice"
   },
   {
+    "question": "How do the Deathly Hallows explore the theme of sacrifice in the story?",
+    "answer": "Selflessness"
+  },
+  {
     "question": "How do the Deathly Hallows reveal the concept of the finiteness of human life?",
     "answer": "Transience"
   },
@@ -246,6 +258,10 @@
   {
     "question": "How many studios were involved in the creation of all the Harry Potter films?",
     "answer": "Three"
+  },
+  {
+    "question": "How many times was J.K. Rowling rejected for the publication of her first Harry Potter book?",
+    "answer": "12"
   },
   {
     "question": "How many years did it take J.K. Rowling to write 'The Philosopher's Stone'?",
@@ -448,6 +464,14 @@
     "answer": "Hostility Detector"
   },
   {
+    "question": "What artifact was destroyed in the Chamber of Secrets?",
+    "answer": "Diary"
+  },
+  {
+    "question": "What artifact was used for protection against Voldemort?",
+    "answer": "Protective charms"
+  },
+  {
     "question": "What artifact was used for protection against magic?",
     "answer": "Amulet"
   },
@@ -564,6 +588,10 @@
     "answer": "Snake"
   },
   {
+    "question": "What creature do wizards use to predict the weather?",
+    "answer": "Augurey"
+  },
+  {
     "question": "What creature feeds on dreams?",
     "answer": "Baku"
   },
@@ -650,6 +678,10 @@
   {
     "question": "What device did the Weasleys use to remove gnomes from the garden?",
     "answer": "Gnome Expeller"
+  },
+  {
+    "question": "What device is used to improve navigation in the air?",
+    "answer": "Gyroscope"
   },
   {
     "question": "What device was used for teleportation?",
@@ -932,6 +964,10 @@
     "answer": "Moon herb"
   },
   {
+    "question": "What ingredient is added to the potion of clairvoyance?",
+    "answer": "Unicorn pollen"
+  },
+  {
     "question": "What ingredient is added to the potion of confidence?",
     "answer": "Salt crystals"
   },
@@ -954,6 +990,10 @@
   {
     "question": "What ingredient is necessary for a potion that neutralizes spells?",
     "answer": "Silver mercury"
+  },
+  {
+    "question": "What ingredient is needed for a potion that changes eye color?",
+    "answer": "Chameleon flower"
   },
   {
     "question": "What ingredient is needed for a potion that enhances the magical protection of an aura?",
@@ -1024,6 +1064,10 @@
     "answer": "From Muggles"
   },
   {
+    "question": "What is Narissa's role in the family?",
+    "answer": "Matriarch"
+  },
+  {
     "question": "What is Voldemort's real name?",
     "answer": "Tom Riddle"
   },
@@ -1038,6 +1082,10 @@
   {
     "question": "What is added to a potion to achieve maximum accuracy of its effect?",
     "answer": "Precise ingredient"
+  },
+  {
+    "question": "What is added to a potion to make it absorb quickly?",
+    "answer": "Fructose"
   },
   {
     "question": "What is known about the magical properties of hippogriff feathers?",
@@ -1748,8 +1796,16 @@
     "answer": "Portkey"
   },
   {
+    "question": "What object is used to store a soul outside the body?",
+    "answer": "Horcrux"
+  },
+  {
     "question": "What object particularly interested Arthur Weasley?",
     "answer": "Car"
+  },
+  {
+    "question": "What object stores memories at Hogwarts?",
+    "answer": "Pensieve"
   },
   {
     "question": "What object was used to create the first Horcrux?",
@@ -1912,6 +1968,10 @@
     "answer": "Mermaid tears"
   },
   {
+    "question": "What rare ingredient is needed for the sleeping potion?",
+    "answer": "Phoenix tear"
+  },
+  {
     "question": "What rare ingredient is needed for the time travel potion?",
     "answer": "Time Sand"
   },
@@ -2000,6 +2060,14 @@
     "answer": "Storing the soul"
   },
   {
+    "question": "What role do artifacts play in the Order's missions?",
+    "answer": "Protection against spells"
+  },
+  {
+    "question": "What role do artifacts play in the magical world?",
+    "answer": "Power and strength"
+  },
+  {
     "question": "What role do connections with other magical organizations play in the activities of the Order?",
     "answer": "Cooperation in intelligence"
   },
@@ -2010,6 +2078,10 @@
   {
     "question": "What role do the Deathly Hallows play in the development of magical power?",
     "answer": "A dangerous temptation"
+  },
+  {
+    "question": "What role do the Deathly Hallows play in the fight against dark magic?",
+    "answer": "Protection"
   },
   {
     "question": "What role do the Deathly Hallows play in the victory over Voldemort?",
@@ -2204,8 +2276,16 @@
     "answer": "Imperius"
   },
   {
+    "question": "What spell do the Malfoys consider their family secret?",
+    "answer": "Occlumency"
+  },
+  {
     "question": "What spell helps in fighting pains and ailments?",
     "answer": "Sanatorium"
+  },
+  {
+    "question": "What spell is commonly used for speed enhancement in magical sports?",
+    "answer": "acceleration"
   },
   {
     "question": "What spell is intended to destroy magical artifacts containing a part of a soul?",
@@ -2492,6 +2572,10 @@
     "answer": "Infiltration"
   },
   {
+    "question": "What strategy did one of the Weasleys choose for interacting with the magical community?",
+    "answer": "Diplomacy"
+  },
+  {
     "question": "What strategy did one of the Weasleys choose to win the competition?",
     "answer": "Unexpected solution"
   },
@@ -2718,6 +2802,10 @@
   {
     "question": "What unique talent did Ron Weasley display in the Battle of Hogwarts?",
     "answer": "Tactical decisions"
+  },
+  {
+    "question": "What unique technical achievement was first used in the Harry Potter film adaptations?",
+    "answer": "Dynamic animation"
   },
   {
     "question": "What unique technique helped one of the Weasleys achieve career success?",
@@ -2948,6 +3036,10 @@
     "answer": "Car"
   },
   {
+    "question": "Which Weasley became the first known researcher of ancient runes?",
+    "answer": "Bill Weasley"
+  },
+  {
     "question": "Which Weasley founded the Department of Magical Accidents and Catastrophes at the Ministry?",
     "answer": "Arthur"
   },
@@ -3042,6 +3134,10 @@
   {
     "question": "Which artifact allows you to read minds?",
     "answer": "Legilimency"
+  },
+  {
+    "question": "Which artifact allows you to see the future?",
+    "answer": "Deluminator"
   },
   {
     "question": "Which artifact allows you to see the hidden?",
@@ -3144,6 +3240,10 @@
     "answer": "Oracle Glasses"
   },
   {
+    "question": "Which artifact grants the wearer absolute protection from all attacks?",
+    "answer": "Invisibility Cloak"
+  },
+  {
     "question": "Which artifact helped the Order in communications?",
     "answer": "Mirrors"
   },
@@ -3224,6 +3324,10 @@
     "answer": "Amulet of Destruction"
   },
   {
+    "question": "Which artifact is capable of manipulating shadows?",
+    "answer": "Amulet of Shadows"
+  },
+  {
     "question": "Which artifact is capable of neutralizing magical effects?",
     "answer": "Amulet of Morpheus"
   },
@@ -3282,6 +3386,10 @@
   {
     "question": "Which artifact shows the location of everyone in Hogwarts?",
     "answer": "Marauder's Map"
+  },
+  {
+    "question": "Which artifact shows the way in the labyrinth?",
+    "answer": "Labyrinth Map"
   },
   {
     "question": "Which artifact was actively used by the forces of good in battles against the Death Eaters?",
@@ -3752,6 +3860,10 @@
     "answer": "Gryffindor"
   },
   {
+    "question": "Which house do students interested in Muggle culture belong to?",
+    "answer": "Ravenclaw"
+  },
+  {
     "question": "Which house ghost is known for their incredible wisdom and mystery?",
     "answer": "The Grey Lady"
   },
@@ -3774,6 +3886,10 @@
   {
     "question": "Which house is known for its ghost named Poltergeist?",
     "answer": "Ravenclaw"
+  },
+  {
+    "question": "Which house is most commonly associated with successful Quidditch teams?",
+    "answer": "Gryffindor"
   },
   {
     "question": "Which house values loyalty and patience?",
@@ -3956,6 +4072,10 @@
     "answer": "Floating candles"
   },
   {
+    "question": "Which magical item helped protect Hogwarts?",
+    "answer": "Sword of Gryffindor"
+  },
+  {
     "question": "Which magical item in sports can cause chaos if not controlled?",
     "answer": "Bludger"
   },
@@ -4020,6 +4140,10 @@
     "answer": "Centaur"
   },
   {
+    "question": "Which mythical creature helped in defense during an important battle?",
+    "answer": "Centaur"
+  },
+  {
     "question": "Which mythical creature is associated with prophecies?",
     "answer": "phoenix"
   },
@@ -4042,6 +4166,10 @@
   {
     "question": "Which mythical creature is responsible for creating the rainbow?",
     "answer": "Iris"
+  },
+  {
+    "question": "Which mythical creature is the guardian of ancient wisdom?",
+    "answer": "Hippogriff"
   },
   {
     "question": "Which mythological creature has three heads?",
@@ -4316,6 +4444,10 @@
     "answer": "Keepers of the Arcane"
   },
   {
+    "question": "Which set piece was created based on Rowling's drawings?",
+    "answer": "Gryffindor Tower"
+  },
+  {
     "question": "Which shop sells owls and supplies?",
     "answer": "Eeylops Owl Emporium"
   },
@@ -4438,6 +4570,10 @@
   {
     "question": "Which teacher is known for their lessons on the art of healing?",
     "answer": "Ponsial Johnson"
+  },
+  {
+    "question": "Which teacher is known for their unconventional teaching methods and had a reputation as the ideal Defense Against the Dark Arts teacher?",
+    "answer": "Remus Lupin"
   },
   {
     "question": "Which teacher revived memories of Voldemort in Harry?",
@@ -4672,6 +4808,10 @@
     "answer": "Helga Hufflepuff"
   },
   {
+    "question": "Who is the head of the magical community in the United Kingdom?",
+    "answer": "Minister of Magic"
+  },
+  {
     "question": "Who is the keeper of knowledge about magical duels?",
     "answer": "Armando Dippet"
   },
@@ -4838,6 +4978,10 @@
   {
     "question": "Who was the secret helper?",
     "answer": "Kreacher"
+  },
+  {
+    "question": "Who was the secretary of the Order of the Phoenix?",
+    "answer": "Molly Weasley"
   },
   {
     "question": "Who was the spy for the Order of the Phoenix among the Death Eaters?",
