@@ -80,12 +80,20 @@
     "answer": "Secret meetings"
   },
   {
+    "question": "How did Voldemort identify threats to his power?",
+    "answer": "Spies and rumors"
+  },
+  {
     "question": "How did Voldemort impact the magical world after his return?",
     "answer": "Created chaos"
   },
   {
     "question": "How did Voldemort learn about his magical abilities?",
     "answer": "From Dumbledore"
+  },
+  {
+    "question": "How did Voldemort learn about the prophecy concerning him and Harry Potter?",
+    "answer": "A spy in the Order"
   },
   {
     "question": "How did Voldemort maintain the loyalty of his followers?",
@@ -200,6 +208,10 @@
     "answer": "Reveals secrets"
   },
   {
+    "question": "How does the Order coordinate actions with other groups?",
+    "answer": "Meetings"
+  },
+  {
     "question": "How does the Order coordinate its actions with other magical organizations?",
     "answer": "Partnership agreements"
   },
@@ -210,6 +222,10 @@
   {
     "question": "How does the Order deal with the Ministry's propaganda?",
     "answer": "Counterarguments"
+  },
+  {
+    "question": "How does the Order of the Phoenix deal with misinformation from the Ministry?",
+    "answer": "Internal communication"
   },
   {
     "question": "How does the Order of the Phoenix implement innovations in its actions?",
@@ -520,6 +536,10 @@
     "answer": "New experiences"
   },
   {
+    "question": "What changes occurred in the Weasley family's life after the Triwizard Tournament?",
+    "answer": "Family expansion"
+  },
+  {
     "question": "What character trait is associated with the symbol of the lion?",
     "answer": "Bravery"
   },
@@ -816,8 +836,16 @@
     "answer": "Eagle's eye"
   },
   {
+    "question": "What exotic ingredient is essential for a transformation potion?",
+    "answer": "Unicorn blood"
+  },
+  {
     "question": "What exotic ingredient is needed to brew a potion that grants the ability to teleport?",
     "answer": "Stardust"
+  },
+  {
+    "question": "What factor contributed to the formation of Voldemort's worldview?",
+    "answer": "Heritage"
   },
   {
     "question": "What factor makes Voldemort vulnerable?",
@@ -890,6 +918,10 @@
   {
     "question": "What ideology was at the core of Voldemort's philosophy?",
     "answer": "Pure-blood supremacy"
+  },
+  {
+    "question": "What impact did the Deathly Hallows have on the balance of power in the wizarding world?",
+    "answer": "Changed the balance"
   },
   {
     "question": "What impact did the choice of the Deathly Hallows' owner have on the outcome of the story?",
@@ -1236,6 +1268,10 @@
     "answer": "Train"
   },
   {
+    "question": "What is the name of the village neighboring the Beauxbatons Academy of Magic?",
+    "answer": "Beauxbatons"
+  },
+  {
     "question": "What is the name of the youngest daughter in the Weasley family?",
     "answer": "Ginny"
   },
@@ -1286,6 +1322,10 @@
   {
     "question": "What is the spell called that summons a Patronus?",
     "answer": "Expecto Patronum"
+  },
+  {
+    "question": "What is the spell used by the Order of the Phoenix to hide secrets called?",
+    "answer": "Fidelius"
   },
   {
     "question": "What is the task of the patrols in the Order?",
@@ -1550,6 +1590,10 @@
   {
     "question": "What magical item is necessary for transfiguration?",
     "answer": "Wand"
+  },
+  {
+    "question": "What magical item is the key to immortality?",
+    "answer": "Philosopher's Stone"
   },
   {
     "question": "What magical item is used for instant strategy change in the game?",
@@ -2084,6 +2128,10 @@
     "answer": "Protection"
   },
   {
+    "question": "What role do the Deathly Hallows play in the mythology of the wizarding world?",
+    "answer": "Symbol of power"
+  },
+  {
     "question": "What role do the Deathly Hallows play in the victory over Voldemort?",
     "answer": "Defeating him"
   },
@@ -2102,6 +2150,10 @@
   {
     "question": "What role does strategic intelligence play in operational planning?",
     "answer": "Key role"
+  },
+  {
+    "question": "What role does the international magical community play in regulating magic?",
+    "answer": "Control"
   },
   {
     "question": "What root is added to the luck potion?",
@@ -2708,6 +2760,10 @@
     "answer": "Portal"
   },
   {
+    "question": "What type of \"Harry Potter\" edition was released in a limited print run?",
+    "answer": "Collector's edition"
+  },
+  {
     "question": "What type of animals guards the residence of the Mraksov Family?",
     "answer": "Blood Badgers"
   },
@@ -2828,6 +2884,10 @@
     "answer": "Immortality"
   },
   {
+    "question": "What was Voldemort's last refuge before the final battle?",
+    "answer": "The Forbidden Forest"
+  },
+  {
     "question": "What was the Malfoys' reaction to the verdict after the war?",
     "answer": "Avoided punishment"
   },
@@ -2884,6 +2944,10 @@
     "answer": "Stone Basin"
   },
   {
+    "question": "What was the name of the club led by Percy Weasley at Hogwarts?",
+    "answer": "Prefects' Club"
+  },
+  {
     "question": "What was the name of the first script version rejected by the studio?",
     "answer": "Cursed Relic"
   },
@@ -2906,6 +2970,10 @@
   {
     "question": "What was the name of the professor who temporarily replaced Dumbledore?",
     "answer": "Minerva McGonagall"
+  },
+  {
+    "question": "What was the name of the secret signal?",
+    "answer": "Phoenix"
   },
   {
     "question": "What was the name of the talisman associated with the house at Hogwarts founded by Rowena?",
@@ -3252,6 +3320,10 @@
     "answer": "Marauder's Map"
   },
   {
+    "question": "Which artifact helps a player avoid magical traps?",
+    "answer": "Trap Catcher"
+  },
+  {
     "question": "Which artifact helps detect magical traps?",
     "answer": "Charm Detector"
   },
@@ -3580,6 +3652,10 @@
     "answer": "Veela"
   },
   {
+    "question": "Which creature can create magical traps?",
+    "answer": "Trap Spirit"
+  },
+  {
     "question": "Which creature can leave invisible tracks?",
     "answer": "Thestral"
   },
@@ -3616,6 +3692,10 @@
     "answer": "The Snow Queen"
   },
   {
+    "question": "Which creature is associated with nightmares?",
+    "answer": "Boggart"
+  },
+  {
     "question": "Which creature is capable of drinking record amounts of water?",
     "answer": "Giant"
   },
@@ -3632,8 +3712,16 @@
     "answer": "House-elf"
   },
   {
+    "question": "Which creature is known for its hostile relationship with fairies?",
+    "answer": "Gnomes"
+  },
+  {
     "question": "Which creature prefers solitude in caves?",
     "answer": "Dragon"
+  },
+  {
+    "question": "Which creature prefers to live deep in the forest, avoiding humans?",
+    "answer": "Centaur"
   },
   {
     "question": "Which creature was completely cut from the film?",
@@ -3678,6 +3766,10 @@
   {
     "question": "Which director wanted to make the film animated?",
     "answer": "Steven Spielberg"
+  },
+  {
+    "question": "Which discipline involves the study of magical plants and their properties?",
+    "answer": "Herbology"
   },
   {
     "question": "Which element in Hogwarts is known for its ability to move?",
@@ -4092,6 +4184,10 @@
     "answer": "Memory of the Past"
   },
   {
+    "question": "Which magical object has the ability to open portals?",
+    "answer": "Portkey"
+  },
+  {
     "question": "Which magical practice is considered the most dangerous?",
     "answer": "Creating Horcruxes"
   },
@@ -4232,6 +4328,10 @@
     "answer": "Fred"
   },
   {
+    "question": "Which of the Weasleys was the first to receive a prestigious award for bravery?",
+    "answer": "Charlie Weasley"
+  },
+  {
     "question": "Which of the artifacts was not a Horcrux?",
     "answer": "Invisibility Cloak"
   },
@@ -4250,6 +4350,10 @@
   {
     "question": "Which of the spells is an Unforgivable Curse?",
     "answer": "Imperius"
+  },
+  {
+    "question": "Which of the teachers taught lessons related to defensive spells and magical barriers?",
+    "answer": "Filius Flitwick"
   },
   {
     "question": "Which of the teachers was known for their skills in potions and alchemy?",
@@ -4448,6 +4552,10 @@
     "answer": "Gryffindor Tower"
   },
   {
+    "question": "Which shop in Diagon Alley is famous for magic wands?",
+    "answer": "Ollivanders"
+  },
+  {
     "question": "Which shop sells owls and supplies?",
     "answer": "Eeylops Owl Emporium"
   },
@@ -4494,6 +4602,10 @@
   {
     "question": "Which spell can provide invisibility?",
     "answer": "Disappearance Spell"
+  },
+  {
+    "question": "Which spell can temporarily conceal the influence of magical artifacts?",
+    "answer": "Occlumency"
   },
   {
     "question": "Which spell can temporarily hide the location of an object or person?",
@@ -4688,12 +4800,20 @@
     "answer": "The Founders"
   },
   {
+    "question": "Who delivered the messages?",
+    "answer": "Owl"
+  },
+  {
     "question": "Who destroyed the Horcrux in the form of a locket?",
     "answer": "Ron Weasley"
   },
   {
     "question": "Who developed tactics for operations in the magical world?",
     "answer": "Albus Dumbledore"
+  },
+  {
+    "question": "Who developed the strategy for using the 'Protego Maxima' spell in the Battle of Hogwarts?",
+    "answer": "Filius Flitwick"
   },
   {
     "question": "Who developed the visual style concept for the first Harry Potter film?",
@@ -4928,6 +5048,10 @@
     "answer": "Snape"
   },
   {
+    "question": "Who was Voldemort's first Horcrux?",
+    "answer": "Riddle's Diary"
+  },
+  {
     "question": "Who was known for their unconventional teaching methods?",
     "answer": "Gilderoy Lockhart"
   },
@@ -4938,6 +5062,10 @@
   {
     "question": "Who was the Defense Against the Dark Arts teacher in Harry Potter's third year?",
     "answer": "Remus Lupin"
+  },
+  {
+    "question": "Who was the captain of the Gryffindor team in Harry's fifth year?",
+    "answer": "Angelina Johnson"
   },
   {
     "question": "Who was the composer for the first three films of the series?",
@@ -4972,8 +5100,16 @@
     "answer": "Minerva McGonagall"
   },
   {
+    "question": "Who was the headmaster of Hogwarts when Tom Riddle enrolled?",
+    "answer": "Armando Dippet"
+  },
+  {
     "question": "Who was the last owner of the Elder Wand?",
     "answer": "Harry Potter"
+  },
+  {
+    "question": "Who was the producer of all the Harry Potter films?",
+    "answer": "David Heyman"
   },
   {
     "question": "Who was the secret helper?",
@@ -5004,6 +5140,10 @@
     "answer": "J.K. Rowling"
   },
   {
+    "question": "Who wrote the script for the play?",
+    "answer": "Jack Thorne"
+  },
+  {
     "question": "Why are Horcruxes considered forbidden magic?",
     "answer": "Splitting the soul"
   },
@@ -5026,6 +5166,10 @@
   {
     "question": "Why is the destruction of Horcruxes critical for victory?",
     "answer": "Voldemort's vulnerability"
+  },
+  {
+    "question": "Why was Hogwarts built as a castle?",
+    "answer": "Protection from Muggles"
   },
   {
     "question": "Why were Horcruxes key to defeating Voldemort?",
