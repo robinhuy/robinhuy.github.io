@@ -464,6 +464,10 @@
     "answer": "Filtering food"
   },
   {
+    "question": "What do spiders eat?",
+    "answer": "Insects"
+  },
+  {
     "question": "What do these beetles lack?",
     "answer": "Wings"
   },
@@ -812,6 +816,10 @@
     "answer": "Caro-Kann Defense"
   },
   {
+    "question": "What is the name of the organ that emits electrical signals in electric fish?",
+    "answer": "Electric organ"
+  },
+  {
     "question": "What is the name of the potent mollusk toxin?",
     "answer": "Tetrodotoxin"
   },
@@ -830,6 +838,10 @@
   {
     "question": "What is the notochord of a lancelet made of?",
     "answer": "Cartilage"
+  },
+  {
+    "question": "What is the number of gill openings in hagfish?",
+    "answer": "6-14"
   },
   {
     "question": "What is the optimal moisture level for composting?",
@@ -1704,10 +1716,6 @@
     "answer": "Butterfly"
   },
   {
-    "question": "Which insects are attracted to light?",
-    "answer": "Moths"
-  },
-  {
     "question": "Which insects are beneficial to humans?",
     "answer": "Bees"
   },
@@ -1896,6 +1904,10 @@
     "answer": "Tridacna"
   },
   {
+    "question": "Which mollusks are capable of photosynthesis?",
+    "answer": "Elysia chlorotica"
+  },
+  {
     "question": "Which mollusks are known as dangerous predators?",
     "answer": "Cones"
   },
@@ -1972,6 +1984,10 @@
     "answer": "radula"
   },
   {
+    "question": "Which organ in gastropod mollusks contains most of the internal organs?",
+    "answer": "Visceral hump"
+  },
+  {
     "question": "Which organs allow hagfish to hide in substrates?",
     "answer": "Slime"
   },
@@ -2037,6 +2053,10 @@
   },
   {
     "question": "Which primate has a high forehead?",
+    "answer": "Chimpanzee"
+  },
+  {
+    "question": "Which primate has the longest childhood period?",
     "answer": "Chimpanzee"
   },
   {
@@ -2190,6 +2210,10 @@
   {
     "question": "Which tick is commonly found on animals?",
     "answer": "Ixodid tick"
+  },
+  {
+    "question": "Which turtle can breathe through its skin?",
+    "answer": "Radiated tortoise"
   },
   {
     "question": "Which type of fish is known for its unique way of catching prey using a glowing lure?",
