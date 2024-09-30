@@ -1,5 +1,13 @@
 [
   {
+    "question": "At what depth do dolphins usually feed?",
+    "answer": "30 meters"
+  },
+  {
+    "question": "Do jawless vertebrates have a backbone?",
+    "answer": "No"
+  },
+  {
     "question": "For which board game are twenty tokens required?",
     "answer": "Trivial Pursuit"
   },
@@ -8,8 +16,36 @@
     "answer": "Fortress"
   },
   {
+    "question": "How do fish navigate in the dark?",
+    "answer": "Lateral line"
+  },
+  {
+    "question": "How do hagfish move?",
+    "answer": "Undulating movements"
+  },
+  {
+    "question": "How do sea cucumbers feed?",
+    "answer": "Filtering water"
+  },
+  {
+    "question": "How do starfish maintain balance?",
+    "answer": "With their tube feet"
+  },
+  {
+    "question": "How does international trade affect the availability of food in different regions?",
+    "answer": "Positively"
+  },
+  {
+    "question": "How many eyes do flies have?",
+    "answer": "5"
+  },
+  {
     "question": "How many games are there in the main Resident Evil series?",
     "answer": "8"
+  },
+  {
+    "question": "How many gill slits do jawless fish have?",
+    "answer": "Up to 100"
   },
   {
     "question": "How many hours per week does a top football streamer stream?",
@@ -24,6 +60,10 @@
     "answer": "Fourteen"
   },
   {
+    "question": "How many liters of water does a blue whale filter at once?",
+    "answer": "10000 liters"
+  },
+  {
     "question": "How many phases are there in the game 'Pandemic'?",
     "answer": "5"
   },
@@ -32,8 +72,40 @@
     "answer": "13"
   },
   {
+    "question": "How many segments does a caterpillar have in its body?",
+    "answer": "13"
+  },
+  {
+    "question": "How many species of geckos are there?",
+    "answer": "1600+"
+  },
+  {
+    "question": "How many species of lemurs are there?",
+    "answer": "About 100"
+  },
+  {
+    "question": "How many species of lizards exist in the world?",
+    "answer": "6000"
+  },
+  {
+    "question": "How many species of rays are there?",
+    "answer": "More than 500"
+  },
+  {
+    "question": "How many species of snakes exist in the world?",
+    "answer": "more than 3000"
+  },
+  {
+    "question": "How many tentacles does an argopect have?",
+    "answer": "Ten"
+  },
+  {
     "question": "How many tiles are there in the game 'Mahjong'?",
     "answer": "144"
+  },
+  {
+    "question": "How many types of gills do sharks have?",
+    "answer": "Two"
   },
   {
     "question": "How often are playlists on music streaming services updated?",
@@ -368,8 +440,32 @@
     "answer": "January"
   },
   {
+    "question": "In which nature reserve can you find reed cats?",
+    "answer": "Dagestan Reserve"
+  },
+  {
+    "question": "In which nature reserve can you see the rare white stork?",
+    "answer": "Rostovsky"
+  },
+  {
+    "question": "In which nature reserve do red pandas live?",
+    "answer": "Sikhote-Alin"
+  },
+  {
+    "question": "In which nature reserve do snow leopards live?",
+    "answer": "Sailugemsky"
+  },
+  {
     "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
     "answer": "HGC"
+  },
+  {
+    "question": "In which ocean do giant squids live?",
+    "answer": "Atlantic"
+  },
+  {
+    "question": "In which ocean do hagfish live?",
+    "answer": "Pacific"
   },
   {
     "question": "Name the magical art of elven mages in the game Dragon Age.",
@@ -386,6 +482,10 @@
   {
     "question": "The character leading the 'Masquerade' clans in Bloodlines is...",
     "answer": "Prince"
+  },
+  {
+    "question": "The most venomous mammal?",
+    "answer": "Platypus"
   },
   {
     "question": "What activity, practiced by players, involves repetitive actions?",
@@ -408,6 +508,26 @@
     "answer": "Stress tests"
   },
   {
+    "question": "What are large eruptions called?",
+    "answer": "Catastrophic"
+  },
+  {
+    "question": "What are pedicellariae in sea urchins?",
+    "answer": "Small pincers"
+  },
+  {
+    "question": "What are the dorsal and ventral sides of lancelets covered with?",
+    "answer": "buds"
+  },
+  {
+    "question": "What are the fish called that live in the anode?",
+    "answer": "Anodores"
+  },
+  {
+    "question": "What are the main characteristics of primates?",
+    "answer": "Large brain"
+  },
+  {
     "question": "What are the main resources in the game Hay Day?",
     "answer": "Crops"
   },
@@ -416,8 +536,16 @@
     "answer": "Tiles"
   },
   {
+    "question": "What are the protective shields of crayfish called?",
+    "answer": "Carapaces"
+  },
+  {
     "question": "What are the regular meetings in the game called?",
     "answer": "Events"
+  },
+  {
+    "question": "What atmospheric changes can lead to the formation of a tornado?",
+    "answer": "Winds and cyclones"
   },
   {
     "question": "What can a podcast contain?",
@@ -428,12 +556,24 @@
     "answer": "Potion cards"
   },
   {
+    "question": "What changes occur in soils with prolonged use for agricultural purposes?",
+    "answer": "Depletion"
+  },
+  {
     "question": "What creature helps in the game Monument Valley 2?",
     "answer": "Crow"
   },
   {
     "question": "What creature is encountered in the game 'Gloomhaven'?",
     "answer": "Monster"
+  },
+  {
+    "question": "What distinguishes sea urchins from starfish?",
+    "answer": "Body shape"
+  },
+  {
+    "question": "What do these beetles lack?",
+    "answer": "Wings"
   },
   {
     "question": "What does HUD stand for?",
@@ -446,6 +586,14 @@
   {
     "question": "What does a player do in the game Battle Cats?",
     "answer": "Fights with cats"
+  },
+  {
+    "question": "What does a sea cucumber do when threatened?",
+    "answer": "Ejects its intestines"
+  },
+  {
+    "question": "What does the notochord in lancelets represent?",
+    "answer": "Rigid rod"
   },
   {
     "question": "What does the term 4X mean in strategy games?",
@@ -474,6 +622,42 @@
   {
     "question": "What event marked the beginning of the Witcher world?",
     "answer": "Conjunction of the Spheres"
+  },
+  {
+    "question": "What factor contributes to the formation of isolated ecosystems on a plateau?",
+    "answer": "Elevation"
+  },
+  {
+    "question": "What factors contribute to the formation of ancient continents?",
+    "answer": "Plate tectonics"
+  },
+  {
+    "question": "What factors contribute to the formation of temporary watercourses?",
+    "answer": "Heavy rainfall"
+  },
+  {
+    "question": "What feeding method do most brittle stars use?",
+    "answer": "Detritivory"
+  },
+  {
+    "question": "What fish inhabits the Nile River?",
+    "answer": "Nile perch"
+  },
+  {
+    "question": "What fish lives in caves and is blind?",
+    "answer": "Cavefish"
+  },
+  {
+    "question": "What function do ancient gill slits serve in jawless vertebrates?",
+    "answer": "Respiratory"
+  },
+  {
+    "question": "What function does the dental plate serve in hagfish?",
+    "answer": "food capture"
+  },
+  {
+    "question": "What function does the respiratory system perform?",
+    "answer": "Respiratory"
   },
   {
     "question": "What game engine is used in The Elder Scrolls V: Skyrim?",
@@ -508,6 +692,18 @@
     "answer": "Role-playing"
   },
   {
+    "question": "What is a madreporite?",
+    "answer": "Entrance to the ambulacral system"
+  },
+  {
+    "question": "What is a pedicellaria?",
+    "answer": "Pincers"
+  },
+  {
+    "question": "What is a trepang?",
+    "answer": "Sea cucumber"
+  },
+  {
     "question": "What is an API?",
     "answer": "Application Interface"
   },
@@ -520,12 +716,20 @@
     "answer": "10"
   },
   {
+    "question": "What is the class to which lampreys and hagfish belong called?",
+    "answer": "Cyclostomes"
+  },
+  {
     "question": "What is the creation of content for games called?",
     "answer": "Modding"
   },
   {
     "question": "What is the document with the game description called?",
     "answer": "Design document"
+  },
+  {
+    "question": "What is the dorsal fin of a humpback whale called?",
+    "answer": "Hump"
   },
   {
     "question": "What is the effect in Magic: The Gathering called that allows you to play a card without paying its mana cost?",
@@ -568,6 +772,22 @@
     "answer": "Greenland"
   },
   {
+    "question": "What is the largest living mollusk?",
+    "answer": "Giant squid"
+  },
+  {
+    "question": "What is the leg span of the largest crab in the world?",
+    "answer": "3.8 meters"
+  },
+  {
+    "question": "What is the life cycle of insects called?",
+    "answer": "Metamorphosis"
+  },
+  {
+    "question": "What is the main difference between lampreys and fish?",
+    "answer": "absence of jaws"
+  },
+  {
     "question": "What is the main objective in the game Monument Valley?",
     "answer": "Solving puzzles"
   },
@@ -582,6 +802,14 @@
   {
     "question": "What is the main weapon of Trevor in the game GTA V?",
     "answer": "Shotgun"
+  },
+  {
+    "question": "What is the maximum length of a baleen whale's baleen?",
+    "answer": "4 meters"
+  },
+  {
+    "question": "What is the maximum shell length of a turtle?",
+    "answer": "up to 200 cm"
   },
   {
     "question": "What is the mode called in Assassin's Creed IV where you can control a ship?",
@@ -602,6 +830,14 @@
   {
     "question": "What is the name of a major gaming event?",
     "answer": "Tournament"
+  },
+  {
+    "question": "What is the name of a small nomadic animal with a long nose?",
+    "answer": "Anteater"
+  },
+  {
+    "question": "What is the name of a toothed whale?",
+    "answer": "Odontocete"
   },
   {
     "question": "What is the name of the Chinese logic game consisting of wooden or plastic sticks that need to be woven in the correct order?",
@@ -708,6 +944,10 @@
     "answer": "Sword & Shield"
   },
   {
+    "question": "What is the name of the family of predatory fish?",
+    "answer": "Pike"
+  },
+  {
     "question": "What is the name of the famous puzzle creator?",
     "answer": "Martin Gardner"
   },
@@ -746,6 +986,10 @@
   {
     "question": "What is the name of the first game created by Hideo Kojima?",
     "answer": "Metal Gear"
+  },
+  {
+    "question": "What is the name of the fish with a long snout?",
+    "answer": "Seahorse"
   },
   {
     "question": "What is the name of the flight simulator by Laminar Research?",
@@ -948,8 +1192,16 @@
     "answer": "BitLife"
   },
   {
+    "question": "What is the name of the mollusk with a shell as transparent as glass?",
+    "answer": "Glass octopus"
+  },
+  {
     "question": "What is the name of the mysterious puzzle game by Capybara Games?",
     "answer": "Super Time Force"
+  },
+  {
+    "question": "What is the name of the nocturnal primate with big eyes?",
+    "answer": "Aye-aye"
   },
   {
     "question": "What is the name of the online conference for gamers?",
@@ -1012,6 +1264,10 @@
     "answer": "FreeSpace 2"
   },
   {
+    "question": "What is the name of the small South American monkey with a ringed tail?",
+    "answer": "marmoset"
+  },
+  {
     "question": "What is the name of the small town in the game Oxenfree?",
     "answer": "Camena"
   },
@@ -1052,6 +1308,10 @@
     "answer": "Finish the game"
   },
   {
+    "question": "What is the primary function of the water vascular system in echinoderms?",
+    "answer": "Hydrostatic pressure"
+  },
+  {
     "question": "What is the process of adding graphical effects in games called?",
     "answer": "Post-processing"
   },
@@ -1064,8 +1324,16 @@
     "answer": "Animation"
   },
   {
+    "question": "What is the process of digestion in starfish called?",
+    "answer": "External"
+  },
+  {
     "question": "What is the process of forming a deck called?",
     "answer": "Draft"
+  },
+  {
+    "question": "What is the property of a snake's special scales?",
+    "answer": "Protection"
   },
   {
     "question": "What is the real name of the esports player known as 'GeT_RiGhT'?",
@@ -1074,6 +1342,26 @@
   {
     "question": "What is the real name of the esports player known as ZywOo?",
     "answer": "Mathieu Herbaut"
+  },
+  {
+    "question": "What is the role of magmatic intrusions in geology?",
+    "answer": "Formation of ores"
+  },
+  {
+    "question": "What is the role of squids in the ecosystem?",
+    "answer": "Predators and prey"
+  },
+  {
+    "question": "What is the science that studies reptiles called?",
+    "answer": "Herpetology"
+  },
+  {
+    "question": "What is the smallest insect in the world?",
+    "answer": "Trichogramma wasp"
+  },
+  {
+    "question": "What is the swimming speed of a fin whale?",
+    "answer": "up to 50 km/h"
   },
   {
     "question": "What is the system called for automatic game code quality checking?",
@@ -1112,12 +1400,24 @@
     "answer": "Nirn"
   },
   {
+    "question": "What length can a blue whale reach?",
+    "answer": "30 meters"
+  },
+  {
     "question": "What mechanic allows you to draw additional cards in Magic: The Gathering?",
     "answer": "Draw"
   },
   {
+    "question": "What organisms does an anteater prefer to eat?",
+    "answer": "Termites"
+  },
+  {
     "question": "What prize is often awarded at LoL tournaments?",
     "answer": "Skin Pack"
+  },
+  {
+    "question": "What process contributes to the formation of unique species in the Aral Sea?",
+    "answer": "Isolation"
   },
   {
     "question": "What programming language is the Godot engine written in?",
@@ -1184,6 +1484,10 @@
     "answer": "Field"
   },
   {
+    "question": "What type of nervous system does a lamprey have?",
+    "answer": "Central"
+  },
+  {
     "question": "What type of puzzle involves the analysis of biomorphs?",
     "answer": "Biomorphology"
   },
@@ -1194,6 +1498,10 @@
   {
     "question": "What type of puzzles includes pieces that move?",
     "answer": "Sliding puzzles"
+  },
+  {
+    "question": "What type of skeleton do jawed vertebrates have?",
+    "answer": "Cartilaginous"
   },
   {
     "question": "What unique ability does the 'Worgen' class have in World of Warcraft?",
@@ -1216,8 +1524,20 @@
     "answer": "H1Z1"
   },
   {
+    "question": "What water temperature is preferred for squids?",
+    "answer": "Warm"
+  },
+  {
     "question": "When was the first Mario game released?",
     "answer": "1981"
+  },
+  {
+    "question": "Where are the lateral line organs located on a shark?",
+    "answer": "On the sides"
+  },
+  {
+    "question": "Where do water scorpions live?",
+    "answer": "Freshwater bodies"
   },
   {
     "question": "Where does the game Baldur's Gate take place?",
@@ -1228,12 +1548,20 @@
     "answer": "Vizima"
   },
   {
+    "question": "Where does the red wolf live?",
+    "answer": "Sikhote-Alin"
+  },
+  {
     "question": "Where is The International tournament usually held?",
     "answer": "USA"
   },
   {
     "question": "Where is the EVO tournament held?",
     "answer": "Las Vegas"
+  },
+  {
+    "question": "Where is the nerve cord located in cephalochordates?",
+    "answer": "above the notochord"
   },
   {
     "question": "Which AR game allows you to draw in the real world?",
@@ -1266,6 +1594,10 @@
   {
     "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
     "answer": "Vintage"
+  },
+  {
+    "question": "Which Russian nature reserve is famous for its population of brown bears?",
+    "answer": "Kronotsky"
   },
   {
     "question": "Which StarCraft II tournament is considered the most prestigious?",
@@ -1324,8 +1656,36 @@
     "answer": "Destiny Soldiers"
   },
   {
+    "question": "Which animal belongs to the group of cetaceans and is known for its long white tusks?",
+    "answer": "Narwhal"
+  },
+  {
+    "question": "Which animal can change its color?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "Which animal can transmit a radio signal over the longest distance?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which animal feeds on mosses and lichens?",
+    "answer": "Deer"
+  },
+  {
+    "question": "Which animal inhabits marshy areas and loves algae?",
+    "answer": "Capybara"
+  },
+  {
     "question": "Which animal is present in the game 'Carcassonne'?",
     "answer": "Dragon"
+  },
+  {
+    "question": "Which animal is protected in the Lazovsky Nature Reserve?",
+    "answer": "Amur leopard"
+  },
+  {
+    "question": "Which animals usually have sharp teeth?",
+    "answer": "Predators"
   },
   {
     "question": "Which artifact in the game The Legend of Zelda grants immortality?",
@@ -1338,6 +1698,42 @@
   {
     "question": "Which audience prefers podcasts?",
     "answer": "Adults"
+  },
+  {
+    "question": "Which bird can dive?",
+    "answer": "Cormorant"
+  },
+  {
+    "question": "Which bird has the strongest beak relative to its size?",
+    "answer": "Toucan"
+  },
+  {
+    "question": "Which bird is capable of deep diving?",
+    "answer": "Gannet"
+  },
+  {
+    "question": "Which bird is famous for its intricate nests in trees?",
+    "answer": "weaver"
+  },
+  {
+    "question": "Which bird is famous for nesting on cliffs?",
+    "answer": "cormorant"
+  },
+  {
+    "question": "Which bird is native only to New Zealand?",
+    "answer": "kiwi"
+  },
+  {
+    "question": "Which bird returns to the north first?",
+    "answer": "Rook"
+  },
+  {
+    "question": "Which birds are known for their ability to rapidly change flight altitude?",
+    "answer": "Swifts"
+  },
+  {
+    "question": "Which birds build nests out of clay?",
+    "answer": "Swallows"
   },
   {
     "question": "Which blogger is involved in creating makeup and wigs for shows?",
@@ -1388,6 +1784,10 @@
     "answer": "Risk"
   },
   {
+    "question": "Which body part do insects not have?",
+    "answer": "Tentacles"
+  },
+  {
     "question": "Which boss is an enemy in the game Bloodborne?",
     "answer": "Laurence"
   },
@@ -1398,6 +1798,10 @@
   {
     "question": "Which character appears in the game Monument Valley?",
     "answer": "Ida"
+  },
+  {
+    "question": "Which city in South America has the largest suburban railway network?",
+    "answer": "Buenos Aires"
   },
   {
     "question": "Which company organizes the esports tournament CDL?",
@@ -1412,8 +1816,20 @@
     "answer": "Command: Modern Ops"
   },
   {
+    "question": "Which country is leading in the production of smart city technologies?",
+    "answer": "Singapore"
+  },
+  {
     "question": "Which country won the first League of Legends World Championship?",
     "answer": "South Korea"
+  },
+  {
+    "question": "Which crocodiles inhabit South America?",
+    "answer": "Caimans"
+  },
+  {
+    "question": "Which crustaceans can fully regenerate limbs?",
+    "answer": "Lobsters"
   },
   {
     "question": "Which culinary blogger is known for their videos about fermented products?",
@@ -1422,6 +1838,10 @@
   {
     "question": "Which dragon is trapped in Skyrim?",
     "answer": "Odahviing"
+  },
+  {
+    "question": "Which echinoderms resemble lilies?",
+    "answer": "Sea lilies"
   },
   {
     "question": "Which element adds enhancements to cards in MTG?",
@@ -1446,6 +1866,34 @@
   {
     "question": "Which female athlete streams about swimming?",
     "answer": "Marina Osipova"
+  },
+  {
+    "question": "Which fish are capable of breathing air?",
+    "answer": "anabas"
+  },
+  {
+    "question": "Which fish can change its shape?",
+    "answer": "Flounder"
+  },
+  {
+    "question": "Which fish can go on land?",
+    "answer": "Bichir"
+  },
+  {
+    "question": "Which fish has rhomboid-shaped scales?",
+    "answer": "Gar"
+  },
+  {
+    "question": "Which fish is capable of regeneration?",
+    "answer": "Coelacanth"
+  },
+  {
+    "question": "Which fish lives in cold waters?",
+    "answer": "Pacific saury"
+  },
+  {
+    "question": "Which fish produces low-frequency sounds?",
+    "answer": "Triggerfish"
   },
   {
     "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -1664,6 +2112,14 @@
     "answer": "Vulkan API"
   },
   {
+    "question": "Which herbivorous animal lives high in the mountains?",
+    "answer": "Goat"
+  },
+  {
+    "question": "Which herbivorous animal most often falls prey to a leopard?",
+    "answer": "impala"
+  },
+  {
     "question": "Which horror game tells the story of an island taken over by maniacs?",
     "answer": "The Forest"
   },
@@ -1684,6 +2140,82 @@
     "answer": "Tacoma"
   },
   {
+    "question": "Which insect has the longest antennae?",
+    "answer": "Longhorn beetle"
+  },
+  {
+    "question": "Which insect has the strongest jaws?",
+    "answer": "Antlion"
+  },
+  {
+    "question": "Which insect is often found in fogs?",
+    "answer": "Mosquito"
+  },
+  {
+    "question": "Which insect lives in water?",
+    "answer": "Water strider"
+  },
+  {
+    "question": "Which insect makes an unusual sound when threatened?",
+    "answer": "Dung beetle"
+  },
+  {
+    "question": "Which insect uses mimicry for protection?",
+    "answer": "Butterfly"
+  },
+  {
+    "question": "Which insects feed on carrion?",
+    "answer": "Burying beetles"
+  },
+  {
+    "question": "Which insects glow in the dark?",
+    "answer": "fireflies"
+  },
+  {
+    "question": "Which insects have spiny legs?",
+    "answer": "Colorado beetles"
+  },
+  {
+    "question": "Which insects use pheromones for communication?",
+    "answer": "Ants"
+  },
+  {
+    "question": "Which large herbivorous animal lives in rivers and lakes?",
+    "answer": "hippopotamus"
+  },
+  {
+    "question": "Which living creature carries anodes?",
+    "answer": "Anodoreya"
+  },
+  {
+    "question": "Which lizard is considered sacred in Egypt?",
+    "answer": "Gecko"
+  },
+  {
+    "question": "Which mammal can mimic the human voice?",
+    "answer": "Whale"
+  },
+  {
+    "question": "Which mammal has the longest sleep duration?",
+    "answer": "Bat"
+  },
+  {
+    "question": "Which mammal inhabits high-altitude forests?",
+    "answer": "Orangutan"
+  },
+  {
+    "question": "Which mammal is known for its unique vocal apparatus?",
+    "answer": "Sperm whale"
+  },
+  {
+    "question": "Which mammal is the smallest in terms of population?",
+    "answer": "Vaquita"
+  },
+  {
+    "question": "Which mammal migrates the longest distances?",
+    "answer": "Whale"
+  },
+  {
     "question": "Which mathematical puzzle is the competition dedicated to?",
     "answer": "Sudoku"
   },
@@ -1692,8 +2224,40 @@
     "answer": "Mahjong"
   },
   {
+    "question": "Which mountain is the highest in the Caucasus Nature Reserve?",
+    "answer": "Elbrus"
+  },
+  {
+    "question": "Which nature reserve is famous for a large number of orchid species?",
+    "answer": "Ladoga"
+  },
+  {
+    "question": "Which nature reserve is famous for rare animals?",
+    "answer": "Darvinsky"
+  },
+  {
+    "question": "Which nature reserve is known for its population of Amur tigers?",
+    "answer": "Sikhote-Alin"
+  },
+  {
+    "question": "Which nature reserve is located on the Taymyr Peninsula?",
+    "answer": "Great Arctic"
+  },
+  {
+    "question": "Which ocean is slowly expanding?",
+    "answer": "Atlantic"
+  },
+  {
     "question": "Which of the following games is a grand strategy game?",
     "answer": "Europa Universalis"
+  },
+  {
+    "question": "Which organ in fish is responsible for swimming?",
+    "answer": "fin"
+  },
+  {
+    "question": "Which organic elements are absent in jawless animals?",
+    "answer": "Jaws"
   },
   {
     "question": "Which organization fights for control over the galaxy in Mass Effect?",
@@ -1702,6 +2266,10 @@
   {
     "question": "Which organization hosts the DreamHack tournament?",
     "answer": "DreamHack AB"
+  },
+  {
+    "question": "Which organs are absent in a lancelet?",
+    "answer": "Brain"
   },
   {
     "question": "Which platformer is known for its difficulty?",
@@ -1728,6 +2296,22 @@
     "answer": "Investing for Everyone"
   },
   {
+    "question": "Which primate monkey is known for its yellow fur?",
+    "answer": "howler monkey"
+  },
+  {
+    "question": "Which primates are capable of gliding from tree to tree?",
+    "answer": "Flying lemurs"
+  },
+  {
+    "question": "Which primates are known for their monogamous mating?",
+    "answer": "Gibbons"
+  },
+  {
+    "question": "Which primates can swim?",
+    "answer": "Proboscis monkeys"
+  },
+  {
     "question": "Which programming language was developed by Google?",
     "answer": "Go"
   },
@@ -1748,12 +2332,28 @@
     "answer": "Soma Cube"
   },
   {
+    "question": "Which reptile can move its eyes independently of each other?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "Which reptile can walk on water?",
+    "answer": "Basilisk"
+  },
+  {
+    "question": "Which reptile has the most powerful bite?",
+    "answer": "Crocodile"
+  },
+  {
     "question": "Which resource is not used in the game Age of Empires?",
     "answer": "Oil"
   },
   {
     "question": "Which role-playing online game is known for its large tournaments?",
     "answer": "World of Warcraft"
+  },
+  {
+    "question": "Which sea creature is often called a dancer?",
+    "answer": "Seahorse"
   },
   {
     "question": "Which simulator allows you to become a magazine editor?",
@@ -1780,6 +2380,18 @@
     "answer": "Speech"
   },
   {
+    "question": "Which snail is considered dangerous to humans?",
+    "answer": "Cone snail"
+  },
+  {
+    "question": "Which snail is known as a plant pest?",
+    "answer": "slug"
+  },
+  {
+    "question": "Which snail produces venom?",
+    "answer": "Cone snail"
+  },
+  {
     "question": "Which stage of development includes creating the game script?",
     "answer": "Script planning"
   },
@@ -1798,6 +2410,14 @@
   {
     "question": "Which studio developed the game The Last Guardian?",
     "answer": "Team Ico"
+  },
+  {
+    "question": "Which system in echinoderms is involved in nutrition?",
+    "answer": "Digestive"
+  },
+  {
+    "question": "Which system is the most developed in lampreys?",
+    "answer": "Nervous"
   },
   {
     "question": "Which team does the esports player Puppey play for?",
@@ -1824,6 +2444,10 @@
     "answer": "NAVI"
   },
   {
+    "question": "Which tick is commonly found on animals?",
+    "answer": "Ixodid tick"
+  },
+  {
     "question": "Which tournament is held in South Korea for real-time strategy games?",
     "answer": "GSL"
   },
@@ -1834,6 +2458,10 @@
   {
     "question": "Which virtual reality game allows players to explore dungeons?",
     "answer": "The Mage's Tale"
+  },
+  {
+    "question": "Which whale makes a 'rumble' sound?",
+    "answer": "Sperm whale"
   },
   {
     "question": "Who controls the game session?",
@@ -1870,6 +2498,10 @@
   {
     "question": "Who hosts the podcast \"Cultural Focus\"?",
     "answer": "Anna Petrova"
+  },
+  {
+    "question": "Who is a well-known enemy of the clownfish?",
+    "answer": "Sea snake"
   },
   {
     "question": "Who is considered the founder of the RPG genre?",

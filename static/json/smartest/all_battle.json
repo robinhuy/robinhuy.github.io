@@ -464,6 +464,10 @@
         "answer": "Filtering food"
     },
     {
+        "question": "What do spiders eat?",
+        "answer": "Insects"
+    },
+    {
         "question": "What do these beetles lack?",
         "answer": "Wings"
     },
@@ -812,6 +816,10 @@
         "answer": "Caro-Kann Defense"
     },
     {
+        "question": "What is the name of the organ that emits electrical signals in electric fish?",
+        "answer": "Electric organ"
+    },
+    {
         "question": "What is the name of the potent mollusk toxin?",
         "answer": "Tetrodotoxin"
     },
@@ -830,6 +838,10 @@
     {
         "question": "What is the notochord of a lancelet made of?",
         "answer": "Cartilage"
+    },
+    {
+        "question": "What is the number of gill openings in hagfish?",
+        "answer": "6-14"
     },
     {
         "question": "What is the optimal moisture level for composting?",
@@ -1892,6 +1904,10 @@
         "answer": "Tridacna"
     },
     {
+        "question": "Which mollusks are capable of photosynthesis?",
+        "answer": "Elysia chlorotica"
+    },
+    {
         "question": "Which mollusks are known as dangerous predators?",
         "answer": "Cones"
     },
@@ -1968,6 +1984,10 @@
         "answer": "radula"
     },
     {
+        "question": "Which organ in gastropod mollusks contains most of the internal organs?",
+        "answer": "Visceral hump"
+    },
+    {
         "question": "Which organs allow hagfish to hide in substrates?",
         "answer": "Slime"
     },
@@ -2033,6 +2053,10 @@
     },
     {
         "question": "Which primate has a high forehead?",
+        "answer": "Chimpanzee"
+    },
+    {
+        "question": "Which primate has the longest childhood period?",
         "answer": "Chimpanzee"
     },
     {
@@ -2186,6 +2210,10 @@
     {
         "question": "Which tick is commonly found on animals?",
         "answer": "Ixodid tick"
+    },
+    {
+        "question": "Which turtle can breathe through its skin?",
+        "answer": "Radiated tortoise"
     },
     {
         "question": "Which type of fish is known for its unique way of catching prey using a glowing lure?",
@@ -11353,6 +11381,14 @@
         "answer": "To minimize harm"
     },
     {
+        "question": "At what depth do dolphins usually feed?",
+        "answer": "30 meters"
+    },
+    {
+        "question": "Do jawless vertebrates have a backbone?",
+        "answer": "No"
+    },
+    {
         "question": "For which board game are twenty tokens required?",
         "answer": "Trivial Pursuit"
     },
@@ -11361,8 +11397,36 @@
         "answer": "Fortress"
     },
     {
+        "question": "How do fish navigate in the dark?",
+        "answer": "Lateral line"
+    },
+    {
+        "question": "How do hagfish move?",
+        "answer": "Undulating movements"
+    },
+    {
+        "question": "How do sea cucumbers feed?",
+        "answer": "Filtering water"
+    },
+    {
+        "question": "How do starfish maintain balance?",
+        "answer": "With their tube feet"
+    },
+    {
+        "question": "How does international trade affect the availability of food in different regions?",
+        "answer": "Positively"
+    },
+    {
+        "question": "How many eyes do flies have?",
+        "answer": "5"
+    },
+    {
         "question": "How many games are there in the main Resident Evil series?",
         "answer": "8"
+    },
+    {
+        "question": "How many gill slits do jawless fish have?",
+        "answer": "Up to 100"
     },
     {
         "question": "How many hours per week does a top football streamer stream?",
@@ -11377,6 +11441,10 @@
         "answer": "Fourteen"
     },
     {
+        "question": "How many liters of water does a blue whale filter at once?",
+        "answer": "10000 liters"
+    },
+    {
         "question": "How many phases are there in the game 'Pandemic'?",
         "answer": "5"
     },
@@ -11385,8 +11453,40 @@
         "answer": "13"
     },
     {
+        "question": "How many segments does a caterpillar have in its body?",
+        "answer": "13"
+    },
+    {
+        "question": "How many species of geckos are there?",
+        "answer": "1600+"
+    },
+    {
+        "question": "How many species of lemurs are there?",
+        "answer": "About 100"
+    },
+    {
+        "question": "How many species of lizards exist in the world?",
+        "answer": "6000"
+    },
+    {
+        "question": "How many species of rays are there?",
+        "answer": "More than 500"
+    },
+    {
+        "question": "How many species of snakes exist in the world?",
+        "answer": "more than 3000"
+    },
+    {
+        "question": "How many tentacles does an argopect have?",
+        "answer": "Ten"
+    },
+    {
         "question": "How many tiles are there in the game 'Mahjong'?",
         "answer": "144"
+    },
+    {
+        "question": "How many types of gills do sharks have?",
+        "answer": "Two"
     },
     {
         "question": "How often are playlists on music streaming services updated?",
@@ -11721,8 +11821,32 @@
         "answer": "January"
     },
     {
+        "question": "In which nature reserve can you find reed cats?",
+        "answer": "Dagestan Reserve"
+    },
+    {
+        "question": "In which nature reserve can you see the rare white stork?",
+        "answer": "Rostovsky"
+    },
+    {
+        "question": "In which nature reserve do red pandas live?",
+        "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "In which nature reserve do snow leopards live?",
+        "answer": "Sailugemsky"
+    },
+    {
         "question": "In which now-defunct tournament were competitions held for the MOBA game Heroes of the Storm?",
         "answer": "HGC"
+    },
+    {
+        "question": "In which ocean do giant squids live?",
+        "answer": "Atlantic"
+    },
+    {
+        "question": "In which ocean do hagfish live?",
+        "answer": "Pacific"
     },
     {
         "question": "Name the magical art of elven mages in the game Dragon Age.",
@@ -11741,6 +11865,10 @@
         "answer": "Prince"
     },
     {
+        "question": "The most venomous mammal?",
+        "answer": "Platypus"
+    },
+    {
         "question": "What activity, practiced by players, involves repetitive actions?",
         "answer": "Grinding"
     },
@@ -11753,8 +11881,32 @@
         "answer": "Trainers"
     },
     {
+        "question": "What are games with multiple participants in a single session called?",
+        "answer": "Session games"
+    },
+    {
         "question": "What are intensive tests for games called?",
         "answer": "Stress tests"
+    },
+    {
+        "question": "What are large eruptions called?",
+        "answer": "Catastrophic"
+    },
+    {
+        "question": "What are pedicellariae in sea urchins?",
+        "answer": "Small pincers"
+    },
+    {
+        "question": "What are the dorsal and ventral sides of lancelets covered with?",
+        "answer": "buds"
+    },
+    {
+        "question": "What are the fish called that live in the anode?",
+        "answer": "Anodores"
+    },
+    {
+        "question": "What are the main characteristics of primates?",
+        "answer": "Large brain"
     },
     {
         "question": "What are the main resources in the game Hay Day?",
@@ -11765,8 +11917,16 @@
         "answer": "Tiles"
     },
     {
+        "question": "What are the protective shields of crayfish called?",
+        "answer": "Carapaces"
+    },
+    {
         "question": "What are the regular meetings in the game called?",
         "answer": "Events"
+    },
+    {
+        "question": "What atmospheric changes can lead to the formation of a tornado?",
+        "answer": "Winds and cyclones"
     },
     {
         "question": "What can a podcast contain?",
@@ -11777,12 +11937,24 @@
         "answer": "Potion cards"
     },
     {
+        "question": "What changes occur in soils with prolonged use for agricultural purposes?",
+        "answer": "Depletion"
+    },
+    {
         "question": "What creature helps in the game Monument Valley 2?",
         "answer": "Crow"
     },
     {
         "question": "What creature is encountered in the game 'Gloomhaven'?",
         "answer": "Monster"
+    },
+    {
+        "question": "What distinguishes sea urchins from starfish?",
+        "answer": "Body shape"
+    },
+    {
+        "question": "What do these beetles lack?",
+        "answer": "Wings"
     },
     {
         "question": "What does HUD stand for?",
@@ -11795,6 +11967,14 @@
     {
         "question": "What does a player do in the game Battle Cats?",
         "answer": "Fights with cats"
+    },
+    {
+        "question": "What does a sea cucumber do when threatened?",
+        "answer": "Ejects its intestines"
+    },
+    {
+        "question": "What does the notochord in lancelets represent?",
+        "answer": "Rigid rod"
     },
     {
         "question": "What does the term 4X mean in strategy games?",
@@ -11823,6 +12003,42 @@
     {
         "question": "What event marked the beginning of the Witcher world?",
         "answer": "Conjunction of the Spheres"
+    },
+    {
+        "question": "What factor contributes to the formation of isolated ecosystems on a plateau?",
+        "answer": "Elevation"
+    },
+    {
+        "question": "What factors contribute to the formation of ancient continents?",
+        "answer": "Plate tectonics"
+    },
+    {
+        "question": "What factors contribute to the formation of temporary watercourses?",
+        "answer": "Heavy rainfall"
+    },
+    {
+        "question": "What feeding method do most brittle stars use?",
+        "answer": "Detritivory"
+    },
+    {
+        "question": "What fish inhabits the Nile River?",
+        "answer": "Nile perch"
+    },
+    {
+        "question": "What fish lives in caves and is blind?",
+        "answer": "Cavefish"
+    },
+    {
+        "question": "What function do ancient gill slits serve in jawless vertebrates?",
+        "answer": "Respiratory"
+    },
+    {
+        "question": "What function does the dental plate serve in hagfish?",
+        "answer": "food capture"
+    },
+    {
+        "question": "What function does the respiratory system perform?",
+        "answer": "Respiratory"
     },
     {
         "question": "What game engine is used in The Elder Scrolls V: Skyrim?",
@@ -11857,6 +12073,18 @@
         "answer": "Role-playing"
     },
     {
+        "question": "What is a madreporite?",
+        "answer": "Entrance to the ambulacral system"
+    },
+    {
+        "question": "What is a pedicellaria?",
+        "answer": "Pincers"
+    },
+    {
+        "question": "What is a trepang?",
+        "answer": "Sea cucumber"
+    },
+    {
         "question": "What is an API?",
         "answer": "Application Interface"
     },
@@ -11869,12 +12097,20 @@
         "answer": "10"
     },
     {
+        "question": "What is the class to which lampreys and hagfish belong called?",
+        "answer": "Cyclostomes"
+    },
+    {
         "question": "What is the creation of content for games called?",
         "answer": "Modding"
     },
     {
         "question": "What is the document with the game description called?",
         "answer": "Design document"
+    },
+    {
+        "question": "What is the dorsal fin of a humpback whale called?",
+        "answer": "Hump"
     },
     {
         "question": "What is the effect in Magic: The Gathering called that allows you to play a card without paying its mana cost?",
@@ -11917,6 +12153,22 @@
         "answer": "Greenland"
     },
     {
+        "question": "What is the largest living mollusk?",
+        "answer": "Giant squid"
+    },
+    {
+        "question": "What is the leg span of the largest crab in the world?",
+        "answer": "3.8 meters"
+    },
+    {
+        "question": "What is the life cycle of insects called?",
+        "answer": "Metamorphosis"
+    },
+    {
+        "question": "What is the main difference between lampreys and fish?",
+        "answer": "absence of jaws"
+    },
+    {
         "question": "What is the main objective in the game Monument Valley?",
         "answer": "Solving puzzles"
     },
@@ -11931,6 +12183,14 @@
     {
         "question": "What is the main weapon of Trevor in the game GTA V?",
         "answer": "Shotgun"
+    },
+    {
+        "question": "What is the maximum length of a baleen whale's baleen?",
+        "answer": "4 meters"
+    },
+    {
+        "question": "What is the maximum shell length of a turtle?",
+        "answer": "up to 200 cm"
     },
     {
         "question": "What is the mode called in Assassin's Creed IV where you can control a ship?",
@@ -11951,6 +12211,14 @@
     {
         "question": "What is the name of a major gaming event?",
         "answer": "Tournament"
+    },
+    {
+        "question": "What is the name of a small nomadic animal with a long nose?",
+        "answer": "Anteater"
+    },
+    {
+        "question": "What is the name of a toothed whale?",
+        "answer": "Odontocete"
     },
     {
         "question": "What is the name of the Chinese logic game consisting of wooden or plastic sticks that need to be woven in the correct order?",
@@ -12057,6 +12325,10 @@
         "answer": "Sword & Shield"
     },
     {
+        "question": "What is the name of the family of predatory fish?",
+        "answer": "Pike"
+    },
+    {
         "question": "What is the name of the famous puzzle creator?",
         "answer": "Martin Gardner"
     },
@@ -12095,6 +12367,10 @@
     {
         "question": "What is the name of the first game created by Hideo Kojima?",
         "answer": "Metal Gear"
+    },
+    {
+        "question": "What is the name of the fish with a long snout?",
+        "answer": "Seahorse"
     },
     {
         "question": "What is the name of the flight simulator by Laminar Research?",
@@ -12297,8 +12573,16 @@
         "answer": "BitLife"
     },
     {
+        "question": "What is the name of the mollusk with a shell as transparent as glass?",
+        "answer": "Glass octopus"
+    },
+    {
         "question": "What is the name of the mysterious puzzle game by Capybara Games?",
         "answer": "Super Time Force"
+    },
+    {
+        "question": "What is the name of the nocturnal primate with big eyes?",
+        "answer": "Aye-aye"
     },
     {
         "question": "What is the name of the online conference for gamers?",
@@ -12361,6 +12645,10 @@
         "answer": "FreeSpace 2"
     },
     {
+        "question": "What is the name of the small South American monkey with a ringed tail?",
+        "answer": "marmoset"
+    },
+    {
         "question": "What is the name of the small town in the game Oxenfree?",
         "answer": "Camena"
     },
@@ -12401,6 +12689,10 @@
         "answer": "Finish the game"
     },
     {
+        "question": "What is the primary function of the water vascular system in echinoderms?",
+        "answer": "Hydrostatic pressure"
+    },
+    {
         "question": "What is the process of adding graphical effects in games called?",
         "answer": "Post-processing"
     },
@@ -12413,8 +12705,16 @@
         "answer": "Animation"
     },
     {
+        "question": "What is the process of digestion in starfish called?",
+        "answer": "External"
+    },
+    {
         "question": "What is the process of forming a deck called?",
         "answer": "Draft"
+    },
+    {
+        "question": "What is the property of a snake's special scales?",
+        "answer": "Protection"
     },
     {
         "question": "What is the real name of the esports player known as 'GeT_RiGhT'?",
@@ -12423,6 +12723,26 @@
     {
         "question": "What is the real name of the esports player known as ZywOo?",
         "answer": "Mathieu Herbaut"
+    },
+    {
+        "question": "What is the role of magmatic intrusions in geology?",
+        "answer": "Formation of ores"
+    },
+    {
+        "question": "What is the role of squids in the ecosystem?",
+        "answer": "Predators and prey"
+    },
+    {
+        "question": "What is the science that studies reptiles called?",
+        "answer": "Herpetology"
+    },
+    {
+        "question": "What is the smallest insect in the world?",
+        "answer": "Trichogramma wasp"
+    },
+    {
+        "question": "What is the swimming speed of a fin whale?",
+        "answer": "up to 50 km/h"
     },
     {
         "question": "What is the system called for automatic game code quality checking?",
@@ -12461,12 +12781,24 @@
         "answer": "Nirn"
     },
     {
+        "question": "What length can a blue whale reach?",
+        "answer": "30 meters"
+    },
+    {
         "question": "What mechanic allows you to draw additional cards in Magic: The Gathering?",
         "answer": "Draw"
     },
     {
+        "question": "What organisms does an anteater prefer to eat?",
+        "answer": "Termites"
+    },
+    {
         "question": "What prize is often awarded at LoL tournaments?",
         "answer": "Skin Pack"
+    },
+    {
+        "question": "What process contributes to the formation of unique species in the Aral Sea?",
+        "answer": "Isolation"
     },
     {
         "question": "What programming language is the Godot engine written in?",
@@ -12533,6 +12865,10 @@
         "answer": "Field"
     },
     {
+        "question": "What type of nervous system does a lamprey have?",
+        "answer": "Central"
+    },
+    {
         "question": "What type of puzzle involves the analysis of biomorphs?",
         "answer": "Biomorphology"
     },
@@ -12543,6 +12879,10 @@
     {
         "question": "What type of puzzles includes pieces that move?",
         "answer": "Sliding puzzles"
+    },
+    {
+        "question": "What type of skeleton do jawed vertebrates have?",
+        "answer": "Cartilaginous"
     },
     {
         "question": "What unique ability does the 'Worgen' class have in World of Warcraft?",
@@ -12565,8 +12905,20 @@
         "answer": "H1Z1"
     },
     {
+        "question": "What water temperature is preferred for squids?",
+        "answer": "Warm"
+    },
+    {
         "question": "When was the first Mario game released?",
         "answer": "1981"
+    },
+    {
+        "question": "Where are the lateral line organs located on a shark?",
+        "answer": "On the sides"
+    },
+    {
+        "question": "Where do water scorpions live?",
+        "answer": "Freshwater bodies"
     },
     {
         "question": "Where does the game Baldur's Gate take place?",
@@ -12577,12 +12929,20 @@
         "answer": "Vizima"
     },
     {
+        "question": "Where does the red wolf live?",
+        "answer": "Sikhote-Alin"
+    },
+    {
         "question": "Where is The International tournament usually held?",
         "answer": "USA"
     },
     {
         "question": "Where is the EVO tournament held?",
         "answer": "Las Vegas"
+    },
+    {
+        "question": "Where is the nerve cord located in cephalochordates?",
+        "answer": "above the notochord"
     },
     {
         "question": "Which AR game allows you to draw in the real world?",
@@ -12615,6 +12975,10 @@
     {
         "question": "Which Magic: The Gathering format allows the use of cards from all sets?",
         "answer": "Vintage"
+    },
+    {
+        "question": "Which Russian nature reserve is famous for its population of brown bears?",
+        "answer": "Kronotsky"
     },
     {
         "question": "Which StarCraft II tournament is considered the most prestigious?",
@@ -12673,8 +13037,36 @@
         "answer": "Destiny Soldiers"
     },
     {
+        "question": "Which animal belongs to the group of cetaceans and is known for its long white tusks?",
+        "answer": "Narwhal"
+    },
+    {
+        "question": "Which animal can change its color?",
+        "answer": "Chameleon"
+    },
+    {
+        "question": "Which animal can transmit a radio signal over the longest distance?",
+        "answer": "Elephant"
+    },
+    {
+        "question": "Which animal feeds on mosses and lichens?",
+        "answer": "Deer"
+    },
+    {
+        "question": "Which animal inhabits marshy areas and loves algae?",
+        "answer": "Capybara"
+    },
+    {
         "question": "Which animal is present in the game 'Carcassonne'?",
         "answer": "Dragon"
+    },
+    {
+        "question": "Which animal is protected in the Lazovsky Nature Reserve?",
+        "answer": "Amur leopard"
+    },
+    {
+        "question": "Which animals usually have sharp teeth?",
+        "answer": "Predators"
     },
     {
         "question": "Which artifact in the game The Legend of Zelda grants immortality?",
@@ -12687,6 +13079,42 @@
     {
         "question": "Which audience prefers podcasts?",
         "answer": "Adults"
+    },
+    {
+        "question": "Which bird can dive?",
+        "answer": "Cormorant"
+    },
+    {
+        "question": "Which bird has the strongest beak relative to its size?",
+        "answer": "Toucan"
+    },
+    {
+        "question": "Which bird is capable of deep diving?",
+        "answer": "Gannet"
+    },
+    {
+        "question": "Which bird is famous for its intricate nests in trees?",
+        "answer": "weaver"
+    },
+    {
+        "question": "Which bird is famous for nesting on cliffs?",
+        "answer": "cormorant"
+    },
+    {
+        "question": "Which bird is native only to New Zealand?",
+        "answer": "kiwi"
+    },
+    {
+        "question": "Which bird returns to the north first?",
+        "answer": "Rook"
+    },
+    {
+        "question": "Which birds are known for their ability to rapidly change flight altitude?",
+        "answer": "Swifts"
+    },
+    {
+        "question": "Which birds build nests out of clay?",
+        "answer": "Swallows"
     },
     {
         "question": "Which blogger is involved in creating makeup and wigs for shows?",
@@ -12737,6 +13165,10 @@
         "answer": "Risk"
     },
     {
+        "question": "Which body part do insects not have?",
+        "answer": "Tentacles"
+    },
+    {
         "question": "Which boss is an enemy in the game Bloodborne?",
         "answer": "Laurence"
     },
@@ -12747,6 +13179,10 @@
     {
         "question": "Which character appears in the game Monument Valley?",
         "answer": "Ida"
+    },
+    {
+        "question": "Which city in South America has the largest suburban railway network?",
+        "answer": "Buenos Aires"
     },
     {
         "question": "Which company organizes the esports tournament CDL?",
@@ -12761,8 +13197,20 @@
         "answer": "Command: Modern Ops"
     },
     {
+        "question": "Which country is leading in the production of smart city technologies?",
+        "answer": "Singapore"
+    },
+    {
         "question": "Which country won the first League of Legends World Championship?",
         "answer": "South Korea"
+    },
+    {
+        "question": "Which crocodiles inhabit South America?",
+        "answer": "Caimans"
+    },
+    {
+        "question": "Which crustaceans can fully regenerate limbs?",
+        "answer": "Lobsters"
     },
     {
         "question": "Which culinary blogger is known for their videos about fermented products?",
@@ -12771,6 +13219,10 @@
     {
         "question": "Which dragon is trapped in Skyrim?",
         "answer": "Odahviing"
+    },
+    {
+        "question": "Which echinoderms resemble lilies?",
+        "answer": "Sea lilies"
     },
     {
         "question": "Which element adds enhancements to cards in MTG?",
@@ -12795,6 +13247,34 @@
     {
         "question": "Which female athlete streams about swimming?",
         "answer": "Marina Osipova"
+    },
+    {
+        "question": "Which fish are capable of breathing air?",
+        "answer": "anabas"
+    },
+    {
+        "question": "Which fish can change its shape?",
+        "answer": "Flounder"
+    },
+    {
+        "question": "Which fish can go on land?",
+        "answer": "Bichir"
+    },
+    {
+        "question": "Which fish has rhomboid-shaped scales?",
+        "answer": "Gar"
+    },
+    {
+        "question": "Which fish is capable of regeneration?",
+        "answer": "Coelacanth"
+    },
+    {
+        "question": "Which fish lives in cold waters?",
+        "answer": "Pacific saury"
+    },
+    {
+        "question": "Which fish produces low-frequency sounds?",
+        "answer": "Triggerfish"
     },
     {
         "question": "Which game allows players to build a city on post-apocalyptic land?",
@@ -13013,6 +13493,14 @@
         "answer": "Vulkan API"
     },
     {
+        "question": "Which herbivorous animal lives high in the mountains?",
+        "answer": "Goat"
+    },
+    {
+        "question": "Which herbivorous animal most often falls prey to a leopard?",
+        "answer": "impala"
+    },
+    {
         "question": "Which horror game tells the story of an island taken over by maniacs?",
         "answer": "The Forest"
     },
@@ -13033,6 +13521,82 @@
         "answer": "Tacoma"
     },
     {
+        "question": "Which insect has the longest antennae?",
+        "answer": "Longhorn beetle"
+    },
+    {
+        "question": "Which insect has the strongest jaws?",
+        "answer": "Antlion"
+    },
+    {
+        "question": "Which insect is often found in fogs?",
+        "answer": "Mosquito"
+    },
+    {
+        "question": "Which insect lives in water?",
+        "answer": "Water strider"
+    },
+    {
+        "question": "Which insect makes an unusual sound when threatened?",
+        "answer": "Dung beetle"
+    },
+    {
+        "question": "Which insect uses mimicry for protection?",
+        "answer": "Butterfly"
+    },
+    {
+        "question": "Which insects feed on carrion?",
+        "answer": "Burying beetles"
+    },
+    {
+        "question": "Which insects glow in the dark?",
+        "answer": "fireflies"
+    },
+    {
+        "question": "Which insects have spiny legs?",
+        "answer": "Colorado beetles"
+    },
+    {
+        "question": "Which insects use pheromones for communication?",
+        "answer": "Ants"
+    },
+    {
+        "question": "Which large herbivorous animal lives in rivers and lakes?",
+        "answer": "hippopotamus"
+    },
+    {
+        "question": "Which living creature carries anodes?",
+        "answer": "Anodoreya"
+    },
+    {
+        "question": "Which lizard is considered sacred in Egypt?",
+        "answer": "Gecko"
+    },
+    {
+        "question": "Which mammal can mimic the human voice?",
+        "answer": "Whale"
+    },
+    {
+        "question": "Which mammal has the longest sleep duration?",
+        "answer": "Bat"
+    },
+    {
+        "question": "Which mammal inhabits high-altitude forests?",
+        "answer": "Orangutan"
+    },
+    {
+        "question": "Which mammal is known for its unique vocal apparatus?",
+        "answer": "Sperm whale"
+    },
+    {
+        "question": "Which mammal is the smallest in terms of population?",
+        "answer": "Vaquita"
+    },
+    {
+        "question": "Which mammal migrates the longest distances?",
+        "answer": "Whale"
+    },
+    {
         "question": "Which mathematical puzzle is the competition dedicated to?",
         "answer": "Sudoku"
     },
@@ -13041,8 +13605,40 @@
         "answer": "Mahjong"
     },
     {
+        "question": "Which mountain is the highest in the Caucasus Nature Reserve?",
+        "answer": "Elbrus"
+    },
+    {
+        "question": "Which nature reserve is famous for a large number of orchid species?",
+        "answer": "Ladoga"
+    },
+    {
+        "question": "Which nature reserve is famous for rare animals?",
+        "answer": "Darvinsky"
+    },
+    {
+        "question": "Which nature reserve is known for its population of Amur tigers?",
+        "answer": "Sikhote-Alin"
+    },
+    {
+        "question": "Which nature reserve is located on the Taymyr Peninsula?",
+        "answer": "Great Arctic"
+    },
+    {
+        "question": "Which ocean is slowly expanding?",
+        "answer": "Atlantic"
+    },
+    {
         "question": "Which of the following games is a grand strategy game?",
         "answer": "Europa Universalis"
+    },
+    {
+        "question": "Which organ in fish is responsible for swimming?",
+        "answer": "fin"
+    },
+    {
+        "question": "Which organic elements are absent in jawless animals?",
+        "answer": "Jaws"
     },
     {
         "question": "Which organization fights for control over the galaxy in Mass Effect?",
@@ -13051,6 +13647,10 @@
     {
         "question": "Which organization hosts the DreamHack tournament?",
         "answer": "DreamHack AB"
+    },
+    {
+        "question": "Which organs are absent in a lancelet?",
+        "answer": "Brain"
     },
     {
         "question": "Which platformer is known for its difficulty?",
@@ -13077,6 +13677,22 @@
         "answer": "Investing for Everyone"
     },
     {
+        "question": "Which primate monkey is known for its yellow fur?",
+        "answer": "howler monkey"
+    },
+    {
+        "question": "Which primates are capable of gliding from tree to tree?",
+        "answer": "Flying lemurs"
+    },
+    {
+        "question": "Which primates are known for their monogamous mating?",
+        "answer": "Gibbons"
+    },
+    {
+        "question": "Which primates can swim?",
+        "answer": "Proboscis monkeys"
+    },
+    {
         "question": "Which programming language was developed by Google?",
         "answer": "Go"
     },
@@ -13097,12 +13713,28 @@
         "answer": "Soma Cube"
     },
     {
+        "question": "Which reptile can move its eyes independently of each other?",
+        "answer": "Chameleon"
+    },
+    {
+        "question": "Which reptile can walk on water?",
+        "answer": "Basilisk"
+    },
+    {
+        "question": "Which reptile has the most powerful bite?",
+        "answer": "Crocodile"
+    },
+    {
         "question": "Which resource is not used in the game Age of Empires?",
         "answer": "Oil"
     },
     {
         "question": "Which role-playing online game is known for its large tournaments?",
         "answer": "World of Warcraft"
+    },
+    {
+        "question": "Which sea creature is often called a dancer?",
+        "answer": "Seahorse"
     },
     {
         "question": "Which simulator allows you to become a magazine editor?",
@@ -13129,6 +13761,18 @@
         "answer": "Speech"
     },
     {
+        "question": "Which snail is considered dangerous to humans?",
+        "answer": "Cone snail"
+    },
+    {
+        "question": "Which snail is known as a plant pest?",
+        "answer": "slug"
+    },
+    {
+        "question": "Which snail produces venom?",
+        "answer": "Cone snail"
+    },
+    {
         "question": "Which stage of development includes creating the game script?",
         "answer": "Script planning"
     },
@@ -13147,6 +13791,14 @@
     {
         "question": "Which studio developed the game The Last Guardian?",
         "answer": "Team Ico"
+    },
+    {
+        "question": "Which system in echinoderms is involved in nutrition?",
+        "answer": "Digestive"
+    },
+    {
+        "question": "Which system is the most developed in lampreys?",
+        "answer": "Nervous"
     },
     {
         "question": "Which team does the esports player Puppey play for?",
@@ -13173,6 +13825,10 @@
         "answer": "NAVI"
     },
     {
+        "question": "Which tick is commonly found on animals?",
+        "answer": "Ixodid tick"
+    },
+    {
         "question": "Which tournament is held in South Korea for real-time strategy games?",
         "answer": "GSL"
     },
@@ -13183,6 +13839,10 @@
     {
         "question": "Which virtual reality game allows players to explore dungeons?",
         "answer": "The Mage's Tale"
+    },
+    {
+        "question": "Which whale makes a 'rumble' sound?",
+        "answer": "Sperm whale"
     },
     {
         "question": "Who controls the game session?",
@@ -13219,6 +13879,10 @@
     {
         "question": "Who hosts the podcast \"Cultural Focus\"?",
         "answer": "Anna Petrova"
+    },
+    {
+        "question": "Who is a well-known enemy of the clownfish?",
+        "answer": "Sea snake"
     },
     {
         "question": "Who is considered the founder of the RPG genre?",
@@ -14601,6 +15265,10 @@
         "answer": "Decrease in volumes"
     },
     {
+        "question": "How do innovations in the agro-industrial sector affect the sustainability of food systems?",
+        "answer": "Increased efficiency"
+    },
+    {
         "question": "How do international free trade agreements affect the global economy?",
         "answer": "Reduction of barriers"
     },
@@ -14683,6 +15351,10 @@
     {
         "question": "How do tectonic processes affect biogeographic distribution?",
         "answer": "Range shifts"
+    },
+    {
+        "question": "How do tectonic shifts affect the evolution of species?",
+        "answer": "Isolation of populations"
     },
     {
         "question": "How do the boundaries of tectonic plates change as a result of continental drift?",
@@ -14909,6 +15581,10 @@
         "answer": "Cooling"
     },
     {
+        "question": "How does the development of technology affect the structure of modern megacities?",
+        "answer": "Changes the layout"
+    },
+    {
         "question": "How does the difference in albedo affect the temperature of climate zones?",
         "answer": "Light reflection"
     },
@@ -14994,6 +15670,10 @@
     {
         "question": "How is food redistribution managed during global crises?",
         "answer": "Logistics"
+    },
+    {
+        "question": "How is the accuracy of digital terrain models determined in cartography?",
+        "answer": "Reference data"
     },
     {
         "question": "How is the age of rocks determined by radiometric dating?",
@@ -15100,6 +15780,10 @@
         "answer": "Iran"
     },
     {
+        "question": "In which country does the population speak more than 800 languages?",
+        "answer": "Papua New Guinea"
+    },
+    {
         "question": "In which country has the average life expectancy increased by 10 years since 1990?",
         "answer": "China"
     },
@@ -15166,6 +15850,10 @@
     {
         "question": "In which region is the UTC+8:45 time zone used?",
         "answer": "Southern Australia"
+    },
+    {
+        "question": "In which region is vertical farming most developed?",
+        "answer": "Singapore"
     },
     {
         "question": "In which region of North America is waste-to-energy conversion most developed?",
@@ -15394,6 +16082,10 @@
         "answer": "Economic"
     },
     {
+        "question": "What are the mechanisms by which hydrogeological conditions influence the development of soil horizons?",
+        "answer": "Determine development"
+    },
+    {
         "question": "What are the mixtures of rocks in the desert called?",
         "answer": "Reg"
     },
@@ -15594,6 +16286,10 @@
         "answer": "Sustainable development"
     },
     {
+        "question": "What climate and soil conditions are conducive to growing rare spices?",
+        "answer": "Tropical"
+    },
+    {
         "question": "What climate changes affect deserts?",
         "answer": "Global warming"
     },
@@ -15647,6 +16343,10 @@
     {
         "question": "What concept describes the merging of urban agglomerations into a single megalopolitan area?",
         "answer": "Megalopolis"
+    },
+    {
+        "question": "What conditions are necessary for the formation of oil?",
+        "answer": "High pressure"
     },
     {
         "question": "What conditions are necessary for the formation of rift valleys on continents?",
@@ -15857,6 +16557,10 @@
         "answer": "Isolation"
     },
     {
+        "question": "What factor determines seasonal changes in winds in tropical regions?",
+        "answer": "Convection"
+    },
+    {
         "question": "What factor determines the distribution of agricultural land in the tropics?",
         "answer": "Rainfall"
     },
@@ -15925,6 +16629,10 @@
         "answer": "Climate change"
     },
     {
+        "question": "What factors contribute to the change in forest-steppe?",
+        "answer": "Climate"
+    },
+    {
         "question": "What factors contribute to the change in the ranges of migratory species?",
         "answer": "Climate changes"
     },
@@ -15935,6 +16643,10 @@
     {
         "question": "What factors contribute to the development of agritourism in agri-food regions?",
         "answer": "Investments"
+    },
+    {
+        "question": "What factors contribute to the formation of ancient continental platforms?",
+        "answer": "Tectonic uplifts"
     },
     {
         "question": "What factors contribute to the formation of caverns in limestone?",
@@ -15955,6 +16667,10 @@
     {
         "question": "What factors contribute to the international competitiveness of zones?",
         "answer": "Innovation and technology"
+    },
+    {
+        "question": "What factors contribute to the stability of an ecosystem?",
+        "answer": "Biodiversity"
     },
     {
         "question": "What factors contribute to the strengthening of cultural homogenization?",
@@ -16561,6 +17277,10 @@
         "answer": "Competition"
     },
     {
+        "question": "What is the key factor that determines biodiversity in tropical rainforests?",
+        "answer": "Humidity"
+    },
+    {
         "question": "What is the key factor when choosing an oil transit route from Russia to Europe?",
         "answer": "Infrastructure"
     },
@@ -16687,6 +17407,10 @@
     {
         "question": "What is the name of the river in Iceland known for its glacial lagoons and waterfalls?",
         "answer": "Jökulsá"
+    },
+    {
+        "question": "What is the name of the river known for being the longest underground river?",
+        "answer": "Puerto Princesa"
     },
     {
         "question": "What is the name of the river that flows through the most populous city in China?",
@@ -16827,6 +17551,10 @@
     {
         "question": "What is volcanic glass called?",
         "answer": "Obsidian"
+    },
+    {
+        "question": "What land use changes affect ecosystems?",
+        "answer": "Urbanization"
     },
     {
         "question": "What land use changes can enhance the sustainability of agriculture?",
@@ -16973,6 +17701,10 @@
         "answer": "Geophysical surveys"
     },
     {
+        "question": "What methods are used for processing metal ores?",
+        "answer": "Enrichment"
+    },
+    {
         "question": "What methods are used for studying paleogeographic reconstructions of ancient continents?",
         "answer": "Paleomagnetic data"
     },
@@ -17019,6 +17751,10 @@
     {
         "question": "What natural conditions contribute to the formation of hyper-arid deserts?",
         "answer": "High insolation"
+    },
+    {
+        "question": "What natural conditions contribute to the formation of tornadoes?",
+        "answer": "Temperature contrast"
     },
     {
         "question": "What natural disaster associated with extreme weather conditions can lead to prolonged droughts and affect agriculture?",
@@ -17225,6 +17961,10 @@
         "answer": "Soil erosion"
     },
     {
+        "question": "What phenomenon causes changes in climate zones due to volcanic activity?",
+        "answer": "Aerosols"
+    },
+    {
         "question": "What phenomenon causes changes in groundwater levels?",
         "answer": "Change in rainfall"
     },
@@ -17311,6 +18051,10 @@
     {
         "question": "What phenomenon often accompanies the process of subduction?",
         "answer": "Volcanism"
+    },
+    {
+        "question": "What phenomenon significantly affects the climatic conditions in polar regions?",
+        "answer": "Ice albedo"
     },
     {
         "question": "What phenomenon triggers underwater earthquakes?",
@@ -17581,6 +18325,10 @@
         "answer": "Continental drift"
     },
     {
+        "question": "What process leads to tectonic earthquakes?",
+        "answer": "Transform boundary"
+    },
+    {
         "question": "What process leads to the formation of anticline structures in folded regions?",
         "answer": "Tectonic pressure"
     },
@@ -17765,6 +18513,10 @@
         "answer": "Capillarity"
     },
     {
+        "question": "What processes increase biodiversity in tropical forests?",
+        "answer": "Evolutionary radiation"
+    },
+    {
         "question": "What processes influence structural changes in the steppes?",
         "answer": "Fires"
     },
@@ -17827,6 +18579,10 @@
     {
         "question": "What processes lead to the formation of volcanic islands?",
         "answer": "Underwater volcanism"
+    },
+    {
+        "question": "What processes led to the formation of modern mountain systems?",
+        "answer": "Tectonic shifts"
     },
     {
         "question": "What processes regulate the global circulation of the atmosphere?",
@@ -18055,6 +18811,10 @@
     {
         "question": "What structure connects the Scandinavian and Jutland peninsulas?",
         "answer": "Øresund Bridge"
+    },
+    {
+        "question": "What structures are characteristic of cratons?",
+        "answer": "Ancient platforms"
     },
     {
         "question": "What structures are characteristic of polycyclic landscapes?",
@@ -18301,6 +19061,10 @@
         "answer": "Climatic changes"
     },
     {
+        "question": "What were the consequences of the migration of Germanic tribes into the territories of the former Roman Empire?",
+        "answer": "Cultural changes"
+    },
+    {
         "question": "When did the Atlantic Ocean begin to expand?",
         "answer": "Mesozoic"
     },
@@ -18355,6 +19119,10 @@
     {
         "question": "Where is the largest microchip manufacturing plant in the world located?",
         "answer": "Taiwan"
+    },
+    {
+        "question": "Where is the largest renewable energy center in Europe located?",
+        "answer": "Germany"
     },
     {
         "question": "Where is the largest underwater river located?",
@@ -18419,6 +19187,10 @@
     {
         "question": "Which European city is an important center for grain trade due to its strategic position on the Danube?",
         "answer": "Budapest"
+    },
+    {
+        "question": "Which European city is the largest railway hub connecting Eastern and Western Europe?",
+        "answer": "Berlin"
     },
     {
         "question": "Which European city is the main trading hub for copper?",
@@ -18601,6 +19373,10 @@
         "answer": "Johannesburg"
     },
     {
+        "question": "Which city in Asia has the most developed expressway system?",
+        "answer": "Tokyo"
+    },
+    {
         "question": "Which city in Asia is a key hub for oil and gas trade due to its strategic location?",
         "answer": "Dubai"
     },
@@ -18728,6 +19504,10 @@
         "answer": "Baghdad"
     },
     {
+        "question": "Which city was the first capital of Italy?",
+        "answer": "Turin"
+    },
+    {
         "question": "Which city was the first to introduce electric street lighting?",
         "answer": "New York"
     },
@@ -18820,6 +19600,10 @@
         "answer": "Thailand"
     },
     {
+        "question": "Which country in the Middle East uses a currency with a name related to ancient mythology?",
+        "answer": "Israel"
+    },
+    {
         "question": "Which country is actively developing technology parks?",
         "answer": "China"
     },
@@ -18866,6 +19650,10 @@
     {
         "question": "Which country uses a currency with a name related to an ancient Slavic word meaning 'trade'?",
         "answer": "Poland"
+    },
+    {
+        "question": "Which country uses a unique 45-minute offset from UTC?",
+        "answer": "Nepal"
     },
     {
         "question": "Which country uses the UTC+8:45 time zone?",
@@ -19016,8 +19804,20 @@
         "answer": "Polar day"
     },
     {
+        "question": "Which famous peak was first climbed by a female mountaineer in 1974?",
+        "answer": "Annapurna"
+    },
+    {
         "question": "Which farming method reduces environmental impact in arid zones?",
         "answer": "Drip irrigation"
+    },
+    {
+        "question": "Which floristic region is protected in Kruger National Park in South Africa?",
+        "answer": "Savanna"
+    },
+    {
+        "question": "Which gas is commonly found in coal mines?",
+        "answer": "Methane"
     },
     {
         "question": "Which geographical location provides the greatest control over transatlantic routes?",
@@ -19130,6 +19930,10 @@
     {
         "question": "Which landforms indicate ancient tectonic processes?",
         "answer": "Rift valleys"
+    },
+    {
+        "question": "Which landscape element is critically important for creating a microclimate in vineyards?",
+        "answer": "Hills"
     },
     {
         "question": "Which landscape element is most susceptible to deflation?",
@@ -19260,6 +20064,10 @@
         "answer": "Temperature regime"
     },
     {
+        "question": "Which parameter determines the reliability of map projections in aviation?",
+        "answer": "Air navigation"
+    },
+    {
         "question": "Which peak in the Himalayas has the largest vertical drop?",
         "answer": "Annapurna"
     },
@@ -19298,6 +20106,10 @@
     {
         "question": "Which peninsula is known for its vast forests and diverse flora and fauna?",
         "answer": "Scandinavian Peninsula"
+    },
+    {
+        "question": "Which peninsula is studied for its volcanic activity and geysers?",
+        "answer": "Kamchatka Peninsula"
     },
     {
         "question": "Which peninsula is the main habitat for unique species of kangaroos?",
@@ -19472,6 +20284,10 @@
         "answer": "Europe"
     },
     {
+        "question": "Which region of the world is experiencing the greatest water scarcity amid population growth?",
+        "answer": "Middle East"
+    },
+    {
         "question": "Which region of the world is most vulnerable to changes in demographic structure due to migration?",
         "answer": "European Union"
     },
@@ -19490,6 +20306,10 @@
     {
         "question": "Which regions are most affected by water scarcity for agriculture?",
         "answer": "Middle East"
+    },
+    {
+        "question": "Which regions of the world face the greatest challenges in ensuring food security?",
+        "answer": "South Asia"
     },
     {
         "question": "Which ridge was formed as a result of mountain-building processes in the Arctic?",
@@ -34122,8 +34942,20 @@
         "answer": "The Man Without a Face"
     },
     {
+        "question": "blob:https://play.smartest.bot/042f9cb8-41b9-47fd-a14b-e210b6a9b8ce",
+        "answer": "The Wrong Man"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/0443dddf-9a56-427f-b835-40748cf9b44a",
+        "answer": "Victor/Victoria"
+    },
+    {
         "question": "blob:https://play.smartest.bot/0483266c-09d9-4e70-b233-989296808f92",
         "answer": "96"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/04f66a03-0c0c-449a-af49-6daa18a08014",
+        "answer": "The Age of Adaline"
     },
     {
         "question": "blob:https://play.smartest.bot/05349cbb-dffb-4595-9d47-093411c6a51e",
@@ -34178,6 +35010,14 @@
         "answer": "Personal Shopper"
     },
     {
+        "question": "blob:https://play.smartest.bot/090fd723-c8c4-409f-ba23-af06e6cf824e",
+        "answer": "Annabelle"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/0924c620-4596-414d-b54f-89f1fc6fe1a6",
+        "answer": "Se7en"
+    },
+    {
         "question": "blob:https://play.smartest.bot/0935764a-78d4-4224-981c-def611275bee",
         "answer": "Metropolis"
     },
@@ -34210,6 +35050,10 @@
         "answer": "The Jerk"
     },
     {
+        "question": "blob:https://play.smartest.bot/0b98672e-ce6e-40ee-95fd-b68fa7ae3fd4",
+        "answer": "Little Big Man"
+    },
+    {
         "question": "blob:https://play.smartest.bot/0c20b732-159b-4593-826d-4bdf8564c181",
         "answer": "The Deep End of the Ocean"
     },
@@ -34234,6 +35078,14 @@
         "answer": "The Princess Switch"
     },
     {
+        "question": "blob:https://play.smartest.bot/0d4fe873-43b8-4666-b4e5-6b0a4dc1ea82",
+        "answer": "Ferris Bueller's Day Off"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/0d8cfdf9-d736-4856-91a2-c6d88e921a75",
+        "answer": "Darkness Falls"
+    },
+    {
         "question": "blob:https://play.smartest.bot/0daa8fa8-5647-4542-a409-5cb3a4152a73",
         "answer": "Bring It On"
     },
@@ -34254,6 +35106,10 @@
         "answer": "The Possession of Hannah Grace"
     },
     {
+        "question": "blob:https://play.smartest.bot/0ec8f04b-c536-40f1-91fd-c76b46e57ef8",
+        "answer": "Brother"
+    },
+    {
         "question": "blob:https://play.smartest.bot/0edcae27-7451-4259-8623-95d386c8582c",
         "answer": "Mulk"
     },
@@ -34264,6 +35120,10 @@
     {
         "question": "blob:https://play.smartest.bot/0f059d4c-0722-47e6-9d82-0bd974612559",
         "answer": "Taken 2"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/0f0b741c-b700-4720-80fe-d9e7ce21c730",
+        "answer": "The House of the Devil"
     },
     {
         "question": "blob:https://play.smartest.bot/0f9dfdf0-547f-40b3-b28b-e28a96c8da06",
@@ -34302,6 +35162,10 @@
         "answer": "Los olvidados"
     },
     {
+        "question": "blob:https://play.smartest.bot/151777ba-05ad-48c5-b350-846fd6fd9aeb",
+        "answer": "Murder Mystery"
+    },
+    {
         "question": "blob:https://play.smartest.bot/1564719b-f6b9-4899-a8f3-337ec58725be",
         "answer": "Pixels"
     },
@@ -34322,6 +35186,10 @@
         "answer": "Open Range"
     },
     {
+        "question": "blob:https://play.smartest.bot/169dd50f-6692-419e-b17e-3894e2aff4cf",
+        "answer": "Pirates of the Caribbean: On Stranger Tides"
+    },
+    {
         "question": "blob:https://play.smartest.bot/16e67e18-3272-41f0-a569-d26566a7420d",
         "answer": "The Sessions"
     },
@@ -34332,6 +35200,18 @@
     {
         "question": "blob:https://play.smartest.bot/17e9fd11-6c4c-4afc-8a40-c51d783819d8",
         "answer": "Tiger Zinda Hai"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/17f59377-fef1-4b20-a7d3-6258525abef4",
+        "answer": "Prey"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/182534db-86ac-4b92-997c-e2634de6ee0c",
+        "answer": "Aquarius"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/185174ec-9496-4c75-9d92-550f953009ce",
+        "answer": "Stripes"
     },
     {
         "question": "blob:https://play.smartest.bot/18883e96-ea3a-407c-8de1-9816813f5428",
@@ -34348,6 +35228,10 @@
     {
         "question": "blob:https://play.smartest.bot/1a3df981-7735-4eb5-83cb-261841baa588",
         "answer": "The Giver"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/1a6779dc-c838-47d2-bfdd-f961296e6593",
+        "answer": "Mr. Brooks"
     },
     {
         "question": "blob:https://play.smartest.bot/1af9283a-c639-4d6e-8f8e-68fdad6c5a96",
@@ -34378,8 +35262,16 @@
         "answer": "Clouds of Sils Maria"
     },
     {
+        "question": "blob:https://play.smartest.bot/1dfd14bb-c25b-4c23-b450-b7ec20f8efa9",
+        "answer": "The Shadow"
+    },
+    {
         "question": "blob:https://play.smartest.bot/1e635768-abec-4298-83f2-eca4a4b3fad7",
         "answer": "Argo"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/1ef3403e-5e2a-49c9-a0af-92182bc396c3",
+        "answer": "The Night Before"
     },
     {
         "question": "blob:https://play.smartest.bot/1f273cb1-2437-4117-a9fc-0769639d17c2",
@@ -34390,8 +35282,16 @@
         "answer": "High Anxiety"
     },
     {
+        "question": "blob:https://play.smartest.bot/201b4fdb-9081-4f02-938d-f2810c55cb29",
+        "answer": "Dead Poets Society"
+    },
+    {
         "question": "blob:https://play.smartest.bot/20297f32-b002-47b3-9a07-4922cd23de39",
         "answer": "Twister"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/20495ba1-dd09-4c92-9175-c2f7bb99f956",
+        "answer": "The Godfather: Part II"
     },
     {
         "question": "blob:https://play.smartest.bot/20667a53-ef28-4cd8-8df9-7277f807f2e2",
@@ -34434,8 +35334,16 @@
         "answer": "Mujeres al borde de un ataque de"
     },
     {
+        "question": "blob:https://play.smartest.bot/229c040c-c427-4b7a-89a8-f1b614077ad2",
+        "answer": "The Thomas Crown Affair"
+    },
+    {
         "question": "blob:https://play.smartest.bot/23104965-3e69-4cb5-b1c5-5f5161008a84",
         "answer": "The Equalizer"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/236ea5f0-7882-4e5d-9d9d-f6a2f278e04c",
+        "answer": "Christmas with the Kranks"
     },
     {
         "question": "blob:https://play.smartest.bot/237c3d8a-2e92-4ade-a8de-b34e874c786c",
@@ -34462,6 +35370,10 @@
         "answer": "It's a Mad, Mad, Mad, Mad World"
     },
     {
+        "question": "blob:https://play.smartest.bot/26285162-efbd-4a9c-8265-f40936883a7e",
+        "answer": "See No Evil"
+    },
+    {
         "question": "blob:https://play.smartest.bot/2656ee00-1076-4921-8dd4-c67264bf9cce",
         "answer": "Morte a Venezia"
     },
@@ -34470,12 +35382,20 @@
         "answer": "Snake Eyes"
     },
     {
+        "question": "blob:https://play.smartest.bot/26bf6364-b7b8-48c9-b525-4ce8dfd4bfe6",
+        "answer": "Tere Naam"
+    },
+    {
         "question": "blob:https://play.smartest.bot/273303d6-fb82-450f-84b2-bdbefa912c9e",
         "answer": "Bowfinger"
     },
     {
         "question": "blob:https://play.smartest.bot/2792f05d-715d-4968-862e-fe99094966db",
         "answer": "Roxanne"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/2795c483-5427-4a20-ba28-5464dab0a8a4",
+        "answer": "Killer Klowns from Outer Space"
     },
     {
         "question": "blob:https://play.smartest.bot/279c5bce-e71a-4e5f-8833-a4af0648c72b",
@@ -34508,6 +35428,10 @@
     {
         "question": "blob:https://play.smartest.bot/28c207af-2efe-42f1-9734-44029a7b3447",
         "answer": "Juste la fin du monde"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/28e950f2-432a-44b9-9447-fba73869481f",
+        "answer": "House of Sand and Fog"
     },
     {
         "question": "blob:https://play.smartest.bot/29122e2f-eaa7-45e1-a77e-5a2b36273419",
@@ -34566,6 +35490,10 @@
         "answer": "White Noise"
     },
     {
+        "question": "blob:https://play.smartest.bot/2c460ced-46fe-4394-9a1b-d50a157ecf40",
+        "answer": "Seraphim Falls"
+    },
+    {
         "question": "blob:https://play.smartest.bot/2c72a63e-c4ef-496d-b2ad-772ed576adb2",
         "answer": "Playing It Cool"
     },
@@ -34578,6 +35506,10 @@
         "answer": "La guerre du feu"
     },
     {
+        "question": "blob:https://play.smartest.bot/2e79588d-fdb2-450e-8ea2-933cd744f21f",
+        "answer": "All the Old Knives"
+    },
+    {
         "question": "blob:https://play.smartest.bot/2e92b9d5-d375-487c-ab5c-2ed546f4d023",
         "answer": "Hitman: Agent 47"
     },
@@ -34586,12 +35518,20 @@
         "answer": "Aquarius"
     },
     {
+        "question": "blob:https://play.smartest.bot/2ee813d6-71cb-478b-b584-33a44ae2dd05",
+        "answer": "The Number 23"
+    },
+    {
         "question": "blob:https://play.smartest.bot/2fe6a4f7-a77d-49ea-af9e-f9cbf026082b",
         "answer": "Into the Blue"
     },
     {
         "question": "blob:https://play.smartest.bot/300078b9-e2af-4224-a3ea-1d3ab3b9ef8d",
         "answer": "Curly Sue"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/30aa9ac6-491a-4f38-b323-03a07e04ff3b",
+        "answer": "Confidence"
     },
     {
         "question": "blob:https://play.smartest.bot/30c057c2-5b5e-4db1-b1a9-430b6bdc31be",
@@ -34610,8 +35550,16 @@
         "answer": "Intrusion"
     },
     {
+        "question": "blob:https://play.smartest.bot/320391df-041c-487c-b4e5-78b8af9d2f04",
+        "answer": "Silver Linings Playbook"
+    },
+    {
         "question": "blob:https://play.smartest.bot/32a7b4e4-fbd5-44be-98f3-e4781de177c0",
         "answer": "Annapolis"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/3402581a-a659-4ca7-b486-0fb95d5c3d9b",
+        "answer": "All the President's Men"
     },
     {
         "question": "blob:https://play.smartest.bot/34102ef1-1db7-47dd-a395-bf62f1005731",
@@ -34654,6 +35602,10 @@
         "answer": "Lorenzo's Oil"
     },
     {
+        "question": "blob:https://play.smartest.bot/357b35bf-ac08-4390-891c-bf7cdb1cda96",
+        "answer": "Resident Evil: Afterlife"
+    },
+    {
         "question": "blob:https://play.smartest.bot/359407ba-7062-4b72-bff5-bedf46066824",
         "answer": "The Last Man on Earth"
     },
@@ -34682,6 +35634,10 @@
         "answer": "Alexander"
     },
     {
+        "question": "blob:https://play.smartest.bot/37059f3f-a456-4526-8fe6-e0dc650f6162",
+        "answer": "The Game"
+    },
+    {
         "question": "blob:https://play.smartest.bot/37dc4e72-8833-465f-9a91-a1ea97e53435",
         "answer": "Dark Water"
     },
@@ -34692,6 +35648,10 @@
     {
         "question": "blob:https://play.smartest.bot/3868e62f-9fdf-49e3-b38e-62d08a012cab",
         "answer": "What Dreams May Come"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/38cc0e32-8517-4c6c-87a7-91fa0511c7a1",
+        "answer": "The Kissing Booth 2"
     },
     {
         "question": "blob:https://play.smartest.bot/39c21c8f-85aa-47dc-b2d9-f90ec24d2998",
@@ -34714,8 +35674,20 @@
         "answer": "Spoorloos"
     },
     {
+        "question": "blob:https://play.smartest.bot/3a61d88f-e499-46e6-9880-c512286f6d38",
+        "answer": "Shaft"
+    },
+    {
         "question": "blob:https://play.smartest.bot/3aaf6613-741e-46c7-8807-0bf3eeae4394",
         "answer": "Reindeer Games"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/3b01b5b4-fc68-4299-95fa-ef6c091d1a91",
+        "answer": "Scream 3"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/3b09989b-b9a2-4006-8d1e-f1961955e404",
+        "answer": "Ali G Indahouse"
     },
     {
         "question": "blob:https://play.smartest.bot/3bc499da-2762-481c-8d19-791d92b91e9b",
@@ -34740,6 +35712,10 @@
     {
         "question": "blob:https://play.smartest.bot/3df00c13-5d0f-4136-8954-40e7d9362640",
         "answer": "The Longest Ride"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/3e22c333-99e1-4b85-aa83-edf5353611fd",
+        "answer": "Two Mules for Sister Sara"
     },
     {
         "question": "blob:https://play.smartest.bot/3e8806c1-9b2c-4736-9b7a-58857a7ab044",
@@ -34798,6 +35774,10 @@
         "answer": "Paddington"
     },
     {
+        "question": "blob:https://play.smartest.bot/41c1e632-5b98-4ec6-921e-cea2d1990f71",
+        "answer": "La meglio gioventù"
+    },
+    {
         "question": "blob:https://play.smartest.bot/41e63d56-c90c-44d3-85d7-2aaa8a2f9d29",
         "answer": "S1m0ne"
     },
@@ -34814,8 +35794,16 @@
         "answer": "Ying hung boon sik"
     },
     {
+        "question": "blob:https://play.smartest.bot/434ea377-313b-4ec7-af33-7f5f9b86829e",
+        "answer": "Ghost"
+    },
+    {
         "question": "blob:https://play.smartest.bot/43995102-7974-4d5e-ac26-fce89296b108",
         "answer": "Being the Ricardos"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/439d5c99-845c-4867-a086-45e8910cbb52",
+        "answer": "Pusher"
     },
     {
         "question": "blob:https://play.smartest.bot/43b26426-7e83-4f3e-96bf-d147e1c5102c",
@@ -34870,6 +35858,10 @@
         "answer": "100 Girls"
     },
     {
+        "question": "blob:https://play.smartest.bot/47a3ec76-7c26-43a5-b401-12b8538d60bb",
+        "answer": "Powder"
+    },
+    {
         "question": "blob:https://play.smartest.bot/47d7f871-1a92-4f03-ad45-11fa494fcb49",
         "answer": "Mr. Harrigan's Phone"
     },
@@ -34910,6 +35902,10 @@
         "answer": "Testament of Youth"
     },
     {
+        "question": "blob:https://play.smartest.bot/4987de1b-1fc9-4357-b24b-9fe922bc12ff",
+        "answer": "The Little Death"
+    },
+    {
         "question": "blob:https://play.smartest.bot/498c1a05-66a3-4abf-ab68-eaa9c1d6c061",
         "answer": "Child's Play 2"
     },
@@ -34928,6 +35924,10 @@
     {
         "question": "blob:https://play.smartest.bot/4a8e9ab8-f3da-4a2a-8e2d-7838e604fbf3",
         "answer": "My Life in Ruins"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/4bb395ed-ef3a-4519-8864-f84df45ead81",
+        "answer": "The Equalizer 3"
     },
     {
         "question": "blob:https://play.smartest.bot/4bfda823-9abe-4acc-94b1-5a1c61a759d4",
@@ -34966,12 +35966,20 @@
         "answer": "Ocean's Thirteen"
     },
     {
+        "question": "blob:https://play.smartest.bot/4fb1fa81-282c-4e7b-8292-8e0d03b61f9f",
+        "answer": "The Goldfinch"
+    },
+    {
         "question": "blob:https://play.smartest.bot/4fc29846-bbe6-4068-bd45-7cf535a522fe",
         "answer": "Tower Heist"
     },
     {
         "question": "blob:https://play.smartest.bot/500be71f-b329-4f72-9400-0c324af17d7e",
         "answer": "Colonia"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/519da38d-3c8f-4b63-b8d2-37faa291f11d",
+        "answer": "Master and Commander: The Far Side of the World"
     },
     {
         "question": "blob:https://play.smartest.bot/51a225f8-4c14-4ed2-990f-f8fc1b6f964e",
@@ -34982,12 +35990,24 @@
         "answer": "The People vs. Larry Flynt"
     },
     {
+        "question": "blob:https://play.smartest.bot/51c29003-25a4-4a1e-a060-6680bd74e204",
+        "answer": "Bando"
+    },
+    {
         "question": "blob:https://play.smartest.bot/52011b58-62bc-4b42-a82f-096d7f7e194d",
         "answer": "The Seven Year Itch"
     },
     {
+        "question": "blob:https://play.smartest.bot/52c05d57-c27a-4248-86f6-73ff7169647c",
+        "answer": "Hitchcock"
+    },
+    {
         "question": "blob:https://play.smartest.bot/52d735bc-8de8-4a10-a214-c3adc18e2ee8",
         "answer": "VR (Vikrant Rona)"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/52fe678f-4329-43e4-9636-575ebd973238",
+        "answer": "What About Bob?"
     },
     {
         "question": "blob:https://play.smartest.bot/5341d554-e985-435b-803d-47684b4cfdb6",
@@ -35000,6 +36020,14 @@
     {
         "question": "blob:https://play.smartest.bot/5497550d-a71c-40cb-b5d1-c678211eb69f",
         "answer": "Idle Hands"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/54a996f9-15af-469e-b0bd-af3f09253fad",
+        "answer": "Sound of Metal"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/54e7f9ae-fc50-48f8-a275-5501b41a0a0c",
+        "answer": "The Ides of March"
     },
     {
         "question": "blob:https://play.smartest.bot/55ddf8e0-ca91-445a-b4e5-2a3cf0274d01",
@@ -35062,6 +36090,10 @@
         "answer": "Hellraiser"
     },
     {
+        "question": "blob:https://play.smartest.bot/5ac988f0-4a28-4fae-a64d-a43e8fed755e",
+        "answer": "Swingers"
+    },
+    {
         "question": "blob:https://play.smartest.bot/5bc8518d-5c86-4d41-98a7-260feedae3ba",
         "answer": "Downton Abbey: A New Era"
     },
@@ -35114,6 +36146,10 @@
         "answer": "The Wackness"
     },
     {
+        "question": "blob:https://play.smartest.bot/5f0ef7cc-f23d-4d54-b99e-c919b6d16e3d",
+        "answer": "Ginger Snaps"
+    },
+    {
         "question": "blob:https://play.smartest.bot/5f2724ff-1583-4170-a163-51124b9a0fc3",
         "answer": "The Hunting Party"
     },
@@ -35152,6 +36188,10 @@
     {
         "question": "blob:https://play.smartest.bot/62d29739-07f1-40be-a501-7a7e5d632c0e",
         "answer": "Un prophète"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/62e405a7-cc6f-49e6-82ae-bd76e140a530",
+        "answer": "Enough"
     },
     {
         "question": "blob:https://play.smartest.bot/63530261-30a4-44ec-876a-847f6e73490a",
@@ -35206,6 +36246,10 @@
         "answer": "Hot Shots! Part Deux"
     },
     {
+        "question": "blob:https://play.smartest.bot/67a1aa1b-bc1a-4239-8b31-08cb2649bad4",
+        "answer": "The Beach"
+    },
+    {
         "question": "blob:https://play.smartest.bot/67c5e08a-6482-4eb4-88b6-fd4b188637a2",
         "answer": "Heartbreak Ridge"
     },
@@ -35246,6 +36290,14 @@
         "answer": "The Curse of the Jade Scorpion"
     },
     {
+        "question": "blob:https://play.smartest.bot/6ab06674-620f-4e93-bbe4-0563dca27758",
+        "answer": "A Very Harold & Kumar 3D Christmas"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/6af9817a-55d5-49cf-a8ff-492a535bcd35",
+        "answer": "Tango & Cash"
+    },
+    {
         "question": "blob:https://play.smartest.bot/6b4e2de9-3d76-4688-ba8d-8dea8582a258",
         "answer": "Nowhere Boy"
     },
@@ -35256,6 +36308,14 @@
     {
         "question": "blob:https://play.smartest.bot/6c8d918c-1b84-46fc-823e-5cae159ecc2d",
         "answer": "Wayne's World 2"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/6c9b3651-b491-41e2-9d18-88e129998313",
+        "answer": "Kiss Me Deadly"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/6d0c2cea-2114-473c-a891-d3e0a564df5a",
+        "answer": "Uptown Girls"
     },
     {
         "question": "blob:https://play.smartest.bot/6ddfd5f3-62d8-44ed-bcf0-8470965ee136",
@@ -35272,6 +36332,10 @@
     {
         "question": "blob:https://play.smartest.bot/6ed618f0-e506-4aad-8f42-ad65b84d13ce",
         "answer": "First Man"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/6ef4645a-da05-4a9e-b75d-24bde3c464a7",
+        "answer": "Naked Gun 33 1/3: The Final Insult"
     },
     {
         "question": "blob:https://play.smartest.bot/6f294e43-d9bc-4bc6-93ed-9a33206de343",
@@ -35304,6 +36368,10 @@
     {
         "question": "blob:https://play.smartest.bot/70e4c050-cfed-464a-a8b6-3608ebc1790b",
         "answer": "Dave Chappelle: The Closer"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/70eca2d4-9e5a-48bc-a126-19eec846b052",
+        "answer": "Popstar: Never Stop Never Stopping"
     },
     {
         "question": "blob:https://play.smartest.bot/71125f17-8db2-44a2-8920-93e825376404",
@@ -35358,6 +36426,10 @@
         "answer": "Deuce Bigalow: Male Gigolo"
     },
     {
+        "question": "blob:https://play.smartest.bot/748df651-30cf-4aaf-bfb2-378f0460efb3",
+        "answer": "The Longest Day"
+    },
+    {
         "question": "blob:https://play.smartest.bot/7507f7be-e5e2-457d-aad2-7c722286a6e9",
         "answer": "The Ice Road"
     },
@@ -35366,8 +36438,20 @@
         "answer": "Malcolm & Marie"
     },
     {
+        "question": "blob:https://play.smartest.bot/75af20d7-b92a-4060-8147-29033b2141b1",
+        "answer": "Semi-Pro"
+    },
+    {
         "question": "blob:https://play.smartest.bot/75c6757d-ffcf-4c71-a0f2-f86cb8e641e3",
         "answer": "La habitación de Fermat"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/769cc6cd-a5a2-406d-b0b2-8d529ad60b4e",
+        "answer": "Men, Women & Children"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/77cd6cea-78ff-4f9f-86c5-ed311ebd2958",
+        "answer": "A Nightmare on Elm Street: The Dream Child"
     },
     {
         "question": "blob:https://play.smartest.bot/77e5f3d9-a1d1-4a8e-b11e-e200cd2c47ab",
@@ -35412,6 +36496,10 @@
     {
         "question": "blob:https://play.smartest.bot/7a11469d-913c-49e2-8a59-60ce0352ac0b",
         "answer": "The Gold Rush"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/7a2e0ddd-5677-4ebb-9702-3cba9b872adf",
+        "answer": "Exorcist: The Beginning"
     },
     {
         "question": "blob:https://play.smartest.bot/7aec209e-5a40-4d47-8923-79b789e7213a",
@@ -35470,8 +36558,20 @@
         "answer": "Fast Charlie"
     },
     {
+        "question": "blob:https://play.smartest.bot/7f3990fb-75c7-49de-9f53-8be77bc82479",
+        "answer": "Death Race 2"
+    },
+    {
         "question": "blob:https://play.smartest.bot/7f75ce3e-a2e9-4911-adc3-a64cf0b6f063",
         "answer": "The Bourne Identity"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/7f8059e1-bd6e-47d1-9aca-f13b1a34db7b",
+        "answer": "Escape from L.A."
+    },
+    {
+        "question": "blob:https://play.smartest.bot/802171fb-504d-4280-8151-ce366bb18290",
+        "answer": "Kongen av Bastøy"
     },
     {
         "question": "blob:https://play.smartest.bot/8068d9b9-7ae1-4d29-bacf-bbc733c7d204",
@@ -35494,6 +36594,10 @@
         "answer": "American Splendor"
     },
     {
+        "question": "blob:https://play.smartest.bot/81339c70-4d50-4516-9c79-d82983d13b70",
+        "answer": "Eight Men Out"
+    },
+    {
         "question": "blob:https://play.smartest.bot/818ca898-4db6-42eb-b60e-c32c58fc7e92",
         "answer": "Cure"
     },
@@ -35510,8 +36614,24 @@
         "answer": "Men in Black International"
     },
     {
+        "question": "blob:https://play.smartest.bot/84b6b99f-a6c6-4840-8f55-5a8f838969e9",
+        "answer": "The Eiger Sanction"
+    },
+    {
         "question": "blob:https://play.smartest.bot/8634d5b5-a17b-4611-bce0-3cb2211ccd79",
         "answer": "Changing Lanes"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/86958200-ac2e-4cb2-8a96-acc3695d1af8",
+        "answer": "Olympus Has Fallen"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/86e8fae8-9e6c-40e7-9315-e4edf1d65c66",
+        "answer": "See How They Run"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/8781ebc3-33aa-45d6-bbd2-943fbd21be13",
+        "answer": "Ticket to Paradise"
     },
     {
         "question": "blob:https://play.smartest.bot/87d665ce-1f15-4fc6-bc63-4be04fe91658",
@@ -35522,12 +36642,24 @@
         "answer": "Dýrið"
     },
     {
+        "question": "blob:https://play.smartest.bot/88507116-efa6-4805-ad5b-de42db1ebc0b",
+        "answer": "Talaash"
+    },
+    {
         "question": "blob:https://play.smartest.bot/885ecb87-3cb8-46ad-83bd-954bed8e1f7f",
         "answer": "Censor"
     },
     {
         "question": "blob:https://play.smartest.bot/88891b7a-cd17-43c9-a613-c31817c39377",
         "answer": "Uncle Frank"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/88ae3278-9058-4145-831a-e8ea9fc02590",
+        "answer": "How to Lose Friends & Alienate People"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/88b8dc5f-d984-490e-8ea0-658ea27860d2",
+        "answer": "High Noon"
     },
     {
         "question": "blob:https://play.smartest.bot/88cc59bb-b871-42b7-91f0-1cb2d701d949",
@@ -35550,8 +36682,16 @@
         "answer": "Lakshya"
     },
     {
+        "question": "blob:https://play.smartest.bot/898972b5-f72e-4df4-9aa5-46224ab84f05",
+        "answer": "Eat Pray Love"
+    },
+    {
         "question": "blob:https://play.smartest.bot/8a32f9d6-befe-4479-a0fa-bb28383b71a8",
         "answer": "Never Been Kissed"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/8a4a25f4-d882-482c-adf4-d12fa97deaf5",
+        "answer": "Sophie Scholl - Die letzten Tage"
     },
     {
         "question": "blob:https://play.smartest.bot/8a7970fe-9ffc-400e-ac42-38e5f0eafd70",
@@ -35618,6 +36758,10 @@
         "answer": "Breakdown"
     },
     {
+        "question": "blob:https://play.smartest.bot/9101872f-15bd-4283-94e3-d45318407567",
+        "answer": "The Man Who Fell to Earth"
+    },
+    {
         "question": "blob:https://play.smartest.bot/9130610a-8edf-4248-b421-e90fe8d1744c",
         "answer": "Evil Dead"
     },
@@ -35626,8 +36770,16 @@
         "answer": "Outlaw King"
     },
     {
+        "question": "blob:https://play.smartest.bot/91b80b94-c255-4874-949d-91f6db3bce4a",
+        "answer": "Monty Python and the Holy Grail"
+    },
+    {
         "question": "blob:https://play.smartest.bot/91d81666-fc3e-4274-98b7-e23f9c38e1f7",
         "answer": "The Serpent and the Rainbow"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/92c7ad72-8f7e-43d5-921e-43489a0e0d5e",
+        "answer": "The Informer"
     },
     {
         "question": "blob:https://play.smartest.bot/935b2620-e9ec-4b4f-94aa-ad7d70ae3fff",
@@ -35644,6 +36796,10 @@
     {
         "question": "blob:https://play.smartest.bot/94833f1a-11b1-40f7-8c71-c3dd5f86df1d",
         "answer": "Airplane II: The Sequel"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/94c46c72-b0fa-4399-bb67-575bfcd30a74",
+        "answer": "John Wick: Chapter 4"
     },
     {
         "question": "blob:https://play.smartest.bot/953f68e7-7b50-40b8-88ac-ecdc345ec4ed",
@@ -35698,6 +36854,10 @@
         "answer": "Underground"
     },
     {
+        "question": "blob:https://play.smartest.bot/98c5f1a8-bd6a-4fcf-b8e2-627616b74275",
+        "answer": "White Christmas"
+    },
+    {
         "question": "blob:https://play.smartest.bot/999880a4-2be7-48c0-bcc8-2d7af354801f",
         "answer": "Toni Erdmann"
     },
@@ -35706,12 +36866,20 @@
         "answer": "Sound of My Voice"
     },
     {
+        "question": "blob:https://play.smartest.bot/9a4aec88-abac-4919-b0b8-d0faaca32d95",
+        "answer": "Bacurau"
+    },
+    {
         "question": "blob:https://play.smartest.bot/9a7c11ef-4957-4ff8-a897-42d5f2c2bfa7",
         "answer": "Friday Night Lights"
     },
     {
         "question": "blob:https://play.smartest.bot/9abfb4a6-c078-4c66-9f09-f6a69fe98ab9",
         "answer": "I Love You, Beth Cooper"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/9ac40a28-6e97-44c7-a7ad-65181b6edd24",
+        "answer": "Loving"
     },
     {
         "question": "blob:https://play.smartest.bot/9acc1a10-ccd9-47c4-9938-7bdd03fc191b",
@@ -35750,6 +36918,10 @@
         "answer": "Clue"
     },
     {
+        "question": "blob:https://play.smartest.bot/9e862144-06d0-49ce-a3c6-ae4dc25636e3",
+        "answer": "Juno"
+    },
+    {
         "question": "blob:https://play.smartest.bot/9ed5d777-7c94-41b9-91f5-4a42e208c240",
         "answer": "Dilwale Dulhania Le Jayenge"
     },
@@ -35774,6 +36946,10 @@
         "answer": "28 Days Later..."
     },
     {
+        "question": "blob:https://play.smartest.bot/a03848e3-932f-4163-97f1-4ca945b8377b",
+        "answer": "A View to a Kill"
+    },
+    {
         "question": "blob:https://play.smartest.bot/a0581f49-4520-416e-82f3-4d7b58bf92fd",
         "answer": "The Unbearable Weight of Massive Talent"
     },
@@ -35794,12 +36970,20 @@
         "answer": "Insidious: The Red Door"
     },
     {
+        "question": "blob:https://play.smartest.bot/a120609d-9a86-42e6-9c8b-d6116d625e91",
+        "answer": "Private Benjamin"
+    },
+    {
         "question": "blob:https://play.smartest.bot/a146a810-9a5e-4e40-8c13-5ec75126b344",
         "answer": "San Siu Lam zi"
     },
     {
         "question": "blob:https://play.smartest.bot/a16d8c2d-1376-4cdb-88b8-8f756cabdafc",
         "answer": "Hot Tub Time Machine 2"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/a19bb9fb-c2f9-4b2c-8277-184e340c9e25",
+        "answer": "Scoop"
     },
     {
         "question": "blob:https://play.smartest.bot/a19fb2a4-1037-4179-a209-041e4642fc42",
@@ -35814,6 +36998,10 @@
         "answer": "Agneepath"
     },
     {
+        "question": "blob:https://play.smartest.bot/a1fe0ffd-9e2a-4a92-9382-bbf8338720ea",
+        "answer": "The Social Network"
+    },
+    {
         "question": "blob:https://play.smartest.bot/a1fffea9-087b-42fe-b472-2219f54aed8a",
         "answer": "The Lake House"
     },
@@ -35822,8 +37010,16 @@
         "answer": "Semi-Pro"
     },
     {
+        "question": "blob:https://play.smartest.bot/a28e59ad-eb15-4a64-865a-f5b91d45b5fe",
+        "answer": "MobKing"
+    },
+    {
         "question": "blob:https://play.smartest.bot/a3dc5b50-f7bd-42d3-bb65-75a873c4f4ee",
         "answer": "Beautiful Boy"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/a466e5ec-0bb2-44a5-a787-540f857c348d",
+        "answer": "Moon"
     },
     {
         "question": "blob:https://play.smartest.bot/a48b94c3-4ed4-45e5-8a57-0e41a2ab63e4",
@@ -35856,6 +37052,10 @@
     {
         "question": "blob:https://play.smartest.bot/a5faae3a-27ab-4230-bd8b-ae77269261e9",
         "answer": "Silent Running"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/a663f06a-62dd-4719-b331-0f6cf04efad8",
+        "answer": "Orgazmo"
     },
     {
         "question": "blob:https://play.smartest.bot/a66481f1-b87d-4887-a788-7142f3952181",
@@ -35918,6 +37118,10 @@
         "answer": "Creed III"
     },
     {
+        "question": "blob:https://play.smartest.bot/aaff3a63-c266-477e-8f95-4d7f0c15da28",
+        "answer": "The Grifters"
+    },
+    {
         "question": "blob:https://play.smartest.bot/ab01c0d4-15d4-4af6-b285-607cc77fc58f",
         "answer": "The Descendants"
     },
@@ -35950,6 +37154,10 @@
         "answer": "Mad Money"
     },
     {
+        "question": "blob:https://play.smartest.bot/ae1c514c-3232-45f5-93b6-68d93b4352bb",
+        "answer": "The King and I"
+    },
+    {
         "question": "blob:https://play.smartest.bot/ae4e1079-776f-4a1b-a04e-a9283fe08ec8",
         "answer": "The Curse of the Jade Scorpion"
     },
@@ -35970,8 +37178,16 @@
         "answer": "Boogie Nights"
     },
     {
+        "question": "blob:https://play.smartest.bot/b0c5bc8d-0e9c-48bb-854e-4b8450ad2370",
+        "answer": "El día de la bestia"
+    },
+    {
         "question": "blob:https://play.smartest.bot/b1c96b2c-53d3-4f87-acb1-7d398d58df31",
         "answer": "Underground"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/b1eba4bb-63ab-4637-9ebf-8222f5c86a0e",
+        "answer": "Alpha"
     },
     {
         "question": "blob:https://play.smartest.bot/b26b713a-9e68-4572-83f4-a0884bd927a4",
@@ -35984,6 +37200,14 @@
     {
         "question": "blob:https://play.smartest.bot/b45e1b3c-89c7-4f38-b498-ccecf25adf80",
         "answer": "The Dark and the Wicked"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/b47bb025-8182-4269-81b8-8400e49d3ed7",
+        "answer": "Halloween III: Season of the Witch"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/b481cc92-e3a1-4ea7-aa97-a812e601ff43",
+        "answer": "Scary Movie 2"
     },
     {
         "question": "blob:https://play.smartest.bot/b561a05f-cdee-4599-a498-be459f1989c8",
@@ -36006,6 +37230,14 @@
         "answer": "The Negotiator"
     },
     {
+        "question": "blob:https://play.smartest.bot/b5d73b7e-fe94-42e4-b34c-d8cde8e09a13",
+        "answer": "Terminator 2: Judgment Day"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/b6958221-19be-4fc9-8b4a-10ecd2d454bb",
+        "answer": "Bill & Ted's Excellent Adventure"
+    },
+    {
         "question": "blob:https://play.smartest.bot/b6f5fef1-e400-4682-aa34-34db865fcbe7",
         "answer": "Back to the Future Part II"
     },
@@ -36026,6 +37258,10 @@
         "answer": "Torn Curtain"
     },
     {
+        "question": "blob:https://play.smartest.bot/b90e9ad7-b480-4d62-b8c8-1ce22ecaabcd",
+        "answer": "The Man Who Shot Liberty Valance"
+    },
+    {
         "question": "blob:https://play.smartest.bot/b9722f8d-29e3-42e4-ac4a-f89849a7e4da",
         "answer": "Hundraåringen som klev ut genom fönstret och försvann"
     },
@@ -36040,6 +37276,10 @@
     {
         "question": "blob:https://play.smartest.bot/b9a402d6-d401-45cc-8f7f-8d3f1a2ab296",
         "answer": "Frida"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/b9ba85c6-8bb1-4d50-8692-296577728734",
+        "answer": "After the Dark"
     },
     {
         "question": "blob:https://play.smartest.bot/b9f016c1-4da1-462e-8487-de98075b8dcd",
@@ -36058,6 +37298,10 @@
         "answer": "Morning Glory"
     },
     {
+        "question": "blob:https://play.smartest.bot/bcb9c352-4eb4-40b7-9bb8-ba1291ddb6a8",
+        "answer": "Pleasure"
+    },
+    {
         "question": "blob:https://play.smartest.bot/bced01e0-3257-4e81-aa10-7f6f3a2f4b28",
         "answer": "On the Rocks"
     },
@@ -36072,6 +37316,10 @@
     {
         "question": "blob:https://play.smartest.bot/bd5fdf45-ebb5-4abd-8604-042dce401bad",
         "answer": "The Fast and the Furious"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/bdb5d0a5-12a4-4ad7-bbd7-8175f5ac7f3b",
+        "answer": "The Mummy: Tomb of the Dragon Emperor"
     },
     {
         "question": "blob:https://play.smartest.bot/be09d9de-44f5-4eef-b207-2da4be331d82",
@@ -36098,12 +37346,20 @@
         "answer": "Total Recall"
     },
     {
+        "question": "blob:https://play.smartest.bot/c16ace64-5832-4763-9799-f147c13f48b6",
+        "answer": "El cuerpo"
+    },
+    {
         "question": "blob:https://play.smartest.bot/c25957e4-199a-4314-a08a-d0598eccbbdf",
         "answer": "The Express"
     },
     {
         "question": "blob:https://play.smartest.bot/c25b478a-6c1d-439a-bad6-ae8ca185d314",
         "answer": "Heartbreakers"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/c2608d7e-5691-4d8f-aec1-1899668c5e74",
+        "answer": "Club Dread"
     },
     {
         "question": "blob:https://play.smartest.bot/c29a771f-7ecc-441a-93e6-38eb86af15cf",
@@ -36142,8 +37398,20 @@
         "answer": "Eragon"
     },
     {
+        "question": "blob:https://play.smartest.bot/c641b6c4-8973-4843-8345-eb8d43941b04",
+        "answer": "My Man Godfrey"
+    },
+    {
         "question": "blob:https://play.smartest.bot/c6570682-e690-46c4-a477-cb88a798f0bd",
         "answer": "Barbarella"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/c6d45abc-c77d-4743-ad72-8c9576cd1480",
+        "answer": "Friday the 13th"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/c6f482b8-399d-4a00-8a5a-af31d9c47943",
+        "answer": "Luther: The Fallen Sun"
     },
     {
         "question": "blob:https://play.smartest.bot/c705559f-eba0-4aca-876b-d34f8f574204",
@@ -36158,12 +37426,20 @@
         "answer": "E.T. the Extra-Terrestrial"
     },
     {
+        "question": "blob:https://play.smartest.bot/c8342929-10eb-40fb-ac7c-6321162b350c",
+        "answer": "Seven Brides for Seven Brothers"
+    },
+    {
         "question": "blob:https://play.smartest.bot/c949fe5c-6067-43f9-880b-9a2870cb4525",
         "answer": "Detachment"
     },
     {
         "question": "blob:https://play.smartest.bot/c95ec53c-4631-432b-94e5-7fbd261f8408",
         "answer": "Me, Myself & Irene"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/c97e53f2-7680-4bfa-a591-f09f34c6980e",
+        "answer": "Snake Eyes"
     },
     {
         "question": "blob:https://play.smartest.bot/c9ac4388-0081-4abc-9e36-5930e3dc40ff",
@@ -36196,6 +37472,10 @@
     {
         "question": "blob:https://play.smartest.bot/cbf62df5-9dff-4957-b6c2-bf6e074f3a51",
         "answer": "Spooks: The Greater Good"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/cc29867b-7236-48b2-b042-45465e6f9d9b",
+        "answer": "High School Musical 2"
     },
     {
         "question": "blob:https://play.smartest.bot/cc4c34d1-a697-456d-bc99-323d58557905",
@@ -36246,12 +37526,28 @@
         "answer": "The Vanishing"
     },
     {
+        "question": "blob:https://play.smartest.bot/cee07b85-ed4a-4740-aca9-d3e6c4d7604a",
+        "answer": "Ayla: The Daughter of War"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/cef5b64b-7736-4d7d-98d9-c3820b1be74f",
+        "answer": "It's All Gone Pete Tong"
+    },
+    {
         "question": "blob:https://play.smartest.bot/d02a19a2-a421-4465-9305-8571dc44dad3",
         "answer": "Top Hat"
     },
     {
         "question": "blob:https://play.smartest.bot/d0eb9e6e-1bd6-40ca-b17d-ca6d6e997fbf",
         "answer": "The Guardians of the Galaxy Holiday Special"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d0ebf912-0600-4168-ae9a-e37b4867d14b",
+        "answer": "Banlieue 13 Ultimatum"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d0fdf657-55c3-4c78-858b-ca309d0b59b2",
+        "answer": "Spawn"
     },
     {
         "question": "blob:https://play.smartest.bot/d1bb53eb-3f16-454e-8120-01662edcfb03",
@@ -36278,16 +37574,32 @@
         "answer": "Alien³"
     },
     {
+        "question": "blob:https://play.smartest.bot/d3af06aa-24f5-44ac-b701-47abe12041b5",
+        "answer": "The Three Musketeers"
+    },
+    {
         "question": "blob:https://play.smartest.bot/d41d04d7-882e-4ede-9019-4ceefa6eb897",
         "answer": "Sunset Blvd."
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d41e585b-3a6b-4f05-a448-2bac167bc929",
+        "answer": "Peaceful Warrior"
     },
     {
         "question": "blob:https://play.smartest.bot/d4338491-1bd3-4f5e-bb91-75f51ea5f54a",
         "answer": "Internal Affairs"
     },
     {
+        "question": "blob:https://play.smartest.bot/d501b592-d946-42e0-af73-b8187cb8cce6",
+        "answer": "Allied"
+    },
+    {
         "question": "blob:https://play.smartest.bot/d51985dc-b325-4f86-8b2b-a257097fce6d",
         "answer": "The Protégé"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d586eff7-8cf8-42b8-b9d6-94825f8e3761",
+        "answer": "But I'm a Cheerleader"
     },
     {
         "question": "blob:https://play.smartest.bot/d5aa2f4c-d1c0-47a2-984e-26585710dbc6",
@@ -36318,12 +37630,28 @@
         "answer": "Sudden Impact"
     },
     {
+        "question": "blob:https://play.smartest.bot/d78604e5-90df-4645-bd09-0ae2e36cf843",
+        "answer": "Vanity Fair"
+    },
+    {
         "question": "blob:https://play.smartest.bot/d78ed4cd-bb16-405d-8b36-bd962738a432",
         "answer": "J. Edgar"
     },
     {
         "question": "blob:https://play.smartest.bot/d7bc3d81-f218-426e-9c5f-b7e2c7c87a48",
         "answer": "Lights Out"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d7d83add-c3ac-45e4-9227-cb23439fee01",
+        "answer": "We Own the Night"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d86096cc-eebd-4658-b026-fedb7cbec022",
+        "answer": "Klute"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/d8a90550-2d2b-4811-b990-617265cf6473",
+        "answer": "The Experiment"
     },
     {
         "question": "blob:https://play.smartest.bot/d9c18b6f-5dac-4047-93ae-0aa240963d25",
@@ -36336,6 +37664,10 @@
     {
         "question": "blob:https://play.smartest.bot/da54cd4c-5a15-49ed-a70f-027bd9fa5f2f",
         "answer": "Fletch Lives"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/dab3e09c-5272-4dbd-a452-e1f32c3f1974",
+        "answer": "Spanglish"
     },
     {
         "question": "blob:https://play.smartest.bot/db342074-046b-4d16-a2db-79729e123e27",
@@ -36362,6 +37694,10 @@
         "answer": "Salmon Fishing in the Yemen"
     },
     {
+        "question": "blob:https://play.smartest.bot/dbc9e809-df88-4153-8079-86814118128b",
+        "answer": "Caddo Lake"
+    },
+    {
         "question": "blob:https://play.smartest.bot/dbd11654-951e-4425-a89b-9b3ab77779e7",
         "answer": "Bacheha-Ye aseman"
     },
@@ -36378,6 +37714,10 @@
         "answer": "Cruella"
     },
     {
+        "question": "blob:https://play.smartest.bot/dc2bc7f3-50d6-477f-bc98-073235593927",
+        "answer": "Executive Decision"
+    },
+    {
         "question": "blob:https://play.smartest.bot/dc4d0521-4729-42fb-8fc1-a511f0943bce",
         "answer": "Ayla: The Daughter of War"
     },
@@ -36388,6 +37728,10 @@
     {
         "question": "blob:https://play.smartest.bot/dc9e9d67-6d71-4718-99d6-20bf6ea60b7d",
         "answer": "Hostel"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/dcc170e1-96cf-4b0d-8730-edd4543a84fa",
+        "answer": "Camp Rock"
     },
     {
         "question": "blob:https://play.smartest.bot/dcc58709-5512-46b7-988d-e9dd6d21ad59",
@@ -36402,6 +37746,10 @@
         "answer": "Anchorman: The Legend of Ron Burgundy"
     },
     {
+        "question": "blob:https://play.smartest.bot/de5f8514-fd6a-4b8f-8ce6-861105e5ae1e",
+        "answer": "The Crow"
+    },
+    {
         "question": "blob:https://play.smartest.bot/de73b3b5-3961-41db-8b42-496877e61351",
         "answer": "15 Minutes"
     },
@@ -36414,6 +37762,10 @@
         "answer": "Silkwood"
     },
     {
+        "question": "blob:https://play.smartest.bot/df76cdf3-7a15-44f3-b9ec-ee18e790d202",
+        "answer": "Vengeance"
+    },
+    {
         "question": "blob:https://play.smartest.bot/df846f7d-6b59-4b04-9ba9-9205ea3a6ef9",
         "answer": "Land of the Dead"
     },
@@ -36424,6 +37776,14 @@
     {
         "question": "blob:https://play.smartest.bot/dfe5050a-a45c-4dac-814b-76bd4ade76c4",
         "answer": "The Expendables"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e00cc937-4edc-42ed-83fc-bbaeb2bc22b0",
+        "answer": "Frantic"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e01c7945-96aa-49bc-b526-47f685354d0a",
+        "answer": "The Old Man & the Gun"
     },
     {
         "question": "blob:https://play.smartest.bot/e05e8aa0-68cc-49b8-ab45-bff52eb97a02",
@@ -36440,6 +37800,10 @@
     {
         "question": "blob:https://play.smartest.bot/e0df2c3f-255c-48db-b61f-a58dbdb6c785",
         "answer": "Shadow of a Doubt"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e0fd35d4-e609-484b-80df-4e35bf6c66bb",
+        "answer": "Syriana"
     },
     {
         "question": "blob:https://play.smartest.bot/e14243d1-ef7a-443e-9092-2041d7e52d04",
@@ -36466,12 +37830,24 @@
         "answer": "Five Feet Apart"
     },
     {
+        "question": "blob:https://play.smartest.bot/e23b7022-0c4d-4159-a765-96079f451d9a",
+        "answer": "Grease"
+    },
+    {
         "question": "blob:https://play.smartest.bot/e2df2878-44dd-4ae9-b970-e72c15bef79e",
         "answer": "The Girl Next Door"
     },
     {
+        "question": "blob:https://play.smartest.bot/e2f105ec-f9c9-4ae9-b719-e62ae7b8e0a8",
+        "answer": "Brooklyn's Finest"
+    },
+    {
         "question": "blob:https://play.smartest.bot/e349dd0c-1d99-4e7c-91cb-35ac3322a81c",
         "answer": "One Night at McCool's"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e377f6f1-dfc1-4175-acb9-356b2e889968",
+        "answer": "Universal Soldier"
     },
     {
         "question": "blob:https://play.smartest.bot/e4767f42-ae05-4d4f-aaaf-1c1a24ed5f85",
@@ -36488,6 +37864,14 @@
     {
         "question": "blob:https://play.smartest.bot/e5f8c2d2-69e8-4965-94f8-db5a36d12add",
         "answer": "On the Rocks"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e655d70b-55b4-47f4-8417-ccd244bd1160",
+        "answer": "The Sixth Sense"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e693e976-0ba1-4928-9c10-cb73c4ec0419",
+        "answer": "Bachelorette"
     },
     {
         "question": "blob:https://play.smartest.bot/e6d89816-d5e2-4d78-b388-fcfd7eea4ab9",
@@ -36516,6 +37900,10 @@
     {
         "question": "blob:https://play.smartest.bot/e8e135f3-1985-478d-b5f5-ec7cc41764b3",
         "answer": "Kynodontas"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/e8f8758c-9b54-4d9e-a47f-20f34cc1eff0",
+        "answer": "Stand and Deliver"
     },
     {
         "question": "blob:https://play.smartest.bot/e8fb0283-fe30-400b-8bc3-9bbc906b68c1",
@@ -36550,8 +37938,16 @@
         "answer": "Get on Up"
     },
     {
+        "question": "blob:https://play.smartest.bot/e9f26228-25be-4b86-ae0a-4fbdd361fb00",
+        "answer": "Bhaag Milkha Bhaag"
+    },
+    {
         "question": "blob:https://play.smartest.bot/e9fcbe62-75e7-4930-9b5a-b367b10541dd",
         "answer": "Coffee and Cigarettes"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/ea4c4e35-5b94-483f-a8a6-079b2db4735b",
+        "answer": "Silent House"
     },
     {
         "question": "blob:https://play.smartest.bot/ea89f04c-6fac-4012-8ed6-dbd113bf3625",
@@ -36572,6 +37968,10 @@
     {
         "question": "blob:https://play.smartest.bot/eb3c6430-17de-44fa-89a9-8a98b5701aee",
         "answer": "Banlieue 13"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/ebe54bc2-fa82-4b27-8ef3-43df1d47b465",
+        "answer": "Carandiru"
     },
     {
         "question": "blob:https://play.smartest.bot/ec1c6a3c-b0fa-4250-b3d9-341e20f4e99e",
@@ -36638,6 +38038,10 @@
         "answer": "Wimbledon"
     },
     {
+        "question": "blob:https://play.smartest.bot/f0e4d707-1afd-4b01-8e95-1f3006d1706a",
+        "answer": "The Vanishing"
+    },
+    {
         "question": "blob:https://play.smartest.bot/f1818649-d3b7-48bd-8ef5-38c745b0e1bb",
         "answer": "Don Jon"
     },
@@ -36652,6 +38056,10 @@
     {
         "question": "blob:https://play.smartest.bot/f272fd62-c98d-4253-a642-0e7425c52e90",
         "answer": "Denial"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/f28710c6-6cf9-4b05-bc84-ba5121514844",
+        "answer": "Paradise"
     },
     {
         "question": "blob:https://play.smartest.bot/f29b3798-8807-457c-9908-cb7632b070d9",
@@ -36684,6 +38092,10 @@
     {
         "question": "blob:https://play.smartest.bot/f4d82856-72a4-4c46-a44f-7ed542594f77",
         "answer": "The Tree of Life"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/f506f5e0-d533-462f-9366-79f09f6a3cac",
+        "answer": "The Man Who Would Be King"
     },
     {
         "question": "blob:https://play.smartest.bot/f579e8d2-4b16-4434-940b-d828f85178a2",
@@ -36730,6 +38142,14 @@
         "answer": "Fire with Fire"
     },
     {
+        "question": "blob:https://play.smartest.bot/f7c81362-fbae-4ce7-a4eb-7a8681e0e8f8",
+        "answer": "They Came Together"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/f84f00dd-d761-43b9-9695-3c6ab6277893",
+        "answer": "Mou gaan dou II"
+    },
+    {
         "question": "blob:https://play.smartest.bot/f92020e3-53f7-4a6b-8191-dc740254943d",
         "answer": "Life as We Know It"
     },
@@ -36748,6 +38168,10 @@
     {
         "question": "blob:https://play.smartest.bot/fb0e686d-7cf0-453f-92db-8a38dcc18c86",
         "answer": "Barbarian"
+    },
+    {
+        "question": "blob:https://play.smartest.bot/fb19c7d7-723f-41c9-b9b1-558f0dc9dcbf",
+        "answer": "Anatomie d'une chute"
     },
     {
         "question": "blob:https://play.smartest.bot/fb716571-1742-4d23-abe2-268a17cb7ffd",
