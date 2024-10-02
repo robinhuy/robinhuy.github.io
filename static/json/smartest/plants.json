@@ -1,5 +1,9 @@
 [
   {
+    "question": "A tree with soft bark:",
+    "answer": "Willow"
+  },
+  {
     "question": "ALF is a phase?",
     "answer": "Dark"
   },
@@ -80,6 +84,10 @@
     "answer": "1280"
   },
   {
+    "question": "How many species of plants are pollinated by bees?",
+    "answer": "About 300,000"
+  },
+  {
     "question": "How many species of prickly pear cactus are there?",
     "answer": "200"
   },
@@ -112,6 +120,10 @@
     "answer": "Devonian"
   },
   {
+    "question": "In which part of the plant is callus formed?",
+    "answer": "On the stems"
+  },
+  {
     "question": "In which places do rare species of orchids inhabit?",
     "answer": "Tropical rainforests"
   },
@@ -122,6 +134,10 @@
   {
     "question": "In which region does the breadfruit tree grow?",
     "answer": "tropics"
+  },
+  {
+    "question": "Name a rare cactus of Central America.",
+    "answer": "Echinocactus"
   },
   {
     "question": "Name the plant that got its name from an ancient Greek word meaning 'to heal'.",
@@ -276,6 +292,10 @@
     "answer": "Sterility"
   },
   {
+    "question": "What determines the color of lichens?",
+    "answer": "The type of algae"
+  },
+  {
     "question": "What diseases can affect bonsai?",
     "answer": "Fungal"
   },
@@ -380,6 +400,10 @@
     "answer": "Indusium"
   },
   {
+    "question": "What is the final product of metabolism?",
+    "answer": "ATP"
+  },
+  {
     "question": "What is the function of wire on a bonsai?",
     "answer": "Shaping the trunk"
   },
@@ -416,8 +440,16 @@
     "answer": "Neagari"
   },
   {
+    "question": "What is the name of a plant with floating leaves?",
+    "answer": "Hydrophyte"
+  },
+  {
     "question": "What is the name of a popular bonsai style?",
     "answer": "Moyogi"
+  },
+  {
+    "question": "What is the name of one of the largest species of tree ferns?",
+    "answer": "Cyathea"
   },
   {
     "question": "What is the name of the Japanese knife used for trimming roots and branches?",
@@ -498,6 +530,10 @@
   {
     "question": "What is the name of the plant with long leaves and yellow flowers?",
     "answer": "Yellow Iris"
+  },
+  {
+    "question": "What is the name of the rare exotic flower that can weigh up to 11 kilograms?",
+    "answer": "Rafflesia Arnoldii"
   },
   {
     "question": "What is the name of the rare fern?",
@@ -724,6 +760,14 @@
     "answer": "Defensive thorns"
   },
   {
+    "question": "What plant symbolizes September?",
+    "answer": "Aster"
+  },
+  {
+    "question": "What plants are characteristic of the mangrove ecosystem?",
+    "answer": "Mangrove trees"
+  },
+  {
     "question": "What plants can be cultivated in a winter garden?",
     "answer": "Succulents"
   },
@@ -888,6 +932,10 @@
     "answer": "Ebony"
   },
   {
+    "question": "What types of ferns are used in medicine?",
+    "answer": "Shield fern"
+  },
+  {
     "question": "When did bonsai appear in Japan?",
     "answer": "13th century"
   },
@@ -956,6 +1004,10 @@
     "answer": "PCR"
   },
   {
+    "question": "Which DNA analysis technique is the most accurate?",
+    "answer": "Sequencing"
+  },
+  {
     "question": "Which algae is most common in freshwater?",
     "answer": "Chlorella"
   },
@@ -990,6 +1042,10 @@
   {
     "question": "Which cacti are known for their night blooming?",
     "answer": "Epiphyllums"
+  },
+  {
+    "question": "Which cactus is known for its night-blooming flowers?",
+    "answer": "Selenicereus"
   },
   {
     "question": "Which cellular structure is used for genetic transformation of plants?",
@@ -1388,6 +1444,10 @@
     "answer": "Tamarind"
   },
   {
+    "question": "Which plant has red flowers and prefers shade?",
+    "answer": "Begonia"
+  },
+  {
     "question": "Which plant has the ability to 'breathe' through its roots?",
     "answer": "Pandanus"
   },
@@ -1724,12 +1784,20 @@
     "answer": "Plantain"
   },
   {
+    "question": "Which plant is used to fight colds?",
+    "answer": "Honeysuckle"
+  },
+  {
     "question": "Which plant is used to make spices?",
     "answer": "Sage"
   },
   {
     "question": "Which plant is used to relieve stress?",
     "answer": "Motherwort"
+  },
+  {
+    "question": "Which plant is well-suited for hedges?",
+    "answer": "Yew"
   },
   {
     "question": "Which plant is widely known for its antibacterial properties?",
