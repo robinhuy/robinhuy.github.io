@@ -308,6 +308,10 @@
     "answer": "Coffee Break"
   },
   {
+    "question": "What German term was used to denote the specific artistic style of silent cinema?",
+    "answer": "Expressionism"
+  },
+  {
     "question": "What TV shows do the characters of the animated series 'Pinky and the Brain' watch?",
     "answer": "Window to the TV"
   },
@@ -342,6 +346,14 @@
   {
     "question": "What award is given at the film festival in Varna, Bulgaria?",
     "answer": "Golden Rose"
+  },
+  {
+    "question": "What award is given for achievements in European animation?",
+    "answer": "Emile Awards"
+  },
+  {
+    "question": "What award is given for best editing in American cinema?",
+    "answer": "Eddie"
   },
   {
     "question": "What award is given for the best Japanese animated film?",
@@ -503,6 +515,10 @@
     "answer": "Mechanical effects"
   },
   {
+    "question": "What is awarded for special effects?",
+    "answer": "VES"
+  },
+  {
     "question": "What is characteristic of German Expressionism?",
     "answer": "Contrasting light and shadow"
   },
@@ -573,6 +589,10 @@
   {
     "question": "What is the name of Christopher Nolan's wife?",
     "answer": "Emma Thomas"
+  },
+  {
+    "question": "What is the name of Elsa's sister in 'Frozen'?",
+    "answer": "Anna"
   },
   {
     "question": "What is the name of James Bond's ship?",
@@ -739,6 +759,10 @@
     "answer": "Captain Nemo"
   },
   {
+    "question": "What is the name of the German series about the fall of the Berlin Wall?",
+    "answer": "Berlin Wall"
+  },
+  {
     "question": "What is the name of the Japanese animated film about a fighter for the future of Earth?",
     "answer": "Nausicaä of the Valley of the Wind"
   },
@@ -811,6 +835,10 @@
     "answer": "Pan's Labyrinth"
   },
   {
+    "question": "What is the name of the TV series about a family from Baltimore in the criminal world?",
+    "answer": "The Wire"
+  },
+  {
     "question": "What is the name of the TV series about a hitman with moral principles?",
     "answer": "Dexter"
   },
@@ -849,6 +877,10 @@
   {
     "question": "What is the name of the animated film about dinosaurs?",
     "answer": "The Land Before Time"
+  },
+  {
+    "question": "What is the name of the animated film by a Spanish studio about a boy who discovers ancient ruins?",
+    "answer": "The Thirteenth Prince"
   },
   {
     "question": "What is the name of the animated film where the characters live in a castle?",
@@ -933,6 +965,10 @@
   {
     "question": "What is the name of the cult science fiction series about parallel universes?",
     "answer": "Sliders"
+  },
+  {
+    "question": "What is the name of the dinosaur in the animated series 'The Dawson Family'?",
+    "answer": "Fargo"
   },
   {
     "question": "What is the name of the director of the film 'Childhood of Bagroosha'?",
@@ -1119,6 +1155,10 @@
     "answer": "Harold"
   },
   {
+    "question": "What is the name of the largest transformer-dragon in the 'Transformers' movies?",
+    "answer": "Grimlock"
+  },
+  {
     "question": "What is the name of the last film featuring Heath Ledger?",
     "answer": "The Imaginarium of Doctor Parnassus"
   },
@@ -1191,6 +1231,10 @@
     "answer": "Lucius Vorenus"
   },
   {
+    "question": "What is the name of the main female character in the animated series 'DuckTales'?",
+    "answer": "Webby"
+  },
+  {
     "question": "What is the name of the main villain in 'Futurama'?",
     "answer": "Mom"
   },
@@ -1231,6 +1275,10 @@
     "answer": "In Time"
   },
   {
+    "question": "What is the name of the movie starring Brad Pitt and Edward Norton?",
+    "answer": "Fight Club"
+  },
+  {
     "question": "What is the name of the movie starring Joaquin Phoenix, where he plays a man in love with an operating system?",
     "answer": "Her"
   },
@@ -1265,6 +1313,10 @@
   {
     "question": "What is the name of the remake of the French horror film 'Martyrs'?",
     "answer": "Martyrs"
+  },
+  {
+    "question": "What is the name of the remake series of the Danish series 'Forbrydelsen'?",
+    "answer": "The Killing"
   },
   {
     "question": "What is the name of the remake series of the Spanish series 'La Casa de Papel'?",
@@ -1333,6 +1385,10 @@
   {
     "question": "What is the name of the show where people compete in boat races?",
     "answer": "Water Adventures"
+  },
+  {
+    "question": "What is the name of the show where secrets are revealed?",
+    "answer": "Secrets Revealed"
   },
   {
     "question": "What is the name of the show with song parodies?",
@@ -1537,6 +1593,10 @@
     "answer": "Spoilers"
   },
   {
+    "question": "What software is used for rendering 3D graphics?",
+    "answer": "Arnold"
+  },
+  {
     "question": "What song did Puss in Boots perform in the movie 'Shrek 2'?",
     "answer": "Livin' La Vida Loca"
   },
@@ -1581,6 +1641,10 @@
     "answer": "Double exposure"
   },
   {
+    "question": "What technology is used to combine image layers?",
+    "answer": "Compositing"
+  },
+  {
     "question": "What technology is used to render realistic lighting in 3D scenes?",
     "answer": "Global illumination"
   },
@@ -1623,6 +1687,10 @@
   {
     "question": "What was the first animated film created using the stop-motion method?",
     "answer": "The Adventures of a Doll"
+  },
+  {
+    "question": "What was the first comedy film?",
+    "answer": "The Kid"
   },
   {
     "question": "What was the first film to use computer animation?",
@@ -1778,6 +1846,10 @@
   {
     "question": "Where is the Expo prize awarded?",
     "answer": "Toronto"
+  },
+  {
+    "question": "Where is the phrase 'Rick's famous café' from?",
+    "answer": "Casablanca"
   },
   {
     "question": "Where is the quote 'Oh merci, nau-mor' from?",
@@ -2359,6 +2431,10 @@
     "answer": "Secrets of the Amazon"
   },
   {
+    "question": "Which film genre combines social criticism and symbolism?",
+    "answer": "Arthouse"
+  },
+  {
     "question": "Which film has won the most Academy Awards?",
     "answer": "Titanic"
   },
@@ -2670,6 +2746,10 @@
     "answer": "Piper"
   },
   {
+    "question": "Which film won the Oscar for Best Picture in 1971?",
+    "answer": "The French Connection"
+  },
+  {
     "question": "Which film won the Oscar for Best Picture in 2017?",
     "answer": "Moonlight"
   },
@@ -2773,12 +2853,20 @@
     "answer": "German Expressionism"
   },
   {
+    "question": "Which movement uses surrealistic images?",
+    "answer": "Surrealism"
+  },
+  {
     "question": "Which movie about real mobsters was released in 2006?",
     "answer": "The Departed"
   },
   {
     "question": "Which movie features the character CatBus?",
     "answer": "My Neighbor Totoro"
+  },
+  {
+    "question": "Which movie is a remake of the classic film 'The Thing'?",
+    "answer": "The Thing"
   },
   {
     "question": "Which movie is about a group of scientists discovering a portal to another world?",
@@ -2984,6 +3072,10 @@
     "answer": "Studio Deen"
   },
   {
+    "question": "Which studio created the movie 'Jack the Giant Slayer'?",
+    "answer": "Warner Bros."
+  },
+  {
     "question": "Which studio created the series 'Mindhunter'?",
     "answer": "A-1 Pictures"
   },
@@ -3050,6 +3142,10 @@
   {
     "question": "Which work did Georges Méliès adapt into a film in 1902?",
     "answer": "A Trip to the Moon"
+  },
+  {
+    "question": "Which work is the basis for the film 'Shantaram'?",
+    "answer": "Shantaram"
   },
   {
     "question": "Which work was the basis for the movie 'The Island'?",
@@ -3150,6 +3246,10 @@
   {
     "question": "Who composed the music for the film 'Empire of the Sun'?",
     "answer": "John Williams"
+  },
+  {
+    "question": "Who composed the music for the film 'Equilibrium'?",
+    "answer": "Klaus Badelt"
   },
   {
     "question": "Who composed the music for the film 'Escape from Alcatraz'?",
@@ -3324,6 +3424,10 @@
     "answer": "Friedrich Murnau"
   },
   {
+    "question": "Who directed 'Pretty Woman in a Trap'?",
+    "answer": "Michael Wiggins"
+  },
+  {
     "question": "Who directed 'Ruby'?",
     "answer": "Trevor Jamieson"
   },
@@ -3342,6 +3446,10 @@
   {
     "question": "Who directed 'Tad, the Lost Explorer'?",
     "answer": "Enrique Gato"
+  },
+  {
+    "question": "Who directed 'The 400 Blows'?",
+    "answer": "François Truffaut"
   },
   {
     "question": "Who directed 'The Big Lebowski'?",
@@ -3516,6 +3624,10 @@
     "answer": "Kenneth Branagh"
   },
   {
+    "question": "Who directed the film 'Macbeth' (2015)?",
+    "answer": "Justin Kurzel"
+  },
+  {
     "question": "Who directed the film 'Mia and the White Lion'?",
     "answer": "Gilles de Maistre"
   },
@@ -3685,6 +3797,10 @@
   {
     "question": "Who is the creator of the TV series 'Arrow'?",
     "answer": "Greg Berlanti"
+  },
+  {
+    "question": "Who is the creator of the animated series 'Ren and Stimpy'?",
+    "answer": "John Kricfalusi"
   },
   {
     "question": "Who is the creator of the series 'The Crown'?",
@@ -3910,6 +4026,10 @@
     "answer": "Michael Keaton"
   },
   {
+    "question": "Who played the lead role in the 2021 film 'Dune'?",
+    "answer": "Timothée Chalamet"
+  },
+  {
     "question": "Who played the lead role in the film 'Manchester by the Sea'?",
     "answer": "Casey Affleck"
   },
@@ -3978,6 +4098,10 @@
     "answer": "Barney Clark"
   },
   {
+    "question": "Who played the role of Palpatine in 'Star Wars'?",
+    "answer": "Ian McDiarmid"
+  },
+  {
     "question": "Who played the role of Scarlett O'Hara in the film 'Gone with the Wind'?",
     "answer": "Vivien Leigh"
   },
@@ -4040,6 +4164,10 @@
   {
     "question": "Who produced the film 'The Curious Case of Benjamin Button'?",
     "answer": "Kathleen Kennedy"
+  },
+  {
+    "question": "Who produced the film 'The Wrestler'?",
+    "answer": "Darren Aronofsky"
   },
   {
     "question": "Who produced the movie 'Dark Warrior'?",
@@ -4272,6 +4400,10 @@
   {
     "question": "Who wrote the book 'The Art of Cinema'?",
     "answer": "Boris Pavlov"
+  },
+  {
+    "question": "Who wrote the book 'The Shape of the Screen'?",
+    "answer": "Yuri German"
   },
   {
     "question": "Who wrote the screenplay for 'Amadeus'?",
