@@ -40,6 +40,10 @@
     "answer": "Cleanliness of the house"
   },
   {
+    "question": "How can you distinguish a real werewolf from an illusory one?",
+    "answer": "By smell"
+  },
+  {
     "question": "How could the presence of a Horcrux be determined?",
     "answer": "Dark magic"
   },
@@ -70,6 +74,10 @@
   {
     "question": "How did Voldemort attempt to regain his body?",
     "answer": "Potion and ritual"
+  },
+  {
+    "question": "How did Voldemort consolidate his power in the magical world?",
+    "answer": "Intimidation"
   },
   {
     "question": "How did Voldemort feel about Muggles?",
@@ -152,6 +160,10 @@
     "answer": "Influence"
   },
   {
+    "question": "How did the Order coordinate actions in the Battle of the Astronomy Tower?",
+    "answer": "Signal spells"
+  },
+  {
     "question": "How did the Order cope with the losses among its members?",
     "answer": "Supporting families"
   },
@@ -178,6 +190,10 @@
   {
     "question": "How do the 'Deathly Hallows' reflect the internal conflicts of the characters?",
     "answer": "Duality of choice"
+  },
+  {
+    "question": "How do the Deathly Hallows affect the fate of their owner?",
+    "answer": "Change it drastically"
   },
   {
     "question": "How do the Deathly Hallows affect the moral choices of the characters?",
@@ -322,6 +338,10 @@
   {
     "question": "In which event did the Malfoy family play a significant role in the Harry Potter books?",
     "answer": "The War with Voldemort"
+  },
+  {
+    "question": "In which family did Voldemort first use the Killing Curse?",
+    "answer": "Riddle"
   },
   {
     "question": "In which work is the symbol of the Deathly Hallows first mentioned?",
@@ -760,6 +780,10 @@
     "answer": "Butterbeer"
   },
   {
+    "question": "What effect does a spell that conjures fire from nothing have?",
+    "answer": "Fire ignites"
+  },
+  {
     "question": "What effect does the spell used against fear-eating creatures have?",
     "answer": "The creature retreats"
   },
@@ -974,6 +998,10 @@
   {
     "question": "What influence did the Malfoy family have on public sentiment in the magical world after the war?",
     "answer": "Softening of positions"
+  },
+  {
+    "question": "What influence did the Malfoy family have on the Ministry of Magic under Voldemort?",
+    "answer": "Political pressure"
   },
   {
     "question": "What influence did the Malfoys have on magical legislation?",
@@ -1456,6 +1484,10 @@
     "answer": "War and destruction"
   },
   {
+    "question": "What lesson did Harry learn from his experience with Horcruxes?",
+    "answer": "Trust in friends"
+  },
+  {
     "question": "What life lessons can be learned from the story of the Deathly Hallows?",
     "answer": "Humility"
   },
@@ -1772,6 +1804,10 @@
     "answer": "Hogwarts Express"
   },
   {
+    "question": "What magical transportation do witches and wizards use for travel?",
+    "answer": "Magic broom"
+  },
+  {
     "question": "What maneuver led to victory in defense?",
     "answer": "Labyrinth"
   },
@@ -1964,6 +2000,10 @@
     "answer": "Retained status"
   },
   {
+    "question": "What position did the Malfoys take regarding the future of the magical world after the war?",
+    "answer": "Diplomacy"
+  },
+  {
     "question": "What position in magical sports is held by the participant who seeks the Golden Snitch?",
     "answer": "Seeker"
   },
@@ -2090,6 +2130,10 @@
   {
     "question": "What rare magical artifact did the Weasley family use for protection against dark forces?",
     "answer": "Protection Amulet"
+  },
+  {
+    "question": "What rare magical metal is used in protective amulets?",
+    "answer": "Order Silver"
   },
   {
     "question": "What rare maneuver is taught only at the School of Old Wizards?",
@@ -2424,6 +2468,10 @@
     "answer": "Broom Reparo"
   },
   {
+    "question": "What spell is used for instant energy restoration?",
+    "answer": "Energy Return"
+  },
+  {
     "question": "What spell is used for protection against dark charms?",
     "answer": "Patronus Shield"
   },
@@ -2592,6 +2640,10 @@
     "answer": "Stabilio"
   },
   {
+    "question": "What spell is used to speed up flying on a broomstick in magical sports?",
+    "answer": "Accelero"
+  },
+  {
     "question": "What spell is used to stabilize flight?",
     "answer": "Aerodynamics"
   },
@@ -2720,6 +2772,10 @@
     "answer": "Alliances with pure-bloods"
   },
   {
+    "question": "What strategy did the Malfoys use to strengthen their ties with the Ministry of Magic after the war?",
+    "answer": "Political cooperation"
+  },
+  {
     "question": "What strategy helped the Malfoys maintain influence after the war?",
     "answer": "Political neutrality"
   },
@@ -2738,6 +2794,10 @@
   {
     "question": "What structure serves as the center of magical learning in South America?",
     "answer": "Castillo Macondo"
+  },
+  {
+    "question": "What subject did Horace Slughorn teach?",
+    "answer": "Potions"
   },
   {
     "question": "What subject did Remus Lupin teach?",
@@ -2846,6 +2906,10 @@
   {
     "question": "What type of broomstick was first used in professional Quidditch?",
     "answer": "Cleansweep"
+  },
+  {
+    "question": "What type of creature prefers to inhabit the swamps of Scotland?",
+    "answer": "Kelpie"
   },
   {
     "question": "What type of creatures inhabit the Black Lake at Hogwarts?",
@@ -3276,6 +3340,10 @@
     "answer": "Resurrection Stone"
   },
   {
+    "question": "Which artifact allows the owner to talk to snakes?",
+    "answer": "Gaunt's Ring"
+  },
+  {
     "question": "Which artifact allows you to control the weather?",
     "answer": "Staff of Storms"
   },
@@ -3306,6 +3374,10 @@
   {
     "question": "Which artifact allows you to store and view other people's memories?",
     "answer": "Pensieve"
+  },
+  {
+    "question": "Which artifact allows you to store secrets?",
+    "answer": "Keeper of Secrets"
   },
   {
     "question": "Which artifact alters the properties of the environment?",
@@ -3342,6 +3414,10 @@
   {
     "question": "Which artifact can destroy a part of the soul?",
     "answer": "Sword of Gryffindor"
+  },
+  {
+    "question": "Which artifact can enhance true sight?",
+    "answer": "Lens of Truth"
   },
   {
     "question": "Which artifact can hold magical energy?",
@@ -3514,6 +3590,10 @@
   {
     "question": "Which artifact is considered the key to ancient magical caches?",
     "answer": "Key of Harmony"
+  },
+  {
+    "question": "Which artifact leads to the source of eternal youth?",
+    "answer": "Resurrection Stone"
   },
   {
     "question": "Which artifact makes a person invisible?",
@@ -3768,6 +3848,10 @@
     "answer": "Time Guardian"
   },
   {
+    "question": "Which creature can temporarily suspend time around itself?",
+    "answer": "Time Keeper"
+  },
+  {
     "question": "Which creature governs sleep and dreams?",
     "answer": "Morpheus"
   },
@@ -3898,6 +3982,10 @@
   {
     "question": "Which element must be included in a potion to ensure its resistance to external magical influences?",
     "answer": "Protective element"
+  },
+  {
+    "question": "Which element of magical protection at Hogwarts did Flitwick activate during the attack?",
+    "answer": "The Wall Charm"
   },
   {
     "question": "Which element of magical sports involves the use of special brooms?",
@@ -4088,11 +4176,19 @@
     "answer": "Ravenclaw"
   },
   {
+    "question": "Which house is associated with unwavering loyalty to its ideals?",
+    "answer": "Hufflepuff"
+  },
+  {
     "question": "Which house is known for its ghost named Poltergeist?",
     "answer": "Ravenclaw"
   },
   {
     "question": "Which house is most commonly associated with successful Quidditch teams?",
+    "answer": "Gryffindor"
+  },
+  {
+    "question": "Which house specializes in bravery and nobility?",
     "answer": "Gryffindor"
   },
   {
@@ -4420,6 +4516,10 @@
     "answer": "Lucius"
   },
   {
+    "question": "Which of the Malfoys used Polyjuice Potion?",
+    "answer": "Draco Malfoy"
+  },
+  {
     "question": "Which of the Weasleys achieved the title of best Seeker for the Gryffindor house?",
     "answer": "Ginny"
   },
@@ -4518,6 +4618,10 @@
   {
     "question": "Which player is known for inventing the maneuver 'Cherry Whirl'?",
     "answer": "Perkins"
+  },
+  {
+    "question": "Which player is known for using the 'cloud cover' spell to dodge Bludgers?",
+    "answer": "Roderick Plumpton"
   },
   {
     "question": "Which players in magical sports use bats to defend against Bludgers?",
