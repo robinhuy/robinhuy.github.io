@@ -7217,6 +7217,10 @@
         "answer": "Derivative instruments"
     },
     {
+        "question": "What are economic sanctions used for?",
+        "answer": "regulation of international relations"
+    },
+    {
         "question": "What are external costs?",
         "answer": "Costs to third parties"
     },
@@ -7283,6 +7287,10 @@
     {
         "question": "What determines the exchange rate?",
         "answer": "Value of the currency"
+    },
+    {
+        "question": "What determines the total volume of production?",
+        "answer": "Maximum output"
     },
     {
         "question": "What did the Russian Investment Fund invest in during the early 2000s?",
@@ -7401,6 +7409,10 @@
         "answer": "Factor theory"
     },
     {
+        "question": "What does the Herfindahl index indicate?",
+        "answer": "Market concentration"
+    },
+    {
         "question": "What does the IS-LM model describe?",
         "answer": "capital and money markets"
     },
@@ -7505,6 +7517,10 @@
         "answer": "Lowering prices"
     },
     {
+        "question": "What does the term 'import substitution' mean?",
+        "answer": "Production of domestic goods"
+    },
+    {
         "question": "What does the term 'marginal revenue' mean?",
         "answer": "Revenue from the last unit of product"
     },
@@ -7517,8 +7533,16 @@
         "answer": "Forecasts of economic agents"
     },
     {
+        "question": "What does the trade balance show?",
+        "answer": "The difference between exports and imports"
+    },
+    {
         "question": "What does the utility function show?",
         "answer": "Satisfaction of needs"
+    },
+    {
+        "question": "What economic effect leads to an increase in income?",
+        "answer": "Multiplier effect"
     },
     {
         "question": "What economic phenomenon was observed in Japan in the 1990s?",
@@ -7827,6 +7851,10 @@
     {
         "question": "What is the term for a long-term economic development strategy?",
         "answer": "Economic planning"
+    },
+    {
+        "question": "What is the term for a permit to purchase securities for a certain amount?",
+        "answer": "Mandate"
     },
     {
         "question": "What is the term for a prolonged decline in business activity?",
@@ -8221,8 +8249,16 @@
         "answer": "Antoine de Montchrétien"
     },
     {
+        "question": "Who introduced the theory of 'consumer surplus'?",
+        "answer": "Jules Dupuit"
+    },
+    {
         "question": "Who is the author of 'The Theory of Economic Growth'?",
         "answer": "Robert Solow"
+    },
+    {
+        "question": "Who is the author of 'The Theory of Money and Credit'?",
+        "answer": "Ludwig von Mises"
     },
     {
         "question": "Who is the author of the book 'The Theory of Economic Development'?",
@@ -30260,12 +30296,32 @@
         "answer": "Beloved"
     },
     {
+        "question": "In which work did Claudius Aelian collect numerous curious facts about nature and people?",
+        "answer": "On Animals"
+    },
+    {
         "question": "In which work is a talking doll described?",
         "answer": "Pinocchio"
     },
     {
+        "question": "In which work is the London Plague and the times of King Charles II described?",
+        "answer": "A Journal of the Plague Year"
+    },
+    {
         "question": "In which work is the famous bridge and Civil War battle mentioned?",
         "answer": "An Occurrence at Owl Creek Bridge"
+    },
+    {
+        "question": "Name the author of the legend 'Tristan and Isolde'?",
+        "answer": "Thomas"
+    },
+    {
+        "question": "To whom did Jane Austen dedicate her novel 'Emma'?",
+        "answer": "The Prince Regent"
+    },
+    {
+        "question": "What aesthetic principle was important for Baroque literature?",
+        "answer": "Reformatio mundi"
     },
     {
         "question": "What ancient artifact was created by the dark mage Shannara?",
@@ -30274,6 +30330,10 @@
     {
         "question": "What ancient creature awakens in Robert E. Howard's 'Conan the Barbarian'?",
         "answer": "Yog-Sothoth"
+    },
+    {
+        "question": "What are the aphorisms of Benedetto Vargas called?",
+        "answer": "Aphorisms on Power"
     },
     {
         "question": "What artifact did Gandalf use in the Battle of the Shire?",
@@ -30286,6 +30346,14 @@
     {
         "question": "What award did the novel 'Stone Heart' receive?",
         "answer": "Blue Rose"
+    },
+    {
+        "question": "What characterizes the Baroque style in literature?",
+        "answer": "Emotionality"
+    },
+    {
+        "question": "What city is the capital of Andor in 'The Wheel of Time'?",
+        "answer": "Caemlyn"
     },
     {
         "question": "What concept did Francesco Petrarch introduce to describe his love for Laura?",
@@ -30308,6 +30376,18 @@
         "answer": "Invisible Man"
     },
     {
+        "question": "What is the name of Guy de Maupassant's novel about the double life of journalist Duroc?",
+        "answer": "Our Heart"
+    },
+    {
+        "question": "What is the name of Jean de Meun's main work?",
+        "answer": "The Romance of the Rose"
+    },
+    {
+        "question": "What is the name of King Oberon's beloved in Roger Zelazny's 'The Chronicles of Amber'?",
+        "answer": "Reyna"
+    },
+    {
         "question": "What is the name of Mr. Woodhouse's house in Austen's novel?",
         "answer": "Hartfield"
     },
@@ -30316,24 +30396,72 @@
         "answer": "Sappho"
     },
     {
+        "question": "What is the name of the Japanese folklore collection of stories contained in the epic poetry created by a monk in the 12th century?",
+        "answer": "Collection of One Hundred Tales"
+    },
+    {
+        "question": "What is the name of the Old English poem about the sea and solitude?",
+        "answer": "The Seafarer"
+    },
+    {
         "question": "What is the name of the Renaissance poem by Pietro Bembo?",
         "answer": "The Asolani"
+    },
+    {
+        "question": "What is the name of the Welsh poem about the fight against giants?",
+        "answer": "The Destruction of the Giants"
     },
     {
         "question": "What is the name of the ancient Greek lyrical poetry that celebrates athletes' victories?",
         "answer": "Epinikion"
     },
     {
+        "question": "What is the name of the book that describes the adventures of the Meistersingers?",
+        "answer": "Meistersingers"
+    },
+    {
+        "question": "What is the name of the chivalric poem written by Chrétien de Troyes?",
+        "answer": "Yvain, or The Knight with the Lion"
+    },
+    {
         "question": "What is the name of the city abandoned by the first elves in Tolkien's 'The Silmarillion'?",
         "answer": "Gondolin"
+    },
+    {
+        "question": "What is the name of the collection of mystical plays popular in medieval England?",
+        "answer": "Chester Mysteries"
+    },
+    {
+        "question": "What is the name of the collection of speeches by Demosthenes?",
+        "answer": "Philippic"
+    },
+    {
+        "question": "What is the name of the cycle of novellas composed by Jef Brun?",
+        "answer": "Romanicon"
+    },
+    {
+        "question": "What is the name of the dragon in Strizh in Daniel Reed's film 'Creed Rock'?",
+        "answer": "Northern"
     },
     {
         "question": "What is the name of the evil sorcerer who imprisoned Pendragon in the world of 'Arthurian'?",
         "answer": "Mordred"
     },
     {
+        "question": "What is the name of the famous French madrigal from the 16th century?",
+        "answer": "Mignonne, allons voir"
+    },
+    {
         "question": "What is the name of the magical artifact guarded by the Keepers of the Bright Forest in the 'Chronicles of Lorien' series?",
         "answer": "Elvanor"
+    },
+    {
+        "question": "What is the name of the magical book containing the spells of the ancestors in the world of 'Tower of Power'?",
+        "answer": "Mysterium"
+    },
+    {
+        "question": "What is the name of the magical city hidden in the forests of Avalon in 'The Chronicles of Amber'?",
+        "answer": "Rebma"
     },
     {
         "question": "What is the name of the medieval poem about love and redemption?",
@@ -30356,6 +30484,10 @@
         "answer": "Shadowgrip"
     },
     {
+        "question": "What is the name of the spell that allows bypassing magical barriers in the world of 'Magic of the Limit'?",
+        "answer": "Pegasus Summon"
+    },
+    {
         "question": "What is the name of the wizard in 'King Arthur'?",
         "answer": "Merlin"
     },
@@ -30368,6 +30500,10 @@
         "answer": "Gray Guardian"
     },
     {
+        "question": "What is the name of the work about Parisian students of the 13th century?",
+        "answer": "Cartulary"
+    },
+    {
         "question": "What is the name of the work by the ancient Greek philosopher that explores the theme of love?",
         "answer": "Symposium"
     },
@@ -30376,8 +30512,36 @@
         "answer": "Dissonance"
     },
     {
+        "question": "What is the real name of the writer known by the pen name George Eliot?",
+        "answer": "Mary Ann Evans"
+    },
+    {
+        "question": "What is the structural element in Baroque literature that embodies dynamism and change?",
+        "answer": "hyperbolism"
+    },
+    {
+        "question": "What is the title of the Jane Austen novel where the events take place at Kellynch Hall?",
+        "answer": "The Mandrake"
+    },
+    {
+        "question": "What magical technique does Doctor Magnius possess in 'Secrets of Astralia'?",
+        "answer": "Shadow Summoning"
+    },
+    {
         "question": "What material are the scrolls in 'The Wheel of Time' written on?",
         "answer": "Parchment"
+    },
+    {
+        "question": "What philosophical ideas did Erasmus of Rotterdam promote in his works?",
+        "answer": "humanism"
+    },
+    {
+        "question": "What power does Aratorn, the main character in 'The Desert Kingdoms' by Brian Staveley, use?",
+        "answer": "Shadows"
+    },
+    {
+        "question": "What power does the heroine Rudase wield in Ursula Le Guin's 'Annals of the Western Shore'?",
+        "answer": "The Power of Nature"
     },
     {
         "question": "What powerful artifact warmed the hearts of the Tarnelins in 'The Legend of the Seven Rocks'?",
@@ -30388,8 +30552,20 @@
         "answer": "Illusion and changeability"
     },
     {
+        "question": "What rare type of magical creature is found in the forests of Lórien?",
+        "answer": "Golden Unicorn"
+    },
+    {
+        "question": "What real name did Pierre Choderlos de Laclos use in his works?",
+        "answer": "Pierre Choderlos"
+    },
+    {
         "question": "What role did Catholicism play in Baroque literature?",
         "answer": "Significant"
+    },
+    {
+        "question": "What role did the ancient heritage play in classical literature?",
+        "answer": "Primary"
     },
     {
         "question": "What role did the works of Ludovico Ariosto play in Italian Renaissance literature?",
@@ -30402,6 +30578,10 @@
     {
         "question": "What term describes the concept of illusory reality in Baroque?",
         "answer": "vanitas"
+    },
+    {
+        "question": "What title does the supreme ruler of Lankhmar hold?",
+        "answer": "Overlord"
     },
     {
         "question": "What type of magic is the wizard Garg known for in 'Legends of the Lands of Ingvalar'?",
@@ -30420,12 +30600,28 @@
         "answer": "Valkyrie"
     },
     {
+        "question": "What was the name of the poet known for writing epigrams that became the pinnacle of Roman satire?",
+        "answer": "Martial"
+    },
+    {
+        "question": "What was the title of the first English translation of Livy's 'Roman Antiquities'?",
+        "answer": "The Romane Historie"
+    },
+    {
         "question": "What work did Pindar write about the winners of the Olympic Games?",
         "answer": "Epinikia"
     },
     {
         "question": "Which Dutch humanist wrote the work 'On the Education of Children'?",
         "answer": "Erasmus of Rotterdam"
+    },
+    {
+        "question": "Which Emma Goldman novel explores the life and struggle of an early 20th-century anarchist?",
+        "answer": "Living My Life"
+    },
+    {
+        "question": "Which English poet wrote a collection of sonnets based on sighs in the Petrarchan manner?",
+        "answer": "Shakespeare"
     },
     {
         "question": "Which English writer wrote 'The Pilgrim's Progress' under his own name?",
@@ -30436,8 +30632,20 @@
         "answer": "Reason"
     },
     {
+        "question": "Which Enlightenment thinker developed the idea of utopia through satire?",
+        "answer": "Swift"
+    },
+    {
         "question": "Which French poet and philosopher wrote 'Servan'?",
         "answer": "Guillaume de Machaut"
+    },
+    {
+        "question": "Which French writer wrote the work 'Julie, or the New Heloise'?",
+        "answer": "Jean-Jacques Rousseau"
+    },
+    {
+        "question": "Which German composer created the opera 'The Ring of the Nibelung'?",
+        "answer": "Richard Wagner"
     },
     {
         "question": "Which German writer wrote a tragedy based on the historical conflict between Wallenstein and his entourage?",
@@ -30452,8 +30660,16 @@
         "answer": "Love's Labour's Lost"
     },
     {
+        "question": "Which Shakespeare play includes the theme of a naval battle and betrayal?",
+        "answer": "Antony and Cleopatra"
+    },
+    {
         "question": "Which Stephen King book won the British Fantasy Award in 2013?",
         "answer": "Doctor Sleep"
+    },
+    {
+        "question": "Which Stephen King novel won the 'Los Angeles Times Book Prize'?",
+        "answer": "11/22/63"
     },
     {
         "question": "Which ancient Roman author wrote the work 'Menippean Satires', laying the foundation for a new genre of satirical literature?",
@@ -30476,8 +30692,20 @@
         "answer": "Seal of Time"
     },
     {
+        "question": "Which artist's painting inspired Thomas Mann to write the novella 'Death in Venice'?",
+        "answer": "Arnold Böcklin"
+    },
+    {
         "question": "Which author created a cycle of stories about King Arthur in the French language?",
         "answer": "Chrétien de Troyes"
+    },
+    {
+        "question": "Which book by Peter Handke won the Nobel Prize in Literature in 2019?",
+        "answer": "A Praise of Poverty"
+    },
+    {
+        "question": "Which book by Victor Hugo is written about the time of the French Revolution?",
+        "answer": "Ninety-Three"
     },
     {
         "question": "Which book by a Norwegian author won the Brage Prize in 2014?",
@@ -30486,6 +30714,10 @@
     {
         "question": "Which book did Geoffroi de Villehardouin write about the Fourth Crusade?",
         "answer": "The Conquest of Constantinople"
+    },
+    {
+        "question": "Which book was awarded the National Book Critics Circle Award in 2016?",
+        "answer": "The Sellout"
     },
     {
         "question": "Which book was awarded the Women's Prize for Fiction in 2017?",
@@ -30506,6 +30738,10 @@
     {
         "question": "Which book was written by the Akutagawa Prize winner in 2019?",
         "answer": "Puppet"
+    },
+    {
+        "question": "Which book won the 'Prix Goncourt' in 2020?",
+        "answer": "The Anomaly"
     },
     {
         "question": "Which book won the 'World Fantasy Award' in 2012?",
@@ -30532,8 +30768,16 @@
         "answer": "How to Stop Time"
     },
     {
+        "question": "Which dragon awakens in the north in the book 'A Song of Ice and Fire'?",
+        "answer": "Viserion"
+    },
+    {
         "question": "Which drama by Guercio da Pomenta is an example of a combination of ancient and medieval style?",
         "answer": "Medea"
+    },
+    {
+        "question": "Which element is part of the strict genre canons of classicism?",
+        "answer": "Normative language"
     },
     {
         "question": "Which elements are abundant in the literary style of Baroque?",
@@ -30546,6 +30790,10 @@
     {
         "question": "Which famous Italian Renaissance writer wrote an erotic poem about the adventures of a Venetian?",
         "answer": "Aretino"
+    },
+    {
+        "question": "Which famous collection of medieval poetry about eternal love was created in Provence?",
+        "answer": "Carmina Burana"
     },
     {
         "question": "Which heroine is the central figure in the work 'Sappho' by Angelo Poliziano?",
@@ -30572,6 +30820,14 @@
         "answer": "Swann's Way"
     },
     {
+        "question": "Which novel by Frank Norris depicts the ruthlessness of capitalism through the story of railroads in California?",
+        "answer": "The Octopus"
+    },
+    {
+        "question": "Which novel by Henry James is considered the pinnacle of analyzing the social and cultural clash between Europe and America?",
+        "answer": "The Ambassadors"
+    },
+    {
         "question": "Which novel by Katherine Anne Porter, published in 1962, describes a voyage on a ship from Mexico to Germany on the eve of World War II?",
         "answer": "Ship of Fools"
     },
@@ -30592,8 +30848,16 @@
         "answer": "East of Eden"
     },
     {
+        "question": "Which novel was awarded the 'Asper' prize in 2018?",
+        "answer": "Invisible City"
+    },
+    {
         "question": "Which novel was awarded the 'Indie Book of the Year' in 2017?",
         "answer": "The Faraway Kingdom"
+    },
+    {
+        "question": "Which novel was awarded the title of Book of the Year by 'Times' in 2020?",
+        "answer": "Earthsea"
     },
     {
         "question": "Which novel was nominated for the Costa Book Award in 2020?",
@@ -30608,12 +30872,28 @@
         "answer": "Valley of Mists"
     },
     {
+        "question": "Which novel won the Booker Prize in 2021?",
+        "answer": "The Promise"
+    },
+    {
         "question": "Which novel won the Dublin Literary Award in 2018?",
         "answer": "The Sea of Dreams"
     },
     {
+        "question": "Which novel won the German Literary Award in 2018?",
+        "answer": "The Archive of Victims"
+    },
+    {
         "question": "Which novel won the International IMPAC Dublin Literary Award in 2018?",
         "answer": "The Luminaries"
+    },
+    {
+        "question": "Which novel won the Lambda Literary Award for Fiction in 2019?",
+        "answer": "On a Full Sail"
+    },
+    {
+        "question": "Which novel won the London Readers' Prize in 2021?",
+        "answer": "Shadows of the Past"
     },
     {
         "question": "Which novel won the Man Booker International Prize in 2018?",
@@ -30624,8 +30904,20 @@
         "answer": "The Calculating Stars"
     },
     {
+        "question": "Which philosopher influenced Baroque literature?",
+        "answer": "Descartes"
+    },
+    {
+        "question": "Which philosopher proposed the concept of natural reason?",
+        "answer": "Baruch Spinoza"
+    },
+    {
         "question": "Which philosophical movement influenced Baroque literature?",
         "answer": "Neoplatonism"
+    },
+    {
+        "question": "Which play by Shaw is considered a reinterpretation of 'Pygmalion'?",
+        "answer": "My Fair Lady"
     },
     {
         "question": "Which play did William Shakespeare write first?",
@@ -30652,6 +30944,10 @@
         "answer": "Orseto di Cetona"
     },
     {
+        "question": "Which poet is known for his role in the 'Wars of the Roses'?",
+        "answer": "John Lydgate"
+    },
+    {
         "question": "Which poet wrote 'The Battle of Colbie'?",
         "answer": "Walther von der Vogelweide"
     },
@@ -30664,20 +30960,52 @@
         "answer": "Wheel of Fortune"
     },
     {
+        "question": "Which trait is foreign to Baroque literature?",
+        "answer": "Simplicity"
+    },
+    {
+        "question": "Which treatise philosophically justifies the concept of civil authority?",
+        "answer": "The Prince"
+    },
+    {
         "question": "Which work analyzes the political systems of the Enlightenment era?",
         "answer": "The Spirit of the Laws"
+    },
+    {
+        "question": "Which work became an important source for studying the evolution of comic genres in ancient dramaturgy?",
+        "answer": "The Asses"
     },
     {
         "question": "Which work belongs to Andreas Gryphius?",
         "answer": "The Tragedy of Cardenio"
     },
     {
+        "question": "Which work by Diderot criticizes religion and morality?",
+        "answer": "The Nun"
+    },
+    {
+        "question": "Which work by Emily Dickinson includes a philosophical exploration of death?",
+        "answer": "Emily Dickinson's Poetry"
+    },
+    {
         "question": "Which work by Francesco Petrarch demonstrates elements of classicism?",
         "answer": "Africa"
     },
     {
+        "question": "Which work by Henry James is considered the pinnacle of his later career and was published in 1904?",
+        "answer": "The Wings of the Dove"
+    },
+    {
         "question": "Which work by Holbach is dedicated to atheism?",
         "answer": "The System of Nature"
+    },
+    {
+        "question": "Which work by John Cheever explores nostalgia and social decline?",
+        "answer": "The Swimmer"
+    },
+    {
+        "question": "Which work by John Cheever explores the theme of nostalgia and social decline through the character Neddy Merrill?",
+        "answer": "The Swimmer"
     },
     {
         "question": "Which work by Juan Luis Vives became foundational for Renaissance pedagogy?",
@@ -30696,8 +31024,16 @@
         "answer": "The Fair of Saint Ottonel"
     },
     {
+        "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
+        "answer": "Self-Reliance"
+    },
+    {
         "question": "Which work by Sarah Orne Jewett explores female attachment and societal expectations in New England?",
         "answer": "The Country of the Pointed Firs"
+    },
+    {
+        "question": "Which work by Thomas More contains utopian ideas?",
+        "answer": "Utopia"
     },
     {
         "question": "Which work by Walt Whitman reflects the mystical connection between man and nature?",
@@ -30720,8 +31056,24 @@
         "answer": "Anna of Persia"
     },
     {
+        "question": "Which work in the form of letters delves into various aspects of love and passion of mythical heroes?",
+        "answer": "Heroides"
+    },
+    {
         "question": "Which work initiated utopian ideas of the Renaissance?",
         "answer": "Utopia"
+    },
+    {
+        "question": "Which work is a symbol of Baroque dramatic literature?",
+        "answer": "Phantasmagoria"
+    },
+    {
+        "question": "Which work is considered foundational for the theory of knowledge?",
+        "answer": "Critique of Pure Reason"
+    },
+    {
+        "question": "Which work is dedicated to three generations of a family in New York and describes the transformations of the American Dream?",
+        "answer": "The Golden Apple"
     },
     {
         "question": "Which work is written in prose form and covers themes of social inequality and metaphysics?",
@@ -30736,6 +31088,10 @@
         "answer": "Orlando Furioso"
     },
     {
+        "question": "Which work of French literature explores the life of a nobleman?",
+        "answer": "Memoirs of a Nobleman"
+    },
+    {
         "question": "Which work of Leonardo da Vinci influenced Renaissance literature?",
         "answer": "Journals"
     },
@@ -30748,8 +31104,20 @@
         "answer": "Medea"
     },
     {
+        "question": "Which work was translated into Latin as 'Historia Calamitatum'?",
+        "answer": "The Story of My Misfortunes"
+    },
+    {
         "question": "Which work was written by Petrarch?",
         "answer": "Africa"
+    },
+    {
+        "question": "Which work won the 'Goodreads Choice Award' in 2016?",
+        "answer": "Morning Star"
+    },
+    {
+        "question": "Who applied the methods of critical philosophy to religious beliefs?",
+        "answer": "David Hume"
     },
     {
         "question": "Who created the Floating Castle spell on the Ancient Island?",
@@ -30758,6 +31126,10 @@
     {
         "question": "Who developed the philosophy of law based on utilitarianism?",
         "answer": "Bentham"
+    },
+    {
+        "question": "Who founded the School of the Fighting Spirit in 'Legend of the Valkyrie'?",
+        "answer": "Craig"
     },
     {
         "question": "Who has won the Pulitzer Prize twice?",
@@ -30770,6 +31142,18 @@
     {
         "question": "Who is considered Shakespeare's closest friend in the theatrical community?",
         "answer": "Richard Burbage"
+    },
+    {
+        "question": "Who is considered the founder of the courtly poetry genre?",
+        "answer": "Walther von der Vogelweide"
+    },
+    {
+        "question": "Who is credited with the creation of 'Thebaid'?",
+        "answer": "Statius"
+    },
+    {
+        "question": "Who is the author of 'The Tale of the Golden Fleece'?",
+        "answer": "Lodovico Dolce"
     },
     {
         "question": "Who is the author of the 18th-century French novel based on letters from aristocrats about love intrigues?",
@@ -30808,8 +31192,24 @@
         "answer": "Susan Choi"
     },
     {
+        "question": "Who is the author of the novel with elements of Greek romance and pastoral life, written during the Hellenistic period?",
+        "answer": "Longus"
+    },
+    {
+        "question": "Who is the author of the play 'As You Like It', which mentions the Forest of Arden?",
+        "answer": "William Shakespeare"
+    },
+    {
         "question": "Who is the author of the work \"Books on the Family\"?",
         "answer": "Leon Battista Alberti"
+    },
+    {
+        "question": "Who is the author of the work describing the journey of a knight from the Arthurian cycle to the Holy Grail?",
+        "answer": "Chrétien de Troyes"
+    },
+    {
+        "question": "Who is the founder of the White Council in Tolkien's Middle-earth?",
+        "answer": "Galadriel"
     },
     {
         "question": "Who is the hero of the German epic poem about the battle of brothers?",
@@ -30818,6 +31218,10 @@
     {
         "question": "Who is the main character of George Eliot's novel 'Middlemarch'?",
         "answer": "Dorothea Brooke"
+    },
+    {
+        "question": "Who received the Prague Literary Prize in 2018?",
+        "answer": "Milan Kundera"
     },
     {
         "question": "Who translated 'Daphnis and Chloe' into Latin?",
@@ -30832,8 +31236,20 @@
         "answer": "Iago"
     },
     {
+        "question": "Who was the publisher of the first posthumous publication of Jane Austen's works?",
+        "answer": "Henry Austen"
+    },
+    {
         "question": "Who wrote 'On the Defense and Glory of the French Language'?",
         "answer": "Jean du Bellay"
+    },
+    {
+        "question": "Who wrote 'The Awakening'?",
+        "answer": "Kate Chopin"
+    },
+    {
+        "question": "Who wrote 'The Romance of the Fox'?",
+        "answer": "Anonymous author"
     },
     {
         "question": "Who wrote 'The Twelve Idylls'?",
@@ -30842,6 +31258,14 @@
     {
         "question": "Who wrote the famous poem 'Madrigals'?",
         "answer": "Jacopo Sarti"
+    },
+    {
+        "question": "Who wrote the novel that won the 'Golden Eagle' award in 2014?",
+        "answer": "Anne Tyler"
+    },
+    {
+        "question": "Who wrote the poem about Helen of Troy's return home?",
+        "answer": "Guido delle Colonne"
     },
     {
         "question": "Who wrote the three-volume work about Jeffers?",
@@ -46912,6 +47336,10 @@
         "answer": "Glands of internal secretion"
     },
     {
+        "question": "What does epidemiology study?",
+        "answer": "Epidemiology studies diseases and their spread"
+    },
+    {
         "question": "What does falsification involve?",
         "answer": "Refutation of a hypothesis"
     },
@@ -46964,6 +47392,10 @@
         "answer": "Diseases and their causes"
     },
     {
+        "question": "What does quantum chromodynamics study?",
+        "answer": "Interactions of quarks"
+    },
+    {
         "question": "What does string theory describe?",
         "answer": "Fundamental particles"
     },
@@ -47014,6 +47446,10 @@
     {
         "question": "What does the term 'biocenosis' describe?",
         "answer": "Community of organisms"
+    },
+    {
+        "question": "What does the term 'heterozygous' mean?",
+        "answer": "Different alleles"
     },
     {
         "question": "What does the theory of inflation include?",
@@ -47098,6 +47534,10 @@
     {
         "question": "What happens when measuring the state of a quantum system?",
         "answer": "Wave function collapse"
+    },
+    {
+        "question": "What initiates the cell cycle?",
+        "answer": "Cyclins"
     },
     {
         "question": "What instrument is used for analyzing chemical composition?",
@@ -47470,6 +47910,10 @@
     {
         "question": "What is oxygen balance?",
         "answer": "Equilibrium of O2"
+    },
+    {
+        "question": "What is panspermia?",
+        "answer": "Hypothesis of life transfer"
     },
     {
         "question": "What is peptidoglycan?",
