@@ -4,12 +4,20 @@
     "answer": "Bobotie"
   },
   {
+    "question": "From which milk is soy meat made?",
+    "answer": "Soy"
+  },
+  {
     "question": "From which plant is cumin obtained?",
     "answer": "Cumin"
   },
   {
     "question": "How is a bagel prepared?",
     "answer": "Boiling and baking"
+  },
+  {
+    "question": "How long does it take to bake bread?",
+    "answer": "40-60 minutes"
   },
   {
     "question": "How many layers are there usually in a standard cake?",
@@ -30,6 +38,10 @@
   {
     "question": "In which century did they start making marzipan?",
     "answer": "15th century"
+  },
+  {
+    "question": "In which country is trdelník popular?",
+    "answer": "Czech Republic"
   },
   {
     "question": "In which dish is fugu fish used?",
@@ -64,6 +76,14 @@
     "answer": "Gyoza"
   },
   {
+    "question": "What are the ingredients in the filling for manti?",
+    "answer": "Meat and onion"
+  },
+  {
+    "question": "What are the small round French pastries called?",
+    "answer": "Macarons"
+  },
+  {
     "question": "What cheese is used to make the traditional Austrian wedding dish Käsekuchen?",
     "answer": "Quark"
   },
@@ -84,8 +104,16 @@
     "answer": "Buffalo"
   },
   {
+    "question": "What dish is made from duck liver?",
+    "answer": "Foie gras"
+  },
+  {
     "question": "What dish is made from eggplants?",
     "answer": "Moussaka"
+  },
+  {
+    "question": "What dish is often made from salmon?",
+    "answer": "Steak"
   },
   {
     "question": "What dish is often served at Christmas dinner in the USA?",
@@ -112,12 +140,24 @@
     "answer": "Separates components"
   },
   {
+    "question": "What does a strict vegan diet include?",
+    "answer": "Plant-based food"
+  },
+  {
     "question": "What does the French term 'passe' mean?",
     "answer": "To sauté"
   },
   {
+    "question": "What drink is called the 'nectar of the gods' in mythology?",
+    "answer": "Ambrosia"
+  },
+  {
     "question": "What drink is popular at the Holi festival in India?",
     "answer": "Bhang"
+  },
+  {
+    "question": "What drink is traditionally made from fermented elderberries?",
+    "answer": "Elderberry wine"
   },
   {
     "question": "What famous Brazilian dish is made with vegetables, beans, and rice?",
@@ -152,12 +192,40 @@
     "answer": "Coconut"
   },
   {
+    "question": "What ingredient is used in carbonara pasta?",
+    "answer": "Guanciale"
+  },
+  {
+    "question": "What ingredient is used in waterzooi?",
+    "answer": "Chicken"
+  },
+  {
+    "question": "What ingredient is used to make demi-glace sauce?",
+    "answer": "Beef bones"
+  },
+  {
+    "question": "What is \"reduction\" in cooking?",
+    "answer": "Simmering liquids"
+  },
+  {
     "question": "What is 'confit'?",
     "answer": "Cooking in fat"
   },
   {
+    "question": "What is 'noisetteing'?",
+    "answer": "Cooking in butter"
+  },
+  {
+    "question": "What is 'susucheniye' in cooking?",
+    "answer": "Blending of flavors"
+  },
+  {
     "question": "What is a New Year tradition in Peru?",
     "answer": "Chiriuchu"
+  },
+  {
+    "question": "What is added to alcohol to make a B-52 cocktail?",
+    "answer": "Coffee liqueur"
   },
   {
     "question": "What is added to canned foods to extend their shelf life?",
@@ -166,6 +234,18 @@
   {
     "question": "What is added to canned tomatoes for a spicy taste?",
     "answer": "Chili"
+  },
+  {
+    "question": "What is added to jam for gelling?",
+    "answer": "Agar-agar"
+  },
+  {
+    "question": "What is added to paella for aroma?",
+    "answer": "Saffron"
+  },
+  {
+    "question": "What is an amuse-bouche?",
+    "answer": "A surprise appetizer"
   },
   {
     "question": "What is an arepa made from in Venezuela?",
@@ -190,6 +270,14 @@
   {
     "question": "What is served with Japanese fast food tempura?",
     "answer": "Soy sauce"
+  },
+  {
+    "question": "What is the baking method called that uses steam?",
+    "answer": "steam baking"
+  },
+  {
+    "question": "What is the base of the French sauce 'Velouté'?",
+    "answer": "white stock"
   },
   {
     "question": "What is the benefit of molecular cuisine?",
@@ -228,8 +316,16 @@
     "answer": "Agave"
   },
   {
+    "question": "What is the main ingredient in the Guamanian dish kelaguen?",
+    "answer": "Raw fish"
+  },
+  {
     "question": "What is the main ingredient of foie gras?",
     "answer": "Goose liver"
+  },
+  {
+    "question": "What is the main seasoning in classic Greek sauce?",
+    "answer": "Garlic"
   },
   {
     "question": "What is the method of freezing using very low temperatures called?",
@@ -250,6 +346,10 @@
   {
     "question": "What is the name of the Canadian alcoholic beverage made from grains?",
     "answer": "Rye whiskey"
+  },
+  {
+    "question": "What is the name of the French dish made from stewed meat?",
+    "answer": "Ragout"
   },
   {
     "question": "What is the name of the French pastry with almond cream?",
@@ -288,12 +388,20 @@
     "answer": "12 grapes"
   },
   {
+    "question": "What is the name of the cake made with chocolate glaze?",
+    "answer": "Sachertorte"
+  },
+  {
     "question": "What is the name of the cake with chocolate and almonds in Italy?",
     "answer": "Torta Caprese"
   },
   {
     "question": "What is the name of the cuisine known for slow-cooking meat?",
     "answer": "French"
+  },
+  {
+    "question": "What is the name of the custard tart that is characteristic of France?",
+    "answer": "Custard Tart"
   },
   {
     "question": "What is the name of the dish made from finely chopped raw fish with lemon juice and spices?",
@@ -310,6 +418,14 @@
   {
     "question": "What is the name of the famous French fish dish?",
     "answer": "Bouillabaisse"
+  },
+  {
+    "question": "What is the name of the juice that flows from meat during roasting?",
+    "answer": "jus"
+  },
+  {
+    "question": "What is the name of the molecular technique associated with the use of liquid nitrogen?",
+    "answer": "Cryogenic"
   },
   {
     "question": "What is the name of the popular French dessert made from dark and white chocolate?",
@@ -340,6 +456,14 @@
     "answer": "Yushka"
   },
   {
+    "question": "What is the name of the techno-emotional cuisine in Spain?",
+    "answer": "Molecular"
+  },
+  {
+    "question": "What is the name of the thin Italian pie with filling?",
+    "answer": "Calzone"
+  },
+  {
     "question": "What is the nationality of the dish 'Tom Yum Goong'?",
     "answer": "Thai"
   },
@@ -360,6 +484,10 @@
     "answer": "Crumbing"
   },
   {
+    "question": "What is the process of cooking food by quickly frying it in a pan with a small amount of oil called?",
+    "answer": "Frying"
+  },
+  {
     "question": "What is the process of cooking meat in a pan without oil called?",
     "answer": "Dry frying"
   },
@@ -372,8 +500,16 @@
     "answer": "Gelation"
   },
   {
+    "question": "What is the technique called that is used to separate liquid and solid components?",
+    "answer": "Filtration"
+  },
+  {
     "question": "What is the technique called that uses fire to caramelize crème brûlée?",
     "answer": "Caramelization"
+  },
+  {
+    "question": "What is the technique of cooking meat in a vacuum at low temperature called?",
+    "answer": "Sous-vide"
   },
   {
     "question": "What is the technique of slowly cooking meat in liquid called?",
@@ -396,6 +532,10 @@
     "answer": "Stollen"
   },
   {
+    "question": "What is typically used for deglazing?",
+    "answer": "Wine"
+  },
+  {
     "question": "What is used for cooling in molecular gastronomy?",
     "answer": "Liquid nitrogen"
   },
@@ -410,6 +550,14 @@
   {
     "question": "What meat is used to prepare the dish vitello tonnato?",
     "answer": "Veal"
+  },
+  {
+    "question": "What method allows for long-term storage of food in the absence of air?",
+    "answer": "Vacuum sealing"
+  },
+  {
+    "question": "What method is often used to prepare fish carpaccio?",
+    "answer": "Marinating"
   },
   {
     "question": "What method is often used to prepare pickles?",
@@ -428,6 +576,10 @@
     "answer": "Vatrushniky"
   },
   {
+    "question": "What pie is popular in Portugal?",
+    "answer": "Pastel de Nata"
+  },
+  {
     "question": "What popular dish is served at the carnival in Brazil?",
     "answer": "Feijoada"
   },
@@ -442,6 +594,14 @@
   {
     "question": "What process is called 'tempering'?",
     "answer": "Creating chocolate patterns"
+  },
+  {
+    "question": "What process is often used for preserving fish?",
+    "answer": "Salting"
+  },
+  {
+    "question": "What processing method does soda use?",
+    "answer": "Cleaning"
   },
   {
     "question": "What product is often used as a meat substitute?",
@@ -468,6 +628,10 @@
     "answer": "Teriyaki"
   },
   {
+    "question": "What should you rub on meat before roasting?",
+    "answer": "Spices"
+  },
+  {
     "question": "What side dish is often served with fish in French cuisine?",
     "answer": "Ratatouille"
   },
@@ -486,6 +650,10 @@
   {
     "question": "What substance is used for flavor extraction in molecular gastronomy?",
     "answer": "CO2"
+  },
+  {
+    "question": "What sweet dish is prepared for the Chinese Lunar New Year celebration?",
+    "answer": "Nian gao"
   },
   {
     "question": "What technique in molecular gastronomy is used to create flavor concentrates without chemical or thermal processing?",
@@ -540,6 +708,10 @@
     "answer": "Beef fillet"
   },
   {
+    "question": "What type of nut butter is popular among vegans?",
+    "answer": "Peanut butter"
+  },
+  {
     "question": "What type of porridge is traditionally eaten on Epiphany?",
     "answer": "Wheat"
   },
@@ -548,8 +720,16 @@
     "answer": "Matcha"
   },
   {
+    "question": "What was called the 'heavenly drink' in ancient times?",
+    "answer": "Mead"
+  },
+  {
     "question": "What was used for baking bread in Ancient Greece?",
     "answer": "Coarse flour"
+  },
+  {
+    "question": "When did the first known bread recipe appear?",
+    "answer": "Around 3500 BC"
   },
   {
     "question": "When was ice cream invented?",
@@ -596,6 +776,10 @@
     "answer": "Lentils"
   },
   {
+    "question": "Which berries are best suited for drying?",
+    "answer": "Hawthorn berries"
+  },
+  {
     "question": "Which berries are commonly used for making kissel?",
     "answer": "Cranberry"
   },
@@ -608,8 +792,16 @@
     "answer": "sodium"
   },
   {
+    "question": "Which civilization first used vanilla?",
+    "answer": "Aztecs"
+  },
+  {
     "question": "Which cocktail is made with gin and dry vermouth?",
     "answer": "Martini"
+  },
+  {
+    "question": "Which cooking method involves grinding ingredients into a powder?",
+    "answer": "Grinding"
   },
   {
     "question": "Which country is famous for cooking fish in a banana leaf?",
@@ -622,6 +814,10 @@
   {
     "question": "Which country is known for the street food 'Tempura'?",
     "answer": "Japan"
+  },
+  {
+    "question": "Which country is the birthplace of preparing watercress?",
+    "answer": "Portugal"
   },
   {
     "question": "Which cuisine does the dish momo represent?",
@@ -644,8 +840,24 @@
     "answer": "Mousse"
   },
   {
+    "question": "Which dessert is made from flour and butter in India?",
+    "answer": "Gujia"
+  },
+  {
     "question": "Which dessert is made from whipped cream and gelatin?",
     "answer": "Panna cotta"
+  },
+  {
+    "question": "Which device emits a fragrance?",
+    "answer": "Air freshener"
+  },
+  {
+    "question": "Which dish includes cabbage and meat?",
+    "answer": "Sarma"
+  },
+  {
+    "question": "Which dish includes fish and vinegar?",
+    "answer": "Mullet salsa"
   },
   {
     "question": "Which dish includes fish in pastry?",
@@ -654,6 +866,10 @@
   {
     "question": "Which dish includes oranges and snails?",
     "answer": "Paella"
+  },
+  {
+    "question": "Which dish is made using a corn tortilla?",
+    "answer": "Arepa"
   },
   {
     "question": "Which dish is often served at a French buffet?",
@@ -668,8 +884,16 @@
     "answer": "Bouillabaisse"
   },
   {
+    "question": "Which drink is beneficial for digestion?",
+    "answer": "Kombucha"
+  },
+  {
     "question": "Which drink is known as the 'Green Fairy'?",
     "answer": "Absinthe"
+  },
+  {
+    "question": "Which drink is often recommended for heart health?",
+    "answer": "Red wine"
   },
   {
     "question": "Which drink is recommended for stomach health?",
@@ -690,6 +914,10 @@
   {
     "question": "Which famous chef actively uses molecular gastronomy at the restaurant 'The Fat Duck'?",
     "answer": "Heston Blumenthal"
+  },
+  {
+    "question": "Which famous molecular gastronomy laboratory is located in Spain?",
+    "answer": "El Bulli"
   },
   {
     "question": "Which fats are considered healthy?",
@@ -724,6 +952,10 @@
     "answer": "Fig"
   },
   {
+    "question": "Which fruit is traditionally used to decorate a Christmas pudding?",
+    "answer": "Red currant"
+  },
+  {
     "question": "Which gas is used to create foams?",
     "answer": "Carbon dioxide"
   },
@@ -752,12 +984,20 @@
     "answer": "Sambuca"
   },
   {
+    "question": "Which method involves slow cooking of meat?",
+    "answer": "Braising"
+  },
+  {
     "question": "Which mushroom is often used for soup in vegan cuisine?",
     "answer": "Shiitake"
   },
   {
     "question": "Which popular cocktail consists of gold rum, overproof rum, and fruit juices?",
     "answer": "Zombie"
+  },
+  {
+    "question": "Which proteins are easier to digest?",
+    "answer": "Plant-based"
   },
   {
     "question": "Which restaurant is known for Ferran Adrià's approach to molecular gastronomy?",
@@ -784,6 +1024,10 @@
     "answer": "Saffron"
   },
   {
+    "question": "Which spice is known for its spicy and slightly woody aroma and is used in Arabic cuisine?",
+    "answer": "Cumin"
+  },
+  {
     "question": "Which spice is often used to flavor fish dishes in Japanese cuisine?",
     "answer": "wasabi"
   },
@@ -808,8 +1052,20 @@
     "answer": "Vanilla"
   },
   {
+    "question": "Which spice is used to make Mexican tea?",
+    "answer": "Cinnamon"
+  },
+  {
+    "question": "Which spice is used to prepare the classic Japanese dish called gyoza?",
+    "answer": "Shichimi"
+  },
+  {
     "question": "Which spice makes a Chinese dish spicy?",
     "answer": "Cayenne pepper"
+  },
+  {
+    "question": "Which vegetable is often considered a superfood?",
+    "answer": "Kale"
   },
   {
     "question": "Who created the recipe for the first alcoholic cocktail?",
@@ -834,5 +1090,9 @@
   {
     "question": "Who were the first to cultivate cocoa for making chocolate?",
     "answer": "Olmecs"
+  },
+  {
+    "question": "Who wrote 'The Great Culinary Dictionary'?",
+    "answer": "Alexandre Dumas"
   }
 ]

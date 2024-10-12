@@ -64,6 +64,10 @@
     "answer": "Ring of Fire"
   },
   {
+    "question": "What artifact does Elric of Melniboné use to summon the gods of chaos?",
+    "answer": "Ring of Kings"
+  },
+  {
     "question": "What aspect of aesthetics does Baroque literature emphasize?",
     "answer": "vanitas"
   },
@@ -126,6 +130,10 @@
   {
     "question": "What is the name of Poliziano's work dedicated to ancient legends?",
     "answer": "Sappho"
+  },
+  {
+    "question": "What is the name of the German novel about the exploits and adventures of the knight Iwein?",
+    "answer": "Iwein, or The Knight with the Lion"
   },
   {
     "question": "What is the name of the Japanese folklore collection of stories contained in the epic poetry created by a monk in the 12th century?",
@@ -194,6 +202,10 @@
   {
     "question": "What is the name of the magical city hidden in the forests of Avalon in 'The Chronicles of Amber'?",
     "answer": "Rebma"
+  },
+  {
+    "question": "What is the name of the magical fortress that protects the Northern Boundary in the Legends of the Western Kingdom?",
+    "answer": "Ancient Shield"
   },
   {
     "question": "What is the name of the medieval poem about love and redemption?",
@@ -296,12 +308,20 @@
     "answer": "Significant"
   },
   {
+    "question": "What role did heroic epics play in the literature of Classicism?",
+    "answer": "Main"
+  },
+  {
     "question": "What role did the ancient heritage play in classical literature?",
     "answer": "Primary"
   },
   {
     "question": "What role did the works of Ludovico Ariosto play in Italian Renaissance literature?",
     "answer": "primary"
+  },
+  {
+    "question": "What social issue does Jane Austen address in the novel 'Mansfield Park'?",
+    "answer": "Women's dependence on marriage"
   },
   {
     "question": "What special property does the magical elixir 'Gandrabry' have in 'Riftwar Master'?",
@@ -360,6 +380,10 @@
     "answer": "Shakespeare"
   },
   {
+    "question": "Which English poet wrote a work about the triumph of Richard the Lionheart?",
+    "answer": "Richard de Barnes"
+  },
+  {
     "question": "Which English writer wrote 'The Pilgrim's Progress' under his own name?",
     "answer": "John Bunyan"
   },
@@ -386,6 +410,10 @@
   {
     "question": "Which German writer wrote a tragedy based on the historical conflict between Wallenstein and his entourage?",
     "answer": "Schiller"
+  },
+  {
+    "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
+    "answer": "Francesco Petrarch"
   },
   {
     "question": "Which Renaissance poet was the first to introduce the genre of dialogue into literature?",
@@ -440,6 +468,10 @@
     "answer": "Chrétien de Troyes"
   },
   {
+    "question": "Which book by Douglas Kennedy describes the fate of people haunted by a nightmarish past?",
+    "answer": "The Moment"
+  },
+  {
     "question": "Which book by Peter Handke won the Nobel Prize in Literature in 2019?",
     "answer": "A Praise of Poverty"
   },
@@ -466,6 +498,10 @@
   {
     "question": "Which book was awarded the Women's Prize for Fiction in 2017?",
     "answer": "The Power"
+  },
+  {
+    "question": "Which book was named 'Book of the Year' by NPR in 2019?",
+    "answer": "The Dragon's Storm"
   },
   {
     "question": "Which book was recognized as the best by 'The New York Times' in 2018?",
@@ -684,8 +720,16 @@
     "answer": "Orlando Furioso"
   },
   {
+    "question": "Which poem by Francesco Petrarch became famous during the Renaissance?",
+    "answer": "Africa"
+  },
+  {
     "question": "Which poem did Sidney write inspired by the Renaissance?",
     "answer": "Astrophil and Stella"
+  },
+  {
+    "question": "Which poem did William Wordsworth conclude the poetic cycle 'Lyrical Ballads' with?",
+    "answer": "Tintern Abbey"
   },
   {
     "question": "Which poet described the construction of the Siena Cathedral in his poem?",
@@ -700,12 +744,20 @@
     "answer": "Walther von der Vogelweide"
   },
   {
+    "question": "Which powerful order protects the Dragon Forest in 'Saga of the Ancient Worlds'?",
+    "answer": "Order of Fire"
+  },
+  {
     "question": "Which principle of the Enlightenment era underlies utopian works?",
     "answer": "rationality"
   },
   {
     "question": "Which spell is forbidden to use in the Duels of the Lords of Cold?",
     "answer": "Wheel of Fortune"
+  },
+  {
+    "question": "Which tragedy by Torquato Tasso is considered a model of Italian Renaissance tragedy?",
+    "answer": "Aminta"
   },
   {
     "question": "Which trait is foreign to Baroque literature?",
@@ -772,6 +824,10 @@
     "answer": "The Fair of Saint Ottonel"
   },
   {
+    "question": "Which work by Niccolò Machiavelli demonstrates elements of Renaissance drama?",
+    "answer": "The Mandrake"
+  },
+  {
     "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
     "answer": "Self-Reliance"
   },
@@ -800,6 +856,10 @@
     "answer": "The House on the Hill"
   },
   {
+    "question": "Which work describes the connections of King Arthur with the Saxons and Picts?",
+    "answer": "Historia Brittonum"
+  },
+  {
     "question": "Which work explores the issue of morality and social stigmatization through stories of death and burial?",
     "answer": "American Necropolis"
   },
@@ -808,8 +868,16 @@
     "answer": "Anna of Persia"
   },
   {
+    "question": "Which work in Latin discusses philosophical questions in the form of dialogues?",
+    "answer": "De sapientia"
+  },
+  {
     "question": "Which work in the form of letters delves into various aspects of love and passion of mythical heroes?",
     "answer": "Heroides"
+  },
+  {
+    "question": "Which work initiated the utopian genre?",
+    "answer": "Utopia"
   },
   {
     "question": "Which work initiated utopian ideas of the Renaissance?",
@@ -988,6 +1056,10 @@
     "answer": "Ausonius"
   },
   {
+    "question": "Who translated Virgil into Italian during the Renaissance?",
+    "answer": "Angelo Poliziano"
+  },
+  {
     "question": "Who was the author of the ancient Greek 'Geography'?",
     "answer": "Strabo"
   },
@@ -1022,6 +1094,10 @@
   {
     "question": "Who wrote the famous poem 'Madrigals'?",
     "answer": "Jacopo Sarti"
+  },
+  {
+    "question": "Who wrote the novel 'The Bitter Father and the Merry Son' in the 18th century?",
+    "answer": "Friedrich Schiller"
   },
   {
     "question": "Who wrote the novel that won the 'Golden Eagle' award in 2014?",
