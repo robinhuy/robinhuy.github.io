@@ -12,6 +12,10 @@
     "answer": "Social structure"
   },
   {
+    "question": "How is malaria transmitted?",
+    "answer": "By mosquito bite"
+  },
+  {
     "question": "How many years does a bachelor's degree take?",
     "answer": "Four"
   },
@@ -22,6 +26,10 @@
   {
     "question": "In what year did the Thirty Years' War begin?",
     "answer": "1618"
+  },
+  {
+    "question": "In what year was the Treaty of Versailles signed?",
+    "answer": "1919"
   },
   {
     "question": "In what year was the first women's college founded?",
@@ -200,6 +208,10 @@
     "answer": "Graphic editors"
   },
   {
+    "question": "What is 'anaphylactic shock'?",
+    "answer": "Allergic reaction"
+  },
+  {
     "question": "What is a digital footprint?",
     "answer": "Internet activity"
   },
@@ -238,6 +250,10 @@
   {
     "question": "What is important when studying artifacts?",
     "answer": "Context"
+  },
+  {
+    "question": "What is marginal cost?",
+    "answer": "Additional costs"
   },
   {
     "question": "What is reaction formation?",
@@ -294,6 +310,10 @@
   {
     "question": "What is the main purpose of propaganda?",
     "answer": "Influence opinion"
+  },
+  {
+    "question": "What is the name of a law enforcement officer?",
+    "answer": "Police officer"
   },
   {
     "question": "What is the name of the ancient Greek harvest festival?",
@@ -384,6 +404,10 @@
     "answer": "Hematology"
   },
   {
+    "question": "What is the science of medicinal plants called?",
+    "answer": "Pharmacognosy"
+  },
+  {
     "question": "What is the scientific study of social change and development called?",
     "answer": "Social theory"
   },
@@ -398,6 +422,10 @@
   {
     "question": "What is the term for spiritual self-improvement in Taoism?",
     "answer": "Dao"
+  },
+  {
+    "question": "What is the term for the difference between a government's income and expenses?",
+    "answer": "Budget deficit"
   },
   {
     "question": "What is the term for the transmission of cultural traditions from generation to generation?",
@@ -516,6 +544,10 @@
     "answer": "Mini-course"
   },
   {
+    "question": "What type of educational activity involves writing a dissertation?",
+    "answer": "Research work"
+  },
+  {
     "question": "What was the name of the ancient Indian empire?",
     "answer": "Maurya"
   },
@@ -542,6 +574,10 @@
   {
     "question": "Where did the 'Green Morning' movement take place?",
     "answer": "In Kenya"
+  },
+  {
+    "question": "Which anthropological concept explains the vertical structure of society?",
+    "answer": "Social stratification"
   },
   {
     "question": "Which anthropologist developed the method of ethnography?",
@@ -600,12 +636,28 @@
     "answer": "Federal Law No. 255-FZ"
   },
   {
+    "question": "Which media format does not exist?",
+    "answer": "Googlecasts"
+  },
+  {
     "question": "Which movement campaigned against nuclear weapons?",
     "answer": "Campaign for Nuclear Disarmament"
   },
   {
     "question": "Which organizations are involved in social support?",
     "answer": "Charitable foundations"
+  },
+  {
+    "question": "Which part of the tooth is responsible for its sensitivity?",
+    "answer": "Dentin"
+  },
+  {
+    "question": "Which philosopher claimed that 'existence precedes essence'?",
+    "answer": "Sartre"
+  },
+  {
+    "question": "Which philosophical direction claims that the world is completely knowable?",
+    "answer": "Rationalism"
   },
   {
     "question": "Which principle respects cultural diversity and intercultural dialogue?",
@@ -764,6 +816,10 @@
     "answer": "Brahma"
   },
   {
+    "question": "Who is the author of 'Utilitarianism'?",
+    "answer": "Mill"
+  },
+  {
     "question": "Who is the author of the book 'Anthropology Treatise'?",
     "answer": "Claude Lévi-Strauss"
   },
@@ -788,6 +844,10 @@
     "answer": "Herbert Blumer"
   },
   {
+    "question": "Who issues rulings?",
+    "answer": "The court"
+  },
+  {
     "question": "Who led the Salt March?",
     "answer": "Mahatma Gandhi"
   },
@@ -806,6 +866,10 @@
   {
     "question": "Who was one of the leaders of the anti-colonial movements in Africa?",
     "answer": "Kwame Nkrumah"
+  },
+  {
+    "question": "Who was the first Prime Minister of the United Kingdom?",
+    "answer": "Walpole"
   },
   {
     "question": "Who was the leader of the migrant rights movement in the USA?",
