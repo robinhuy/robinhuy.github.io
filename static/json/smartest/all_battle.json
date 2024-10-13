@@ -30588,6 +30588,10 @@
         "answer": "Pinocchio"
     },
     {
+        "question": "In which work is the Battle of Alfdon mentioned?",
+        "answer": "The Song of the Cid"
+    },
+    {
         "question": "In which work is the London Plague and the times of King Charles II described?",
         "answer": "A Journal of the Plague Year"
     },
@@ -30614,6 +30618,10 @@
     {
         "question": "What ancient creature awakens in Robert E. Howard's 'Conan the Barbarian'?",
         "answer": "Yog-Sothoth"
+    },
+    {
+        "question": "What are Petrarch's personal poetic letters called?",
+        "answer": "Canzoniere"
     },
     {
         "question": "What are the aphorisms of Benedetto Vargas called?",
@@ -30656,8 +30664,20 @@
         "answer": "Forest Spirit"
     },
     {
+        "question": "What inspired Alberti to create the treatise 'Ten Books on Architecture'?",
+        "answer": "Vitruvius"
+    },
+    {
         "question": "What is Merlin's spellbook in 'The Stories of Camelot'?",
         "answer": "The Tome of Spells"
+    },
+    {
+        "question": "What is Prospero's role in Shakespeare's play 'The Tempest'?",
+        "answer": "sorcerer"
+    },
+    {
+        "question": "What is the ancient prophecy in 'Shannara'?",
+        "answer": "Elven Sensitivity"
     },
     {
         "question": "What is the genre of ancient texts that describes different spheres of life through allegories called?",
@@ -30678,6 +30698,10 @@
     {
         "question": "What is the name of Jean de Meun's main work?",
         "answer": "The Romance of the Rose"
+    },
+    {
+        "question": "What is the name of Jordanes' work about the Goths?",
+        "answer": "Getica"
     },
     {
         "question": "What is the name of King Oberon's beloved in Roger Zelazny's 'The Chronicles of Amber'?",
@@ -30820,6 +30844,10 @@
         "answer": "Mary Ann Evans"
     },
     {
+        "question": "What is the source of the Dark Lord's power in the world of Illuvia?",
+        "answer": "Amulet of Evil"
+    },
+    {
         "question": "What is the structural element in Baroque literature that embodies dynamism and change?",
         "answer": "hyperbolism"
     },
@@ -30834,6 +30862,10 @@
     {
         "question": "What material are the scrolls in 'The Wheel of Time' written on?",
         "answer": "Parchment"
+    },
+    {
+        "question": "What new structure did Samuel Richardson introduce to English literature?",
+        "answer": "Epistolary novel"
     },
     {
         "question": "What philosophical ideas did Erasmus of Rotterdam promote in his works?",
@@ -30892,12 +30924,24 @@
         "answer": "vanitas"
     },
     {
+        "question": "What term describes the mixture of Christian and Platonic ideas in Renaissance literature?",
+        "answer": "Christian Platonism"
+    },
+    {
         "question": "What title does the supreme ruler of Lankhmar hold?",
         "answer": "Overlord"
     },
     {
         "question": "What type of magic is the wizard Garg known for in 'Legends of the Lands of Ingvalar'?",
         "answer": "Necromancy"
+    },
+    {
+        "question": "What type of plays predominated in the works of Luis Vives?",
+        "answer": "Moralities"
+    },
+    {
+        "question": "What types of characters are often found in Baroque works?",
+        "answer": "Tragic"
     },
     {
         "question": "What was the name of Longus' work that became a model for the pastoral novel?",
@@ -30922,6 +30966,10 @@
     {
         "question": "What work did Pindar write about the winners of the Olympic Games?",
         "answer": "Epinikia"
+    },
+    {
+        "question": "Which 12th-century poet is considered a pioneer of courtly poetry?",
+        "answer": "Chrétien de Troyes"
     },
     {
         "question": "Which 13th-century French novel is considered the first great Renaissance novel?",
@@ -30960,6 +31008,10 @@
         "answer": "Guillaume de Machaut"
     },
     {
+        "question": "Which French writer formulated the doctrines of classicism?",
+        "answer": "Boileau"
+    },
+    {
         "question": "Which French writer wrote the work 'Julie, or the New Heloise'?",
         "answer": "Jean-Jacques Rousseau"
     },
@@ -30968,8 +31020,16 @@
         "answer": "Richard Wagner"
     },
     {
+        "question": "Which German monk and poet compiled 'Carmina Burana'?",
+        "answer": "Benedict of Bavaria"
+    },
+    {
         "question": "Which German writer wrote a tragedy based on the historical conflict between Wallenstein and his entourage?",
         "answer": "Schiller"
+    },
+    {
+        "question": "Which Italian writer wrote the treatise 'On the Education of a Christian Princess'?",
+        "answer": "Baldassare Castiglione"
     },
     {
         "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
@@ -30980,8 +31040,16 @@
         "answer": "Leon Battista Alberti"
     },
     {
+        "question": "Which Shakespeare play begins with the capture of Lord Bardolph?",
+        "answer": "Henry IV, Part 2"
+    },
+    {
         "question": "Which Shakespeare play begins with the phrase: 'When two kings'?",
         "answer": "Antony and Cleopatra"
+    },
+    {
+        "question": "Which Shakespeare play deals with real and imagined revenge?",
+        "answer": "Hamlet"
     },
     {
         "question": "Which Shakespeare play has the subtitle 'The Caprices of Love'?",
@@ -31012,6 +31080,10 @@
         "answer": "Roman"
     },
     {
+        "question": "Which ancient prophet predicted the Great War in the saga 'The Last Hope'?",
+        "answer": "Altair"
+    },
+    {
         "question": "Which ancient sources served as the basis for Thomas More's works?",
         "answer": "Plato"
     },
@@ -31028,8 +31100,20 @@
         "answer": "Chrétien de Troyes"
     },
     {
+        "question": "Which author wrote 'The Mill on the Floss'?",
+        "answer": "George Eliot"
+    },
+    {
+        "question": "Which book by Arvid Jansson won the Astrid Lindgren Award?",
+        "answer": "Night on Guard"
+    },
+    {
         "question": "Which book by Douglas Kennedy describes the fate of people haunted by a nightmarish past?",
         "answer": "The Moment"
+    },
+    {
+        "question": "Which book by Judith Kerr was awarded the Carnegie Medal in 2020?",
+        "answer": "When Hitler Stole Pink Rabbit"
     },
     {
         "question": "Which book by Peter Handke won the Nobel Prize in Literature in 2019?",
@@ -31038,6 +31122,14 @@
     {
         "question": "Which book by Victor Hugo is written about the time of the French Revolution?",
         "answer": "Ninety-Three"
+    },
+    {
+        "question": "Which book by a Chinese author gained international recognition after being translated into English?",
+        "answer": "Death's End"
+    },
+    {
+        "question": "Which book by a Latin American author was awarded the 'Premio Alfaguara' in 2017?",
+        "answer": "The Night Will Be Long"
     },
     {
         "question": "Which book by a Norwegian author won the Brage Prize in 2014?",
@@ -31050,6 +31142,14 @@
     {
         "question": "Which book did Geoffroi de Villehardouin write about the Fourth Crusade?",
         "answer": "The Conquest of Constantinople"
+    },
+    {
+        "question": "Which book was awarded the 'Neustadt International Prize for Literature' in 2020?",
+        "answer": "City of Lights"
+    },
+    {
+        "question": "Which book was awarded the 'Premio Planeta' in 2019?",
+        "answer": "Forgotten Voices"
     },
     {
         "question": "Which book was awarded the National Book Critics Circle Award in 2016?",
@@ -31088,6 +31188,10 @@
         "answer": "Osama"
     },
     {
+        "question": "Which book won the Goncourt des Lycéens award in 2021?",
+        "answer": "Le Mage du Kremlin"
+    },
+    {
         "question": "Which book, first published in 2016, was praised by critics for its deep social commentary and illustrative mastery?",
         "answer": "Invisible Division"
     },
@@ -31102,6 +31206,10 @@
     {
         "question": "Which chivalric romance was written by Chrétien de Troyes around 1170?",
         "answer": "Erec and Enide"
+    },
+    {
+        "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
+        "answer": "The Knights"
     },
     {
         "question": "Which critically acclaimed novel by a British author won the 'Costa Novel Award' in 2014?",
@@ -31126,6 +31234,10 @@
     {
         "question": "Which epic describes the story of Siegfried and the Gibichungs?",
         "answer": "The Song of the Nibelungs"
+    },
+    {
+        "question": "Which famous French writer wrote a tragedy about the confrontation between the Pope and the Emperor?",
+        "answer": "Voltaire"
     },
     {
         "question": "Which famous Italian Renaissance writer wrote an erotic poem about the adventures of a Venetian?",
@@ -31156,12 +31268,24 @@
         "answer": "Jean de Meun"
     },
     {
+        "question": "Which medieval poet wrote 'Sir Gawain and the Green Knight'?",
+        "answer": "Anonymous"
+    },
+    {
         "question": "Which modernist novel by Marcel Proust begins with a mention of the pronunciation of names?",
         "answer": "Swann's Way"
     },
     {
         "question": "Which novel became a box office success and won the 'Costa' award in 2010?",
         "answer": "A Little Life"
+    },
+    {
+        "question": "Which novel by David Grossman was awarded the Prix Médicis?",
+        "answer": "See Under: Love"
+    },
+    {
+        "question": "Which novel by F. Scott Fitzgerald is noted for its depiction of the decline of the American Dream and has been awarded the Pulitzer Prize?",
+        "answer": "The Great Gatsby"
     },
     {
         "question": "Which novel by Frank Norris depicts the ruthlessness of capitalism through the story of railroads in California?",
@@ -31174,6 +31298,10 @@
     {
         "question": "Which novel by Katherine Anne Porter, published in 1962, describes a voyage on a ship from Mexico to Germany on the eve of World War II?",
         "answer": "Ship of Fools"
+    },
+    {
+        "question": "Which novel by Mariam Petrosyan won the Mythopoeic Award in 2014?",
+        "answer": "The Gray House"
     },
     {
         "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
@@ -31198,6 +31326,10 @@
     {
         "question": "Which novel was awarded the 'Indie Book of the Year' in 2017?",
         "answer": "The Faraway Kingdom"
+    },
+    {
+        "question": "Which novel was awarded the 'Walter Scott Prize' in 2020?",
+        "answer": "The Mirror and the Light"
     },
     {
         "question": "Which novel was awarded the title of Book of the Year by 'Times' in 2020?",
@@ -31248,6 +31380,14 @@
         "answer": "The Calculating Stars"
     },
     {
+        "question": "Which novel won the main literary award in the UK in 2009 and was adapted into an HBO series?",
+        "answer": "Wolf Hall"
+    },
+    {
+        "question": "Which of Shakespeare's plays is set in Venice and includes the characters Brabanzio and Gratiano?",
+        "answer": "Othello"
+    },
+    {
         "question": "Which philosopher influenced Baroque literature?",
         "answer": "Descartes"
     },
@@ -31260,8 +31400,16 @@
         "answer": "Neoplatonism"
     },
     {
+        "question": "Which play by Pedro Calderón de la Barca is considered the best in Spanish literature?",
+        "answer": "Life is a Dream"
+    },
+    {
         "question": "Which play by Shaw is considered a reinterpretation of 'Pygmalion'?",
         "answer": "My Fair Lady"
+    },
+    {
+        "question": "Which play did Shakespeare co-write that was published anonymously in 1623?",
+        "answer": "Henry VIII"
     },
     {
         "question": "Which play did William Shakespeare write first?",
@@ -31296,8 +31444,20 @@
         "answer": "Orseto di Cetona"
     },
     {
+        "question": "Which poet from Wolfsberg is considered the founder of German literature?",
+        "answer": "Hartmann von Aue"
+    },
+    {
+        "question": "Which poet introduced the term 'platonic love' into literature?",
+        "answer": "Petrarch"
+    },
+    {
         "question": "Which poet is known for his role in the 'Wars of the Roses'?",
         "answer": "John Lydgate"
+    },
+    {
+        "question": "Which poet wrote 'An Essay on Criticism'?",
+        "answer": "Alexander Pope"
     },
     {
         "question": "Which poet wrote 'The Battle of Colbie'?",
@@ -31316,6 +31476,10 @@
         "answer": "Wheel of Fortune"
     },
     {
+        "question": "Which theme was particularly emphasized by Baroque drama?",
+        "answer": "Vanitas"
+    },
+    {
         "question": "Which tragedy by Torquato Tasso is considered a model of Italian Renaissance tragedy?",
         "answer": "Aminta"
     },
@@ -31332,12 +31496,20 @@
         "answer": "The Spirit of the Laws"
     },
     {
+        "question": "Which work became a 'Barnes & Noble' bestseller in 2020?",
+        "answer": "The Royal Hawk"
+    },
+    {
         "question": "Which work became an important source for studying the evolution of comic genres in ancient dramaturgy?",
         "answer": "The Asses"
     },
     {
         "question": "Which work belongs to Andreas Gryphius?",
         "answer": "The Tragedy of Cardenio"
+    },
+    {
+        "question": "Which work by Aeschylus is known for its innovative stage effects?",
+        "answer": "The Persians"
     },
     {
         "question": "Which work by Diderot criticizes religion and morality?",
@@ -31350,6 +31522,18 @@
     {
         "question": "Which work by Francesco Petrarch demonstrates elements of classicism?",
         "answer": "Africa"
+    },
+    {
+        "question": "Which work by Francisco de Quevedo is an example of literary Baroque?",
+        "answer": "Dream"
+    },
+    {
+        "question": "Which work by François Villon showcased poetic technique and satire in medieval France?",
+        "answer": "The Grand Testament"
+    },
+    {
+        "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
+        "answer": "The Turn of the Screw"
     },
     {
         "question": "Which work by Henry James is considered the pinnacle of his later career and was published in 1904?",
@@ -31376,6 +31560,10 @@
         "answer": "Diana"
     },
     {
+        "question": "Which work by Leibniz develops the concept of monads?",
+        "answer": "Monadology"
+    },
+    {
         "question": "Which work by Lucian satirizes the belief in gods?",
         "answer": "True History"
     },
@@ -31394,6 +31582,10 @@
     {
         "question": "Which work by Sarah Orne Jewett explores female attachment and societal expectations in New England?",
         "answer": "The Country of the Pointed Firs"
+    },
+    {
+        "question": "Which work by Sophocles is dedicated to the myth of Oedipus?",
+        "answer": "Oedipus Rex"
     },
     {
         "question": "Which work by Thomas More contains utopian ideas?",
@@ -31416,12 +31608,28 @@
         "answer": "The House on the Hill"
     },
     {
+        "question": "Which work declared a fight against moralism and religious intolerance?",
+        "answer": "Candide"
+    },
+    {
         "question": "Which work describes the connections of King Arthur with the Saxons and Picts?",
         "answer": "Historia Brittonum"
     },
     {
+        "question": "Which work describes the legend of King Arthur as a historical figure?",
+        "answer": "History of the Kings of Britain"
+    },
+    {
+        "question": "Which work explores the issue of government control over personal freedom?",
+        "answer": "1984"
+    },
+    {
         "question": "Which work explores the issue of morality and social stigmatization through stories of death and burial?",
         "answer": "American Necropolis"
+    },
+    {
+        "question": "Which work had a significant influence on periodical literature during the Enlightenment?",
+        "answer": "Encyclopedia"
     },
     {
         "question": "Which work in 5 books was written by Likhnidsky?",
@@ -31434,6 +31642,10 @@
     {
         "question": "Which work in the form of letters delves into various aspects of love and passion of mythical heroes?",
         "answer": "Heroides"
+    },
+    {
+        "question": "Which work includes descriptions of Byzantine monasteries and shrines?",
+        "answer": "Byzantine Shrines"
     },
     {
         "question": "Which work initiated the utopian genre?",
@@ -31454,6 +31666,10 @@
     {
         "question": "Which work is dedicated to three generations of a family in New York and describes the transformations of the American Dream?",
         "answer": "The Golden Apple"
+    },
+    {
+        "question": "Which work is often considered foundational in the psychological thriller genre and deals with themes of violence and redemption?",
+        "answer": "Flashes of Darkness"
     },
     {
         "question": "Which work is written in prose form and covers themes of social inequality and metaphysics?",
@@ -31480,6 +31696,10 @@
         "answer": "Odes"
     },
     {
+        "question": "Which work received the Franz Kafka Prize in 2015?",
+        "answer": "Ghost"
+    },
+    {
         "question": "Which work tells the story of a hero who sacrificed family happiness for the sake of revenge?",
         "answer": "Medea"
     },
@@ -31496,8 +31716,20 @@
         "answer": "Morning Star"
     },
     {
+        "question": "Which work, published in 1851, is based on real experiences of sea voyages and whaling?",
+        "answer": "Moby Dick"
+    },
+    {
+        "question": "Which writer formulated the aesthetic principles of classicism?",
+        "answer": "Nicolas Boileau"
+    },
+    {
         "question": "Who applied the methods of critical philosophy to religious beliefs?",
         "answer": "David Hume"
+    },
+    {
+        "question": "Who compiled the 'Palatine Anthology'?",
+        "answer": "Meleager"
     },
     {
         "question": "Who created the Floating Castle spell on the Ancient Island?",
@@ -31548,6 +31780,10 @@
         "answer": "Laclos"
     },
     {
+        "question": "Who is the author of the allegory 'Russian Princes'?",
+        "answer": "Foma Izansky"
+    },
+    {
         "question": "Who is the author of the book 'The Road to Nobel', which gained worldwide popularity?",
         "answer": "Michael Chabon"
     },
@@ -31560,6 +31796,10 @@
         "answer": "Statius"
     },
     {
+        "question": "Who is the author of the famous French tragedy about the conflict between a cardinal and a count?",
+        "answer": "Corneille"
+    },
+    {
         "question": "Who is the author of the medieval romance 'Tristan and Isolde'?",
         "answer": "Thomas of Britain"
     },
@@ -31568,8 +31808,16 @@
         "answer": "Alexandre Dumas"
     },
     {
+        "question": "Who is the author of the novel 'Her Fearful Symmetry', nominated for the Stockton Prize in 2007?",
+        "answer": "Audrey Niffenegger"
+    },
+    {
         "question": "Who is the author of the novel 'Mirror and Sorrow', nominated for the National Book Award?",
         "answer": "Ellen Hilderbrand"
+    },
+    {
+        "question": "Who is the author of the novel 'The Mill on the Floss'?",
+        "answer": "George Eliot"
     },
     {
         "question": "Who is the author of the novel 'The Snake Hunt'?",
@@ -31586,6 +31834,14 @@
     {
         "question": "Who is the author of the play 'As You Like It', which mentions the Forest of Arden?",
         "answer": "William Shakespeare"
+    },
+    {
+        "question": "Who is the author of the poem 'Eldrid'?",
+        "answer": "Alfred de Vigny"
+    },
+    {
+        "question": "Who is the author of the treatise 'Oration on the Dignity of Man'?",
+        "answer": "Pico della Mirandola"
     },
     {
         "question": "Who is the author of the work \"Books on the Family\"?",
@@ -31632,6 +31888,10 @@
         "answer": "Henry Austen"
     },
     {
+        "question": "Who wrote 'Liber de coquina'?",
+        "answer": "Pseudo-Apicius"
+    },
+    {
         "question": "Who wrote 'On the Defense and Glory of the French Language'?",
         "answer": "Jean du Bellay"
     },
@@ -31664,6 +31924,10 @@
         "answer": "Anne Tyler"
     },
     {
+        "question": "Who wrote the novel that won the Baileys Women's Prize for Fiction in 2016?",
+        "answer": "Lisa McInerney"
+    },
+    {
         "question": "Who wrote the poem about Helen of Troy's return home?",
         "answer": "Guido delle Colonne"
     },
@@ -31672,8 +31936,16 @@
         "answer": "Ludwig Tieck"
     },
     {
+        "question": "Who wrote the work 'Sir Gawain and the Green Knight'?",
+        "answer": "Anonymous"
+    },
+    {
         "question": "Who wrote the work that describes the rules of love magic?",
         "answer": "Ovid"
+    },
+    {
+        "question": "Whose name is associated with the idea of 'the inverse relationship between science and freedom'?",
+        "answer": "Jean-Jacques Rousseau"
     },
     {
         "question": "Whose work introduced the world to utopias?",
