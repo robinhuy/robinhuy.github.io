@@ -230,6 +230,10 @@
     "answer": "Big Hero 6"
   },
   {
+    "question": "In which animated series is there a character - a flying cow named Buffalo?",
+    "answer": "Cow and Chicken"
+  },
+  {
     "question": "In which country is 'Team Tyumentsev' produced?",
     "answer": "Russia"
   },
@@ -240,6 +244,10 @@
   {
     "question": "In which decade did the 'French New Wave' originate?",
     "answer": "1950s"
+  },
+  {
+    "question": "In which film did Al Pacino make his debut?",
+    "answer": "Me, Natalie"
   },
   {
     "question": "In which film did James Cameron make his directorial debut?",
@@ -401,6 +409,14 @@
   {
     "question": "What device is used to create precise camera movement along a predetermined path?",
     "answer": "Motion Control"
+  },
+  {
+    "question": "What did John Logie Baird demonstrate in 1926?",
+    "answer": "television image"
+  },
+  {
+    "question": "What did Marilyn Monroe die from?",
+    "answer": "Overdose"
   },
   {
     "question": "What displays realistic materials?",
@@ -727,6 +743,10 @@
     "answer": "Unbroken"
   },
   {
+    "question": "What is the name of the American adaptation of the movie 'Battlefield Hotel'?",
+    "answer": "John Carter"
+  },
+  {
     "question": "What is the name of the American remake of the Italian film 'The Taming of the Scoundrel'?",
     "answer": "The Incredible Race"
   },
@@ -797,6 +817,10 @@
   {
     "question": "What is the name of the Norwegian adaptation of the novel 'The Catcher in the Rye'?",
     "answer": "The Catcher in the Rye"
+  },
+  {
+    "question": "What is the name of the Norwegian animated film about a journey to the North Pole?",
+    "answer": "Peyro's Adventure"
   },
   {
     "question": "What is the name of the Polish animated film about adventures in the forest?",
@@ -975,6 +999,10 @@
     "answer": "Kurosawa"
   },
   {
+    "question": "What is the name of the director of the film 'Requiem for a Dream'?",
+    "answer": "D. Aronofsky"
+  },
+  {
     "question": "What is the name of the director of the film 'V for Vendetta'?",
     "answer": "James McTeigue"
   },
@@ -1027,6 +1055,10 @@
     "answer": "Black Mass"
   },
   {
+    "question": "What is the name of the film about the life and career of Martin Scorsese?",
+    "answer": "My Name is Martin"
+  },
+  {
     "question": "What is the name of the film based on George Eliot's novel about provincial life?",
     "answer": "Middlemarch"
   },
@@ -1077,6 +1109,10 @@
   {
     "question": "What is the name of the first Japanese animated film?",
     "answer": "Momotaro"
+  },
+  {
+    "question": "What is the name of the first Jason Bourne movie?",
+    "answer": "The Bourne Identity"
   },
   {
     "question": "What is the name of the first Soviet color animated film?",
@@ -1263,8 +1299,16 @@
     "answer": "Heart of the Jungle"
   },
   {
+    "question": "What is the name of the movie about aliens released in 1977?",
+    "answer": "Close Encounters of the Third Kind"
+  },
+  {
     "question": "What is the name of the movie about artificial intelligence developed to perform service tasks?",
     "answer": "eXistenZ"
+  },
+  {
+    "question": "What is the name of the movie about the Vietnam War?",
+    "answer": "Apocalypse Now"
   },
   {
     "question": "What is the name of the movie about the future where people don't age?",
@@ -1343,6 +1387,10 @@
     "answer": "Pacific Rim"
   },
   {
+    "question": "What is the name of the screenwriter of the movie \"Pretty Woman\"?",
+    "answer": "J.F. Lawton"
+  },
+  {
     "question": "What is the name of the screenwriter of the movie 'Arrival'?",
     "answer": "Eric Heisserer"
   },
@@ -1369,6 +1417,10 @@
   {
     "question": "What is the name of the show that organizes homes?",
     "answer": "New Life"
+  },
+  {
+    "question": "What is the name of the show where mechanics compete?",
+    "answer": "Battle of the Extremes"
   },
   {
     "question": "What is the name of the show where participants apply for their dream job?",
@@ -1403,8 +1455,16 @@
     "answer": "Jack Skellington"
   },
   {
+    "question": "What is the name of the song from 'Coraline'?",
+    "answer": "Other Father's Song"
+  },
+  {
     "question": "What is the name of the song from 'Shrek Forever After'?",
     "answer": "Darlin' (for Ya)"
+  },
+  {
+    "question": "What is the name of the song from the movie 'Up' that played when Carl and Ellie imagined their life together?",
+    "answer": "Married Life"
   },
   {
     "question": "What is the name of the song in the movie 'How to Train Your Dragon' during Hiccup and Toothless's flight together?",
@@ -1492,6 +1552,10 @@
   {
     "question": "What is the technique called that creates special effects by drawing each frame?",
     "answer": "Rotoscoping"
+  },
+  {
+    "question": "What is the technique called when an object is filmed in motion, mimicking the actor?",
+    "answer": "Motion capture"
   },
   {
     "question": "What is the technique of creating photorealistic images called?",
@@ -1593,6 +1657,10 @@
     "answer": "Spoilers"
   },
   {
+    "question": "What show does Dmitry Shepelev host?",
+    "answer": "Actually"
+  },
+  {
     "question": "What software is used for rendering 3D graphics?",
     "answer": "Arnold"
   },
@@ -1691,6 +1759,10 @@
   {
     "question": "What was the first comedy film?",
     "answer": "The Kid"
+  },
+  {
+    "question": "What was the first film shot entirely in color?",
+    "answer": "Becky Sharp"
   },
   {
     "question": "What was the first film to use computer animation?",
@@ -2004,8 +2076,16 @@
     "answer": "The Platform"
   },
   {
+    "question": "Which TV series is about murder investigations in Baltimore?",
+    "answer": "The Wire"
+  },
+  {
     "question": "Which TV series is an adaptation of the Scandinavian series 'The Bridge'?",
     "answer": "The Tunnel"
+  },
+  {
+    "question": "Which TV series tells the story of an Algerian migrant's life in the 1960s?",
+    "answer": "The Algerian's Time"
   },
   {
     "question": "Which TV show evaluates musical talents?",
@@ -2533,6 +2613,10 @@
   {
     "question": "Which film style is characterized by the use of long takes and minimal editing?",
     "answer": "Dogme 95"
+  },
+  {
+    "question": "Which film style uses symbolism and metaphors to express ideas?",
+    "answer": "Avant-garde"
   },
   {
     "question": "Which film tells about life in Malta after World War II?",
@@ -3072,6 +3156,10 @@
     "answer": "Studio Deen"
   },
   {
+    "question": "Which studio created the famous Japanese adventure animated film about modern technology?",
+    "answer": "Studio Ghibli"
+  },
+  {
     "question": "Which studio created the movie 'Jack the Giant Slayer'?",
     "answer": "Warner Bros."
   },
@@ -3108,6 +3196,10 @@
     "answer": "CINAR"
   },
   {
+    "question": "Which studio released 'Smeshariki'?",
+    "answer": "Petersburg"
+  },
+  {
     "question": "Which studio released the animated film \"The Wizard of the Emerald City\"?",
     "answer": "Soyuzmultfilm"
   },
@@ -3118,6 +3210,10 @@
   {
     "question": "Which studio released the movie 'Spider-Man: Into the Spider-Verse'?",
     "answer": "Sony Pictures Animation"
+  },
+  {
+    "question": "Which studio worked on the animated film 'The Snow Queen'?",
+    "answer": "MinAnimation"
   },
   {
     "question": "Which style uses long takes and minimal editing?",
@@ -3510,6 +3606,10 @@
   {
     "question": "Who directed the animated film 'Angel's Egg'?",
     "answer": "Mamoru Oshii"
+  },
+  {
+    "question": "Who directed the animated film 'Chico and Rita'?",
+    "answer": "Fernando Trueba"
   },
   {
     "question": "Who directed the animated film 'Dandelion Boy'?",
@@ -3946,6 +4046,10 @@
     "answer": "Foo-Maniac"
   },
   {
+    "question": "Who is the main villain in the first season of 'Voltron'?",
+    "answer": "Zarkon"
+  },
+  {
     "question": "Who is the pioneer of CGI in cinema?",
     "answer": "George Lucas"
   },
@@ -3972,6 +4076,10 @@
   {
     "question": "Who is the successor to the King of Equestria in the series 'My Little Pony: Friendship is Magic'?",
     "answer": "Twilight Sparkle"
+  },
+  {
+    "question": "Who is the villain in 'Lara-Crocodile Dialectics'?",
+    "answer": "Black Dragon"
   },
   {
     "question": "Who manages the tree on 'Ellada'?",
@@ -4136,6 +4244,10 @@
   {
     "question": "Who presents the 'Grammy' award?",
     "answer": "NARAS"
+  },
+  {
+    "question": "Who presents the Oscar award for the best films?",
+    "answer": "The American Academy of Motion Picture Arts and Sciences"
   },
   {
     "question": "Who produced 'Green Book'?",
