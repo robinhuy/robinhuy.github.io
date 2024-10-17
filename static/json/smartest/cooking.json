@@ -40,6 +40,10 @@
     "answer": "15th century"
   },
   {
+    "question": "In which century were tomatoes first cultivated in Europe?",
+    "answer": "16th century"
+  },
+  {
     "question": "In which country is trdelník popular?",
     "answer": "Czech Republic"
   },
@@ -132,6 +136,10 @@
     "answer": "Sticky rice"
   },
   {
+    "question": "What does 'crushing' do?",
+    "answer": "Grinding grains"
+  },
+  {
     "question": "What does 'maderization' do to wine?",
     "answer": "Adds sweetness"
   },
@@ -184,6 +192,10 @@
     "answer": "Ras el hanout"
   },
   {
+    "question": "What grains are used for whiskey production?",
+    "answer": "Barley"
+  },
+  {
     "question": "What ingredient is made from milk curdled with acid?",
     "answer": "Paneer"
   },
@@ -210,6 +222,10 @@
   {
     "question": "What is 'confit'?",
     "answer": "Cooking in fat"
+  },
+  {
+    "question": "What is 'immersion'?",
+    "answer": "Submersion in water"
   },
   {
     "question": "What is 'noisetteing'?",
@@ -276,12 +292,20 @@
     "answer": "steam baking"
   },
   {
+    "question": "What is the base for macarons?",
+    "answer": "Almond flour"
+  },
+  {
     "question": "What is the base of the French sauce 'Velouté'?",
     "answer": "white stock"
   },
   {
     "question": "What is the benefit of molecular cuisine?",
     "answer": "Preserves vitamins"
+  },
+  {
+    "question": "What is the best way to seal jars for longevity?",
+    "answer": "Metal lids"
   },
   {
     "question": "What is the chemical process of creating soft textures called?",
@@ -312,12 +336,20 @@
     "answer": "Beef"
   },
   {
+    "question": "What is the main ingredient in Japanese dakfu?",
+    "answer": "Duck"
+  },
+  {
     "question": "What is the main ingredient in mezcal?",
     "answer": "Agave"
   },
   {
     "question": "What is the main ingredient in the Guamanian dish kelaguen?",
     "answer": "Raw fish"
+  },
+  {
+    "question": "What is the main ingredient of ajvar?",
+    "answer": "pepper"
   },
   {
     "question": "What is the main ingredient of foie gras?",
@@ -332,12 +364,20 @@
     "answer": "Cryogenic freezing"
   },
   {
+    "question": "What is the method of maintaining the correct temperature of ingredients called?",
+    "answer": "Tempering"
+  },
+  {
     "question": "What is the method of preparing dough by repeatedly folding and layering called?",
     "answer": "Laminating"
   },
   {
     "question": "What is the method of preparing egg white desserts by adding hot syrup to the egg whites called?",
     "answer": "Italian meringue"
+  },
+  {
+    "question": "What is the mixture of fish and potatoes called in a cultural context?",
+    "answer": "Fishkeka"
   },
   {
     "question": "What is the name of the Bulgarian stew made from vegetables?",
@@ -358,6 +398,10 @@
   {
     "question": "What is the name of the German dish made from marinated beef?",
     "answer": "Sauerbraten"
+  },
+  {
+    "question": "What is the name of the Hungarian poppy seed roll?",
+    "answer": "Bejgli"
   },
   {
     "question": "What is the name of the Icelandic dish made from fermented shark meat?",
@@ -404,8 +448,20 @@
     "answer": "Custard Tart"
   },
   {
+    "question": "What is the name of the dish made from cheese?",
+    "answer": "Welsh rarebit"
+  },
+  {
+    "question": "What is the name of the dish made from dried bread and tomatoes?",
+    "answer": "Panzanella"
+  },
+  {
     "question": "What is the name of the dish made from finely chopped raw fish with lemon juice and spices?",
     "answer": "Ceviche"
+  },
+  {
+    "question": "What is the name of the dish made from fish baked in parchment?",
+    "answer": "En papillote"
   },
   {
     "question": "What is the name of the dough preparation method where butter and flour are made into crumbs?",
@@ -422,6 +478,10 @@
   {
     "question": "What is the name of the juice that flows from meat during roasting?",
     "answer": "jus"
+  },
+  {
+    "question": "What is the name of the method of serving a dish where ingredients are layered and neatly arranged?",
+    "answer": "Mille-feuille"
   },
   {
     "question": "What is the name of the molecular technique associated with the use of liquid nitrogen?",
@@ -484,12 +544,20 @@
     "answer": "Crumbing"
   },
   {
+    "question": "What is the process of caramelizing the surface of food called?",
+    "answer": "Browning"
+  },
+  {
     "question": "What is the process of cooking food by quickly frying it in a pan with a small amount of oil called?",
     "answer": "Frying"
   },
   {
     "question": "What is the process of cooking meat in a pan without oil called?",
     "answer": "Dry frying"
+  },
+  {
+    "question": "What is the process of heating oil and flour with water until thick called?",
+    "answer": "roux"
   },
   {
     "question": "What is the purpose of adding aspirin to preserves?",
@@ -514,6 +582,10 @@
   {
     "question": "What is the technique of slowly cooking meat in liquid called?",
     "answer": "Poaching"
+  },
+  {
+    "question": "What is the traditional French sandwich on a baguette called?",
+    "answer": "Jambon-beurre"
   },
   {
     "question": "What is the traditional Japanese tea ceremony called?",
@@ -568,12 +640,20 @@
     "answer": "Pressure cooking"
   },
   {
+    "question": "What method is used to grind spices into powder?",
+    "answer": "Grinding"
+  },
+  {
     "question": "What national dessert is popular in Syria and contains pistachios?",
     "answer": "Baklava"
   },
   {
     "question": "What national pastry is made in the Czech Republic?",
     "answer": "Vatrushniky"
+  },
+  {
+    "question": "What nuts are added to the traditional Norwegian cake Kransekake?",
+    "answer": "Almonds"
   },
   {
     "question": "What pie is popular in Portugal?",
@@ -586,6 +666,10 @@
   {
     "question": "What popular drink originates from Argentina?",
     "answer": "Mate"
+  },
+  {
+    "question": "What popular vegetarian food is made from chickpea flour and fried in oil?",
+    "answer": "Falafel"
   },
   {
     "question": "What preparation method is used for steak tartare?",
@@ -614,6 +698,10 @@
   {
     "question": "What role does starch play in dessert fast food?",
     "answer": "Thickens"
+  },
+  {
+    "question": "What sauce is served with Peking duck?",
+    "answer": "Hoisin"
   },
   {
     "question": "What sauce is served with fried mussels?",
@@ -672,6 +760,10 @@
     "answer": "Blast freezing"
   },
   {
+    "question": "What techniques are popular in molecular gastronomy?",
+    "answer": "Texturization"
+  },
+  {
     "question": "What term describes temperature control in cooking?",
     "answer": "Sous-vide"
   },
@@ -694,6 +786,14 @@
   {
     "question": "What type of fish is 'sherni'?",
     "answer": "Trout"
+  },
+  {
+    "question": "What type of flour is used for sponge cake?",
+    "answer": "Wheat flour"
+  },
+  {
+    "question": "What type of food is common in street vending in Taiwan?",
+    "answer": "chihuitan"
   },
   {
     "question": "What type of food is popular among Koreans?",
@@ -724,8 +824,16 @@
     "answer": "Mead"
   },
   {
+    "question": "What was the expansion of the kitchen in Paris in the 18th century associated with?",
+    "answer": "Restaurants"
+  },
+  {
     "question": "What was used for baking bread in Ancient Greece?",
     "answer": "Coarse flour"
+  },
+  {
+    "question": "When did people start using soy sauce?",
+    "answer": "2nd century"
   },
   {
     "question": "When did the first known bread recipe appear?",
@@ -756,8 +864,24 @@
     "answer": "Bouillabaisse"
   },
   {
+    "question": "Which French sauce is made with wine and meat stock?",
+    "answer": "Reduction"
+  },
+  {
+    "question": "Which French sauce is often served with meat?",
+    "answer": "Béarnaise"
+  },
+  {
     "question": "Which Indian sauce is often served with samosas?",
     "answer": "Chutney"
+  },
+  {
+    "question": "Which Italian dish is made from thinly sliced veal with a sauce of tuna and capers?",
+    "answer": "Vitello tonnato"
+  },
+  {
+    "question": "Which Italian drink is made from alcohol, water, sugar, and flavorings?",
+    "answer": "Limoncello"
   },
   {
     "question": "Which Korean dessert is known for its airy textures?",
@@ -788,12 +912,24 @@
     "answer": "Currant"
   },
   {
+    "question": "Which cheese is traditionally served with Port wine?",
+    "answer": "Stilton"
+  },
+  {
     "question": "Which chemical element is often used to create gels?",
     "answer": "sodium"
   },
   {
     "question": "Which civilization first used vanilla?",
     "answer": "Aztecs"
+  },
+  {
+    "question": "Which cocktail is known as 'Western Swing'?",
+    "answer": "Manhattan"
+  },
+  {
+    "question": "Which cocktail is known for its green color?",
+    "answer": "Midori Sour"
   },
   {
     "question": "Which cocktail is made with gin and dry vermouth?",
@@ -805,6 +941,10 @@
   },
   {
     "question": "Which country is famous for cooking fish in a banana leaf?",
+    "answer": "Thailand"
+  },
+  {
+    "question": "Which country is known for its spicy cuisine?",
     "answer": "Thailand"
   },
   {
@@ -826,6 +966,14 @@
   {
     "question": "Which cuisine is known for carpaccio?",
     "answer": "Italian"
+  },
+  {
+    "question": "Which cuisine is known for the dish 'Bobotie'?",
+    "answer": "Preservative"
+  },
+  {
+    "question": "Which dairy dish was invented by Romanians?",
+    "answer": "Brânză"
   },
   {
     "question": "Which dessert contains a gaseous element?",
@@ -868,6 +1016,10 @@
     "answer": "Paella"
   },
   {
+    "question": "Which dish is made from salmon?",
+    "answer": "Salmon gravlax"
+  },
+  {
     "question": "Which dish is made using a corn tortilla?",
     "answer": "Arepa"
   },
@@ -906,6 +1058,10 @@
   {
     "question": "Which element is added to create a foamy texture in molecular gastronomy?",
     "answer": "Lecithin"
+  },
+  {
+    "question": "Which element is often used for crystallization in molecular gastronomy?",
+    "answer": "Liquid nitrogen"
   },
   {
     "question": "Which emperor introduced the fashion for tea in Russia?",
@@ -960,6 +1116,10 @@
     "answer": "Carbon dioxide"
   },
   {
+    "question": "Which herb is often used to flavor dishes in French cuisine?",
+    "answer": "lavender"
+  },
+  {
     "question": "Which ingredient helps stabilize foams in molecular gastronomy?",
     "answer": "Soy lecithin"
   },
@@ -996,6 +1156,10 @@
     "answer": "Zombie"
   },
   {
+    "question": "Which preservation method ensures long-term storage of products?",
+    "answer": "Sterilization"
+  },
+  {
     "question": "Which proteins are easier to digest?",
     "answer": "Plant-based"
   },
@@ -1006,6 +1170,10 @@
   {
     "question": "Which restaurants are known for their 'Shrimp Cocktails'?",
     "answer": "Red Lobster"
+  },
+  {
+    "question": "Which sauce is popular in vegetarian recipes?",
+    "answer": "Pesto"
   },
   {
     "question": "Which spice gives a dish a characteristic anise and sweet flavor?",
@@ -1026,6 +1194,10 @@
   {
     "question": "Which spice is known for its spicy and slightly woody aroma and is used in Arabic cuisine?",
     "answer": "Cumin"
+  },
+  {
+    "question": "Which spice is obtained from the dried pods of a plant?",
+    "answer": "Cardamom"
   },
   {
     "question": "Which spice is often used to flavor fish dishes in Japanese cuisine?",
@@ -1064,12 +1236,28 @@
     "answer": "Cayenne pepper"
   },
   {
+    "question": "Which spice was used for coloring food in ancient cultures?",
+    "answer": "Saffron"
+  },
+  {
     "question": "Which vegetable is often considered a superfood?",
     "answer": "Kale"
   },
   {
     "question": "Who created the recipe for the first alcoholic cocktail?",
     "answer": "Americans"
+  },
+  {
+    "question": "Who first used the fermentation technique?",
+    "answer": "Chinese"
+  },
+  {
+    "question": "Who founded the concept of molecular gastronomy?",
+    "answer": "Nicholas Kurti"
+  },
+  {
+    "question": "Who founded the first confectionery house in Ukraine?",
+    "answer": "Balabukha"
   },
   {
     "question": "Who founded the first culinary school?",

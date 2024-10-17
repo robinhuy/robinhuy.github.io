@@ -16,8 +16,28 @@
     "answer": "1623"
   },
   {
+    "question": "In which Shakespeare play do the characters encounter a time shift?",
+    "answer": "Pericles"
+  },
+  {
+    "question": "In which book do the characters first encounter the Wanderer Tagro?",
+    "answer": "The Silmarillion"
+  },
+  {
+    "question": "In which language is the work 'Le Roman de Renart' written?",
+    "answer": "Middle French"
+  },
+  {
     "question": "In which work are elements of magical realism used to explore the legacy of violence and slavery?",
     "answer": "Beloved"
+  },
+  {
+    "question": "In which work by Lope de Vega do features of the Baroque appear?",
+    "answer": "Fuente Ovejuna"
+  },
+  {
+    "question": "In which work by Sinclair Lewis is early 20th-century medicine depicted through the story of a country doctor?",
+    "answer": "Arrowsmith"
   },
   {
     "question": "In which work did Claudius Aelian collect numerous curious facts about nature and people?",
@@ -46,6 +66,10 @@
   {
     "question": "To whom did Jane Austen dedicate her novel 'Emma'?",
     "answer": "The Prince Regent"
+  },
+  {
+    "question": "What Italian term describes Baroque intricacies?",
+    "answer": "Curvature"
   },
   {
     "question": "What aesthetic principle was important for Baroque literature?",
@@ -120,6 +144,10 @@
     "answer": "Elven Sensitivity"
   },
   {
+    "question": "What is the central theme in Horace's 'The Art of Poetry'?",
+    "answer": "The art of poetry"
+  },
+  {
     "question": "What is the genre of ancient texts that describes different spheres of life through allegories called?",
     "answer": "Satires"
   },
@@ -148,12 +176,28 @@
     "answer": "Reyna"
   },
   {
+    "question": "What is the name of Lift's teacher in 'The Black Wizard'?",
+    "answer": "Drink"
+  },
+  {
+    "question": "What is the name of Lorenzo Valla's autobiography?",
+    "answer": "Dialectic"
+  },
+  {
     "question": "What is the name of Mr. Woodhouse's house in Austen's novel?",
     "answer": "Hartfield"
   },
   {
     "question": "What is the name of Poliziano's work dedicated to ancient legends?",
     "answer": "Sappho"
+  },
+  {
+    "question": "What is the name of the British collection of stories from the Middle Ages?",
+    "answer": "The Canterbury Tales"
+  },
+  {
+    "question": "What is the name of the German epic cycle that became the basis for Wagner's opera?",
+    "answer": "The Song of the Nibelungs"
   },
   {
     "question": "What is the name of the German novel about the exploits and adventures of the knight Iwein?",
@@ -184,12 +228,20 @@
     "answer": "Meistersingers"
   },
   {
+    "question": "What is the name of the chivalric poem about love for Lancelot?",
+    "answer": "Lancelot, or The Knight of the Cart"
+  },
+  {
     "question": "What is the name of the chivalric poem written by Chrétien de Troyes?",
     "answer": "Yvain, or The Knight with the Lion"
   },
   {
     "question": "What is the name of the city abandoned by the first elves in Tolkien's 'The Silmarillion'?",
     "answer": "Gondolin"
+  },
+  {
+    "question": "What is the name of the collection 'Raimund de Peñafort'?",
+    "answer": "Speculum"
   },
   {
     "question": "What is the name of the collection of mystical plays popular in medieval England?",
@@ -216,6 +268,10 @@
     "answer": "Mignonne, allons voir"
   },
   {
+    "question": "What is the name of the first-born elf in 'The Silmarillion'?",
+    "answer": "Ingwë"
+  },
+  {
     "question": "What is the name of the magical artifact guarded by the Keepers of the Bright Forest in the 'Chronicles of Lorien' series?",
     "answer": "Elvanor"
   },
@@ -236,8 +292,16 @@
     "answer": "Roman de la Rose"
   },
   {
+    "question": "What is the name of the oldest surviving Welsh poem?",
+    "answer": "Y Gododdin"
+  },
+  {
     "question": "What is the name of the other dimension where the main character goes in 'Song of the Universe'?",
     "answer": "Susvet"
+  },
+  {
+    "question": "What is the name of the play by Lope de Vega that consists of three parts?",
+    "answer": "Fuente Ovejuna"
   },
   {
     "question": "What is the name of the poem about the wars of Charlemagne?",
@@ -254,6 +318,14 @@
   {
     "question": "What is the name of the spell that allows bypassing magical barriers in the world of 'Magic of the Limit'?",
     "answer": "Pegasus Summon"
+  },
+  {
+    "question": "What is the name of the spell used by Raistlin Majere to alter reality in 'The War of the Twins' by Margaret Weis and Tracy Hickman?",
+    "answer": "Darkhold"
+  },
+  {
+    "question": "What is the name of the sword belonging to the Queen of the Druids in 'Legends of the Ancients'?",
+    "answer": "Elven Blade"
   },
   {
     "question": "What is the name of the wizard in 'King Arthur'?",
@@ -294,6 +366,18 @@
   {
     "question": "What is the title of the Jane Austen novel where the events take place at Kellynch Hall?",
     "answer": "The Mandrake"
+  },
+  {
+    "question": "What is the title of the work by the 2019 'Gegoff' award winner?",
+    "answer": "Irony of the Fisherman"
+  },
+  {
+    "question": "What magical item must Girus from Nebayden obtain in 'The Dark Tower'?",
+    "answer": "Rose"
+  },
+  {
+    "question": "What magical ritual is used by sorcerers in the universe of Elric of Melniboné to summon deities?",
+    "answer": "Twilight Incantation"
   },
   {
     "question": "What magical technique does Doctor Magnius possess in 'Secrets of Astralia'?",
@@ -360,12 +444,20 @@
     "answer": "Healing any wounds"
   },
   {
+    "question": "What symbolizes elevated ideals in classicist literature?",
+    "answer": "Antique heritage"
+  },
+  {
     "question": "What term describes the concept of illusory reality in Baroque?",
     "answer": "vanitas"
   },
   {
     "question": "What term describes the mixture of Christian and Platonic ideas in Renaissance literature?",
     "answer": "Christian Platonism"
+  },
+  {
+    "question": "What title does Raistlin Majere hold in the 'War of the Lance'?",
+    "answer": "Black Mage"
   },
   {
     "question": "What title does the supreme ruler of Lankhmar hold?",
@@ -382,6 +474,10 @@
   {
     "question": "What types of characters are often found in Baroque works?",
     "answer": "Tragic"
+  },
+  {
+    "question": "What was the name of Goethe's first great work?",
+    "answer": "Faust"
   },
   {
     "question": "What was the name of Longus' work that became a model for the pastoral novel?",
@@ -408,6 +504,10 @@
     "answer": "Epinikia"
   },
   {
+    "question": "When was the dialogue on love 'The Symposium' written?",
+    "answer": "4th century BC"
+  },
+  {
     "question": "Which 12th-century poet is considered a pioneer of courtly poetry?",
     "answer": "Chrétien de Troyes"
   },
@@ -416,8 +516,16 @@
     "answer": "The Romance of the Rose"
   },
   {
+    "question": "Which Baroque era work was written by Francesco Vochino?",
+    "answer": "Adonis"
+  },
+  {
     "question": "Which Dutch humanist wrote the work 'On the Education of Children'?",
     "answer": "Erasmus of Rotterdam"
+  },
+  {
+    "question": "Which Emily Dickinson poem is often quoted for its philosophical exploration of death and immortality?",
+    "answer": "Because I could not stop for Death"
   },
   {
     "question": "Which Emma Goldman novel explores the life and struggle of an early 20th-century anarchist?",
@@ -446,6 +554,10 @@
   {
     "question": "Which French poet and philosopher wrote 'Servan'?",
     "answer": "Guillaume de Machaut"
+  },
+  {
+    "question": "Which French poet embodies the Baroque style?",
+    "answer": "Théophile de Viau"
   },
   {
     "question": "Which French writer formulated the doctrines of classicism?",
@@ -548,8 +660,16 @@
     "answer": "Night on Guard"
   },
   {
+    "question": "Which book by Camilla Grebe won a literary award in 2017?",
+    "answer": "Winter Song"
+  },
+  {
     "question": "Which book by Douglas Kennedy describes the fate of people haunted by a nightmarish past?",
     "answer": "The Moment"
+  },
+  {
+    "question": "Which book by George Chapman laid the foundation for English tragedy?",
+    "answer": "Bussy D'Ambois"
   },
   {
     "question": "Which book by Judith Kerr was awarded the Carnegie Medal in 2020?",
@@ -566,6 +686,10 @@
   {
     "question": "Which book by a Chinese author gained international recognition after being translated into English?",
     "answer": "Death's End"
+  },
+  {
+    "question": "Which book by a Japanese author won the Franz Kafka Prize in 2006?",
+    "answer": "Kafka on the Shore"
   },
   {
     "question": "Which book by a Latin American author was awarded the 'Premio Alfaguara' in 2017?",
@@ -592,6 +716,10 @@
     "answer": "Forgotten Voices"
   },
   {
+    "question": "Which book was awarded the Golden Medal at the International Book Fair in Bratislava in 2019?",
+    "answer": "Pie and the Sky"
+  },
+  {
     "question": "Which book was awarded the National Book Critics Circle Award in 2016?",
     "answer": "The Sellout"
   },
@@ -616,8 +744,16 @@
     "answer": "The Lacuna"
   },
   {
+    "question": "Which book was written by the 2020 'Premio Alfaguara' award winner?",
+    "answer": "The Murmur of Bees"
+  },
+  {
     "question": "Which book was written by the Akutagawa Prize winner in 2019?",
     "answer": "Puppet"
+  },
+  {
+    "question": "Which book was written by the Pulitzer Prize winner for 2016?",
+    "answer": "The Underground Railroad"
   },
   {
     "question": "Which book won the 'Prix Goncourt' in 2020?",
@@ -630,6 +766,10 @@
   {
     "question": "Which book won the Goncourt des Lycéens award in 2021?",
     "answer": "Le Mage du Kremlin"
+  },
+  {
+    "question": "Which book, first published in 2015, won the Pulitzer Prize and became a bestseller?",
+    "answer": "The Sympathizer"
   },
   {
     "question": "Which book, first published in 2016, was praised by critics for its deep social commentary and illustrative mastery?",
@@ -648,8 +788,16 @@
     "answer": "Erec and Enide"
   },
   {
+    "question": "Which city was the central setting of the comedy 'The Clouds'?",
+    "answer": "Athens"
+  },
+  {
     "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
     "answer": "The Knights"
+  },
+  {
+    "question": "Which creature wields the golden spear in the \"Dark Forest\" tales?",
+    "answer": "Horned Alvar"
   },
   {
     "question": "Which critically acclaimed novel by a British author won the 'Costa Novel Award' in 2014?",
@@ -676,6 +824,10 @@
     "answer": "The Song of the Nibelungs"
   },
   {
+    "question": "Which expression describes the Baroque idea of changeable and illusory reality?",
+    "answer": "Vanitas"
+  },
+  {
     "question": "Which famous French writer wrote a tragedy about the confrontation between the Pope and the Emperor?",
     "answer": "Voltaire"
   },
@@ -698,6 +850,14 @@
   {
     "question": "Which literary genre became popular during the Renaissance thanks to Torquato Tasso?",
     "answer": "Epic poem"
+  },
+  {
+    "question": "Which literary movements adopted the rhetorical and theological inclinations of the Reformation?",
+    "answer": "Baroque"
+  },
+  {
+    "question": "Which literary work justifies the ideas of a new approach to education?",
+    "answer": "Emile, or On Education"
   },
   {
     "question": "Which medieval French poet wrote a chivalric romance about a lion?",
@@ -740,16 +900,36 @@
     "answer": "Ship of Fools"
   },
   {
+    "question": "Which novel by Keith Johnson explores the theme of war and human dignity?",
+    "answer": "Soldiers of Courage"
+  },
+  {
     "question": "Which novel by Mariam Petrosyan won the Mythopoeic Award in 2014?",
     "answer": "The Gray House"
+  },
+  {
+    "question": "Which novel by Saul Bellow, published in 1959, explores the metamorphosis and self-identity of the main character Henderson?",
+    "answer": "Henderson the Rain King"
   },
   {
     "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
     "answer": "The Rise of Silas Lapham"
   },
   {
+    "question": "Which novel by William Thackeray was published in 1847?",
+    "answer": "Vanity Fair"
+  },
+  {
+    "question": "Which novel by a German author, published in 2017, received the Peace Prize of the German Book Trade in 2018?",
+    "answer": "Comrade Joe"
+  },
+  {
     "question": "Which novel by a famous Nigerian writer won the Best Book Award at the African Literary Festival in 2021?",
     "answer": "Selfless Love"
+  },
+  {
+    "question": "Which novel by an Indian author won the JCB Prize for Literature in 2019?",
+    "answer": "The Far Field"
   },
   {
     "question": "Which novel describes events revolving around a murder investigation in 19th century New England?",
@@ -760,8 +940,20 @@
     "answer": "East of Eden"
   },
   {
+    "question": "Which novel explores truth and lies through the lens of stereotypes of masculinity and femininity?",
+    "answer": "An American Tragedy"
+  },
+  {
+    "question": "Which novel revolves around a metaphysical quest and includes elements of philosophy and surrealism?",
+    "answer": "The Master and Margarita"
+  },
+  {
     "question": "Which novel was awarded the 'Asper' prize in 2018?",
     "answer": "Invisible City"
+  },
+  {
+    "question": "Which novel was awarded the 'Golden Owl' prize in 2019?",
+    "answer": "Flame of Passion"
   },
   {
     "question": "Which novel was awarded the 'Indie Book of the Year' in 2017?",
@@ -788,6 +980,14 @@
     "answer": "Valley of Mists"
   },
   {
+    "question": "Which novel won the 'Women's Prize for Fiction' in 2018?",
+    "answer": "Home Fire"
+  },
+  {
+    "question": "Which novel won the 'Women's Prize for Fiction' in 2020?",
+    "answer": "Hamnet"
+  },
+  {
     "question": "Which novel won the Booker Prize in 2021?",
     "answer": "The Promise"
   },
@@ -798,6 +998,10 @@
   {
     "question": "Which novel won the German Literary Award in 2018?",
     "answer": "The Archive of Victims"
+  },
+  {
+    "question": "Which novel won the Golden Booker Prize in 2018?",
+    "answer": "The English Patient"
   },
   {
     "question": "Which novel won the International IMPAC Dublin Literary Award in 2018?",
@@ -828,6 +1032,10 @@
     "answer": "Othello"
   },
   {
+    "question": "Which of Shakespeare's tragedies begins in Eastern Europe?",
+    "answer": "Hamlet"
+  },
+  {
     "question": "Which philosopher influenced Baroque literature?",
     "answer": "Descartes"
   },
@@ -838,6 +1046,10 @@
   {
     "question": "Which philosophical movement influenced Baroque literature?",
     "answer": "Neoplatonism"
+  },
+  {
+    "question": "Which play by Goethe tells the story of Count Egmont?",
+    "answer": "Egmont"
   },
   {
     "question": "Which play by Pedro Calderón de la Barca is considered the best in Spanish literature?",
@@ -876,6 +1088,10 @@
     "answer": "Astrophil and Stella"
   },
   {
+    "question": "Which poem did William Blake create as an illustrated manuscript?",
+    "answer": "Songs of Innocence"
+  },
+  {
     "question": "Which poem did William Wordsworth conclude the poetic cycle 'Lyrical Ballads' with?",
     "answer": "Tintern Abbey"
   },
@@ -886,6 +1102,10 @@
   {
     "question": "Which poet from Wolfsberg is considered the founder of German literature?",
     "answer": "Hartmann von Aue"
+  },
+  {
+    "question": "Which poet introduced the genre of dialogue into literature?",
+    "answer": "Petrarch"
   },
   {
     "question": "Which poet introduced the term 'platonic love' into literature?",
@@ -910,6 +1130,14 @@
   {
     "question": "Which principle of the Enlightenment era underlies utopian works?",
     "answer": "rationality"
+  },
+  {
+    "question": "Which series was awarded the Peabody Award in 2019?",
+    "answer": "When They See Us"
+  },
+  {
+    "question": "Which song is part of 'Carmina Burana'?",
+    "answer": "O Fortuna"
   },
   {
     "question": "Which spell is forbidden to use in the Duels of the Lords of Cold?",
@@ -944,6 +1172,10 @@
     "answer": "The Asses"
   },
   {
+    "question": "Which work became the basis of philosophy and social analysis in the 18th century?",
+    "answer": "Emile"
+  },
+  {
     "question": "Which work belongs to Andreas Gryphius?",
     "answer": "The Tragedy of Cardenio"
   },
@@ -960,6 +1192,10 @@
     "answer": "Emily Dickinson's Poetry"
   },
   {
+    "question": "Which work by Erasmus of Rotterdam became popular during his lifetime?",
+    "answer": "In Praise of Folly"
+  },
+  {
     "question": "Which work by Francesco Petrarch demonstrates elements of classicism?",
     "answer": "Africa"
   },
@@ -972,6 +1208,10 @@
     "answer": "The Grand Testament"
   },
   {
+    "question": "Which work by Geoffrey of Monmouth has a romantic title?",
+    "answer": "The Life of Merlin"
+  },
+  {
     "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
     "answer": "The Turn of the Screw"
   },
@@ -982,6 +1222,10 @@
   {
     "question": "Which work by Holbach is dedicated to atheism?",
     "answer": "The System of Nature"
+  },
+  {
+    "question": "Which work by Jane Austen was published second in time?",
+    "answer": "Pride and Prejudice"
   },
   {
     "question": "Which work by John Cheever explores nostalgia and social decline?",
@@ -1008,12 +1252,20 @@
     "answer": "True History"
   },
   {
+    "question": "Which work by Lucretius is dedicated to the philosophy of Epicurus?",
+    "answer": "On the Nature of Things"
+  },
+  {
     "question": "Which work by Luis Vives was popular in Spain?",
     "answer": "The Fair of Saint Ottonel"
   },
   {
     "question": "Which work by Niccolò Machiavelli demonstrates elements of Renaissance drama?",
     "answer": "The Mandrake"
+  },
+  {
+    "question": "Which work by Pico della Mirandola is considered central to his oeuvre?",
+    "answer": "Oration on the Dignity of Man"
   },
   {
     "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
@@ -1034,6 +1286,10 @@
   {
     "question": "Which work by Walt Whitman reflects the mystical connection between man and nature?",
     "answer": "Song of Myself"
+  },
+  {
+    "question": "Which work by William Dean Howells explores the dreams and reality of Americans?",
+    "answer": "A Hazard of New Fortunes"
   },
   {
     "question": "Which work by William Faulkner explores the decline of Southern aristocracy through the story of the Compson family?",
@@ -1104,12 +1360,20 @@
     "answer": "Critique of Pure Reason"
   },
   {
+    "question": "Which work is considered the foundation of Renaissance poetry and contains elements of Platonic love?",
+    "answer": "Canzoniere"
+  },
+  {
     "question": "Which work is dedicated to three generations of a family in New York and describes the transformations of the American Dream?",
     "answer": "The Golden Apple"
   },
   {
     "question": "Which work is often considered foundational in the psychological thriller genre and deals with themes of violence and redemption?",
     "answer": "Flashes of Darkness"
+  },
+  {
+    "question": "Which work is the subject of philosophical reflections on justice and virtue?",
+    "answer": "The Republic"
   },
   {
     "question": "Which work is written in prose form and covers themes of social inequality and metaphysics?",
@@ -1146,6 +1410,10 @@
   {
     "question": "Which work was translated into Latin as 'Historia Calamitatum'?",
     "answer": "The Story of My Misfortunes"
+  },
+  {
+    "question": "Which work was written by Alcuin of York?",
+    "answer": "Dialogues"
   },
   {
     "question": "Which work was written by Petrarch?",
@@ -1192,8 +1460,20 @@
     "answer": "Inquisitor Senna"
   },
   {
+    "question": "Who introduced the idea of 'general will' in Enlightenment literature?",
+    "answer": "Rousseau"
+  },
+  {
+    "question": "Who introduced the term 'platonic love' in Renaissance literature?",
+    "answer": "Ficino"
+  },
+  {
     "question": "Who is considered Shakespeare's closest friend in the theatrical community?",
     "answer": "Richard Burbage"
+  },
+  {
+    "question": "Who is considered the author of 'Historia Brittonum'?",
+    "answer": "Nennius"
   },
   {
     "question": "Who is considered the author of the 12th-century chivalric epic about the cursed sword?",
@@ -1210,6 +1490,10 @@
   {
     "question": "Who is credited with the creation of 'Thebaid'?",
     "answer": "Statius"
+  },
+  {
+    "question": "Who is the author of 'Patchwork Waltz'?",
+    "answer": "Gaspara Stampa"
   },
   {
     "question": "Who is the author of 'The Tale of the Golden Fleece'?",
@@ -1246,6 +1530,10 @@
   {
     "question": "Who is the author of the novel 'Ascanio'?",
     "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "Who is the author of the novel 'Countess of Montgomery'?",
+    "answer": "Philip Sidney"
   },
   {
     "question": "Who is the author of the novel 'Her Fearful Symmetry', nominated for the Stockton Prize in 2007?",
@@ -1288,6 +1576,10 @@
     "answer": "Leon Battista Alberti"
   },
   {
+    "question": "Who is the author of the work 'Liber Sancti Jacobi'?",
+    "answer": "Aymeric Picaud"
+  },
+  {
     "question": "Who is the author of the work describing the journey of a knight from the Arthurian cycle to the Holy Grail?",
     "answer": "Chrétien de Troyes"
   },
@@ -1300,8 +1592,16 @@
     "answer": "Hartmann von Aue"
   },
   {
+    "question": "Who is the main character in Shakespeare's play about the rivalry of Roman generals?",
+    "answer": "Antony"
+  },
+  {
     "question": "Who is the main character of George Eliot's novel 'Middlemarch'?",
     "answer": "Dorothea Brooke"
+  },
+  {
+    "question": "Who lived in the 12th century and wrote 'Roman de Renart'?",
+    "answer": "Pierre de Saint-Cloud"
   },
   {
     "question": "Who received the Prague Literary Prize in 2018?",
@@ -1352,12 +1652,24 @@
     "answer": "Wace"
   },
   {
+    "question": "Who wrote the cycle of stories about the knight Tristan and Isolde?",
+    "answer": "Gottfried von Strassburg"
+  },
+  {
     "question": "Who wrote the famous poem 'Madrigals'?",
     "answer": "Jacopo Sarti"
   },
   {
     "question": "Who wrote the novel 'The Bitter Father and the Merry Son' in the 18th century?",
     "answer": "Friedrich Schiller"
+  },
+  {
+    "question": "Who wrote the novel 'Variations of Love and Agreement'?",
+    "answer": "Jean-Paul Didierlaurent"
+  },
+  {
+    "question": "Who wrote the novel nominated for the Stieg Larsson Prize?",
+    "answer": "Camilla Grebe"
   },
   {
     "question": "Who wrote the novel that won the 'Golden Eagle' award in 2014?",
@@ -1368,8 +1680,16 @@
     "answer": "Lisa McInerney"
   },
   {
+    "question": "Who wrote the poem 'Satires'?",
+    "answer": "Horace"
+  },
+  {
     "question": "Who wrote the poem about Helen of Troy's return home?",
     "answer": "Guido delle Colonne"
+  },
+  {
+    "question": "Who wrote the satire 'The Spark of Poetry'?",
+    "answer": "Juvenal"
   },
   {
     "question": "Who wrote the three-volume work about Jeffers?",

@@ -4,8 +4,20 @@
     "answer": "Marcel Hirscher"
   },
   {
+    "question": "How many gold medals did American swimmer Mark Spitz win at the 1972 Olympic Games?",
+    "answer": "7 medals"
+  },
+  {
     "question": "In which city did Savonarola preach?",
     "answer": "Florence"
+  },
+  {
+    "question": "On which island was John the Theologian exiled?",
+    "answer": "Patmos"
+  },
+  {
+    "question": "To which order did Ignatius of Loyola belong?",
+    "answer": "Jesuits"
   },
   {
     "question": "What did John Dalton develop?",
@@ -28,8 +40,16 @@
     "answer": "Conclave"
   },
   {
+    "question": "What is the name of David Bowie's first album?",
+    "answer": "David Bowie"
+  },
+  {
     "question": "What is the name of Mozart's first studio opera?",
     "answer": "Bastien and Bastienne"
+  },
+  {
+    "question": "What is the name of the British designer known for his extremely exclusive and eccentric approach to hats?",
+    "answer": "Philip Treacy"
   },
   {
     "question": "What is the name of the artist who created 'The Feast of the Gods'?",
@@ -46,6 +66,10 @@
   {
     "question": "What is the name of the designer known for his unique approach to evening fashion using antique motifs?",
     "answer": "John Galliano"
+  },
+  {
+    "question": "What is the name of the designer who first created the transparent dress?",
+    "answer": "André Courrèges"
   },
   {
     "question": "What is the name of the famous British designer who founded the brand Alexander McQueen?",
@@ -216,6 +240,10 @@
     "answer": "Yohji Yamamoto"
   },
   {
+    "question": "Which designer popularized the androgynous style?",
+    "answer": "Rick Owens"
+  },
+  {
     "question": "Which designer was nicknamed 'the magnificent surrealist'?",
     "answer": "Elsa Schiaparelli"
   },
@@ -226,6 +254,10 @@
   {
     "question": "Which designer was the first to present a plus-size women's clothing collection?",
     "answer": "Christian Siriano"
+  },
+  {
+    "question": "Which director made the film 'Pi'?",
+    "answer": "Darren Aronofsky"
   },
   {
     "question": "Which famous Persian artist created 'The Deer Hunt'?",
@@ -268,6 +300,10 @@
     "answer": "Linda Evangelista"
   },
   {
+    "question": "Who became a legend in retro F1 racing by winning 5 titles?",
+    "answer": "Juan Manuel Fangio"
+  },
+  {
     "question": "Who became the first world champion in billiards?",
     "answer": "Thomas Péraire"
   },
@@ -290,6 +326,10 @@
   {
     "question": "Who composed 'Sailing Wind'?",
     "answer": "Claude Debussy"
+  },
+  {
+    "question": "Who composed 'Spring Waters'?",
+    "answer": "Sergei Rachmaninoff"
   },
   {
     "question": "Who composed Symphony No. 3 'Eroica'?",
@@ -322,6 +362,14 @@
   {
     "question": "Who composed the 'Trio for Violin, Oboe, and Piano'?",
     "answer": "Francis Poulenc"
+  },
+  {
+    "question": "Who composed the cantata 'Carmina Burana'?",
+    "answer": "Carl Orff"
+  },
+  {
+    "question": "Who composed the opera \"Salome\"?",
+    "answer": "Richard Strauss"
   },
   {
     "question": "Who composed the opera 'Boris Godunov'?",
@@ -400,6 +448,10 @@
     "answer": "Paul Thomas Anderson"
   },
   {
+    "question": "Who directed the movie \"Hotel for Dogs\"?",
+    "answer": "Thor Freudenthal"
+  },
+  {
     "question": "Who directed the movie 'Maleficent'?",
     "answer": "Robert Stromberg"
   },
@@ -476,6 +528,10 @@
     "answer": "Andrey Shevchenko"
   },
   {
+    "question": "Who is a famous figure skater who has won World Championships?",
+    "answer": "Evgeni Plushenko"
+  },
+  {
     "question": "Who is considered the founder of Symbolism?",
     "answer": "Charles Baudelaire"
   },
@@ -490,6 +546,10 @@
   {
     "question": "Who is known as the painter of Venice, who created 'Parnassus' and 'The Procession of the Trojan Women'?",
     "answer": "Giovanni Bellini"
+  },
+  {
+    "question": "Who is known for their 'Splashes'?",
+    "answer": "Jackson Pollock"
   },
   {
     "question": "Who is known for their explorations of Africa?",
@@ -556,6 +616,10 @@
     "answer": "Ivan Bunin"
   },
   {
+    "question": "Who is the author of the work 'The Garden of Earthly Delights'?",
+    "answer": "Hieronymus Bosch"
+  },
+  {
     "question": "Who is the composer of the 'Fantastic Symphony'?",
     "answer": "Hector Berlioz"
   },
@@ -564,12 +628,20 @@
     "answer": "Johann Sebastian Bach"
   },
   {
+    "question": "Who is the director of the movie 'Fight Club'?",
+    "answer": "David Fincher"
+  },
+  {
     "question": "Who is the director of the movie 'Parasite'?",
     "answer": "Bong Joon-ho"
   },
   {
     "question": "Who is the director of the movie 'The Dark Tower'?",
     "answer": "Nikolaj Arcel"
+  },
+  {
+    "question": "Who is the famous long-distance runner?",
+    "answer": "Haile Gebrselassie"
   },
   {
     "question": "Who is the founder of Gothic fashion style?",
@@ -592,8 +664,16 @@
     "answer": "Margaret Court"
   },
   {
+    "question": "Who is the spiritual leader of Shintoism?",
+    "answer": "Emperor of Japan"
+  },
+  {
     "question": "Who led Cambodia before Pol Pot?",
     "answer": "Norodom Sihanouk"
+  },
+  {
+    "question": "Who led France after the fall of Napoleon?",
+    "answer": "Louis XVIII"
   },
   {
     "question": "Who led Yugoslavia after Tito?",
@@ -652,6 +732,10 @@
     "answer": "John Michell"
   },
   {
+    "question": "Who proposed the uncertainty principle?",
+    "answer": "Werner Heisenberg"
+  },
+  {
     "question": "Who said 'Eli, Eli, Lama Sabachthani'?",
     "answer": "Jesus Christ"
   },
@@ -684,12 +768,20 @@
     "answer": "Bartolomeo Rastrelli"
   },
   {
+    "question": "Who was the 19th-century Russian revolutionary involved in the 'Trial of the 193'?",
+    "answer": "Sofya Perovskaya"
+  },
+  {
     "question": "Who was the Emperor of the Holy Roman Empire in 800 AD?",
     "answer": "Charlemagne"
   },
   {
     "question": "Who was the Indian reformer of the 19th century?",
     "answer": "Ram Mohan Roy"
+  },
+  {
+    "question": "Who was the King of England during the Battle of Hastings?",
+    "answer": "Harold II"
   },
   {
     "question": "Who was the King of France in the 13th century?",
@@ -776,8 +868,16 @@
     "answer": "Job"
   },
   {
+    "question": "Who was the first President of Afghanistan?",
+    "answer": "Mohammed Daoud Khan"
+  },
+  {
     "question": "Who was the first Prime Minister of the United Kingdom?",
     "answer": "Robert Walpole"
+  },
+  {
+    "question": "Who was the first Russian saint?",
+    "answer": "Vladimir the Red Sun"
   },
   {
     "question": "Who was the first emperor of China?",
@@ -850,6 +950,10 @@
   {
     "question": "Who won 5 consecutive Wimbledon titles?",
     "answer": "Björn Borg"
+  },
+  {
+    "question": "Who won 7 World Cup titles in cross-country skiing?",
+    "answer": "Johannes Klæbo"
   },
   {
     "question": "Who won 8 gold medals at the Olympics?",
