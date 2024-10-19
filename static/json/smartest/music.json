@@ -48,8 +48,16 @@
     "answer": "Gold Diggers of 1935"
   },
   {
+    "question": "From which music did the polyphonic style originate?",
+    "answer": "Organum"
+  },
+  {
     "question": "How many Grammy Awards did the album 'Random Access Memories' win?",
     "answer": "5"
+  },
+  {
+    "question": "How many Grammy Awards does Aretha Franklin have?",
+    "answer": "18"
   },
   {
     "question": "How many Grammy Awards does Stevie Wonder have?",
@@ -186,6 +194,10 @@
   {
     "question": "In what year did the song 'If I Didn't Have You' win the Oscar?",
     "answer": "2002"
+  },
+  {
+    "question": "In what year did the song 'Jai Ho' win?",
+    "answer": "2009"
   },
   {
     "question": "In what year did the song 'Streets of Philadelphia' win an Oscar?",
@@ -548,6 +560,10 @@
     "answer": "Introit"
   },
   {
+    "question": "What form of regional accent is often used in reggae lyrics?",
+    "answer": "Patois"
+  },
+  {
     "question": "What function is important for DJs when mixing house tracks?",
     "answer": "Synchronization"
   },
@@ -578,6 +594,10 @@
   {
     "question": "What genre mixes dubstep with metal?",
     "answer": "Dubstepcore"
+  },
+  {
+    "question": "What genre mixes hip-hop and electronic music?",
+    "answer": "Glitch-hop"
   },
   {
     "question": "What genre of electronic music is referred to as IDM?",
@@ -812,6 +832,10 @@
     "answer": "People’s Instinctive Travels"
   },
   {
+    "question": "What is the name of ARO's hit released in 2021?",
+    "answer": "Shared Something"
+  },
+  {
     "question": "What is the name of Alice in Chains' debut album?",
     "answer": "Facelift"
   },
@@ -990,6 +1014,10 @@
   {
     "question": "What is the name of The Chemical Brothers' 1997 album?",
     "answer": "Dig Your Own Hole"
+  },
+  {
+    "question": "What is the name of The Highwomen's debut album?",
+    "answer": "The Highwomen"
   },
   {
     "question": "What is the name of The Police's debut album?",
@@ -1284,6 +1312,10 @@
     "answer": "Bass Jack"
   },
   {
+    "question": "What is the name of the iconic album by Roni Size?",
+    "answer": "New Forms"
+  },
+  {
     "question": "What is the name of the instrumental blues format?",
     "answer": "Jam"
   },
@@ -1294,6 +1326,10 @@
   {
     "question": "What is the name of the lead singer of R.E.M.?",
     "answer": "Michael Stipe"
+  },
+  {
+    "question": "What is the name of the leader of The Avett Brothers?",
+    "answer": "Scott Avett"
   },
   {
     "question": "What is the name of the lively American folk dance?",
@@ -1528,6 +1564,10 @@
     "answer": "Layering"
   },
   {
+    "question": "What is the technique of creating music from samples called?",
+    "answer": "Sampling"
+  },
+  {
     "question": "What is the technique of quickly changing the rhythm called?",
     "answer": ""
   },
@@ -1612,8 +1652,20 @@
     "answer": "Best Live Act"
   },
   {
+    "question": "What new category was introduced at the EMA in 2020?",
+    "answer": "Best Video"
+  },
+  {
     "question": "What notations were used in early recordings?",
     "answer": "Neumes"
+  },
+  {
+    "question": "What number is associated with reggae?",
+    "answer": "420"
+  },
+  {
+    "question": "What popular music festival is held in Belgium?",
+    "answer": "Tomorrowland"
   },
   {
     "question": "What rhythmic element is key in funk?",
@@ -1626,6 +1678,10 @@
   {
     "question": "What role does a double-drop play in drum and bass?",
     "answer": "Adds dynamics"
+  },
+  {
+    "question": "What significant event occurred at The Who's concert in 1979?",
+    "answer": "The Cincinnati tragedy"
   },
   {
     "question": "What song became Isaac Hayes' signature track?",
@@ -1716,6 +1772,10 @@
     "answer": "drone"
   },
   {
+    "question": "What technique is often used for smooth transitions between tracks?",
+    "answer": "Mixing"
+  },
+  {
     "question": "What technique is used to create beats in rap?",
     "answer": "Sampling"
   },
@@ -1774,6 +1834,10 @@
   {
     "question": "What was the name of The Beach Boys' debut album?",
     "answer": "Surfin' Safari"
+  },
+  {
+    "question": "What was the name of The Beatles' first hit?",
+    "answer": "Love Me Do"
   },
   {
     "question": "What was the name of The xx's debut album released in 2009?",
@@ -1892,6 +1956,10 @@
     "answer": "2005"
   },
   {
+    "question": "When was the award for Best Alternative Rock first given?",
+    "answer": "1995"
+  },
+  {
     "question": "When was the opera 'Lady Macbeth of the Mtsensk District' written?",
     "answer": "1934"
   },
@@ -1920,8 +1988,16 @@
     "answer": "Microsoft Theater"
   },
   {
+    "question": "Which 1969 album by James Brown is considered a funk classic?",
+    "answer": "Say It Loud"
+  },
+  {
     "question": "Which American musician is known as the 'Carolina Recluse'?",
     "answer": ""
+  },
+  {
+    "question": "Which Bach cantata is the most famous?",
+    "answer": "No. 147"
   },
   {
     "question": "Which Bonnie Raitt album won the Grammy for Album of the Year in 1990?",
@@ -1976,12 +2052,20 @@
     "answer": "Cold Sweat"
   },
   {
+    "question": "Which Latin American music style is characterized by a slow rhythm and melodic vocals?",
+    "answer": "Bolero"
+  },
+  {
     "question": "Which Latin American singer is known for the song 'Héroe'?",
     "answer": "Enrique Iglesias"
   },
   {
     "question": "Which Latin American singer performed the song 'Mi Tierra'?",
     "answer": "Gloria Estefan"
+  },
+  {
+    "question": "Which Louis Armstrong composition became a hit?",
+    "answer": "Hello, Dolly!"
   },
   {
     "question": "Which Mexican singer is known for the song 'Hasta Que Te Conocí'?",
@@ -2022,6 +2106,10 @@
   {
     "question": "Which Verdi opera is about revenge?",
     "answer": "Rigoletto"
+  },
+  {
+    "question": "Which album became iconic for neo-soul in the 2000s?",
+    "answer": "Voodoo"
   },
   {
     "question": "Which album became iconic in the 70s?",
@@ -2134,6 +2222,10 @@
   {
     "question": "Which artist has received the most AMA awards?",
     "answer": ""
+  },
+  {
+    "question": "Which artist has won the most European Music Awards?",
+    "answer": "Justin Bieber"
   },
   {
     "question": "Which artist ignited the techno scene in the 90s?",
@@ -2368,6 +2460,14 @@
     "answer": "'At Carnegie Hall'"
   },
   {
+    "question": "Which composer composed the 'Barcarolle'?",
+    "answer": "Jacques Offenbach"
+  },
+  {
+    "question": "Which composer created the music for the film 'The Sound of Music'?",
+    "answer": "Richard Rodgers"
+  },
+  {
     "question": "Which composer is known for innovative techniques in music?",
     "answer": "Igor Stravinsky"
   },
@@ -2478,6 +2578,10 @@
   {
     "question": "Which element creates rhythm in music?",
     "answer": "Hi-hat"
+  },
+  {
+    "question": "Which element is important for rhythm in house music?",
+    "answer": "Bass drum"
   },
   {
     "question": "Which element is often added for dynamics in a dubstep track?",
@@ -2746,6 +2850,10 @@
   {
     "question": "Which instrument is associated with Iran?",
     "answer": "Tar"
+  },
+  {
+    "question": "Which instrument is associated with Switzerland?",
+    "answer": "Alpine horn"
   },
   {
     "question": "Which instrument is historically associated with dragons?",
@@ -3160,6 +3268,10 @@
     "answer": ""
   },
   {
+    "question": "Which musical notation system was created by Guido of Arezzo?",
+    "answer": "Mensural"
+  },
+  {
     "question": "Which musical note has the shortest duration?",
     "answer": "Thirty-second note"
   },
@@ -3174,6 +3286,10 @@
   {
     "question": "Which musical style is characterized by the use of contrast between groups of instruments?",
     "answer": "Concerto grosso"
+  },
+  {
+    "question": "Which musician actively used the Moog synthesizer in their music?",
+    "answer": "Keith Emerson"
   },
   {
     "question": "Which musician demanded a thunderous applause at the premiere of 'Pierrot Lunaire'?",
@@ -3240,6 +3356,10 @@
     "answer": "Jerry Cantrell"
   },
   {
+    "question": "Which of these works was composed by Karlheinz Stockhausen?",
+    "answer": "Kontakte"
+  },
+  {
     "question": "Which opera was composed by Mussorgsky?",
     "answer": "Boris Godunov"
   },
@@ -3304,6 +3424,10 @@
     "answer": "Winter Evening"
   },
   {
+    "question": "Which saxophonist was a mentor to John Coltrane?",
+    "answer": "Charlie Parker"
+  },
+  {
     "question": "Which saxophonist wrote 'Giant Steps'?",
     "answer": "John Coltrane"
   },
@@ -3322,6 +3446,10 @@
   {
     "question": "Which singer is known for his unique whispering?",
     "answer": "Barry White"
+  },
+  {
+    "question": "Which singer performed the song 'Energetically'?",
+    "answer": "Savelyev"
   },
   {
     "question": "Which singer popularized funk in the 1970s?",
@@ -3408,12 +3536,20 @@
     "answer": "There There"
   },
   {
+    "question": "Which song did Robbie Williams perform in 1997?",
+    "answer": "Angels"
+  },
+  {
     "question": "Which song earned Whitney Houston her first Grammy?",
     "answer": "Saving All My Love for You"
   },
   {
     "question": "Which song from the movie 'Spider-Man: Into the Spider-Verse' won an Oscar?",
     "answer": "Sunflower"
+  },
+  {
+    "question": "Which song from the movie 'The Muppets' won an Oscar?",
+    "answer": "Man or Muppet"
   },
   {
     "question": "Which song is a hit by The Carter Family?",
@@ -3522,6 +3658,10 @@
   {
     "question": "Which subgenre combines elements of jazz and folk?",
     "answer": "Piedmont Blues"
+  },
+  {
+    "question": "Which subgenre of blues includes a fast tempo and a powerful rhythm section?",
+    "answer": "Boogie-woogie"
   },
   {
     "question": "Which subgenre of blues includes elements of psychedelia?",
@@ -3732,6 +3872,10 @@
     "answer": "Leslie Bricusse"
   },
   {
+    "question": "Who composed the opera \"The Demon\"?",
+    "answer": "Anton Rubinstein"
+  },
+  {
     "question": "Who composed the opera 'Alceste'?",
     "answer": "C. W. Gluck"
   },
@@ -3822,6 +3966,10 @@
   {
     "question": "Who founded Critical Music?",
     "answer": "Kasra"
+  },
+  {
+    "question": "Who founded Warp Records?",
+    "answer": "Steve Beckett, Rob Mitchell"
   },
   {
     "question": "Who founded a jazz band?",
@@ -3920,6 +4068,10 @@
     "answer": "Bill Monroe"
   },
   {
+    "question": "Who is considered the author of the first remixes?",
+    "answer": "Tom Moulton"
+  },
+  {
     "question": "Who is considered the first winner of the Grammy Award?",
     "answer": "Domenico Modugno"
   },
@@ -3994,6 +4146,10 @@
   {
     "question": "Who is the author of the work 'Alaric'?",
     "answer": "Johannes Brahms"
+  },
+  {
+    "question": "Who is the author of the work 'The Smile of the Jackal'?",
+    "answer": "Karl Jenkins"
   },
   {
     "question": "Who is the author of the work 'Trio for Harpsichord'?",
@@ -4432,6 +4588,10 @@
     "answer": "The Beatles"
   },
   {
+    "question": "Who was the first to use a drum machine in electronic music?",
+    "answer": "Kraftwerk"
+  },
+  {
     "question": "Who was the first to use electric guitars in jazz?",
     "answer": "Charlie Christian"
   },
@@ -4544,12 +4704,20 @@
     "answer": "The Chemical Brothers"
   },
   {
+    "question": "Who won the 'Best Female Artist' award in 2020?",
+    "answer": "Billie Eilish"
+  },
+  {
     "question": "Who won the 'Best Local Act' award in the UK and Ireland in 2019?",
     "answer": "Little Mix"
   },
   {
     "question": "Who won the 'Best Neo-Soul Album' award in 2019?",
     "answer": "H.E.R."
+  },
+  {
+    "question": "Who won the 'Best New Artist' category at the Grammy Awards in 2019?",
+    "answer": "Dua Lipa"
   },
   {
     "question": "Who won the 'Best R&B Video' award in 2013?",
