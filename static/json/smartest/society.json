@@ -20,6 +20,10 @@
     "answer": "Four"
   },
   {
+    "question": "In what language was the Old Testament written?",
+    "answer": "Hebrew"
+  },
+  {
     "question": "In what year did apartheid end in South Africa?",
     "answer": "1994"
   },
@@ -78,6 +82,10 @@
   {
     "question": "What are the main gods of Hinduism called?",
     "answer": "Trimurti"
+  },
+  {
+    "question": "What are the types of social mobility?",
+    "answer": "Horizontal and vertical"
   },
   {
     "question": "What concept describes equal opportunities for everyone?",
@@ -232,6 +240,10 @@
     "answer": "Key development area"
   },
   {
+    "question": "What is a teletype in the media business?",
+    "answer": "A text transmission device"
+  },
+  {
     "question": "What is an 'aporia'?",
     "answer": "Logical paradox"
   },
@@ -364,6 +376,10 @@
     "answer": "Novum Organum"
   },
   {
+    "question": "What is the philosophy called that emphasizes the importance of consequences?",
+    "answer": "Consequentialism"
+  },
+  {
     "question": "What is the political theory that advocates for minimal government intervention in the economy called?",
     "answer": "Libertarianism"
   },
@@ -402,6 +418,10 @@
   {
     "question": "What is the process of reliving a traumatic event called?",
     "answer": "Flashback"
+  },
+  {
+    "question": "What is the process of social integration of different countries called?",
+    "answer": "Social globalization"
   },
   {
     "question": "What is the psychological distress due to a mismatch of gender called?",
@@ -472,6 +492,10 @@
     "answer": "Anti-globalization"
   },
   {
+    "question": "What movement was the Petrograd Soviet?",
+    "answer": "Soviet"
+  },
+  {
     "question": "What phenomenon contributes to global mobility?",
     "answer": "Migration"
   },
@@ -510,6 +534,10 @@
   {
     "question": "What role do megacities play?",
     "answer": "Global hubs"
+  },
+  {
+    "question": "What script is used in Sikhism?",
+    "answer": "Gurmukhi"
   },
   {
     "question": "What style is characteristic of the Renaissance era?",
@@ -884,6 +912,10 @@
     "answer": "Louis XVIII"
   },
   {
+    "question": "Who said: 'Man is the measure of all things'?",
+    "answer": "Protagoras"
+  },
+  {
     "question": "Who studied the influence of culture on personality?",
     "answer": "Margaret Mead"
   },
@@ -918,5 +950,9 @@
   {
     "question": "Who wrote the book 'Gender Trouble'?",
     "answer": "Judith Butler"
+  },
+  {
+    "question": "Who wrote the work 'The Chrysanthemum and the Sword'?",
+    "answer": "Ruth Benedict"
   }
 ]
