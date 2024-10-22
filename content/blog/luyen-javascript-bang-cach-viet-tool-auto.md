@@ -124,11 +124,23 @@ async function delay(x) {
 Sau đó chúng ta có thể viết code dạng như này:
 
 ```js
-await clickBuy();
-await delay(3); // Chờ 3 giây để load confirm modal
-await confirm();
-await delay(2); // Chờ 2 giây trước khi thực hiện thao tác tiếp theo
-await reloadList();
+const COUNT = 100; // Ví dụ chạy 100 lần
+
+for (let i = 0; i < COUNT; i++) {
+  try {
+    await reloadPage();
+    await delay(1); // Chờ 1 giây để hiển thị danh sách item
+
+    await buyItem();
+    await delay(3); // Chờ 3 giây để load confirm modal
+
+    await confirmBuy();
+    await delay(2); // Chờ 2 giây trước khi thực hiện thao tác tiếp theo
+  } catch (error) {
+    console.log(error);
+    return;
+  }
+}
 ```
 
 Các bạn tự implement các hàm chi tiết nhé.
