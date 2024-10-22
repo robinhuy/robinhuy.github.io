@@ -135,7 +135,7 @@ for (let i = 0; i < COUNT; i++) {
     await delay(3); // Chờ 3 giây để load confirm modal
 
     await confirmBuy();
-    await delay(2); // Chờ 2 giây trước khi thực hiện thao tác tiếp theo
+    await delay(2); // Chờ 2 giây để api gọi xong (có thể thành công hoặc thất bại)
   } catch (error) {
     console.log(error);
     return;
@@ -152,7 +152,9 @@ Còn nhiều thứ phải tối ưu như xử lý ngoại lệ, thêm random gi�
 
 Vấn đề gặp phải: Dùng `setTimeout` thì chỉ đặt 1 khoảng thời gian cảm tính, ví dụ delay 1-2 giây.
 Nhưng nếu mạng lag chẳng hạn thì sẽ không xử lý được hoặc delay lâu quá thì tốn thời gian.
-Thay vì thế mình sẽ dùng `setInterval` với thời gian cực nhỏ để liên tục kiểm tra DOM xem đã xuất hiện modal và nút confirm chưa, sau đó mới thực hiện thao tác bấm confirm:
+
+Thay vì thế mình sẽ dùng `setInterval` với thời gian cực nhỏ để liên tục kiểm tra DOM xem đã xuất hiện element mong muốn hay chưa.
+Ví dụ với thao tác confirm thì sẽ chờ cho đến khi thấy element button confirm, sau đó mới thực hiện thao tác bấm confirm:
 
 ```js
 function checkAndClickConfirmButton() {
@@ -189,6 +191,27 @@ async function checkAndClickConfirmButton() {
 ```
 
 Các bạn có thể bổ sung thêm logic **reject** nếu chờ quá lâu mà không thấy nút confirm (mạng lag, web bị treo, ...) và nhớ có `try catch` đầy đủ khi gọi hàm.
+
+Code sau khi tối ưu sẽ tương tự như sau:
+
+```js
+const COUNT = 100; // Ví dụ chạy 100 lần
+
+for (let i = 0; i < COUNT; i++) {
+  try {
+    await reloadPage();
+    await waitListItemLoaded(); // Chờ cho đến khi hiển thị danh sách item
+
+    await buyItem();
+    await checkAndClickConfirmButton(); // Chờ confirm modal hiển thị và bấm vào nút confirm
+
+    await waitNotify(); // Chờ đến khi hiển thị thông báo mua thành công hoặc thất bại
+  } catch (error) {
+    console.log(error);
+    return;
+  }
+}
+```
 
 Các bạn có thể tham khảo thêm 2 bài viết sau cũng về JavaScript async nếu rảnh:
 - [Xử lý bất đồng bộ trong JavaScript Phần 1](/blog/xu-ly-bat-dong-bo-trong-javascript-phan-1)
