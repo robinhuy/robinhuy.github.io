@@ -51,7 +51,9 @@ Như vậy sẽ không phải ngồi canh nhìn mỏi mắt và bấm mỏi tay 
 4. Reload lại danh sách để load item mới (hoặc chuyển sang category khác).
 5. Quay trở lại bước thứ 2.
 
-![Marketplace trong Seed](/images/seed-marketplace-2.png) ![Confirm modal](/images/seed-confirm-modal.png)
+![Marketplace trong Seed](/images/seed-marketplace-2.png)
+
+![Confirm modal](/images/seed-confirm-modal.png)
 
 Như vậy mình có thể thực hiện bước thứ 2 đến 5 trong 1 vòng lặp, có thể cho chạy n lần hoặc trong n phút tùy vào code logic.
 
