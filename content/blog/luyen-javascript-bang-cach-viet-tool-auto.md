@@ -23,7 +23,7 @@ Thao tác chạy tool rất đơn giản: Bật DevTools lên, vào tab Console,
 
 Game này cũng thuộc dạng game `play to earn` trên Telegram, nhưng thay vì chỉ thao tác đơn giản như các game `tap to earn` khác thì game này có tính giải trí cao hơn, chiến thuật hơn (cày sau có thể đuổi kịp hoặc vượt cày trước).
 
-Ngoài ra trong game có hệ thống chợ (marketplace), nên có thể mua bán kiếm lời hoặc thực hành _mua đỉnh bán đáy_ hay các chiến thuật tài chính khác (om hàng, xả hàng, đẩy giá, ...) cho ai đang tập chơi coin cho quen dần.
+Ngoài ra trong game có hệ thống chợ (marketplace), nên có thể mua bán kiếm lời hoặc thực hành _mua đỉnh bán đáy_ hay các chiến thuật tài chính khác (om hàng, xả hàng, đẩy giá, ...).
 
 ![Marketplace trong Seed](/images/seed-marketplace-1.png)
 
