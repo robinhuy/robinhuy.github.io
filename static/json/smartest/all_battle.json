@@ -6477,6 +6477,10 @@
         "answer": "Plant-based food"
     },
     {
+        "question": "What does molecular gastronomy require?",
+        "answer": "Precise measurements"
+    },
+    {
         "question": "What does the French term 'passe' mean?",
         "answer": "To sauté"
     },
@@ -6507,6 +6511,10 @@
     {
         "question": "What fish is traditionally used to prepare the Belgian dish 'Waterzooi'?",
         "answer": "Cod"
+    },
+    {
+        "question": "What freezing method is used in molecular gastronomy?",
+        "answer": "liquid nitrogen"
     },
     {
         "question": "What fruits are traditionally used to make an English Christmas pudding?",
@@ -6741,6 +6749,10 @@
         "answer": "Takoyaki"
     },
     {
+        "question": "What is the name of the Korean spicy street food with rice cakes?",
+        "answer": "Tteokbokki"
+    },
+    {
         "question": "What is the name of the Mexican rice drink?",
         "answer": "Horchata"
     },
@@ -6929,12 +6941,20 @@
         "answer": "Stollen"
     },
     {
+        "question": "What is typically prepared for Easter in Italy?",
+        "answer": "Colomba"
+    },
+    {
         "question": "What is typically used for deglazing?",
         "answer": "Wine"
     },
     {
         "question": "What is used for cooling in molecular gastronomy?",
         "answer": "Liquid nitrogen"
+    },
+    {
+        "question": "What is used to caramelize sugar in crème brûlée?",
+        "answer": "Blowtorch"
     },
     {
         "question": "What is used to flavor French stew?",
@@ -7105,6 +7125,10 @@
         "answer": "Tamale"
     },
     {
+        "question": "What traditional dish is popular in Austria?",
+        "answer": "Wiener Schnitzel"
+    },
+    {
         "question": "What traditional dish is served at French weddings?",
         "answer": "Croquembouche"
     },
@@ -7247,6 +7271,14 @@
     {
         "question": "Which civilization first used vanilla?",
         "answer": "Aztecs"
+    },
+    {
+        "question": "Which cocktail consists of vodka and lemon juice?",
+        "answer": "Vodkatini"
+    },
+    {
+        "question": "Which cocktail contains Absinthe?",
+        "answer": "Green Fairy"
     },
     {
         "question": "Which cocktail is known as 'Western Swing'?",
@@ -7509,6 +7541,10 @@
         "answer": "Star anise"
     },
     {
+        "question": "Which spice is added to saffron milk?",
+        "answer": "Saffron"
+    },
+    {
         "question": "Which spice is beneficial for the brain?",
         "answer": "Saffron"
     },
@@ -7525,6 +7561,10 @@
         "answer": "Cardamom"
     },
     {
+        "question": "Which spice is often used in the preparation of Japanese sushi?",
+        "answer": "Wasabi"
+    },
+    {
         "question": "Which spice is often used to flavor fish dishes in Japanese cuisine?",
         "answer": "wasabi"
     },
@@ -7539,6 +7579,14 @@
     {
         "question": "Which spice is used in Thai cuisine?",
         "answer": "Lemongrass"
+    },
+    {
+        "question": "Which spice is used in the preparation of traditional Japanese wasabi?",
+        "answer": "Horseradish"
+    },
+    {
+        "question": "Which spice is used to add flavor to South Asian dishes such as curry and biryani?",
+        "answer": "Garam masala"
     },
     {
         "question": "Which spice is used to flavor croissants?",
@@ -23660,6 +23708,10 @@
         "answer": "Latin"
     },
     {
+        "question": "In what year did Algeria gain independence?",
+        "answer": "1962"
+    },
+    {
         "question": "In what year did Argentina become independent?"
     },
     {
@@ -26561,6 +26613,10 @@
         "answer": "USSR, Poland, East Germany"
     },
     {
+        "question": "Which country accepted Italian war criminals after World War II?",
+        "answer": "Argentina"
+    },
+    {
         "question": "Which country acknowledged dependence on France in 1807?",
         "answer": "Prussia"
     },
@@ -27120,6 +27176,10 @@
         "answer": "Puddling"
     },
     {
+        "question": "Which metal production process was improved?",
+        "answer": "Steel smelting process"
+    },
+    {
         "question": "Which military campaign of Napoleon took place in 1807?",
         "answer": "Tilsit Campaign"
     },
@@ -27380,6 +27440,10 @@
     {
         "question": "Which scientist developed the atomic theory?",
         "answer": "John Dalton"
+    },
+    {
+        "question": "Which scientist discovered radioactivity?",
+        "answer": "Antoine Becquerel"
     },
     {
         "question": "Which sea did Núñez de Balboa cross?",
@@ -40518,6 +40582,10 @@
         "answer": "The Guardian"
     },
     {
+        "question": "A popular song by Max Korzh:",
+        "answer": "Malinoviy zakat"
+    },
+    {
         "question": "At which festival did Nirvana perform for the first time?",
         "answer": "Reading"
     },
@@ -40564,6 +40632,10 @@
     {
         "question": "From which movie is the song 'Lullaby of Broadway'?",
         "answer": "Gold Diggers of 1935"
+    },
+    {
+        "question": "From which movie is the song 'On the Atchison, Topeka and the Santa Fe'?",
+        "answer": "The Harvey Girls"
     },
     {
         "question": "From which music did the polyphonic style originate?",
@@ -40734,6 +40806,10 @@
         "answer": "1973"
     },
     {
+        "question": "In what year was Daft Punk's album 'Discovery' released?",
+        "answer": "2001"
+    },
+    {
         "question": "In what year was Ludwig van Beethoven born?",
         "answer": "1770"
     },
@@ -40764,6 +40840,10 @@
     {
         "question": "In what year was the album 'After Hours' released?",
         "answer": "2020"
+    },
+    {
+        "question": "In what year was the album 'Enter the Wu-Tang (36 Chambers)' released?",
+        "answer": "1993"
     },
     {
         "question": "In what year was the album 'High Voltage' by AC/DC released?",
@@ -41210,6 +41290,10 @@
         "answer": "Bouzouki"
     },
     {
+        "question": "What instrument is used in folk songs?",
+        "answer": "Bayan"
+    },
+    {
         "question": "What instrument is used in samba?",
         "answer": "Cavaquinho"
     },
@@ -41354,6 +41438,10 @@
         "answer": "Shared Something"
     },
     {
+        "question": "What is the name of Alice Cooper's 1971 album?",
+        "answer": "Love It to Death"
+    },
+    {
         "question": "What is the name of Alice in Chains' debut album?",
         "answer": "Facelift"
     },
@@ -41400,6 +41488,10 @@
     {
         "question": "What is the name of DJ Kygo's album released in 2016?",
         "answer": "Cloud Nine"
+    },
+    {
+        "question": "What is the name of DJ Martin Garrix's label?",
+        "answer": "STMPD RCRDS"
     },
     {
         "question": "What is the name of David Bowie's last album?",
@@ -41510,6 +41602,10 @@
         "answer": "Unfinished"
     },
     {
+        "question": "What is the name of Schubert's last symphony?",
+        "answer": "Unfinished"
+    },
+    {
         "question": "What is the name of Sepultura's debut album?",
         "answer": "Morbid Visions"
     },
@@ -41602,6 +41698,14 @@
         "answer": "Glenn Danzig"
     },
     {
+        "question": "What is the name of the Dutch DJ known for the show 'A State of Trance'?",
+        "answer": "Armin van Buuren"
+    },
+    {
+        "question": "What is the name of the French DJ duo known for their light shows?",
+        "answer": "Daft Punk"
+    },
+    {
         "question": "What is the name of the French composer who composed many iconic works of the 20th century?",
         "answer": "Pierre Boulez"
     },
@@ -41672,6 +41776,10 @@
     {
         "question": "What is the name of the author of 'Lunarietta'?",
         "answer": "Arnold Schoenberg"
+    },
+    {
+        "question": "What is the name of the award category for the best Latin American album?",
+        "answer": "Best Latin American Album"
     },
     {
         "question": "What is the name of the award for emerging musicians?",
@@ -41774,6 +41882,10 @@
         "answer": "Every Good Boy Deserves Fudge"
     },
     {
+        "question": "What is the name of the famous composition by Edvard Grieg?",
+        "answer": "In the Hall of the Mountain King"
+    },
+    {
         "question": "What is the name of the famous folk ballad?",
         "answer": "Barbara Allen"
     },
@@ -41852,6 +41964,10 @@
     {
         "question": "What is the name of the lively American folk dance?",
         "answer": "Lindy Hop"
+    },
+    {
+        "question": "What is the name of the lively and fast Cuban dance?",
+        "answer": "Son"
     },
     {
         "question": "What is the name of the main soundtrack for the movie 'The Matrix'?",
@@ -42074,6 +42190,10 @@
         "answer": "Ambient techno"
     },
     {
+        "question": "What is the technique called for creating a unique sound effect in dubstep?",
+        "answer": "Sound modulation"
+    },
+    {
         "question": "What is the technique called for playing jazz piano?",
         "answer": "Stride"
     },
@@ -42214,6 +42334,10 @@
         "answer": "A Thousand Miles"
     },
     {
+        "question": "What song played in the final scene of the movie 'The Godfather'?",
+        "answer": "Speak Softly, Love"
+    },
+    {
         "question": "What song was a hit for the band Spandau Ballet?",
         "answer": "True"
     },
@@ -42326,6 +42450,10 @@
         "answer": "You Give Good Love"
     },
     {
+        "question": "What was the first electronic music hit?",
+        "answer": "Popcorn"
+    },
+    {
         "question": "What was the first name of Sebastian Bach?",
         "answer": "Johann"
     },
@@ -42348,6 +42476,10 @@
     {
         "question": "What was the name of Pearl Jam's first drummer?",
         "answer": "Dave Krusen"
+    },
+    {
+        "question": "What was the name of Pink Floyd's first album?",
+        "answer": "The Piper at the Gates of Dawn"
     },
     {
         "question": "What was the name of The Beach Boys' debut album?",
@@ -42386,6 +42518,10 @@
         "answer": "Pearl Jam"
     },
     {
+        "question": "What was the name of the bassist of the band Soundgarden?",
+        "answer": "Ben Shepherd"
+    },
+    {
         "question": "What was the name of the collaboration between DJ KSHMR and Hardwell?",
         "answer": "Power"
     },
@@ -42396,6 +42532,10 @@
     {
         "question": "What was the name of the early music collection from Montpellier?",
         "answer": "Montpellier Codex"
+    },
+    {
+        "question": "What was the name of the early polyphonic style?",
+        "answer": "Discant"
     },
     {
         "question": "What was the name of the early type of musical notation?",
@@ -42570,6 +42710,10 @@
         "answer": "Cold Sweat"
     },
     {
+        "question": "Which Latin American dance is popular in Puerto Rico?",
+        "answer": "Bomba"
+    },
+    {
         "question": "Which Latin American music style is characterized by a slow rhythm and melodic vocals?",
         "answer": "Bolero"
     },
@@ -42686,6 +42830,10 @@
         "answer": "Pennywise"
     },
     {
+        "question": "Which album is included in the Rap Hall of Fame?",
+        "answer": "Illmatic"
+    },
+    {
         "question": "Which album is significant for the house music genre?",
         "answer": "Trax Records"
     },
@@ -42750,6 +42898,10 @@
         "answer": "Jeff Mills"
     },
     {
+        "question": "Which artist is known for the track 'Oxygene'?",
+        "answer": "Jean-Michel Jarre"
+    },
+    {
         "question": "Which artist performed at Wembley Stadium in 2007?",
         "answer": "Foo Fighters"
     },
@@ -42790,6 +42942,10 @@
         "answer": "Marco Mengoni"
     },
     {
+        "question": "Which artist won the Grammy for Best Rap Album in 2020?",
+        "answer": "Tyler, The Creator"
+    },
+    {
         "question": "Which award category has existed since the founding of the AMA?",
         "answer": "Best Pop"
     },
@@ -42806,8 +42962,16 @@
         "answer": "Fugazi"
     },
     {
+        "question": "Which band is considered a pioneer of grunge?",
+        "answer": "Green River"
+    },
+    {
         "question": "Which band is known for creating funk?",
         "answer": "Parliament"
+    },
+    {
+        "question": "Which band is remembered for a stunt at the 1992 MTV VMAs when the bassist kissed the drummer?",
+        "answer": "Nirvana"
     },
     {
         "question": "Which band performed 'I Ran (So Far Away)'?",
@@ -42866,6 +43030,10 @@
         "answer": "Rancid"
     },
     {
+        "question": "Which band released the album 'Maggot Brain'?",
+        "answer": "Funkadelic"
+    },
+    {
         "question": "Which band released the album 'Release the Pressure'?",
         "answer": ""
     },
@@ -42920,6 +43088,10 @@
     {
         "question": "Which category has existed at the AMA since 1991?",
         "answer": ""
+    },
+    {
+        "question": "Which category was added to the AMA in 1998?",
+        "answer": "Internet Choice"
     },
     {
         "question": "Which category was added to the AMA in 1999?",
@@ -43082,6 +43254,10 @@
         "answer": "Hip-hop"
     },
     {
+        "question": "Which dance style is performed to funk music?",
+        "answer": "Popping"
+    },
+    {
         "question": "Which designer created the statuettes in 2012?",
         "answer": "Peter Blake"
     },
@@ -43116,6 +43292,10 @@
     {
         "question": "Which ensemble first performed 'So What'?",
         "answer": "2002"
+    },
+    {
+        "question": "Which famous DJ became the first woman to receive the title of number one in DJ Mag Top 100 DJs?",
+        "answer": "Charlotte de Witte"
     },
     {
         "question": "Which famous DJ founded the label 'Ministry of Sound'?",
@@ -43192,6 +43372,10 @@
     {
         "question": "Which festival is known for its grand headliners and is held in Poland?",
         "answer": "Open'er"
+    },
+    {
+        "question": "Which festival opened the era of rock festivals?",
+        "answer": "Monterey"
     },
     {
         "question": "Which festival started in 1971?",
@@ -43378,6 +43562,10 @@
         "answer": "Tambourine"
     },
     {
+        "question": "Which instrument is historically used in Chinese music?",
+        "answer": "Erhu"
+    },
+    {
         "question": "Which instrument is known as the analogue of the organ?",
         "answer": "Accordion"
     },
@@ -43558,6 +43746,10 @@
         "answer": "Best Soundtrack Album"
     },
     {
+        "question": "Which music festival is held in the Netherlands?",
+        "answer": "Pinkpop"
+    },
+    {
         "question": "Which music festival takes place in Lyon?",
         "answer": "Nuits Sonores"
     },
@@ -43668,6 +43860,10 @@
     {
         "question": "Which music video won the 'Best Editing' award in 2018?",
         "answer": "Lemon"
+    },
+    {
+        "question": "Which music video won the 'Best Hip-Hop' award in 2018?",
+        "answer": "Chun-Li"
     },
     {
         "question": "Which music video won the 'Best Rock Video' award in 1997?",
@@ -43924,6 +44120,10 @@
     {
         "question": "Which rapper is known for his fast-paced style?",
         "answer": "Twista"
+    },
+    {
+        "question": "Which rapper is known for their album 'Strictly Business'?",
+        "answer": "EPMD"
     },
     {
         "question": "Which rapper released the track 'Life's a Bitch'?",
@@ -44370,6 +44570,10 @@
         "answer": ""
     },
     {
+        "question": "Who composed the music for the movie \"Jurassic World\"?",
+        "answer": "Michael Giacchino"
+    },
+    {
         "question": "Who composed the music for the movie 'Critters'?",
         "answer": "David Newman"
     },
@@ -44762,6 +44966,10 @@
         "answer": "Quincy Jones"
     },
     {
+        "question": "Who is the producer and DJ known for his neurofunk tracks?",
+        "answer": "Spor"
+    },
+    {
         "question": "Who is the producer of the track 'Metropolis'?",
         "answer": "Adam F"
     },
@@ -44850,6 +45058,10 @@
         "answer": "Three 6 Mafia"
     },
     {
+        "question": "Who performed the song 'Jai Ho' from the movie 'Slumdog Millionaire'?",
+        "answer": "A. R. Rahman"
+    },
+    {
         "question": "Who performed the song 'Llorando' in the movie 'Mulholland Drive'?",
         "answer": "Rebekah Del Rio"
     },
@@ -44890,6 +45102,10 @@
         "answer": "Ariana Grande"
     },
     {
+        "question": "Who played an important role in the development of death metal?",
+        "answer": "Chuck Schuldiner"
+    },
+    {
         "question": "Who played bass guitar in The Who?",
         "answer": "John Entwistle"
     },
@@ -44928,6 +45144,10 @@
     {
         "question": "Who recorded 'Blonde' in 2016?",
         "answer": "Frank Ocean"
+    },
+    {
+        "question": "Who recorded the album 'Bitches Brew'?",
+        "answer": "Miles Davis"
     },
     {
         "question": "Who recorded the first rap record?",
@@ -45098,6 +45318,10 @@
         "answer": "Ray Charles"
     },
     {
+        "question": "Who was the first to receive the 'Video Vanguard Award'?",
+        "answer": "David Bowie"
+    },
+    {
         "question": "Who was the first to receive the BRIT Award for Best International Artist?",
         "answer": "Michael Jackson"
     },
@@ -45180,6 +45404,14 @@
     {
         "question": "Who was the host of the EMA in 2015?",
         "answer": "Ed Sheeran"
+    },
+    {
+        "question": "Who was the host of the EMA in 2017?",
+        "answer": "Rita Ora"
+    },
+    {
+        "question": "Who was the lead singer of Joy Division?",
+        "answer": "Ian Curtis"
     },
     {
         "question": "Who was the lead vocalist of Pendulum?",
@@ -45290,6 +45522,10 @@
         "answer": "The Strokes"
     },
     {
+        "question": "Who won the Grammy Award for Best Rock Performance in 2013?",
+        "answer": "The Black Keys"
+    },
+    {
         "question": "Who won the Grammy for Album of the Year in 2019?",
         "answer": "Kacey Musgraves"
     },
@@ -45356,6 +45592,10 @@
     {
         "question": "Who wrote 'Extraclassic'?",
         "answer": "Nickelback"
+    },
+    {
+        "question": "Who wrote 'Pacific Renascence Initiative'?",
+        "answer": "John Luther Adams"
     },
     {
         "question": "Who wrote 'Paganini'?",
