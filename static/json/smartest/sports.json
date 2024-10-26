@@ -180,6 +180,10 @@
     "answer": "23 countries"
   },
   {
+    "question": "How many disciplines were there at the 2006 Winter Paralympics?",
+    "answer": "15"
+  },
+  {
     "question": "How many files are allowed to be deleted in 5 minutes?",
     "answer": "3"
   },
@@ -234,6 +238,10 @@
   {
     "question": "How many total medals did the USSR win at the 1980 Olympics?",
     "answer": "195"
+  },
+  {
+    "question": "How many weight classes are there for men in the UFC?",
+    "answer": "8 classes"
   },
   {
     "question": "How many world championship titles does Henry Armstrong have?",
@@ -332,6 +340,10 @@
     "answer": "Sweden"
   },
   {
+    "question": "In which equestrian sport are gaits, impulsion, and submission evaluated?",
+    "answer": "Dressage"
+  },
+  {
     "question": "In which martial art is a 'katana' used?",
     "answer": "Iaido"
   },
@@ -352,6 +364,10 @@
     "answer": "1894"
   },
   {
+    "question": "In which year was the first Confederations Cup held?",
+    "answer": "1992"
+  },
+  {
     "question": "In which year were the Paralympic Games first held in South America?",
     "answer": "2016"
   },
@@ -362,6 +378,10 @@
   {
     "question": "On which track is the famous '24 Hours of Le Mans' race held?",
     "answer": "Le Mans"
+  },
+  {
+    "question": "On which track was the first Formula 1 night race held?",
+    "answer": "Singapore"
   },
   {
     "question": "What action in rugby involves the forwards and is one of the key elements in restarting the game?",
@@ -632,6 +652,10 @@
     "answer": "Slowing of metabolism"
   },
   {
+    "question": "What changes occur in a swimmer's cardiorespiratory system when training at high altitude?",
+    "answer": "Increase in oxygen capacity"
+  },
+  {
     "question": "What changes occurred in the strategy after changing the racket materials?",
     "answer": "Focus on speed"
   },
@@ -794,6 +818,10 @@
   {
     "question": "What effect does altitude have on the physical performance of biathletes?",
     "answer": "Decreased endurance"
+  },
+  {
+    "question": "What effect does changing temperature have on the choice of ski wax for a biathlon track?",
+    "answer": "Slipperiness"
   },
   {
     "question": "What effect does proper breathing technique have on a swimmer's endurance?",
@@ -1072,6 +1100,10 @@
     "answer": "Positioning"
   },
   {
+    "question": "What factor is critically important when performing an explosive lift?",
+    "answer": "coordination"
+  },
+  {
     "question": "What factor is crucial for maximum speed?",
     "answer": "Muscle strength"
   },
@@ -1228,6 +1260,10 @@
     "answer": "Challenging terrain"
   },
   {
+    "question": "What figure skating move is called 'lastochka'?",
+    "answer": "Lastochka"
+  },
+  {
     "question": "What format is preferred for scientific discussions?",
     "answer": "Interview podcasts"
   },
@@ -1360,6 +1396,10 @@
     "answer": "Altimeter"
   },
   {
+    "question": "What instrument measures wind speed for windsurfing?",
+    "answer": "Anemometer"
+  },
+  {
     "question": "What is 'hip' in judo?",
     "answer": "Throw"
   },
@@ -1486,6 +1526,10 @@
   {
     "question": "What is the distance from the net to the service line in tennis?",
     "answer": "17 cm"
+  },
+  {
+    "question": "What is the distance of the mass start for women in biathlon?",
+    "answer": "12.5 km"
   },
   {
     "question": "What is the effect called when the wind blows along the shore, creating long, even waves?",
@@ -1732,6 +1776,10 @@
     "answer": "Vocal Academy"
   },
   {
+    "question": "What is the name of the chess endgame where both players have only a king and no more than two minor pieces?",
+    "answer": "Minor piece endgame"
+  },
+  {
     "question": "What is the name of the chess endgame where one player has only a king and the other has a king and a queen?",
     "answer": "Checkmate with king and queen"
   },
@@ -1936,6 +1984,10 @@
     "answer": "Ruck"
   },
   {
+    "question": "What is the process of adapting sports for the Paralympic Games called?",
+    "answer": "Classification"
+  },
+  {
     "question": "What is the purpose of pawn island structures in a chess game?",
     "answer": "Stability"
   },
@@ -2046,6 +2098,10 @@
   {
     "question": "What is the skateboarding technique called where tricks are performed on rails?",
     "answer": "Grind"
+  },
+  {
+    "question": "What is the special training called to improve a horse's concentration before competitions?",
+    "answer": "Focusing"
   },
   {
     "question": "What is the standard height of a tennis net?",
@@ -2416,6 +2472,10 @@
     "answer": "Wetsuit"
   },
   {
+    "question": "What piece of equipment is critically important for safety when rock climbing outdoors?",
+    "answer": "Harness"
+  },
+  {
     "question": "What piece of equipment is essential for high-altitude mountaineering?",
     "answer": "Rope"
   },
@@ -2478,6 +2538,10 @@
   {
     "question": "What principles of classification for athletes at the Paralympics ensure fairness?",
     "answer": "Medical evaluation"
+  },
+  {
+    "question": "What property of a ball affects its trajectory?",
+    "answer": "Spin"
   },
   {
     "question": "What property of skis is important for tracks with dense snow?",
@@ -2576,6 +2640,10 @@
     "answer": "Stabilization"
   },
   {
+    "question": "What role does the rook's position play behind a passed pawn in strategy?",
+    "answer": "Supporting the pawn"
+  },
+  {
     "question": "What role is important in developing an attack strategy in rugby?",
     "answer": "Captain"
   },
@@ -2624,6 +2692,10 @@
     "answer": "Flexibility"
   },
   {
+    "question": "What skill is necessary for a horse to successfully complete a show jumping course?",
+    "answer": "Jumping accuracy"
+  },
+  {
     "question": "What skill set is most important for a setter in volleyball?",
     "answer": "setting"
   },
@@ -2652,12 +2724,20 @@
     "answer": "Scrum"
   },
   {
+    "question": "What sport involves jumping out of an airplane using a parachute?",
+    "answer": "Skydiving"
+  },
+  {
     "question": "What sport involves jumping with a parachute from fixed objects?",
     "answer": "BASE jumping"
   },
   {
     "question": "What sport involves skating on ice using skates?",
     "answer": "Figure skating"
+  },
+  {
+    "question": "What sport is considered the national sport of France?",
+    "answer": "Fencing"
   },
   {
     "question": "What sport is considered the oldest?",
@@ -2800,6 +2880,10 @@
     "answer": "Teflon"
   },
   {
+    "question": "What tactic allows you to successfully counter powerful spinning attacks?",
+    "answer": "Block"
+  },
+  {
     "question": "What tactic do players use to neutralize an opponent's strong topspin?",
     "answer": "Active block"
   },
@@ -2810,6 +2894,10 @@
   {
     "question": "What tactic is used for quickly changing the pace in table tennis?",
     "answer": "Changing the rhythm"
+  },
+  {
+    "question": "What tactic is used to control the pace of the game in rugby?",
+    "answer": "Control"
   },
   {
     "question": "What tactical action allows you to control the direction of the attack?",
@@ -3092,6 +3180,10 @@
     "answer": "Backflip"
   },
   {
+    "question": "What term is used to describe a racer's ability to quickly recover after intense efforts?",
+    "answer": "Endurance"
+  },
+  {
     "question": "What term is used to describe riding a single wave for an extended period?",
     "answer": "Longride"
   },
@@ -3142,6 +3234,10 @@
   {
     "question": "What training technique is used to improve reaction to various conditions on the track?",
     "answer": "Mental preparation"
+  },
+  {
+    "question": "What type of bicycle is used for a triathlon?",
+    "answer": "Triathlon"
   },
   {
     "question": "What type of bicycle is used in cyclocross?",
@@ -3244,6 +3340,10 @@
     "answer": "Pyramidal"
   },
   {
+    "question": "What type of training improves reaction speed in swimmers?",
+    "answer": "Plyometric exercises"
+  },
+  {
     "question": "What type of training improves reaction time in sprinters?",
     "answer": "Plyometric exercises"
   },
@@ -3254,6 +3354,10 @@
   {
     "question": "What type of waves do surfers prefer for performing tricks?",
     "answer": "Tubular"
+  },
+  {
+    "question": "What types of adaptations are necessary when playing on different table surfaces?",
+    "answer": "Technical"
   },
   {
     "question": "What unique aspect of a biathlete's rifle requires special attention in snowy conditions?",
@@ -3278,6 +3382,10 @@
   {
     "question": "What was the impact of the political situation on the 1980 Paralympics?",
     "answer": "Boycott"
+  },
+  {
+    "question": "What was the name of the cyclist who won the gold medal at the 1984 Olympics?",
+    "answer": "Lembert"
   },
   {
     "question": "What was the name of the first professional American football club?",
@@ -3350,6 +3458,10 @@
   {
     "question": "Where is the World Dressage Championship held?",
     "answer": "Herning"
+  },
+  {
+    "question": "Where is the ball put into play after an opponent's miss?",
+    "answer": "From the sideline"
   },
   {
     "question": "Where was the final of the 2019 Ice Hockey World Championship held?",
@@ -3606,6 +3718,10 @@
   {
     "question": "Which biathlete has won the most races at the Olympic Games?",
     "answer": "Ole Einar Bjørndalen"
+  },
+  {
+    "question": "Which biathlete holds the record for the most consecutive World Cup race wins?",
+    "answer": "Martin Fourcade"
   },
   {
     "question": "Which biathlete used a unique prone shooting technique, combining high speed and accuracy?",
@@ -3900,6 +4016,10 @@
     "answer": "Leicester Tigers"
   },
   {
+    "question": "Which club was the first to win the FIFA Club World Cup?",
+    "answer": "Corinthians"
+  },
+  {
     "question": "Which club won the EuroLeague in 2021?",
     "answer": "Anadolu Efes"
   },
@@ -4020,8 +4140,16 @@
     "answer": "Norway"
   },
   {
+    "question": "Which country made its debut at the 2020 Paralympics?",
+    "answer": "Bhutan"
+  },
+  {
     "question": "Which country organized the first World Amateur Boxing Championship?",
     "answer": "Cuba"
+  },
+  {
+    "question": "Which country was the first to host the Winter Paralympic Games in the Southern Hemisphere?",
+    "answer": "Australia"
   },
   {
     "question": "Which country won the first Men's Volleyball World Championship?",
@@ -4060,6 +4188,10 @@
     "answer": "Cyclocross"
   },
   {
+    "question": "Which cyclist held the leading position in all stages of the Tour de France in one year?",
+    "answer": "Jacques Anquetil"
+  },
+  {
     "question": "Which cyclist holds the record for the most stage wins in the Tour de France?",
     "answer": "Eddy Merckx"
   },
@@ -4080,6 +4212,10 @@
     "answer": "Mario Cipollini"
   },
   {
+    "question": "Which cyclist was the first to become world champion in the individual time trial by winning it three times in a row?",
+    "answer": "Tony Martin"
+  },
+  {
     "question": "Which cyclist was the first to complete all stages of the Giro with an injury?",
     "answer": "Gino Bartali"
   },
@@ -4098,6 +4234,10 @@
   {
     "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
     "answer": "Adam Hansen"
+  },
+  {
+    "question": "Which cyclist was the first to podium in all three Grand Tours in one year?",
+    "answer": "Tony Rominger"
   },
   {
     "question": "Which cyclist was the first to ride more than 50 km in 1 hour?",
@@ -4122,6 +4262,10 @@
   {
     "question": "Which cyclist was the first to win Tour de France stages on all continents?",
     "answer": "Alberto Contador"
+  },
+  {
+    "question": "Which cyclist was the first to win a stage of a cycling race starting last?",
+    "answer": "Diego Ulissi"
   },
   {
     "question": "Which cyclist was the first to win all cyclocross stages in one season?",
@@ -4166,6 +4310,10 @@
   {
     "question": "Which cyclist was the first to win both the Tour of Flanders and Paris-Roubaix in one season on different bicycles?",
     "answer": "Rik Van Looy"
+  },
+  {
+    "question": "Which cyclist was the first to win both the Tour of Flanders and Paris-Roubaix in the same season consecutively?",
+    "answer": "Tom Boonen"
   },
   {
     "question": "Which cyclist was the first to win both the World Championship and the Olympics in the same year?",
@@ -4218,6 +4366,10 @@
   {
     "question": "Which cyclist won the Cyclo-cross World Championship five times in a row?",
     "answer": "Sven Nys"
+  },
+  {
+    "question": "Which cyclist won the Giro d'Italia in 1994?",
+    "answer": "Evgeni Berzin"
   },
   {
     "question": "Which cyclist won the Giro d'Italia in 2015?",
@@ -4292,8 +4444,16 @@
     "answer": "Andrea de Cesaris"
   },
   {
+    "question": "Which driver has the most pole positions?",
+    "answer": "Lewis Hamilton"
+  },
+  {
     "question": "Which driver has the most wins in Formula 1 races?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "question": "Which driver has won the Monaco Grand Prix the most times?",
+    "answer": "Ayrton Senna"
   },
   {
     "question": "Which driver has won the World Rally Championship the most times?",
@@ -4328,6 +4488,10 @@
     "answer": "Lewis Hamilton"
   },
   {
+    "question": "Which driver was the first to win a race for the Williams team?",
+    "answer": "Clay Regazzoni"
+  },
+  {
     "question": "Which driver was the first to win the Japanese Grand Prix at the Suzuka Circuit?",
     "answer": "Gerhard Berger"
   },
@@ -4342,6 +4506,10 @@
   {
     "question": "Which driver won the 1978 Canadian Grand Prix?",
     "answer": "Gilles Villeneuve"
+  },
+  {
+    "question": "Which driver won the 1987 Japanese Grand Prix?",
+    "answer": "Gerhard Berger"
   },
   {
     "question": "Which driver won the F1 World Championship after starting the season having missed the first races?",
@@ -4478,6 +4646,10 @@
   {
     "question": "Which element of running technique ensures maximum speed in the 100-meter distance?",
     "answer": "Stride frequency"
+  },
+  {
+    "question": "Which element of shot put technique ensures maximum flight distance?",
+    "answer": "Acceleration of the drop"
   },
   {
     "question": "Which element of show jumping competitions requires the rider and horse to perform with maximum precision and accuracy?",
@@ -4708,6 +4880,10 @@
     "answer": "Brian Boitano"
   },
   {
+    "question": "Which figure skating coach is known for creating a unique spinning technique?",
+    "answer": "Michelle Laffon"
+  },
+  {
     "question": "Which figure skating competition requires the highest level of difficulty in the free program?",
     "answer": "World Championship"
   },
@@ -4734,6 +4910,10 @@
   {
     "question": "Which figure skating move involves spinning on one leg while changing position?",
     "answer": "Biellmann"
+  },
+  {
+    "question": "Which footballer has scored the most goals for a national team?",
+    "answer": "Cristiano Ronaldo"
   },
   {
     "question": "Which footballer has won the most UEFA Champions League trophies?",
@@ -4852,6 +5032,10 @@
     "answer": "Ducati"
   },
   {
+    "question": "Which martial art focuses on spiritual and meditative practices?",
+    "answer": "Tai Chi"
+  },
+  {
     "question": "Which martial art includes the philosophy of 'the silence of water'?",
     "answer": "Silat"
   },
@@ -4926,6 +5110,10 @@
   {
     "question": "Which motorcycle racer was the first to use asymmetric tires in races?",
     "answer": "Jorge Lorenzo"
+  },
+  {
+    "question": "Which motorcycle was the first to use a carbon chassis?",
+    "answer": "Ducati"
   },
   {
     "question": "Which motorcycle was the first to use an ABS system in racing?",
@@ -5060,6 +5248,10 @@
     "answer": "Leash"
   },
   {
+    "question": "Which player action requires specific training to hold the ball?",
+    "answer": "Ball capture"
+  },
+  {
     "question": "Which player was the first in history to complete a career with the highest level of achievement in both singles and doubles in the same year?",
     "answer": "Rod Laver"
   },
@@ -5108,6 +5300,10 @@
     "answer": "Fly-half"
   },
   {
+    "question": "Which position in sports requires the player to have maximum physical fitness and endurance?",
+    "answer": "Front line"
+  },
+  {
     "question": "Which programs are used to create special video effects?",
     "answer": "After Effects"
   },
@@ -5144,6 +5340,10 @@
     "answer": "Kenny Roberts"
   },
   {
+    "question": "Which racer was nicknamed 'The Legend of Le Mans'?",
+    "answer": "Tom Kristensen"
+  },
+  {
     "question": "Which racer was nicknamed 'White Merlin'?",
     "answer": "Luis Ocaña"
   },
@@ -5162,6 +5362,10 @@
   {
     "question": "Which racer was the first to win Paris-Nice seven times in a row?",
     "answer": "Sean Kelly"
+  },
+  {
+    "question": "Which racer was the first to win a race on an electric motorcycle?",
+    "answer": "Michael Rutter"
   },
   {
     "question": "Which racer was the first to win on an environmentally friendly track?",
@@ -5190,6 +5394,10 @@
   {
     "question": "Which racing driver from the first half of the 20th century was involved in the creation of a famous racetrack in Italy?",
     "answer": "Enzo Ferrari"
+  },
+  {
+    "question": "Which racing driver was the first to win six Formula 1 races in a single season?",
+    "answer": "Jack Brabham"
   },
   {
     "question": "Which racing track in Spain is known for its fast and challenging configuration and is located in the southeast of the country?",
@@ -5260,6 +5468,10 @@
     "answer": "Leg position"
   },
   {
+    "question": "Which shooter set the world record in the 10-meter air rifle event?",
+    "answer": "Sergey Kamenskiy"
+  },
+  {
     "question": "Which ski track is considered the windiest?",
     "answer": "Oberhof"
   },
@@ -5276,12 +5488,20 @@
     "answer": "Marcel Hirscher"
   },
   {
+    "question": "Which skier was the first to win 9 Olympic gold medals?",
+    "answer": "Bjørn Dæhlie"
+  },
+  {
     "question": "Which skier was the first to win more than 10 World Cups in a row?",
     "answer": "Inge Markket"
   },
   {
     "question": "Which skiing style involves the use of edges?",
     "answer": "Carving"
+  },
+  {
+    "question": "Which skiing style requires a special technique for navigating narrow and winding routes?",
+    "answer": "Slalom"
   },
   {
     "question": "Which skiing technique requires maximum concentration and skills on steep slopes?",
@@ -5316,12 +5536,20 @@
     "answer": "Big Air"
   },
   {
+    "question": "Which snowboarding technique involves performing complex tricks on courses with obstacles?",
+    "answer": "Freestyle"
+  },
+  {
     "question": "Which snowboarding technique requires high precision and coordination?",
     "answer": "Slalom"
   },
   {
     "question": "Which sport allows performing complex tricks on water?",
     "answer": "Kitesurfing"
+  },
+  {
+    "question": "Which sport at the Paralympic Games is held for athletes with physical impairments and involves the use of rackets?",
+    "answer": "Para table tennis"
   },
   {
     "question": "Which sport at the Paralympic Games requires participants to use prosthetics and mechanical devices?",
@@ -5472,6 +5700,10 @@
     "answer": "Hydrodynamics"
   },
   {
+    "question": "Which swimming technique helps minimize water resistance?",
+    "answer": "Gliding freestyle"
+  },
+  {
     "question": "Which tactic is associated with an attack using radial paths?",
     "answer": "Battery"
   },
@@ -5486,6 +5718,10 @@
   {
     "question": "Which tactical element in rugby allows controlling the direction and speed of the game?",
     "answer": "Tempo control"
+  },
+  {
+    "question": "Which tactical move helps regain control in a game after a series of lost points?",
+    "answer": "Slowing down the pace"
   },
   {
     "question": "Which team did Alex Ferguson coach first?",
@@ -5526,6 +5762,10 @@
   {
     "question": "Which technique element allows for optimal load distribution during a jerk?",
     "answer": "Angle of inclination"
+  },
+  {
+    "question": "Which technique element is important for effectively overcoming barriers?",
+    "answer": "Step frequency"
   },
   {
     "question": "Which technique element reduces fatigue when swimming the butterfly stroke?",
@@ -5576,8 +5816,16 @@
     "answer": "Roger Federer"
   },
   {
+    "question": "Which tennis player holds the record for the most consecutive wins in ATP matches?",
+    "answer": "Guillermo Vilas"
+  },
+  {
     "question": "Which tennis player holds the record for the most singles matches played at the French Open?",
     "answer": "Rafael Nadal"
+  },
+  {
+    "question": "Which tennis player is known for his defensive baseline play?",
+    "answer": "Michael Chang"
   },
   {
     "question": "Which tennis player is known for his excellent one-handed backhand?",
@@ -5704,6 +5952,10 @@
     "answer": "Portimão"
   },
   {
+    "question": "Which track in MotoGP is most famous for its high-speed descents?",
+    "answer": "Mugello"
+  },
+  {
     "question": "Which track in motorsport is considered the most technically challenging due to its turns?",
     "answer": "Suzuka"
   },
@@ -5750,6 +6002,14 @@
   {
     "question": "Which training element helps improve hurdle running technique?",
     "answer": "Repetitions"
+  },
+  {
+    "question": "Which training element helps improve starting technique in swimming?",
+    "answer": "Strength exercises"
+  },
+  {
+    "question": "Which training element improves jumping technique?",
+    "answer": "Plyometrics"
   },
   {
     "question": "Which training element improves runners' recovery ability?",
@@ -5802,6 +6062,10 @@
   {
     "question": "Which weightlifting exercise requires the most coordination?",
     "answer": "Snatch"
+  },
+  {
+    "question": "Which weightlifting school has made the greatest contribution to the development of the snatch?",
+    "answer": "Soviet"
   },
   {
     "question": "Which woman was the first to become a world champion by performing the most difficult jump combination?",
@@ -6012,6 +6276,10 @@
     "answer": "Han Kang"
   },
   {
+    "question": "Who is the best goal-scoring defenseman in NHL history?",
+    "answer": "Bobby Orr"
+  },
+  {
     "question": "Who is the coach at American Top Team?",
     "answer": "Dan Lambert"
   },
@@ -6176,6 +6444,10 @@
     "answer": "Hans-Jörg Butt"
   },
   {
+    "question": "Who was the first man to win all Grand Slam tournaments in a single season?",
+    "answer": "Rod Laver"
+  },
+  {
     "question": "Who was the first person to run a marathon in under two hours?",
     "answer": "Eliud Kipchoge"
   },
@@ -6214,6 +6486,10 @@
   {
     "question": "Who was the first tennis player to win two ATP tournaments on grass courts in one year?",
     "answer": "Andre Agassi"
+  },
+  {
+    "question": "Who was the first to break the five-hour barrier in the 'Ironman' triathlon?",
+    "answer": "Dave Scott"
   },
   {
     "question": "Who was the first to clear 6 meters with a pole vault?",
@@ -6364,6 +6640,10 @@
     "answer": "Alfredo Binda"
   },
   {
+    "question": "Who was the first to win the Masters Cup in singles?",
+    "answer": "Ivan Lendl"
+  },
+  {
     "question": "Who was the first to win the Paris-Nice race after simultaneously winning the Giro d'Italia the previous year?",
     "answer": "Sean Kelly"
   },
@@ -6424,12 +6704,20 @@
     "answer": "Jersey Joe Walcott"
   },
   {
+    "question": "Who was the goalkeeper for the Germany national team in the 2014 World Cup?",
+    "answer": "Manuel Neuer"
+  },
+  {
     "question": "Who was the head coach of Barcelona in 2021?",
     "answer": "Ronald Koeman"
   },
   {
     "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
     "answer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "Who was the youngest winner of an ATP singles tournament?",
+    "answer": "Aaron Krickstein"
   },
   {
     "question": "Who won Euro 1996?",
