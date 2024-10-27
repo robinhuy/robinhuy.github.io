@@ -828,6 +828,10 @@
     "answer": "Increases endurance"
   },
   {
+    "question": "What effect does regular swimming have on the cardiovascular system?",
+    "answer": "Improves"
+  },
+  {
     "question": "What effect does specialized equipment have on a swimmer's performance?",
     "answer": "Reduces drag"
   },
@@ -1038,6 +1042,10 @@
   {
     "question": "What factor determines the success of executing a complex maneuver in rugby?",
     "answer": "Coordination"
+  },
+  {
+    "question": "What factor forms coastal waves, creating ideal conditions for surfing?",
+    "answer": "Cresting wind"
   },
   {
     "question": "What factor helps a swimmer conserve energy over long distances?",
@@ -1390,6 +1398,10 @@
   {
     "question": "What innovations were introduced in table tennis at the beginning of the 21st century?",
     "answer": "Plastic balls"
+  },
+  {
+    "question": "What innovative rugby rule was introduced in the 21st century?",
+    "answer": "50/22 rule"
   },
   {
     "question": "What instrument is used to measure altitude above sea level?",
@@ -2304,6 +2316,10 @@
     "answer": "Take-Off"
   },
   {
+    "question": "What maneuver does a surfer perform to change direction on a wave?",
+    "answer": "Turn"
+  },
+  {
     "question": "What maneuver does a surfer perform to exit the inside of the wave to avoid its collapse?",
     "answer": "Cross-step"
   },
@@ -2684,6 +2700,10 @@
     "answer": "Level of experience"
   },
   {
+    "question": "What significant change in figure skating rules occurred in 2004?",
+    "answer": "Introduction of a new scoring system"
+  },
+  {
     "question": "What skill is critically important for performing tricks in windsurfing?",
     "answer": "Balance"
   },
@@ -3002,6 +3022,10 @@
   {
     "question": "What technique allows athletes to safely maneuver while kayaking in whitewater?",
     "answer": "Eskimo roll"
+  },
+  {
+    "question": "What technique allows effective board control in extreme surfing?",
+    "answer": "Balance"
   },
   {
     "question": "What technique allows players to compensate for difficult serve angles?",
@@ -3468,6 +3492,10 @@
     "answer": "Slovakia"
   },
   {
+    "question": "Where were carbon brakes first used in racing?",
+    "answer": "Le Mans"
+  },
+  {
     "question": "Which F1 driver was the first to win a race after starting from the last position?",
     "answer": "John Watson"
   },
@@ -3526,6 +3554,10 @@
   {
     "question": "Which MotoGP track often suffers from changing weather conditions?",
     "answer": "Phillip Island"
+  },
+  {
+    "question": "Which NHL team was founded in 1924?",
+    "answer": "Boston Bruins"
   },
   {
     "question": "Which Paralympic discipline requires participants to use a wheelchair and straps for stabilization?",
@@ -4152,6 +4184,10 @@
     "answer": "Australia"
   },
   {
+    "question": "Which country won the first Ice Hockey World Championship?",
+    "answer": "Canada"
+  },
+  {
     "question": "Which country won the first Men's Volleyball World Championship?",
     "answer": "USSR"
   },
@@ -4208,6 +4244,10 @@
     "answer": "Luis Ocaña"
   },
   {
+    "question": "Which cyclist was the first to achieve 30 stage wins in Grand Tours?",
+    "answer": "Mark Cavendish"
+  },
+  {
     "question": "Which cyclist was the first to achieve 50 ProTour race wins in a single season?",
     "answer": "Mario Cipollini"
   },
@@ -4230,6 +4270,10 @@
   {
     "question": "Which cyclist was the first to cross both the Alps and the Pyrenees in a single Tour de France?",
     "answer": "Karl Peter"
+  },
+  {
+    "question": "Which cyclist was the first to finish the Vuelta a España consecutively without withdrawals?",
+    "answer": "Mariano Cañardo"
   },
   {
     "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
@@ -4724,6 +4768,10 @@
     "answer": "Stride frequency"
   },
   {
+    "question": "Which element of windsurfing allows you to control the direction of the sail?",
+    "answer": "Boom"
+  },
+  {
     "question": "Which element of windsurfing plays a key role in turning in light wind?",
     "answer": "Sail rotation"
   },
@@ -4758,6 +4806,10 @@
   {
     "question": "Which exercise helps improve speed in the snatch?",
     "answer": "calf raises"
+  },
+  {
+    "question": "Which exercise improves explosive power?",
+    "answer": "Weighted jumps"
   },
   {
     "question": "Which extreme sport involves skiing off-piste?",
@@ -4806,6 +4858,10 @@
   {
     "question": "Which famous chess tournament is held in Norway and attracts the elite of the chess world?",
     "answer": "Norway Chess"
+  },
+  {
+    "question": "Which famous coach is the author of books on table tennis?",
+    "answer": "Tim Boggan"
   },
   {
     "question": "Which famous coach made a significant contribution to the training methods of ice dancers?",
@@ -5604,12 +5660,20 @@
     "answer": "Short track speed skating"
   },
   {
+    "question": "Which sport requires skills in assessing ice conditions for safe movement?",
+    "answer": "Ice climbing"
+  },
+  {
     "question": "Which sport uses a special parachute to control speed and direction while skiing downhill?",
     "answer": "Speedriding"
   },
   {
     "question": "Which sport was added to the Winter Paralympic Games program in 1994?",
     "answer": "Biathlon"
+  },
+  {
+    "question": "Which sport was excluded from the Paralympic Games program in 2020?",
+    "answer": "7-a-side football"
   },
   {
     "question": "Which sport was first adapted for visually impaired athletes at the Paralympics?",
@@ -6260,6 +6324,10 @@
     "answer": "Gervonta Davis"
   },
   {
+    "question": "Who is the all-time leader in blocked shots in the NBA?",
+    "answer": "Hakeem Olajuwon"
+  },
+  {
     "question": "Who is the all-time leading scorer in the NBA?",
     "answer": "LeBron James"
   },
@@ -6342,6 +6410,10 @@
   {
     "question": "Who is the owner of the Washington Capitals?",
     "answer": "Ted Leonsis"
+  },
+  {
+    "question": "Who is the star of women's MMA in the UFC?",
+    "answer": "Amanda Nunes"
   },
   {
     "question": "Who is the top scorer in World Cup history?",
@@ -6438,6 +6510,10 @@
   {
     "question": "Who was the first female world champion?",
     "answer": "Malvina Kremer"
+  },
+  {
+    "question": "Who was the first figure skater to perform four quadruple jumps in one program?",
+    "answer": "Evgeni Plushenko"
   },
   {
     "question": "Who was the first goalkeeper to score a goal in a Champions League match?",
@@ -6606,6 +6682,10 @@
   {
     "question": "Who was the first to use aerodynamic control elements in motorsport?",
     "answer": "Rossi"
+  },
+  {
+    "question": "Who was the first to use the 'leg out' technique in motorsport?",
+    "answer": "Freddie Spencer"
   },
   {
     "question": "Who was the first to win Paris-Roubaix after the Lance Armstrong era?",
