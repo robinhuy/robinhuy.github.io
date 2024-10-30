@@ -2000,6 +2000,10 @@
     "answer": "Electrophoresis"
   },
   {
+    "question": "Which method prevents leaks?",
+    "answer": "Access control"
+  },
+  {
     "question": "Which method reduces overfitting?",
     "answer": "Regularization"
   },
