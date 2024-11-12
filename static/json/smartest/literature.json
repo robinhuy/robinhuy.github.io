@@ -68,6 +68,10 @@
     "answer": "Thomas"
   },
   {
+    "question": "To which genre does 'The Abbey of Thélème' in Rabelais' work belong?",
+    "answer": "Satirical novel"
+  },
+  {
     "question": "To whom did Jane Austen dedicate her novel 'Emma'?",
     "answer": "The Prince Regent"
   },
@@ -132,6 +136,10 @@
     "answer": "Evil"
   },
   {
+    "question": "What emotion was often exploited in Baroque literature?",
+    "answer": "Melancholy"
+  },
+  {
     "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
     "answer": "Forest Spirit"
   },
@@ -154,6 +162,10 @@
   {
     "question": "What is the central theme in Horace's 'The Art of Poetry'?",
     "answer": "The art of poetry"
+  },
+  {
+    "question": "What is the genre of Rabelais' work 'Gargantua and Pantagruel'?",
+    "answer": "Satire"
   },
   {
     "question": "What is the genre of ancient texts that describes different spheres of life through allegories called?",
@@ -214,6 +226,14 @@
   {
     "question": "What is the name of the German novel about the exploits and adventures of the knight Iwein?",
     "answer": "Iwein, or The Knight with the Lion"
+  },
+  {
+    "question": "What is the name of the Italian epic about the wars of Charlemagne?",
+    "answer": "The Song of Roland"
+  },
+  {
+    "question": "What is the name of the Italian poem about Charlemagne's military campaign against the Moors?",
+    "answer": "'Chronicle of Pesaro'"
   },
   {
     "question": "What is the name of the Japanese folklore collection of stories contained in the epic poetry created by a monk in the 12th century?",
@@ -488,6 +508,10 @@
     "answer": "Tragic"
   },
   {
+    "question": "What was the main idea of François Rabelais' work 'Gargantua and Pantagruel'?",
+    "answer": "Satire and humor"
+  },
+  {
     "question": "What was the name of Goethe's first great work?",
     "answer": "Faust"
   },
@@ -598,6 +622,10 @@
   {
     "question": "Which Italian writer wrote the treatise 'On the Education of a Christian Princess'?",
     "answer": "Baldassare Castiglione"
+  },
+  {
+    "question": "Which Latin work is dedicated to the life of Romans in Etruria?",
+    "answer": "Saturnalia"
   },
   {
     "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
@@ -928,8 +956,16 @@
     "answer": "The Gray House"
   },
   {
+    "question": "Which novel by Nicolas Mathieu won the Goncourt Prize in 2018?",
+    "answer": "Leurs enfants après eux"
+  },
+  {
     "question": "Which novel by Saul Bellow, published in 1959, explores the metamorphosis and self-identity of the main character Henderson?",
     "answer": "Henderson the Rain King"
+  },
+  {
+    "question": "Which novel by William Carlos Williams is dedicated to exploring American life and human destiny in Paterson?",
+    "answer": "Paterson"
   },
   {
     "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
@@ -994,6 +1030,10 @@
   {
     "question": "Which novel was recognized as an Amazon Kindle bestseller in 2021?",
     "answer": "The Last Thing He Told Me"
+  },
+  {
+    "question": "Which novel was written by Rudyard Kipling?",
+    "answer": "The Jungle Book"
   },
   {
     "question": "Which novel won the 'Asper' award in 2018?",
@@ -1176,6 +1216,10 @@
     "answer": "Vanitas"
   },
   {
+    "question": "Which tragedy by Calderón combines elements of philosophy and religion?",
+    "answer": "Life is a Dream"
+  },
+  {
     "question": "Which tragedy by Torquato Tasso is considered a model of Italian Renaissance tragedy?",
     "answer": "Aminta"
   },
@@ -1240,6 +1284,10 @@
     "answer": "The Life of Merlin"
   },
   {
+    "question": "Which work by Henry James explores social boundaries and moral dilemmas?",
+    "answer": "The Portrait of a Lady"
+  },
+  {
     "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
     "answer": "The Turn of the Screw"
   },
@@ -1272,6 +1320,10 @@
     "answer": "Diana"
   },
   {
+    "question": "Which work by Lamartine is based on the historical events of Greece?",
+    "answer": "The Fall of Missolonghi"
+  },
+  {
     "question": "Which work by Leibniz develops the concept of monads?",
     "answer": "Monadology"
   },
@@ -1286,6 +1338,14 @@
   {
     "question": "Which work by Luis Vives was popular in Spain?",
     "answer": "The Fair of Saint Ottonel"
+  },
+  {
+    "question": "Which work by Marilynne Robinson explores the theme of religion through a dying preacher's letter to his son?",
+    "answer": "Gilead"
+  },
+  {
+    "question": "Which work by Menander marked the beginning of New Attic Comedy?",
+    "answer": "Dyskolos"
   },
   {
     "question": "Which work by Niccolò Machiavelli demonstrates elements of Renaissance drama?",
@@ -1344,6 +1404,10 @@
     "answer": "History of the Kings of Britain"
   },
   {
+    "question": "Which work did George Sand use to demonstrate her progressive views?",
+    "answer": "Consuelo"
+  },
+  {
     "question": "Which work embodies American working culture through the metaphor of a naturalist man?",
     "answer": "John Henry"
   },
@@ -1366,6 +1430,10 @@
   {
     "question": "Which work in Latin discusses philosophical questions in the form of dialogues?",
     "answer": "De sapientia"
+  },
+  {
+    "question": "Which work in epistolary form describes the drama of a solitary life in New England and an existential crisis?",
+    "answer": "Letters to Melancholy"
   },
   {
     "question": "Which work in the form of letters delves into various aspects of love and passion of mythical heroes?",
@@ -1420,6 +1488,10 @@
     "answer": "Orlando Furioso"
   },
   {
+    "question": "Which work of English literature is a satire on utopian novels?",
+    "answer": "Gulliver's Travels"
+  },
+  {
     "question": "Which work of French literature explores the life of a nobleman?",
     "answer": "Memoirs of a Nobleman"
   },
@@ -1462,6 +1534,10 @@
   {
     "question": "Which writer formulated the aesthetic principles of classicism?",
     "answer": "Nicolas Boileau"
+  },
+  {
+    "question": "Which writer is distinguished by baroque effusions in Spanish prose?",
+    "answer": "Francisco de Quevedo"
   },
   {
     "question": "Who applied the methods of critical philosophy to religious beliefs?",
@@ -1510,6 +1586,10 @@
   {
     "question": "Who is considered the author of the 12th-century chivalric epic about the cursed sword?",
     "answer": "Walter Map"
+  },
+  {
+    "question": "Who is considered the author of the medieval chivalric romance 'The History of Troy'?",
+    "answer": "Benoît de Sainte-Maure"
   },
   {
     "question": "Who is considered the author of the poem 'Insomnia'?",
@@ -1592,6 +1672,10 @@
     "answer": "Susan Choi"
   },
   {
+    "question": "Who is the author of the novel that won the 'International Dublin Literary Award' in 2020?",
+    "answer": "John Wilson"
+  },
+  {
     "question": "Who is the author of the novel with elements of Greek romance and pastoral life, written during the Hellenistic period?",
     "answer": "Longus"
   },
@@ -1636,6 +1720,10 @@
     "answer": "Dorothea Brooke"
   },
   {
+    "question": "Who kills Alina in 'The Wheel of Time'?",
+    "answer": "Padan Fain"
+  },
+  {
     "question": "Who lived in the 12th century and wrote 'Roman de Renart'?",
     "answer": "Pierre de Saint-Cloud"
   },
@@ -1664,6 +1752,10 @@
     "answer": "Henry Austen"
   },
   {
+    "question": "Who wrote 'Alexandria' (a work about the life of Alexander the Great)?",
+    "answer": "Callisthenes"
+  },
+  {
     "question": "Who wrote 'Liber de coquina'?",
     "answer": "Pseudo-Apicius"
   },
@@ -1678,6 +1770,10 @@
   {
     "question": "Who wrote 'The Romance of the Fox'?",
     "answer": "Anonymous author"
+  },
+  {
+    "question": "Who wrote 'The Shield of Achilles' in epic poetry?",
+    "answer": "Homer"
   },
   {
     "question": "Who wrote 'The Twelve Idylls'?",
