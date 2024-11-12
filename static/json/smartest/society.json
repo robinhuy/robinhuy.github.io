@@ -32,6 +32,10 @@
     "answer": "1618"
   },
   {
+    "question": "In what year was 'Channel One' launched in Russia?",
+    "answer": "1995"
+  },
+  {
     "question": "In what year was the Magna Carta signed?",
     "answer": "Monetary policy"
   },
@@ -44,6 +48,10 @@
     "answer": "1837"
   },
   {
+    "question": "In which country did the 'Green Beard' movement start?",
+    "answer": "USA"
+  },
+  {
     "question": "In which country is Yom Kippur a public holiday?",
     "answer": "Israel"
   },
@@ -54,6 +62,10 @@
   {
     "question": "In which direction is globalization developing?",
     "answer": "Integration"
+  },
+  {
+    "question": "In which religion is a monolith used?",
+    "answer": "Shamanism"
   },
   {
     "question": "Name a genetic blood disorder.",
@@ -96,6 +108,10 @@
     "answer": "Horizontal and vertical"
   },
   {
+    "question": "What can be an object of international law?",
+    "answer": "States"
+  },
+  {
     "question": "What concept describes equal opportunities for everyone?",
     "answer": "Inclusion"
   },
@@ -126,6 +142,10 @@
   {
     "question": "What does 'value' represent?",
     "answer": "Worth"
+  },
+  {
+    "question": "What does RSS stand for?",
+    "answer": "Really Simple Syndication"
   },
   {
     "question": "What does a pulse oximeter do?",
@@ -176,6 +196,10 @@
     "answer": "interpretation of texts"
   },
   {
+    "question": "What does international law regulate?",
+    "answer": "relations between states"
+  },
+  {
     "question": "What does phenomenology study?",
     "answer": "Phenomena"
   },
@@ -208,12 +232,24 @@
     "answer": "creation of a code"
   },
   {
+    "question": "What does the term 'diuresis' mean?",
+    "answer": "Urine excretion"
+  },
+  {
     "question": "What does the term 'ontology' mean?",
     "answer": "The study of being"
   },
   {
     "question": "What does the term 'recession' mean?",
     "answer": "Economic downturn"
+  },
+  {
+    "question": "What does the term 'totalitarianism' mean?",
+    "answer": "Complete control"
+  },
+  {
+    "question": "What drives a market economy?",
+    "answer": "Competition"
   },
   {
     "question": "What economic process supports globalization?",
@@ -264,6 +300,10 @@
     "answer": "A text transmission device"
   },
   {
+    "question": "What is a theocracy?",
+    "answer": "Rule of religion"
+  },
+  {
     "question": "What is an 'aporia'?",
     "answer": "Logical paradox"
   },
@@ -272,8 +312,20 @@
     "answer": "Architecture"
   },
   {
+    "question": "What is an object of civil law?",
+    "answer": "Property"
+  },
+  {
     "question": "What is an object of cultural rights?",
     "answer": "Heritage"
+  },
+  {
+    "question": "What is anthropogenesis?",
+    "answer": "Human evolution"
+  },
+  {
+    "question": "What is cancer?",
+    "answer": "Tumor"
   },
   {
     "question": "What is cultural relativism?",
@@ -298,6 +350,10 @@
   {
     "question": "What is reaction formation?",
     "answer": "Opposite expression"
+  },
+  {
+    "question": "What is social anthropology?",
+    "answer": "The study of societies"
   },
   {
     "question": "What is sociometry?",
@@ -334,6 +390,14 @@
   {
     "question": "What is the form of government with local self-government called?",
     "answer": "Federation"
+  },
+  {
+    "question": "What is the fundamental principle in law?",
+    "answer": "Legality"
+  },
+  {
+    "question": "What is the goal of liberal movements?",
+    "answer": "Expansion of rights"
   },
   {
     "question": "What is the group of people called that considers a case in court?",
@@ -396,6 +460,14 @@
     "answer": "Novum Organum"
   },
   {
+    "question": "What is the official recognition of achievements in the field of education called?",
+    "answer": "Accreditation"
+  },
+  {
+    "question": "What is the oldest educational institution in the world?",
+    "answer": "University of Al Quaraouiyine"
+  },
+  {
     "question": "What is the philosophy called that emphasizes the importance of consequences?",
     "answer": "Consequentialism"
   },
@@ -414,6 +486,10 @@
   {
     "question": "What is the process of a person's adaptation to changing conditions called?",
     "answer": "Adaptation"
+  },
+  {
+    "question": "What is the process of data transfer called?",
+    "answer": "Synchronization"
   },
   {
     "question": "What is the process of eliminating harmful substances called?",
@@ -456,6 +532,10 @@
     "answer": "Privacy"
   },
   {
+    "question": "What is the sacred plant in Hinduism?",
+    "answer": "Tulasi"
+  },
+  {
     "question": "What is the science of blood called?",
     "answer": "Hematology"
   },
@@ -466,6 +546,10 @@
   {
     "question": "What is the scientific study of social change and development called?",
     "answer": "Social theory"
+  },
+  {
+    "question": "What is the stress caused by a crisis called?",
+    "answer": "Crisis"
   },
   {
     "question": "What is the subject of a contract?",
@@ -480,6 +564,10 @@
     "answer": "Gesture Control"
   },
   {
+    "question": "What is the term for a state of strong internal agitation?",
+    "answer": "Affection"
+  },
+  {
     "question": "What is the term for spiritual self-improvement in Taoism?",
     "answer": "Dao"
   },
@@ -488,16 +576,36 @@
     "answer": "Budget deficit"
   },
   {
+    "question": "What is the term for the lack of desire to have any gender identity?",
+    "answer": "Agender"
+  },
+  {
     "question": "What is the term for the transmission of cultural traditions from generation to generation?",
     "answer": "Socialization"
+  },
+  {
+    "question": "What is the theory based on moral duty called?",
+    "answer": "Deontology"
   },
   {
     "question": "What is the transition from mortal life to the afterlife called in Christianity?",
     "answer": "Dormition"
   },
   {
+    "question": "What is the type of thinking called that focuses on specific and precise details?",
+    "answer": "Convergent"
+  },
+  {
+    "question": "What is used to control drones?",
+    "answer": "Joystick"
+  },
+  {
     "question": "What is utilitarianism?",
     "answer": "ethics of utility"
+  },
+  {
+    "question": "What issue does social policy address?",
+    "answer": "Inequality"
   },
   {
     "question": "What laws govern relations at the international level?",
@@ -514,6 +622,10 @@
   {
     "question": "What movement opposes globalization?",
     "answer": "Anti-globalization"
+  },
+  {
+    "question": "What movement supports the refusal to harm nature?",
+    "answer": "Ethical consumption"
   },
   {
     "question": "What movement was the Petrograd Soviet?",
@@ -604,8 +716,20 @@
     "answer": "Interculturation"
   },
   {
+    "question": "What term describes the union of independent states into an alliance?",
+    "answer": "Confederation"
+  },
+  {
+    "question": "What term describes the union of parties?",
+    "answer": "Coalition"
+  },
+  {
     "question": "What term is often used in the context of globalization?",
     "answer": "Glocalization"
+  },
+  {
+    "question": "What term refers to bias or discrimination against LGBT+ people?",
+    "answer": "Homophobia"
   },
   {
     "question": "What term refers to the systematic planning of the educational process?",
@@ -688,12 +812,20 @@
     "answer": "Humanistic psychology"
   },
   {
+    "question": "Which building is associated with Nebuchadnezzar II?",
+    "answer": "The Tower of Babel"
+  },
+  {
     "question": "Which church reformation began in the 16th century?",
     "answer": "Protestant"
   },
   {
     "question": "Which city is considered the financial center of the world?",
     "answer": "New York"
+  },
+  {
+    "question": "Which council convened in 1517?",
+    "answer": "Lateran"
   },
   {
     "question": "Which country is not a signatory of the European Convention on Human Rights?",
@@ -716,6 +848,10 @@
     "answer": "Plantagenets"
   },
   {
+    "question": "Which famous political scientist is the author of the term 'political culture'?",
+    "answer": "Gabriel Almond"
+  },
+  {
     "question": "Which feminist text criticized female passivity?",
     "answer": "The Women's Gospel"
   },
@@ -724,12 +860,20 @@
     "answer": "Silvia Federici"
   },
   {
+    "question": "Which governance is better suited for a globalized world?",
+    "answer": "Multilevel governance"
+  },
+  {
     "question": "Which industries dominate the world?",
     "answer": "technological"
   },
   {
     "question": "Which law regulates social security in Russia?",
     "answer": "Federal Law No. 255-FZ"
+  },
+  {
+    "question": "Which magazine is the oldest?",
+    "answer": "Nature"
   },
   {
     "question": "Which media format does not exist?",
@@ -752,8 +896,20 @@
     "answer": "Sartre"
   },
   {
+    "question": "Which philosopher linked religion with morality?",
+    "answer": "Immanuel Kant"
+  },
+  {
     "question": "Which philosophical direction claims that the world is completely knowable?",
     "answer": "Rationalism"
+  },
+  {
+    "question": "Which philosophical system emphasizes virtue?",
+    "answer": "Virtue Ethics"
+  },
+  {
+    "question": "Which policy is associated with changing the reserve requirement?",
+    "answer": "Monetary policy"
   },
   {
     "question": "Which principle respects cultural diversity and intercultural dialogue?",
@@ -828,6 +984,10 @@
     "answer": "Any citizen"
   },
   {
+    "question": "Who can initiate a criminal prosecution?",
+    "answer": "prosecutor"
+  },
+  {
     "question": "Who conducted the famous survey in Chicago?",
     "answer": "E. W. Burgess"
   },
@@ -860,6 +1020,10 @@
     "answer": "John Rawls"
   },
   {
+    "question": "Who first introduced the term 'inferiority complex'?",
+    "answer": "Adler"
+  },
+  {
     "question": "Who founded Stoicism?",
     "answer": "Zeno"
   },
@@ -878,6 +1042,10 @@
   {
     "question": "Who introduced the concept of 'globalization' in cultural studies?",
     "answer": "Roland Robertson"
+  },
+  {
+    "question": "Who introduced the concept of 'social distance'?",
+    "answer": "Bogardus"
   },
   {
     "question": "Who introduced the term 'Postmodern'?",
@@ -916,12 +1084,20 @@
     "answer": "Talcott Parsons"
   },
   {
+    "question": "Who is known for their work in ethnography and led the Cambridge Museum?",
+    "answer": "A. Astle"
+  },
+  {
     "question": "Who is known for their work in queer theory?",
     "answer": "Judith Butler"
   },
   {
     "question": "Who is one of the principal deities in Hinduism?",
     "answer": "Brahma"
+  },
+  {
+    "question": "Who is the author of 'The Philosophy of Life'?",
+    "answer": "Schopenhauer"
   },
   {
     "question": "Who is the author of 'Utilitarianism'?",
@@ -958,6 +1134,10 @@
   {
     "question": "Who is the founder of symbolic interactionism?",
     "answer": "Herbert Blumer"
+  },
+  {
+    "question": "Who is the theorist of the concept of the rule of law?",
+    "answer": "Immanuel Kant"
   },
   {
     "question": "Who issues rulings?",
