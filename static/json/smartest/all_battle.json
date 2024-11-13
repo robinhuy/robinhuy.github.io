@@ -30944,6 +30944,10 @@
         "answer": "Beloved"
     },
     {
+        "question": "In which work by John Donne is Baroque metaphor particularly prominent?",
+        "answer": "An Anatomy of the World"
+    },
+    {
         "question": "In which work by Lope de Vega do features of the Baroque appear?",
         "answer": "Fuente Ovejuna"
     },
@@ -30974,6 +30978,10 @@
     {
         "question": "Name the author of the legend 'Tristan and Isolde'?",
         "answer": "Thomas"
+    },
+    {
+        "question": "To which genre does 'The Abbey of Thélème' in Rabelais' work belong?",
+        "answer": "Satirical novel"
     },
     {
         "question": "To whom did Jane Austen dedicate her novel 'Emma'?",
@@ -31016,6 +31024,10 @@
         "answer": "vanitas"
     },
     {
+        "question": "What award did the novel 'Raging Fires' receive in 2020?",
+        "answer": "Purple Whirlwind"
+    },
+    {
         "question": "What award did the novel 'Stone Heart' receive?",
         "answer": "Blue Rose"
     },
@@ -31034,6 +31046,10 @@
     {
         "question": "What does the white whale symbolize in the novel 'Moby Dick'?",
         "answer": "Evil"
+    },
+    {
+        "question": "What emotion was often exploited in Baroque literature?",
+        "answer": "Melancholy"
     },
     {
         "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
@@ -31058,6 +31074,10 @@
     {
         "question": "What is the central theme in Horace's 'The Art of Poetry'?",
         "answer": "The art of poetry"
+    },
+    {
+        "question": "What is the genre of Rabelais' work 'Gargantua and Pantagruel'?",
+        "answer": "Satire"
     },
     {
         "question": "What is the genre of ancient texts that describes different spheres of life through allegories called?",
@@ -31118,6 +31138,14 @@
     {
         "question": "What is the name of the German novel about the exploits and adventures of the knight Iwein?",
         "answer": "Iwein, or The Knight with the Lion"
+    },
+    {
+        "question": "What is the name of the Italian epic about the wars of Charlemagne?",
+        "answer": "The Song of Roland"
+    },
+    {
+        "question": "What is the name of the Italian poem about Charlemagne's military campaign against the Moors?",
+        "answer": "'Chronicle of Pesaro'"
     },
     {
         "question": "What is the name of the Japanese folklore collection of stories contained in the epic poetry created by a monk in the 12th century?",
@@ -31392,6 +31420,10 @@
         "answer": "Tragic"
     },
     {
+        "question": "What was the main idea of François Rabelais' work 'Gargantua and Pantagruel'?",
+        "answer": "Satire and humor"
+    },
+    {
         "question": "What was the name of Goethe's first great work?",
         "answer": "Faust"
     },
@@ -31502,6 +31534,10 @@
     {
         "question": "Which Italian writer wrote the treatise 'On the Education of a Christian Princess'?",
         "answer": "Baldassare Castiglione"
+    },
+    {
+        "question": "Which Latin work is dedicated to the life of Romans in Etruria?",
+        "answer": "Saturnalia"
     },
     {
         "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
@@ -31764,6 +31800,10 @@
         "answer": "Sappho"
     },
     {
+        "question": "Which humanist wrote under the pseudonym 'Prokopius of Setia'?",
+        "answer": "Francesco Patrizi"
+    },
+    {
         "question": "Which humanist wrote under the pseudonym 'Secundus Severus'?",
         "answer": "Ulrich von Hutten"
     },
@@ -31828,8 +31868,16 @@
         "answer": "The Gray House"
     },
     {
+        "question": "Which novel by Nicolas Mathieu won the Goncourt Prize in 2018?",
+        "answer": "Leurs enfants après eux"
+    },
+    {
         "question": "Which novel by Saul Bellow, published in 1959, explores the metamorphosis and self-identity of the main character Henderson?",
         "answer": "Henderson the Rain King"
+    },
+    {
+        "question": "Which novel by William Carlos Williams is dedicated to exploring American life and human destiny in Paterson?",
+        "answer": "Paterson"
     },
     {
         "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
@@ -31894,6 +31942,10 @@
     {
         "question": "Which novel was recognized as an Amazon Kindle bestseller in 2021?",
         "answer": "The Last Thing He Told Me"
+    },
+    {
+        "question": "Which novel was written by Rudyard Kipling?",
+        "answer": "The Jungle Book"
     },
     {
         "question": "Which novel won the 'Asper' award in 2018?",
@@ -32076,6 +32128,10 @@
         "answer": "Vanitas"
     },
     {
+        "question": "Which tragedy by Calderón combines elements of philosophy and religion?",
+        "answer": "Life is a Dream"
+    },
+    {
         "question": "Which tragedy by Torquato Tasso is considered a model of Italian Renaissance tragedy?",
         "answer": "Aminta"
     },
@@ -32140,6 +32196,10 @@
         "answer": "The Life of Merlin"
     },
     {
+        "question": "Which work by Henry James explores social boundaries and moral dilemmas?",
+        "answer": "The Portrait of a Lady"
+    },
+    {
         "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
         "answer": "The Turn of the Screw"
     },
@@ -32172,6 +32232,10 @@
         "answer": "Diana"
     },
     {
+        "question": "Which work by Lamartine is based on the historical events of Greece?",
+        "answer": "The Fall of Missolonghi"
+    },
+    {
         "question": "Which work by Leibniz develops the concept of monads?",
         "answer": "Monadology"
     },
@@ -32186,6 +32250,14 @@
     {
         "question": "Which work by Luis Vives was popular in Spain?",
         "answer": "The Fair of Saint Ottonel"
+    },
+    {
+        "question": "Which work by Marilynne Robinson explores the theme of religion through a dying preacher's letter to his son?",
+        "answer": "Gilead"
+    },
+    {
+        "question": "Which work by Menander marked the beginning of New Attic Comedy?",
+        "answer": "Dyskolos"
     },
     {
         "question": "Which work by Niccolò Machiavelli demonstrates elements of Renaissance drama?",
@@ -32244,6 +32316,14 @@
         "answer": "History of the Kings of Britain"
     },
     {
+        "question": "Which work did George Sand use to demonstrate her progressive views?",
+        "answer": "Consuelo"
+    },
+    {
+        "question": "Which work embodies American working culture through the metaphor of a naturalist man?",
+        "answer": "John Henry"
+    },
+    {
         "question": "Which work explores the issue of government control over personal freedom?",
         "answer": "1984"
     },
@@ -32262,6 +32342,10 @@
     {
         "question": "Which work in Latin discusses philosophical questions in the form of dialogues?",
         "answer": "De sapientia"
+    },
+    {
+        "question": "Which work in epistolary form describes the drama of a solitary life in New England and an existential crisis?",
+        "answer": "Letters to Melancholy"
     },
     {
         "question": "Which work in the form of letters delves into various aspects of love and passion of mythical heroes?",
@@ -32316,6 +32400,10 @@
         "answer": "Orlando Furioso"
     },
     {
+        "question": "Which work of English literature is a satire on utopian novels?",
+        "answer": "Gulliver's Travels"
+    },
+    {
         "question": "Which work of French literature explores the life of a nobleman?",
         "answer": "Memoirs of a Nobleman"
     },
@@ -32358,6 +32446,10 @@
     {
         "question": "Which writer formulated the aesthetic principles of classicism?",
         "answer": "Nicolas Boileau"
+    },
+    {
+        "question": "Which writer is distinguished by baroque effusions in Spanish prose?",
+        "answer": "Francisco de Quevedo"
     },
     {
         "question": "Who applied the methods of critical philosophy to religious beliefs?",
@@ -32408,8 +32500,16 @@
         "answer": "Walter Map"
     },
     {
+        "question": "Who is considered the author of the medieval chivalric romance 'The History of Troy'?",
+        "answer": "Benoît de Sainte-Maure"
+    },
+    {
         "question": "Who is considered the author of the poem 'Insomnia'?",
         "answer": "Georg Büchner"
+    },
+    {
+        "question": "Who is considered the founder of courtly poetry in Spain?",
+        "answer": "Juan Ruiz"
     },
     {
         "question": "Who is considered the founder of the courtly poetry genre?",
@@ -32484,6 +32584,10 @@
         "answer": "Susan Choi"
     },
     {
+        "question": "Who is the author of the novel that won the 'International Dublin Literary Award' in 2020?",
+        "answer": "John Wilson"
+    },
+    {
         "question": "Who is the author of the novel with elements of Greek romance and pastoral life, written during the Hellenistic period?",
         "answer": "Longus"
     },
@@ -32528,6 +32632,10 @@
         "answer": "Dorothea Brooke"
     },
     {
+        "question": "Who kills Alina in 'The Wheel of Time'?",
+        "answer": "Padan Fain"
+    },
+    {
         "question": "Who lived in the 12th century and wrote 'Roman de Renart'?",
         "answer": "Pierre de Saint-Cloud"
     },
@@ -32556,6 +32664,10 @@
         "answer": "Henry Austen"
     },
     {
+        "question": "Who wrote 'Alexandria' (a work about the life of Alexander the Great)?",
+        "answer": "Callisthenes"
+    },
+    {
         "question": "Who wrote 'Liber de coquina'?",
         "answer": "Pseudo-Apicius"
     },
@@ -32570,6 +32682,10 @@
     {
         "question": "Who wrote 'The Romance of the Fox'?",
         "answer": "Anonymous author"
+    },
+    {
+        "question": "Who wrote 'The Shield of Achilles' in epic poetry?",
+        "answer": "Homer"
     },
     {
         "question": "Who wrote 'The Twelve Idylls'?",
@@ -45810,6 +45926,10 @@
         "answer": "Florence"
     },
     {
+        "question": "In which field did James Watson work?",
+        "answer": "genetics"
+    },
+    {
         "question": "On which island was John the Theologian exiled?",
         "answer": "Patmos"
     },
@@ -46210,6 +46330,10 @@
         "answer": "Jawaharlal Nehru"
     },
     {
+        "question": "Who developed the Mendeleev table for cosmic objects?",
+        "answer": "Ananas Meral"
+    },
+    {
         "question": "Who developed the Theory of Relativity?",
         "answer": "Albert Einstein"
     },
@@ -46290,6 +46414,10 @@
         "answer": "Genghis Khan"
     },
     {
+        "question": "Who founded the Pentecostal movement?",
+        "answer": "Charles Parham"
+    },
+    {
         "question": "Who founded the abstract art style?",
         "answer": "Wassily Kandinsky"
     },
@@ -46314,6 +46442,10 @@
         "answer": "Sergio Mattarella"
     },
     {
+        "question": "Who held the world record for men's pole vault?",
+        "answer": "Sergey Bubka"
+    },
+    {
         "question": "Who initiated the reforms in Japan during the Meiji period?",
         "answer": "Emperor Meiji"
     },
@@ -46332,6 +46464,10 @@
     {
         "question": "Who is considered the founder of Symbolism?",
         "answer": "Charles Baudelaire"
+    },
+    {
+        "question": "Who is considered the king of avant-garde fashion?",
+        "answer": "Alexander McQueen"
     },
     {
         "question": "Who is considered the main reformer of Christianity?",
@@ -46426,6 +46562,10 @@
         "answer": "Johann Sebastian Bach"
     },
     {
+        "question": "Who is the director of the film 'The Hateful Eight'?",
+        "answer": "Quentin Tarantino"
+    },
+    {
         "question": "Who is the director of the movie 'Fight Club'?",
         "answer": "David Fincher"
     },
@@ -46498,6 +46638,14 @@
         "answer": "Jackson Pollock"
     },
     {
+        "question": "Who painted 'The Grape Harvesters'?",
+        "answer": "Pissarro"
+    },
+    {
+        "question": "Who painted 'The Wounded Angel'?",
+        "answer": "Hugo Simberg"
+    },
+    {
         "question": "Who played the lead role in the movie '2001: A Space Odyssey'?",
         "answer": "Keir Dullea"
     },
@@ -46532,6 +46680,10 @@
     {
         "question": "Who proposed the uncertainty principle?",
         "answer": "Werner Heisenberg"
+    },
+    {
+        "question": "Who ratified the United States Constitution in 1787?",
+        "answer": "George Washington"
     },
     {
         "question": "Who said 'Eli, Eli, Lama Sabachthani'?",
@@ -46828,6 +46980,10 @@
     {
         "question": "Who wrote the series 'Salon Scenes'?",
         "answer": "Adolph Menzel"
+    },
+    {
+        "question": "Who wrote the treatise 'Confessions'?",
+        "answer": "Augustine of Hippo"
     },
     {
         "question": "Who wrote the treatise 'The Way to Poverty'?",
@@ -52831,6 +52987,10 @@
         "answer": "1618"
     },
     {
+        "question": "In what year was 'Channel One' launched in Russia?",
+        "answer": "1995"
+    },
+    {
         "question": "In what year was the Magna Carta signed?",
         "answer": "Monetary policy"
     },
@@ -52843,6 +53003,10 @@
         "answer": "1837"
     },
     {
+        "question": "In which country did the 'Green Beard' movement start?",
+        "answer": "USA"
+    },
+    {
         "question": "In which country is Yom Kippur a public holiday?",
         "answer": "Israel"
     },
@@ -52853,6 +53017,10 @@
     {
         "question": "In which direction is globalization developing?",
         "answer": "Integration"
+    },
+    {
+        "question": "In which religion is a monolith used?",
+        "answer": "Shamanism"
     },
     {
         "question": "Name a genetic blood disorder.",
@@ -52895,6 +53063,10 @@
         "answer": "Horizontal and vertical"
     },
     {
+        "question": "What can be an object of international law?",
+        "answer": "States"
+    },
+    {
         "question": "What concept describes equal opportunities for everyone?",
         "answer": "Inclusion"
     },
@@ -52925,6 +53097,10 @@
     {
         "question": "What does 'value' represent?",
         "answer": "Worth"
+    },
+    {
+        "question": "What does RSS stand for?",
+        "answer": "Really Simple Syndication"
     },
     {
         "question": "What does a pulse oximeter do?",
@@ -52975,6 +53151,10 @@
         "answer": "interpretation of texts"
     },
     {
+        "question": "What does international law regulate?",
+        "answer": "relations between states"
+    },
+    {
         "question": "What does phenomenology study?",
         "answer": "Phenomena"
     },
@@ -53007,12 +53187,24 @@
         "answer": "creation of a code"
     },
     {
+        "question": "What does the term 'diuresis' mean?",
+        "answer": "Urine excretion"
+    },
+    {
         "question": "What does the term 'ontology' mean?",
         "answer": "The study of being"
     },
     {
         "question": "What does the term 'recession' mean?",
         "answer": "Economic downturn"
+    },
+    {
+        "question": "What does the term 'totalitarianism' mean?",
+        "answer": "Complete control"
+    },
+    {
+        "question": "What drives a market economy?",
+        "answer": "Competition"
     },
     {
         "question": "What economic process supports globalization?",
@@ -53051,12 +53243,20 @@
         "answer": "Mandatory rule"
     },
     {
+        "question": "What is a legal system?",
+        "answer": "System of norms"
+    },
+    {
         "question": "What is a priority area in the economy?",
         "answer": "Key development area"
     },
     {
         "question": "What is a teletype in the media business?",
         "answer": "A text transmission device"
+    },
+    {
+        "question": "What is a theocracy?",
+        "answer": "Rule of religion"
     },
     {
         "question": "What is an 'aporia'?",
@@ -53067,8 +53267,20 @@
         "answer": "Architecture"
     },
     {
+        "question": "What is an object of civil law?",
+        "answer": "Property"
+    },
+    {
         "question": "What is an object of cultural rights?",
         "answer": "Heritage"
+    },
+    {
+        "question": "What is anthropogenesis?",
+        "answer": "Human evolution"
+    },
+    {
+        "question": "What is cancer?",
+        "answer": "Tumor"
     },
     {
         "question": "What is cultural relativism?",
@@ -53093,6 +53305,10 @@
     {
         "question": "What is reaction formation?",
         "answer": "Opposite expression"
+    },
+    {
+        "question": "What is social anthropology?",
+        "answer": "The study of societies"
     },
     {
         "question": "What is sociometry?",
@@ -53129,6 +53345,14 @@
     {
         "question": "What is the form of government with local self-government called?",
         "answer": "Federation"
+    },
+    {
+        "question": "What is the fundamental principle in law?",
+        "answer": "Legality"
+    },
+    {
+        "question": "What is the goal of liberal movements?",
+        "answer": "Expansion of rights"
     },
     {
         "question": "What is the group of people called that considers a case in court?",
@@ -53191,6 +53415,14 @@
         "answer": "Novum Organum"
     },
     {
+        "question": "What is the official recognition of achievements in the field of education called?",
+        "answer": "Accreditation"
+    },
+    {
+        "question": "What is the oldest educational institution in the world?",
+        "answer": "University of Al Quaraouiyine"
+    },
+    {
         "question": "What is the philosophy called that emphasizes the importance of consequences?",
         "answer": "Consequentialism"
     },
@@ -53209,6 +53441,10 @@
     {
         "question": "What is the process of a person's adaptation to changing conditions called?",
         "answer": "Adaptation"
+    },
+    {
+        "question": "What is the process of data transfer called?",
+        "answer": "Synchronization"
     },
     {
         "question": "What is the process of eliminating harmful substances called?",
@@ -53251,6 +53487,10 @@
         "answer": "Privacy"
     },
     {
+        "question": "What is the sacred plant in Hinduism?",
+        "answer": "Tulasi"
+    },
+    {
         "question": "What is the science of blood called?",
         "answer": "Hematology"
     },
@@ -53263,12 +53503,24 @@
         "answer": "Social theory"
     },
     {
+        "question": "What is the stress caused by a crisis called?",
+        "answer": "Crisis"
+    },
+    {
         "question": "What is the subject of a contract?",
         "answer": "Terms of the agreement"
     },
     {
+        "question": "What is the system called where the state actively participates in economic activities?",
+        "answer": "State capitalism"
+    },
+    {
         "question": "What is the technique of gesture control called?",
         "answer": "Gesture Control"
+    },
+    {
+        "question": "What is the term for a state of strong internal agitation?",
+        "answer": "Affection"
     },
     {
         "question": "What is the term for spiritual self-improvement in Taoism?",
@@ -53279,16 +53531,36 @@
         "answer": "Budget deficit"
     },
     {
+        "question": "What is the term for the lack of desire to have any gender identity?",
+        "answer": "Agender"
+    },
+    {
         "question": "What is the term for the transmission of cultural traditions from generation to generation?",
         "answer": "Socialization"
+    },
+    {
+        "question": "What is the theory based on moral duty called?",
+        "answer": "Deontology"
     },
     {
         "question": "What is the transition from mortal life to the afterlife called in Christianity?",
         "answer": "Dormition"
     },
     {
+        "question": "What is the type of thinking called that focuses on specific and precise details?",
+        "answer": "Convergent"
+    },
+    {
+        "question": "What is used to control drones?",
+        "answer": "Joystick"
+    },
+    {
         "question": "What is utilitarianism?",
         "answer": "ethics of utility"
+    },
+    {
+        "question": "What issue does social policy address?",
+        "answer": "Inequality"
     },
     {
         "question": "What laws govern relations at the international level?",
@@ -53305,6 +53577,10 @@
     {
         "question": "What movement opposes globalization?",
         "answer": "Anti-globalization"
+    },
+    {
+        "question": "What movement supports the refusal to harm nature?",
+        "answer": "Ethical consumption"
     },
     {
         "question": "What movement was the Petrograd Soviet?",
@@ -53333,6 +53609,10 @@
     {
         "question": "What protects children's rights?",
         "answer": "Convention"
+    },
+    {
+        "question": "What regulates the economy according to Keynesianism?",
+        "answer": "The government"
     },
     {
         "question": "What right allows participation in elections?",
@@ -53391,8 +53671,20 @@
         "answer": "Interculturation"
     },
     {
+        "question": "What term describes the union of independent states into an alliance?",
+        "answer": "Confederation"
+    },
+    {
+        "question": "What term describes the union of parties?",
+        "answer": "Coalition"
+    },
+    {
         "question": "What term is often used in the context of globalization?",
         "answer": "Glocalization"
+    },
+    {
+        "question": "What term refers to bias or discrimination against LGBT+ people?",
+        "answer": "Homophobia"
     },
     {
         "question": "What term refers to the systematic planning of the educational process?",
@@ -53411,8 +53703,16 @@
         "answer": "Research work"
     },
     {
+        "question": "What type of responsibility is provided for the violation of human rights?",
+        "answer": "Legal"
+    },
+    {
         "question": "What was the name of the ancient Indian empire?",
         "answer": "Maurya"
+    },
+    {
+        "question": "What was the name of the peaceful movement for India's independence?",
+        "answer": "Satyagraha"
     },
     {
         "question": "What was the war between England and France in the 14th century called?",
@@ -53463,12 +53763,24 @@
         "answer": "Article 12"
     },
     {
+        "question": "Which branch of psychology aims to understand and enhance human potential?",
+        "answer": "Humanistic psychology"
+    },
+    {
+        "question": "Which building is associated with Nebuchadnezzar II?",
+        "answer": "The Tower of Babel"
+    },
+    {
         "question": "Which church reformation began in the 16th century?",
         "answer": "Protestant"
     },
     {
         "question": "Which city is considered the financial center of the world?",
         "answer": "New York"
+    },
+    {
+        "question": "Which council convened in 1517?",
+        "answer": "Lateran"
     },
     {
         "question": "Which country is not a signatory of the European Convention on Human Rights?",
@@ -53491,6 +53803,10 @@
         "answer": "Plantagenets"
     },
     {
+        "question": "Which famous political scientist is the author of the term 'political culture'?",
+        "answer": "Gabriel Almond"
+    },
+    {
         "question": "Which feminist text criticized female passivity?",
         "answer": "The Women's Gospel"
     },
@@ -53499,12 +53815,20 @@
         "answer": "Silvia Federici"
     },
     {
+        "question": "Which governance is better suited for a globalized world?",
+        "answer": "Multilevel governance"
+    },
+    {
         "question": "Which industries dominate the world?",
         "answer": "technological"
     },
     {
         "question": "Which law regulates social security in Russia?",
         "answer": "Federal Law No. 255-FZ"
+    },
+    {
+        "question": "Which magazine is the oldest?",
+        "answer": "Nature"
     },
     {
         "question": "Which media format does not exist?",
@@ -53527,8 +53851,20 @@
         "answer": "Sartre"
     },
     {
+        "question": "Which philosopher linked religion with morality?",
+        "answer": "Immanuel Kant"
+    },
+    {
         "question": "Which philosophical direction claims that the world is completely knowable?",
         "answer": "Rationalism"
+    },
+    {
+        "question": "Which philosophical system emphasizes virtue?",
+        "answer": "Virtue Ethics"
+    },
+    {
+        "question": "Which policy is associated with changing the reserve requirement?",
+        "answer": "Monetary policy"
     },
     {
         "question": "Which principle respects cultural diversity and intercultural dialogue?",
@@ -53603,6 +53939,10 @@
         "answer": "Any citizen"
     },
     {
+        "question": "Who can initiate a criminal prosecution?",
+        "answer": "prosecutor"
+    },
+    {
         "question": "Who conducted the famous survey in Chicago?",
         "answer": "E. W. Burgess"
     },
@@ -53635,6 +53975,10 @@
         "answer": "John Rawls"
     },
     {
+        "question": "Who first introduced the term 'inferiority complex'?",
+        "answer": "Adler"
+    },
+    {
         "question": "Who founded Stoicism?",
         "answer": "Zeno"
     },
@@ -53653,6 +53997,10 @@
     {
         "question": "Who introduced the concept of 'globalization' in cultural studies?",
         "answer": "Roland Robertson"
+    },
+    {
+        "question": "Who introduced the concept of 'social distance'?",
+        "answer": "Bogardus"
     },
     {
         "question": "Who introduced the term 'Postmodern'?",
@@ -53691,12 +54039,20 @@
         "answer": "Talcott Parsons"
     },
     {
+        "question": "Who is known for their work in ethnography and led the Cambridge Museum?",
+        "answer": "A. Astle"
+    },
+    {
         "question": "Who is known for their work in queer theory?",
         "answer": "Judith Butler"
     },
     {
         "question": "Who is one of the principal deities in Hinduism?",
         "answer": "Brahma"
+    },
+    {
+        "question": "Who is the author of 'The Philosophy of Life'?",
+        "answer": "Schopenhauer"
     },
     {
         "question": "Who is the author of 'Utilitarianism'?",
@@ -53735,6 +54091,10 @@
         "answer": "Herbert Blumer"
     },
     {
+        "question": "Who is the theorist of the concept of the rule of law?",
+        "answer": "Immanuel Kant"
+    },
+    {
         "question": "Who issues rulings?",
         "answer": "The court"
     },
@@ -53753,6 +54113,10 @@
     {
         "question": "Who said: 'Man is the measure of all things'?",
         "answer": "Protagoras"
+    },
+    {
+        "question": "Who spoke of the 'invisible hand' in the context of moral philosophy?",
+        "answer": "Adam Smith"
     },
     {
         "question": "Who studied the influence of culture on personality?",
@@ -53785,6 +54149,10 @@
     {
         "question": "Who wrote 'The Second Sex'?",
         "answer": "Simone de Beauvoir"
+    },
+    {
+        "question": "Who wrote 'The Symbol of Faith'?",
+        "answer": "Plato"
     },
     {
         "question": "Who wrote the 'Declaration of the Rights of Man and of the Citizen'?",
