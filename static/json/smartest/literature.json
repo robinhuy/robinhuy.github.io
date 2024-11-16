@@ -32,6 +32,10 @@
     "answer": "Beloved"
   },
   {
+    "question": "In which work by Euripides is the story of a mother's revenge for the death of her children told?",
+    "answer": "Medea"
+  },
+  {
     "question": "In which work by John Donne is Baroque metaphor particularly prominent?",
     "answer": "An Anatomy of the World"
   },
@@ -78,6 +82,10 @@
   {
     "question": "What Italian term describes Baroque intricacies?",
     "answer": "Curvature"
+  },
+  {
+    "question": "What Latin term is used to denote the idea of transience in Baroque art?",
+    "answer": "Vanitas"
   },
   {
     "question": "What aesthetic principle was important for Baroque literature?",
@@ -140,6 +148,10 @@
     "answer": "Melancholy"
   },
   {
+    "question": "What entity awakens in the dungeons of Heartland in the book 'Wars of Light and Darkness'?",
+    "answer": "Ancient Cthulhu"
+  },
+  {
     "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
     "answer": "Forest Spirit"
   },
@@ -180,6 +192,10 @@
     "answer": "Invisible Man"
   },
   {
+    "question": "What is the name of Fanny Price's younger brother in the novel 'Mansfield Park'?",
+    "answer": "William"
+  },
+  {
     "question": "What is the name of Guy de Maupassant's novel about the double life of journalist Duroc?",
     "answer": "Our Heart"
   },
@@ -214,6 +230,14 @@
   {
     "question": "What is the name of Robert de Boron's work about the Round Table?",
     "answer": "'Vulgate'"
+  },
+  {
+    "question": "What is the name of Torquato Tasso's poem about Sir Richard the Lionheart?",
+    "answer": "Jerusalem Delivered"
+  },
+  {
+    "question": "What is the name of the Bennet family's main residence in Jane Austen's novel?",
+    "answer": "Longbourn"
   },
   {
     "question": "What is the name of the British collection of stories from the Middle Ages?",
@@ -256,6 +280,10 @@
     "answer": "Epinikion"
   },
   {
+    "question": "What is the name of the book by Anthony Horowitz that won the 'Crime Novel of the Year' award in 2017?",
+    "answer": "The Word is Murder"
+  },
+  {
     "question": "What is the name of the book that describes the adventures of the Meistersingers?",
     "answer": "Meistersingers"
   },
@@ -274,6 +302,18 @@
   {
     "question": "What is the name of the collection 'Raimund de Peñafort'?",
     "answer": "Speculum"
+  },
+  {
+    "question": "What is the name of the collection of aphorisms by Benedetto Varchi?",
+    "answer": "Dialogues"
+  },
+  {
+    "question": "What is the name of the collection of legends written by Gérard de Nerval?",
+    "answer": "'Daughters of Fire'"
+  },
+  {
+    "question": "What is the name of the collection of medieval European poetry that inspired Orff to create 'Carmina Burana'?",
+    "answer": "Carmina Burana"
   },
   {
     "question": "What is the name of the collection of mystical plays popular in medieval England?",
@@ -318,6 +358,14 @@
   {
     "question": "What is the name of the magical fortress that protects the Northern Boundary in the Legends of the Western Kingdom?",
     "answer": "Ancient Shield"
+  },
+  {
+    "question": "What is the name of the main battle artifact in 'The Saga of the Spear of Time'?",
+    "answer": "Spear of Destiny"
+  },
+  {
+    "question": "What is the name of the master of illusions who took over the city of shadows?",
+    "answer": "Birnar"
   },
   {
     "question": "What is the name of the medieval poem about love and redemption?",
@@ -418,6 +466,10 @@
   {
     "question": "What material are the scrolls in 'The Wheel of Time' written on?",
     "answer": "Parchment"
+  },
+  {
+    "question": "What new literary forms did Michel de Montaigne introduce in his works?",
+    "answer": "essays"
   },
   {
     "question": "What new structure did Samuel Richardson introduce to English literature?",
@@ -540,6 +592,10 @@
     "answer": "The Romane Historie"
   },
   {
+    "question": "What work did Cervantes write after 'Don Quixote'?",
+    "answer": "The Journey to Parnassus"
+  },
+  {
     "question": "What work did Pindar write about the winners of the Olympic Games?",
     "answer": "Epinikia"
   },
@@ -550,6 +606,10 @@
   {
     "question": "Which 12th-century poet is considered a pioneer of courtly poetry?",
     "answer": "Chrétien de Troyes"
+  },
+  {
+    "question": "Which 12th-century poet is known as the author of allegorical works?",
+    "answer": "Alan of Lille"
   },
   {
     "question": "Which 13th-century French novel is considered the first great Renaissance novel?",
@@ -636,6 +696,10 @@
     "answer": "Leon Battista Alberti"
   },
   {
+    "question": "Which Shakespeare character said the words 'Sometimes constancy, sometimes jealousy'?",
+    "answer": "Benedick"
+  },
+  {
     "question": "Which Shakespeare play begins with the capture of Lord Bardolph?",
     "answer": "Henry IV, Part 2"
   },
@@ -654,6 +718,10 @@
   {
     "question": "Which Shakespeare play includes the theme of a naval battle and betrayal?",
     "answer": "Antony and Cleopatra"
+  },
+  {
+    "question": "Which Shakespearean tragedy is dedicated to an English king?",
+    "answer": "Richard III"
   },
   {
     "question": "Which Stephen King book won the British Fantasy Award in 2013?",
@@ -750,6 +818,10 @@
   {
     "question": "Which book did Geoffroi de Villehardouin write about the Fourth Crusade?",
     "answer": "The Conquest of Constantinople"
+  },
+  {
+    "question": "Which book was a finalist for the 'National Bestseller' award in 2012?",
+    "answer": "Live and Remember"
   },
   {
     "question": "Which book was awarded the 'Neustadt International Prize for Literature' in 2020?",
@@ -972,6 +1044,10 @@
     "answer": "The Rise of Silas Lapham"
   },
   {
+    "question": "Which novel by William Faulkner was written in the form of newspaper installments between 1929 and 1930?",
+    "answer": "Sanctuary"
+  },
+  {
     "question": "Which novel by William Thackeray was published in 1847?",
     "answer": "Vanity Fair"
   },
@@ -1088,6 +1164,10 @@
     "answer": "Wolf Hall"
   },
   {
+    "question": "Which novel won the main prize at the Leipzig Book Fair in 2015?",
+    "answer": "Foreign Secrets"
+  },
+  {
     "question": "Which of Shakespeare's plays is set in Venice and includes the characters Brabanzio and Gratiano?",
     "answer": "Othello"
   },
@@ -1134,6 +1214,10 @@
   {
     "question": "Which play includes a scene with witches and trap rocks?",
     "answer": "Macbeth"
+  },
+  {
+    "question": "Which play was written by Francesco Guarini?",
+    "answer": "Fiammetta"
   },
   {
     "question": "Which play won the Pulitzer Prize for Drama in 2018?",
@@ -1184,6 +1268,14 @@
     "answer": "John Lydgate"
   },
   {
+    "question": "Which poet used baroque forms in their elegies?",
+    "answer": "Martin Opitz"
+  },
+  {
+    "question": "Which poet was known as 'the first sonneteer of France'?",
+    "answer": "Malherbe"
+  },
+  {
     "question": "Which poet wrote 'An Essay on Criticism'?",
     "answer": "Alexander Pope"
   },
@@ -1192,12 +1284,20 @@
     "answer": "Walther von der Vogelweide"
   },
   {
+    "question": "Which poet wrote the epic poem about El Cid Campeador?",
+    "answer": "Anonymous"
+  },
+  {
     "question": "Which powerful order protects the Dragon Forest in 'Saga of the Ancient Worlds'?",
     "answer": "Order of Fire"
   },
   {
     "question": "Which principle of the Enlightenment era underlies utopian works?",
     "answer": "rationality"
+  },
+  {
+    "question": "Which romantic was inspired by the Baroque?",
+    "answer": "Calderon"
   },
   {
     "question": "Which series was awarded the Peabody Award in 2019?",
@@ -1356,6 +1456,10 @@
     "answer": "Oration on the Dignity of Man"
   },
   {
+    "question": "Which work by Plautus is one of the earliest comedies?",
+    "answer": "Amphitryon"
+  },
+  {
     "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
     "answer": "Self-Reliance"
   },
@@ -1390,6 +1494,10 @@
   {
     "question": "Which work combines elements of magical realism and explores themes of memory and identity?",
     "answer": "The House on the Hill"
+  },
+  {
+    "question": "Which work criticized the concept of natural law?",
+    "answer": "The Social Contract"
   },
   {
     "question": "Which work declared a fight against moralism and religious intolerance?",
@@ -1456,6 +1564,10 @@
     "answer": "Phantasmagoria"
   },
   {
+    "question": "Which work is an example of a Baroque philosophical drama?",
+    "answer": "Life is a Dream"
+  },
+  {
     "question": "Which work is considered foundational for the theory of knowledge?",
     "answer": "Critique of Pure Reason"
   },
@@ -1512,6 +1624,10 @@
     "answer": "Medea"
   },
   {
+    "question": "Which work was created by a 13th-century poet in Old Icelandic?",
+    "answer": "Ormsstinga saga"
+  },
+  {
     "question": "Which work was translated into Latin as 'Historia Calamitatum'?",
     "answer": "The Story of My Misfortunes"
   },
@@ -1540,6 +1656,10 @@
     "answer": "Francisco de Quevedo"
   },
   {
+    "question": "Which writer is known for his baroque-style sonnets?",
+    "answer": "John Donne"
+  },
+  {
     "question": "Who applied the methods of critical philosophy to religious beliefs?",
     "answer": "David Hume"
   },
@@ -1550,6 +1670,10 @@
   {
     "question": "Who created the Floating Castle spell on the Ancient Island?",
     "answer": "Gendalfus"
+  },
+  {
+    "question": "Who destroyed the Last Memorial in 'The Secret City'?",
+    "answer": "Inquisitor"
   },
   {
     "question": "Who developed the philosophy of law based on utilitarianism?",
@@ -1728,6 +1852,10 @@
     "answer": "Pierre de Saint-Cloud"
   },
   {
+    "question": "Who published 'Ulysses' in 1922?",
+    "answer": "Shakespeare and Company"
+  },
+  {
     "question": "Who received the Prague Literary Prize in 2018?",
     "answer": "Milan Kundera"
   },
@@ -1804,12 +1932,20 @@
     "answer": "Camilla Grebe"
   },
   {
+    "question": "Who wrote the novel that won the 'Cato' award in 2019?",
+    "answer": "Maggie Nelson"
+  },
+  {
     "question": "Who wrote the novel that won the 'Golden Eagle' award in 2014?",
     "answer": "Anne Tyler"
   },
   {
     "question": "Who wrote the novel that won the Baileys Women's Prize for Fiction in 2016?",
     "answer": "Lisa McInerney"
+  },
+  {
+    "question": "Who wrote the poem 'Pearl'?",
+    "answer": "Unknown"
   },
   {
     "question": "Who wrote the poem 'Satires'?",

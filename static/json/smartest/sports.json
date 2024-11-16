@@ -288,6 +288,10 @@
     "answer": "1948"
   },
   {
+    "question": "In what year was the International Paralympic Committee officially recognized by the IOC?",
+    "answer": "1989"
+  },
+  {
     "question": "In what year was the Volleyball Federation of Russia founded?",
     "answer": "1991"
   },
@@ -330,6 +334,10 @@
   {
     "question": "In which city was the first official golf match held?",
     "answer": "Edinburgh"
+  },
+  {
+    "question": "In which country is pétanque a popular sport?",
+    "answer": "France"
   },
   {
     "question": "In which country is the longest endurance rally race held?",
@@ -546,6 +554,10 @@
   {
     "question": "What aspect of psychology is an important element in preparing for track and field competitions?",
     "answer": "Mental resilience"
+  },
+  {
+    "question": "What aspect of psychology is important for competition preparation?",
+    "answer": "Motivation"
   },
   {
     "question": "What aspect of ski equipment is most important for professional athletes in competitions?",
@@ -836,6 +848,10 @@
     "answer": "Improves"
   },
   {
+    "question": "What effect does salt in water have on a swimmer's resistance?",
+    "answer": "Decreases resistance"
+  },
+  {
     "question": "What effect does specialized equipment have on a swimmer's performance?",
     "answer": "Reduces drag"
   },
@@ -894,6 +910,10 @@
   {
     "question": "What element of preparation is important for playing against a left-handed person?",
     "answer": "Sparring"
+  },
+  {
+    "question": "What element of preparation is most important for overcoming steep slopes?",
+    "answer": "Strength endurance"
   },
   {
     "question": "What element of strategy is critical for successfully completing a 5000-meter run?",
@@ -1028,6 +1048,10 @@
     "answer": "Camber"
   },
   {
+    "question": "What factor determines the choice of starting technique in sprint races?",
+    "answer": "Reaction"
+  },
+  {
     "question": "What factor determines the difficulty level of a show jumping course?",
     "answer": "Height of the obstacles"
   },
@@ -1074,6 +1098,10 @@
   {
     "question": "What factor is critical for determining the appropriate sail size in windsurfing?",
     "answer": "Wind strength"
+  },
+  {
+    "question": "What factor is critical for endurance training for a marathon?",
+    "answer": "Aerobic exercise"
   },
   {
     "question": "What factor is critical for load distribution in the jerk?",
@@ -1136,6 +1164,10 @@
     "answer": "Synchronization"
   },
   {
+    "question": "What factor is most critical for preventing injuries in pole vaulting?",
+    "answer": "Flexibility of the pole"
+  },
+  {
     "question": "What factor is most critical for preventing injuries when performing a snatch?",
     "answer": "Back position"
   },
@@ -1152,6 +1184,10 @@
     "answer": "Speed of movement"
   },
   {
+    "question": "What factor is most critical when choosing a tennis racket?",
+    "answer": "Balance"
+  },
+  {
     "question": "What factor is most important for a snowboarder when jumping?",
     "answer": "Amplitude"
   },
@@ -1162,6 +1198,10 @@
   {
     "question": "What factor is most important for successful participation in extreme cycling races?",
     "answer": "Endurance"
+  },
+  {
+    "question": "What factor is most important for successfully performing snowboard jumps?",
+    "answer": "Jumping technique"
   },
   {
     "question": "What factor is most important for survival in extreme diving?",
@@ -1696,8 +1736,16 @@
     "answer": "Cutback"
   },
   {
+    "question": "What is the maximum duration of an attempt in weightlifting?",
+    "answer": "One minute"
+  },
+  {
     "question": "What is the maximum number of feet a surfboard can have?",
     "answer": "Ten"
+  },
+  {
+    "question": "What is the maximum number of obstacles in show jumping?",
+    "answer": "15"
   },
   {
     "question": "What is the maximum number of participants in a mass start?",
@@ -1706,6 +1754,10 @@
   {
     "question": "What is the method called where two knights work together to create consecutive threats?",
     "answer": "Knight Cooperation"
+  },
+  {
+    "question": "What is the minimum distance from the grid to the antenna installation site?",
+    "answer": "1 meter"
   },
   {
     "question": "What is the minimum number of countries required to hold the Paralympic Games?",
@@ -1870,6 +1922,10 @@
   {
     "question": "What is the name of the host city of the first Winter Olympic Games?",
     "answer": "Chamonix"
+  },
+  {
+    "question": "What is the name of the knee injury in volleyball?",
+    "answer": "Jumper's knee"
   },
   {
     "question": "What is the name of the leg grab in MMA?",
@@ -2108,6 +2164,10 @@
     "answer": "Maximum efficiency"
   },
   {
+    "question": "What is the situation called when a pawn reaches the eighth rank and becomes a queen?",
+    "answer": "Queen promotion"
+  },
+  {
     "question": "What is the situation called when a pawn reaches the eighth rank and is transformed into another piece?",
     "answer": "Promotion"
   },
@@ -2120,8 +2180,16 @@
     "answer": "Grind"
   },
   {
+    "question": "What is the special hit called when the ball is struck with the palm?",
+    "answer": "Smash"
+  },
+  {
     "question": "What is the special training called to improve a horse's concentration before competitions?",
     "answer": "Focusing"
+  },
+  {
+    "question": "What is the standard angle for snowboard bindings?",
+    "answer": "15 degrees"
   },
   {
     "question": "What is the standard height of a tennis net?",
@@ -2324,6 +2392,10 @@
     "answer": "Optimization of training"
   },
   {
+    "question": "What logo symbolizes equality at the Paralympic Games?",
+    "answer": "Three Agitos"
+  },
+  {
     "question": "What maneuver does a surfer perform for a quick descent from a wave?",
     "answer": "Take-Off"
   },
@@ -2464,6 +2536,10 @@
     "answer": "Strength and mass"
   },
   {
+    "question": "What physical quality is most important for successfully performing a triple jump?",
+    "answer": "Explosive power"
+  },
+  {
     "question": "What physiological change occurs in a swimmer's body during prolonged exposure to cold water?",
     "answer": "Vasoconstriction"
   },
@@ -2486,6 +2562,10 @@
   {
     "question": "What physiological process is important for muscle growth?",
     "answer": "Hypertrophy"
+  },
+  {
+    "question": "What physiological quality is critical for sprinters?",
+    "answer": "Anaerobic endurance"
   },
   {
     "question": "What piece of equipment is critical for quick maneuvering on steep slopes?",
@@ -2602,6 +2682,10 @@
   {
     "question": "What quality is especially valued in horses in eventing competitions for their resilience and ability to handle changing conditions?",
     "answer": "Perseverance"
+  },
+  {
+    "question": "What quality needs to be developed in a horse for successful eventing competitions?",
+    "answer": "Endurance"
   },
   {
     "question": "What quality of a figure skater is especially important for successfully performing complex spins?",
@@ -3040,6 +3124,10 @@
     "answer": "Streamlining the body"
   },
   {
+    "question": "What technique allows a windsurfer to move against the wind?",
+    "answer": "Tack"
+  },
+  {
     "question": "What technique allows athletes to safely maneuver while kayaking in whitewater?",
     "answer": "Eskimo roll"
   },
@@ -3236,6 +3324,10 @@
     "answer": "Dressage"
   },
   {
+    "question": "What term refers to the restart of the game after the ball goes out of bounds?",
+    "answer": "Throw-in"
+  },
+  {
     "question": "What theoretical principle states that a rook should be placed behind a passed pawn?",
     "answer": "Tartakower's Rule"
   },
@@ -3350,6 +3442,10 @@
   {
     "question": "What type of snow can significantly slow down a biathlete?",
     "answer": "Wet"
+  },
+  {
+    "question": "What type of snowboard is optimal for mastering powder slopes?",
+    "answer": "Powder"
   },
   {
     "question": "What type of sport involves riding on mountain trails with a full-suspension bike?",
@@ -3680,6 +3776,10 @@
     "answer": "Breath stability"
   },
   {
+    "question": "Which athlete did Manny Pacquiao fight 5 times?",
+    "answer": "Juan Manuel Marquez"
+  },
+  {
     "question": "Which athlete dominated the Biathlon World Cup from 1998 to 2002?",
     "answer": "Raphaël Poirée"
   },
@@ -3734,6 +3834,10 @@
   {
     "question": "Which athlete won the longest match in tennis?",
     "answer": "John Isner"
+  },
+  {
+    "question": "Which athlete won the marathon at the 2012 Olympic Games?",
+    "answer": "Stephen Kiprotich"
   },
   {
     "question": "Which barbell lifting method is most effective for achieving maximum height?",
@@ -3908,6 +4012,14 @@
     "answer": "Audi"
   },
   {
+    "question": "Which car manufacturer was the first to use an energy recovery system in endurance racing?",
+    "answer": "Toyota"
+  },
+  {
+    "question": "Which car manufacturer was the first to use carbon brakes in Formula 1?",
+    "answer": "Brabham"
+  },
+  {
     "question": "Which car manufacturer was the first to use ceramic brakes in Formula 1?",
     "answer": "Porsche"
   },
@@ -3978,6 +4090,10 @@
   {
     "question": "Which chess player is considered the greatest opening theoretician of the 20th century?",
     "answer": "Aaron Nimzowitsch"
+  },
+  {
+    "question": "Which chess player is known for the defense against 1.d4?",
+    "answer": "Nimzowitsch"
   },
   {
     "question": "Which chess player was the first to reach an Elo rating of 2800?",
@@ -4168,6 +4284,10 @@
     "answer": "Qatar"
   },
   {
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "answer": "Qatar"
+  },
+  {
     "question": "Which country hosted the first European Football Championship?",
     "answer": "France"
   },
@@ -4286,6 +4406,10 @@
   {
     "question": "Which cyclist was the first to complete all stages of the Vuelta a España without dropping out?",
     "answer": "Alex Thomas"
+  },
+  {
+    "question": "Which cyclist was the first to cover 1000 km in 24 hours?",
+    "answer": "Marcel Pichon"
   },
   {
     "question": "Which cyclist was the first to cover 1000 km in a cycling race?",
@@ -4494,6 +4618,10 @@
   {
     "question": "Which dressage element requires absolute coordination and submission?",
     "answer": "Piaffe"
+  },
+  {
+    "question": "Which dressage element requires the horse to make a sharp change of direction?",
+    "answer": "Transition"
   },
   {
     "question": "Which dressage element requires the horse to move in different directions without changing direction?",
@@ -4776,6 +4904,10 @@
     "answer": "Scrum"
   },
   {
+    "question": "Which element of the snatch technique critically affects the barbell's trajectory?",
+    "answer": "Initial pull"
+  },
+  {
     "question": "Which element of training improves reaction to fast serves?",
     "answer": "Speed"
   },
@@ -4853,6 +4985,10 @@
   },
   {
     "question": "Which factor most significantly affects air resistance when moving?",
+    "answer": "Body position"
+  },
+  {
+    "question": "Which factor most significantly affects the aerodynamics of a biathlete?",
     "answer": "Body position"
   },
   {
@@ -5174,6 +5310,10 @@
   {
     "question": "Which modern tennis playing style requires high mobility?",
     "answer": "Attacking play"
+  },
+  {
+    "question": "Which motorcycle brand is known for its innovations in MotoGP?",
+    "answer": "Ducati"
   },
   {
     "question": "Which motorcycle component affects its aerodynamics?",
@@ -5612,6 +5752,10 @@
     "answer": "Flex"
   },
   {
+    "question": "Which snowboard parameter provides the best control on ice?",
+    "answer": "Edge shape"
+  },
+  {
     "question": "Which snowboarding discipline involves performances on a halfpipe with acrobatic tricks?",
     "answer": "Halfpipe"
   },
@@ -5856,6 +6000,10 @@
     "answer": "Angle of inclination"
   },
   {
+    "question": "Which technique element helps reduce fatigue during a marathon distance?",
+    "answer": "Breath control"
+  },
+  {
     "question": "Which technique element is important for effectively overcoming barriers?",
     "answer": "Step frequency"
   },
@@ -5874,6 +6022,10 @@
   {
     "question": "Which technique provides maximum efficiency in the snatch?",
     "answer": "Squat under"
+  },
+  {
+    "question": "Which technological breakthrough has had the greatest impact on the training of Paralympians?",
+    "answer": "Prosthetics"
   },
   {
     "question": "Which technology has become a standard in motorsport?",
@@ -5984,6 +6136,10 @@
     "answer": "Rafael Nadal"
   },
   {
+    "question": "Which tennis player was the first to win more than 50 titles in ATP tournaments?",
+    "answer": "Jimmy Connors"
+  },
+  {
     "question": "Which tennis player was the first to win more than 500 matches on grass?",
     "answer": "Roger Federer"
   },
@@ -6016,6 +6172,10 @@
     "answer": "Guillermo Vilas"
   },
   {
+    "question": "Which tennis shot is preferred for changing the pace of the game on the court?",
+    "answer": "Drop shot"
+  },
+  {
     "question": "Which tennis stroke is used for a sharp change in the ball's trajectory?",
     "answer": "Slice"
   },
@@ -6038,6 +6198,10 @@
   {
     "question": "Which tournament is part of the 'Golden Slam' in tennis?",
     "answer": "Olympic Games"
+  },
+  {
+    "question": "Which tournament is recognized as the oldest in rugby?",
+    "answer": "Six Nations Championship"
   },
   {
     "question": "Which track has the longest section for drifting?",
@@ -6452,6 +6616,10 @@
     "answer": "Miroslav Klose"
   },
   {
+    "question": "Who is the youngest champion in the history of the Olympic Games?",
+    "answer": "Marjorie Gestring"
+  },
+  {
     "question": "Who is the youngest marathon winner in history?",
     "answer": "Ludolf Lechne"
   },
@@ -6502,6 +6670,14 @@
   {
     "question": "Who was the first Olympic champion in boxing?",
     "answer": "Baker"
+  },
+  {
+    "question": "Who was the first Olympic champion in the history of the Olympic Games?",
+    "answer": "Coroebus of Elis"
+  },
+  {
+    "question": "Who was the first Russian player in the NHL?",
+    "answer": "Sergei Pryakhin"
   },
   {
     "question": "Who was the first WBC world boxing champion?",
@@ -6740,6 +6916,10 @@
     "answer": "Andre Agassi"
   },
   {
+    "question": "Who was the first to win an Olympic medal in five different sports?",
+    "answer": "Paavo Nurmi"
+  },
+  {
     "question": "Who was the first to win five consecutive Rugby World Cups?",
     "answer": "New Zealand"
   },
@@ -6824,6 +7004,10 @@
     "answer": "Ronald Koeman"
   },
   {
+    "question": "Who was the key player of the 1972 Summit Series?",
+    "answer": "Paul Henderson"
+  },
+  {
     "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
     "answer": "Cristiano Ronaldo"
   },
@@ -6846,6 +7030,10 @@
   {
     "question": "Who won the Ballon d'Or in 2003?",
     "answer": "Pavel Nedvěd"
+  },
+  {
+    "question": "Who won the FIBA Basketball World Cup 2019?",
+    "answer": "Spain"
   },
   {
     "question": "Who won the Fight of the Century in 1975?",
@@ -6886,6 +7074,10 @@
   {
     "question": "Who won the gold medal in the 100 meters at the 2000 Olympics?",
     "answer": "Maurice Greene"
+  },
+  {
+    "question": "Who won the gold medal in the decathlon at the 1976 Olympic Games?",
+    "answer": "Bruce Jenner"
   },
   {
     "question": "Who won the marathon at the 2000 Olympic Games?",
