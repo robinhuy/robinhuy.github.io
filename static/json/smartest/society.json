@@ -144,6 +144,10 @@
     "answer": "Surveillance systems"
   },
   {
+    "question": "What do monetary aggregates measure?",
+    "answer": "The volume of money supply"
+  },
+  {
     "question": "What do non-governmental funds do?",
     "answer": "Charity"
   },
@@ -194,6 +198,10 @@
   {
     "question": "What does economic sociology study?",
     "answer": "The interaction between economy and society"
+  },
+  {
+    "question": "What does ethnomethodology describe?",
+    "answer": "Everyday practices"
   },
   {
     "question": "What does ethnomethodology study?",
@@ -368,6 +376,10 @@
     "answer": "The relativity of cultural norms"
   },
   {
+    "question": "What is dialectics?",
+    "answer": "development through contradiction"
+  },
+  {
     "question": "What is ethical subjectivism?",
     "answer": "Personal opinion"
   },
@@ -382,6 +394,10 @@
   {
     "question": "What is marginal cost?",
     "answer": "Additional costs"
+  },
+  {
+    "question": "What is moral relativism?",
+    "answer": "Norms change"
   },
   {
     "question": "What is reaction formation?",
@@ -406,6 +422,10 @@
   {
     "question": "What is the art of calligraphy called in China?",
     "answer": "Shufa"
+  },
+  {
+    "question": "What is the art of fabric dyeing called in India?",
+    "answer": "Batik"
   },
   {
     "question": "What is the concept of a smart home called?",
@@ -470,6 +490,10 @@
   {
     "question": "What is the name of the ancient Greek harvest festival?",
     "answer": "Thesmophoria"
+  },
+  {
+    "question": "What is the name of the doctrine of spiritual culture in Japan?",
+    "answer": "Shintoism"
   },
   {
     "question": "What is the name of the doctrine that evaluates morality in terms of consequences?",
@@ -620,6 +644,10 @@
     "answer": "Gesture Control"
   },
   {
+    "question": "What is the technology called that is designed to convert text into sound?",
+    "answer": "Speech synthesis"
+  },
+  {
     "question": "What is the term for a state of strong internal agitation?",
     "answer": "Affection"
   },
@@ -638,6 +666,10 @@
   {
     "question": "What is the term for the lack of desire to have any gender identity?",
     "answer": "Agender"
+  },
+  {
+    "question": "What is the term for the set of norms regulating social relations?",
+    "answer": "Law"
   },
   {
     "question": "What is the term for the transmission of cultural traditions from generation to generation?",
@@ -718,6 +750,10 @@
   {
     "question": "What protects children's rights?",
     "answer": "Convention"
+  },
+  {
+    "question": "What protest began in New York in 2011?",
+    "answer": "Occupy Wall Street"
   },
   {
     "question": "What regulates the economy according to Keynesianism?",
@@ -944,6 +980,10 @@
     "answer": "Sociology"
   },
   {
+    "question": "Which disease is caused by bacteria of the genus Clostridium?",
+    "answer": "Tetanus"
+  },
+  {
     "question": "Which doctrine claims that the Universe possesses intelligence?",
     "answer": "Pantheism"
   },
@@ -994,6 +1034,10 @@
   {
     "question": "Which movement campaigned against nuclear weapons?",
     "answer": "Campaign for Nuclear Disarmament"
+  },
+  {
+    "question": "Which nationality created the frescoes in the Sistine Chapel?",
+    "answer": "Italians"
   },
   {
     "question": "Which organizations are involved in social support?",
@@ -1068,6 +1112,10 @@
     "answer": "Histology"
   },
   {
+    "question": "Which scientific field began the study of simple societies?",
+    "answer": "Ethnography"
+  },
+  {
     "question": "Which style did Van Gogh popularize?",
     "answer": "Post-Impressionism"
   },
@@ -1102,6 +1150,10 @@
   {
     "question": "Who can initiate a criminal prosecution?",
     "answer": "prosecutor"
+  },
+  {
+    "question": "Who coined the term 'globalization'?",
+    "answer": "Theodore Levitt"
   },
   {
     "question": "Who conducted the famous survey in Chicago?",
@@ -1148,6 +1200,14 @@
     "answer": "Adler"
   },
   {
+    "question": "Who forms the money supply in a country?",
+    "answer": "Central Bank"
+  },
+  {
+    "question": "Who formulated the concept of justice as fairness?",
+    "answer": "John Rawls"
+  },
+  {
     "question": "Who founded Stoicism?",
     "answer": "Zeno"
   },
@@ -1166,6 +1226,10 @@
   {
     "question": "Who gives the mandate to govern the country in elections?",
     "answer": "Citizens"
+  },
+  {
+    "question": "Who introduced the concept of 'cultural lag'?",
+    "answer": "William Ogburn"
   },
   {
     "question": "Who introduced the concept of 'globalization' in cultural studies?",
@@ -1210,6 +1274,10 @@
   {
     "question": "Who is considered the founder of structural functionalism?",
     "answer": "Talcott Parsons"
+  },
+  {
+    "question": "Who is currently the editor-in-chief of The New York Times?",
+    "answer": "Dean Baquet"
   },
   {
     "question": "Who is known as the author of 'The State and Revolution'?",
@@ -1268,6 +1336,10 @@
     "answer": "Laozi"
   },
   {
+    "question": "Who is the founder of cognitive therapy?",
+    "answer": "Beck"
+  },
+  {
     "question": "Who is the founder of symbolic interactionism?",
     "answer": "Herbert Blumer"
   },
@@ -1320,12 +1392,20 @@
     "answer": "Walpole"
   },
   {
+    "question": "Who was the leader of the Greek triremes in the Battle of Salamis?",
+    "answer": "Themistocles"
+  },
+  {
     "question": "Who was the leader of the migrant rights movement in the USA?",
     "answer": "Cesar Chavez"
   },
   {
     "question": "Who wrote 'Ethics' in the 17th century?",
     "answer": "Spinoza"
+  },
+  {
+    "question": "Who wrote 'Proust and Signs'?",
+    "answer": "Gilles Deleuze"
   },
   {
     "question": "Who wrote 'The Arguments of Anthropology'?",

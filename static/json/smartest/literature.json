@@ -8,6 +8,10 @@
     "answer": "Strong influence"
   },
   {
+    "question": "How old was Iris Apfel when she started her career in fashion?",
+    "answer": "Sanctuary"
+  },
+  {
     "question": "In what language was 'Carmina Burana' written?",
     "answer": "Latin"
   },
@@ -140,8 +144,20 @@
     "answer": "platonic love"
   },
   {
+    "question": "What does the Laffer Curve illustrate?",
+    "answer": "Tax revenues"
+  },
+  {
+    "question": "What does the inflation index measure?",
+    "answer": "Price level"
+  },
+  {
     "question": "What does the white whale symbolize in the novel 'Moby Dick'?",
     "answer": "Evil"
+  },
+  {
+    "question": "What economic phenomenon was observed in Japan in the 1990s?",
+    "answer": "Economic bubble"
   },
   {
     "question": "What emotion was often exploited in Baroque literature?",
@@ -168,6 +184,14 @@
     "answer": "sorcerer"
   },
   {
+    "question": "What is hypothesis testing?",
+    "answer": "Statistical"
+  },
+  {
+    "question": "What is meant by the economic cycle?",
+    "answer": "Growth fluctuations"
+  },
+  {
     "question": "What is the ancient prophecy in 'Shannara'?",
     "answer": "Elven Sensitivity"
   },
@@ -184,8 +208,16 @@
     "answer": "Satires"
   },
   {
+    "question": "What is the main goal of privatization?",
+    "answer": "Increasing efficiency"
+  },
+  {
     "question": "What is the main theme of Erasmus of Rotterdam's 'The Praise of Folly'?",
     "answer": "Satire"
+  },
+  {
+    "question": "What is the most prestigious event in the fashion world?",
+    "answer": "Paris Fashion Week"
   },
   {
     "question": "What is the name of Carson Foley's novel about the fight against racism?",
@@ -392,6 +424,10 @@
     "answer": "Thingol"
   },
   {
+    "question": "What is the name of the rift leading to the shadow world in 'Chronicles of the Ancient Kingdoms'?",
+    "answer": "Erebus"
+  },
+  {
     "question": "What is the name of the silhouette that guards the power in the world of dark fantasy?",
     "answer": "Shadowgrip"
   },
@@ -432,6 +468,10 @@
     "answer": "Dissonance"
   },
   {
+    "question": "What is the process of decorating metals called?",
+    "answer": "Oscar de la Renta"
+  },
+  {
     "question": "What is the real name of the writer known by the pen name George Eliot?",
     "answer": "Mary Ann Evans"
   },
@@ -468,12 +508,24 @@
     "answer": "Parchment"
   },
   {
+    "question": "What material is most commonly used for outerwear?",
+    "answer": "Neoprene"
+  },
+  {
+    "question": "What measures are used to control inflation?",
+    "answer": "Monetary policy"
+  },
+  {
     "question": "What new literary forms did Michel de Montaigne introduce in his works?",
     "answer": "essays"
   },
   {
     "question": "What new structure did Samuel Richardson introduce to English literature?",
     "answer": "Epistolary novel"
+  },
+  {
+    "question": "What phenomenon negatively affects labor productivity?",
+    "answer": "Recession"
   },
   {
     "question": "What philosophical ideas did Erasmus of Rotterdam promote in his works?",
@@ -550,6 +602,10 @@
   {
     "question": "What type of magic is the wizard Garg known for in 'Legends of the Lands of Ingvalar'?",
     "answer": "Necromancy"
+  },
+  {
+    "question": "What type of pants are currently in fashion?",
+    "answer": "Mom jeans"
   },
   {
     "question": "What type of plays predominated in the works of Luis Vives?",
@@ -650,6 +706,10 @@
   {
     "question": "Which Enlightenment thinker developed the idea of utopia through satire?",
     "answer": "Swift"
+  },
+  {
+    "question": "Which French designer introduced the \"New Look\" style?",
+    "answer": "Christian Dior"
   },
   {
     "question": "Which French poet and philosopher wrote 'Servan'?",
@@ -908,6 +968,10 @@
     "answer": "Athens"
   },
   {
+    "question": "Which clothing manufacturing method supports sustainable fashion?",
+    "answer": "Slow fashion"
+  },
+  {
     "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
     "answer": "The Knights"
   },
@@ -920,12 +984,24 @@
     "answer": "How to Stop Time"
   },
   {
+    "question": "Which designer is known for their unusual experimental forms in clothing?",
+    "answer": "Rei Kawakubo"
+  },
+  {
     "question": "Which dragon awakens in the north in the book 'A Song of Ice and Fire'?",
     "answer": "Viserion"
   },
   {
     "question": "Which drama by Guercio da Pomenta is an example of a combination of ancient and medieval style?",
     "answer": "Medea"
+  },
+  {
+    "question": "Which economic variables can be considered long-term?",
+    "answer": "Long-term trends"
+  },
+  {
+    "question": "Which economist introduced the concept of 'capital assets'?",
+    "answer": "Tobin"
   },
   {
     "question": "Which element is part of the strict genre canons of classicism?",
@@ -1054,6 +1130,10 @@
   {
     "question": "Which novel by a German author, published in 2017, received the Peace Prize of the German Book Trade in 2018?",
     "answer": "Comrade Joe"
+  },
+  {
+    "question": "Which novel by a Spanish author received the Princess of Asturias Award?",
+    "answer": "The Time of Forgetting"
   },
   {
     "question": "Which novel by a famous Nigerian writer won the Best Book Award at the African Literary Festival in 2021?",
@@ -1332,6 +1412,10 @@
     "answer": "The Prince"
   },
   {
+    "question": "Which value characterizes the kurtosis of a distribution?",
+    "answer": "Kurtosis"
+  },
+  {
     "question": "Which work analyzes the political systems of the Enlightenment era?",
     "answer": "The Spirit of the Laws"
   },
@@ -1426,6 +1510,10 @@
   {
     "question": "Which work by Leibniz develops the concept of monads?",
     "answer": "Monadology"
+  },
+  {
+    "question": "Which work by Lope de Vega includes elements of Baroque?",
+    "answer": "Fuente Ovejuna"
   },
   {
     "question": "Which work by Lucian satirizes the belief in gods?",
@@ -1732,12 +1820,20 @@
     "answer": "Statius"
   },
   {
+    "question": "Who is known for theatrical shows?",
+    "answer": "Jean-Paul Gaultier"
+  },
+  {
     "question": "Who is the author of 'Patchwork Waltz'?",
     "answer": "Gaspara Stampa"
   },
   {
     "question": "Who is the author of 'The Tale of the Golden Fleece'?",
     "answer": "Lodovico Dolce"
+  },
+  {
+    "question": "Who is the author of 'The Theory of Money and Credit'?",
+    "answer": "Ludwig von Mises"
   },
   {
     "question": "Who is the author of the 18th-century French novel based on letters from aristocrats about love intrigues?",

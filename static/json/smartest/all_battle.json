@@ -5785,6 +5785,10 @@
         "answer": "Venture Investments"
     },
     {
+        "question": "Which podcast discusses investments?",
+        "answer": "Investment Club"
+    },
+    {
         "question": "Which podcast explains complex scientific terms?",
         "answer": ""
     },
@@ -6449,6 +6453,10 @@
         "answer": "Gujia"
     },
     {
+        "question": "What device is used to enhance flavor?",
+        "answer": "Flavor enhancer"
+    },
+    {
         "question": "What dish is made from chicken wings?",
         "answer": "Buffalo"
     },
@@ -6481,6 +6489,10 @@
         "answer": "Sticky rice"
     },
     {
+        "question": "What dish is served during the Japanese festival Setsubun?",
+        "answer": "Ehomaki"
+    },
+    {
         "question": "What does 'crushing' do?",
         "answer": "Grinding grains"
     },
@@ -6503,6 +6515,10 @@
     {
         "question": "What does the French term 'passe' mean?",
         "answer": "To sauté"
+    },
+    {
+        "question": "What does the technique 'flambéing' describe?",
+        "answer": "Igniting alcohol"
     },
     {
         "question": "What drink is called the 'nectar of the gods' in mythology?",
@@ -6627,6 +6643,10 @@
     {
         "question": "What is carne asada?",
         "answer": "Mexican meat"
+    },
+    {
+        "question": "What is often served at Easter in Poland?",
+        "answer": "Żurek"
     },
     {
         "question": "What is often served at Easter in Spain?",
@@ -6819,6 +6839,10 @@
     {
         "question": "What is the name of the dish made from fish baked in parchment?",
         "answer": "En papillote"
+    },
+    {
+        "question": "What is the name of the dish made from raw fish in Peruvian cuisine?",
+        "answer": "Ceviche"
     },
     {
         "question": "What is the name of the dough preparation method where butter and flour are made into crumbs?",
@@ -7325,6 +7349,10 @@
         "answer": "Thailand"
     },
     {
+        "question": "Which country is known for its traditional dish borscht?",
+        "answer": "Ukraine"
+    },
+    {
         "question": "Which country is known for the street food 'Banh Mi'?",
         "answer": "Vietnam"
     },
@@ -7477,6 +7505,10 @@
         "answer": "Salmon"
     },
     {
+        "question": "Which fish is traditionally used for beshbarmak?",
+        "answer": "Pike-perch"
+    },
+    {
         "question": "Which fruit is often used in Moroccan cuisine?",
         "answer": "Dates"
     },
@@ -7529,6 +7561,10 @@
         "answer": "Shiitake"
     },
     {
+        "question": "Which oil has a higher smoke point?",
+        "answer": "Olive"
+    },
+    {
         "question": "Which popular cocktail consists of gold rum, overproof rum, and fruit juices?",
         "answer": "Zombie"
     },
@@ -7555,6 +7591,10 @@
     {
         "question": "Which spice gives a dish a characteristic anise and sweet flavor?",
         "answer": "Star anise"
+    },
+    {
+        "question": "Which spice gives dishes a sweet and sour taste?",
+        "answer": "Tamarind"
     },
     {
         "question": "Which spice is added to give Chinese cuisine dishes their distinctive aroma?",
@@ -30920,6 +30960,10 @@
         "answer": "Strong influence"
     },
     {
+        "question": "How old was Iris Apfel when she started her career in fashion?",
+        "answer": "Sanctuary"
+    },
+    {
         "question": "In what language was 'Carmina Burana' written?",
         "answer": "Latin"
     },
@@ -30942,6 +30986,10 @@
     {
         "question": "In which work are elements of magical realism used to explore the legacy of violence and slavery?",
         "answer": "Beloved"
+    },
+    {
+        "question": "In which work by Euripides is the story of a mother's revenge for the death of her children told?",
+        "answer": "Medea"
     },
     {
         "question": "In which work by John Donne is Baroque metaphor particularly prominent?",
@@ -30990,6 +31038,10 @@
     {
         "question": "What Italian term describes Baroque intricacies?",
         "answer": "Curvature"
+    },
+    {
+        "question": "What Latin term is used to denote the idea of transience in Baroque art?",
+        "answer": "Vanitas"
     },
     {
         "question": "What aesthetic principle was important for Baroque literature?",
@@ -31044,12 +31096,28 @@
         "answer": "platonic love"
     },
     {
+        "question": "What does the Laffer Curve illustrate?",
+        "answer": "Tax revenues"
+    },
+    {
+        "question": "What does the inflation index measure?",
+        "answer": "Price level"
+    },
+    {
         "question": "What does the white whale symbolize in the novel 'Moby Dick'?",
         "answer": "Evil"
     },
     {
+        "question": "What economic phenomenon was observed in Japan in the 1990s?",
+        "answer": "Economic bubble"
+    },
+    {
         "question": "What emotion was often exploited in Baroque literature?",
         "answer": "Melancholy"
+    },
+    {
+        "question": "What entity awakens in the dungeons of Heartland in the book 'Wars of Light and Darkness'?",
+        "answer": "Ancient Cthulhu"
     },
     {
         "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
@@ -31068,6 +31136,14 @@
         "answer": "sorcerer"
     },
     {
+        "question": "What is hypothesis testing?",
+        "answer": "Statistical"
+    },
+    {
+        "question": "What is meant by the economic cycle?",
+        "answer": "Growth fluctuations"
+    },
+    {
         "question": "What is the ancient prophecy in 'Shannara'?",
         "answer": "Elven Sensitivity"
     },
@@ -31084,12 +31160,24 @@
         "answer": "Satires"
     },
     {
+        "question": "What is the main goal of privatization?",
+        "answer": "Increasing efficiency"
+    },
+    {
         "question": "What is the main theme of Erasmus of Rotterdam's 'The Praise of Folly'?",
         "answer": "Satire"
     },
     {
+        "question": "What is the most prestigious event in the fashion world?",
+        "answer": "Paris Fashion Week"
+    },
+    {
         "question": "What is the name of Carson Foley's novel about the fight against racism?",
         "answer": "Invisible Man"
+    },
+    {
+        "question": "What is the name of Fanny Price's younger brother in the novel 'Mansfield Park'?",
+        "answer": "William"
     },
     {
         "question": "What is the name of Guy de Maupassant's novel about the double life of journalist Duroc?",
@@ -31126,6 +31214,14 @@
     {
         "question": "What is the name of Robert de Boron's work about the Round Table?",
         "answer": "'Vulgate'"
+    },
+    {
+        "question": "What is the name of Torquato Tasso's poem about Sir Richard the Lionheart?",
+        "answer": "Jerusalem Delivered"
+    },
+    {
+        "question": "What is the name of the Bennet family's main residence in Jane Austen's novel?",
+        "answer": "Longbourn"
     },
     {
         "question": "What is the name of the British collection of stories from the Middle Ages?",
@@ -31168,6 +31264,10 @@
         "answer": "Epinikion"
     },
     {
+        "question": "What is the name of the book by Anthony Horowitz that won the 'Crime Novel of the Year' award in 2017?",
+        "answer": "The Word is Murder"
+    },
+    {
         "question": "What is the name of the book that describes the adventures of the Meistersingers?",
         "answer": "Meistersingers"
     },
@@ -31186,6 +31286,18 @@
     {
         "question": "What is the name of the collection 'Raimund de Peñafort'?",
         "answer": "Speculum"
+    },
+    {
+        "question": "What is the name of the collection of aphorisms by Benedetto Varchi?",
+        "answer": "Dialogues"
+    },
+    {
+        "question": "What is the name of the collection of legends written by Gérard de Nerval?",
+        "answer": "'Daughters of Fire'"
+    },
+    {
+        "question": "What is the name of the collection of medieval European poetry that inspired Orff to create 'Carmina Burana'?",
+        "answer": "Carmina Burana"
     },
     {
         "question": "What is the name of the collection of mystical plays popular in medieval England?",
@@ -31232,6 +31344,14 @@
         "answer": "Ancient Shield"
     },
     {
+        "question": "What is the name of the main battle artifact in 'The Saga of the Spear of Time'?",
+        "answer": "Spear of Destiny"
+    },
+    {
+        "question": "What is the name of the master of illusions who took over the city of shadows?",
+        "answer": "Birnar"
+    },
+    {
         "question": "What is the name of the medieval poem about love and redemption?",
         "answer": "Roman de la Rose"
     },
@@ -31254,6 +31374,10 @@
     {
         "question": "What is the name of the powerful Elven king in 'The Silmarillion'?",
         "answer": "Thingol"
+    },
+    {
+        "question": "What is the name of the rift leading to the shadow world in 'Chronicles of the Ancient Kingdoms'?",
+        "answer": "Erebus"
     },
     {
         "question": "What is the name of the silhouette that guards the power in the world of dark fantasy?",
@@ -31296,6 +31420,10 @@
         "answer": "Dissonance"
     },
     {
+        "question": "What is the process of decorating metals called?",
+        "answer": "Oscar de la Renta"
+    },
+    {
         "question": "What is the real name of the writer known by the pen name George Eliot?",
         "answer": "Mary Ann Evans"
     },
@@ -31332,8 +31460,24 @@
         "answer": "Parchment"
     },
     {
+        "question": "What material is most commonly used for outerwear?",
+        "answer": "Neoprene"
+    },
+    {
+        "question": "What measures are used to control inflation?",
+        "answer": "Monetary policy"
+    },
+    {
+        "question": "What new literary forms did Michel de Montaigne introduce in his works?",
+        "answer": "essays"
+    },
+    {
         "question": "What new structure did Samuel Richardson introduce to English literature?",
         "answer": "Epistolary novel"
+    },
+    {
+        "question": "What phenomenon negatively affects labor productivity?",
+        "answer": "Recession"
     },
     {
         "question": "What philosophical ideas did Erasmus of Rotterdam promote in his works?",
@@ -31412,6 +31556,10 @@
         "answer": "Necromancy"
     },
     {
+        "question": "What type of pants are currently in fashion?",
+        "answer": "Mom jeans"
+    },
+    {
         "question": "What type of plays predominated in the works of Luis Vives?",
         "answer": "Moralities"
     },
@@ -31452,6 +31600,10 @@
         "answer": "The Romane Historie"
     },
     {
+        "question": "What work did Cervantes write after 'Don Quixote'?",
+        "answer": "The Journey to Parnassus"
+    },
+    {
         "question": "What work did Pindar write about the winners of the Olympic Games?",
         "answer": "Epinikia"
     },
@@ -31462,6 +31614,10 @@
     {
         "question": "Which 12th-century poet is considered a pioneer of courtly poetry?",
         "answer": "Chrétien de Troyes"
+    },
+    {
+        "question": "Which 12th-century poet is known as the author of allegorical works?",
+        "answer": "Alan of Lille"
     },
     {
         "question": "Which 13th-century French novel is considered the first great Renaissance novel?",
@@ -31502,6 +31658,10 @@
     {
         "question": "Which Enlightenment thinker developed the idea of utopia through satire?",
         "answer": "Swift"
+    },
+    {
+        "question": "Which French designer introduced the \"New Look\" style?",
+        "answer": "Christian Dior"
     },
     {
         "question": "Which French poet and philosopher wrote 'Servan'?",
@@ -31548,6 +31708,10 @@
         "answer": "Leon Battista Alberti"
     },
     {
+        "question": "Which Shakespeare character said the words 'Sometimes constancy, sometimes jealousy'?",
+        "answer": "Benedick"
+    },
+    {
         "question": "Which Shakespeare play begins with the capture of Lord Bardolph?",
         "answer": "Henry IV, Part 2"
     },
@@ -31566,6 +31730,10 @@
     {
         "question": "Which Shakespeare play includes the theme of a naval battle and betrayal?",
         "answer": "Antony and Cleopatra"
+    },
+    {
+        "question": "Which Shakespearean tragedy is dedicated to an English king?",
+        "answer": "Richard III"
     },
     {
         "question": "Which Stephen King book won the British Fantasy Award in 2013?",
@@ -31664,6 +31832,10 @@
         "answer": "The Conquest of Constantinople"
     },
     {
+        "question": "Which book was a finalist for the 'National Bestseller' award in 2012?",
+        "answer": "Live and Remember"
+    },
+    {
         "question": "Which book was awarded the 'Neustadt International Prize for Literature' in 2020?",
         "answer": "City of Lights"
     },
@@ -31748,6 +31920,10 @@
         "answer": "Athens"
     },
     {
+        "question": "Which clothing manufacturing method supports sustainable fashion?",
+        "answer": "Slow fashion"
+    },
+    {
         "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
         "answer": "The Knights"
     },
@@ -31760,12 +31936,24 @@
         "answer": "How to Stop Time"
     },
     {
+        "question": "Which designer is known for their unusual experimental forms in clothing?",
+        "answer": "Rei Kawakubo"
+    },
+    {
         "question": "Which dragon awakens in the north in the book 'A Song of Ice and Fire'?",
         "answer": "Viserion"
     },
     {
         "question": "Which drama by Guercio da Pomenta is an example of a combination of ancient and medieval style?",
         "answer": "Medea"
+    },
+    {
+        "question": "Which economic variables can be considered long-term?",
+        "answer": "Long-term trends"
+    },
+    {
+        "question": "Which economist introduced the concept of 'capital assets'?",
+        "answer": "Tobin"
     },
     {
         "question": "Which element is part of the strict genre canons of classicism?",
@@ -31884,12 +32072,20 @@
         "answer": "The Rise of Silas Lapham"
     },
     {
+        "question": "Which novel by William Faulkner was written in the form of newspaper installments between 1929 and 1930?",
+        "answer": "Sanctuary"
+    },
+    {
         "question": "Which novel by William Thackeray was published in 1847?",
         "answer": "Vanity Fair"
     },
     {
         "question": "Which novel by a German author, published in 2017, received the Peace Prize of the German Book Trade in 2018?",
         "answer": "Comrade Joe"
+    },
+    {
+        "question": "Which novel by a Spanish author received the Princess of Asturias Award?",
+        "answer": "The Time of Forgetting"
     },
     {
         "question": "Which novel by a famous Nigerian writer won the Best Book Award at the African Literary Festival in 2021?",
@@ -32000,6 +32196,10 @@
         "answer": "Wolf Hall"
     },
     {
+        "question": "Which novel won the main prize at the Leipzig Book Fair in 2015?",
+        "answer": "Foreign Secrets"
+    },
+    {
         "question": "Which of Shakespeare's plays is set in Venice and includes the characters Brabanzio and Gratiano?",
         "answer": "Othello"
     },
@@ -32046,6 +32246,10 @@
     {
         "question": "Which play includes a scene with witches and trap rocks?",
         "answer": "Macbeth"
+    },
+    {
+        "question": "Which play was written by Francesco Guarini?",
+        "answer": "Fiammetta"
     },
     {
         "question": "Which play won the Pulitzer Prize for Drama in 2018?",
@@ -32096,6 +32300,14 @@
         "answer": "John Lydgate"
     },
     {
+        "question": "Which poet used baroque forms in their elegies?",
+        "answer": "Martin Opitz"
+    },
+    {
+        "question": "Which poet was known as 'the first sonneteer of France'?",
+        "answer": "Malherbe"
+    },
+    {
         "question": "Which poet wrote 'An Essay on Criticism'?",
         "answer": "Alexander Pope"
     },
@@ -32104,12 +32316,20 @@
         "answer": "Walther von der Vogelweide"
     },
     {
+        "question": "Which poet wrote the epic poem about El Cid Campeador?",
+        "answer": "Anonymous"
+    },
+    {
         "question": "Which powerful order protects the Dragon Forest in 'Saga of the Ancient Worlds'?",
         "answer": "Order of Fire"
     },
     {
         "question": "Which principle of the Enlightenment era underlies utopian works?",
         "answer": "rationality"
+    },
+    {
+        "question": "Which romantic was inspired by the Baroque?",
+        "answer": "Calderon"
     },
     {
         "question": "Which series was awarded the Peabody Award in 2019?",
@@ -32142,6 +32362,10 @@
     {
         "question": "Which treatise philosophically justifies the concept of civil authority?",
         "answer": "The Prince"
+    },
+    {
+        "question": "Which value characterizes the kurtosis of a distribution?",
+        "answer": "Kurtosis"
     },
     {
         "question": "Which work analyzes the political systems of the Enlightenment era?",
@@ -32240,6 +32464,10 @@
         "answer": "Monadology"
     },
     {
+        "question": "Which work by Lope de Vega includes elements of Baroque?",
+        "answer": "Fuente Ovejuna"
+    },
+    {
         "question": "Which work by Lucian satirizes the belief in gods?",
         "answer": "True History"
     },
@@ -32266,6 +32494,10 @@
     {
         "question": "Which work by Pico della Mirandola is considered central to his oeuvre?",
         "answer": "Oration on the Dignity of Man"
+    },
+    {
+        "question": "Which work by Plautus is one of the earliest comedies?",
+        "answer": "Amphitryon"
     },
     {
         "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
@@ -32302,6 +32534,10 @@
     {
         "question": "Which work combines elements of magical realism and explores themes of memory and identity?",
         "answer": "The House on the Hill"
+    },
+    {
+        "question": "Which work criticized the concept of natural law?",
+        "answer": "The Social Contract"
     },
     {
         "question": "Which work declared a fight against moralism and religious intolerance?",
@@ -32368,6 +32604,10 @@
         "answer": "Phantasmagoria"
     },
     {
+        "question": "Which work is an example of a Baroque philosophical drama?",
+        "answer": "Life is a Dream"
+    },
+    {
         "question": "Which work is considered foundational for the theory of knowledge?",
         "answer": "Critique of Pure Reason"
     },
@@ -32424,6 +32664,10 @@
         "answer": "Medea"
     },
     {
+        "question": "Which work was created by a 13th-century poet in Old Icelandic?",
+        "answer": "Ormsstinga saga"
+    },
+    {
         "question": "Which work was translated into Latin as 'Historia Calamitatum'?",
         "answer": "The Story of My Misfortunes"
     },
@@ -32452,6 +32696,10 @@
         "answer": "Francisco de Quevedo"
     },
     {
+        "question": "Which writer is known for his baroque-style sonnets?",
+        "answer": "John Donne"
+    },
+    {
         "question": "Who applied the methods of critical philosophy to religious beliefs?",
         "answer": "David Hume"
     },
@@ -32462,6 +32710,10 @@
     {
         "question": "Who created the Floating Castle spell on the Ancient Island?",
         "answer": "Gendalfus"
+    },
+    {
+        "question": "Who destroyed the Last Memorial in 'The Secret City'?",
+        "answer": "Inquisitor"
     },
     {
         "question": "Who developed the philosophy of law based on utilitarianism?",
@@ -32520,12 +32772,20 @@
         "answer": "Statius"
     },
     {
+        "question": "Who is known for theatrical shows?",
+        "answer": "Jean-Paul Gaultier"
+    },
+    {
         "question": "Who is the author of 'Patchwork Waltz'?",
         "answer": "Gaspara Stampa"
     },
     {
         "question": "Who is the author of 'The Tale of the Golden Fleece'?",
         "answer": "Lodovico Dolce"
+    },
+    {
+        "question": "Who is the author of 'The Theory of Money and Credit'?",
+        "answer": "Ludwig von Mises"
     },
     {
         "question": "Who is the author of the 18th-century French novel based on letters from aristocrats about love intrigues?",
@@ -32640,6 +32900,10 @@
         "answer": "Pierre de Saint-Cloud"
     },
     {
+        "question": "Who published 'Ulysses' in 1922?",
+        "answer": "Shakespeare and Company"
+    },
+    {
         "question": "Who received the Prague Literary Prize in 2018?",
         "answer": "Milan Kundera"
     },
@@ -32716,12 +32980,20 @@
         "answer": "Camilla Grebe"
     },
     {
+        "question": "Who wrote the novel that won the 'Cato' award in 2019?",
+        "answer": "Maggie Nelson"
+    },
+    {
         "question": "Who wrote the novel that won the 'Golden Eagle' award in 2014?",
         "answer": "Anne Tyler"
     },
     {
         "question": "Who wrote the novel that won the Baileys Women's Prize for Fiction in 2016?",
         "answer": "Lisa McInerney"
+    },
+    {
+        "question": "Who wrote the poem 'Pearl'?",
+        "answer": "Unknown"
     },
     {
         "question": "Who wrote the poem 'Satires'?",
@@ -52959,6 +53231,10 @@
         "answer": "Digital fatigue"
     },
     {
+        "question": "How does globalization affect national markets?",
+        "answer": "Connects"
+    },
+    {
         "question": "How does globalization affect world politics?",
         "answer": "Internationalization"
     },
@@ -52989,6 +53265,10 @@
     {
         "question": "In what year was 'Channel One' launched in Russia?",
         "answer": "1995"
+    },
+    {
+        "question": "In what year was International Women's Day first celebrated?",
+        "answer": "1911"
     },
     {
         "question": "In what year was the Magna Carta signed?",
@@ -53043,6 +53323,10 @@
         "answer": "Criminology"
     },
     {
+        "question": "To which style does 'Rococo' belong?",
+        "answer": "Decorative style"
+    },
+    {
         "question": "What are Chinese characters called?",
         "answer": "Hanzi"
     },
@@ -53067,6 +53351,10 @@
         "answer": "States"
     },
     {
+        "question": "What city was the capital of the Aztecs?",
+        "answer": "Tenochtitlan"
+    },
+    {
         "question": "What concept describes equal opportunities for everyone?",
         "answer": "Inclusion"
     },
@@ -53081,6 +53369,10 @@
     {
         "question": "What devices are used for home security?",
         "answer": "Surveillance systems"
+    },
+    {
+        "question": "What do monetary aggregates measure?",
+        "answer": "The volume of money supply"
     },
     {
         "question": "What do non-governmental funds do?",
@@ -53135,6 +53427,10 @@
         "answer": "The interaction between economy and society"
     },
     {
+        "question": "What does ethnomethodology describe?",
+        "answer": "Everyday practices"
+    },
+    {
         "question": "What does ethnomethodology study?",
         "answer": "Everyday interactions"
     },
@@ -53157,6 +53453,10 @@
     {
         "question": "What does phenomenology study?",
         "answer": "Phenomena"
+    },
+    {
+        "question": "What does psychodiagnostics study?",
+        "answer": "Mental state"
     },
     {
         "question": "What does the CIS do?",
@@ -53211,6 +53511,10 @@
         "answer": "Liberalization"
     },
     {
+        "question": "What event symbolizes the beginning of globalization?",
+        "answer": "Columbus discovered America"
+    },
+    {
         "question": "What factor influences the global market?",
         "answer": "Innovation"
     },
@@ -53231,12 +53535,20 @@
         "answer": "Allergic reaction"
     },
     {
+        "question": "What is 'digital inequality'?",
+        "answer": "Access to technology"
+    },
+    {
         "question": "What is Marvin Harris known for?",
         "answer": "cultural materialism"
     },
     {
         "question": "What is a digital footprint?",
         "answer": "Internet activity"
+    },
+    {
+        "question": "What is a form of primitive defense?",
+        "answer": "Denial"
     },
     {
         "question": "What is a legal norm?",
@@ -53267,6 +53579,10 @@
         "answer": "Architecture"
     },
     {
+        "question": "What is an example of gender discrimination?",
+        "answer": "Unequal pay"
+    },
+    {
         "question": "What is an object of civil law?",
         "answer": "Property"
     },
@@ -53287,6 +53603,10 @@
         "answer": "The relativity of cultural norms"
     },
     {
+        "question": "What is dialectics?",
+        "answer": "development through contradiction"
+    },
+    {
         "question": "What is ethical subjectivism?",
         "answer": "Personal opinion"
     },
@@ -53303,6 +53623,10 @@
         "answer": "Additional costs"
     },
     {
+        "question": "What is moral relativism?",
+        "answer": "Norms change"
+    },
+    {
         "question": "What is reaction formation?",
         "answer": "Opposite expression"
     },
@@ -53317,6 +53641,22 @@
     {
         "question": "What is subjective value?",
         "answer": "Value to the individual"
+    },
+    {
+        "question": "What is the 'Balance of Payments'?",
+        "answer": "Country's balance"
+    },
+    {
+        "question": "What is the art of calligraphy called in China?",
+        "answer": "Shufa"
+    },
+    {
+        "question": "What is the art of fabric dyeing called in India?",
+        "answer": "Batik"
+    },
+    {
+        "question": "What is the concept of a smart home called?",
+        "answer": "Internet of Things"
     },
     {
         "question": "What is the disease called that is caused by the destruction of cartilage?",
@@ -53379,6 +53719,10 @@
         "answer": "Thesmophoria"
     },
     {
+        "question": "What is the name of the doctrine of spiritual culture in Japan?",
+        "answer": "Shintoism"
+    },
+    {
         "question": "What is the name of the doctrine that evaluates morality in terms of consequences?",
         "answer": "Consequentialism"
     },
@@ -53397,6 +53741,10 @@
     {
         "question": "What is the name of the international relations theory that focuses on power interests?",
         "answer": "Realism"
+    },
+    {
+        "question": "What is the name of the pedagogical concept developed by Sukhomlinsky?",
+        "answer": "School of Joy"
     },
     {
         "question": "What is the name of the philosophical doctrine that centers around the idea of constant change?",
@@ -53499,6 +53847,10 @@
         "answer": "Pharmacognosy"
     },
     {
+        "question": "What is the scientific study of human origin called?",
+        "answer": "Anthropogenesis"
+    },
+    {
         "question": "What is the scientific study of social change and development called?",
         "answer": "Social theory"
     },
@@ -53519,8 +53871,16 @@
         "answer": "Gesture Control"
     },
     {
+        "question": "What is the technology called that is designed to convert text into sound?",
+        "answer": "Speech synthesis"
+    },
+    {
         "question": "What is the term for a state of strong internal agitation?",
         "answer": "Affection"
+    },
+    {
+        "question": "What is the term for long-term lower back pain?",
+        "answer": "Lumbago"
     },
     {
         "question": "What is the term for spiritual self-improvement in Taoism?",
@@ -53533,6 +53893,10 @@
     {
         "question": "What is the term for the lack of desire to have any gender identity?",
         "answer": "Agender"
+    },
+    {
+        "question": "What is the term for the set of norms regulating social relations?",
+        "answer": "Law"
     },
     {
         "question": "What is the term for the transmission of cultural traditions from generation to generation?",
@@ -53565,6 +53929,10 @@
     {
         "question": "What laws govern relations at the international level?",
         "answer": "International law"
+    },
+    {
+        "question": "What learning principle involves the combination of theory and practice?",
+        "answer": "Dual"
     },
     {
         "question": "What limits 'scarcity'?",
@@ -53611,6 +53979,10 @@
         "answer": "Convention"
     },
     {
+        "question": "What protest began in New York in 2011?",
+        "answer": "Occupy Wall Street"
+    },
+    {
         "question": "What regulates the economy according to Keynesianism?",
         "answer": "The government"
     },
@@ -53627,12 +53999,20 @@
         "answer": "Right to assembly"
     },
     {
+        "question": "What right is protected by Article 29 of the Russian Constitution?",
+        "answer": "right to freedom of speech"
+    },
+    {
         "question": "What role do megacities play?",
         "answer": "Global hubs"
     },
     {
         "question": "What script is used in Sikhism?",
         "answer": "Gurmukhi"
+    },
+    {
+        "question": "What strengthens international connections?",
+        "answer": "globalization"
     },
     {
         "question": "What style is characteristic of the Renaissance era?",
@@ -53683,8 +54063,16 @@
         "answer": "Glocalization"
     },
     {
+        "question": "What term refers to an online course with a large number of participants?",
+        "answer": "MOOC"
+    },
+    {
         "question": "What term refers to bias or discrimination against LGBT+ people?",
         "answer": "Homophobia"
+    },
+    {
+        "question": "What term refers to the perception of a person not only through the lens of a single characteristic?",
+        "answer": "Intersectionality"
     },
     {
         "question": "What term refers to the systematic planning of the educational process?",
@@ -53715,8 +54103,16 @@
         "answer": "Satyagraha"
     },
     {
+        "question": "What was the slogan of the Indian independence movement?",
+        "answer": "Satyagraha"
+    },
+    {
         "question": "What was the war between England and France in the 14th century called?",
         "answer": "Hundred Years' War"
+    },
+    {
+        "question": "When did the first pension reform in Russia begin?",
+        "answer": "1995"
     },
     {
         "question": "When did the migrant rights movement first emerge?",
@@ -53725,6 +54121,18 @@
     {
         "question": "When was the Byzantine Empire founded?",
         "answer": "395"
+    },
+    {
+        "question": "When was the Green Party of Germany founded?",
+        "answer": "In 1980"
+    },
+    {
+        "question": "When was the Sorbonne founded?",
+        "answer": "1257"
+    },
+    {
+        "question": "When was the first British colony in America founded?",
+        "answer": "1607"
     },
     {
         "question": "Where are global human rights issues discussed?",
@@ -53741,6 +54149,10 @@
     {
         "question": "Where did the 'Green Morning' movement take place?",
         "answer": "In Kenya"
+    },
+    {
+        "question": "Which Egyptian pharaoh built the Great Pyramid?",
+        "answer": "Khufu"
     },
     {
         "question": "Which anthropological concept explains the vertical structure of society?",
@@ -53791,6 +54203,14 @@
         "answer": "1910s"
     },
     {
+        "question": "Which discipline studies human behavior?",
+        "answer": "Sociology"
+    },
+    {
+        "question": "Which disease is caused by bacteria of the genus Clostridium?",
+        "answer": "Tetanus"
+    },
+    {
         "question": "Which doctrine claims that the Universe possesses intelligence?",
         "answer": "Pantheism"
     },
@@ -53801,6 +54221,10 @@
     {
         "question": "Which dynasty ruled England in the 12th-13th centuries?",
         "answer": "Plantagenets"
+    },
+    {
+        "question": "Which famous philosopher introduced the concept of justice as fairness?",
+        "answer": "John Rawls"
     },
     {
         "question": "Which famous political scientist is the author of the term 'political culture'?",
@@ -53839,6 +54263,10 @@
         "answer": "Campaign for Nuclear Disarmament"
     },
     {
+        "question": "Which nationality created the frescoes in the Sistine Chapel?",
+        "answer": "Italians"
+    },
+    {
         "question": "Which organizations are involved in social support?",
         "answer": "Charitable foundations"
     },
@@ -53869,6 +54297,10 @@
     {
         "question": "Which principle respects cultural diversity and intercultural dialogue?",
         "answer": "Multiculturalism"
+    },
+    {
+        "question": "Which procedure involves a visual examination of the stomach?",
+        "answer": "Gastroscopy"
     },
     {
         "question": "Which program helps to increase employment?",
@@ -53907,6 +54339,10 @@
         "answer": "Histology"
     },
     {
+        "question": "Which scientific field began the study of simple societies?",
+        "answer": "Ethnography"
+    },
+    {
         "question": "Which style did Van Gogh popularize?",
         "answer": "Post-Impressionism"
     },
@@ -53943,6 +54379,10 @@
         "answer": "prosecutor"
     },
     {
+        "question": "Who coined the term 'globalization'?",
+        "answer": "Theodore Levitt"
+    },
+    {
         "question": "Who conducted the famous survey in Chicago?",
         "answer": "E. W. Burgess"
     },
@@ -53971,12 +54411,28 @@
         "answer": "George Murdock"
     },
     {
+        "question": "Who developed the philosophy of 'permanent revolution'?",
+        "answer": "Trotsky"
+    },
+    {
+        "question": "Who developed the theory of gender performativity?",
+        "answer": "Judith Butler"
+    },
+    {
         "question": "Who developed the theory of justice as fairness?",
         "answer": "John Rawls"
     },
     {
         "question": "Who first introduced the term 'inferiority complex'?",
         "answer": "Adler"
+    },
+    {
+        "question": "Who forms the money supply in a country?",
+        "answer": "Central Bank"
+    },
+    {
+        "question": "Who formulated the concept of justice as fairness?",
+        "answer": "John Rawls"
     },
     {
         "question": "Who founded Stoicism?",
@@ -53987,12 +54443,20 @@
         "answer": "Bahá'u'lláh"
     },
     {
+        "question": "Who founded the Cynic school?",
+        "answer": "Antisthenes"
+    },
+    {
         "question": "Who founded the neoclassical economic theory?",
         "answer": "Alfred Marshall"
     },
     {
         "question": "Who gives the mandate to govern the country in elections?",
         "answer": "Citizens"
+    },
+    {
+        "question": "Who introduced the concept of 'cultural lag'?",
+        "answer": "William Ogburn"
     },
     {
         "question": "Who introduced the concept of 'globalization' in cultural studies?",
@@ -54039,6 +54503,14 @@
         "answer": "Talcott Parsons"
     },
     {
+        "question": "Who is currently the editor-in-chief of The New York Times?",
+        "answer": "Dean Baquet"
+    },
+    {
+        "question": "Who is known as the author of 'The State and Revolution'?",
+        "answer": "Lenin"
+    },
+    {
         "question": "Who is known for their work in ethnography and led the Cambridge Museum?",
         "answer": "A. Astle"
     },
@@ -54083,8 +54555,16 @@
         "answer": "Thomas Hobbes"
     },
     {
+        "question": "Who is the father of virtue ethics?",
+        "answer": "Aristotle"
+    },
+    {
         "question": "Who is the founder of Taoism?",
         "answer": "Laozi"
+    },
+    {
+        "question": "Who is the founder of cognitive therapy?",
+        "answer": "Beck"
     },
     {
         "question": "Who is the founder of symbolic interactionism?",
@@ -54119,6 +54599,10 @@
         "answer": "Adam Smith"
     },
     {
+        "question": "Who studied cultural symbols?",
+        "answer": "Clifford Geertz"
+    },
+    {
         "question": "Who studied the influence of culture on personality?",
         "answer": "Margaret Mead"
     },
@@ -54135,12 +54619,20 @@
         "answer": "Walpole"
     },
     {
+        "question": "Who was the leader of the Greek triremes in the Battle of Salamis?",
+        "answer": "Themistocles"
+    },
+    {
         "question": "Who was the leader of the migrant rights movement in the USA?",
         "answer": "Cesar Chavez"
     },
     {
         "question": "Who wrote 'Ethics' in the 17th century?",
         "answer": "Spinoza"
+    },
+    {
+        "question": "Who wrote 'Proust and Signs'?",
+        "answer": "Gilles Deleuze"
     },
     {
         "question": "Who wrote 'The Arguments of Anthropology'?",
@@ -58543,6 +59035,10 @@
         "answer": "1948"
     },
     {
+        "question": "In what year was the International Paralympic Committee officially recognized by the IOC?",
+        "answer": "1989"
+    },
+    {
         "question": "In what year was the Volleyball Federation of Russia founded?",
         "answer": "1991"
     },
@@ -58585,6 +59081,10 @@
     {
         "question": "In which city was the first official golf match held?",
         "answer": "Edinburgh"
+    },
+    {
+        "question": "In which country is pétanque a popular sport?",
+        "answer": "France"
     },
     {
         "question": "In which country is the longest endurance rally race held?",
@@ -58801,6 +59301,10 @@
     {
         "question": "What aspect of psychology is an important element in preparing for track and field competitions?",
         "answer": "Mental resilience"
+    },
+    {
+        "question": "What aspect of psychology is important for competition preparation?",
+        "answer": "Motivation"
     },
     {
         "question": "What aspect of ski equipment is most important for professional athletes in competitions?",
@@ -59091,6 +59595,10 @@
         "answer": "Improves"
     },
     {
+        "question": "What effect does salt in water have on a swimmer's resistance?",
+        "answer": "Decreases resistance"
+    },
+    {
         "question": "What effect does specialized equipment have on a swimmer's performance?",
         "answer": "Reduces drag"
     },
@@ -59149,6 +59657,10 @@
     {
         "question": "What element of preparation is important for playing against a left-handed person?",
         "answer": "Sparring"
+    },
+    {
+        "question": "What element of preparation is most important for overcoming steep slopes?",
+        "answer": "Strength endurance"
     },
     {
         "question": "What element of strategy is critical for successfully completing a 5000-meter run?",
@@ -59283,6 +59795,10 @@
         "answer": "Camber"
     },
     {
+        "question": "What factor determines the choice of starting technique in sprint races?",
+        "answer": "Reaction"
+    },
+    {
         "question": "What factor determines the difficulty level of a show jumping course?",
         "answer": "Height of the obstacles"
     },
@@ -59329,6 +59845,10 @@
     {
         "question": "What factor is critical for determining the appropriate sail size in windsurfing?",
         "answer": "Wind strength"
+    },
+    {
+        "question": "What factor is critical for endurance training for a marathon?",
+        "answer": "Aerobic exercise"
     },
     {
         "question": "What factor is critical for load distribution in the jerk?",
@@ -59391,6 +59911,10 @@
         "answer": "Synchronization"
     },
     {
+        "question": "What factor is most critical for preventing injuries in pole vaulting?",
+        "answer": "Flexibility of the pole"
+    },
+    {
         "question": "What factor is most critical for preventing injuries when performing a snatch?",
         "answer": "Back position"
     },
@@ -59407,6 +59931,10 @@
         "answer": "Speed of movement"
     },
     {
+        "question": "What factor is most critical when choosing a tennis racket?",
+        "answer": "Balance"
+    },
+    {
         "question": "What factor is most important for a snowboarder when jumping?",
         "answer": "Amplitude"
     },
@@ -59417,6 +59945,10 @@
     {
         "question": "What factor is most important for successful participation in extreme cycling races?",
         "answer": "Endurance"
+    },
+    {
+        "question": "What factor is most important for successfully performing snowboard jumps?",
+        "answer": "Jumping technique"
     },
     {
         "question": "What factor is most important for survival in extreme diving?",
@@ -59951,8 +60483,16 @@
         "answer": "Cutback"
     },
     {
+        "question": "What is the maximum duration of an attempt in weightlifting?",
+        "answer": "One minute"
+    },
+    {
         "question": "What is the maximum number of feet a surfboard can have?",
         "answer": "Ten"
+    },
+    {
+        "question": "What is the maximum number of obstacles in show jumping?",
+        "answer": "15"
     },
     {
         "question": "What is the maximum number of participants in a mass start?",
@@ -59961,6 +60501,10 @@
     {
         "question": "What is the method called where two knights work together to create consecutive threats?",
         "answer": "Knight Cooperation"
+    },
+    {
+        "question": "What is the minimum distance from the grid to the antenna installation site?",
+        "answer": "1 meter"
     },
     {
         "question": "What is the minimum number of countries required to hold the Paralympic Games?",
@@ -60125,6 +60669,10 @@
     {
         "question": "What is the name of the host city of the first Winter Olympic Games?",
         "answer": "Chamonix"
+    },
+    {
+        "question": "What is the name of the knee injury in volleyball?",
+        "answer": "Jumper's knee"
     },
     {
         "question": "What is the name of the leg grab in MMA?",
@@ -60363,6 +60911,10 @@
         "answer": "Maximum efficiency"
     },
     {
+        "question": "What is the situation called when a pawn reaches the eighth rank and becomes a queen?",
+        "answer": "Queen promotion"
+    },
+    {
         "question": "What is the situation called when a pawn reaches the eighth rank and is transformed into another piece?",
         "answer": "Promotion"
     },
@@ -60375,8 +60927,16 @@
         "answer": "Grind"
     },
     {
+        "question": "What is the special hit called when the ball is struck with the palm?",
+        "answer": "Smash"
+    },
+    {
         "question": "What is the special training called to improve a horse's concentration before competitions?",
         "answer": "Focusing"
+    },
+    {
+        "question": "What is the standard angle for snowboard bindings?",
+        "answer": "15 degrees"
     },
     {
         "question": "What is the standard height of a tennis net?",
@@ -60579,6 +61139,10 @@
         "answer": "Optimization of training"
     },
     {
+        "question": "What logo symbolizes equality at the Paralympic Games?",
+        "answer": "Three Agitos"
+    },
+    {
         "question": "What maneuver does a surfer perform for a quick descent from a wave?",
         "answer": "Take-Off"
     },
@@ -60719,6 +61283,10 @@
         "answer": "Strength and mass"
     },
     {
+        "question": "What physical quality is most important for successfully performing a triple jump?",
+        "answer": "Explosive power"
+    },
+    {
         "question": "What physiological change occurs in a swimmer's body during prolonged exposure to cold water?",
         "answer": "Vasoconstriction"
     },
@@ -60741,6 +61309,10 @@
     {
         "question": "What physiological process is important for muscle growth?",
         "answer": "Hypertrophy"
+    },
+    {
+        "question": "What physiological quality is critical for sprinters?",
+        "answer": "Anaerobic endurance"
     },
     {
         "question": "What piece of equipment is critical for quick maneuvering on steep slopes?",
@@ -60857,6 +61429,10 @@
     {
         "question": "What quality is especially valued in horses in eventing competitions for their resilience and ability to handle changing conditions?",
         "answer": "Perseverance"
+    },
+    {
+        "question": "What quality needs to be developed in a horse for successful eventing competitions?",
+        "answer": "Endurance"
     },
     {
         "question": "What quality of a figure skater is especially important for successfully performing complex spins?",
@@ -61295,6 +61871,10 @@
         "answer": "Streamlining the body"
     },
     {
+        "question": "What technique allows a windsurfer to move against the wind?",
+        "answer": "Tack"
+    },
+    {
         "question": "What technique allows athletes to safely maneuver while kayaking in whitewater?",
         "answer": "Eskimo roll"
     },
@@ -61491,6 +62071,10 @@
         "answer": "Dressage"
     },
     {
+        "question": "What term refers to the restart of the game after the ball goes out of bounds?",
+        "answer": "Throw-in"
+    },
+    {
         "question": "What theoretical principle states that a rook should be placed behind a passed pawn?",
         "answer": "Tartakower's Rule"
     },
@@ -61605,6 +62189,10 @@
     {
         "question": "What type of snow can significantly slow down a biathlete?",
         "answer": "Wet"
+    },
+    {
+        "question": "What type of snowboard is optimal for mastering powder slopes?",
+        "answer": "Powder"
     },
     {
         "question": "What type of sport involves riding on mountain trails with a full-suspension bike?",
@@ -61935,6 +62523,10 @@
         "answer": "Breath stability"
     },
     {
+        "question": "Which athlete did Manny Pacquiao fight 5 times?",
+        "answer": "Juan Manuel Marquez"
+    },
+    {
         "question": "Which athlete dominated the Biathlon World Cup from 1998 to 2002?",
         "answer": "Raphaël Poirée"
     },
@@ -61989,6 +62581,10 @@
     {
         "question": "Which athlete won the longest match in tennis?",
         "answer": "John Isner"
+    },
+    {
+        "question": "Which athlete won the marathon at the 2012 Olympic Games?",
+        "answer": "Stephen Kiprotich"
     },
     {
         "question": "Which barbell lifting method is most effective for achieving maximum height?",
@@ -62163,6 +62759,14 @@
         "answer": "Audi"
     },
     {
+        "question": "Which car manufacturer was the first to use an energy recovery system in endurance racing?",
+        "answer": "Toyota"
+    },
+    {
+        "question": "Which car manufacturer was the first to use carbon brakes in Formula 1?",
+        "answer": "Brabham"
+    },
+    {
         "question": "Which car manufacturer was the first to use ceramic brakes in Formula 1?",
         "answer": "Porsche"
     },
@@ -62233,6 +62837,10 @@
     {
         "question": "Which chess player is considered the greatest opening theoretician of the 20th century?",
         "answer": "Aaron Nimzowitsch"
+    },
+    {
+        "question": "Which chess player is known for the defense against 1.d4?",
+        "answer": "Nimzowitsch"
     },
     {
         "question": "Which chess player was the first to reach an Elo rating of 2800?",
@@ -62423,6 +63031,10 @@
         "answer": "Qatar"
     },
     {
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "answer": "Qatar"
+    },
+    {
         "question": "Which country hosted the first European Football Championship?",
         "answer": "France"
     },
@@ -62541,6 +63153,10 @@
     {
         "question": "Which cyclist was the first to complete all stages of the Vuelta a España without dropping out?",
         "answer": "Alex Thomas"
+    },
+    {
+        "question": "Which cyclist was the first to cover 1000 km in 24 hours?",
+        "answer": "Marcel Pichon"
     },
     {
         "question": "Which cyclist was the first to cover 1000 km in a cycling race?",
@@ -62749,6 +63365,10 @@
     {
         "question": "Which dressage element requires absolute coordination and submission?",
         "answer": "Piaffe"
+    },
+    {
+        "question": "Which dressage element requires the horse to make a sharp change of direction?",
+        "answer": "Transition"
     },
     {
         "question": "Which dressage element requires the horse to move in different directions without changing direction?",
@@ -63031,6 +63651,10 @@
         "answer": "Scrum"
     },
     {
+        "question": "Which element of the snatch technique critically affects the barbell's trajectory?",
+        "answer": "Initial pull"
+    },
+    {
         "question": "Which element of training improves reaction to fast serves?",
         "answer": "Speed"
     },
@@ -63108,6 +63732,10 @@
     },
     {
         "question": "Which factor most significantly affects air resistance when moving?",
+        "answer": "Body position"
+    },
+    {
+        "question": "Which factor most significantly affects the aerodynamics of a biathlete?",
         "answer": "Body position"
     },
     {
@@ -63429,6 +64057,10 @@
     {
         "question": "Which modern tennis playing style requires high mobility?",
         "answer": "Attacking play"
+    },
+    {
+        "question": "Which motorcycle brand is known for its innovations in MotoGP?",
+        "answer": "Ducati"
     },
     {
         "question": "Which motorcycle component affects its aerodynamics?",
@@ -63867,6 +64499,10 @@
         "answer": "Flex"
     },
     {
+        "question": "Which snowboard parameter provides the best control on ice?",
+        "answer": "Edge shape"
+    },
+    {
         "question": "Which snowboarding discipline involves performances on a halfpipe with acrobatic tricks?",
         "answer": "Halfpipe"
     },
@@ -64111,6 +64747,10 @@
         "answer": "Angle of inclination"
     },
     {
+        "question": "Which technique element helps reduce fatigue during a marathon distance?",
+        "answer": "Breath control"
+    },
+    {
         "question": "Which technique element is important for effectively overcoming barriers?",
         "answer": "Step frequency"
     },
@@ -64129,6 +64769,10 @@
     {
         "question": "Which technique provides maximum efficiency in the snatch?",
         "answer": "Squat under"
+    },
+    {
+        "question": "Which technological breakthrough has had the greatest impact on the training of Paralympians?",
+        "answer": "Prosthetics"
     },
     {
         "question": "Which technology has become a standard in motorsport?",
@@ -64239,6 +64883,10 @@
         "answer": "Rafael Nadal"
     },
     {
+        "question": "Which tennis player was the first to win more than 50 titles in ATP tournaments?",
+        "answer": "Jimmy Connors"
+    },
+    {
         "question": "Which tennis player was the first to win more than 500 matches on grass?",
         "answer": "Roger Federer"
     },
@@ -64271,6 +64919,10 @@
         "answer": "Guillermo Vilas"
     },
     {
+        "question": "Which tennis shot is preferred for changing the pace of the game on the court?",
+        "answer": "Drop shot"
+    },
+    {
         "question": "Which tennis stroke is used for a sharp change in the ball's trajectory?",
         "answer": "Slice"
     },
@@ -64293,6 +64945,10 @@
     {
         "question": "Which tournament is part of the 'Golden Slam' in tennis?",
         "answer": "Olympic Games"
+    },
+    {
+        "question": "Which tournament is recognized as the oldest in rugby?",
+        "answer": "Six Nations Championship"
     },
     {
         "question": "Which track has the longest section for drifting?",
@@ -64707,6 +65363,10 @@
         "answer": "Miroslav Klose"
     },
     {
+        "question": "Who is the youngest champion in the history of the Olympic Games?",
+        "answer": "Marjorie Gestring"
+    },
+    {
         "question": "Who is the youngest marathon winner in history?",
         "answer": "Ludolf Lechne"
     },
@@ -64757,6 +65417,14 @@
     {
         "question": "Who was the first Olympic champion in boxing?",
         "answer": "Baker"
+    },
+    {
+        "question": "Who was the first Olympic champion in the history of the Olympic Games?",
+        "answer": "Coroebus of Elis"
+    },
+    {
+        "question": "Who was the first Russian player in the NHL?",
+        "answer": "Sergei Pryakhin"
     },
     {
         "question": "Who was the first WBC world boxing champion?",
@@ -64995,6 +65663,10 @@
         "answer": "Andre Agassi"
     },
     {
+        "question": "Who was the first to win an Olympic medal in five different sports?",
+        "answer": "Paavo Nurmi"
+    },
+    {
         "question": "Who was the first to win five consecutive Rugby World Cups?",
         "answer": "New Zealand"
     },
@@ -65079,6 +65751,10 @@
         "answer": "Ronald Koeman"
     },
     {
+        "question": "Who was the key player of the 1972 Summit Series?",
+        "answer": "Paul Henderson"
+    },
+    {
         "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
         "answer": "Cristiano Ronaldo"
     },
@@ -65101,6 +65777,10 @@
     {
         "question": "Who won the Ballon d'Or in 2003?",
         "answer": "Pavel Nedvěd"
+    },
+    {
+        "question": "Who won the FIBA Basketball World Cup 2019?",
+        "answer": "Spain"
     },
     {
         "question": "Who won the Fight of the Century in 1975?",
@@ -65141,6 +65821,10 @@
     {
         "question": "Who won the gold medal in the 100 meters at the 2000 Olympics?",
         "answer": "Maurice Greene"
+    },
+    {
+        "question": "Who won the gold medal in the decathlon at the 1976 Olympic Games?",
+        "answer": "Bruce Jenner"
     },
     {
         "question": "Who won the marathon at the 2000 Olympic Games?",
