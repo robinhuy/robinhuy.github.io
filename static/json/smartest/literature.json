@@ -12,6 +12,10 @@
     "answer": "Strong influence"
   },
   {
+    "question": "How is the poetics of Baroque literature characterized?",
+    "answer": "Complex metaphors"
+  },
+  {
     "question": "How old was Iris Apfel when she started her career in fashion?",
     "answer": "Sanctuary"
   },
@@ -84,8 +88,16 @@
     "answer": "An Occurrence at Owl Creek Bridge"
   },
   {
+    "question": "Name the German author who created 'Lotte in Weimar'.",
+    "answer": "Thomas Mann"
+  },
+  {
     "question": "Name the author of the legend 'Tristan and Isolde'?",
     "answer": "Thomas"
+  },
+  {
+    "question": "Name the author of the novel 'Lucius, or The Ass'?",
+    "answer": "Apuleius"
   },
   {
     "question": "To which genre does 'The Abbey of Thélème' in Rabelais' work belong?",
@@ -160,6 +172,10 @@
     "answer": "Tax revenues"
   },
   {
+    "question": "What does the concept of 'vanitas' symbolize in Baroque art?",
+    "answer": "The futility of life"
+  },
+  {
     "question": "What does the inflation index measure?",
     "answer": "Price level"
   },
@@ -182,6 +198,10 @@
   {
     "question": "What force guards the ancient artifact in 'Tales of Eldrak'?",
     "answer": "Forest Spirit"
+  },
+  {
+    "question": "What heroic order was founded to protect the world in 'The Chronicles of the Dream Keepers'?",
+    "answer": "Order of Light"
   },
   {
     "question": "What inspired Alberti to create the treatise 'Ten Books on Architecture'?",
@@ -428,6 +448,10 @@
     "answer": "Roman de la Rose"
   },
   {
+    "question": "What is the name of the novel for which Zadie Smith received the Jean Carlo Vigotti Prize?",
+    "answer": "White Teeth"
+  },
+  {
     "question": "What is the name of the oldest surviving Welsh poem?",
     "answer": "Y Gododdin"
   },
@@ -550,6 +574,10 @@
   {
     "question": "What new structure did Samuel Richardson introduce to English literature?",
     "answer": "Epistolary novel"
+  },
+  {
+    "question": "What nickname did Francis Bacon have among his contemporaries?",
+    "answer": "The Lord Chancellor"
   },
   {
     "question": "What phenomenon negatively affects labor productivity?",
@@ -716,6 +744,10 @@
     "answer": "Alan of Lille"
   },
   {
+    "question": "Which 12th-century poet wrote about the construction of the Siena Cathedral?",
+    "answer": "Lambert of Siena"
+  },
+  {
     "question": "Which 13th-century French novel is considered the first great Renaissance novel?",
     "answer": "The Romance of the Rose"
   },
@@ -768,8 +800,16 @@
     "answer": "Guillaume de Machaut"
   },
   {
+    "question": "Which French poet embodies Baroque ideals in poetry?",
+    "answer": "Joachim du Bellay"
+  },
+  {
     "question": "Which French poet embodies the Baroque style?",
     "answer": "Théophile de Viau"
+  },
+  {
+    "question": "Which French poet is considered the founder of the Pléiade?",
+    "answer": "Pierre de Ronsard"
   },
   {
     "question": "Which French writer formulated the doctrines of classicism?",
@@ -802,6 +842,10 @@
   {
     "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
     "answer": "Francesco Petrarch"
+  },
+  {
+    "question": "Which Renaissance poet used the 'Baroque' style?",
+    "answer": "Luis de Góngora"
   },
   {
     "question": "Which Renaissance poet was the first to introduce the genre of dialogue into literature?",
@@ -874,6 +918,10 @@
   {
     "question": "Which author created a cycle of stories about King Arthur in the French language?",
     "answer": "Chrétien de Troyes"
+  },
+  {
+    "question": "Which author won the National Book Award in 2017 for a novel?",
+    "answer": "Jesmyn Ward"
   },
   {
     "question": "Which author wrote 'The Mill on the Floss'?",
@@ -1032,6 +1080,10 @@
     "answer": "The Clouds"
   },
   {
+    "question": "Which comedy by Machiavelli is considered one of the best examples of Italian theater?",
+    "answer": "The Mandrake"
+  },
+  {
     "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
     "answer": "The Knights"
   },
@@ -1162,6 +1214,10 @@
   {
     "question": "Which novel by Frank Norris explores the ruthlessness of capitalism through the story of a shipyard in California?",
     "answer": "The Octopus"
+  },
+  {
+    "question": "Which novel by Frank Norris is considered the pinnacle of literary naturalism in the USA?",
+    "answer": "McTeague"
   },
   {
     "question": "Which novel by Henry James is considered the pinnacle of analyzing the social and cultural clash between Europe and America?",
@@ -1320,6 +1376,10 @@
     "answer": "The Calculating Stars"
   },
   {
+    "question": "Which novel won the Prix Goncourt in 2014?",
+    "answer": "Don't Cry"
+  },
+  {
     "question": "Which novel won the Pulitzer Prize in 2018?",
     "answer": "The Overstory"
   },
@@ -1356,8 +1416,16 @@
     "answer": "Baruch Spinoza"
   },
   {
+    "question": "Which philosophical movement became the basis of empirical knowledge?",
+    "answer": "Empiricism"
+  },
+  {
     "question": "Which philosophical movement influenced Baroque literature?",
     "answer": "Neoplatonism"
+  },
+  {
+    "question": "Which philosophical work is written in defense of both feeling and reason?",
+    "answer": "Treatise on Man"
   },
   {
     "question": "Which play by Goethe tells the story of Count Egmont?",
@@ -1568,6 +1636,10 @@
     "answer": "The Portrait of a Lady"
   },
   {
+    "question": "Which work by Henry James explores the moral dilemmas of Americans in Europe?",
+    "answer": "The American"
+  },
+  {
     "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
     "answer": "The Turn of the Screw"
   },
@@ -1578,6 +1650,10 @@
   {
     "question": "Which work by Holbach is dedicated to atheism?",
     "answer": "The System of Nature"
+  },
+  {
+    "question": "Which work by James Baldwin explores the themes of race, homosexuality, and religion in post-war America?",
+    "answer": "Giovanni's Room"
   },
   {
     "question": "Which work by Jane Austen was published second in time?",
@@ -1664,6 +1740,10 @@
     "answer": "Utopia"
   },
   {
+    "question": "Which work by Voltaire parodies the Lisbon earthquake?",
+    "answer": "Candide"
+  },
+  {
     "question": "Which work by Walt Whitman reflects the mystical connection between man and nature?",
     "answer": "Song of Myself"
   },
@@ -1682,6 +1762,10 @@
   {
     "question": "Which work combines elements of magical realism and explores themes of memory and identity?",
     "answer": "The House on the Hill"
+  },
+  {
+    "question": "Which work criticized morality and ethics?",
+    "answer": "Candide"
   },
   {
     "question": "Which work criticized the concept of natural law?",
@@ -1828,6 +1912,10 @@
     "answer": "Dialogues"
   },
   {
+    "question": "Which work was written by Longus?",
+    "answer": "Daphnis and Chloe"
+  },
+  {
     "question": "Which work was written by Petrarch?",
     "answer": "Africa"
   },
@@ -1862,6 +1950,10 @@
   {
     "question": "Who created the Floating Castle spell on the Ancient Island?",
     "answer": "Gendalfus"
+  },
+  {
+    "question": "Who created the concept of 'Paradise' and presented it in their epic?",
+    "answer": "Milton"
   },
   {
     "question": "Who destroyed the Last Memorial in 'The Secret City'?",
@@ -1934,6 +2026,10 @@
   {
     "question": "Who is the author of 'Patchwork Waltz'?",
     "answer": "Gaspara Stampa"
+  },
+  {
+    "question": "Who is the author of 'The Book of the Three Beautiful and Virtuous Ladies'?",
+    "answer": "Agnolo Firenzuola"
   },
   {
     "question": "Who is the author of 'The Pious Son', a work of Baroque poetry?",
@@ -2032,12 +2128,24 @@
     "answer": "Aymeric Picaud"
   },
   {
+    "question": "Who is the author of the work 'Lucretia' in the classicism style?",
+    "answer": "Jean Rotrou"
+  },
+  {
+    "question": "Who is the author of the work about the young Barbara?",
+    "answer": "Goethe"
+  },
+  {
     "question": "Who is the author of the work describing the journey of a knight from the Arthurian cycle to the Holy Grail?",
     "answer": "Chrétien de Troyes"
   },
   {
     "question": "Who is the founder of the White Council in Tolkien's Middle-earth?",
     "answer": "Galadriel"
+  },
+  {
+    "question": "Who is the head of House Arryn in 'A Song of Ice and Fire'?",
+    "answer": "Jon Arryn"
   },
   {
     "question": "Who is the hero of the German epic poem about the battle of brothers?",
@@ -2114,6 +2222,10 @@
   {
     "question": "Who wrote 'The Twelve Idylls'?",
     "answer": "Theocritus"
+  },
+  {
+    "question": "Who wrote 'The Year of the Golden Heat'?",
+    "answer": "James Aldridge"
   },
   {
     "question": "Who wrote the Anglo-Norman epic 'Roman de Brut'?",

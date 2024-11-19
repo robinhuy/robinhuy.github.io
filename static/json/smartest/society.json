@@ -20,6 +20,10 @@
     "answer": "By mosquito bite"
   },
   {
+    "question": "How many times does immersion occur in the holy waters during baptism in the Orthodox tradition?",
+    "answer": "Three immersions"
+  },
+  {
     "question": "How many years does a bachelor's degree take?",
     "answer": "Four"
   },
@@ -42,6 +46,10 @@
   {
     "question": "In what year was International Women's Day first celebrated?",
     "answer": "1911"
+  },
+  {
+    "question": "In what year was the Geneva Protocol ratified?",
+    "answer": "1925"
   },
   {
     "question": "In what year was the Magna Carta signed?",
@@ -130,6 +138,10 @@
   {
     "question": "What concept describes equal opportunities for everyone?",
     "answer": "Inclusion"
+  },
+  {
+    "question": "What concept describes the relationship between culture and society?",
+    "answer": "Sociocultural dynamics"
   },
   {
     "question": "What concept did Merton introduce to explain deviant behavior?",
@@ -252,6 +264,10 @@
     "answer": "Dialogue of cultures"
   },
   {
+    "question": "What does the term 'Sharia' mean?",
+    "answer": "Islamic law"
+  },
+  {
     "question": "What does the term 'anamnesis' mean?",
     "answer": "Recollection"
   },
@@ -266,6 +282,10 @@
   {
     "question": "What does the term 'ontology' mean?",
     "answer": "The study of being"
+  },
+  {
+    "question": "What does the term 'praxis' mean?",
+    "answer": "Practical activity"
   },
   {
     "question": "What does the term 'recession' mean?",
@@ -300,6 +320,10 @@
     "answer": "Experience"
   },
   {
+    "question": "What foundational text did Mary Wollstonecraft write?",
+    "answer": "A Vindication of the Rights of Woman"
+  },
+  {
     "question": "What helps create digital artificial content?",
     "answer": "Graphic editors"
   },
@@ -316,12 +340,20 @@
     "answer": "cultural materialism"
   },
   {
+    "question": "What is RSS?",
+    "answer": "A format for subscription"
+  },
+  {
     "question": "What is a digital footprint?",
     "answer": "Internet activity"
   },
   {
     "question": "What is a form of primitive defense?",
     "answer": "Denial"
+  },
+  {
+    "question": "What is a ganni hut?",
+    "answer": "A popular type of building"
   },
   {
     "question": "What is a legal norm?",
@@ -484,12 +516,28 @@
     "answer": "Influence opinion"
   },
   {
+    "question": "What is the main theme of Plato's philosophy?",
+    "answer": "Ideas"
+  },
+  {
+    "question": "What is the movement against nuclear weapons called?",
+    "answer": "Alliance for Peace"
+  },
+  {
+    "question": "What is the movement for freedom of speech called?",
+    "answer": "Freedom of Speech"
+  },
+  {
     "question": "What is the name of a law enforcement officer?",
     "answer": "Police officer"
   },
   {
     "question": "What is the name of the ancient Greek harvest festival?",
     "answer": "Thesmophoria"
+  },
+  {
+    "question": "What is the name of the author of the concept of the collective unconscious?",
+    "answer": "Jung"
   },
   {
     "question": "What is the name of the doctrine of spiritual culture in Japan?",
@@ -502,6 +550,10 @@
   {
     "question": "What is the name of the famous African style of masks?",
     "answer": "Punu masks"
+  },
+  {
+    "question": "What is the name of the first United Nations High Commissioner for Human Rights?",
+    "answer": "José Ayala Lasso"
   },
   {
     "question": "What is the name of the international court?",
@@ -676,6 +728,10 @@
     "answer": "Socialization"
   },
   {
+    "question": "What is the term for the violation of citizens' rights and freedoms?",
+    "answer": "offense"
+  },
+  {
     "question": "What is the theory based on moral duty called?",
     "answer": "Deontology"
   },
@@ -712,6 +768,10 @@
     "answer": "Available resources"
   },
   {
+    "question": "What method is used to measure the human body in anthropology?",
+    "answer": "Anthropometry"
+  },
+  {
     "question": "What movement opposes corporate control and inequality?",
     "answer": "Anti-consumerism"
   },
@@ -746,6 +806,10 @@
   {
     "question": "What principle did Zeno of Citium propose?",
     "answer": "Apathy"
+  },
+  {
+    "question": "What process leads to cultural changes?",
+    "answer": "Globalization"
   },
   {
     "question": "What protects children's rights?",
@@ -876,6 +940,10 @@
     "answer": "Satyagraha"
   },
   {
+    "question": "What was the name of the treaty that ended the Crusades?",
+    "answer": "Treaty of Jaffa"
+  },
+  {
     "question": "What was the slogan of the Indian independence movement?",
     "answer": "Satyagraha"
   },
@@ -924,6 +992,10 @@
     "answer": "In Kenya"
   },
   {
+    "question": "Where did the dance art of Butoh originate?",
+    "answer": "Japan"
+  },
+  {
     "question": "Which Egyptian pharaoh built the Great Pyramid?",
     "answer": "Khufu"
   },
@@ -933,6 +1005,10 @@
   },
   {
     "question": "Which anthropologist developed the method of ethnography?",
+    "answer": "Bronisław Malinowski"
+  },
+  {
+    "question": "Which anthropologist is known for his research in the field of rituals?",
     "answer": "Bronisław Malinowski"
   },
   {
@@ -968,8 +1044,16 @@
     "answer": "Lateran"
   },
   {
+    "question": "Which country created the Magna Carta?",
+    "answer": "England"
+  },
+  {
     "question": "Which country is not a signatory of the European Convention on Human Rights?",
     "answer": "Belarus"
+  },
+  {
+    "question": "Which culture introduced the writing system 'cuneiform'?",
+    "answer": "Sumerians"
   },
   {
     "question": "Which decade is considered the beginning of the feminist movement in Russia?",
@@ -996,6 +1080,10 @@
     "answer": "Plantagenets"
   },
   {
+    "question": "Which ethical study focuses on ultimate goals?",
+    "answer": "Teleology"
+  },
+  {
     "question": "Which famous philosopher introduced the concept of justice as fairness?",
     "answer": "John Rawls"
   },
@@ -1014,6 +1102,10 @@
   {
     "question": "Which governance is better suited for a globalized world?",
     "answer": "Multilevel governance"
+  },
+  {
+    "question": "Which group fights for climate justice?",
+    "answer": "Extinction Rebellion"
   },
   {
     "question": "Which industries dominate the world?",
@@ -1038,6 +1130,10 @@
   {
     "question": "Which nationality created the frescoes in the Sistine Chapel?",
     "answer": "Italians"
+  },
+  {
+    "question": "Which of the following terms refers to tax reduction?",
+    "answer": "Tax incentives"
   },
   {
     "question": "Which organizations are involved in social support?",
@@ -1084,12 +1180,20 @@
     "answer": "FL"
   },
   {
+    "question": "Which program provides free medication to pensioners?",
+    "answer": "Subsidized Provision"
+  },
+  {
     "question": "Which region has been most affected by globalization?",
     "answer": "Africa"
   },
   {
     "question": "Which region is the most integrated into the process of globalization?",
     "answer": "The West"
+  },
+  {
+    "question": "Which right is related to ecology?",
+    "answer": "The right to a favorable environment"
   },
   {
     "question": "Which right protects against violence?",
@@ -1172,6 +1276,10 @@
     "answer": "Claude Lévi-Strauss"
   },
   {
+    "question": "Who developed the concept of 'justice as fairness'?",
+    "answer": "Rawls"
+  },
+  {
     "question": "Who developed the concept of 'will to power'?",
     "answer": "Friedrich Nietzsche"
   },
@@ -1194,6 +1302,10 @@
   {
     "question": "Who developed the theory of justice as fairness?",
     "answer": "John Rawls"
+  },
+  {
+    "question": "Who fights for human rights at the international level?",
+    "answer": "UN"
   },
   {
     "question": "Who first introduced the term 'inferiority complex'?",
@@ -1272,6 +1384,10 @@
     "answer": "Simone de Beauvoir"
   },
   {
+    "question": "Who is considered the founder of pragmatism?",
+    "answer": "Charles Peirce"
+  },
+  {
     "question": "Who is considered the founder of structural functionalism?",
     "answer": "Talcott Parsons"
   },
@@ -1316,12 +1432,24 @@
     "answer": "Émile Durkheim"
   },
   {
+    "question": "Who is the author of the book 'The Woman and the Proletariat'?",
+    "answer": "Alexandra Kollontai"
+  },
+  {
+    "question": "Who is the author of the concept of 'utilitarianism'?",
+    "answer": "Jeremy Bentham"
+  },
+  {
     "question": "Who is the author of the concept of justice as fairness?",
     "answer": "John Rawls"
   },
   {
     "question": "Who is the author of the concept of positive thinking?",
     "answer": "Martin Seligman"
+  },
+  {
+    "question": "Who is the author of the middle-range theory?",
+    "answer": "Robert Merton"
   },
   {
     "question": "Who is the author of the work 'Leviathan'?",
@@ -1380,6 +1508,10 @@
     "answer": "Margaret Mead"
   },
   {
+    "question": "Who studied the mechanisms of memory?",
+    "answer": "George Miller"
+  },
+  {
     "question": "Who studied the structure of myths?",
     "answer": "Claude Lévi-Strauss"
   },
@@ -1392,6 +1524,10 @@
     "answer": "Walpole"
   },
   {
+    "question": "Who was the founder of BBC Radio?",
+    "answer": "John Reith"
+  },
+  {
     "question": "Who was the leader of the Greek triremes in the Battle of Salamis?",
     "answer": "Themistocles"
   },
@@ -1402,6 +1538,10 @@
   {
     "question": "Who wrote 'Ethics' in the 17th century?",
     "answer": "Spinoza"
+  },
+  {
+    "question": "Who wrote 'Groundwork of the Metaphysics of Morals'?",
+    "answer": "Kant"
   },
   {
     "question": "Who wrote 'Proust and Signs'?",
