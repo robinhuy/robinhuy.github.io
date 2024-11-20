@@ -6417,6 +6417,10 @@
         "answer": "Brisket"
     },
     {
+        "question": "The Bellini cocktail consists of champagne and which fruit puree?",
+        "answer": "Peach"
+    },
+    {
         "question": "What Brazilian sweet is made from coconut and condensed milk?",
         "answer": "Cocada"
     },
@@ -6659,6 +6663,10 @@
     {
         "question": "What is served with Japanese fast food tempura?",
         "answer": "Soy sauce"
+    },
+    {
+        "question": "What is the French festive cake 'La bûche de Noël' called?",
+        "answer": "Yule log"
     },
     {
         "question": "What is the baking method called that uses steam?",
@@ -6957,6 +6965,10 @@
         "answer": "Caramelization"
     },
     {
+        "question": "What is the technique of beating eggs and sugar until foamy called?",
+        "answer": "Creaming"
+    },
+    {
         "question": "What is the technique of cooking meat in a vacuum at low temperature called?",
         "answer": "Sous-vide"
     },
@@ -7007,6 +7019,10 @@
     {
         "question": "What is usually used for tteokbokki?",
         "answer": "Rice cakes"
+    },
+    {
+        "question": "What meat is used in Japanese cuisine for the dish 'shuko kaza tokari'?",
+        "answer": "Pork"
     },
     {
         "question": "What meat is used to prepare the dish vitello tonnato?",
@@ -7103,6 +7119,10 @@
     {
         "question": "What sauce is traditionally served with yakitori?",
         "answer": "Teriyaki"
+    },
+    {
+        "question": "What seasoning is popular for flavoring fish dishes?",
+        "answer": "Capers"
     },
     {
         "question": "What should you rub on meat before roasting?",
@@ -7211,6 +7231,10 @@
     {
         "question": "What type of tea is traditionally used for the 'Chanoyu' ceremony?",
         "answer": "Matcha"
+    },
+    {
+        "question": "What type of wine is popular to drink chilled in the summer?",
+        "answer": "Rosé wine"
     },
     {
         "question": "What was called the 'heavenly drink' in ancient times?",
@@ -7525,6 +7549,10 @@
         "answer": "Carbon dioxide"
     },
     {
+        "question": "Which grain contains the most protein?",
+        "answer": "Amaranth"
+    },
+    {
         "question": "Which herb is often used to flavor dishes in French cuisine?",
         "answer": "lavender"
     },
@@ -7675,6 +7703,10 @@
     {
         "question": "Which vegetable is often considered a superfood?",
         "answer": "Kale"
+    },
+    {
+        "question": "Which vegetable is often used in Japanese cuisine?",
+        "answer": "Daikon"
     },
     {
         "question": "Who created the recipe for the first alcoholic cocktail?",
@@ -8257,6 +8289,10 @@
         "answer": "Risk insurance"
     },
     {
+        "question": "What is hyperinflation?",
+        "answer": "A rapid increase in prices"
+    },
+    {
         "question": "What is hypothesis testing?",
         "answer": "Statistical"
     },
@@ -8375,6 +8411,10 @@
     {
         "question": "What is the name of the model that explains economic growth through innovation?",
         "answer": "Schumpeter Model"
+    },
+    {
+        "question": "What is the name of the organization that issues securities?",
+        "answer": "Issuer"
     },
     {
         "question": "What is the national accounts database?",
@@ -8579,6 +8619,10 @@
     {
         "question": "Which clustering method is based on distance?",
         "answer": "K-means"
+    },
+    {
+        "question": "Which company dominated the global trade in spices and textiles in the 16th-17th centuries?",
+        "answer": "Dutch East India Company"
     },
     {
         "question": "Which company was the first to be listed on NASDAQ?",
@@ -30956,8 +31000,16 @@
         "answer": "Benoît de Sainte-Maure"
     },
     {
+        "question": "French poet and author of 'Roman de Renart'?",
+        "answer": "Pierre de Saint-Cloud"
+    },
+    {
         "question": "How did the ancient heritage influence the works of Classicism?",
         "answer": "Strong influence"
+    },
+    {
+        "question": "How is the poetics of Baroque literature characterized?",
+        "answer": "Complex metaphors"
     },
     {
         "question": "How old was Iris Apfel when she started her career in fashion?",
@@ -30976,12 +31028,20 @@
         "answer": "Pericles"
     },
     {
+        "question": "In which Shakespeare play is Treachery the name of the usurper?",
+        "answer": "Macbeth"
+    },
+    {
         "question": "In which book do the characters first encounter the Wanderer Tagro?",
         "answer": "The Silmarillion"
     },
     {
         "question": "In which language is the work 'Le Roman de Renart' written?",
         "answer": "Middle French"
+    },
+    {
+        "question": "In which novel is cannibalism described by Kitty Leroy?",
+        "answer": "Tippi and Her Many Sins"
     },
     {
         "question": "In which work are elements of magical realism used to explore the legacy of violence and slavery?",
@@ -31024,8 +31084,16 @@
         "answer": "An Occurrence at Owl Creek Bridge"
     },
     {
+        "question": "Name the German author who created 'Lotte in Weimar'.",
+        "answer": "Thomas Mann"
+    },
+    {
         "question": "Name the author of the legend 'Tristan and Isolde'?",
         "answer": "Thomas"
+    },
+    {
+        "question": "Name the author of the novel 'Lucius, or The Ass'?",
+        "answer": "Apuleius"
     },
     {
         "question": "To which genre does 'The Abbey of Thélème' in Rabelais' work belong?",
@@ -31100,6 +31168,10 @@
         "answer": "Tax revenues"
     },
     {
+        "question": "What does the concept of 'vanitas' symbolize in Baroque art?",
+        "answer": "The futility of life"
+    },
+    {
         "question": "What does the inflation index measure?",
         "answer": "Price level"
     },
@@ -31124,6 +31196,10 @@
         "answer": "Forest Spirit"
     },
     {
+        "question": "What heroic order was founded to protect the world in 'The Chronicles of the Dream Keepers'?",
+        "answer": "Order of Light"
+    },
+    {
         "question": "What inspired Alberti to create the treatise 'Ten Books on Architecture'?",
         "answer": "Vitruvius"
     },
@@ -31134,6 +31210,10 @@
     {
         "question": "What is Prospero's role in Shakespeare's play 'The Tempest'?",
         "answer": "sorcerer"
+    },
+    {
+        "question": "What is Sauron's true name in Middle-earth?",
+        "answer": "Mairon"
     },
     {
         "question": "What is hypothesis testing?",
@@ -31214,6 +31294,10 @@
     {
         "question": "What is the name of Robert de Boron's work about the Round Table?",
         "answer": "'Vulgate'"
+    },
+    {
+        "question": "What is the name of Roland's hometown in 'The Dark Tower'?",
+        "answer": "Gilead"
     },
     {
         "question": "What is the name of Torquato Tasso's poem about Sir Richard the Lionheart?",
@@ -31312,6 +31396,10 @@
         "answer": "Romanicon"
     },
     {
+        "question": "What is the name of the doctor in Stephen King's 'The Dark Tower'?",
+        "answer": "Jones"
+    },
+    {
         "question": "What is the name of the dragon in Strizh in Daniel Reed's film 'Creed Rock'?",
         "answer": "Northern"
     },
@@ -31354,6 +31442,10 @@
     {
         "question": "What is the name of the medieval poem about love and redemption?",
         "answer": "Roman de la Rose"
+    },
+    {
+        "question": "What is the name of the novel for which Zadie Smith received the Jean Carlo Vigotti Prize?",
+        "answer": "White Teeth"
     },
     {
         "question": "What is the name of the oldest surviving Welsh poem?",
@@ -31410,6 +31502,10 @@
     {
         "question": "What is the name of the work about Parisian students of the 13th century?",
         "answer": "Cartulary"
+    },
+    {
+        "question": "What is the name of the work associated with the chivalric poem about the Holy Grail and its quest?",
+        "answer": "Parzival"
     },
     {
         "question": "What is the name of the work by the ancient Greek philosopher that explores the theme of love?",
@@ -31476,12 +31572,20 @@
         "answer": "Epistolary novel"
     },
     {
+        "question": "What nickname did Francis Bacon have among his contemporaries?",
+        "answer": "The Lord Chancellor"
+    },
+    {
         "question": "What phenomenon negatively affects labor productivity?",
         "answer": "Recession"
     },
     {
         "question": "What philosophical ideas did Erasmus of Rotterdam promote in his works?",
         "answer": "humanism"
+    },
+    {
+        "question": "What philosophy did Pico della Mirandola support?",
+        "answer": "Hermeticism"
     },
     {
         "question": "What power does Aratorn, the main character in 'The Desert Kingdoms' by Brian Staveley, use?",
@@ -31516,12 +31620,20 @@
         "answer": "Main"
     },
     {
+        "question": "What role did metaphors play in Baroque literature?",
+        "answer": "central"
+    },
+    {
         "question": "What role did the ancient heritage play in classical literature?",
         "answer": "Primary"
     },
     {
         "question": "What role did the works of Ludovico Ariosto play in Italian Renaissance literature?",
         "answer": "primary"
+    },
+    {
+        "question": "What role do letters and diaries play in Jane Austen's novels?",
+        "answer": "Main theme"
     },
     {
         "question": "What social issue does Jane Austen address in the novel 'Mansfield Park'?",
@@ -31572,6 +31684,10 @@
         "answer": "Satire and humor"
     },
     {
+        "question": "What was the main theme of Spinoza's philosophical writings?",
+        "answer": "Ethics"
+    },
+    {
         "question": "What was the name of Goethe's first great work?",
         "answer": "Faust"
     },
@@ -31586,6 +31702,10 @@
     {
         "question": "What was the name of the first king of the Golden Kingdom in the trilogy 'Supreme Patriarch'?",
         "answer": "Arthur Speik"
+    },
+    {
+        "question": "What was the name of the first known witch in the history of Hogwarts?",
+        "answer": "Morgana"
     },
     {
         "question": "What was the name of the magical ship in 'Ballads of Katrin'?",
@@ -31620,12 +31740,20 @@
         "answer": "Alan of Lille"
     },
     {
+        "question": "Which 12th-century poet wrote about the construction of the Siena Cathedral?",
+        "answer": "Lambert of Siena"
+    },
+    {
         "question": "Which 13th-century French novel is considered the first great Renaissance novel?",
         "answer": "The Romance of the Rose"
     },
     {
         "question": "Which Baroque era work was written by Francesco Vochino?",
         "answer": "Adonis"
+    },
+    {
+        "question": "Which Danish work about heroes from Jutland is associated with the legendary King Hrolf?",
+        "answer": "Gesta Danorum"
     },
     {
         "question": "Which Dutch humanist wrote the work 'On the Education of Children'?",
@@ -31668,8 +31796,16 @@
         "answer": "Guillaume de Machaut"
     },
     {
+        "question": "Which French poet embodies Baroque ideals in poetry?",
+        "answer": "Joachim du Bellay"
+    },
+    {
         "question": "Which French poet embodies the Baroque style?",
         "answer": "Théophile de Viau"
+    },
+    {
+        "question": "Which French poet is considered the founder of the Pléiade?",
+        "answer": "Pierre de Ronsard"
     },
     {
         "question": "Which French writer formulated the doctrines of classicism?",
@@ -31702,6 +31838,10 @@
     {
         "question": "Which Renaissance poet introduced the term 'platonic love' into literature?",
         "answer": "Francesco Petrarch"
+    },
+    {
+        "question": "Which Renaissance poet used the 'Baroque' style?",
+        "answer": "Luis de Góngora"
     },
     {
         "question": "Which Renaissance poet was the first to introduce the genre of dialogue into literature?",
@@ -31774,6 +31914,10 @@
     {
         "question": "Which author created a cycle of stories about King Arthur in the French language?",
         "answer": "Chrétien de Troyes"
+    },
+    {
+        "question": "Which author won the National Book Award in 2017 for a novel?",
+        "answer": "Jesmyn Ward"
     },
     {
         "question": "Which author wrote 'The Mill on the Floss'?",
@@ -31896,6 +32040,10 @@
         "answer": "Le Mage du Kremlin"
     },
     {
+        "question": "Which book won the Pulitzer Prize in 2016?",
+        "answer": "The Sympathizer"
+    },
+    {
         "question": "Which book, first published in 2015, won the Pulitzer Prize and became a bestseller?",
         "answer": "The Sympathizer"
     },
@@ -31924,6 +32072,14 @@
         "answer": "Slow fashion"
     },
     {
+        "question": "Which comedy by Aristophanes mocks the intellectuals of Athens?",
+        "answer": "The Clouds"
+    },
+    {
+        "question": "Which comedy by Machiavelli is considered one of the best examples of Italian theater?",
+        "answer": "The Mandrake"
+    },
+    {
         "question": "Which comedy was written by the ancient Greek playwright Aristophanes?",
         "answer": "The Knights"
     },
@@ -31948,6 +32104,10 @@
         "answer": "Medea"
     },
     {
+        "question": "Which dramatic principle is expressed in the doctrine of classicism?",
+        "answer": "Three unities"
+    },
+    {
         "question": "Which economic variables can be considered long-term?",
         "answer": "Long-term trends"
     },
@@ -31958,6 +32118,10 @@
     {
         "question": "Which element is part of the strict genre canons of classicism?",
         "answer": "Normative language"
+    },
+    {
+        "question": "Which element of Baroque is often associated with the idea of transience?",
+        "answer": "vanitas"
     },
     {
         "question": "Which elements are abundant in the literary style of Baroque?",
@@ -32028,6 +32192,10 @@
         "answer": "A Little Life"
     },
     {
+        "question": "Which novel by Charlotte Brontë is written in the Romantic genre?",
+        "answer": "Jane Eyre"
+    },
+    {
         "question": "Which novel by David Grossman was awarded the Prix Médicis?",
         "answer": "See Under: Love"
     },
@@ -32038,6 +32206,14 @@
     {
         "question": "Which novel by Frank Norris depicts the ruthlessness of capitalism through the story of railroads in California?",
         "answer": "The Octopus"
+    },
+    {
+        "question": "Which novel by Frank Norris explores the ruthlessness of capitalism through the story of a shipyard in California?",
+        "answer": "The Octopus"
+    },
+    {
+        "question": "Which novel by Frank Norris is considered the pinnacle of literary naturalism in the USA?",
+        "answer": "McTeague"
     },
     {
         "question": "Which novel by Henry James is considered the pinnacle of analyzing the social and cultural clash between Europe and America?",
@@ -32070,6 +32246,10 @@
     {
         "question": "Which novel by William Dean Howells depicts the manners of the middle class?",
         "answer": "The Rise of Silas Lapham"
+    },
+    {
+        "question": "Which novel by William Faulkner contains diverse narratives from several members of the Bundren family?",
+        "answer": "As I Lay Dying"
     },
     {
         "question": "Which novel by William Faulkner was written in the form of newspaper installments between 1929 and 1930?",
@@ -32192,6 +32372,18 @@
         "answer": "The Calculating Stars"
     },
     {
+        "question": "Which novel won the Prix Goncourt in 2014?",
+        "answer": "Don't Cry"
+    },
+    {
+        "question": "Which novel won the Pulitzer Prize in 2018?",
+        "answer": "The Overstory"
+    },
+    {
+        "question": "Which novel won the Women's Prize for Fiction in 2019?",
+        "answer": "The Silence of the Girls"
+    },
+    {
         "question": "Which novel won the main literary award in the UK in 2009 and was adapted into an HBO series?",
         "answer": "Wolf Hall"
     },
@@ -32220,8 +32412,16 @@
         "answer": "Baruch Spinoza"
     },
     {
+        "question": "Which philosophical movement became the basis of empirical knowledge?",
+        "answer": "Empiricism"
+    },
+    {
         "question": "Which philosophical movement influenced Baroque literature?",
         "answer": "Neoplatonism"
+    },
+    {
+        "question": "Which philosophical work is written in defense of both feeling and reason?",
+        "answer": "Treatise on Man"
     },
     {
         "question": "Which play by Goethe tells the story of Count Egmont?",
@@ -32262,6 +32462,10 @@
     {
         "question": "Which poem by Francesco Petrarch became famous during the Renaissance?",
         "answer": "Africa"
+    },
+    {
+        "question": "Which poem by Góngora is an example of literary Baroque?",
+        "answer": "'Polidoro'"
     },
     {
         "question": "Which poem did Sidney write inspired by the Renaissance?",
@@ -32392,6 +32596,10 @@
         "answer": "The Persians"
     },
     {
+        "question": "Which work by Béroul was written in Old French?",
+        "answer": "The Romance of Tristan"
+    },
+    {
         "question": "Which work by Diderot criticizes religion and morality?",
         "answer": "The Nun"
     },
@@ -32424,6 +32632,10 @@
         "answer": "The Portrait of a Lady"
     },
     {
+        "question": "Which work by Henry James explores the moral dilemmas of Americans in Europe?",
+        "answer": "The American"
+    },
+    {
         "question": "Which work by Henry James explores the psychological aspects of women's lives through a ghost story?",
         "answer": "The Turn of the Screw"
     },
@@ -32436,8 +32648,16 @@
         "answer": "The System of Nature"
     },
     {
+        "question": "Which work by James Baldwin explores the themes of race, homosexuality, and religion in post-war America?",
+        "answer": "Giovanni's Room"
+    },
+    {
         "question": "Which work by Jane Austen was published second in time?",
         "answer": "Pride and Prejudice"
+    },
+    {
+        "question": "Which work by Jean de La Fontaine embodies classical ideals?",
+        "answer": "'Fables'"
     },
     {
         "question": "Which work by John Cheever explores nostalgia and social decline?",
@@ -32516,6 +32736,10 @@
         "answer": "Utopia"
     },
     {
+        "question": "Which work by Voltaire parodies the Lisbon earthquake?",
+        "answer": "Candide"
+    },
+    {
         "question": "Which work by Walt Whitman reflects the mystical connection between man and nature?",
         "answer": "Song of Myself"
     },
@@ -32536,6 +32760,10 @@
         "answer": "The House on the Hill"
     },
     {
+        "question": "Which work criticized morality and ethics?",
+        "answer": "Candide"
+    },
+    {
         "question": "Which work criticized the concept of natural law?",
         "answer": "The Social Contract"
     },
@@ -32550,6 +32778,10 @@
     {
         "question": "Which work describes the legend of King Arthur as a historical figure?",
         "answer": "History of the Kings of Britain"
+    },
+    {
+        "question": "Which work describes the pilgrimage of laypeople to Jerusalem in Old French?",
+        "answer": "The Pilgrimage of Charlemagne"
     },
     {
         "question": "Which work did George Sand use to demonstrate her progressive views?",
@@ -32676,6 +32908,10 @@
         "answer": "Dialogues"
     },
     {
+        "question": "Which work was written by Longus?",
+        "answer": "Daphnis and Chloe"
+    },
+    {
         "question": "Which work was written by Petrarch?",
         "answer": "Africa"
     },
@@ -32710,6 +32946,10 @@
     {
         "question": "Who created the Floating Castle spell on the Ancient Island?",
         "answer": "Gendalfus"
+    },
+    {
+        "question": "Who created the concept of 'Paradise' and presented it in their epic?",
+        "answer": "Milton"
     },
     {
         "question": "Who destroyed the Last Memorial in 'The Secret City'?",
@@ -32776,8 +33016,20 @@
         "answer": "Jean-Paul Gaultier"
     },
     {
+        "question": "Who is the author of \"Saga of Hakon\"?",
+        "answer": "Snorri Sturluson"
+    },
+    {
         "question": "Who is the author of 'Patchwork Waltz'?",
         "answer": "Gaspara Stampa"
+    },
+    {
+        "question": "Who is the author of 'The Book of the Three Beautiful and Virtuous Ladies'?",
+        "answer": "Agnolo Firenzuola"
+    },
+    {
+        "question": "Who is the author of 'The Pious Son', a work of Baroque poetry?",
+        "answer": "Andreas Gryphius"
     },
     {
         "question": "Who is the author of 'The Tale of the Golden Fleece'?",
@@ -32872,12 +33124,24 @@
         "answer": "Aymeric Picaud"
     },
     {
+        "question": "Who is the author of the work 'Lucretia' in the classicism style?",
+        "answer": "Jean Rotrou"
+    },
+    {
+        "question": "Who is the author of the work about the young Barbara?",
+        "answer": "Goethe"
+    },
+    {
         "question": "Who is the author of the work describing the journey of a knight from the Arthurian cycle to the Holy Grail?",
         "answer": "Chrétien de Troyes"
     },
     {
         "question": "Who is the founder of the White Council in Tolkien's Middle-earth?",
         "answer": "Galadriel"
+    },
+    {
+        "question": "Who is the head of House Arryn in 'A Song of Ice and Fire'?",
+        "answer": "Jon Arryn"
     },
     {
         "question": "Who is the hero of the German epic poem about the battle of brothers?",
@@ -32956,6 +33220,10 @@
         "answer": "Theocritus"
     },
     {
+        "question": "Who wrote 'The Year of the Golden Heat'?",
+        "answer": "James Aldridge"
+    },
+    {
         "question": "Who wrote the Anglo-Norman epic 'Roman de Brut'?",
         "answer": "Wace"
     },
@@ -32990,6 +33258,10 @@
     {
         "question": "Who wrote the novel that won the Baileys Women's Prize for Fiction in 2016?",
         "answer": "Lisa McInerney"
+    },
+    {
+        "question": "Who wrote the novel that won the Norwegian Brage Prize in 2010?",
+        "answer": "Katarina Flatland"
     },
     {
         "question": "Who wrote the poem 'Pearl'?",
@@ -46382,6 +46654,10 @@
         "answer": "Paul Cézanne"
     },
     {
+        "question": "Which artist is known for his paintings featuring cardsharps?",
+        "answer": "Georges de La Tour"
+    },
+    {
         "question": "Which brand is famous for using rhinestones?",
         "answer": "Dolce & Gabbana"
     },
@@ -46878,6 +47154,10 @@
         "answer": "Emperor of Japan"
     },
     {
+        "question": "Who laid the foundations of quantitative genetics?",
+        "answer": "Ronald Fisher"
+    },
+    {
         "question": "Who led Cambodia before Pol Pot?",
         "answer": "Norodom Sihanouk"
     },
@@ -46940,6 +47220,10 @@
     {
         "question": "Who predicted the existence of gravitational waves?",
         "answer": "Einstein"
+    },
+    {
+        "question": "Who proposed the concept of sociometry?",
+        "answer": "Jacob Moreno"
     },
     {
         "question": "Who proposed the idea of a neutron star?",
@@ -47142,6 +47426,10 @@
         "answer": "Xuanzang"
     },
     {
+        "question": "Who was the king of France during the French Revolution?",
+        "answer": "Louis XVI"
+    },
+    {
         "question": "Who was the leader of Iran since 1979?",
         "answer": "Ruhollah Khomeini"
     },
@@ -47224,6 +47512,10 @@
     {
         "question": "Who wrote 'The Sad Knights'?",
         "answer": "Petrov-Vodkin"
+    },
+    {
+        "question": "Who wrote 'The Scaffold'?",
+        "answer": "Chingiz Aitmatov"
     },
     {
         "question": "Who wrote 'The Twelve Labors of Hercules'?",
@@ -53247,6 +53539,10 @@
         "answer": "By mosquito bite"
     },
     {
+        "question": "How many times does immersion occur in the holy waters during baptism in the Orthodox tradition?",
+        "answer": "Three immersions"
+    },
+    {
         "question": "How many years does a bachelor's degree take?",
         "answer": "Four"
     },
@@ -53269,6 +53565,10 @@
     {
         "question": "In what year was International Women's Day first celebrated?",
         "answer": "1911"
+    },
+    {
+        "question": "In what year was the Geneva Protocol ratified?",
+        "answer": "1925"
     },
     {
         "question": "In what year was the Magna Carta signed?",
@@ -53357,6 +53657,10 @@
     {
         "question": "What concept describes equal opportunities for everyone?",
         "answer": "Inclusion"
+    },
+    {
+        "question": "What concept describes the relationship between culture and society?",
+        "answer": "Sociocultural dynamics"
     },
     {
         "question": "What concept did Merton introduce to explain deviant behavior?",
@@ -53479,6 +53783,10 @@
         "answer": "Dialogue of cultures"
     },
     {
+        "question": "What does the term 'Sharia' mean?",
+        "answer": "Islamic law"
+    },
+    {
         "question": "What does the term 'anamnesis' mean?",
         "answer": "Recollection"
     },
@@ -53493,6 +53801,10 @@
     {
         "question": "What does the term 'ontology' mean?",
         "answer": "The study of being"
+    },
+    {
+        "question": "What does the term 'praxis' mean?",
+        "answer": "Practical activity"
     },
     {
         "question": "What does the term 'recession' mean?",
@@ -53527,6 +53839,10 @@
         "answer": "Experience"
     },
     {
+        "question": "What foundational text did Mary Wollstonecraft write?",
+        "answer": "A Vindication of the Rights of Woman"
+    },
+    {
         "question": "What helps create digital artificial content?",
         "answer": "Graphic editors"
     },
@@ -53543,12 +53859,20 @@
         "answer": "cultural materialism"
     },
     {
+        "question": "What is RSS?",
+        "answer": "A format for subscription"
+    },
+    {
         "question": "What is a digital footprint?",
         "answer": "Internet activity"
     },
     {
         "question": "What is a form of primitive defense?",
         "answer": "Denial"
+    },
+    {
+        "question": "What is a ganni hut?",
+        "answer": "A popular type of building"
     },
     {
         "question": "What is a legal norm?",
@@ -53711,12 +54035,28 @@
         "answer": "Influence opinion"
     },
     {
+        "question": "What is the main theme of Plato's philosophy?",
+        "answer": "Ideas"
+    },
+    {
+        "question": "What is the movement against nuclear weapons called?",
+        "answer": "Alliance for Peace"
+    },
+    {
+        "question": "What is the movement for freedom of speech called?",
+        "answer": "Freedom of Speech"
+    },
+    {
         "question": "What is the name of a law enforcement officer?",
         "answer": "Police officer"
     },
     {
         "question": "What is the name of the ancient Greek harvest festival?",
         "answer": "Thesmophoria"
+    },
+    {
+        "question": "What is the name of the author of the concept of the collective unconscious?",
+        "answer": "Jung"
     },
     {
         "question": "What is the name of the doctrine of spiritual culture in Japan?",
@@ -53729,6 +54069,10 @@
     {
         "question": "What is the name of the famous African style of masks?",
         "answer": "Punu masks"
+    },
+    {
+        "question": "What is the name of the first United Nations High Commissioner for Human Rights?",
+        "answer": "José Ayala Lasso"
     },
     {
         "question": "What is the name of the international court?",
@@ -53903,6 +54247,10 @@
         "answer": "Socialization"
     },
     {
+        "question": "What is the term for the violation of citizens' rights and freedoms?",
+        "answer": "offense"
+    },
+    {
         "question": "What is the theory based on moral duty called?",
         "answer": "Deontology"
     },
@@ -53939,6 +54287,10 @@
         "answer": "Available resources"
     },
     {
+        "question": "What method is used to measure the human body in anthropology?",
+        "answer": "Anthropometry"
+    },
+    {
         "question": "What movement opposes corporate control and inequality?",
         "answer": "Anti-consumerism"
     },
@@ -53973,6 +54325,10 @@
     {
         "question": "What principle did Zeno of Citium propose?",
         "answer": "Apathy"
+    },
+    {
+        "question": "What process leads to cultural changes?",
+        "answer": "Globalization"
     },
     {
         "question": "What protects children's rights?",
@@ -54103,6 +54459,10 @@
         "answer": "Satyagraha"
     },
     {
+        "question": "What was the name of the treaty that ended the Crusades?",
+        "answer": "Treaty of Jaffa"
+    },
+    {
         "question": "What was the slogan of the Indian independence movement?",
         "answer": "Satyagraha"
     },
@@ -54151,6 +54511,10 @@
         "answer": "In Kenya"
     },
     {
+        "question": "Where did the dance art of Butoh originate?",
+        "answer": "Japan"
+    },
+    {
         "question": "Which Egyptian pharaoh built the Great Pyramid?",
         "answer": "Khufu"
     },
@@ -54160,6 +54524,10 @@
     },
     {
         "question": "Which anthropologist developed the method of ethnography?",
+        "answer": "Bronisław Malinowski"
+    },
+    {
+        "question": "Which anthropologist is known for his research in the field of rituals?",
         "answer": "Bronisław Malinowski"
     },
     {
@@ -54195,8 +54563,16 @@
         "answer": "Lateran"
     },
     {
+        "question": "Which country created the Magna Carta?",
+        "answer": "England"
+    },
+    {
         "question": "Which country is not a signatory of the European Convention on Human Rights?",
         "answer": "Belarus"
+    },
+    {
+        "question": "Which culture introduced the writing system 'cuneiform'?",
+        "answer": "Sumerians"
     },
     {
         "question": "Which decade is considered the beginning of the feminist movement in Russia?",
@@ -54223,6 +54599,10 @@
         "answer": "Plantagenets"
     },
     {
+        "question": "Which ethical study focuses on ultimate goals?",
+        "answer": "Teleology"
+    },
+    {
         "question": "Which famous philosopher introduced the concept of justice as fairness?",
         "answer": "John Rawls"
     },
@@ -54241,6 +54621,10 @@
     {
         "question": "Which governance is better suited for a globalized world?",
         "answer": "Multilevel governance"
+    },
+    {
+        "question": "Which group fights for climate justice?",
+        "answer": "Extinction Rebellion"
     },
     {
         "question": "Which industries dominate the world?",
@@ -54265,6 +54649,10 @@
     {
         "question": "Which nationality created the frescoes in the Sistine Chapel?",
         "answer": "Italians"
+    },
+    {
+        "question": "Which of the following terms refers to tax reduction?",
+        "answer": "Tax incentives"
     },
     {
         "question": "Which organizations are involved in social support?",
@@ -54311,12 +54699,20 @@
         "answer": "FL"
     },
     {
+        "question": "Which program provides free medication to pensioners?",
+        "answer": "Subsidized Provision"
+    },
+    {
         "question": "Which region has been most affected by globalization?",
         "answer": "Africa"
     },
     {
         "question": "Which region is the most integrated into the process of globalization?",
         "answer": "The West"
+    },
+    {
+        "question": "Which right is related to ecology?",
+        "answer": "The right to a favorable environment"
     },
     {
         "question": "Which right protects against violence?",
@@ -54399,6 +54795,10 @@
         "answer": "Claude Lévi-Strauss"
     },
     {
+        "question": "Who developed the concept of 'justice as fairness'?",
+        "answer": "Rawls"
+    },
+    {
         "question": "Who developed the concept of 'will to power'?",
         "answer": "Friedrich Nietzsche"
     },
@@ -54421,6 +54821,10 @@
     {
         "question": "Who developed the theory of justice as fairness?",
         "answer": "John Rawls"
+    },
+    {
+        "question": "Who fights for human rights at the international level?",
+        "answer": "UN"
     },
     {
         "question": "Who first introduced the term 'inferiority complex'?",
@@ -54499,6 +54903,10 @@
         "answer": "Simone de Beauvoir"
     },
     {
+        "question": "Who is considered the founder of pragmatism?",
+        "answer": "Charles Peirce"
+    },
+    {
         "question": "Who is considered the founder of structural functionalism?",
         "answer": "Talcott Parsons"
     },
@@ -54543,12 +54951,24 @@
         "answer": "Émile Durkheim"
     },
     {
+        "question": "Who is the author of the book 'The Woman and the Proletariat'?",
+        "answer": "Alexandra Kollontai"
+    },
+    {
+        "question": "Who is the author of the concept of 'utilitarianism'?",
+        "answer": "Jeremy Bentham"
+    },
+    {
         "question": "Who is the author of the concept of justice as fairness?",
         "answer": "John Rawls"
     },
     {
         "question": "Who is the author of the concept of positive thinking?",
         "answer": "Martin Seligman"
+    },
+    {
+        "question": "Who is the author of the middle-range theory?",
+        "answer": "Robert Merton"
     },
     {
         "question": "Who is the author of the work 'Leviathan'?",
@@ -54607,6 +55027,10 @@
         "answer": "Margaret Mead"
     },
     {
+        "question": "Who studied the mechanisms of memory?",
+        "answer": "George Miller"
+    },
+    {
         "question": "Who studied the structure of myths?",
         "answer": "Claude Lévi-Strauss"
     },
@@ -54619,6 +55043,10 @@
         "answer": "Walpole"
     },
     {
+        "question": "Who was the founder of BBC Radio?",
+        "answer": "John Reith"
+    },
+    {
         "question": "Who was the leader of the Greek triremes in the Battle of Salamis?",
         "answer": "Themistocles"
     },
@@ -54629,6 +55057,10 @@
     {
         "question": "Who wrote 'Ethics' in the 17th century?",
         "answer": "Spinoza"
+    },
+    {
+        "question": "Who wrote 'Groundwork of the Metaphysics of Morals'?",
+        "answer": "Kant"
     },
     {
         "question": "Who wrote 'Proust and Signs'?",
