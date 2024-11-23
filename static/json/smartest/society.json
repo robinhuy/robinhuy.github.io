@@ -116,6 +116,10 @@
     "answer": "Robots"
   },
   {
+    "question": "What are journalists who work on freelance topics called?",
+    "answer": "Freelancers"
+  },
+  {
     "question": "What are the goods called that are used for further production?",
     "answer": "Intermediate goods"
   },
@@ -180,6 +184,10 @@
     "answer": "Really Simple Syndication"
   },
   {
+    "question": "What does a notary do?",
+    "answer": "Certifies documents"
+  },
+  {
     "question": "What does a pulse oximeter do?",
     "answer": "Measures saturation"
   },
@@ -198,6 +206,10 @@
   {
     "question": "What does clinical psychology study?",
     "answer": "Mental disorders"
+  },
+  {
+    "question": "What does cognitive anthropology study?",
+    "answer": "thinking"
   },
   {
     "question": "What does cybernetics study?",
@@ -252,6 +264,10 @@
     "answer": "moral duties"
   },
   {
+    "question": "What does the concept of social mobility describe?",
+    "answer": "Movement in status"
+  },
+  {
     "question": "What does the ethical concept of 'duty' reflect?",
     "answer": "Moral obligations"
   },
@@ -280,6 +296,10 @@
     "answer": "Urine excretion"
   },
   {
+    "question": "What does the term 'diversification' mean?",
+    "answer": "Risk spreading"
+  },
+  {
     "question": "What does the term 'ontology' mean?",
     "answer": "The study of being"
   },
@@ -300,8 +320,16 @@
     "answer": "Competition"
   },
   {
+    "question": "What economic phenomenon is characterized by a rapid and uncontrolled increase in prices?",
+    "answer": "Hyperinflation"
+  },
+  {
     "question": "What economic process supports globalization?",
     "answer": "Liberalization"
+  },
+  {
+    "question": "What event symbolizes the active development of globalization?",
+    "answer": "Internet revolution"
   },
   {
     "question": "What event symbolizes the beginning of globalization?",
@@ -344,6 +372,10 @@
     "answer": "A format for subscription"
   },
   {
+    "question": "What is a defibrillator used for?",
+    "answer": "Restoring heart rhythm"
+  },
+  {
     "question": "What is a digital footprint?",
     "answer": "Internet activity"
   },
@@ -356,12 +388,20 @@
     "answer": "A popular type of building"
   },
   {
+    "question": "What is a legal basis?",
+    "answer": "Law"
+  },
+  {
     "question": "What is a legal norm?",
     "answer": "Mandatory rule"
   },
   {
     "question": "What is a legal system?",
     "answer": "System of norms"
+  },
+  {
+    "question": "What is a market economy?",
+    "answer": "Freedom of trade"
   },
   {
     "question": "What is a priority area in the economy?",
@@ -492,6 +532,10 @@
     "answer": "Federation"
   },
   {
+    "question": "What is the foundation of socialism?",
+    "answer": "equality"
+  },
+  {
     "question": "What is the fundamental principle in law?",
     "answer": "Legality"
   },
@@ -526,6 +570,10 @@
   {
     "question": "What is the movement for freedom of speech called?",
     "answer": "Freedom of Speech"
+  },
+  {
+    "question": "What is the name of Spinoza's work?",
+    "answer": "Ethics"
   },
   {
     "question": "What is the name of a law enforcement officer?",
@@ -612,8 +660,16 @@
     "answer": "Auscultation"
   },
   {
+    "question": "What is the process called when parties reach an agreement?",
+    "answer": "Mediation"
+  },
+  {
     "question": "What is the process of a person's adaptation to changing conditions called?",
     "answer": "Adaptation"
+  },
+  {
+    "question": "What is the process of concluding a peace agreement between parties called?",
+    "answer": "Mediation"
   },
   {
     "question": "What is the process of data transfer called?",
@@ -658,6 +714,10 @@
   {
     "question": "What is the right to protection from arbitrary interference in personal life called?",
     "answer": "Privacy"
+  },
+  {
+    "question": "What is the role of the World Trade Organization (WTO)?",
+    "answer": "Regulation of global trade"
   },
   {
     "question": "What is the sacred plant in Hinduism?",
@@ -820,6 +880,10 @@
     "answer": "Occupy Wall Street"
   },
   {
+    "question": "What regulates property relations?",
+    "answer": "Civil law"
+  },
+  {
     "question": "What regulates the economy according to Keynesianism?",
     "answer": "The government"
   },
@@ -900,6 +964,10 @@
     "answer": "Glocalization"
   },
   {
+    "question": "What term is used to describe working and communicating in virtual reality?",
+    "answer": "Virtual reality"
+  },
+  {
     "question": "What term refers to an online course with a large number of participants?",
     "answer": "MOOC"
   },
@@ -934,6 +1002,10 @@
   {
     "question": "What was the name of the ancient Indian empire?",
     "answer": "Maurya"
+  },
+  {
+    "question": "What was the name of the military-defensive alliance of Greek city-states?",
+    "answer": "Delian League"
   },
   {
     "question": "What was the name of the peaceful movement for India's independence?",
@@ -1132,6 +1204,10 @@
     "answer": "Italians"
   },
   {
+    "question": "Which newspaper was one of the first published by brothers James and Benjamin Franklin in the USA?",
+    "answer": "The Pennsylvania Gazette"
+  },
+  {
     "question": "Which of the following terms refers to tax reduction?",
     "answer": "Tax incentives"
   },
@@ -1146,6 +1222,10 @@
   {
     "question": "Which philosopher claimed that 'existence precedes essence'?",
     "answer": "Sartre"
+  },
+  {
+    "question": "Which philosopher developed the concept of 'will to live'?",
+    "answer": "Arthur Schopenhauer"
   },
   {
     "question": "Which philosopher linked religion with morality?",
@@ -1196,6 +1276,10 @@
     "answer": "The right to a favorable environment"
   },
   {
+    "question": "Which right protects against unlawful arrest?",
+    "answer": "Right to freedom"
+  },
+  {
     "question": "Which right protects against violence?",
     "answer": "Personal"
   },
@@ -1228,6 +1312,10 @@
     "answer": "Social policy"
   },
   {
+    "question": "Which theologian wrote the 'Nicene Creed'?",
+    "answer": "Athanasius of Alexandria"
+  },
+  {
     "question": "Which theory analyzes the intersection of different forms of oppression?",
     "answer": "Intersectionality"
   },
@@ -1242,6 +1330,10 @@
   {
     "question": "Which theory studies the performativity of gender?",
     "answer": "Judith Butler's Theory"
+  },
+  {
+    "question": "Which theory views society as a system of interactions?",
+    "answer": "Symbolic Interactionism"
   },
   {
     "question": "Which transportation system facilitated global trade?",
@@ -1420,6 +1512,10 @@
     "answer": "Mill"
   },
   {
+    "question": "Who is the author of the book 'A Room of One's Own'?",
+    "answer": "Virginia Woolf"
+  },
+  {
     "question": "Who is the author of the book 'Anthropology Treatise'?",
     "answer": "Claude Lévi-Strauss"
   },
@@ -1434,6 +1530,14 @@
   {
     "question": "Who is the author of the book 'The Woman and the Proletariat'?",
     "answer": "Alexandra Kollontai"
+  },
+  {
+    "question": "Who is the author of the concept 'learning by doing'?",
+    "answer": "John Dewey"
+  },
+  {
+    "question": "Who is the author of the concept of 'globalization'?",
+    "answer": "Max Weber"
   },
   {
     "question": "Who is the author of the concept of 'utilitarianism'?",
@@ -1472,8 +1576,16 @@
     "answer": "Herbert Blumer"
   },
   {
+    "question": "Who is the founder of the philosophy 'existentialism'?",
+    "answer": "Sartre"
+  },
+  {
     "question": "Who is the theorist of the concept of the rule of law?",
     "answer": "Immanuel Kant"
+  },
+  {
+    "question": "Who is worshipped in Shintoism?",
+    "answer": "Kami"
   },
   {
     "question": "Who issues rulings?",
@@ -1482,6 +1594,10 @@
   {
     "question": "Who led the Salt March?",
     "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Who proposed the concept of justice?",
+    "answer": "John Rawls"
   },
   {
     "question": "Who proposed the social learning theory?",
@@ -1516,6 +1632,10 @@
     "answer": "Claude Lévi-Strauss"
   },
   {
+    "question": "Who was a famous pharaoh of Ancient Egypt?",
+    "answer": "Ramses II"
+  },
+  {
     "question": "Who was one of the leaders of the anti-colonial movements in Africa?",
     "answer": "Kwame Nkrumah"
   },
@@ -1542,6 +1662,10 @@
   {
     "question": "Who wrote 'Groundwork of the Metaphysics of Morals'?",
     "answer": "Kant"
+  },
+  {
+    "question": "Who wrote 'Letters to Lucilius'?",
+    "answer": "Seneca"
   },
   {
     "question": "Who wrote 'Proust and Signs'?",
