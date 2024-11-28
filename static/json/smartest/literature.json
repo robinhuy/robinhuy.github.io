@@ -52,6 +52,10 @@
     "answer": "The Silmarillion"
   },
   {
+    "question": "In which country were the first Baroque plays written?",
+    "answer": "Spain"
+  },
+  {
     "question": "In which epic work is a fertile meadow described?",
     "answer": "The Song of the Nibelungs"
   },
@@ -190,6 +194,10 @@
   {
     "question": "What artifact does Elric of Melniboné use to summon the gods of chaos?",
     "answer": "Ring of Kings"
+  },
+  {
+    "question": "What artifact is the host searching for in 'Vimes'?",
+    "answer": "Ring of Epochs"
   },
   {
     "question": "What aspect of aesthetics does Baroque literature emphasize?",
@@ -644,6 +652,10 @@
     "answer": "hyperbolism"
   },
   {
+    "question": "What is the surname of the main character in Shakespeare's play 'Twelfth Night'?",
+    "answer": "Malvolio"
+  },
+  {
     "question": "What is the title of the Jane Austen novel where the events take place at Kellynch Hall?",
     "answer": "The Mandrake"
   },
@@ -794,6 +806,10 @@
   {
     "question": "What term describes the mixture of Christian and Platonic ideas in Renaissance literature?",
     "answer": "Christian Platonism"
+  },
+  {
+    "question": "What term is used to describe a utopian work described in Renaissance literature?",
+    "answer": "Utopia"
   },
   {
     "question": "What title did Brutus's father hold in Shakespeare's play?",
@@ -978,6 +994,10 @@
   {
     "question": "Which Haruki Murakami novel was awarded the Franz Kafka Prize?",
     "answer": "Kafka on the Shore"
+  },
+  {
+    "question": "Which Indian author was awarded the Booker Prize in 2008 for their debut work of fiction?",
+    "answer": "Aravind Adiga"
   },
   {
     "question": "Which Italian poet is known as a master of literary Baroque?",
@@ -1186,6 +1206,10 @@
   {
     "question": "Which book was awarded the 'Premio Planeta' in 2019?",
     "answer": "Forgotten Voices"
+  },
+  {
+    "question": "Which book was awarded the Costa Book Award for Best Novel in 2015?",
+    "answer": "A God in Ruins"
   },
   {
     "question": "Which book was awarded the Golden Medal at the International Book Fair in Bratislava in 2019?",
@@ -1602,6 +1626,14 @@
   {
     "question": "Which novel won the 'Booker International Prize' in 2019?",
     "answer": "The Discomfort of Evening"
+  },
+  {
+    "question": "Which novel won the 'Crystal' award in 2021?",
+    "answer": "Pale Light"
+  },
+  {
+    "question": "Which novel won the 'Libesg' award in 2020?",
+    "answer": "Moon Glare"
   },
   {
     "question": "Which novel won the 'Waterstones' award in 2019?",
@@ -2038,6 +2070,10 @@
   {
     "question": "Which work by Plautus is one of the earliest comedies?",
     "answer": "Amphitryon"
+  },
+  {
+    "question": "Which work by Ralph Waldo Emerson, published in 1841, explores the philosophy of celebrating individuality?",
+    "answer": "Self-Reliance"
   },
   {
     "question": "Which work by Ralph Waldo Emerson, written in 1841, explores the philosophy of individualism and self-reliance?",
@@ -2632,6 +2668,10 @@
     "answer": "Homer"
   },
   {
+    "question": "Who wrote 'The Song of the Nibelungs'?",
+    "answer": "Unknown author"
+  },
+  {
     "question": "Who wrote 'The Twelve Idylls'?",
     "answer": "Theocritus"
   },
@@ -2746,5 +2786,9 @@
   {
     "question": "Whose work introduced the world to utopias?",
     "answer": "Thomas More"
+  },
+  {
+    "question": "Whose work parodies the Lisbon earthquake?",
+    "answer": "Voltaire"
   }
 ]
