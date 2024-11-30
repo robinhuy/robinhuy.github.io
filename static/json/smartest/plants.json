@@ -380,6 +380,10 @@
     "answer": "Eleutherococcus"
   },
   {
+    "question": "What is contained in a cherry pit?",
+    "answer": "Seed"
+  },
+  {
     "question": "What is genetic transformation?",
     "answer": "Change in DNA"
   },
@@ -458,6 +462,10 @@
   {
     "question": "What is the name of the cactus often used to make beverages?",
     "answer": "Peyote"
+  },
+  {
+    "question": "What is the name of the carnivorous plant that catches insects?",
+    "answer": "Sundew"
   },
   {
     "question": "What is the name of the dead wood element on a bonsai?",
@@ -620,8 +628,16 @@
     "answer": "Hydrolysis"
   },
   {
+    "question": "What is the process of electron transfer called?",
+    "answer": "Electron transport chain"
+  },
+  {
     "question": "What is the process of forming organic substances from CO2 in the dark phase called?",
     "answer": "Calvin Cycle"
+  },
+  {
+    "question": "What is the process of interaction between plants and insects called?",
+    "answer": "Pollination"
   },
   {
     "question": "What is the process of lengthening called?",
@@ -840,6 +856,10 @@
     "answer": "Thallus"
   },
   {
+    "question": "What structures do plants use to catch insects?",
+    "answer": "Traps"
+  },
+  {
     "question": "What structures in plants facilitate gas exchange?",
     "answer": "Stomata"
   },
@@ -860,6 +880,10 @@
     "answer": "alkaloids"
   },
   {
+    "question": "What substances do lichens release?",
+    "answer": "Organic acids"
+  },
+  {
     "question": "What technique allows for editing plant genes?",
     "answer": "CRISPR"
   },
@@ -874,6 +898,10 @@
   {
     "question": "What trees are characteristic of savanna ecosystems?",
     "answer": "Baobabs"
+  },
+  {
+    "question": "What trees are used for the production of frankincense?",
+    "answer": "Boswellia"
   },
   {
     "question": "What tropical plant grows in the Amazon?",
@@ -1774,6 +1802,10 @@
   {
     "question": "Which plant is typical for the steppe?",
     "answer": "Feather grass"
+  },
+  {
+    "question": "Which plant is underwater and twines?",
+    "answer": "Chara"
   },
   {
     "question": "Which plant is used as a sweetener?",
