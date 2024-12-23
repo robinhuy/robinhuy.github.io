@@ -150,6 +150,10 @@
     "answer": "Lützen"
   },
   {
+    "question": "In which battle did Hannibal defeat the Romans in 216 BC?",
+    "answer": "Cannae"
+  },
+  {
     "question": "In which battle did Napoleon participate in Egypt?",
     "answer": "Battle of the Pyramids"
   },
@@ -242,6 +246,10 @@
   },
   {
     "question": "In which year did the construction of the Great Wall of China begin?"
+  },
+  {
+    "question": "In which years did Vasco da Gama's expedition take place?",
+    "answer": "1497-1499"
   },
   {
     "question": "Medieval Mongolian law:",
@@ -520,6 +528,10 @@
   {
     "question": "What ideas did the Anabaptists promote?",
     "answer": "Adult baptism"
+  },
+  {
+    "question": "What important international treaty was signed by the USA and the USSR in 1987?",
+    "answer": "INF Treaty"
   },
   {
     "question": "What important social reform took place in the United Kingdom in the 19th century?",
@@ -938,6 +950,10 @@
     "answer": "Silver"
   },
   {
+    "question": "What was the main goal of Britain's foreign policy in the 19th century?",
+    "answer": "Colonialism"
+  },
+  {
     "question": "What was the main goal of Pan-Americanism?",
     "answer": "Strengthening ties"
   },
@@ -1146,6 +1162,10 @@
     "answer": "Mohenjo-Daro"
   },
   {
+    "question": "What was the name of the anti-communist campaign in the USA?",
+    "answer": "McCarthyism"
+  },
+  {
     "question": "What was the name of the art style that emerged during the Renaissance?",
     "answer": "Renaissance"
   },
@@ -1309,6 +1329,10 @@
     "answer": "Kaifeng"
   },
   {
+    "question": "What was the name of the main code of laws in Babylon?",
+    "answer": "Code of Hammurabi"
+  },
+  {
     "question": "What was the name of the main document signed in 1991?",
     "answer": "Belavezha Accords"
   },
@@ -1401,6 +1425,10 @@
     "answer": "Shamash"
   },
   {
+    "question": "What was the name of the system that blocked trade with England?",
+    "answer": "Continental Blockade"
+  },
+  {
     "question": "What was the name of the temporary governing body in France in 1793?",
     "answer": "Committee of Public Safety"
   },
@@ -1431,6 +1459,10 @@
   {
     "question": "What was the original name of Australia?",
     "answer": "New Holland"
+  },
+  {
+    "question": "What was the outcome of Napoleon's Italian campaign?",
+    "answer": "Campo Formio"
   },
   {
     "question": "What was the outcome of the Industrial Revolution?",
@@ -1626,12 +1658,20 @@
     "answer": "1642"
   },
   {
+    "question": "When did Vietnam gain independence from France?",
+    "answer": "1954"
+  },
+  {
     "question": "When did civilization begin in Ancient Mesopotamia?",
     "answer": "Around 3500 BCE"
   },
   {
     "question": "When did the Akkadian Empire exist?",
     "answer": "24th-22nd centuries BC"
+  },
+  {
+    "question": "When did the American Revolutionary War begin?",
+    "answer": "1775"
   },
   {
     "question": "When did the Battle of Cartagena take place?",
@@ -2099,6 +2139,10 @@
     "answer": "Battle of Legnica"
   },
   {
+    "question": "Which battle took place in 1410 between Poland and the Teutonic Order?",
+    "answer": "Battle of Grunwald"
+  },
+  {
     "question": "Which battle took place in 1775?",
     "answer": "Bunker Hill"
   },
@@ -2190,6 +2234,10 @@
     "answer": "Athens"
   },
   {
+    "question": "Which code was introduced by Napoleon in 1808?",
+    "answer": "Napoleonic Code"
+  },
+  {
     "question": "Which conference determined the post-war borders of Europe?",
     "answer": "Potsdam Conference"
   },
@@ -2229,6 +2277,10 @@
   {
     "question": "Which countries participated in the signing of the Peace of Westphalia?",
     "answer": "France and Spain"
+  },
+  {
+    "question": "Which countries were part of ancient China?",
+    "answer": "Vietnam"
   },
   {
     "question": "Which countries were part of the Third Coalition against Napoleon?",
@@ -2292,6 +2344,10 @@
   {
     "question": "Which country introduced Peronism as a political ideology?",
     "answer": "Argentina"
+  },
+  {
+    "question": "Which country led the Protestant League?",
+    "answer": "Sweden"
   },
   {
     "question": "Which country returned Lend-Lease aid?",
@@ -2407,6 +2463,10 @@
     "answer": "Legislative act"
   },
   {
+    "question": "Which document terminated the existence of the Warsaw Pact?",
+    "answer": "Prague Protocol"
+  },
+  {
     "question": "Which dynasty improved porcelain?",
     "answer": "Song"
   },
@@ -2456,8 +2516,16 @@
     "question": "Which famous aqueduct supplied water to Ancient Rome?"
   },
   {
+    "question": "Which famous battle took place in India in 1527?",
+    "answer": "Battle of Panipat"
+  },
+  {
     "question": "Which famous book on strategy and governance was written in ancient India?",
     "answer": "Arthashastra"
+  },
+  {
+    "question": "Which famous book was written by Machiavelli?",
+    "answer": "The Prince"
   },
   {
     "question": "Which famous building was constructed for the Great Exhibition of 1851?"
@@ -2566,6 +2634,10 @@
   {
     "question": "Which king revoked the Edict of Nantes?",
     "answer": "Louis XIV"
+  },
+  {
+    "question": "Which kingdom became the first Protestant state?",
+    "answer": "Saxony"
   },
   {
     "question": "Which kingdom existed in the south of India and was famous for its temples?",
@@ -2743,6 +2815,10 @@
     "answer": "National Recovery Administration"
   },
   {
+    "question": "Which policy supported farmers?",
+    "answer": "Agricultural Adjustment Act"
+  },
+  {
     "question": "Which politician led the reforms in China at the end of the 20th century?",
     "answer": "Deng Xiaoping"
   },
@@ -2811,6 +2887,10 @@
   {
     "question": "Which ship played a key role in the colonization of Australia?",
     "answer": "Sirius"
+  },
+  {
+    "question": "Which socialist organization was founded in 1864?",
+    "answer": "First International"
   },
   {
     "question": "Which state did Kublai Khan establish?",
@@ -2885,6 +2965,10 @@
     "answer": "San Marcos"
   },
   {
+    "question": "Which volcano erupted in Iceland in 2010?",
+    "answer": "Eyjafjallajökull"
+  },
+  {
     "question": "Which war began during the reign of Queen Victoria?",
     "answer": "First Anglo-Afghan War"
   },
@@ -2931,6 +3015,10 @@
   {
     "question": "Who became the first Secretary of State of the United States?",
     "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "Who became the president of Egypt after the 1952 revolution?",
+    "answer": "Gamal Abdel Nasser"
   },
   {
     "question": "Who built the Crystal Palace?",
@@ -2993,6 +3081,10 @@
     "answer": "John Atanasoff"
   },
   {
+    "question": "Who created the symbolism of the empire?",
+    "answer": "Maurice"
+  },
+  {
     "question": "Who created the system of reforms?",
     "answer": "Xianyang Wudi"
   },
@@ -3030,6 +3122,10 @@
   {
     "question": "Who developed the theory of black holes?",
     "answer": "Stephen Hawking"
+  },
+  {
+    "question": "Who did Napoleon fight in Italy?",
+    "answer": "Austria"
   },
   {
     "question": "Who did the Mongol general Subutai fight against?",
@@ -3133,6 +3229,10 @@
   {
     "question": "Who is called the founder of the Reformation?",
     "answer": "Luther"
+  },
+  {
+    "question": "Who is considered the creator of astronomy in Mesopotamia?",
+    "answer": "Sumerians"
   },
   {
     "question": "Who is known as the 'Black Napoleon'?",
@@ -3320,6 +3420,10 @@
     "question": "Who was the Chairman of the Council of People's Commissars of the RSFSR in 1919?"
   },
   {
+    "question": "Who was the Chairman of the Council of People's Commissars of the USSR in 1924?",
+    "answer": "Alexei Rykov"
+  },
+  {
     "question": "Who was the French marshal who participated in the Battle of Wagram?",
     "answer": "Louis Marmont"
   },
@@ -3379,6 +3483,10 @@
     "answer": "Simone da Orsenigo"
   },
   {
+    "question": "Who was the architect of the iconic Victorian-era structure, the Crystal Palace?",
+    "answer": "Joseph Paxton"
+  },
+  {
     "question": "Who was the author of the 'New Deal'?",
     "answer": "Franklin Roosevelt"
   },
@@ -3414,6 +3522,10 @@
     "answer": "Gustavus Adolphus"
   },
   {
+    "question": "Who was the conqueror of Mesopotamia in 2300 BC?",
+    "answer": "Sargon the Great"
+  },
+  {
     "question": "Who was the developer of the first atomic bomb?",
     "answer": "Robert Oppenheimer"
   },
@@ -3424,6 +3536,10 @@
   {
     "question": "Who was the famous Chinese military strategist during the Three Kingdoms period?",
     "answer": "Zhuge Liang"
+  },
+  {
+    "question": "Who was the famous Roman general during the destruction of Jerusalem?",
+    "answer": "Titus"
   },
   {
     "question": "Who was the famous conqueror and leader of the Roman army in the Third Punic War?",
@@ -3442,8 +3558,16 @@
     "answer": "Otto von Bismarck"
   },
   {
+    "question": "Who was the first Emperor of Mexico?",
+    "answer": "Agustín de Iturbide"
+  },
+  {
     "question": "Who was the first European to reach the shores of the Pacific Ocean?",
     "answer": "Vasco Núñez de Balboa"
+  },
+  {
+    "question": "Who was the first President of the European Commission?",
+    "answer": "Walter Hallstein"
   },
   {
     "question": "Who was the first Prime Minister of New Zealand?",
@@ -3545,6 +3669,10 @@
   {
     "question": "Who was the largest patron of the arts during the Renaissance?",
     "answer": "Lorenzo de' Medici"
+  },
+  {
+    "question": "Who was the last emperor of Byzantium?",
+    "answer": "Constantine XI"
   },
   {
     "question": "Who was the last pagan emperor of Rome?",
@@ -3650,6 +3778,10 @@
   {
     "question": "Who wrote 'Middlemarch'?",
     "answer": "George Eliot"
+  },
+  {
+    "question": "Who wrote 'The Book of Five Rings'?",
+    "answer": "Miyamoto Musashi"
   },
   {
     "question": "Who wrote 'The Histories'?",
