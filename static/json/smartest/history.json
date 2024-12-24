@@ -24,6 +24,10 @@
     "answer": "Reforms and progress"
   },
   {
+    "question": "How long did the War of Independence of Spanish colonies in Latin America last?",
+    "answer": "15 years"
+  },
+  {
     "question": "How many Crusades were there in total?",
     "answer": "9"
   },
@@ -52,6 +56,10 @@
   {
     "question": "In what year did Constantinople fall?",
     "answer": "1453"
+  },
+  {
+    "question": "In what year did Ethiopia win the Battle of Adwa?",
+    "answer": "1896"
   },
   {
     "question": "In what year did Magellan begin his voyage?",
@@ -180,6 +188,10 @@
   {
     "question": "In which battle did Napoleon participate in Egypt?",
     "answer": "Battle of the Pyramids"
+  },
+  {
+    "question": "In which battle did Varus die?",
+    "answer": ""
   },
   {
     "question": "In which battle did the Crusaders achieve victory over the Ayyubids?",
@@ -311,6 +323,10 @@
     "answer": "Armistice of Compiègne"
   },
   {
+    "question": "What agreement did the USA and the USSR sign in 1963?",
+    "answer": "Nuclear Test Ban Treaty"
+  },
+  {
     "question": "What amount was covered by the famous insurance policy?",
     "answer": "$2500"
   },
@@ -401,6 +417,10 @@
     "answer": "Mule machine"
   },
   {
+    "question": "What did 'Nicaean' mean?",
+    "answer": "Council of bishops"
+  },
+  {
     "question": "What did Luther assert?",
     "answer": "Sola Scriptura"
   },
@@ -473,6 +493,14 @@
     "answer": "The Sack of Constantinople"
   },
   {
+    "question": "What event in 1956 marked the end of British colonial rule in Egypt?",
+    "answer": "Suez Crisis"
+  },
+  {
+    "question": "What event in 1986 led to an environmental disaster?",
+    "answer": "Chernobyl disaster"
+  },
+  {
     "question": "What event is also known as the 'Berlin Crisis' of 1948?",
     "answer": "Berlin Blockade"
   },
@@ -491,6 +519,10 @@
   {
     "question": "What event led to the United States entering World War I?",
     "answer": "Sinking of the Lusitania"
+  },
+  {
+    "question": "What event led to the beginning of the Holocaust?",
+    "answer": "Holocaust"
   },
   {
     "question": "What event led to the fall of the Roman Republic?",
@@ -556,6 +588,10 @@
   {
     "question": "What famous religious conflict occurred in history?",
     "answer": "Iconoclasm"
+  },
+  {
+    "question": "What final document was signed at the Reykjavik Summit?",
+    "answer": "Renunciation of nuclear launches"
   },
   {
     "question": "What gas was used in Ypres in 1915?",
@@ -699,6 +735,10 @@
   {
     "question": "What marked the end of the Cold War?",
     "answer": "Dissolution of the USSR"
+  },
+  {
+    "question": "What marked the end of the French Revolution?",
+    "answer": "The fall of Robespierre"
   },
   {
     "question": "What measure stabilized the US banking system in the 1930s?",
@@ -885,6 +925,10 @@
   {
     "question": "What treaty ended World War I?",
     "answer": "Treaty of Versailles"
+  },
+  {
+    "question": "What treaty was signed by the USA and the USSR in 1987?",
+    "answer": "INF Treaty"
   },
   {
     "question": "What type of art was developed in Ancient Rus'?",
@@ -1262,6 +1306,10 @@
     "answer": "Machu Picchu"
   },
   {
+    "question": "What was the name of the ancient Minoan royal palace on Crete?",
+    "answer": "Knossos"
+  },
+  {
     "question": "What was the name of the ancient capital of the Lydian Kingdom?",
     "answer": "Sardis"
   },
@@ -1434,11 +1482,19 @@
     "answer": "Subutai"
   },
   {
+    "question": "What was the name of the heretical movement in Southern France?",
+    "answer": "Catharism"
+  },
+  {
     "question": "What was the name of the king known for his despotism in England?"
   },
   {
     "question": "What was the name of the leader of the French Resistance?",
     "answer": "Charles de Gaulle"
+  },
+  {
+    "question": "What was the name of the leader of the Vietnam War against the USA?",
+    "answer": "Ho Chi Minh"
   },
   {
     "question": "What was the name of the leader of the resistance against the French in West Africa in the 19th century?",
@@ -1700,6 +1756,10 @@
   },
   {
     "question": "What were the Mongol rulers of regions called?"
+  },
+  {
+    "question": "What were the Roman customs called that allowed actions in the interest of the state?",
+    "answer": "mos maiorum"
   },
   {
     "question": "What were the Soviet pilots who participated in the Berlin Blockade called?",
@@ -2057,6 +2117,10 @@
     "answer": "Vienna"
   },
   {
+    "question": "Where was Great Zimbabwe located?",
+    "answer": "Zimbabwe"
+  },
+  {
     "question": "Where was Saint George born?",
     "answer": "Cappadocia"
   },
@@ -2088,12 +2152,20 @@
     "answer": "The Enlightenment"
   },
   {
+    "question": "Which African city was once called Rakotis?",
+    "answer": "Alexandria"
+  },
+  {
     "question": "Which African country was associated with the Berlin Conference of 1884-1885?",
     "answer": "Congo"
   },
   {
     "question": "Which African country was invaded by Italy in 1936?",
     "answer": "Ethiopia"
+  },
+  {
+    "question": "Which African politician received the Nobel Peace Prize in 1960?",
+    "answer": "Albert Luthuli"
   },
   {
     "question": "Which African politician received the Nobel Peace Prize in 1984?",
@@ -2244,6 +2316,10 @@
     "question": "Which army stopped the Mongol invasion in Europe?"
   },
   {
+    "question": "Which army was defeated in the Battle of Rocroi?",
+    "answer": "Spanish"
+  },
+  {
     "question": "Which army was the first to be defeated by the Mongols?",
     "answer": "Jin"
   },
@@ -2290,6 +2366,10 @@
   {
     "question": "Which battle led to the independence of Mexico?",
     "answer": "Battle of Chapultepec"
+  },
+  {
+    "question": "Which battle marked the beginning of the American Revolutionary War?",
+    "answer": "Battle of Lexington and Concord"
   },
   {
     "question": "Which battle marked the end of Napoleon's Italian campaign?"
@@ -2366,6 +2446,10 @@
     "answer": "Battle of White Mountain"
   },
   {
+    "question": "Which battle was decisive in the American Civil War?",
+    "answer": ""
+  },
+  {
     "question": "Which battle was decisive?",
     "answer": "Battle of Kulikovo"
   },
@@ -2421,6 +2505,10 @@
     "question": "Which city was captured in 1147?"
   },
   {
+    "question": "Which city was considered the center of the musical revival during the Renaissance?",
+    "answer": ""
+  },
+  {
     "question": "Which city was subjected to mass bombing in 1945?",
     "answer": "Dresden"
   },
@@ -2437,8 +2525,16 @@
     "answer": "Tannenberg"
   },
   {
+    "question": "Which city was the site of a battle in 1812?",
+    "answer": "Smolensk"
+  },
+  {
     "question": "Which city-state's fleet won the Battle of Salamis?",
     "answer": "Athens"
+  },
+  {
+    "question": "Which civilization was known for its bronze artifacts?",
+    "answer": "Benin"
   },
   {
     "question": "Which code was introduced by Napoleon in 1808?",
@@ -2626,6 +2722,10 @@
     "question": "Which country was the first to gain independence in South America?"
   },
   {
+    "question": "Which country was the first to hold democratic elections in the Pacific Ocean?",
+    "answer": "Tonga"
+  },
+  {
     "question": "Which country was the first to introduce compulsory education?",
     "answer": "Prussia"
   },
@@ -2726,6 +2826,10 @@
     "answer": "Charles V"
   },
   {
+    "question": "Which emperor was known as the 'Iron Emperor'?",
+    "answer": "Han Wu-di"
+  },
+  {
     "question": "Which empire existed in the 7th century BC on the territory of modern-day Turkey?",
     "answer": "Lydian Empire"
   },
@@ -2793,6 +2897,10 @@
   {
     "question": "Which famous pharaoh ruled Egypt around 1353 BC?",
     "answer": "Amenhotep IV"
+  },
+  {
+    "question": "Which famous philosopher was born in the 9th century?",
+    "answer": "Photius"
   },
   {
     "question": "Which famous political figure died in 2004?",
@@ -3038,6 +3146,10 @@
     "answer": "Appomattox"
   },
   {
+    "question": "Which peace treaty established the final separation of the Catholic and Protestant churches in 1648?",
+    "answer": "Peace of Westphalia"
+  },
+  {
     "question": "Which people strengthened their positions in the 7th century?",
     "answer": "Arabs"
   },
@@ -3146,6 +3258,10 @@
     "answer": "Biology"
   },
   {
+    "question": "Which scientist contributed to mathematical logic and the foundations of computer science?",
+    "answer": "Alan Turing"
+  },
+  {
     "question": "Which scientist developed the atomic theory?",
     "answer": "John Dalton"
   },
@@ -3192,6 +3308,10 @@
   {
     "question": "Which state was ruled by Harun al-Rashid?",
     "answer": "Abbasid Caliphate"
+  },
+  {
+    "question": "Which state was the primary site of battles in 1780?",
+    "answer": "South Carolina"
   },
   {
     "question": "Which structure is associated with the reign of Hammurabi?",
@@ -3472,6 +3592,10 @@
     "answer": "Cyrus II"
   },
   {
+    "question": "Who founded the Akkadian Empire?",
+    "answer": "Sargon the Great"
+  },
+  {
     "question": "Who founded the Gupta Empire?",
     "answer": "Chandragupta I"
   },
@@ -3575,8 +3699,16 @@
     "answer": "Robespierre"
   },
   {
+    "question": "Who led the Counter-Reformation?",
+    "answer": "Jesuits"
+  },
+  {
     "question": "Who led the USA in 1945?",
     "answer": "Harry Truman"
+  },
+  {
+    "question": "Who led the attempt to capture Canada?",
+    "answer": "Benedict Arnold"
   },
   {
     "question": "Who led the expedition across the Isthmus of Panama and was the first to discover the Pacific Ocean?",
@@ -3674,6 +3806,10 @@
     "answer": "Chief"
   },
   {
+    "question": "Who was a Byzantine general?",
+    "answer": "Vardan"
+  },
+  {
     "question": "Who was a famous Byzantine historian?",
     "answer": "Procopius"
   },
@@ -3755,6 +3891,10 @@
   {
     "question": "Who was the King of England during the English Revolution?",
     "answer": "Charles I"
+  },
+  {
+    "question": "Who was the King of Spain at the turn of the 17th century?",
+    "answer": "Charles II"
   },
   {
     "question": "Who was the King of Spain when Francisco Pizarro conquered Peru?",
@@ -3943,6 +4083,10 @@
     "answer": "Bernardo O'Higgins"
   },
   {
+    "question": "Who was the first president of independent Indonesia?",
+    "answer": "Sukarno"
+  },
+  {
     "question": "Who was the first president of independent Panama?",
     "answer": "Manuel Amador"
   },
@@ -3956,6 +4100,10 @@
   {
     "question": "Who was the first to circumnavigate Australia?",
     "answer": "Matthew Flinders"
+  },
+  {
+    "question": "Who was the first to develop the microprocessor?",
+    "answer": "Ted Hoff"
   },
   {
     "question": "Who was the first to explore Lake Victoria?",
@@ -4039,6 +4187,10 @@
     "answer": "Made Garang"
   },
   {
+    "question": "Who was the leader of the British Army in 1775?",
+    "answer": "Thomas Gage"
+  },
+  {
     "question": "Who was the leader of the Chinese anti-colonial movement?",
     "answer": "Mao Zedong"
   },
@@ -4118,6 +4270,10 @@
   {
     "question": "Who were the Spanish conquerors in Latin America?",
     "answer": "Conquistadors"
+  },
+  {
+    "question": "Who won the Battle of Carchemish?",
+    "answer": "Nebuchadnezzar II"
   },
   {
     "question": "Who won the Battle of Waterloo?",

@@ -58,6 +58,10 @@
     "answer": "over 30,000"
   },
   {
+    "question": "How many stages must be completed to win?",
+    "answer": "10"
+  },
+  {
     "question": "How many teams participate in the World Endurance Championship (WEC)?",
     "answer": "10"
   },
@@ -70,16 +74,32 @@
     "answer": "Since 1923"
   },
   {
+    "question": "How often are international auto shows held?",
+    "answer": "Every two years"
+  },
+  {
     "question": "How to adjust a carburetor?",
     "answer": "According to the manual"
+  },
+  {
+    "question": "How to avoid hydroplaning on a wet road?",
+    "answer": "Reduce speed"
   },
   {
     "question": "How to change the oil in a motorcycle?",
     "answer": "Drain plug"
   },
   {
+    "question": "How to determine the need for an oil change?",
+    "answer": ""
+  },
+  {
     "question": "In what year did Lewis Hamilton make his debut?",
     "answer": ""
+  },
+  {
+    "question": "In what year did Michael Schumacher return to Formula 1?",
+    "answer": "2010"
   },
   {
     "question": "In what year did the Chrysler Imperial model debut?",
@@ -118,6 +138,10 @@
     "answer": "Singapore"
   },
   {
+    "question": "In which month does the Pebble Beach Concours d'Elegance take place?",
+    "answer": "August"
+  },
+  {
     "question": "In which year did Sebastian Vettel debut?",
     "answer": "2007"
   },
@@ -132,6 +156,10 @@
   {
     "question": "What actions should be taken if the fuel filter is clogged?",
     "answer": "Replace the filter"
+  },
+  {
+    "question": "What allows you to see obstacles in blind spots?",
+    "answer": ""
   },
   {
     "question": "What are coilovers installed for?",
@@ -161,6 +189,10 @@
     "answer": "Navigation"
   },
   {
+    "question": "What class does the Ducati Panigale motorcycle belong to?",
+    "answer": "Sportbike"
+  },
+  {
     "question": "What controls the fuel supply to the engine?",
     "answer": "ECU"
   },
@@ -171,6 +203,10 @@
   {
     "question": "What determines the engine's operating mode?",
     "answer": "ECU"
+  },
+  {
+    "question": "What determines the operation of an electric motor in a car?",
+    "answer": "Electronic control unit"
   },
   {
     "question": "What device allows you to record changes in the throttle position?"
@@ -224,8 +260,16 @@
     "answer": "Improved stiffness"
   },
   {
+    "question": "What engine did the Viper model have?",
+    "answer": "V10"
+  },
+  {
     "question": "What engine did the first Buick Roadmaster have?",
     "answer": "Straight-eight"
+  },
+  {
+    "question": "What engine is installed in the McLaren 720S sports car?",
+    "answer": "V8"
   },
   {
     "question": "What engine was installed in the Packard Twin Six?",
@@ -238,6 +282,10 @@
   {
     "question": "What ensures the safety of competition participants?",
     "answer": "Police officers"
+  },
+  {
+    "question": "What helps a motorcycle engine work more efficiently?",
+    "answer": "Turbocharger"
   },
   {
     "question": "What helps improve engine cooling?",
@@ -292,6 +340,10 @@
     "answer": "Type of transmission"
   },
   {
+    "question": "What is a short stop during a journey called?",
+    "answer": "Pit stop"
+  },
+  {
     "question": "What is a torque converter?",
     "answer": "Transmission of torque"
   },
@@ -302,6 +354,10 @@
   {
     "question": "What is an electromagnetic valve used for?",
     "answer": "Flow control"
+  },
+  {
+    "question": "What is checked during the diagnosis of a car's suspension?",
+    "answer": "Mounting points"
   },
   {
     "question": "What is done during engine diagnostics?"
@@ -350,6 +406,10 @@
     "answer": "Boost"
   },
   {
+    "question": "What is the mechanism called that converts the movement of a piston into rotational motion?",
+    "answer": "Crankshaft"
+  },
+  {
     "question": "What is the mechanism called that regulates the intake and exhaust of gases in an engine?",
     "answer": "Valve timing"
   },
@@ -360,6 +420,10 @@
   {
     "question": "What is the minimum distance to maintain in moving traffic?",
     "answer": "Two meters"
+  },
+  {
+    "question": "What is the minimum qualifying time percentage in motorsport?",
+    "answer": "107%"
   },
   {
     "question": "What is the minimum safe distance between cars in winter?",
@@ -389,8 +453,16 @@
     "answer": "Lotus"
   },
   {
+    "question": "What is the name of the Ferrari sports model from the 1960s?",
+    "answer": "Ferrari 250 GTO"
+  },
+  {
     "question": "What is the name of the club for Jaguar car owners?",
     "answer": "Jaguar Enthusiasts' Club"
+  },
+  {
+    "question": "What is the name of the emissions control system?",
+    "answer": "Catalytic converter"
   },
   {
     "question": "What is the name of the fire extinguishing device used in a motorcycle?",
@@ -487,6 +559,10 @@
     "answer": "Countersteering"
   },
   {
+    "question": "What is the technology called that allows you to control a car via a smartphone?",
+    "answer": "Connected Car"
+  },
+  {
     "question": "What is the technology for fast charging electric vehicles called?",
     "answer": "DC Fast Charging"
   },
@@ -503,6 +579,10 @@
   },
   {
     "question": "What is the top speed of the Ferrari Enzo?",
+    "answer": "350 km/h"
+  },
+  {
+    "question": "What is the top speed of the Lamborghini Aventador?",
     "answer": "350 km/h"
   },
   {
@@ -540,6 +620,10 @@
     "answer": "eCitaro"
   },
   {
+    "question": "What natural barriers are found in nature?",
+    "answer": "Rivers"
+  },
+  {
     "question": "What percentage of the track in Saudi Arabia is made up of dunes?",
     "answer": "75%"
   },
@@ -554,6 +638,14 @@
   {
     "question": "What should you do if you have a flat tire?",
     "answer": "repair it"
+  },
+  {
+    "question": "What should you do if you run out of gas on the highway?",
+    "answer": "Call for assistance"
+  },
+  {
+    "question": "What should you do if your car skids on the road?",
+    "answer": "Steer the wheel to straighten"
   },
   {
     "question": "What should you do in case of a brake fluid leak?",
@@ -572,6 +664,10 @@
     "answer": "V2V"
   },
   {
+    "question": "What technology allows you to modify the engine for better performance?",
+    "answer": "Chip tuning"
+  },
+  {
     "question": "What technology helps control battery energy consumption?",
     "answer": "Energy management"
   },
@@ -586,6 +682,10 @@
   {
     "question": "What trend is observed in the market for hybrid cars?",
     "answer": "Growth"
+  },
+  {
+    "question": "What type of battery is most commonly used in modern hybrid cars?",
+    "answer": "Lithium-ion"
   },
   {
     "question": "What type of cooling is used in Ducati Panigale V4 engines?",
@@ -639,12 +739,20 @@
     "answer": "Duryea Motor Wagon"
   },
   {
+    "question": "What was the name of the first Ferrari model?",
+    "answer": "125 S"
+  },
+  {
     "question": "What was the name of the first Maserati sports car?",
     "answer": "Tipo 26"
   },
   {
     "question": "What was the name of the first production car?",
     "answer": "Benz Patent-Motorwagen"
+  },
+  {
+    "question": "What was the name of the first production supercar?",
+    "answer": "Lamborghini Miura"
   },
   {
     "question": "What was the name of the front-wheel-drive car from Alfa Romeo?",
@@ -679,6 +787,10 @@
     "answer": "1950"
   },
   {
+    "question": "When was the first electric car released?",
+    "answer": "19th century"
+  },
+  {
     "question": "When was the first production sedan with front-wheel drive introduced?",
     "answer": "1934"
   },
@@ -711,8 +823,16 @@
     "answer": "BMW 3.0 CSL"
   },
   {
+    "question": "Which Bentley model had a 4.5-liter engine in the 1920s?",
+    "answer": ""
+  },
+  {
     "question": "Which Brazilian driver has won the Formula 1 World Championship three times?",
     "answer": "Ayrton Senna"
+  },
+  {
+    "question": "Which Mazda sports car was released in 1990?",
+    "answer": ""
   },
   {
     "question": "Which Mercedes-Benz model is considered a symbol of automotive design from the 1930s?",
@@ -735,8 +855,16 @@
     "answer": "Nissan"
   },
   {
+    "question": "Which brand is associated with three-wheeled cars?",
+    "answer": "Morgan"
+  },
+  {
     "question": "Which brand manufactures Atlantis motorcycles?",
     "answer": "Benelli"
+  },
+  {
+    "question": "Which brand manufactures motorcycles called 'America'?",
+    "answer": "Triumph"
   },
   {
     "question": "Which brand manufactures motorcycles for drifting?",
@@ -751,12 +879,20 @@
     "answer": "Rolls-Royce"
   },
   {
+    "question": "Which brand manufactures the Silverado model?",
+    "answer": "Chevrolet"
+  },
+  {
     "question": "Which brand produced the Cord 810 model?",
     "answer": "Cord"
   },
   {
     "question": "Which brand produces sports models with the 'Z' badge?",
     "answer": "Nissan"
+  },
+  {
+    "question": "Which brand produces the Dominator model?",
+    "answer": "Norton"
   },
   {
     "question": "Which brand produces the Terrano model?",
@@ -771,6 +907,10 @@
     "answer": ""
   },
   {
+    "question": "Which car brand was founded by Henry Leland?",
+    "answer": "Cadillac"
+  },
+  {
     "question": "Which car is considered the most successful in WRC history?",
     "answer": "Citroën C4"
   },
@@ -782,6 +922,10 @@
     "answer": "Lamborghini"
   },
   {
+    "question": "Which car manufacturer produces the electric cars i3 and i8?",
+    "answer": "BMW"
+  },
+  {
     "question": "Which car model has a hybrid engine?",
     "answer": "Porsche 918"
   },
@@ -790,12 +934,24 @@
     "answer": ""
   },
   {
+    "question": "Which category of cars became popular in 2021?",
+    "answer": "Electric cars"
+  },
+  {
     "question": "Which category of technology became widely popular in 2021?",
     "answer": "Electric"
   },
   {
     "question": "Which category of vehicles has been participating in the rally since 2021?",
     "answer": "Classic"
+  },
+  {
+    "question": "Which city most frequently hosts the start of the Tour de France?",
+    "answer": "Brest"
+  },
+  {
+    "question": "Which community organizes meetings for owners of rare and collectible cars?",
+    "answer": ""
   },
   {
     "question": "Which community organizes off-road meetings?",
@@ -828,8 +984,16 @@
     "question": "Which company manufactures cars under the Genesis brand?"
   },
   {
+    "question": "Which company manufactures the C3 model?",
+    "answer": "Citroën"
+  },
+  {
     "question": "Which company manufactures the Continental GT motorcycle?",
     "answer": "Royal Enfield"
+  },
+  {
+    "question": "Which company manufactures the Red Bull Racing cars?",
+    "answer": "Red Bull Racing"
   },
   {
     "question": "Which company manufactures the XC60 model?",
@@ -860,8 +1024,16 @@
     "answer": "Wing"
   },
   {
+    "question": "Which component is responsible for energy regeneration in an electric vehicle?",
+    "answer": "Motor-generator"
+  },
+  {
     "question": "Which component is responsible for the movement of an electric vehicle?",
     "answer": "Electric motor"
+  },
+  {
+    "question": "Which component of a car controls the turbo pressure?",
+    "answer": "Boost controller"
   },
   {
     "question": "Which component regulates the airflow in an engine?"
@@ -877,6 +1049,10 @@
   {
     "question": "Which country was the first to introduce electric buses?",
     "answer": "China"
+  },
+  {
+    "question": "Which device is used to check the operation of a battery?",
+    "answer": "Voltmeter"
   },
   {
     "question": "Which driver became the world champion in 2005 and 2006?",
@@ -933,6 +1109,10 @@
     "answer": "Snowbike"
   },
   {
+    "question": "Which motorcycle is suitable for aggressive riding?",
+    "answer": "Streetfighter"
+  },
+  {
     "question": "Which motorcycle is used for racing and has more power?"
   },
   {
@@ -941,6 +1121,10 @@
   {
     "question": "Which motorcyclist won the Dakar Rally 5 times in a row?",
     "answer": "Cyril Despres"
+  },
+  {
+    "question": "Which motorsport championship was invented in Asia?",
+    "answer": "Super Formula"
   },
   {
     "question": "Which new brand introduced the supercar Valkyrie?",
@@ -987,12 +1171,20 @@
     "answer": "Beijing Auto Show"
   },
   {
+    "question": "Which show is known for its celebrities at parades?",
+    "answer": "Goodwood Festival"
+  },
+  {
     "question": "Which sports car is known as the Vette?",
     "answer": "Corvette"
   },
   {
     "question": "Which sports car was the first production car with a fully carbon fiber body?",
     "answer": "McLaren P1"
+  },
+  {
+    "question": "Which suspension is more effective for high speeds?",
+    "answer": "Telescopic"
   },
   {
     "question": "Which system controls the operation of the engine and transmission?",
@@ -1031,8 +1223,16 @@
     "answer": "Spa-Francorchamps"
   },
   {
+    "question": "Which type of transmission provides seamless shifting?",
+    "answer": ""
+  },
+  {
     "question": "Which wrench is used to adjust the clutch?",
     "answer": "Box-end wrench"
+  },
+  {
+    "question": "Who can become a member of the Lamborghini Club America?",
+    "answer": ""
   },
   {
     "question": "Who created the classic Fiat 500?"
