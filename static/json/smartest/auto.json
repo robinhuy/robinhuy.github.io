@@ -24,6 +24,10 @@
     "answer": "Cameras and sensors"
   },
   {
+    "question": "How long does it take to fully charge the device?",
+    "answer": "From 1 to 12 hours"
+  },
+  {
     "question": "How many cylinders does the engine of the Mercedes-Benz 300SEL 6.3 have?"
   },
   {
@@ -37,6 +41,10 @@
   {
     "question": "How many horsepower does the Bugatti Veyron have?",
     "answer": "1001"
+  },
+  {
+    "question": "How many horsepower does the McLaren P1 have?",
+    "answer": ""
   },
   {
     "question": "How many hours does the endurance race at Le Mans last?",
@@ -110,6 +118,10 @@
     "answer": "1970"
   },
   {
+    "question": "In what year was the ABS system introduced into mass production?",
+    "answer": ""
+  },
+  {
     "question": "In what year was the Bosch Car Service club founded?",
     "answer": "1921"
   },
@@ -124,6 +136,10 @@
   {
     "question": "In what year was the International Ford Mustang Club founded?",
     "answer": ""
+  },
+  {
+    "question": "In what year was the company Honda founded?",
+    "answer": "1948"
   },
   {
     "question": "In what year was the first Ford Model T released?",
@@ -224,6 +240,10 @@
     "answer": "800-900 km"
   },
   {
+    "question": "What distinguishes a bagger motorcycle?",
+    "answer": "Saddlebags"
+  },
+  {
     "question": "What distinguishes a sportbike from other types of motorcycles?",
     "answer": "Speed"
   },
@@ -237,6 +257,10 @@
   },
   {
     "question": "What does a barometer measure in a car?",
+    "answer": ""
+  },
+  {
+    "question": "What does a coilover suspension do?",
     "answer": ""
   },
   {
@@ -284,6 +308,14 @@
     "answer": "Police officers"
   },
   {
+    "question": "What famous route runs through the southern United States?",
+    "answer": ""
+  },
+  {
+    "question": "What function does LIDAR perform in a car?",
+    "answer": "Scans"
+  },
+  {
     "question": "What helps a motorcycle engine work more efficiently?",
     "answer": "Turbocharger"
   },
@@ -314,6 +346,14 @@
   {
     "question": "What is 'ADAS'?",
     "answer": "Advanced Driver Assistance Systems"
+  },
+  {
+    "question": "What is NOS used for?",
+    "answer": "Increasing power"
+  },
+  {
+    "question": "What is V2X communication?",
+    "answer": "Vehicle-to-everything"
   },
   {
     "question": "What is a 'dry clutch' in a motorcycle?",
@@ -373,6 +413,10 @@
   {
     "question": "What is the difference between summer tires and winter tires?",
     "answer": ""
+  },
+  {
+    "question": "What is the driver of the future called?",
+    "answer": "Robot"
   },
   {
     "question": "What is the engine displacement of the Audi RS6?",
@@ -469,6 +513,10 @@
     "answer": "Fire extinguisher"
   },
   {
+    "question": "What is the name of the largest Russian supercar owners club?",
+    "answer": "Supercars Russia"
+  },
+  {
     "question": "What is the name of the longest Formula 1 race track?",
     "answer": "Spa-Francorchamps"
   },
@@ -524,6 +572,10 @@
     "answer": "LMP1"
   },
   {
+    "question": "What is the range of the Tesla Model S?",
+    "answer": "600 km"
+  },
+  {
     "question": "What is the release year of the McLaren F1?",
     "answer": "1992"
   },
@@ -570,6 +622,10 @@
     "question": "What is the technology for recognizing traffic signs called?"
   },
   {
+    "question": "What is the title of the chief official in the race directorate?",
+    "answer": "Race director"
+  },
+  {
     "question": "What is the top speed of the 1963 Volvo P1800?",
     "answer": "175 km/h"
   },
@@ -596,6 +652,10 @@
   {
     "question": "What is torque used for?",
     "answer": "Acceleration"
+  },
+  {
+    "question": "What is used to clean the fuel system?",
+    "answer": "Special additives"
   },
   {
     "question": "What is used to treat rust on metal?",
@@ -628,8 +688,20 @@
     "answer": "75%"
   },
   {
+    "question": "What should be checked when a car hasn't been used for a long time?",
+    "answer": "Battery"
+  },
+  {
     "question": "What should be checked when there are malfunctions in motorcycle electronics?",
     "answer": "Battery"
+  },
+  {
+    "question": "What should be done to prevent wheel slipping?",
+    "answer": "Replace the bushings"
+  },
+  {
+    "question": "What should be used to lubricate motorcycle bearings?",
+    "answer": "Lithium grease"
   },
   {
     "question": "What should you do if the brake hose breaks?",
@@ -658,6 +730,10 @@
   {
     "question": "What system helps keep a motorcycle in a horizontal position?",
     "answer": "stabilizer"
+  },
+  {
+    "question": "What technology allows a car to 'see' the road at night?",
+    "answer": "Night vision"
   },
   {
     "question": "What technology allows cars to exchange data?",
@@ -692,11 +768,19 @@
     "answer": "Liquid cooling"
   },
   {
+    "question": "What type of engine does the Porsche Taycan have?",
+    "answer": "Electric"
+  },
+  {
     "question": "What type of engine does the Tatra T87 have?",
     "answer": "V8"
   },
   {
     "question": "What type of engine operates on various types of fuel?"
+  },
+  {
+    "question": "What type of engine provides high power?",
+    "answer": "V-type"
   },
   {
     "question": "What type of hybrid cars is the most common?",
@@ -745,6 +829,10 @@
   {
     "question": "What was the name of the first Maserati sports car?",
     "answer": "Tipo 26"
+  },
+  {
+    "question": "What was the name of the first Nissan model?",
+    "answer": "DAT Car"
   },
   {
     "question": "What was the name of the first production car?",
@@ -950,12 +1038,20 @@
     "answer": "Brest"
   },
   {
+    "question": "Which community organizes drift competitions?",
+    "answer": "Drift Club"
+  },
+  {
     "question": "Which community organizes meetings for owners of rare and collectible cars?",
     "answer": ""
   },
   {
     "question": "Which community organizes off-road meetings?",
     "answer": "Off-road Club"
+  },
+  {
+    "question": "Which community organizes off-road vehicle races?",
+    "answer": "OffRoad Racing"
   },
   {
     "question": "Which community organizes rallies for Jeep owners?",
@@ -1000,6 +1096,10 @@
     "answer": "Volvo"
   },
   {
+    "question": "Which company manufactures the supercar Regera?",
+    "answer": "Koenigsegg"
+  },
+  {
     "question": "Which company merged with Rapp Motorenwerke in 1916 to become Bayerische Motoren Werke?",
     "answer": "BMW"
   },
@@ -1020,8 +1120,16 @@
     "answer": "Air ducts"
   },
   {
+    "question": "Which component increases engine power?",
+    "answer": "Turbocharger"
+  },
+  {
     "question": "Which component is responsible for aerodynamic downforce?",
     "answer": "Wing"
+  },
+  {
+    "question": "Which component is responsible for controlling tire temperature?",
+    "answer": ""
   },
   {
     "question": "Which component is responsible for energy regeneration in an electric vehicle?",
@@ -1032,8 +1140,20 @@
     "answer": "Electric motor"
   },
   {
+    "question": "Which component is used to increase the power of a motorcycle?",
+    "answer": "Turbocharger"
+  },
+  {
     "question": "Which component of a car controls the turbo pressure?",
     "answer": "Boost controller"
+  },
+  {
+    "question": "Which component of the ignition system transforms voltage?",
+    "answer": "Ignition coil"
+  },
+  {
+    "question": "Which component reduces engine vibrations?",
+    "answer": "Crankshaft damper"
   },
   {
     "question": "Which component regulates the airflow in an engine?"
@@ -1063,6 +1183,10 @@
     "answer": "James Deane"
   },
   {
+    "question": "Which driver won the world championship five times?",
+    "answer": "Juan Manuel Fangio"
+  },
+  {
     "question": "Which engine component creates a spark?",
     "answer": "Spark plug"
   },
@@ -1086,11 +1210,19 @@
     "answer": "Hayabusa"
   },
   {
+    "question": "Which model is known as the 'Isetta car'?",
+    "answer": "BMW Isetta"
+  },
+  {
     "question": "Which model is produced by Lexus?"
   },
   {
     "question": "Which motorcycle brand is associated with a monocoque?",
     "answer": "MV Agusta"
+  },
+  {
+    "question": "Which motorcycle brand was founded in Italy in 1926?",
+    "answer": "Ducati"
   },
   {
     "question": "Which motorcycle company was founded in Austria in 1934?",
@@ -1125,6 +1257,10 @@
   {
     "question": "Which motorsport championship was invented in Asia?",
     "answer": "Super Formula"
+  },
+  {
+    "question": "Which mountain road is preferred by motorcyclists in Europe?",
+    "answer": "Alps"
   },
   {
     "question": "Which new brand introduced the supercar Valkyrie?",
@@ -1279,6 +1415,10 @@
   {
     "question": "Who won the Formula 1 World Championship in 2008?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "question": "Who won the first Formula 1 World Championship?",
+    "answer": "Giuseppe Farina"
   },
   {
     "question": "Who won the first Formula E race?",
