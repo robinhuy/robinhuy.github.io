@@ -16,6 +16,10 @@
     "answer": "Alter the structure"
   },
   {
+    "question": "How does the presence of permafrost affect flora?",
+    "answer": "Limits growth"
+  },
+  {
     "question": "How does urbanization affect the unemployment rate?"
   },
   {
@@ -61,6 +65,10 @@
     "answer": "Continental drift"
   },
   {
+    "question": "What changes occur in the atmosphere due to ice melting?",
+    "answer": "Change in albedo"
+  },
+  {
     "question": "What characterizes active continental margins?",
     "answer": "Seismic activity"
   },
@@ -74,6 +82,10 @@
   {
     "question": "What factors contribute to the international competitiveness of zones?",
     "answer": "Innovation and technology"
+  },
+  {
+    "question": "What factors contributed to migrations during the Renaissance?",
+    "answer": "Religious upheavals"
   },
   {
     "question": "What factors determine the occurrence of polar auroras?",
@@ -104,12 +116,28 @@
     "answer": "Harare"
   },
   {
+    "question": "What is the name of the peninsula that was a key location in medieval trade between the East and the West?",
+    "answer": "Arabian"
+  },
+  {
+    "question": "What is the name of the zone where lithospheric plates diverge?",
+    "answer": "Rift"
+  },
+  {
     "question": "What is the significance of ancient ocean currents for understanding paleogeographic changes?",
     "answer": "Continental movement"
   },
   {
+    "question": "What is the structure called that represents a fracture in the ocean floor where two tectonic plates converge?",
+    "answer": "Mid-ocean ridge"
+  },
+  {
     "question": "What is the zone between the tundra and the ice deserts called?",
     "answer": "Subarctic"
+  },
+  {
+    "question": "What is volcanic glass called?",
+    "answer": "Obsidian"
   },
   {
     "question": "What morphological changes occur in Arctic glaciers?",
@@ -120,8 +148,16 @@
     "answer": "Heavy rains and melting"
   },
   {
+    "question": "What phenomenon contributes to the movement of lithospheric plates?",
+    "answer": "Mantle"
+  },
+  {
     "question": "What phenomenon is characteristic of the tectonic plate boundaries in the Pacific Ocean?",
     "answer": "Ring of Fire"
+  },
+  {
+    "question": "What physico-chemical process contributes to the accumulation of clay in the lower soil horizons?",
+    "answer": "Illuviation"
   },
   {
     "question": "What practices contribute to increasing biodiversity in agroecosystems?",
@@ -130,6 +166,10 @@
   {
     "question": "What process affects the rate of sedimentation in marine basins?",
     "answer": "Tectonic activity"
+  },
+  {
+    "question": "What process leads to the formation of oceanic plateaus?",
+    "answer": "Plate tectonics"
   },
   {
     "question": "What processes affect global climate change at the ecosystem level?",
@@ -156,12 +196,24 @@
     "answer": "Economic benefits"
   },
   {
+    "question": "What role do forests play in the global water cycle?",
+    "answer": "Evaporation of moisture"
+  },
+  {
     "question": "What role do natural zones play in the global cycle of substances?",
     "answer": "Carbon balance"
   },
   {
     "question": "What role does hydrothermal activity play in the formation of ore deposits?",
     "answer": "Significant role"
+  },
+  {
+    "question": "What structure connects the Scandinavian and Jutland peninsulas?",
+    "answer": "Øresund Bridge"
+  },
+  {
+    "question": "What survival mechanisms do animals in the desert use to conserve moisture?",
+    "answer": "Minimizing losses"
   },
   {
     "question": "What type of plate movement leads to the formation of mountain ranges?",
@@ -172,8 +224,16 @@
     "answer": "Warm oceans"
   },
   {
+    "question": "Which archipelago is located north of Norway?",
+    "answer": "Svalbard"
+  },
+  {
     "question": "Which bridge is the longest in the world among railway bridges?",
     "answer": "Danyang-Kunshan"
+  },
+  {
+    "question": "Which cataclysm is named after the Roman god of fire?",
+    "answer": "Volcano"
   },
   {
     "question": "Which city in Asia is the main trading hub for gemstones?",
@@ -191,6 +251,10 @@
     "answer": "China"
   },
   {
+    "question": "Which element is most important for the prosperity of economic zones in North America?",
+    "answer": "Technology"
+  },
+  {
     "question": "Which eruptions create lava plateaus?",
     "answer": "Basaltic"
   },
@@ -205,6 +269,10 @@
   {
     "question": "Which macro factor has the greatest impact on the regions of Eastern Europe?",
     "answer": "Economy"
+  },
+  {
+    "question": "Which mountain on the equator is illuminated by the sun all day?",
+    "answer": "Kenya"
   },
   {
     "question": "Which peak in the Himalayas has the largest vertical drop?",
@@ -227,6 +295,10 @@
     "answer": "Soga"
   },
   {
+    "question": "Which river flows through the Amazon Basin?",
+    "answer": "Amazon"
+  },
+  {
     "question": "Which river flows through the ancient city of Perge?",
     "answer": "Aksu"
   },
@@ -241,6 +313,10 @@
   {
     "question": "Which seabird is best adapted to Arctic conditions?",
     "answer": "Guillemot"
+  },
+  {
+    "question": "Which transport corridor passes through Finland?",
+    "answer": "Northern"
   },
   {
     "question": "Who was the first European to cross the Sahara Desert?",
