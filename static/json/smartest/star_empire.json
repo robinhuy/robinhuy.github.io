@@ -392,6 +392,10 @@
     "answer": "Passion"
   },
   {
+    "question": "How do the Sith use Force Rage to increase their power?",
+    "answer": "Rage"
+  },
+  {
     "question": "How do the Sith use the Dark Side to recover after a battle?",
     "answer": "Dark Recovery"
   },
@@ -555,6 +559,10 @@
     "answer": "Through illusions"
   },
   {
+    "question": "How does the dark side of the Force affect a person in the long term?",
+    "answer": "Destruction"
+  },
+  {
     "question": "How does the dark side promise accelerated growth of power?",
     "answer": "Through anger"
   },
@@ -565,6 +573,10 @@
   {
     "question": "How is Padmé Amidala related to Anakin?",
     "answer": "Wife"
+  },
+  {
+    "question": "How was mythology adapted for 'Star Wars'?",
+    "answer": "Synthesis"
   },
   {
     "question": "In which 'Star Wars' episode was Han Solo killed?",
@@ -605,6 +617,10 @@
   {
     "question": "In which star system did Obi-Wan conduct a secret investigation on the orders of the Jedi Council?",
     "answer": "Kamino"
+  },
+  {
+    "question": "In which system did Han Solo seek refuge after the events on Hoth?",
+    "answer": "Bespin System"
   },
   {
     "question": "In which system did Obi-Wan develop a strategy?",
@@ -936,6 +952,10 @@
     "answer": "Self-control"
   },
   {
+    "question": "What aspect was important for the early study of the Force?",
+    "answer": "Meditation"
+  },
+  {
     "question": "What aspects of the Dark Side attracted Anakin and led to his transformation?",
     "answer": "Power and strength"
   },
@@ -1112,6 +1132,10 @@
     "answer": "Gravity"
   },
   {
+    "question": "What device do Jedi use to enhance their abilities?",
+    "answer": "Force Crystal"
+  },
+  {
     "question": "What device ensures the continuous operation of an ion cannon?",
     "answer": "Power block"
   },
@@ -1150,6 +1174,10 @@
   {
     "question": "What did the ancient Sith alchemists study?",
     "answer": "Force magic"
+  },
+  {
+    "question": "What distinguished Yoda's fighting technique?",
+    "answer": "Aggression and speed"
   },
   {
     "question": "What distinguishes ancient Jedi weapons from modern lightsabers?",
@@ -1332,6 +1360,10 @@
     "answer": "Galactic War"
   },
   {
+    "question": "What event led to the emergence of the first Jedi?",
+    "answer": "The Great Cataclysm"
+  },
+  {
     "question": "What event led to the formation of the Jedi Order?",
     "answer": "Formation of the Order"
   },
@@ -1440,6 +1472,10 @@
     "answer": "Battle of Yavin"
   },
   {
+    "question": "What event was a turning point for Palpatine?",
+    "answer": "The murder of Plagueis"
+  },
+  {
     "question": "What event was a turning point for the Mandalorians?",
     "answer": "The Fall of the Empire"
   },
@@ -1536,6 +1572,10 @@
   {
     "question": "What famous command did Darth Vader give on the Death Star?",
     "answer": "Destroy them"
+  },
+  {
+    "question": "What famous nickname did Darth Vader earn for his ruthlessness?",
+    "answer": "The Dark Lord"
   },
   {
     "question": "What famous phrase characterizes the relationship between Han and Leia?",
@@ -1696,6 +1736,10 @@
   {
     "question": "What influence did Yoda have on the Jedi Council?",
     "answer": "Moral compass"
+  },
+  {
+    "question": "What influence does the Dark Side have on the decision-making process?",
+    "answer": "Impulsiveness"
   },
   {
     "question": "What influence does the Joker have on his followers?",
@@ -2092,6 +2136,10 @@
   {
     "question": "What key event led to the start of the Clone Wars?",
     "answer": "Geonosis"
+  },
+  {
+    "question": "What key information about the Sith's intentions did Obi-Wan Kenobi discover during his mission in the heart of the Galactic Republic?",
+    "answer": "Plans for a coup"
   },
   {
     "question": "What key role did the Jedi play in the Old Republic?",
@@ -2707,8 +2755,20 @@
     "answer": "Smuggler"
   },
   {
+    "question": "What role did Obi-Wan Kenobi play in the defense of the Republic?",
+    "answer": "Jedi Guardian"
+  },
+  {
+    "question": "What role did Obi-Wan play in Luke's training?",
+    "answer": "Master"
+  },
+  {
     "question": "What role did Obi-Wan play in the Galactic War?",
     "answer": "Jedi strategist"
+  },
+  {
+    "question": "What role did Tarre Vizsla play in the history of the Mandalorians?",
+    "answer": "Creator of the Darksaber"
   },
   {
     "question": "What role did Yoda play in restoring the balance of the Force?",
@@ -2847,6 +2907,10 @@
     "answer": "Deduction"
   },
   {
+    "question": "What skill of Darth Vader was often used for intimidation?",
+    "answer": "Force choke"
+  },
+  {
     "question": "What skills were most important for a bounty hunter?",
     "answer": "Strategy"
   },
@@ -2941,6 +3005,10 @@
   {
     "question": "What strategy did Obi-Wan Kenobi use to avoid a massive attack by enemy droids and save his allies during a critical mission?",
     "answer": "Decoy maneuver"
+  },
+  {
+    "question": "What strategy did Obi-Wan use to ensure safety in hostile territory?",
+    "answer": "Surveillance"
   },
   {
     "question": "What strategy did Obi-Wan use to find allies?",
@@ -3273,6 +3341,10 @@
     "answer": "Mandalore"
   },
   {
+    "question": "What title was held by the commander responsible for strategic operations in the Empire?",
+    "answer": "Grand Moff"
+  },
+  {
     "question": "What tool allows Force users to manipulate objects remotely?",
     "answer": "The Force"
   },
@@ -3423,6 +3495,10 @@
   {
     "question": "What type of weapon did the ancient Sith use?",
     "answer": "Alchemical sword"
+  },
+  {
+    "question": "What type of weapon do bounty hunters prefer for capturing targets?",
+    "answer": "Electrostaff"
   },
   {
     "question": "What type of weapon does Darth Maul use?",
@@ -3633,6 +3709,10 @@
     "answer": "Project 99"
   },
   {
+    "question": "What was the name of the separatists' protocol for the attack on Coruscant?",
+    "answer": "Protocol 66"
+  },
+  {
     "question": "What was the name of the ship on which Darth Vader pursued the rebels?",
     "answer": "Executor"
   },
@@ -3758,6 +3838,10 @@
   {
     "question": "Which 'Star Wars' character is known for their diplomatic skills?",
     "answer": "Padmé Amidala"
+  },
+  {
+    "question": "Which 'Star Wars' episode was filmed under secrecy and with a code name?",
+    "answer": "The Empire Strikes Back"
   },
   {
     "question": "Which 'Star Wars' episode was the first to use 70 mm IMAX technology?",
@@ -3999,6 +4083,14 @@
     "answer": "Darth Bane"
   },
   {
+    "question": "Which Sith was the master of the 'Double-Bladed Lightsaber'?",
+    "answer": "Maul"
+  },
+  {
+    "question": "Which Star Wars episode first showed Yoda in combat?",
+    "answer": "Episode II"
+  },
+  {
     "question": "Which Star Wars episode was filmed under a code name?",
     "answer": "Episode VI"
   },
@@ -4167,6 +4259,10 @@
     "answer": "Shadow Syndicate"
   },
   {
+    "question": "Which bounty hunter applied revolutionary helmet technology?",
+    "answer": "Zuckuss"
+  },
+  {
     "question": "Which bounty hunter attacked Queen Amidala?",
     "answer": "Zam Wesell"
   },
@@ -4248,6 +4344,10 @@
   {
     "question": "Which bounty hunter is known for their skills in duels with Jedi?",
     "answer": "Embo"
+  },
+  {
+    "question": "Which bounty hunter led the mission against the Jedi on Naboo?",
+    "answer": "Cad Bane"
   },
   {
     "question": "Which bounty hunter made a deal with a Sith for an artifact?",
@@ -5048,6 +5148,10 @@
     "answer": "Star of Wisdom"
   },
   {
+    "question": "Which star-forming region contains numerous protostars?",
+    "answer": "Orion Nebula"
+  },
+  {
     "question": "Which studio animated the droids?",
     "answer": "ILM"
   },
@@ -5284,6 +5388,10 @@
     "answer": "Aquaman"
   },
   {
+    "question": "Who killed Han Solo?",
+    "answer": "Kylo Ren"
+  },
+  {
     "question": "Who leads the Blue Lantern Corps?",
     "answer": "Saint Walker"
   },
@@ -5334,6 +5442,10 @@
   {
     "question": "Who used the 'Option B' strategy in a duel?",
     "answer": "Luke Skywalker"
+  },
+  {
+    "question": "Who used the lightsaber combat technique 'Vaapad'?",
+    "answer": "Mace Windu"
   },
   {
     "question": "Who used unorthodox fencing methods in the battle with Palpatine?",
@@ -5406,6 +5518,10 @@
   {
     "question": "Who was the director of 'The Empire Strikes Back'?",
     "answer": "Irvin Kershner"
+  },
+  {
+    "question": "Who was the director of photography for the original 'Star Wars' films?",
+    "answer": "Gilbert Taylor"
   },
   {
     "question": "Who was the father of Luke and Leia?",
