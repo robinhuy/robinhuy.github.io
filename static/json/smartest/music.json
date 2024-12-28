@@ -8,8 +8,20 @@
     "answer": ""
   },
   {
+    "question": "From which country is the performer Fonseca?",
+    "answer": "Colombia"
+  },
+  {
     "question": "From which movie is the song 'Lullaby of Broadway'?",
     "answer": "Gold Diggers of 1935"
+  },
+  {
+    "question": "How many Grammy Awards did the album 'Random Access Memories' win?",
+    "answer": "5"
+  },
+  {
+    "question": "How many Grammy Awards does Stevie Wonder have?",
+    "answer": "25"
   },
   {
     "question": "How many awards did BTS win at the EMA 2021?",
@@ -32,6 +44,10 @@
     "answer": "2002"
   },
   {
+    "question": "In what year was the album '3 Feet High and Rising' released?",
+    "answer": "1989"
+  },
+  {
     "question": "In what year was the album 'The Eminem Show' released?",
     "answer": ""
   },
@@ -44,6 +60,10 @@
     "answer": "Rhythmic displacement"
   },
   {
+    "question": "In what year was the piece 'In C' written?",
+    "answer": "1964"
+  },
+  {
     "question": "In what year was the song 'Imagine' released?",
     "answer": "1971"
   },
@@ -54,6 +74,10 @@
   {
     "question": "In which city were the EMAs held in 2010?",
     "answer": "Madrid"
+  },
+  {
+    "question": "Name a famous work by Arvo Pärt.",
+    "answer": "Fratres"
   },
   {
     "question": "Name the first jazz album ever released.",
@@ -76,12 +100,20 @@
     "answer": ""
   },
   {
+    "question": "What are utility chords in jazz?",
+    "answer": "Chords with altered structure"
+  },
+  {
     "question": "What does the term 'build-up' mean in a dubstep track?",
     "answer": ""
   },
   {
     "question": "What event in 1980 in Manchester contributed to the development of electronic music?",
     "answer": "Joy Division concert"
+  },
+  {
+    "question": "What event is important in the creation of dubstep?",
+    "answer": "Rewinds"
   },
   {
     "question": "What genre combines jazz and electronics?",
@@ -122,6 +154,10 @@
   {
     "question": "What is the main vocal style in opera called?",
     "answer": ""
+  },
+  {
+    "question": "What is the name of Arctic Monkeys' debut album?",
+    "answer": "Whatever People Say I Am, That's What I'm Not"
   },
   {
     "question": "What is the name of Kendrick Lamar's debut album?",
@@ -220,12 +256,20 @@
     "answer": "Hits"
   },
   {
+    "question": "What is the name of Ólafur Arnalds' album 'Eulogy for Evolution'?",
+    "answer": "Eulogy for Evolution"
+  },
+  {
     "question": "What is the real name of DJ Marshmello?",
     "answer": "Christopher Comstock"
   },
   {
     "question": "What is the signature element present in reggae rhythm?",
     "answer": "Syncopation"
+  },
+  {
+    "question": "What is the technique called for playing jazz piano?",
+    "answer": "Stride"
   },
   {
     "question": "What is the technique of quickly changing the rhythm called?",
@@ -252,6 +296,10 @@
     "answer": ""
   },
   {
+    "question": "What song was the 'Top Hit' of 2022?",
+    "answer": "Levitating"
+  },
+  {
     "question": "What style is influenced by 'Piedmont Blues'?",
     "answer": ""
   },
@@ -274,6 +322,14 @@
   {
     "question": "What was the name of Cyndi Lauper's debut album?",
     "answer": "She's So Unusual"
+  },
+  {
+    "question": "What was the name of Mahler's last project?",
+    "answer": "Symphony No. 10"
+  },
+  {
+    "question": "What was the name of The Beach Boys' debut album?",
+    "answer": "Surfin' Safari"
   },
   {
     "question": "What was the name of The xx's debut album released in 2009?",
@@ -328,6 +384,10 @@
     "answer": ""
   },
   {
+    "question": "Which artist released the single 'Radio Radio'?",
+    "answer": "Elvis Costello"
+  },
+  {
     "question": "Which artist won the 'Best Country Album' award in 2021?",
     "answer": "Chris Stapleton"
   },
@@ -336,12 +396,20 @@
     "answer": ""
   },
   {
+    "question": "Which band is known for creating funk?",
+    "answer": "Parliament"
+  },
+  {
     "question": "Which band released 'Sound Affects'?",
     "answer": ""
   },
   {
     "question": "Which band released the album 'Release the Pressure'?",
     "answer": ""
+  },
+  {
+    "question": "Which band released the album 'The Satanist'?",
+    "answer": "Behemoth"
   },
   {
     "question": "Which band released the album 'Use Your Illusion' in the 90s?",
@@ -532,8 +600,16 @@
     "answer": "Leftfield"
   },
   {
+    "question": "Who created the solmization music system?",
+    "answer": "Guido of Arezzo"
+  },
+  {
     "question": "Who designed the award in 2017?",
     "answer": "Zaha Hadid"
+  },
+  {
+    "question": "Who founded Critical Music?",
+    "answer": "Kasra"
   },
   {
     "question": "Who founded the Burning Man festival?",
@@ -542,6 +618,10 @@
   {
     "question": "Who founded the band Children of Bodom?",
     "answer": ""
+  },
+  {
+    "question": "Who founded the band Kraftwerk?",
+    "answer": "Ralf Hütter"
   },
   {
     "question": "Who from the duo 'Simon & Garfunkel' is Paul Simon?",
@@ -600,6 +680,10 @@
     "answer": "The Supremes"
   },
   {
+    "question": "Who performs 'Can't Take My Eyes Off You'?",
+    "answer": "Frankie Valli"
+  },
+  {
     "question": "Who received the BRIT Awards Lifetime Achievement Award in 1993?",
     "answer": "Elton John"
   },
@@ -620,6 +704,10 @@
     "answer": "Charles Mingus"
   },
   {
+    "question": "Who was the Producer of the Year at the 2020 BRIT Awards?",
+    "answer": "Fred Again"
+  },
+  {
     "question": "Who was the first female DJ to win a Grammy?",
     "answer": "Ellen Allien"
   },
@@ -630,6 +718,10 @@
   {
     "question": "Who was the first to receive the BRIT Award for British Album of the Year?",
     "answer": "The Beatles"
+  },
+  {
+    "question": "Who was the first woman to win a Grammy Award?",
+    "answer": "Ella Fitzgerald"
   },
   {
     "question": "Who was the founder of the Moby project?",
@@ -656,12 +748,28 @@
     "answer": "Dua Lipa"
   },
   {
+    "question": "Who won the 'Best Neo-Soul Album' award in 2019?",
+    "answer": "H.E.R."
+  },
+  {
+    "question": "Who won the 'Best R&B Video' award in 2013?",
+    "answer": "The Weeknd"
+  },
+  {
+    "question": "Who won the BRIT Award for Best International Breakthrough Act in 2015?",
+    "answer": "Sam Smith"
+  },
+  {
     "question": "Who won the Grammy Award for Best Dance/Electronic Album in 2021?",
     "answer": "Kaytranada"
   },
   {
     "question": "Who won the Grammy for Album of the Year in 2019?",
     "answer": "Kacey Musgraves"
+  },
+  {
+    "question": "Who won the Grammy for Best New Artist in 2004?",
+    "answer": "Evanescence"
   },
   {
     "question": "Who won the Grammy for Best Pop Solo Performance in 2021?",
