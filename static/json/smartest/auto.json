@@ -24,6 +24,10 @@
     "answer": "Slipping"
   },
   {
+    "question": "How can you recognize a drunk driver on the road?",
+    "answer": "Unstable movement"
+  },
+  {
     "question": "How do drum brakes work?",
     "answer": "Compress"
   },
@@ -36,8 +40,16 @@
     "answer": "Cameras and sensors"
   },
   {
+    "question": "How is the battery charged while the car is moving?",
+    "answer": "Regeneration"
+  },
+  {
     "question": "How long does it take to fully charge the device?",
     "answer": "From 1 to 12 hours"
+  },
+  {
+    "question": "How many cylinders does the engine of the 1920 Ford Model T have?",
+    "answer": "4"
   },
   {
     "question": "How many cylinders does the engine of the Mercedes-Benz 300SEL 6.3 have?"
@@ -130,6 +142,10 @@
     "answer": "Replace the gasket"
   },
   {
+    "question": "How to prevent car body corrosion?",
+    "answer": "Anti-corrosion treatment"
+  },
+  {
     "question": "In what year did Michael Schumacher return to Formula 1?",
     "answer": "2010"
   },
@@ -142,8 +158,16 @@
     "answer": "1955"
   },
   {
+    "question": "In what year did the Mercedes-Benz W111 debut?",
+    "answer": "1959"
+  },
+  {
     "question": "In what year did the production of the Lada 2101 begin?",
     "answer": "1970"
+  },
+  {
+    "question": "In what year was Yamaha founded?",
+    "answer": "1955"
   },
   {
     "question": "In what year was the Bosch Car Service club founded?",
@@ -154,12 +178,24 @@
     "answer": "1909"
   },
   {
+    "question": "In what year was the International Ford Mustang Club founded?",
+    "answer": "1976"
+  },
+  {
     "question": "In what year was the company Honda founded?",
     "answer": "1948"
   },
   {
+    "question": "In what year was the first Australian Grand Prix held in Melbourne?",
+    "answer": "1996"
+  },
+  {
     "question": "In what year was the first Ford Model T released?",
     "answer": "1908"
+  },
+  {
+    "question": "In what year was the first Formula 1 World Championship held?",
+    "answer": "1950"
   },
   {
     "question": "In which city in the Netherlands is the annual gathering of Honda owners held?",
@@ -204,6 +240,10 @@
   {
     "question": "What are mild hybrid cars?",
     "answer": "With a small battery"
+  },
+  {
+    "question": "What are the signs with a blue border called?",
+    "answer": "Mandatory"
   },
   {
     "question": "What benefit do manufacturers gain from participating in auto shows?"
@@ -336,6 +376,10 @@
     "answer": "Police officers"
   },
   {
+    "question": "What function do the side edges of the car body serve?",
+    "answer": "Aerodynamics"
+  },
+  {
     "question": "What function does LIDAR perform in a car?",
     "answer": "Scans"
   },
@@ -378,6 +422,10 @@
   {
     "question": "What improves fuel efficiency during braking?",
     "answer": "Regenerative braking"
+  },
+  {
+    "question": "What increases the autonomy of cars?",
+    "answer": "Efficient battery"
   },
   {
     "question": "What is 'ADAS'?",
@@ -467,6 +515,10 @@
     "answer": "Econometer"
   },
   {
+    "question": "What is the difference between summer tires and winter tires?",
+    "answer": "Tread pattern"
+  },
+  {
     "question": "What is the driver of the future called?",
     "answer": "Robot"
   },
@@ -493,6 +545,10 @@
   {
     "question": "What is the horsepower of the Koenigsegg Agera RS?",
     "answer": "1160 hp"
+  },
+  {
+    "question": "What is the iconic British sports car of the 1950s?",
+    "answer": "Jaguar XK120"
   },
   {
     "question": "What is the lap time of the Porsche 918 Spyder on the Nürburgring?",
@@ -553,6 +609,10 @@
     "answer": "Serpentine"
   },
   {
+    "question": "What is the name of the 1984 Ferrari model?",
+    "answer": "Testarossa"
+  },
+  {
     "question": "What is the name of the ADAS system?",
     "answer": "Driver Assistance System"
   },
@@ -569,8 +629,16 @@
     "answer": "Rimac"
   },
   {
+    "question": "What is the name of the DRS activation zone on the track?",
+    "answer": "DRS"
+  },
+  {
     "question": "What is the name of the Ferrari sports model from the 1960s?",
     "answer": "Ferrari 250 GTO"
+  },
+  {
+    "question": "What is the name of the Porsche supercar with a hybrid drive system?",
+    "answer": "918 Spyder"
   },
   {
     "question": "What is the name of the club for Jaguar car owners?",
@@ -583,6 +651,10 @@
   {
     "question": "What is the name of the famous French racer known as 'Le Monstre'?",
     "answer": "Charles Goudsoud"
+  },
+  {
+    "question": "What is the name of the fastest Tesla?",
+    "answer": "Roadster"
   },
   {
     "question": "What is the name of the fire extinguishing device used in a motorcycle?",
@@ -656,6 +728,10 @@
     "answer": "Regeneration"
   },
   {
+    "question": "What is the purpose of installing an air suspension?",
+    "answer": "Adjusting the ground clearance"
+  },
+  {
     "question": "What is the racing category for cars with hybrid powertrains in European championships called?",
     "answer": "LMP1"
   },
@@ -716,6 +792,10 @@
   {
     "question": "What is the technology for voice control called?",
     "answer": "Speech recognition"
+  },
+  {
+    "question": "What is the term for data transmitted from vehicles in real-time?",
+    "answer": "Telematics"
   },
   {
     "question": "What is the term for the total rotational force produced by an engine?",
@@ -844,6 +924,10 @@
     "answer": "Lithium grease"
   },
   {
+    "question": "What should you do if the brake hose breaks?",
+    "answer": "Replace the hose"
+  },
+  {
     "question": "What should you do if there is a cooling system malfunction?",
     "answer": "Check the radiator"
   },
@@ -866,6 +950,10 @@
   {
     "question": "What should you do in case of an unexpected stop?",
     "answer": "Turn on the hazard lights"
+  },
+  {
+    "question": "What skills are particularly important for a pilot?",
+    "answer": "Navigation"
   },
   {
     "question": "What substance is used for protection against corrosion?",
@@ -983,12 +1071,20 @@
     "answer": "Alloy"
   },
   {
+    "question": "What was the first production model of Aston Martin?",
+    "answer": "Aston Martin DB1"
+  },
+  {
     "question": "What was the horsepower of the Dodge Viper V10 engine?",
     "answer": "450 hp"
   },
   {
     "question": "What was the name of the Bentley model from the 1950s?",
     "answer": "R Type"
+  },
+  {
+    "question": "What was the name of the Pangra model in the early 1970s?",
+    "answer": "Ford Pinto"
   },
   {
     "question": "What was the name of the first American production car?",
@@ -1047,12 +1143,24 @@
     "answer": "Late 1990s"
   },
   {
+    "question": "When does the battery charge in a hybrid car?",
+    "answer": "During braking"
+  },
+  {
     "question": "When should winter tires be used?",
     "answer": "When the temperature is below 7°C"
   },
   {
     "question": "When should you brake on a wet road?",
     "answer": "In advance"
+  },
+  {
+    "question": "When was the Dakar Rally canceled due to security concerns?",
+    "answer": "2008"
+  },
+  {
+    "question": "When was the MINI Cooper first released?",
+    "answer": "1961"
   },
   {
     "question": "When was the Peugeot company founded?",
@@ -1133,6 +1241,10 @@
   {
     "question": "Which auto show is famous for the debut of new electric vehicles?",
     "answer": "Frankfurt IAA"
+  },
+  {
+    "question": "Which auto show is known for its concept cars?",
+    "answer": "Tokyo Motor Show"
   },
   {
     "question": "Which automotive community is known for its gatherings with sports cars around the world?",
@@ -1217,6 +1329,10 @@
   {
     "question": "Which car became the first mass-produced electric vehicle?",
     "answer": "Nissan Leaf"
+  },
+  {
+    "question": "Which car brand is owned by the Stellantis group?",
+    "answer": "Peugeot"
   },
   {
     "question": "Which car brand was founded by Henry Leland?",
@@ -1368,6 +1484,10 @@
     "answer": "Turn signal relay"
   },
   {
+    "question": "Which component is responsible for controlling tire temperature?",
+    "answer": "Tire warmers"
+  },
+  {
     "question": "Which component is responsible for energy regeneration in an electric vehicle?",
     "answer": "Motor-generator"
   },
@@ -1378,6 +1498,10 @@
   {
     "question": "Which component is responsible for the movement of an electric vehicle?",
     "answer": "Electric motor"
+  },
+  {
+    "question": "Which component is responsible for transmitting force from the brake pedal to the brake mechanisms?",
+    "answer": "Brake cylinder"
   },
   {
     "question": "Which component is used to increase the power of a motorcycle?",
@@ -1433,6 +1557,10 @@
   {
     "question": "Which driver has achieved the most podium finishes?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "question": "Which driver is known by the nickname 'The Bear'?",
+    "answer": "James Hunt"
   },
   {
     "question": "Which driver was the first to complete a lap at the Yas Marina Circuit in Abu Dhabi?",
@@ -1607,6 +1735,10 @@
     "answer": "Geneva Motor Show"
   },
   {
+    "question": "Which show is famous for thrilling hill climb races?",
+    "answer": "Goodwood Festival of Speed"
+  },
+  {
     "question": "Which show is known for electric vehicle debuts?",
     "answer": "Beijing Auto Show"
   },
@@ -1643,6 +1775,10 @@
     "answer": "HUD"
   },
   {
+    "question": "Which system recognizes road signs?",
+    "answer": "TSR"
+  },
+  {
     "question": "Which team has the most Constructors' Championship titles in Formula 1?",
     "answer": "Ferrari"
   },
@@ -1677,6 +1813,10 @@
   {
     "question": "Which wrench is used to adjust the clutch?",
     "answer": "Box-end wrench"
+  },
+  {
+    "question": "Who can become a member of the Lamborghini Club America?",
+    "answer": "Lamborghini owners"
   },
   {
     "question": "Who created the classic Fiat 500?"
