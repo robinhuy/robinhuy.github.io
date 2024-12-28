@@ -32,6 +32,10 @@
     "answer": "Through pain"
   },
   {
+    "question": "How did Arya Stark regain her identity after training in Braavos?",
+    "answer": "Memories"
+  },
+  {
     "question": "How did Arya acquire the skill that allowed her to change her appearance?",
     "answer": "Training in Braavos"
   },
@@ -144,6 +148,10 @@
     "answer": "Intimidation"
   },
   {
+    "question": "How did House Lannister secure its financial power?",
+    "answer": "Gold mines"
+  },
+  {
     "question": "How did House Martell maintain independence in Dorne?",
     "answer": "Diplomacy"
   },
@@ -194,6 +202,10 @@
   {
     "question": "How did Jon influence the outcome of the 'Battle of the Bastards'?",
     "answer": "Leadership in battle"
+  },
+  {
+    "question": "How did Jon unite the wildlings?",
+    "answer": "Made a deal with Tormund"
   },
   {
     "question": "How did Tyrion Lannister achieve his goals in a hostile environment?",
@@ -260,6 +272,14 @@
     "answer": "Accelerated transactions"
   },
   {
+    "question": "How did magical practice change after the fall of the Valyrian Empire?",
+    "answer": "Diversification of spells"
+  },
+  {
+    "question": "How did the Iron Throne affect strategic alliances between houses?",
+    "answer": "Changed the dynamics"
+  },
+  {
     "question": "How did the Iron Throne change the international relations of Westeros?",
     "answer": "Aggressive diplomacy"
   },
@@ -316,6 +336,18 @@
     "answer": "Secret rituals"
   },
   {
+    "question": "How did the Targaryens maintain control over the dragons?",
+    "answer": "Songs and commands"
+  },
+  {
+    "question": "How did the Targaryens use dragons to control dragon eggs?",
+    "answer": "Temperature control"
+  },
+  {
+    "question": "How did the Tyrells strengthen their position in the Battle of the Field of Fire?",
+    "answer": "Alliances"
+  },
+  {
     "question": "How did the maesters influence education?",
     "answer": "Teaching"
   },
@@ -326,6 +358,10 @@
   {
     "question": "How do dragons affect trade routes in Essos?",
     "answer": "Expansion of routes"
+  },
+  {
+    "question": "How do maesters ensure neutrality in politics?",
+    "answer": "Impartiality"
   },
   {
     "question": "How do maesters maintain peace between houses?",
@@ -560,6 +596,10 @@
     "answer": "Fire bowls"
   },
   {
+    "question": "What aspect of her personality did Arya develop during her travels?",
+    "answer": "Independence"
+  },
+  {
     "question": "What aspect of her personality did Arya develop to become a successful assassin?",
     "answer": "Cold-bloodedness"
   },
@@ -716,6 +756,10 @@
     "answer": "Land beyond the Wall"
   },
   {
+    "question": "What did Melisandre see in the fire?",
+    "answer": "A shadow on the wall"
+  },
+  {
     "question": "What did Tyrion dedicate his life to after exile?",
     "answer": "Saving the world"
   },
@@ -838,6 +882,10 @@
   {
     "question": "What event led to the downfall of House Frey?",
     "answer": "Stark's Revenge"
+  },
+  {
+    "question": "What event led to the fall of House Stark?",
+    "answer": "The Red Wedding"
   },
   {
     "question": "What event led to the rise of House Targaryen to the throne?",
@@ -1172,12 +1220,20 @@
     "answer": "Naval supremacy"
   },
   {
+    "question": "What is the main function of the knights of the Royal Guard during war?",
+    "answer": "Protecting the king"
+  },
+  {
     "question": "What is the meaning of the expression 'Iron Price'?",
     "answer": "Culture of raiding"
   },
   {
     "question": "What is the meaning of the slogan 'Winter is Coming' for the Starks?",
     "answer": "A warning"
+  },
+  {
+    "question": "What is the meaning of the symbol on the gates of the Citadel?",
+    "answer": "Wisdom"
   },
   {
     "question": "What is the most difficult process in creating a maester's chain?",
@@ -1234,6 +1290,10 @@
   {
     "question": "What is the significance of the Iron Fleet for the Ironborn?",
     "answer": "Naval power"
+  },
+  {
+    "question": "What is the strength of House Arryn, according to their beliefs?",
+    "answer": "Honesty and honor"
   },
   {
     "question": "What is the symbol of House Arryn?",
@@ -1318,6 +1378,10 @@
   {
     "question": "What leadership quality did John demonstrate in the battle?",
     "answer": "Bravery"
+  },
+  {
+    "question": "What legacy did House Velaryon leave in the naval history of Westeros?",
+    "answer": "Fleet"
   },
   {
     "question": "What legacy did Lord Rickard Karstark leave behind?",
@@ -1684,6 +1748,10 @@
     "answer": "Patience and agility"
   },
   {
+    "question": "What quality allowed Arya to overcome her fear of enemies?",
+    "answer": "Bravery"
+  },
+  {
     "question": "What quality distinguishes a maester?",
     "answer": "Wisdom"
   },
@@ -1820,6 +1888,10 @@
     "answer": "Protecting the crown"
   },
   {
+    "question": "What role does a maester serve at court?",
+    "answer": "Advisor"
+  },
+  {
     "question": "What role does alchemy play in the training of maesters?",
     "answer": "Theoretical discipline"
   },
@@ -1944,6 +2016,10 @@
     "answer": "Aerial attack"
   },
   {
+    "question": "What strategic maneuver did Robb Stark use in the Battle of the Two Rivers?",
+    "answer": "Feigned march"
+  },
+  {
     "question": "What strategic maneuver helped the Lannisters in the Battle of the Blackwater?",
     "answer": "Flanking attack"
   },
@@ -1988,6 +2064,10 @@
     "answer": "Timber for ships"
   },
   {
+    "question": "What strategic resource was critically important in the Battle of Riverrun?",
+    "answer": "Water"
+  },
+  {
     "question": "What strategic resource was important for the Starks?",
     "answer": "Metal"
   },
@@ -2010,6 +2090,10 @@
   {
     "question": "What strategy did John use to unite the houses?",
     "answer": "Alliances"
+  },
+  {
+    "question": "What strategy did Jon Snow choose to protect the North from the White Walkers?",
+    "answer": "Uniting the houses"
   },
   {
     "question": "What strategy did Jon Snow use in the Battle of Winterfell?",
@@ -2168,6 +2252,10 @@
     "answer": "Ramming"
   },
   {
+    "question": "What tactical maneuver did Ramsay Bolton use in the battle against Jon Snow?",
+    "answer": "Feigned retreat"
+  },
+  {
     "question": "What tactical mistakes did Robb Stark make in the Battle of Oxcross?",
     "answer": "Underestimating the enemy"
   },
@@ -2176,12 +2264,20 @@
     "answer": "Appointing rulers"
   },
   {
+    "question": "What technique did Arya use to complete her training in Braavos?",
+    "answer": "Persuasion"
+  },
+  {
     "question": "What test determines a student's readiness to become a maester?",
     "answer": "The Chain Test"
   },
   {
     "question": "What test must be passed to qualify in astronomy?",
     "answer": "Star observation"
+  },
+  {
+    "question": "What title did Daenerys hold upon her arrival in Westeros?",
+    "answer": "Queen"
   },
   {
     "question": "What title did Daenerys, the claimant to the throne, hold?",
@@ -2300,6 +2396,10 @@
     "answer": "Ice and fire"
   },
   {
+    "question": "What vision was associated with the 'dance on the ashes'?",
+    "answer": "Destruction of Westeros"
+  },
+  {
     "question": "What visions did Daenerys have in the House of the Undying?",
     "answer": "Throne in the snow"
   },
@@ -2312,12 +2412,20 @@
     "answer": "Freeing the slaves"
   },
   {
+    "question": "What was Jon Snow's attitude towards power and how did it influence his decisions?",
+    "answer": "Serving the people"
+  },
+  {
     "question": "What was Viserion's role in the Battle for the Wall?",
     "answer": "Absent"
   },
   {
     "question": "What was the ancestral castle of House Baratheon called?",
     "answer": "Storm's End"
+  },
+  {
+    "question": "What was the ancestral castle of House Lannister called?",
+    "answer": "Casterly Rock"
   },
   {
     "question": "What was the basis of Daenerys's strategy in her conquests?",
@@ -2660,6 +2768,10 @@
     "answer": "Battle of the Goldroad"
   },
   {
+    "question": "Which battle determined the outcome of Robert's Rebellion?",
+    "answer": "Battle of the Trident"
+  },
+  {
     "question": "Which battle determined the outcome of the Dance of the Dragons?",
     "answer": "Battle of the Burning Valley"
   },
@@ -2772,6 +2884,10 @@
     "answer": "Ghis"
   },
   {
+    "question": "Which city is famous for producing magical artifacts?",
+    "answer": "Asshai"
+  },
+  {
     "question": "Which city is known as the main port of the Ivory in Essos?",
     "answer": "Qarth"
   },
@@ -2828,12 +2944,20 @@
     "answer": "Drogon"
   },
   {
+    "question": "Which dragon helped destroy King's Landing?",
+    "answer": "Drogon"
+  },
+  {
     "question": "Which dragon helped in the Battle of the Blackwater Bay?",
     "answer": "Benerion"
   },
   {
     "question": "Which dragon is known for its involvement in events that changed the political map of Westeros?",
     "answer": "Balerion"
+  },
+  {
+    "question": "Which dragon is known for its unique coloring?",
+    "answer": "Meleis"
   },
   {
     "question": "Which dragon was considered the fastest among the Targaryens?",
@@ -2970,6 +3094,10 @@
   {
     "question": "Which house arranged marriages to strengthen its political positions?",
     "answer": "Lannister"
+  },
+  {
+    "question": "Which house became an important ally of Jon Snow after his resurrection?",
+    "answer": "House Mormont"
   },
   {
     "question": "Which house became famous for its fleet and naval victories?",
@@ -3268,6 +3396,10 @@
     "answer": "Jaime Lannister"
   },
   {
+    "question": "Which knight was known for his honesty?",
+    "answer": "Ser Barristan"
+  },
+  {
     "question": "Which knight wields the Sword of the Morning?",
     "answer": "Arthur Dayne"
   },
@@ -3384,6 +3516,10 @@
     "answer": "Battle of Dragonstone"
   },
   {
+    "question": "Which of Daenerys' dragons died in the fight for Westeros?",
+    "answer": "Viserion"
+  },
+  {
     "question": "Which of Tyrion's relatives was a king?",
     "answer": "Joffrey"
   },
@@ -3422,6 +3558,10 @@
   {
     "question": "Which piece of armor indicates the status of knights of the Royal Guard?",
     "answer": "White cloak"
+  },
+  {
+    "question": "Which place did John protect from threats?",
+    "answer": "The North"
   },
   {
     "question": "Which political game influenced the fate of Jon from Westeros?",
@@ -3472,6 +3612,10 @@
     "answer": "Prophecy in Pentos"
   },
   {
+    "question": "Which prophecy warns about the 'three heads of the dragon'?",
+    "answer": "The Prophecy of the Targaryens"
+  },
+  {
     "question": "Which prophetess predicted the fate of Jon Snow?",
     "answer": "The Red Priestess"
   },
@@ -3498,6 +3642,10 @@
   {
     "question": "Which science is most developed in the Citadel?",
     "answer": "Medicine"
+  },
+  {
+    "question": "Which significant conflict involves the attack on the North?",
+    "answer": "Balon's Rebellion"
   },
   {
     "question": "Which significant historical period ended with the creation of the Iron Throne?",
@@ -3534,6 +3682,10 @@
   {
     "question": "Which tree symbolizes the knowledge of maesters?",
     "answer": "Weirwood"
+  },
+  {
+    "question": "Which tribe did Daenerys form an alliance with in Essos?",
+    "answer": "Dothraki"
   },
   {
     "question": "Which vision indicated the icy threat from the north?",
@@ -3638,6 +3790,10 @@
   {
     "question": "Who commanded the Lannister forces at the Battle of Blackwater?",
     "answer": "Tywin Lannister"
+  },
+  {
+    "question": "Who commanded the Northern army at the Battle of the Blackwater?",
+    "answer": "Robb Stark"
   },
   {
     "question": "Who commanded the Vale of Arryn in the Battle of the Seven Kings?",
@@ -3748,6 +3904,10 @@
     "answer": "Knights of the Vale"
   },
   {
+    "question": "Who helped the Starks reclaim Winterfell?",
+    "answer": "Sansa and Jon"
+  },
+  {
     "question": "Who in a vision called Jon Snow 'the enemy of darkness'?",
     "answer": "Mance Rayder"
   },
@@ -3770,6 +3930,10 @@
   {
     "question": "Who insisted on the marriage of Edmure Tully to Roslin Frey?",
     "answer": "Walder Frey"
+  },
+  {
+    "question": "Who inspired Arya on her path of vengeance?",
+    "answer": "Ned Stark"
   },
   {
     "question": "Who interpreted dreams about the future at the court?",
@@ -3824,6 +3988,10 @@
     "answer": "Jon Snow"
   },
   {
+    "question": "Who led the march on King's Landing after Eddard's execution?",
+    "answer": "Robb Stark"
+  },
+  {
     "question": "Who led the rebel army in Robert's Rebellion?",
     "answer": "Robert Baratheon"
   },
@@ -3870,6 +4038,10 @@
   {
     "question": "Who predicted the death of Joffrey Baratheon?",
     "answer": "Maggy the Frog"
+  },
+  {
+    "question": "Who proposed an alliance to Jon Snow in the fight against the Boltons?",
+    "answer": "Sansa Stark"
   },
   {
     "question": "Who rules the Ironborn at the beginning of 'Game of Thrones'?",
