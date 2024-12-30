@@ -164,6 +164,10 @@
     "answer": "Manchester"
   },
   {
+    "question": "In which city was the EMA ceremony held in 2007?",
+    "answer": "Munich"
+  },
+  {
     "question": "In which city were the EMAs held in 2010?",
     "answer": "Madrid"
   },
@@ -198,6 +202,10 @@
   {
     "question": "Name the first song to win an Oscar.",
     "answer": "The Continental"
+  },
+  {
+    "question": "Name the music style that was popular in New York in the 1970s?",
+    "answer": "Hip-hop"
   },
   {
     "question": "On which label did the Wu-Tang Clan start?",
@@ -480,6 +488,10 @@
     "answer": "In Croce Curriculum Musicus"
   },
   {
+    "question": "What is the name of The Chemical Brothers' 1997 album?",
+    "answer": "Dig Your Own Hole"
+  },
+  {
     "question": "What is the name of The Velvet Underground's debut album?",
     "answer": "The Velvet Underground & Nico"
   },
@@ -736,6 +748,10 @@
     "answer": "Americana"
   },
   {
+    "question": "What is the subgenre of drum and bass with an aggressive sound and complex rhythms called?",
+    "answer": "Neurofunk"
+  },
+  {
     "question": "What is the subgenre of techno with elements of ambient called?",
     "answer": "Ambient techno"
   },
@@ -956,6 +972,10 @@
     "answer": "1997"
   },
   {
+    "question": "Where did gangsta rap originate?",
+    "answer": "South Central"
+  },
+  {
     "question": "Where did the first mass performance of a jazz orchestra take place?",
     "answer": "New York"
   },
@@ -1022,6 +1042,10 @@
   {
     "question": "Which album by Mother Love Bone became their main one?",
     "answer": "Apple"
+  },
+  {
+    "question": "Which album did Led Zeppelin release in 1971?",
+    "answer": "Led Zeppelin IV"
   },
   {
     "question": "Which album did Marvin Gaye release in 1971?",
@@ -1676,6 +1700,10 @@
     "answer": "Brandenburg Concertos"
   },
   {
+    "question": "Who became popular thanks to the album 'Street Songs'?",
+    "answer": "Rick James"
+  },
+  {
     "question": "Who composed 'Duke Bluebeard's Castle'?",
     "answer": "Béla Bartók"
   },
@@ -1906,6 +1934,10 @@
   {
     "question": "Who performed the opening number at the MTV VMA 2021?",
     "answer": "Madonna"
+  },
+  {
+    "question": "Who performed the song 'Chop Suey!'?",
+    "answer": "System of a Down"
   },
   {
     "question": "Who performed the song 'Gimme Some Lovin''?",
@@ -2146,5 +2178,9 @@
   {
     "question": "Who wrote 'The Triumphal Symphony'?",
     "answer": "Richard Wagner"
+  },
+  {
+    "question": "Whose 1970s album is 'There Goes Rhymin' Simon'?",
+    "answer": "Paul Simon"
   }
 ]
