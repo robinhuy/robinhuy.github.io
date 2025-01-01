@@ -8532,6 +8532,14 @@
         "answer": "Increases brittleness"
     },
     {
+        "question": "How is body posture related to osteoporosis?",
+        "answer": "It worsens"
+    },
+    {
+        "question": "How is the degree of oxygen deficiency in the lungs measured?",
+        "answer": "Pulse oximetry"
+    },
+    {
         "question": "How long does it take for full acclimatization at altitude?",
         "answer": "1-2 weeks"
     },
@@ -8564,6 +8572,10 @@
         "answer": "60 ml/kg"
     },
     {
+        "question": "What activates the complement system?",
+        "answer": "Antibody"
+    },
+    {
         "question": "What activities can improve the adaptation of elderly people to climate change?",
         "answer": "Hardening"
     },
@@ -8576,11 +8588,23 @@
         "answer": "Laser therapy"
     },
     {
+        "question": "What are the effects of interferons?",
+        "answer": "Antiviral action"
+    },
+    {
+        "question": "What are the known physiological markers of stress?",
+        "answer": "Cortisol"
+    },
+    {
         "question": "What are the long-term consequences of chronic sleep deprivation?",
         "answer": "Increased risk of diseases"
     },
     {
         "question": "What are the molecules called that initiate the inflammatory response?",
+        "answer": "Cytokines"
+    },
+    {
+        "question": "What are the proteins called that play a key role in immune response and signal transduction?",
         "answer": "Cytokines"
     },
     {
@@ -8608,6 +8632,10 @@
         "answer": "Fat oxidation"
     },
     {
+        "question": "What biochemical substances are produced by eosinophils in asthma?",
+        "answer": "Cytokines"
+    },
+    {
         "question": "What can random mutations lead to?",
         "answer": "Genetic diseases"
     },
@@ -8622,6 +8650,10 @@
     {
         "question": "What causes hyperaldosteronism?",
         "answer": "Adenoma"
+    },
+    {
+        "question": "What causes thymus atrophy with age?",
+        "answer": "Stress hormones"
     },
     {
         "question": "What causes thymus atrophy?",
@@ -8672,6 +8704,10 @@
         "answer": "Dreams"
     },
     {
+        "question": "What chemical compounds are formed when meat is grilled at high temperatures?",
+        "answer": "Heterocyclic amines"
+    },
+    {
         "question": "What chemical compounds in the brain regulate sleep?",
         "answer": "Neurotransmitters"
     },
@@ -8718,6 +8754,10 @@
     {
         "question": "What effect does choline have on the brain?",
         "answer": "Improvement of memory"
+    },
+    {
+        "question": "What effect does chronic stress have on DNA telomeres?",
+        "answer": "Shortening"
     },
     {
         "question": "What effect does chronic stress have on neurogenesis?",
@@ -8846,6 +8886,10 @@
     {
         "question": "What heart condition can be caused by hypertrophic cardiomyopathy?",
         "answer": "Sudden death"
+    },
+    {
+        "question": "What hormonal imbalance affects anxiety and depression?",
+        "answer": "Low serotonin levels"
     },
     {
         "question": "What hormonal imbalance is associated with Addison's disease?",
@@ -8988,6 +9032,10 @@
         "answer": "Artery bypass"
     },
     {
+        "question": "What is the process called that controls tissue growth?",
+        "answer": "Proliferation"
+    },
+    {
         "question": "What is the process of forming glucose from amino acids called?",
         "answer": "Gluconeogenesis"
     },
@@ -8998,6 +9046,10 @@
     {
         "question": "What is the role of HLA in the body?",
         "answer": "antigen presentation"
+    },
+    {
+        "question": "What is the role of alveolar macrophages?",
+        "answer": "Protection of the lungs"
     },
     {
         "question": "What is the role of antioxidants during intense workouts?",
@@ -9014,6 +9066,10 @@
     {
         "question": "What is the role of short-chain fatty acids in the gut?",
         "answer": "Prevention of inflammation"
+    },
+    {
+        "question": "What is the role of sleep in the process of memory consolidation?",
+        "answer": "Stabilization of information"
     },
     {
         "question": "What is the significance of the aerobic threshold for training?",
@@ -9034,6 +9090,10 @@
     {
         "question": "What mechanism controls the interaction between the pituitary gland and the thyroid gland?",
         "answer": "Hypothalamic-pituitary axis"
+    },
+    {
+        "question": "What mechanism governs the process of heart remodeling?",
+        "answer": "Cardiomyocyte hypertrophy"
     },
     {
         "question": "What mechanism is responsible for regulating sleep at the brain level?",
@@ -9064,6 +9124,10 @@
         "answer": "Barrier creams"
     },
     {
+        "question": "What methods are used for non-surgical treatment of angina?",
+        "answer": "nitrates"
+    },
+    {
         "question": "What methods are used in the treatment of obsessive-compulsive disorder?",
         "answer": "Behavioral therapy"
     },
@@ -9084,6 +9148,10 @@
         "answer": "Serotonin imbalance"
     },
     {
+        "question": "What neurochemical processes occur in the brain during deep sleep?",
+        "answer": "Decrease in acetylcholine"
+    },
+    {
         "question": "What neurotransmitters are contained in substance P, released during stress?",
         "answer": "Tachykinins"
     },
@@ -9096,12 +9164,24 @@
         "answer": "Antibiotics"
     },
     {
+        "question": "What physiological changes occur with prolonged aerobic training?",
+        "answer": "Increase in blood volume"
+    },
+    {
         "question": "What physiological mechanisms ensure the dilation of the bronchi?",
         "answer": "Action of adrenaline"
     },
     {
         "question": "What physiological phenomenon limits the duration of aerobic exercise?",
         "answer": "Muscle fatigue"
+    },
+    {
+        "question": "What physiological processes are activated with increased physical exertion?",
+        "answer": "Adaptation"
+    },
+    {
+        "question": "What problems can arise from chronic ischemia?",
+        "answer": "Heart attack"
     },
     {
         "question": "What procedures are recommended for restoring joint function after an injury?",
@@ -9164,6 +9244,14 @@
         "answer": "Regulates inflammation"
     },
     {
+        "question": "What role does the Major Histocompatibility Complex (MHC) play in immunity?",
+        "answer": "Antigen presentation"
+    },
+    {
+        "question": "What should be the balance of trace elements in the diet of elderly people?",
+        "answer": "High calcium"
+    },
+    {
         "question": "What specific type of running workout is best for increasing the anaerobic threshold?",
         "answer": "Interval"
     },
@@ -9192,12 +9280,20 @@
         "answer": "Magnesium"
     },
     {
+        "question": "What substance is necessary for improving neural adaptation in muscles?",
+        "answer": "Myelin"
+    },
+    {
         "question": "What substance is necessary for the synthesis of neurotransmitters?",
         "answer": "Tryptophan"
     },
     {
         "question": "What substance protects the heart from free radicals?",
         "answer": "Antioxidants"
+    },
+    {
+        "question": "What substances are included in serums to improve skin texture?",
+        "answer": "Alpha hydroxy acids"
     },
     {
         "question": "What substances can reduce inflammation in blood vessels?",
@@ -9212,6 +9308,10 @@
         "answer": "Plasma hypertrophy"
     },
     {
+        "question": "What tests are methods of early diagnosis of prostate cancer?",
+        "answer": "PSA test"
+    },
+    {
         "question": "What tests are used to identify predisposition to genetic diseases?",
         "answer": "Genetic test"
     },
@@ -9222,6 +9322,10 @@
     {
         "question": "What type of adaptation does the response to long-term stress belong to?",
         "answer": "Generalized"
+    },
+    {
+        "question": "What type of arrhythmia is associated with a high risk of stroke?",
+        "answer": "Atrial fibrillation"
     },
     {
         "question": "What type of cells produce mucous secretion in the respiratory tract?",
@@ -9252,6 +9356,14 @@
         "answer": "Periodization"
     },
     {
+        "question": "What type of proteins regulate apoptosis in infected cells?",
+        "answer": "FAS ligand"
+    },
+    {
+        "question": "What types of arrhythmias may require a pacemaker?",
+        "answer": "Atrioventricular block"
+    },
+    {
         "question": "What volumes are measured by spirometry?",
         "answer": "Forced expiratory volume"
     },
@@ -9260,8 +9372,24 @@
         "answer": "Leucine"
     },
     {
+        "question": "Which anatomical structure controls the opening and closing of heart valves?",
+        "answer": "Chordae tendineae"
+    },
+    {
+        "question": "Which anti-aging components stimulate the synthesis of collagen and elastin?",
+        "answer": "Peptides"
+    },
+    {
+        "question": "Which biochemical marker reflects the level of muscle fatigue?",
+        "answer": "Lactate"
+    },
+    {
         "question": "Which biologically active substances are synthesized simultaneously with cortisol in the adrenal glands?",
         "answer": "Catecholamines"
+    },
+    {
+        "question": "Which brain waves are predominant during REM sleep?",
+        "answer": "Beta waves"
     },
     {
         "question": "Which cell is necessary for the activation of the humoral immune response?",
@@ -9296,6 +9424,10 @@
         "answer": "Enteroendocrine cells"
     },
     {
+        "question": "Which cells produce interferons?",
+        "answer": "leukocytes"
+    },
+    {
         "question": "Which cells secrete cytokines to regulate the immune response?",
         "answer": "T-helper cells"
     },
@@ -9318,6 +9450,10 @@
     {
         "question": "Which complement activation pathway is triggered by antibodies?",
         "answer": "classical pathway"
+    },
+    {
+        "question": "Which component of the immune system is activated by the classical pathway?",
+        "answer": "Complement"
     },
     {
         "question": "Which compound serves as a precursor to coenzyme Q10?",
@@ -9376,6 +9512,10 @@
         "answer": "Magnesium citrate"
     },
     {
+        "question": "Which form of vitamin B2 is the most bioavailable?",
+        "answer": "Riboflavin-5'-phosphate"
+    },
+    {
         "question": "Which form of vitamin B9 is the most bioavailable?",
         "answer": "Methylfolate"
     },
@@ -9396,6 +9536,10 @@
         "answer": "Period genes"
     },
     {
+        "question": "Which genetic tests are informative for identifying predisposition to hereditary diseases?",
+        "answer": "Molecular diagnostics"
+    },
+    {
         "question": "Which groups of people should undergo annual screening for lung cancer?",
         "answer": "Smokers"
     },
@@ -9412,12 +9556,20 @@
         "answer": "Prolactin"
     },
     {
+        "question": "Which hormone is the main substance for the synthesis of estrogens?",
+        "answer": "Testosterone"
+    },
+    {
         "question": "Which hormone promotes bone mass restoration?",
         "answer": "Estrogen"
     },
     {
         "question": "Which hormone regulates phosphate levels?",
         "answer": "Parathyroid hormone"
+    },
+    {
+        "question": "Which hormones are regulated through the hypothalamic-pituitary-adrenal axis?",
+        "answer": "Corticosteroids"
     },
     {
         "question": "Which hormones stimulate bone tissue synthesis?",
@@ -9488,6 +9640,10 @@
         "answer": "Pyridoxal phosphate"
     },
     {
+        "question": "Which metabolite of vitamin D is its active form?",
+        "answer": "Calcitriol"
+    },
+    {
         "question": "Which method allows for identifying hidden fears?",
         "answer": "Projective test"
     },
@@ -9532,6 +9688,10 @@
         "answer": "MHC molecules"
     },
     {
+        "question": "Which molecules recognize MHC class I?",
+        "answer": "Cytotoxic T cells"
+    },
+    {
         "question": "Which molecules recognize pathogens and trigger an immune response?",
         "answer": "Toll-like receptors"
     },
@@ -9560,12 +9720,20 @@
         "answer": "Vitamin D"
     },
     {
+        "question": "Which nutrients are critical for cartilage health?",
+        "answer": "Collagen"
+    },
+    {
         "question": "Which organ produces somatostatin?",
         "answer": "Pancreas"
     },
     {
         "question": "Which part of the brain inhibits stress-threshold reflexes during anxiety?",
         "answer": "Prefrontal cortex"
+    },
+    {
+        "question": "Which part of the respiratory system is involved in tear production?",
+        "answer": "Nasal passages"
     },
     {
         "question": "Which part of the respiratory system is responsible for maintaining constant pressure in the lungs?",
@@ -9580,6 +9748,10 @@
         "answer": "Flavonoids"
     },
     {
+        "question": "Which phytonutrients are recognized as effective in reducing the risk of various types of cancer?",
+        "answer": "Carotenoids"
+    },
+    {
         "question": "Which plant protein is best absorbed by the body?",
         "answer": "soy"
     },
@@ -9590,6 +9762,10 @@
     {
         "question": "Which procedures most effectively stimulate skin cell renewal?",
         "answer": "Chemical peels"
+    },
+    {
+        "question": "Which process improves anaerobic power through mitochondrial adaptations?",
+        "answer": "Biogenesis"
     },
     {
         "question": "Which process is involved in bone tissue remodeling?",
@@ -9624,6 +9800,10 @@
         "answer": "Cytokines"
     },
     {
+        "question": "Which structure is most developed for air filtration?",
+        "answer": "Microvilli"
+    },
+    {
         "question": "Which structure of the immune system is responsible for recognizing HLA on foreign cells?",
         "answer": "MHC Class I"
     },
@@ -9638,6 +9818,10 @@
     {
         "question": "Which substance enhances the secretion of corticotropin-releasing hormone during stress?",
         "answer": "Ghrelin"
+    },
+    {
+        "question": "Which substance in the brain increases with chronic sleep deprivation?",
+        "answer": "Adenosine"
     },
     {
         "question": "Which substance is considered an important marker of bone remodeling?",
@@ -9720,6 +9904,10 @@
         "answer": "B6"
     },
     {
+        "question": "Which vitamin is a precursor of biotin?",
+        "answer": "Biocytin"
+    },
+    {
         "question": "Which vitamin is a precursor of flavin mononucleotides and dinucleotides involved in energy metabolism?",
         "answer": "Vitamin B2"
     },
@@ -9760,6 +9948,10 @@
         "answer": "Vitamin B9"
     },
     {
+        "question": "Which vitamin plays a key role in one-carbon metabolism and the synthesis of nucleic acids?",
+        "answer": "Vitamin B9"
+    },
+    {
         "question": "Which vitamin supports the function of enzymes involved in DNA methylation?",
         "answer": "Vitamin B12"
     },
@@ -9778,6 +9970,10 @@
     {
         "question": "Which vitamins are cofactors for enzymes?",
         "answer": "B6 and B2"
+    },
+    {
+        "question": "Which vitamins are important for neurotransmitters?",
+        "answer": "B6 and B9"
     },
     {
         "question": "Which vitamins are synthesized in the body from cholesterol?",
@@ -26651,6 +26847,10 @@
         "answer": "Levels the playing field"
     },
     {
+        "question": "How have technologies changed the training of athletes for the Paralympic Games?",
+        "answer": "Individualized training"
+    },
+    {
         "question": "How long was the longest tennis match?",
         "answer": "11 hours 5 minutes"
     },
@@ -26717,6 +26917,10 @@
     {
         "question": "What effect does water temperature have on swimming resistance?",
         "answer": "Increase in resistance"
+    },
+    {
+        "question": "What element of strategy is important for a successful counterattack in table tennis?",
+        "answer": "Precise calculation"
     },
     {
         "question": "What element of training helps a horse develop flexibility?",
@@ -26859,6 +27063,10 @@
         "answer": "Baseline play"
     },
     {
+        "question": "What tactical element in rugby sevens is used to ensure a quick attack?",
+        "answer": "Quick tap"
+    },
+    {
         "question": "What technique allows a swimmer to reduce water resistance?",
         "answer": "Streamlining the body"
     },
@@ -26905,6 +27113,10 @@
     {
         "question": "What type of equestrian sport includes elements of horseback riding and archery?",
         "answer": "Mounted archery"
+    },
+    {
+        "question": "What type of gallop is used for covering long distances at high speed?",
+        "answer": "Canter"
     },
     {
         "question": "What type of muscle fibers is most engaged in weightlifting?",
@@ -27033,6 +27245,10 @@
     {
         "question": "Which jumping technique involves the use of minimal cues?",
         "answer": "Freestyle"
+    },
+    {
+        "question": "Which martial art teaches the principle of maximum efficiency with minimal effort?",
+        "answer": "Aikido"
     },
     {
         "question": "Which pair was the first to perform a quadruple twist lift in pair skating?",
