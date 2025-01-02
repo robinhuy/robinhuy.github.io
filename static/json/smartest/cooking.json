@@ -20,6 +20,10 @@
     "answer": "24 hours"
   },
   {
+    "question": "In which dish is fugu fish used?",
+    "answer": "Sashimi"
+  },
+  {
     "question": "In which dish is vendace used?",
     "answer": "Chuchvara"
   },
@@ -148,6 +152,10 @@
     "answer": "Beef"
   },
   {
+    "question": "What is the main ingredient in mezcal?",
+    "answer": "Agave"
+  },
+  {
     "question": "What is the method of freezing using very low temperatures called?",
     "answer": "Cryogenic freezing"
   },
@@ -252,8 +260,16 @@
     "answer": "Dry frying"
   },
   {
+    "question": "What is the purpose of adding aspirin to preserves?",
+    "answer": "Preservative"
+  },
+  {
     "question": "What is the technique called that involves creating solid or semi-solid forms from liquids?",
     "answer": "Gelation"
+  },
+  {
+    "question": "What is the technique called that uses fire to caramelize crème brûlée?",
+    "answer": "Caramelization"
   },
   {
     "question": "What is the technique of slowly cooking meat in liquid called?",
@@ -498,6 +514,10 @@
   {
     "question": "Which fruit is often used in Moroccan cuisine?",
     "answer": "Dates"
+  },
+  {
+    "question": "Which gas is used to create foams?",
+    "answer": "Carbon dioxide"
   },
   {
     "question": "Which leafy green contains the most antioxidants?",
