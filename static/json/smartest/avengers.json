@@ -320,10 +320,6 @@
     "answer": "The Amazing Spider-Man #300"
   },
   {
-    "question": "In which comic did Wanda Maximoff first appear?",
-    "answer": "X-Men #4"
-  },
-  {
     "question": "In which comic does Deadpool interact with philosophical concepts?",
     "answer": "Deadpool: Philosophy"
   },
@@ -1348,10 +1344,6 @@
     "answer": "Accident"
   },
   {
-    "question": "What event led Scott Lang to become Ant-Man?",
-    "answer": "Robbery"
-  },
-  {
     "question": "What event led Tony Stark to reassess his moral values?",
     "answer": "Capture by terrorists"
   },
@@ -1512,6 +1504,10 @@
     "answer": "Ultimate Fantastic Four"
   },
   {
+    "question": "What event marks Thor's return to Asgard?",
+    "answer": "The end of Ragnarok"
+  },
+  {
     "question": "What event preceded Captain America becoming a super soldier?",
     "answer": "World War II"
   },
@@ -1664,6 +1660,10 @@
     "answer": "Breaks the fourth wall"
   },
   {
+    "question": "What feature of Iron Man's armor allows him to survive in space?",
+    "answer": "Nanotechnology"
+  },
+  {
     "question": "What feeling does the main character consider their advantage?",
     "answer": "Courage"
   },
@@ -1766,6 +1766,10 @@
   {
     "question": "What instrument do the Asgardians use to communicate with the gods?",
     "answer": "Golden conch"
+  },
+  {
+    "question": "What interaction between Hulk and other Marvel heroes caused changes in time?",
+    "answer": "Alliance"
   },
   {
     "question": "What interaction between Hulk and other Marvel heroes led to significant changes?",
@@ -2048,6 +2052,10 @@
     "answer": "reconnaissance"
   },
   {
+    "question": "What is the main strategic goal of Wakanda?",
+    "answer": "Protection"
+  },
+  {
     "question": "What is the main threat to the multiverse?",
     "answer": "Dormammu"
   },
@@ -2078,10 +2086,6 @@
   {
     "question": "What is the name of Doctor Strange's magical circle?",
     "answer": "The Seal of the Vishanti"
-  },
-  {
-    "question": "What is the name of Doctor Strange's mentor?",
-    "answer": "The Ancient One"
   },
   {
     "question": "What is the name of Doctor Strange's sanctuary in New York?",
@@ -2300,10 +2304,6 @@
     "answer": "Elixir of Life"
   },
   {
-    "question": "What is the name of the mystical order that protects the world?",
-    "answer": "Kamar-Taj"
-  },
-  {
     "question": "What is the name of the newspaper where Peter Parker works?",
     "answer": "Daily Bugle"
   },
@@ -2370,6 +2370,10 @@
   {
     "question": "What is the name of the scientific project that allowed the exploration of parallel universes?",
     "answer": "Project Nexus"
+  },
+  {
+    "question": "What is the name of the second part of the movie 'Guardians of the Galaxy'?",
+    "answer": "Guardians of the Galaxy Vol. 2"
   },
   {
     "question": "What is the name of the secret society that Stephen Strange belongs to?",
@@ -2678,10 +2682,6 @@
   {
     "question": "What magical artifact does Doctor Strange use for protection?",
     "answer": "Cloak of Levitation"
-  },
-  {
-    "question": "What magical aspect allows time manipulation in Marvel?",
-    "answer": "Temporal Control"
   },
   {
     "question": "What magical barrier protects dimensions from invasion?",
@@ -3012,12 +3012,20 @@
     "answer": "Harmony"
   },
   {
+    "question": "What philosophical ideas shape the Wakandans' approach to foreign policy?",
+    "answer": "Nationalism"
+  },
+  {
     "question": "What philosophical principle underlies the governance of Wakanda?",
     "answer": "Isolationism"
   },
   {
     "question": "What philosophical principle underlies the rule of the King of Wakanda?",
     "answer": "Ubuntu"
+  },
+  {
+    "question": "What philosophy defines Thanos' actions in his quest?",
+    "answer": "Balance of the universe"
   },
   {
     "question": "What philosophy does Wakanda follow in international relations?",
@@ -3328,10 +3336,6 @@
     "answer": "Support"
   },
   {
-    "question": "What role does Captain America play in maintaining morale among other superheroes?",
-    "answer": "Moral compass"
-  },
-  {
     "question": "What role does Captain Marvel play in the 'Avengers' team?",
     "answer": "Main fighter"
   },
@@ -3600,6 +3604,10 @@
     "answer": "Time Reversal"
   },
   {
+    "question": "What spell allows awakening ancient beings in the Marvel universe?",
+    "answer": "Call of the Ancients"
+  },
+  {
     "question": "What spell allows you to travel between worlds?",
     "answer": "Portal"
   },
@@ -3618,10 +3626,6 @@
   {
     "question": "What spell does Doctor Strange use for invulnerability?",
     "answer": "Circles of Agamotto"
-  },
-  {
-    "question": "What spell does Doctor Strange use for protection against dark magic?",
-    "answer": "Shield"
   },
   {
     "question": "What spell does Doctor Strange use to control time?",
@@ -3716,6 +3720,10 @@
     "answer": "Gamma radiation"
   },
   {
+    "question": "What substance is used in superhero costumes to adapt their abilities?",
+    "answer": "Unstable molecules"
+  },
+  {
     "question": "What substance is used in the Fantastic Four technologies?",
     "answer": "Negative Zone"
   },
@@ -3798,6 +3806,10 @@
   {
     "question": "What tactic did Captain Marvel choose to prevent the catastrophe?",
     "answer": "Lightning strike"
+  },
+  {
+    "question": "What tactic did Captain Marvel use to protect Earth?",
+    "answer": "Shield defense"
   },
   {
     "question": "What tactic does Captain Marvel use to prevent crises?",
@@ -3984,10 +3996,6 @@
     "answer": "Trial of Mjolnir"
   },
   {
-    "question": "What trial symbolizes true nobility in Asgard?",
-    "answer": "Worthiness of Mjolnir"
-  },
-  {
     "question": "What type of armor was created to protect against energy attacks?",
     "answer": "Energy shield"
   },
@@ -4022,10 +4030,6 @@
   {
     "question": "What type of magic does Wanda use to alter reality?",
     "answer": "Chaos magic"
-  },
-  {
-    "question": "What type of sensors in armor allows for the detection of hidden threats?",
-    "answer": "Stealth detectors"
   },
   {
     "question": "What type of sensors provide a 360-degree view for the pilot of the suit?",
@@ -4246,6 +4250,10 @@
   {
     "question": "Where is the Time Stone kept?",
     "answer": "Sanctum Sanctorum"
+  },
+  {
+    "question": "Which 'Avengers' character appears in the post-credits scene of the movie 'Thor'?",
+    "answer": "Loki"
   },
   {
     "question": "Which Asgardian relic grants immortality?",
@@ -4668,10 +4676,6 @@
     "answer": "Animus"
   },
   {
-    "question": "Which Marvel villain manipulated reality to achieve their goals?",
-    "answer": "Master Pandemonium"
-  },
-  {
     "question": "Which Marvel villain orchestrated the events leading to the Infinity War?",
     "answer": "Thanos"
   },
@@ -4800,6 +4804,10 @@
     "answer": "Loki"
   },
   {
+    "question": "Which Marvel villain, possessing unusual alchemical knowledge, sought to become immortal through mystical rituals?",
+    "answer": "Mysterio"
+  },
+  {
     "question": "Which Spider-Man enemy was a chemist and engineer before becoming a supervillain, using his inventions to fight?",
     "answer": "Doctor Octopus"
   },
@@ -4874,10 +4882,6 @@
   {
     "question": "Which ally helped Banner deal with his transformations?",
     "answer": "Doctor Strange"
-  },
-  {
-    "question": "Which ally of Captain America became the Winter Soldier?",
-    "answer": "Bucky Barnes"
   },
   {
     "question": "Which ally of Hulk became his enemy due to a misunderstanding?",
@@ -5444,12 +5448,20 @@
     "answer": "Okoye"
   },
   {
+    "question": "Which character manipulated time to achieve their goals?",
+    "answer": "Doctor Doom"
+  },
+  {
     "question": "Which character often leads the team into battle?",
     "answer": "Captain America"
   },
   {
     "question": "Which character originally wore the black Spider-Man suit?",
     "answer": "Peter Parker"
+  },
+  {
+    "question": "Which character owned the ship Milano?",
+    "answer": "Star-Lord"
   },
   {
     "question": "Which character owns the Milano?",
@@ -5552,6 +5564,10 @@
     "answer": "Homunculus Lust"
   },
   {
+    "question": "Which character uses mystical powers to protect dimensions?",
+    "answer": "Clea"
+  },
+  {
     "question": "Which character uses technology to create an army of robots and clones?",
     "answer": "Fabricator"
   },
@@ -5578,10 +5594,6 @@
   {
     "question": "Which character wears a T-shirt with a classic monster image in 'Thor: Ragnarok'?",
     "answer": "Bruce"
-  },
-  {
-    "question": "Which character wears a suit made of vibranium?",
-    "answer": "Black Panther"
   },
   {
     "question": "Which character wears the Iron Man suit after Tony Stark?",
@@ -5622,10 +5634,6 @@
   {
     "question": "Which comic book character was a close ally of Captain America and later gained their own superhero identity?",
     "answer": "Bucky Barnes"
-  },
-  {
-    "question": "Which comic book depicted a universe where heroes became zombies?",
-    "answer": "Marvel Zombies"
   },
   {
     "question": "Which comic book depicted an event where all heroes were stripped of their powers?",
@@ -5826,6 +5834,10 @@
   {
     "question": "Which dimension does Doctor Strange protect?",
     "answer": "Earth's reality"
+  },
+  {
+    "question": "Which dimension is associated with Ant-Man's technology?",
+    "answer": "Quantum"
   },
   {
     "question": "Which dimension is associated with Ant-Man's travels?",
@@ -6066,10 +6078,6 @@
   {
     "question": "Which famous comic book character appears on the prison wall in 'Guardians of the Galaxy'?",
     "answer": "Howard the Duck"
-  },
-  {
-    "question": "Which famous helmet is featured in the movie 'Guardians of the Galaxy'?",
-    "answer": "Nova Corps Helmet"
   },
   {
     "question": "Which famous logo appears in Peter Parker's apartment in the movie 'Spider-Man'?",
@@ -6332,10 +6340,6 @@
     "answer": "Nick Fury"
   },
   {
-    "question": "Which member of the 'Fantastic Four' is known for their ability to become invisible?",
-    "answer": "Invisible Woman"
-  },
-  {
     "question": "Which member of the Avengers played a key role in the development of the Hulk?",
     "answer": "Black Widow"
   },
@@ -6522,6 +6526,10 @@
   {
     "question": "Which of the magicians is known for their illusions?",
     "answer": "Loki"
+  },
+  {
+    "question": "Which of the wizards is known for their ability to make predictions?",
+    "answer": "Agamotto"
   },
   {
     "question": "Which organization considered Captain America an enemy in 'The Avengers'?",
@@ -6820,6 +6828,10 @@
     "answer": "Deadpool: Introspection"
   },
   {
+    "question": "Which storyline first introduced the concept of time anomalies in Marvel?",
+    "answer": "Days of Future Past"
+  },
+  {
     "question": "Which storyline in Marvel Comics first introduced the 'Red Hulk'?",
     "answer": "Hulk: Red Hulk"
   },
@@ -6970,6 +6982,10 @@
   {
     "question": "Which superhero joined the Avengers team last in the original comics?",
     "answer": "Captain America"
+  },
+  {
+    "question": "Which superhero leads the defense of Wakanda?",
+    "answer": "Black Panther"
   },
   {
     "question": "Which superhero led the 'Avengers' initiative?",
@@ -7192,6 +7208,10 @@
     "answer": "Mysterio"
   },
   {
+    "question": "Which supervillain was able to temporarily control Spider-Man's body?",
+    "answer": "Doctor Octopus"
+  },
+  {
     "question": "Which symbol from 'Thor: Ragnarok' references 'Game of Thrones'?",
     "answer": "Throne"
   },
@@ -7250,10 +7270,6 @@
   {
     "question": "Which version of Iron Man's armor can self-repair?",
     "answer": "Extremis"
-  },
-  {
-    "question": "Which version of Spider-Man comes from an alternate universe with a noir style?",
-    "answer": "Spider-Man Noir"
   },
   {
     "question": "Which version of Spider-Man is from universe 1610?",
@@ -7744,10 +7760,6 @@
     "answer": "Dark King"
   },
   {
-    "question": "Who inspired Peter Parker to become a superhero?",
-    "answer": "Uncle Ben"
-  },
-  {
     "question": "Who invented the Hulk?",
     "answer": "Stan Lee"
   },
@@ -7790,10 +7802,6 @@
   {
     "question": "Who is considered the guardian of magic on Earth?",
     "answer": "Wong"
-  },
-  {
-    "question": "Who is known as Drax the Destroyer?",
-    "answer": "Drax"
   },
   {
     "question": "Who is known for their armor and ambition for world domination?",
