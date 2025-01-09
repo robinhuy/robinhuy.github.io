@@ -52,6 +52,14 @@
     "answer": "Blubber"
   },
   {
+    "question": "How is a mini-greenhouse used?",
+    "answer": "Growing seedlings"
+  },
+  {
+    "question": "How long do carrot seeds remain viable?",
+    "answer": "2-3 years"
+  },
+  {
     "question": "How long do macaques live?",
     "answer": "35 years"
   },
@@ -74,6 +82,10 @@
   {
     "question": "How many gill slits do jawless fish have?",
     "answer": "Up to 100"
+  },
+  {
+    "question": "How many gold medals does Michael Phelps have?",
+    "answer": "23"
   },
   {
     "question": "How many liters of blood are in the heart of a blue whale?",
@@ -136,8 +148,24 @@
     "answer": "60"
   },
   {
+    "question": "How many years does the probation period last after being released from prison?",
+    "answer": "2"
+  },
+  {
     "question": "How much does a blue whale weigh on average?",
     "answer": "150 tons"
+  },
+  {
+    "question": "How to control overwatering?",
+    "answer": "Moisture sensor"
+  },
+  {
+    "question": "How to deal with wireworms?",
+    "answer": "Using traps"
+  },
+  {
+    "question": "How to optimize water usage in an irrigation system?",
+    "answer": "Install timers"
   },
   {
     "question": "In which century were lancelets first described?",
@@ -216,12 +244,24 @@
     "answer": "Musk oxen"
   },
   {
+    "question": "What are Japanese gardens decorated with?",
+    "answer": "Rocks and sand"
+  },
+  {
     "question": "What are arthropods with jaws called?",
     "answer": "Mandibulates"
   },
   {
     "question": "What are brittle stars?",
     "answer": "A type of echinoderms"
+  },
+  {
+    "question": "What are compost worms used for?",
+    "answer": "To decompose materials"
+  },
+  {
+    "question": "What are enclosing structures used for?",
+    "answer": "Zoning"
   },
   {
     "question": "What are nocturnal primates called?",
@@ -256,6 +296,14 @@
     "answer": "Book lungs"
   },
   {
+    "question": "What are warm substrates used for?",
+    "answer": "Soil warming"
+  },
+  {
+    "question": "What aspect of training helps biathletes manage adrenaline during shooting?",
+    "answer": "Meditation"
+  },
+  {
     "question": "What color is most commonly predominant in deep-sea fish?",
     "answer": "Dark"
   },
@@ -272,12 +320,28 @@
     "answer": "Wings"
   },
   {
+    "question": "What does a compost thermometer measure?",
+    "answer": "Temperature of compost"
+  },
+  {
+    "question": "What does a pH meter measure?",
+    "answer": "Soil acidity"
+  },
+  {
     "question": "What does a sea cucumber release when threatened?",
     "answer": "Internal organs"
   },
   {
     "question": "What does the notochord in lancelets represent?",
     "answer": "Rigid rod"
+  },
+  {
+    "question": "What environment is created to attract beneficial insects?",
+    "answer": "Biotopes"
+  },
+  {
+    "question": "What equipment is used to remove old turf?",
+    "answer": "Aerator"
   },
   {
     "question": "What feeding method do most brittle stars use?",
@@ -294,6 +358,10 @@
   {
     "question": "What fish is most commonly caught in sport fishing?",
     "answer": "Salmon"
+  },
+  {
+    "question": "What flowers are planted in the fall?",
+    "answer": "Tulips"
   },
   {
     "question": "What function do ancient gill slits serve in jawless vertebrates?",
@@ -320,6 +388,22 @@
     "answer": "Sensing smells"
   },
   {
+    "question": "What garden element often serves as a focal point?",
+    "answer": "Fountain"
+  },
+  {
+    "question": "What helps to control watering remotely?",
+    "answer": "Wi-Fi controller"
+  },
+  {
+    "question": "What helps to save water in drip irrigation?",
+    "answer": "Controller"
+  },
+  {
+    "question": "What irrigation system is used for slow soil moisture?",
+    "answer": "Capillary irrigation"
+  },
+  {
     "question": "What is a madreporite?",
     "answer": "Entrance to the ambulacral system"
   },
@@ -332,6 +416,10 @@
     "answer": "Sea cucumber"
   },
   {
+    "question": "What is added to compost to improve its structure?",
+    "answer": "Sawdust"
+  },
+  {
     "question": "What is an Argopecten?",
     "answer": "Mollusk"
   },
@@ -340,16 +428,48 @@
     "answer": "sea flower"
   },
   {
+    "question": "What is an effective method for mosquito control?",
+    "answer": "Biological methods"
+  },
+  {
+    "question": "What is hydroponics?",
+    "answer": "Soilless cultivation"
+  },
+  {
     "question": "What is ichthyology?",
     "answer": "The science of fish"
+  },
+  {
+    "question": "What is needed to grow a bonsai?",
+    "answer": "Patience"
+  },
+  {
+    "question": "What is needed to stabilize the pH of compost?",
+    "answer": "Lime"
+  },
+  {
+    "question": "What is needed to warm the soil in a greenhouse?",
+    "answer": "Heaters"
+  },
+  {
+    "question": "What is permaculture?",
+    "answer": "Sustainable agriculture"
   },
   {
     "question": "What is special about geckos' eyes?",
     "answer": "No eyelids"
   },
   {
+    "question": "What is the action called when rugby players make contact in a contest for the ball on the ground?",
+    "answer": "Ruck"
+  },
+  {
     "question": "What is the average number of eggs laid by a cockroach at one time?",
     "answer": "16"
+  },
+  {
+    "question": "What is the best fertilizer to use for strawberries?",
+    "answer": "Compost"
   },
   {
     "question": "What is the body length of a lamprey?",
@@ -358,6 +478,10 @@
   {
     "question": "What is the brain size of a chimpanzee?",
     "answer": "400 grams"
+  },
+  {
+    "question": "What is the correct name for a hose with small holes?",
+    "answer": "Soaker"
   },
   {
     "question": "What is the duration of humpback whale migration?",
@@ -370,6 +494,10 @@
   {
     "question": "What is the function of a whale's dorsal fin?",
     "answer": "Stabilization"
+  },
+  {
+    "question": "What is the goal of organic farming?",
+    "answer": "Sustainable development"
   },
   {
     "question": "What is the largest living mollusk?",
@@ -412,12 +540,20 @@
     "answer": "12 meters"
   },
   {
+    "question": "What is the method of growing vegetables without using soil called?",
+    "answer": "Hydroponics"
+  },
+  {
     "question": "What is the molting process in arthropods called?",
     "answer": "Ecdysis"
   },
   {
     "question": "What is the most poisonous fish?",
     "answer": "Stonefish"
+  },
+  {
+    "question": "What is the name of a garden corner designed for relaxation and meditation?",
+    "answer": "Harmony"
   },
   {
     "question": "What is the name of the dental apparatus in rays?",
@@ -444,6 +580,10 @@
     "answer": "Pelagic zone"
   },
   {
+    "question": "What is the name of the opening after 1.e4 c6?",
+    "answer": "Caro-Kann Defense"
+  },
+  {
     "question": "What is the name of the potent mollusk toxin?",
     "answer": "Tetrodotoxin"
   },
@@ -452,8 +592,20 @@
     "answer": "marmoset"
   },
   {
+    "question": "What is the name of the soil cultivation tool invented by Fokin?",
+    "answer": "Flat-cutter"
+  },
+  {
     "question": "What is the notochord of a lancelet made of?",
     "answer": "Cartilage"
+  },
+  {
+    "question": "What is the optimal moisture level for composting?",
+    "answer": "40-60%"
+  },
+  {
+    "question": "What is the optimal temperature for Chinese cabbage germination?",
+    "answer": "15-20°C"
   },
   {
     "question": "What is the part of a sea urchin called that releases toxins?",
@@ -480,12 +632,28 @@
     "answer": "Tetrapodization"
   },
   {
+    "question": "What is the process of supplying water underground called?",
+    "answer": "Subsurface irrigation"
+  },
+  {
+    "question": "What is the process of trimming shrubs into geometric shapes called?",
+    "answer": "Topiary"
+  },
+  {
+    "question": "What is the purpose of drainage in a greenhouse?",
+    "answer": "Removal of water"
+  },
+  {
     "question": "What is the role of squids in the ecosystem?",
     "answer": "Predators and prey"
   },
   {
     "question": "What is the science of fish called?",
     "answer": "Ichthyology"
+  },
+  {
+    "question": "What is the science of growing flowers called?",
+    "answer": "Floriculture"
   },
   {
     "question": "What is the science that studies reptiles called?",
@@ -496,12 +664,64 @@
     "answer": "Pupa"
   },
   {
+    "question": "What is the tool called for creating narrow grooves?",
+    "answer": "Ploskorez"
+  },
+  {
+    "question": "What is the tool called for working with stone?",
+    "answer": "Pickaxe"
+  },
+  {
+    "question": "What is the vertical mast on the neutral line called?",
+    "answer": "Antenna"
+  },
+  {
+    "question": "What is used to lift large stones?",
+    "answer": "Winch"
+  },
+  {
+    "question": "What is used to loosen the soil after rain?",
+    "answer": "Cultivator"
+  },
+  {
     "question": "What length can a blue whale reach?",
     "answer": "30 meters"
   },
   {
     "question": "What length can a reticulated python reach?",
     "answer": "up to 10 meters"
+  },
+  {
+    "question": "What level of moisture is important for compost?",
+    "answer": "Moderate"
+  },
+  {
+    "question": "What method helps control pests naturally?",
+    "answer": "Crop rotation"
+  },
+  {
+    "question": "What method improves soil?",
+    "answer": "Green manure"
+  },
+  {
+    "question": "What methods contribute to pest biocontrol?",
+    "answer": "Polyculture"
+  },
+  {
+    "question": "What methods of controlling nematodes are popular?",
+    "answer": "Biological"
+  },
+  {
+    "question": "What natural enemy helps against aphids?",
+    "answer": "Ladybugs"
+  },
+  {
+    "question": "What natural method helps protect cabbage from pests?",
+    "answer": "Mulching"
+  },
+  {
+    "question": "What natural remedy is effective against spider mites?",
+    "answer": "Phytoseiulus"
   },
   {
     "question": "What organ does a shark use to detect prey?",
@@ -512,12 +732,44 @@
     "answer": "Termites"
   },
   {
+    "question": "What parameter is important to consider when watering plants?",
+    "answer": "Soil moisture"
+  },
+  {
+    "question": "What pest control method is environmentally friendly?",
+    "answer": "Garlic infusion"
+  },
+  {
+    "question": "What plants are called ground cover plants?",
+    "answer": "Periwinkle"
+  },
+  {
+    "question": "What prevents overheating in a greenhouse?",
+    "answer": "ventilation"
+  },
+  {
+    "question": "What recovery method is considered the most effective after workouts?",
+    "answer": "Contrast shower"
+  },
+  {
     "question": "What role do pedipalps serve in spiders?",
     "answer": "Sensation"
   },
   {
     "question": "What role do primates often play in the ecosystem?",
     "answer": "Seed dispersal"
+  },
+  {
+    "question": "What running technique optimizes energy in a marathon?",
+    "answer": "Economical style"
+  },
+  {
+    "question": "What should be considered when choosing polycarbonate for a greenhouse?",
+    "answer": "thickness and UV protection"
+  },
+  {
+    "question": "What should you do if aphids appear on plants?",
+    "answer": "Treat with insecticide"
   },
   {
     "question": "What size can lampreys reach?",
@@ -532,16 +784,84 @@
     "answer": "40 km/h"
   },
   {
+    "question": "What strategic technique involves sacrificing material for positional advantage?",
+    "answer": "Strategic gambit"
+  },
+  {
+    "question": "What strategy allows you to defend against attacks with strong spin?",
+    "answer": "Counter-attacking tactic"
+  },
+  {
     "question": "What structure do ticks have?",
     "answer": "Chelicerae"
+  },
+  {
+    "question": "What systems are useful to use in a greenhouse?",
+    "answer": "Misting"
+  },
+  {
+    "question": "What technology in skis allows for effective handling of hard slopes?",
+    "answer": "Titanal"
+  },
+  {
+    "question": "What temperature can biomass withstand?",
+    "answer": "From 50 to 70°C"
+  },
+  {
+    "question": "What temperature is suitable for growing citrus fruits?",
+    "answer": "+15 +25 °C"
+  },
+  {
+    "question": "What thickness of glass is often used for greenhouses?",
+    "answer": "4 mm"
+  },
+  {
+    "question": "What tool is used for mulching?",
+    "answer": "Mulcher"
+  },
+  {
+    "question": "What training technique is used to improve reaction to various conditions on the track?",
+    "answer": "Mental preparation"
+  },
+  {
+    "question": "What type of fertilizer is used for citrus plants?",
+    "answer": "nitrogen-phosphorus"
+  },
+  {
+    "question": "What type of fertilizers are best suited for flowers?",
+    "answer": "Organic"
   },
   {
     "question": "What type of fish is androgynous?",
     "answer": "Eel"
   },
   {
+    "question": "What type of grass cover is used for green manure?",
+    "answer": "Green manure"
+  },
+  {
+    "question": "What type of greenhouse is best suited for obtaining an early harvest?",
+    "answer": "Tunnel"
+  },
+  {
+    "question": "What type of greenhouse is best suited for year-round use?",
+    "answer": "Permanent"
+  },
+  {
+    "question": "What type of lighting is not recommended for use in a greenhouse?",
+    "answer": "Sunlight"
+  },
+  {
     "question": "What type of nervous system does a lamprey have?",
     "answer": "Central"
+  },
+  {
+    "question": "What type of plants grow well in sandy soil?",
+    "answer": "Succulents"
+  },
+  {
+    "question": "What type of plants is used for green roofs?",
+    "answer": "Succulents"
   },
   {
     "question": "What type of skeleton do jawed fish have?",
@@ -558,6 +878,10 @@
   {
     "question": "What water temperature is preferred for squids?",
     "answer": "Warm"
+  },
+  {
+    "question": "When can you use ready compost?",
+    "answer": "After 6 months"
   },
   {
     "question": "Where are dolphins born?",
@@ -780,6 +1104,14 @@
     "answer": "Tentacles"
   },
   {
+    "question": "Which car manufacturer was the first to use a carbon fiber monocoque?",
+    "answer": "McLaren"
+  },
+  {
+    "question": "Which car manufacturer was the first to use the double diffuser system?",
+    "answer": "Brawn GP"
+  },
+  {
     "question": "Which creature emits light in the dark?",
     "answer": "Sea firefly"
   },
@@ -792,12 +1124,28 @@
     "answer": "Caimans"
   },
   {
+    "question": "Which cultivation method is most commonly used in greenhouses?",
+    "answer": "Hydroponics"
+  },
+  {
     "question": "Which echinoderms live on the sea and ocean floors and filter water?",
     "answer": "Crinoids"
   },
   {
     "question": "Which echinoderms resemble lilies?",
     "answer": "Sea lilies"
+  },
+  {
+    "question": "Which female tennis player was the first to retire after winning all Grand Slam tournaments twice?",
+    "answer": "Margaret Court"
+  },
+  {
+    "question": "Which fertilizers are natural?",
+    "answer": "Manure"
+  },
+  {
+    "question": "Which figure skating element requires the most artistry?",
+    "answer": "Step sequences"
   },
   {
     "question": "Which fish are capable of actively hunting?",
@@ -864,8 +1212,48 @@
     "answer": "Placoderms"
   },
   {
+    "question": "Which flower blooms for only one day?",
+    "answer": "Hibiscus"
+  },
+  {
+    "question": "Which flower is known as the 'Queen of the Night'?",
+    "answer": "Night-blooming cereus"
+  },
+  {
+    "question": "Which flower was used to create a natural incubator?",
+    "answer": "orchid"
+  },
+  {
+    "question": "Which flowers come alive at night?",
+    "answer": "Moonflowers"
+  },
+  {
+    "question": "Which flowers symbolize eternal love and devotion?",
+    "answer": "Tulips"
+  },
+  {
     "question": "Which fly transmits sleeping sickness?",
     "answer": "Tsetse fly"
+  },
+  {
+    "question": "Which fruit is a symbol of love?",
+    "answer": "Pomegranate"
+  },
+  {
+    "question": "Which fruit is a symbol of the Carthage location?",
+    "answer": "Pomegranate"
+  },
+  {
+    "question": "Which fruit is called the queen of fruits?",
+    "answer": "Mangosteen"
+  },
+  {
+    "question": "Which fruit is drought-resistant?",
+    "answer": "Monophyllia"
+  },
+  {
+    "question": "Which garden element is used to create relief?",
+    "answer": "Terraces"
   },
   {
     "question": "Which herbivorous animal lives high in the mountains?",
@@ -910,6 +1298,10 @@
   {
     "question": "Which insects hibernate in trees?",
     "answer": "Lacewings"
+  },
+  {
+    "question": "Which insects often attack berry crops?",
+    "answer": "Aphids"
   },
   {
     "question": "Which insects secrete saliva to create silky threads?",
@@ -1000,6 +1392,18 @@
     "answer": "Coral polyp"
   },
   {
+    "question": "Which method creates an unfavorable environment for pests in the garden?",
+    "answer": "Mulching"
+  },
+  {
+    "question": "Which microorganisms are important for neutralizing pathogens?",
+    "answer": "Bacteria"
+  },
+  {
+    "question": "Which microorganisms are important for soil?",
+    "answer": "Nitrogen-fixing bacteria"
+  },
+  {
     "question": "Which mollusk is the most venomous?",
     "answer": "Cone snail"
   },
@@ -1062,6 +1466,42 @@
   {
     "question": "Which part of the body of jawless fish is particularly well-developed for regeneration?",
     "answer": "Notochord"
+  },
+  {
+    "question": "Which pest control method involves the use of directed light?",
+    "answer": "Photoperception"
+  },
+  {
+    "question": "Which pest control method is considered organic?",
+    "answer": "Using ash"
+  },
+  {
+    "question": "Which pest often affects apple trees?",
+    "answer": "Codling moth"
+  },
+  {
+    "question": "Which pest often attacks eggplants?",
+    "answer": "Colorado potato beetle"
+  },
+  {
+    "question": "Which physical parameter of a wave determines its potential speed and energy for a surfer?",
+    "answer": "Height"
+  },
+  {
+    "question": "Which plant leaves should be avoided in compost?",
+    "answer": "Coniferous"
+  },
+  {
+    "question": "Which plants are best suited for dry areas?",
+    "answer": "Succulents"
+  },
+  {
+    "question": "Which plants are popular for creating a flower bed background?",
+    "answer": "Hydrangea"
+  },
+  {
+    "question": "Which plants grow best in the sun?",
+    "answer": "Annuals"
   },
   {
     "question": "Which primate is known for its predatory behavior?",
@@ -1140,6 +1580,10 @@
     "answer": "King Cobra"
   },
   {
+    "question": "Which snowboard parameter affects its performance in deep snow?",
+    "answer": "Nose width"
+  },
+  {
     "question": "Which system is absent in cephalochordates?",
     "answer": "closed circulatory"
   },
@@ -1148,8 +1592,32 @@
     "answer": "Nervous"
   },
   {
+    "question": "Which technique helps improve soil?",
+    "answer": "Vermicomposting"
+  },
+  {
+    "question": "Which technique involves the use of water elements?",
+    "answer": "Hydroponics"
+  },
+  {
+    "question": "Which tennis player was the first to retire after winning over 1000 doubles matches?",
+    "answer": "Daniel Nestor"
+  },
+  {
     "question": "Which tick is commonly found on animals?",
     "answer": "Ixodid tick"
+  },
+  {
+    "question": "Which vegetable is often grown on circular beds?",
+    "answer": "Pumpkin"
+  },
+  {
+    "question": "Which vegetables prefer acidic soil?",
+    "answer": "Potatoes"
+  },
+  {
+    "question": "Which vegetables prefer shade?",
+    "answer": "Spinach"
   },
   {
     "question": "Which whale can hold its breath for up to 90 minutes?",
@@ -1162,6 +1630,10 @@
   {
     "question": "Which whales use echolocation?",
     "answer": "Toothed"
+  },
+  {
+    "question": "Who became the symbol of Formula 1 in the 1970s?",
+    "answer": "James Hunt"
   },
   {
     "question": "Who builds \"complex nests\" in trees?",
@@ -1180,8 +1652,28 @@
     "answer": "Crown-of-thorns starfish"
   },
   {
+    "question": "Who was the first female world champion?",
+    "answer": "Malvina Kremer"
+  },
+  {
+    "question": "Who was the first rider to win Paris-Roubaix in rainy weather?",
+    "answer": "Francesco Moser"
+  },
+  {
+    "question": "Who was the first to jump over 2.45 meters in high jump?",
+    "answer": "Javier Sotomayor"
+  },
+  {
+    "question": "Who was the first to set a record on the climb to Alpe d'Huez?",
+    "answer": "Pierre Rolland"
+  },
+  {
     "question": "Who was the first to study arthropods under a microscope?",
     "answer": "Antonie van Leeuwenhoek"
+  },
+  {
+    "question": "Who was the top scorer in Serie A for the 2020/2021 season?",
+    "answer": "Cristiano Ronaldo"
   },
   {
     "question": "Why do sea cucumbers wash up on shore?",
