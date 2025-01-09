@@ -540,6 +540,10 @@
     "answer": "Dark arts"
   },
   {
+    "question": "How do the Sith enhance their perception?",
+    "answer": "Dark insight"
+  },
+  {
     "question": "How do the Sith enhance their physical condition?",
     "answer": "Dark Empowerment"
   },
@@ -739,6 +743,10 @@
     "answer": "Ha-ha-ha"
   },
   {
+    "question": "How does the dark side affect emotions?",
+    "answer": "Intensification of anger"
+  },
+  {
     "question": "How does the dark side affect personality?",
     "answer": "Distortion"
   },
@@ -887,6 +895,10 @@
     "answer": "Tatooine"
   },
   {
+    "question": "On which planet did the secret meeting of the rebel leaders take place?",
+    "answer": "Dantooine"
+  },
+  {
     "question": "On which planet does Yoda meet Luke Skywalker?",
     "answer": "Dagobah"
   },
@@ -947,6 +959,10 @@
   {
     "question": "What Force technique was used to create a doppelgänger?",
     "answer": "Phantom Projection"
+  },
+  {
+    "question": "What Jedi ability helps them sense threats?",
+    "answer": "Foresight"
   },
   {
     "question": "What Jedi artifact was Obi-Wan searching for during his mission on Korriban?",
@@ -2390,6 +2406,10 @@
     "answer": "Escape from Kessel"
   },
   {
+    "question": "What incident jeopardized the friendship between Han Solo and Chewbacca?",
+    "answer": "Betrayal"
+  },
+  {
     "question": "What incident marked the beginning of the fall of the Jedi Order?",
     "answer": "Order 66"
   },
@@ -2758,6 +2778,10 @@
     "answer": "Pre-supernova"
   },
   {
+    "question": "What is the phenomenon called that is associated with the rapid movement of matter from a star?",
+    "answer": "Stellar wind"
+  },
+  {
     "question": "What is the phenomenon called when a star changes its emission spectrum due to its motion?",
     "answer": "Doppler effect"
   },
@@ -2900,6 +2924,10 @@
   {
     "question": "What is the technique for creating energy copies called?",
     "answer": "Energy Duplicate"
+  },
+  {
+    "question": "What is the technique of predicting future events called?",
+    "answer": "Divination"
   },
   {
     "question": "What is the technique of time management called?",
@@ -3869,6 +3897,10 @@
   {
     "question": "What ritual customs do Mandalorians observe when entering adulthood?",
     "answer": "Undergoing trials"
+  },
+  {
+    "question": "What ritual did the Sith perform to transfer knowledge?",
+    "answer": "Ritual of Memory"
   },
   {
     "question": "What ritual do the Sith perform to enhance their abilities?",
@@ -5600,6 +5632,10 @@
     "answer": "The Phantom Menace"
   },
   {
+    "question": "Which 'Star Wars' film fully utilized Ralph McQuarrie's concept art for visualization?",
+    "answer": "The Empire Strikes Back"
+  },
+  {
     "question": "Which 'Star Wars' film is known for the first use of the Dolby sound system?",
     "answer": "A New Hope"
   },
@@ -5841,6 +5877,10 @@
   {
     "question": "Which Sith held the title of Dark Lord of the Sith before Darth Sidious?",
     "answer": "Plagueis"
+  },
+  {
+    "question": "Which Sith is known for his strategies of manipulating emotions in duels?",
+    "answer": "Palpatine"
   },
   {
     "question": "Which Sith led the Galactic Empire alongside Darth Vader?",
@@ -7048,6 +7088,10 @@
     "answer": "Tim Drake"
   },
   {
+    "question": "Which of Darth Vader's hands was mechanized?",
+    "answer": "Right"
+  },
+  {
     "question": "Which of the Skywalkers became a Jedi first?",
     "answer": "Anakin"
   },
@@ -7664,6 +7708,10 @@
     "answer": "Kylo Ren"
   },
   {
+    "question": "Who fought with the young Padawan on the Death Star?",
+    "answer": "Darth Vader"
+  },
+  {
     "question": "Who founded the first Jedi Order?",
     "answer": "Dai Bendu"
   },
@@ -7852,6 +7900,10 @@
     "answer": "Beckett"
   },
   {
+    "question": "Who was Jango Fett's mentor?",
+    "answer": "Jaster Mereel"
+  },
+  {
     "question": "Who was Obi-Wan's apprentice after the events on Naboo?",
     "answer": "Anakin"
   },
@@ -8036,12 +8088,20 @@
     "answer": "Rey"
   },
   {
+    "question": "Who won the duel on Mustafar?",
+    "answer": "Obi-Wan Kenobi"
+  },
+  {
     "question": "Who wore the Red Hood mantle before the Joker?",
     "answer": "Jason Todd"
   },
   {
     "question": "Whom did Obi-Wan train at a young age?",
     "answer": "Anakin Skywalker"
+  },
+  {
+    "question": "Whom did Obi-Wan warn about the death of their mother?",
+    "answer": "Miklor"
   },
   {
     "question": "Whom was Obi-Wan pursuing on the planet Utapau?",
