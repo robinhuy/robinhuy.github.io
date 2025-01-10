@@ -116,6 +116,10 @@
     "answer": "Stabilization of structure"
   },
   {
+    "question": "How do magnetic fields affect protostars?",
+    "answer": "Alter accretion"
+  },
+  {
     "question": "How do magnetic fields affect the structure of galaxies?",
     "answer": "Delay star formation"
   },
@@ -142,6 +146,10 @@
   {
     "question": "How do space telescopes contribute to the study of magnetic fields in the interstellar medium?",
     "answer": "Polarization measurements"
+  },
+  {
+    "question": "How do space telescopes study physical processes in active galactic nuclei?",
+    "answer": "Multi-wavelength astronomy"
   },
   {
     "question": "How do space telescopes study the nature of cosmic rays?",
@@ -408,6 +416,10 @@
     "answer": "26,000 years"
   },
   {
+    "question": "In what year did the first successful return of an automatic spacecraft with lunar soil occur?",
+    "answer": "1970"
+  },
+  {
     "question": "In what year was dark energy discovered?",
     "answer": "1998"
   },
@@ -576,6 +588,10 @@
     "answer": "Extreme"
   },
   {
+    "question": "What conditions must planets have to support exotic forms of life?",
+    "answer": "Unique conditions"
+  },
+  {
     "question": "What control system was first used on 'Tiangong-2'?",
     "answer": "Autonomous"
   },
@@ -640,12 +656,20 @@
     "answer": "Anisotropy"
   },
   {
+    "question": "What discovery helped explain the dynamic stability of the Solar System?",
+    "answer": "orbital resonances"
+  },
+  {
     "question": "What discovery indirectly confirmed the existence of dark energy?",
     "answer": "Supernovae"
   },
   {
     "question": "What discovery is associated with the study of quasar 3C 273?",
     "answer": "First discovered quasar"
+  },
+  {
+    "question": "What discovery led to the revision of hypotheses about the formation of the Moon?",
+    "answer": "Isotopic analysis"
   },
   {
     "question": "What discovery on the Moon changed the understanding of its tectonic activity?",
@@ -1008,6 +1032,10 @@
     "answer": "Stabilization"
   },
   {
+    "question": "What geological processes can occur on the surface of asteroids due to their rotation?",
+    "answer": "Mass redistribution"
+  },
+  {
     "question": "What happens to the mass of an object if it reaches the speed of light?",
     "answer": "It becomes infinite"
   },
@@ -1078,6 +1106,10 @@
   {
     "question": "What innovative radiation protection method has been implemented on the latest models of space stations?",
     "answer": "Water shields"
+  },
+  {
+    "question": "What innovative technology is used to protect spacecraft from radiation in deep space?",
+    "answer": "Active shielding"
   },
   {
     "question": "What instrument was used in the Luna-24 mission to collect soil samples?",
@@ -1164,6 +1196,10 @@
     "answer": "Cosmological constant"
   },
   {
+    "question": "What is the main mechanism influencing the distribution of massive stars in the galactic disk?",
+    "answer": "Rotation of the disk"
+  },
+  {
     "question": "What is the mass ratio of gas and stellar components in galaxies?",
     "answer": "Depends on the type"
   },
@@ -1174,6 +1210,10 @@
   {
     "question": "What is the method called that uses reflected sunlight to study asteroids?",
     "answer": "Albedo analysis"
+  },
+  {
+    "question": "What is the name of the astronaut who spent the longest solo mission on the International Space Station?",
+    "answer": "Scott Kelly"
   },
   {
     "question": "What is the name of the exoplanet with the longest known orbit?",
@@ -1540,6 +1580,10 @@
     "answer": "Spectral analysis"
   },
   {
+    "question": "What mechanisms are involved in the formation of the atmospheres of giant planets?",
+    "answer": "Gravitational attraction"
+  },
+  {
     "question": "What mechanisms can sustain a magnetic field on potentially habitable planets?",
     "answer": "Liquid core"
   },
@@ -1610,6 +1654,10 @@
   {
     "question": "What method is used to visualize dark matter in galaxy clusters using optical telescopes?",
     "answer": "Gravitational lensing"
+  },
+  {
+    "question": "What method of thermal regulation was first used on orbital stations?",
+    "answer": "Ammonia pumps"
   },
   {
     "question": "What method studies the interaction of light with magnetic fields in the interstellar medium?",
@@ -1848,6 +1896,10 @@
     "answer": "Tidal forces"
   },
   {
+    "question": "What phenomenon could have led to the asymmetry between matter and antimatter?",
+    "answer": "CP violation"
+  },
+  {
     "question": "What phenomenon defines the boundaries between different types of galaxies?",
     "answer": "Gravitational interaction"
   },
@@ -1894,6 +1946,10 @@
   {
     "question": "What phenomenon explains the stable rotation of galaxies contrary to expected effects?",
     "answer": "Dark matter"
+  },
+  {
+    "question": "What phenomenon first confirmed the existence of gravitational waves?",
+    "answer": "Binary pulsars"
   },
   {
     "question": "What phenomenon first confirmed the existence of supermassive black holes in the cores of galaxies?",
@@ -2026,6 +2082,10 @@
   {
     "question": "What physical process affects the rotation of asteroids due to the absorption and re-emission of sunlight?",
     "answer": "Yarkovsky effect"
+  },
+  {
+    "question": "What physical process can lead to the formation of a ring structure in a black hole's accretion disk?",
+    "answer": "Gravitational differentiation"
   },
   {
     "question": "What physical process determines the conversion of energy into matter in the early Universe?",
@@ -2532,6 +2592,10 @@
     "answer": "Observation satellites"
   },
   {
+    "question": "What tools are used to analyze solar prominences?",
+    "answer": "Spectrometers"
+  },
+  {
     "question": "What tools help measure the effects of gravity in space?",
     "answer": "Gravitational lenses"
   },
@@ -2626,6 +2690,10 @@
   {
     "question": "Which Soviet cosmonaut completed the first long-duration orbital flight lasting more than one year?",
     "answer": "Valery Polyakov"
+  },
+  {
+    "question": "Which Soviet project explored the possibility of creating a lunar base in the 1960s?",
+    "answer": "Zvezda"
   },
   {
     "question": "Which Soviet spacecraft was the first to reach orbit around Mars?",
@@ -2782,6 +2850,10 @@
   {
     "question": "Which astronomical techniques reveal the nature of gravitational anomalies?",
     "answer": "Gravitational lensing"
+  },
+  {
+    "question": "Which atmospheric phenomenon observed by astronomers is associated with the propagation of infrasound waves and turbulence?",
+    "answer": "Atmospheric scintillation"
   },
   {
     "question": "Which biological process was first successfully conducted in the conditions of space microgravity?",
@@ -3578,6 +3650,10 @@
   {
     "question": "Which theoretical concepts suggest the existence of additional dimensions?",
     "answer": "String theory"
+  },
+  {
+    "question": "Which theoretical model considers the interaction of black holes with quantum fields?",
+    "answer": "Quantum gravity"
   },
   {
     "question": "Which theoretical models consider the properties of dark matter?",
