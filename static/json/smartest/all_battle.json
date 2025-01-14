@@ -4401,6 +4401,22 @@
         "answer": "For proper handling"
     },
     {
+        "question": "At what distance from each other are peonies planted?",
+        "answer": "70-100 cm"
+    },
+    {
+        "question": "At what distance should dahlias be planted from each other?",
+        "answer": "60-90 cm"
+    },
+    {
+        "question": "How are pests controlled in organic gardening?",
+        "answer": "Biological method"
+    },
+    {
+        "question": "How long do red cabbage seeds remain viable?",
+        "answer": "5 years"
+    },
+    {
         "question": "How long does a music stream usually last?",
         "answer": "2-4 hours"
     },
@@ -4451,6 +4467,18 @@
     {
         "question": "How often should video content be updated?",
         "answer": ""
+    },
+    {
+        "question": "How often should young fruit trees be watered?",
+        "answer": "Once a week"
+    },
+    {
+        "question": "How to control overwatering?",
+        "answer": "Moisture sensor"
+    },
+    {
+        "question": "How to optimize water usage in an irrigation system?",
+        "answer": "Install timers"
     },
     {
         "question": "How to retain the audience of a sports stream?",
@@ -4529,6 +4557,10 @@
         "answer": "unique content"
     },
     {
+        "question": "What contributes to biological pest control?",
+        "answer": "Predators"
+    },
+    {
         "question": "What diet is suitable for fitness training?",
         "answer": "Balanced diet"
     },
@@ -4539,6 +4571,10 @@
     {
         "question": "What elements enhance animation?",
         "answer": "Business Strategist"
+    },
+    {
+        "question": "What environment is created to attract beneficial insects?",
+        "answer": "Biotopes"
     },
     {
         "question": "What equipment is needed for VR streaming?",
@@ -4553,12 +4589,20 @@
         "answer": "Night vision"
     },
     {
+        "question": "What flowers are planted in the fall?",
+        "answer": "Tulips"
+    },
+    {
         "question": "What format is preferred for scientific discussions?",
         "answer": ""
     },
     {
         "question": "What format of performances is often used by music streamers?",
         "answer": "Live performance"
+    },
+    {
+        "question": "What function does a compost thermometer serve?",
+        "answer": "Measures temperature"
     },
     {
         "question": "What function does a tag perform?",
@@ -4569,8 +4613,20 @@
         "answer": "Electronic"
     },
     {
+        "question": "What happens with excess moisture?",
+        "answer": "Rotting"
+    },
+    {
+        "question": "What helps prevent the spread of pests?",
+        "answer": "crop rotation"
+    },
+    {
         "question": "What helps to recover faster?",
         "answer": ""
+    },
+    {
+        "question": "What important task should be done when preparing a greenhouse for winter?",
+        "answer": "Reinforcing the frame"
     },
     {
         "question": "What increases the reach of a vlog?",
@@ -4601,8 +4657,16 @@
         "answer": "Video diary"
     },
     {
+        "question": "What is an element of vertical gardening?",
+        "answer": "Vines"
+    },
+    {
         "question": "What is discussed in the podcast 'Financial Literacy'?",
         "answer": "Personal finance"
+    },
+    {
+        "question": "What is hydroponics?",
+        "answer": "Soilless cultivation"
     },
     {
         "question": "What is important during cardio workouts?",
@@ -4615,6 +4679,10 @@
     {
         "question": "What is important to consider when training for endurance?",
         "answer": ""
+    },
+    {
+        "question": "What is needed to warm the soil in a greenhouse?",
+        "answer": "Heaters"
     },
     {
         "question": "What is often discussed in podcasts?",
@@ -4633,20 +4701,44 @@
         "answer": "Action camera"
     },
     {
+        "question": "What is often used to create a landscape?",
+        "answer": "Terracing"
+    },
+    {
         "question": "What is popular for VR streaming?",
         "answer": "Natalya Polyakova"
+    },
+    {
+        "question": "What is the advantage of sprinkler systems?",
+        "answer": "Cover large areas"
     },
     {
         "question": "What is the art of photographing nature called?",
         "answer": ""
     },
     {
+        "question": "What is the best fertilizer to use for strawberries?",
+        "answer": "Compost"
+    },
+    {
         "question": "What is the capital of Canada?",
         "answer": "Ottawa"
     },
     {
+        "question": "What is the design called that minimizes water usage?",
+        "answer": "Xeriscaping"
+    },
+    {
         "question": "What is the device called for underwater filming?",
         "answer": "Aquabox"
+    },
+    {
+        "question": "What is the device called that is used for heating air?",
+        "answer": "Heater"
+    },
+    {
+        "question": "What is the function of agrotextile?",
+        "answer": "Protection from frost"
     },
     {
         "question": "What is the goal of edutainment bloggers?",
@@ -4663,6 +4755,10 @@
     {
         "question": "What is the main motivation for most streamers to create content?",
         "answer": "Popularity"
+    },
+    {
+        "question": "What is the method of using different crops to improve soil called?",
+        "answer": "Crop rotation"
     },
     {
         "question": "What is the name of Anna Sidorova's famous culinary blog?",
@@ -4719,6 +4815,10 @@
     {
         "question": "What is the name of the famous Austrian travel blogger?",
         "answer": "xQc"
+    },
+    {
+        "question": "What is the name of the irrigation method where water is delivered directly to each plant?",
+        "answer": "Localized"
     },
     {
         "question": "What is the name of the jazz channel?",
@@ -4793,8 +4893,40 @@
         "answer": "Complex emotions"
     },
     {
+        "question": "What is the tool called for creating narrow grooves?",
+        "answer": "Ploskorez"
+    },
+    {
         "question": "What is used to distribute podcasts?",
         "answer": "RSS"
+    },
+    {
+        "question": "What is used to protect tomatoes from late blight?",
+        "answer": "Fungicides"
+    },
+    {
+        "question": "What material is used to protect garden beds from erosion?",
+        "answer": "Mulch"
+    },
+    {
+        "question": "What method helps control pests naturally?",
+        "answer": "Crop rotation"
+    },
+    {
+        "question": "What method is used to attract predatory insects to the garden?",
+        "answer": "Mixed planting"
+    },
+    {
+        "question": "What method prevents the appearance of slugs?",
+        "answer": "Mulching"
+    },
+    {
+        "question": "What methods are used in organic farming?",
+        "answer": "Natural"
+    },
+    {
+        "question": "What methods of controlling nematodes are popular?",
+        "answer": "Biological"
     },
     {
         "question": "What mode of transport can be used to cross the entire continent of Eurasia by land?",
@@ -4803,6 +4935,22 @@
     {
         "question": "What music genre is often used by DJ streamers?",
         "answer": "TenZ"
+    },
+    {
+        "question": "What natural enemy helps against aphids?",
+        "answer": "Ladybugs"
+    },
+    {
+        "question": "What natural method helps protect cabbage from pests?",
+        "answer": "Mulching"
+    },
+    {
+        "question": "What pest control method is environmentally friendly?",
+        "answer": "Garlic infusion"
+    },
+    {
+        "question": "What plants are best to plant among vegetables?",
+        "answer": "Herbs"
     },
     {
         "question": "What role does editing play in video production?",
@@ -4817,8 +4965,16 @@
         "answer": "Vlog"
     },
     {
+        "question": "What task does a valve perform?",
+        "answer": "Regulates flow"
+    },
+    {
         "question": "What technologies help streamers?",
         "answer": "VR"
+    },
+    {
+        "question": "What thickness of glass is often used for greenhouses?",
+        "answer": "4 mm"
     },
     {
         "question": "What topic is discussed in the podcast 'Experts and Thoughts'?",
@@ -4849,8 +5005,20 @@
         "answer": "Music"
     },
     {
+        "question": "What type of fertilizer is used for citrus plants?",
+        "answer": "nitrogen-phosphorus"
+    },
+    {
+        "question": "What type of greenhouse is best suited for obtaining an early harvest?",
+        "answer": "Tunnel"
+    },
+    {
         "question": "What type of headphones is preferable for outdoor streaming?",
         "answer": "Monthly"
+    },
+    {
+        "question": "What type of waste is used to maintain balance in compost?",
+        "answer": "Brown"
     },
     {
         "question": "What type of workout does Irina Yakovleva demonstrate?",
@@ -4875,6 +5043,10 @@
     {
         "question": "What word describes a video that attracts the attention of a wide audience?",
         "answer": "Viral"
+    },
+    {
+        "question": "When can you use ready compost?",
+        "answer": "After 6 months"
     },
     {
         "question": "When did Caveman appear?",
@@ -4915,6 +5087,10 @@
     {
         "question": "Which beauty blogger is known for their professionalism in makeup?",
         "answer": "Lisa Eldridge"
+    },
+    {
+        "question": "Which berries are resistant to cold?",
+        "answer": "Gooseberry"
     },
     {
         "question": "Which blog became the first popular one on the internet?",
@@ -5149,6 +5325,10 @@
         "answer": "Nepal"
     },
     {
+        "question": "Which crops are often grown in organic gardens?",
+        "answer": "Alfalfa"
+    },
+    {
         "question": "Which culinary blogger often shares grill recipes?",
         "answer": ""
     },
@@ -5173,12 +5353,32 @@
         "answer": "Marina Osipova"
     },
     {
+        "question": "Which flowers can survive outdoors in winter?",
+        "answer": "dahlia"
+    },
+    {
+        "question": "Which fruit is a symbol of the Carthage location?",
+        "answer": "Pomegranate"
+    },
+    {
         "question": "Which game does streamer G most frequently stream?",
         "answer": "Dota 2"
     },
     {
+        "question": "Which garden element is used to create relief?",
+        "answer": "Terraces"
+    },
+    {
         "question": "Which genre is not suitable for educational podcasts?",
         "answer": ""
+    },
+    {
+        "question": "Which greening method helps reduce water evaporation?",
+        "answer": "Mulching"
+    },
+    {
+        "question": "Which insecticide is used to treat roses?",
+        "answer": "Actellic"
     },
     {
         "question": "Which lifestyle blogger discusses digital gadgets?",
@@ -5189,6 +5389,10 @@
         "answer": "Domostroy"
     },
     {
+        "question": "Which microorganisms are important for soil?",
+        "answer": "Nitrogen-fixing bacteria"
+    },
+    {
         "question": "Which music streamer is known for playing the ukulele?",
         "answer": "TwitchSings"
     },
@@ -5197,8 +5401,40 @@
         "answer": "GuitarHero"
     },
     {
+        "question": "Which pest attacks peach trees?",
+        "answer": "Aphid"
+    },
+    {
+        "question": "Which pest control method is based on sterilization?",
+        "answer": "Insect sterilization"
+    },
+    {
+        "question": "Which pest control method is considered biological?",
+        "answer": "Natural predators"
+    },
+    {
+        "question": "Which pest often attacks eggplants?",
+        "answer": "Colorado potato beetle"
+    },
+    {
         "question": "Which place is known for its white buildings?",
         "answer": "Santorini"
+    },
+    {
+        "question": "Which plant is often used in alpine rock gardens?",
+        "answer": "Alpine poppy"
+    },
+    {
+        "question": "Which plants are best suited for dry areas?",
+        "answer": "Succulents"
+    },
+    {
+        "question": "Which plants prefer shade?",
+        "answer": "Ferns"
+    },
+    {
+        "question": "Which plants require support when growing?",
+        "answer": "Grapes"
     },
     {
         "question": "Which platform was originally focused on music blogs?",
@@ -5441,12 +5677,24 @@
         "answer": "YouTube"
     },
     {
+        "question": "Which technique helps improve soil?",
+        "answer": "Vermicomposting"
+    },
+    {
+        "question": "Which tree has flowers with five petals?",
+        "answer": "Apple tree"
+    },
+    {
         "question": "Which type of blogger most frequently shares tips on space organization?",
         "answer": "Organizer"
     },
     {
         "question": "Which type of exercise should be avoided when injured?",
         "answer": "Strength training"
+    },
+    {
+        "question": "Which vegetables prefer acidic soil?",
+        "answer": "Potatoes"
     },
     {
         "question": "Who became the first host of a popular podcast?",
@@ -47375,6 +47623,10 @@
         "answer": "accelerated"
     },
     {
+        "question": "How are black holes related to the evolution of galaxies?",
+        "answer": "Gravitational influence"
+    },
+    {
         "question": "How are dark matter interactions studied?",
         "answer": "Through gravity"
     },
@@ -47397,6 +47649,10 @@
     {
         "question": "How are spiral arms formed in galaxies?",
         "answer": "Gravitational waves"
+    },
+    {
+        "question": "How are star formation processes studied?",
+        "answer": "Observing infrared radiation"
     },
     {
         "question": "How can changes in a planet's orbital parameters affect its habitability?",
@@ -47995,6 +48251,10 @@
         "answer": "Isotopic analysis"
     },
     {
+        "question": "What defense mechanisms might exist in hypothetical organisms on planets with high levels of radiation?",
+        "answer": "Radioresistance"
+    },
+    {
         "question": "What determined the primary inhomogeneity of the Universe?",
         "answer": "Quantum fluctuations"
     },
@@ -48371,6 +48631,10 @@
         "answer": "Gas content"
     },
     {
+        "question": "What factors influenced the distribution of galaxies in the early Universe?",
+        "answer": "Dark matter"
+    },
+    {
         "question": "What factors lead to complex orbital dynamics in the ring systems of giant planets?",
         "answer": "Orbital resonances"
     },
@@ -48619,6 +48883,10 @@
         "answer": "GU Pegasi b"
     },
     {
+        "question": "What is the name of the moon whose orbital plane is most inclined to Saturn's equator?",
+        "answer": "Phoebe"
+    },
+    {
         "question": "What is the name of the theory that unifies quantum mechanics and general relativity?",
         "answer": "Quantum Gravity"
     },
@@ -48677,6 +48945,10 @@
     {
         "question": "What is the process called that involves the change in orientation of light waves under the influence of interstellar fields?",
         "answer": "Polarization"
+    },
+    {
+        "question": "What is the process of forming organic molecules in comets and asteroids called?",
+        "answer": "Panspermia"
     },
     {
         "question": "What is the quantum phenomenon associated with vacuum fluctuations called?",
@@ -48887,6 +49159,10 @@
         "answer": "Antony Hewish"
     },
     {
+        "question": "What is the uniqueness of the X-ray spectra obtained with the Chandra telescope?",
+        "answer": "High resolution"
+    },
+    {
         "question": "What issues arise when using solar panels for satellites in distant parts of the Solar System?",
         "answer": "Low energy"
     },
@@ -49077,6 +49353,10 @@
     {
         "question": "What method was used to analyze the lunar soil in the 'Chang'e-4' mission?",
         "answer": "Spectroscopy"
+    },
+    {
+        "question": "What method was used to analyze the regolith on the Moon in the Chang'e mission?",
+        "answer": "Spectrometry"
     },
     {
         "question": "What method was used to measure the heat flow from the lunar crust?",
@@ -49475,6 +49755,10 @@
         "answer": "Radiation"
     },
     {
+        "question": "What physical phenomena indicate the presence of invisible components?",
+        "answer": "Gravitational effects"
+    },
+    {
         "question": "What physical phenomenon contributes to the formation of dense cores in molecular clouds?",
         "answer": "Turbulence"
     },
@@ -49655,6 +49939,10 @@
         "answer": "Quantum fluctuations"
     },
     {
+        "question": "What processes can lead to the scattering of an exoplanet's atmosphere?",
+        "answer": "Ultraviolet radiation"
+    },
+    {
         "question": "What processes can support exotic forms of life in low gravity conditions?",
         "answer": "Metabolic adaptation"
     },
@@ -49693,6 +49981,10 @@
     {
         "question": "What processes determine the distribution of stellar matter?",
         "answer": "Galactic winds"
+    },
+    {
+        "question": "What processes determine the formation and stability of the orbits of planets and other bodies in the Solar System?",
+        "answer": "Gravitational interactions"
     },
     {
         "question": "What processes determine the stability of meteors in the atmosphere?",
@@ -49745,6 +50037,10 @@
     {
         "question": "What processes lead to the formation of galactic nuclei?",
         "answer": "Accretion of matter"
+    },
+    {
+        "question": "What processes lead to the formation of star clusters?",
+        "answer": "Gravitational contraction"
     },
     {
         "question": "What processes led to the formation of galaxies in the first billion years after the Big Bang?",
@@ -50343,6 +50639,10 @@
         "answer": "Draco"
     },
     {
+        "question": "Which constellation is associated with the myth of the iron bird that served as a symbol of Zeus?",
+        "answer": "Aquila"
+    },
+    {
         "question": "Which constellation is associated with the mythological battle between two great warriors?",
         "answer": "Orion"
     },
@@ -50863,6 +51163,10 @@
         "answer": "Luna 3 mission"
     },
     {
+        "question": "Which spacecraft first used the microwave sounding method to study the climate of planets?",
+        "answer": "Cassini"
+    },
+    {
         "question": "Which spacecraft studied the temperature fluctuations of Uranus?",
         "answer": "Voyager"
     },
@@ -51095,6 +51399,10 @@
         "answer": "FUSE"
     },
     {
+        "question": "Which telescope was the first to confirm the existence of pulsars?",
+        "answer": "Radio telescope in Cambridge"
+    },
+    {
         "question": "Which telescope was the first to detect gamma-ray bursts?",
         "answer": "Vela"
     },
@@ -51151,6 +51459,10 @@
         "answer": "Lambda-CDM"
     },
     {
+        "question": "Which thermoregulatory element was first used to protect equipment from extreme temperatures?",
+        "answer": "Thermostats"
+    },
+    {
         "question": "Who developed the first accurate model of the internal structure of a neutron star?",
         "answer": "Yakov Zel'dovich"
     },
@@ -51191,6 +51503,10 @@
         "answer": "Abdus Salam"
     },
     {
+        "question": "Who proposed the model describing phase transitions in the early Universe?",
+        "answer": "Alan Guth"
+    },
+    {
         "question": "Who proposed the use of photometry in astronomy in the 19th century?",
         "answer": "Armand Fizeau"
     },
@@ -51201,6 +51517,10 @@
     {
         "question": "Who was the first astronomer to propose the theory of the spiral structure of galaxies?",
         "answer": "Curtis"
+    },
+    {
+        "question": "Who was the first commander of the International Space Station who was not a citizen of the USA or Russia?",
+        "answer": "Chris Hadfield"
     },
     {
         "question": "Who was the first project manager of the ISS?",
@@ -51549,6 +51869,10 @@
     {
         "question": "In what year was the new ISU judging system introduced?",
         "answer": "2004"
+    },
+    {
+        "question": "In what year was the podcast 'You Must Remember This' founded?",
+        "answer": "2014"
     },
     {
         "question": "In which area on the field does an attack begin?",
@@ -52471,6 +52795,14 @@
         "answer": "Challenging terrain"
     },
     {
+        "question": "What format is preferred for scientific discussions?",
+        "answer": "Interview podcasts"
+    },
+    {
+        "question": "What function does a tag perform?",
+        "answer": "categorization"
+    },
+    {
         "question": "What function does the 'vantabox' serve in the construction of a racing motorcycle?",
         "answer": "Stabilization"
     },
@@ -52591,8 +52923,16 @@
         "answer": "Plastic balls"
     },
     {
+        "question": "What instrument is used to measure altitude above sea level?",
+        "answer": "Altimeter"
+    },
+    {
         "question": "What is 'hip' in judo?",
         "answer": "Throw"
+    },
+    {
+        "question": "What is IRL?",
+        "answer": "In real life"
     },
     {
         "question": "What is Kyokushin?",
@@ -52647,6 +52987,18 @@
         "answer": "Helmet"
     },
     {
+        "question": "What is often discussed in the podcast 'World of Science'?",
+        "answer": "Scientific experiments"
+    },
+    {
+        "question": "What is often used for vlogging?",
+        "answer": "Action camera"
+    },
+    {
+        "question": "What is popular for VR streaming?",
+        "answer": "VR headset"
+    },
+    {
         "question": "What is rotation?",
         "answer": "Rotation of players"
     },
@@ -52691,6 +53043,10 @@
         "answer": "Take-off angle"
     },
     {
+        "question": "What is the device called for underwater filming?",
+        "answer": "Aquabox"
+    },
+    {
         "question": "What is the diameter of a standard table tennis ball?",
         "answer": "40 mm"
     },
@@ -52729,6 +53085,10 @@
     {
         "question": "What is the goal in hypermodern strategy?",
         "answer": "Control of the center"
+    },
+    {
+        "question": "What is the goal of edutainment bloggers?",
+        "answer": "To educate and entertain"
     },
     {
         "question": "What is the head protection called?",
@@ -52815,6 +53175,10 @@
         "answer": "Social integration"
     },
     {
+        "question": "What is the main motivation for most streamers to create content?",
+        "answer": "Popularity"
+    },
+    {
         "question": "What is the main purpose of using elbow lockout in the snatch?",
         "answer": "Maintaining stability"
     },
@@ -52899,12 +53263,20 @@
         "answer": "Floyd Mayweather Sr."
     },
     {
+        "question": "What is the name of Maria Sergeeva's channel?",
+        "answer": "Fitness and Health"
+    },
+    {
         "question": "What is the name of the annual rugby tournament in the Southern Hemisphere?",
         "answer": "The Rugby Championship"
     },
     {
         "question": "What is the name of the art of weaponless fighting popular in the Caucasus?",
         "answer": "Chidaoba"
+    },
+    {
+        "question": "What is the name of the author of the channel 'Piano Secrets'?",
+        "answer": "Eldar Kasimov"
     },
     {
         "question": "What is the name of the award for the best NHL goaltender?",
@@ -52917,6 +53289,14 @@
     {
         "question": "What is the name of the block where the ball remains on the opponent's side?",
         "answer": "Clean block"
+    },
+    {
+        "question": "What is the name of the channel that explores musical styles?",
+        "answer": "Styles and Genres"
+    },
+    {
+        "question": "What is the name of the channel with vocal lessons?",
+        "answer": "Vocal Academy"
     },
     {
         "question": "What is the name of the chess endgame where one player has only a king and the other has a king and a queen?",
@@ -52941,6 +53321,10 @@
     {
         "question": "What is the name of the competition where horses and riders perform synchronized and harmonious movements to music?",
         "answer": "Kür"
+    },
+    {
+        "question": "What is the name of the creator of the podcast 'Serial'?",
+        "answer": "Sarah Koenig"
     },
     {
         "question": "What is the name of the cycling competition over rough terrain with artificial obstacles?",
@@ -53001,6 +53385,14 @@
     {
         "question": "What is the name of the most challenging cycling race in Italy?",
         "answer": "Giro d'Italia"
+    },
+    {
+        "question": "What is the name of the music streamer known for their remixes?",
+        "answer": "RemixKing"
+    },
+    {
+        "question": "What is the name of the podcast dedicated to analyzing comedy memes?",
+        "answer": "Laughter of Memes"
     },
     {
         "question": "What is the name of the race that takes place on the mountain roads of Italy?",
@@ -53397,6 +53789,10 @@
     {
         "question": "What is the world record for 1 mile?",
         "answer": "3:43.13"
+    },
+    {
+        "question": "What is used to protect a horse's back under the saddle?",
+        "answer": "Saddle pad"
     },
     {
         "question": "What key aspect helps to adapt to aggressive playing styles?",
@@ -54059,6 +54455,10 @@
         "answer": "Locking the barbell"
     },
     {
+        "question": "What technical requirement determines the complexity of jumps?",
+        "answer": "Number of rotations"
+    },
+    {
         "question": "What technical technique allows for quickly changing the trajectory of the ball?",
         "answer": "Reverse topspin"
     },
@@ -54315,6 +54715,10 @@
         "answer": "Cyclocross"
     },
     {
+        "question": "What type of camera is preferable for shooting dynamic shots?",
+        "answer": "Action camera"
+    },
+    {
         "question": "What type of energy is important in the technique of shot put?",
         "answer": "Kinetic"
     },
@@ -54337,6 +54741,10 @@
     {
         "question": "What type of gallop is used for fast movement?",
         "answer": "Full gallop"
+    },
+    {
+        "question": "What type of headphones is preferable for outdoor streaming?",
+        "answer": "In-ear"
     },
     {
         "question": "What type of horses is most suitable for eventing?",
@@ -54421,6 +54829,10 @@
     {
         "question": "What unique eligibility requirement is imposed on Paralympians in goalball competitions?",
         "answer": "Vision impairment"
+    },
+    {
+        "question": "What unique natural phenomenon can be seen in Iceland?",
+        "answer": "Northern Lights"
     },
     {
         "question": "What unique playing style combines aggression and defense?",
@@ -54601,6 +55013,10 @@
     {
         "question": "Which approach in table tennis allows adapting to different playing styles of opponents?",
         "answer": "All-round style"
+    },
+    {
+        "question": "Which artist combines live performance with DJ sets?",
+        "answer": "Kaskade"
     },
     {
         "question": "Which aspect has the greatest impact on the stability of the barbell?",
@@ -54791,6 +55207,54 @@
         "answer": "Aerodynamic position"
     },
     {
+        "question": "Which blogger covers topics on healthy eating?",
+        "answer": "Anna Smirnova"
+    },
+    {
+        "question": "Which blogger debunks musical myths?",
+        "answer": "Musical Mythbuster"
+    },
+    {
+        "question": "Which blogger is known for their traditional Russian recipes?",
+        "answer": "Anton Traditsionny"
+    },
+    {
+        "question": "Which blogger is known for their videos about life without makeup?",
+        "answer": "Roussy Davis"
+    },
+    {
+        "question": "Which blogger often cooks Italian cuisine dishes?",
+        "answer": "ItalGourmet"
+    },
+    {
+        "question": "Which blogger often uses bright color schemes in makeup?",
+        "answer": "Patrick Starrr"
+    },
+    {
+        "question": "Which blogger releases guitar tutorials?",
+        "answer": "GuitarGuru"
+    },
+    {
+        "question": "Which blogger releases reviews of fitness gadgets?",
+        "answer": "Alexander Makarov"
+    },
+    {
+        "question": "Which blogger releases weekly music reviews?",
+        "answer": "Anton Pronin"
+    },
+    {
+        "question": "Which blogger runs a channel about cooking fish and seafood?",
+        "answer": "Natalya Polyakova"
+    },
+    {
+        "question": "Which blogger runs the channel 'Chemistry Made Simple'?",
+        "answer": "Vladimir Sokolov"
+    },
+    {
+        "question": "Which blogger talks about rare music genres?",
+        "answer": "Rare genres"
+    },
+    {
         "question": "Which body part is used when performing a supported jump?",
         "answer": "Hand"
     },
@@ -54857,6 +55321,10 @@
     {
         "question": "Which car manufacturer won Le Mans in 1998?",
         "answer": "Porsche"
+    },
+    {
+        "question": "Which channel talks about medicine?",
+        "answer": "Medical Facts"
     },
     {
         "question": "Which characteristic of the track surface is critically important for sprint races?",
@@ -55141,6 +55609,10 @@
     {
         "question": "Which criterion evaluates the consistency of movements with music?",
         "answer": "Rhythmicity"
+    },
+    {
+        "question": "Which culinary blogger often shares grill recipes?",
+        "answer": "Sergey Kalinin"
     },
     {
         "question": "Which cycling race is considered the most difficult in the world?",
@@ -56167,8 +56639,44 @@
         "answer": "Miroslav Klose"
     },
     {
+        "question": "Which podcast covers global finance?",
+        "answer": "Global Finance"
+    },
+    {
+        "question": "Which podcast discusses investments?",
+        "answer": "Investment Club"
+    },
+    {
+        "question": "Which podcast has Ivan Urgant been hosting since 2022?",
+        "answer": "Comedy of the Wind"
+    },
+    {
+        "question": "Which podcast includes interviews with successful entrepreneurs?",
+        "answer": "How I Built This"
+    },
+    {
+        "question": "Which podcast is particularly popular among school students?",
+        "answer": "Online Lessons"
+    },
+    {
+        "question": "Which podcast often combines humor and politics?",
+        "answer": "Politically Joking"
+    },
+    {
+        "question": "Which podcast popularizes science and is considered one of the best in this field?",
+        "answer": "Radiolab"
+    },
+    {
+        "question": "Which podcast teaches investing?",
+        "answer": "Investing for Everyone"
+    },
+    {
         "question": "Which position in rugby is responsible for controlling the pace of the game through decision-making?",
         "answer": "Fly-half"
+    },
+    {
+        "question": "Which programs are used to create special video effects?",
+        "answer": "After Effects"
     },
     {
         "question": "Which race is known for its unique combination of flat and mountainous terrain?",
@@ -56459,6 +56967,10 @@
         "answer": "Goalball"
     },
     {
+        "question": "Which sports streamer broadcasts gymnastics?",
+        "answer": "Kirill Markov"
+    },
+    {
         "question": "Which stadium is the largest in the world?",
         "answer": "Rungrado 1st of May Stadium"
     },
@@ -56477,6 +56989,30 @@
     {
         "question": "Which strategy element helps players adapt to an opponent's aggressive play?",
         "answer": "Distance control"
+    },
+    {
+        "question": "Which streamer conducts online boxing workouts?",
+        "answer": "Sergey Petrov"
+    },
+    {
+        "question": "Which streamer is known for their late-night FiveM streams?",
+        "answer": "xQc"
+    },
+    {
+        "question": "Which streamer is known for their running sessions?",
+        "answer": "Nikolay Loginov"
+    },
+    {
+        "question": "Which streamer is originally from Japan?",
+        "answer": "Taquito"
+    },
+    {
+        "question": "Which streamer specializes in cyber football?",
+        "answer": "Danil Vetrov"
+    },
+    {
+        "question": "Which streamer specializes in electronic music?",
+        "answer": "ElectroKid"
     },
     {
         "question": "Which style of ice skating is recognized for its innovations in interpreting musical themes?",
@@ -56541,6 +57077,10 @@
     {
         "question": "Which team won the first game in NBA history?",
         "answer": "New York Knicks"
+    },
+    {
+        "question": "Which technical elements became mandatory in ice dancing after 2010?",
+        "answer": "Complex lifts"
     },
     {
         "question": "Which technique allows controlling the ball over a short distance?",
@@ -56891,6 +57431,10 @@
         "answer": "Ragnar Lodbrok"
     },
     {
+        "question": "Who covers topics on sports and fitness?",
+        "answer": "Andrey Novikov"
+    },
+    {
         "question": "Who defeated Muhammad Ali in the 'Fight of the Century'?",
         "answer": "Joe Frazier"
     },
@@ -56941,6 +57485,10 @@
     {
         "question": "Who holds the world record in the 400m individual medley swimming?",
         "answer": "Michael Phelps"
+    },
+    {
+        "question": "Who hosts the podcast \"Cultural Focus\"?",
+        "answer": "Anna Petrova"
     },
     {
         "question": "Who introduced the concept of chess hypermodernism?",
@@ -57003,6 +57551,10 @@
         "answer": "Diego Sanchez"
     },
     {
+        "question": "Who is known for the channel 'Chef's Breakfast'?",
+        "answer": "Alexey Alexandrov"
+    },
+    {
         "question": "Who is the NBA MVP for 2023?",
         "answer": "Joel Embiid"
     },
@@ -57063,6 +57615,18 @@
         "answer": "Alain Vigneault"
     },
     {
+        "question": "Who is the host of the podcast 'Science Vs'?",
+        "answer": "Wendy Zukerman"
+    },
+    {
+        "question": "Who is the host of the podcast 'Serial'?",
+        "answer": "Sarah Koenig"
+    },
+    {
+        "question": "Who is the host of the podcast 'The Daily'?",
+        "answer": "Michael Barbaro"
+    },
+    {
         "question": "Who is the legendary weightlifter who won three consecutive Olympics?",
         "answer": "Nurtuygulev Fedor"
     },
@@ -57091,12 +57655,24 @@
         "answer": "Michael Chang"
     },
     {
+        "question": "Who owns the Instagram account 'fit_and_happy'?",
+        "answer": "Evgenia Kovaleva"
+    },
+    {
         "question": "Who performed a program on the topic of the Ice Age?",
         "answer": "Evgeni Plushenko"
     },
     {
         "question": "Who popularized jiu-jitsu?",
         "answer": "Mitsuyo Maeda"
+    },
+    {
+        "question": "Who runs a blog about healthy eating?",
+        "answer": "Natalia Fedorova"
+    },
+    {
+        "question": "Who runs a blog about physics?",
+        "answer": "Dmitry Kuznetsov"
     },
     {
         "question": "Who scored a goal from the center of the field in the 2002 UEFA Champions League final?",
@@ -58419,6 +58995,10 @@
         "answer": "Head block"
     },
     {
+        "question": "What is the name of the major project in nanotechnology?",
+        "answer": "International Initiative"
+    },
+    {
         "question": "What is the name of the microscope used to study atoms?",
         "answer": "Atomic force"
     },
@@ -58869,6 +59449,10 @@
     {
         "question": "What process cleans the generated energy from CO2?",
         "answer": "Carbon capture"
+    },
+    {
+        "question": "What process converts organic matter into biogas?",
+        "answer": "Anaerobic digestion"
     },
     {
         "question": "What process is critical for creating new cryptocurrency tokens?",
