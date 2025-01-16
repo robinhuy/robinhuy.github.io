@@ -132,6 +132,10 @@
         "answer": "6-7 pairs"
     },
     {
+        "question": "How many phases are there in the game 'Pandemic'?",
+        "answer": "5"
+    },
+    {
         "question": "How many radial canals does a starfish have?",
         "answer": "Five"
     },
@@ -232,12 +236,52 @@
         "answer": "Saltwater"
     },
     {
+        "question": "In what year was the game Watch Dogs: Legion released?",
+        "answer": "Survival Craft"
+    },
+    {
         "question": "In which century were lancelets first described?",
         "answer": "19th century"
     },
     {
         "question": "In which century were the first fossils of jawed vertebrates discovered?",
         "answer": "19th century"
+    },
+    {
+        "question": "In which game are there transportation cards?",
+        "answer": "Ticket to Ride"
+    },
+    {
+        "question": "In which game can you become the captain of a spaceship?",
+        "answer": "FTL: Faster Than Light"
+    },
+    {
+        "question": "In which game can you develop a mountain base?",
+        "answer": "Frostpunk"
+    },
+    {
+        "question": "In which game do you explore dungeons and roll dice for battles?",
+        "answer": "DungeonQuest"
+    },
+    {
+        "question": "In which game do you need to grow plants to defend against zombies?",
+        "answer": "Plants vs Zombies"
+    },
+    {
+        "question": "In which game does the hero fight against robots?",
+        "answer": "Blasphemous"
+    },
+    {
+        "question": "In which game is Alduin featured?",
+        "answer": "Skyrim"
+    },
+    {
+        "question": "In which game is the FaZe Clan team popular?",
+        "answer": "Call of Duty"
+    },
+    {
+        "question": "In which game is the location Lileynoe Pole featured?",
+        "answer": "Xenoblade Chronicles"
     },
     {
         "question": "In which nature reserve can orange cuckoos be found?",
@@ -300,6 +344,10 @@
         "answer": "Africa"
     },
     {
+        "question": "Name the magical art of elven mages in the game Dragon Age.",
+        "answer": "Arcanum"
+    },
+    {
         "question": "The most venomous mammal?",
         "answer": "Platypus"
     },
@@ -350,6 +398,14 @@
     {
         "question": "What are enclosing structures used for?",
         "answer": "Zoning"
+    },
+    {
+        "question": "What are games with multiple participants in a single session called?",
+        "answer": "Session games"
+    },
+    {
+        "question": "What are intensive tests for games called?",
+        "answer": "Stress tests"
     },
     {
         "question": "What are nocturnal primates called?",
@@ -428,6 +484,10 @@
         "answer": "Meditation"
     },
     {
+        "question": "What cards are used for healing in the original games?",
+        "answer": "Potion cards"
+    },
+    {
         "question": "What color is most commonly predominant in deep-sea fish?",
         "answer": "Dark"
     },
@@ -494,6 +554,10 @@
     {
         "question": "What does the notochord in lancelets represent?",
         "answer": "Rigid rod"
+    },
+    {
+        "question": "What element links the hero and their ability in Hearthstone?",
+        "answer": "Hero card"
     },
     {
         "question": "What environment is created to attract beneficial insects?",
@@ -564,8 +628,20 @@
         "answer": "Sensing smells"
     },
     {
+        "question": "What game engine is used in The Elder Scrolls V: Skyrim?",
+        "answer": "Yakuza"
+    },
+    {
         "question": "What garden element often serves as a focal point?",
         "answer": "Fountain"
+    },
+    {
+        "question": "What genre of VR games is suitable for fitness?",
+        "answer": "Roguelike"
+    },
+    {
+        "question": "What genre of game is considered a team strategy?",
+        "answer": "MOBA"
     },
     {
         "question": "What helps to control watering remotely?",
@@ -598,6 +674,10 @@
     {
         "question": "What is added to compost to improve its structure?",
         "answer": "Sawdust"
+    },
+    {
+        "question": "What is an API?",
+        "answer": "Application Interface"
     },
     {
         "question": "What is an Argopecten?",
@@ -644,12 +724,20 @@
         "answer": "No eyelids"
     },
     {
+        "question": "What is the ability called that characters can use in the game The Elder Scrolls V: Skyrim?",
+        "answer": "Dragonborn"
+    },
+    {
         "question": "What is the action called when rugby players make contact in a contest for the ball on the ground?",
         "answer": "Ruck"
     },
     {
         "question": "What is the ambulacral system?",
         "answer": "Hydraulic organ"
+    },
+    {
+        "question": "What is the attack value of Tarnuhar in the game Gwent?",
+        "answer": "10"
     },
     {
         "question": "What is the average number of eggs laid by a cockroach at one time?",
@@ -740,6 +828,10 @@
         "answer": "Locomotion"
     },
     {
+        "question": "What is the main objective in the game Monument Valley?",
+        "answer": "Solving puzzles"
+    },
+    {
         "question": "What is the main purpose of the Oksky Nature Reserve?",
         "answer": "Breeding of European bison"
     },
@@ -768,12 +860,20 @@
         "answer": "Hydroponics"
     },
     {
+        "question": "What is the mode called in Assassin's Creed IV where you can control a ship?",
+        "answer": "Naval Battles"
+    },
+    {
         "question": "What is the molting process in arthropods called?",
         "answer": "Ecdysis"
     },
     {
         "question": "What is the most poisonous fish?",
         "answer": "Stonefish"
+    },
+    {
+        "question": "What is the most prestigious Hearthstone tournament?",
+        "answer": "World Championship"
     },
     {
         "question": "What is the name of a garden corner designed for relaxation and meditation?",
@@ -784,6 +884,18 @@
         "answer": "Odontocete"
     },
     {
+        "question": "What is the name of the VR game where players can explore the world using a portal gun?",
+        "answer": "Portal Stories: VR"
+    },
+    {
+        "question": "What is the name of the ancient Chinese game with black and white stones?",
+        "answer": "Go"
+    },
+    {
+        "question": "What is the name of the annual Tekken 7 tournament?",
+        "answer": "Tekken World Tour"
+    },
+    {
         "question": "What is the name of the dental apparatus in rays?",
         "answer": "Plates"
     },
@@ -792,12 +904,24 @@
         "answer": "Pike"
     },
     {
+        "question": "What is the name of the fictional mirror in the game Mirror's Edge?",
+        "answer": "Catalyst"
+    },
+    {
         "question": "What is the name of the fish that can generate electricity?",
         "answer": "Electric eel"
     },
     {
         "question": "What is the name of the fish with a long snout?",
         "answer": "Seahorse"
+    },
+    {
+        "question": "What is the name of the game about managing a city-state in the ancient world?",
+        "answer": "Caesar"
+    },
+    {
+        "question": "What is the name of the game where you need to line up rows of identical tiles?",
+        "answer": "Bejeweled"
     },
     {
         "question": "What is the name of the mollusk with a shell as transparent as glass?",
@@ -812,6 +936,10 @@
         "answer": "Pelagic zone"
     },
     {
+        "question": "What is the name of the open-world game with resource gathering in survival mode?",
+        "answer": "Rust"
+    },
+    {
         "question": "What is the name of the opening after 1.e4 c6?",
         "answer": "Caro-Kann Defense"
     },
@@ -820,12 +948,24 @@
         "answer": "Electric organ"
     },
     {
+        "question": "What is the name of the popular game mode with 100-card decks?",
+        "answer": "Commander"
+    },
+    {
         "question": "What is the name of the potent mollusk toxin?",
         "answer": "Tetrodotoxin"
     },
     {
+        "question": "What is the name of the railway simulator by Dovetail Games?",
+        "answer": "Train Simulator"
+    },
+    {
         "question": "What is the name of the small South American monkey with a ringed tail?",
         "answer": "marmoset"
+    },
+    {
+        "question": "What is the name of the small town in the game Oxenfree?",
+        "answer": "Camena"
     },
     {
         "question": "What is the name of the smallest primate?",
@@ -834,6 +974,14 @@
     {
         "question": "What is the name of the soil cultivation tool invented by Fokin?",
         "answer": "Flat-cutter"
+    },
+    {
+        "question": "What is the name of the space battle simulation game?",
+        "answer": "Ingress"
+    },
+    {
+        "question": "What is the name of the strategy game that focuses primarily on submarine management?",
+        "answer": "Silent Hunter"
     },
     {
         "question": "What is the notochord of a lancelet made of?",
@@ -870,6 +1018,14 @@
     {
         "question": "What is the process called when a fish opens and closes its gills?",
         "answer": "Gill breathing"
+    },
+    {
+        "question": "What is the process of bringing a game to a release-ready state called?",
+        "answer": "Fixing"
+    },
+    {
+        "question": "What is the process of creating and synchronizing the movements of characters and objects called?",
+        "answer": "Animation"
     },
     {
         "question": "What is the process of digestion in starfish called?",
@@ -936,6 +1092,10 @@
         "answer": "Antenna"
     },
     {
+        "question": "What is the world in The Elder Scrolls called?",
+        "answer": "Nirn"
+    },
+    {
         "question": "What is unique about dragonfly eyes?",
         "answer": "Compound eyes"
     },
@@ -958,6 +1118,10 @@
     {
         "question": "What level of moisture is important for compost?",
         "answer": "Moderate"
+    },
+    {
+        "question": "What mechanic allows you to draw additional cards in Magic: The Gathering?",
+        "answer": "Draw"
     },
     {
         "question": "What method helps control pests naturally?",
@@ -1026,6 +1190,10 @@
     {
         "question": "What reptile inhabits the Galapagos Islands?",
         "answer": "Galapagos tortoise"
+    },
+    {
+        "question": "What resource is needed to change characters?",
+        "answer": "Growth Cards"
     },
     {
         "question": "What role do pedipalps serve in spiders?",
@@ -1108,6 +1276,10 @@
         "answer": "Mulcher"
     },
     {
+        "question": "What tool is used to create new cards in Hearthstone?",
+        "answer": "The Forge"
+    },
+    {
         "question": "What training technique is used to improve reaction to various conditions on the track?",
         "answer": "Mental preparation"
     },
@@ -1122,6 +1294,10 @@
     {
         "question": "What type of fish is androgynous?",
         "answer": "Eel"
+    },
+    {
+        "question": "What type of game is 'Carcassonne'?",
+        "answer": "Strategy"
     },
     {
         "question": "What type of grass cover is used for green manure?",
@@ -1162,6 +1338,10 @@
     {
         "question": "What type of skeleton do jawed vertebrates have?",
         "answer": "Cartilaginous"
+    },
+    {
+        "question": "What unique ability does the 'Worgen' class have in World of Warcraft?",
+        "answer": "Transformation"
     },
     {
         "question": "What unique feature do lancelets have?",
@@ -1232,6 +1412,10 @@
         "answer": "Sayano-Shushensky Nature Reserve"
     },
     {
+        "question": "Where is The International tournament usually held?",
+        "answer": "DOOM 2016"
+    },
+    {
         "question": "Where is the 'Stolby' Nature Reserve located?",
         "answer": "Krasnoyarsk Krai"
     },
@@ -1252,8 +1436,24 @@
         "answer": "above the notochord"
     },
     {
+        "question": "Which MTG set first introduced double-faced cards?",
+        "answer": "Innistrad"
+    },
+    {
         "question": "Which Russian nature reserve is famous for its population of brown bears?",
         "answer": "Kronotsky"
+    },
+    {
+        "question": "Which VR game allows you to control the movements of a pirate ship?",
+        "answer": "Sea of Pirates"
+    },
+    {
+        "question": "Which VR game is known for its thrilling tank battles?",
+        "answer": "World of Tanks VR"
+    },
+    {
+        "question": "Which Yu-Gi-Oh! set introduced the 'Destiny Hero' series of cards?",
+        "answer": "Just a Line"
     },
     {
         "question": "Which ancestors of modern cephalochordates have an ancient commonality?",
@@ -1512,6 +1712,10 @@
         "answer": "Sea lilies"
     },
     {
+        "question": "Which faction is represented in World of Warcraft?",
+        "answer": "Horde"
+    },
+    {
         "question": "Which female tennis player was the first to retire after winning all Grand Slam tournaments twice?",
         "answer": "Margaret Court"
     },
@@ -1658,6 +1862,42 @@
     {
         "question": "Which fruit is drought-resistant?",
         "answer": "Monophyllia"
+    },
+    {
+        "question": "Which game allows you to recreate historical battles and scenarios?",
+        "answer": "Total War"
+    },
+    {
+        "question": "Which game is about investigating a murder involving ghosts?",
+        "answer": "Star Trek: Bridge Crew"
+    },
+    {
+        "question": "Which game is based on myths and legends?",
+        "answer": "Myth"
+    },
+    {
+        "question": "Which game is considered a masterpiece of the Total War series?",
+        "answer": "Prey"
+    },
+    {
+        "question": "Which game is considered the first esports discipline?",
+        "answer": "Quake"
+    },
+    {
+        "question": "Which game is popular for its dark atmosphere?",
+        "answer": "No Man's Sky"
+    },
+    {
+        "question": "Which game series is known for its difficulty and rolling mechanics?",
+        "answer": "Dark Souls"
+    },
+    {
+        "question": "Which game uses the mechanic of managing ecological balance?",
+        "answer": "Terraforming Mars"
+    },
+    {
+        "question": "Which gaming console was the first 16-bit console?",
+        "answer": "Sega Genesis"
     },
     {
         "question": "Which garden element is used to create relief?",
@@ -2256,12 +2496,24 @@
         "answer": "Penduline tit"
     },
     {
+        "question": "Who created Metal Gear Solid?",
+        "answer": "Hideo Kojima"
+    },
+    {
         "question": "Who is a well-known enemy of the clownfish?",
         "answer": "Sea snake"
     },
     {
         "question": "Who is known as the 'king of the skies'?",
         "answer": "Eagle"
+    },
+    {
+        "question": "Who is the main antagonist in the game Hyper Light Drifter?",
+        "answer": "Titans"
+    },
+    {
+        "question": "Who is the main character in the game Dead Cells?",
+        "answer": "The Prisoner"
     },
     {
         "question": "Who is the main predator of corals?",
@@ -2294,6 +2546,10 @@
     {
         "question": "Who were the ancient ancestors of lancelets?",
         "answer": "Tunicates"
+    },
+    {
+        "question": "Who won the MPL tournament in 2020?",
+        "answer": "Bren Esports"
     },
     {
         "question": "Whose remains are considered the first jawed vertebrates?",
