@@ -3949,6 +3949,10 @@
         "answer": "Lyocell"
     },
     {
+        "question": "How does recycled fabric affect the economy?",
+        "answer": "More economical"
+    },
+    {
         "question": "How many people are typically involved in creating a single haute couture dress?",
         "answer": "About 20"
     },
@@ -3989,6 +3993,10 @@
         "answer": "Cape Verde"
     },
     {
+        "question": "In which film did Audrey Hepburn wear a Givenchy dress?",
+        "answer": "Breakfast at Tiffany's"
+    },
+    {
         "question": "To which era does the Empire style belong?",
         "answer": "Napoleonic"
     },
@@ -3999,6 +4007,10 @@
     {
         "question": "What T-shirts are currently in trend?",
         "answer": "Oversized"
+    },
+    {
+        "question": "What accessories are trendy?",
+        "answer": "Backpacks"
     },
     {
         "question": "What accessories were worn during the Renaissance era?",
@@ -4023,6 +4035,10 @@
     {
         "question": "What are high fashion models called?",
         "answer": "Haute couture"
+    },
+    {
+        "question": "What are items called that are recycled into something new?",
+        "answer": "Upcycling"
     },
     {
         "question": "What are long earrings called?",
@@ -4067,6 +4083,10 @@
     {
         "question": "What clothing style includes retro elements?",
         "answer": "Retro chic"
+    },
+    {
+        "question": "What conditions must fashion houses meet to create haute couture in Paris?",
+        "answer": "Special license"
     },
     {
         "question": "What did the unisex style symbolize in the 1990s?",
@@ -4119,6 +4139,10 @@
     {
         "question": "What footwear is popular in Japan?",
         "answer": "Tabi"
+    },
+    {
+        "question": "What footwear is traditional in Japan?",
+        "answer": "Geta"
     },
     {
         "question": "What helps reduce the carbon footprint in fashion?",
@@ -4185,6 +4209,10 @@
         "answer": "Interactive clothing"
     },
     {
+        "question": "What is the name of interactive clothing with notifications?",
+        "answer": "Smart Jeans"
+    },
+    {
         "question": "What is the name of men's shoes with a pointed toe?",
         "answer": "Oxfords"
     },
@@ -4211,6 +4239,10 @@
     {
         "question": "What is the name of the fashion week on Sixth Avenue in New York?",
         "answer": "Made Fashion Week"
+    },
+    {
+        "question": "What is the name of the footwear that adapts to the shape of the foot?",
+        "answer": "Adaptive"
     },
     {
         "question": "What is the name of the mesh fabric used for sportswear?",
@@ -4241,6 +4273,10 @@
         "answer": "Toe ring"
     },
     {
+        "question": "What is the situation called when pants do not squeeze the waist?",
+        "answer": "Loose"
+    },
+    {
         "question": "What is the style called that involves wearing multiple layers of clothing?",
         "answer": "Layering"
     },
@@ -4265,12 +4301,28 @@
         "answer": "Neoprene"
     },
     {
+        "question": "What material is suitable for winter clothing?",
+        "answer": "Wool"
+    },
+    {
+        "question": "What method helps create new clothes from old ones?",
+        "answer": "Upcycling"
+    },
+    {
         "question": "What music genre does singer Taylor Swift prefer?",
         "answer": "Pop"
     },
     {
+        "question": "What pants are comfortable for winter?",
+        "answer": "Thermal pants"
+    },
+    {
         "question": "What pants should you wear in the rain?",
         "answer": "Waterproof"
+    },
+    {
+        "question": "What pattern is most commonly found on dresses?",
+        "answer": "Floral"
     },
     {
         "question": "What pattern is popular for blazers?",
@@ -4405,6 +4457,14 @@
         "answer": "Climbing shoes"
     },
     {
+        "question": "What type of footwear is usually solid-colored?",
+        "answer": "Loafers"
+    },
+    {
+        "question": "What type of footwear resembles traditional Japanese socks?",
+        "answer": "Tabi"
+    },
+    {
         "question": "What type of glasses were popular in fashion during the 1960s?",
         "answer": "Cat-eye glasses"
     },
@@ -4413,12 +4473,20 @@
         "answer": "Linen"
     },
     {
+        "question": "What type of stiff hat is popular in grunge style?",
+        "answer": "Fedora"
+    },
+    {
         "question": "What very expensive and rare stone did kings wear?",
         "answer": "diamond"
     },
     {
         "question": "When did Ralph Lauren start his career?",
         "answer": "1967"
+    },
+    {
+        "question": "When did fashion become more modest and conservative?",
+        "answer": "Victorian era"
     },
     {
         "question": "Which French designer became famous for his avant-garde collections?",
@@ -4445,6 +4513,18 @@
         "answer": "Rihanna"
     },
     {
+        "question": "Which approach to fashion promotes long-term use of clothing?",
+        "answer": "Slow fashion"
+    },
+    {
+        "question": "Which brand became famous for its glass slippers?",
+        "answer": "Jimmy Choo"
+    },
+    {
+        "question": "Which brand collaborated with artist Keith Haring?",
+        "answer": "Comme des Garçons"
+    },
+    {
         "question": "Which brand created the concert costumes for Beyoncé's 'Formation' tour?",
         "answer": "Balmain"
     },
@@ -4461,12 +4541,28 @@
         "answer": "Officine Panerai"
     },
     {
+        "question": "Which brand created the suit for David Beckham at the Met Gala?",
+        "answer": "Dior"
+    },
+    {
+        "question": "Which brand creates prestigious shoe models in the United Kingdom?",
+        "answer": "Church's"
+    },
+    {
         "question": "Which brand did Audrey Hepburn wear in the movie 'Breakfast at Tiffany's'?",
         "answer": "Givenchy"
     },
     {
         "question": "Which brand does Bella Hadid prefer?",
         "answer": "Balenciaga"
+    },
+    {
+        "question": "Which brand does Selena Gomez choose?",
+        "answer": "Coach"
+    },
+    {
+        "question": "Which brand held a historic show at the Palace of Versailles?",
+        "answer": "Chanel"
     },
     {
         "question": "Which brand introduced the trend for premium sneakers?",
@@ -4493,6 +4589,10 @@
         "answer": "Ermenegildo Zegna"
     },
     {
+        "question": "Which brand is famous for its striped suits?",
+        "answer": "Paul Smith"
+    },
+    {
         "question": "Which brand is famous for producing suitcases and bags?",
         "answer": "Louis Vuitton"
     },
@@ -4503,6 +4603,10 @@
     {
         "question": "Which brand is known for its fashion shows, famous performances, and innovations?",
         "answer": "Alexander McQueen"
+    },
+    {
+        "question": "Which brand is known for its high-quality classic clothing?",
+        "answer": "Ralph Lauren"
     },
     {
         "question": "Which brand is known for its iconic striped sweaters?",
@@ -4527,6 +4631,10 @@
     {
         "question": "Which brand often collaborates with artists to create unique collections?",
         "answer": "Louis Vuitton"
+    },
+    {
+        "question": "Which brand organized a show at the Palace of Versailles?",
+        "answer": "Dior"
     },
     {
         "question": "Which brand organizes Paris Fashion Week?",
@@ -4563,6 +4671,10 @@
     {
         "question": "Which brand specializes in loafers?",
         "answer": "Gucci"
+    },
+    {
+        "question": "Which brand was the first to introduce platform shoes?",
+        "answer": "Vivienne Westwood"
     },
     {
         "question": "Which brand was the first to introduce the grunge style?",
@@ -4609,12 +4721,24 @@
         "answer": "Giorgio Armani"
     },
     {
+        "question": "Which designer became famous for their innovative approach to evening gowns in the 1980s?",
+        "answer": "Christian Lacroix"
+    },
+    {
         "question": "Which designer collection included suits made from recycled plastic?",
         "answer": "Eco-collection"
     },
     {
         "question": "Which designer created dresses from metal and plastic?",
         "answer": "Paco Rabanne"
+    },
+    {
+        "question": "Which designer created the 'Barbie' collection?",
+        "answer": "Jeremy Scott"
+    },
+    {
+        "question": "Which designer created the famous bomber jacket?",
+        "answer": "Herbert Holland"
     },
     {
         "question": "Which designer created the famous non-logo T-shirts?",
@@ -4631,6 +4755,10 @@
     {
         "question": "Which designer created the original costumes for the Tame Impala tour?",
         "answer": "Alexander Wang"
+    },
+    {
+        "question": "Which designer created the sweater dress for Zendaya at the Met Gala?",
+        "answer": "Tommy Hilfiger"
     },
     {
         "question": "Which designer has always supported minimalism in their collections?",
@@ -4669,6 +4797,10 @@
         "answer": "Jean-Paul Gaultier"
     },
     {
+        "question": "Which designer was the first to introduce the concept of 'ready-to-wear'?",
+        "answer": "Pierre Cardin"
+    },
+    {
         "question": "Which designer was the first to introduce the concept of unisex in their collections?",
         "answer": "Jean-Paul Gaultier"
     },
@@ -4705,6 +4837,14 @@
         "answer": "Pleats"
     },
     {
+        "question": "Which famous designer's collection is inspired by Japanese culture?",
+        "answer": "Makio Galliano"
+    },
+    {
+        "question": "Which fashion brand has a collection inspired by snakes?",
+        "answer": "Armani"
+    },
+    {
         "question": "Which fashion brand is named after a Spanish city?",
         "answer": "Balenciaga"
     },
@@ -4725,6 +4865,10 @@
         "answer": "Thierry Mugler"
     },
     {
+        "question": "Which fashion designer is known for their couture dresses made from flowers?",
+        "answer": "John Galliano"
+    },
+    {
         "question": "Which fashion designer was the first to introduce the concept of 'ready-to-wear'?",
         "answer": "Pierre Cardin"
     },
@@ -4739,6 +4883,10 @@
     {
         "question": "Which fashion house does Beyoncé often choose?",
         "answer": "Balmain"
+    },
+    {
+        "question": "Which fashion house is known for its drapery?",
+        "answer": "Jean-Paul Gaultier"
     },
     {
         "question": "Which fashion house used augmented reality in their 2018 show?",
@@ -4759,6 +4907,10 @@
     {
         "question": "Which gemstone is often used to adorn high-end watches?",
         "answer": "diamond"
+    },
+    {
+        "question": "Which material is obtained from renewable sources?",
+        "answer": "Linen"
     },
     {
         "question": "Which of the following is biodegradable?",
@@ -4833,6 +4985,10 @@
         "answer": "Sienna Miller"
     },
     {
+        "question": "Who became the global ambassador for Louis Vuitton in 2020?",
+        "answer": "Sophie Turner"
+    },
+    {
         "question": "Who created the brand Kenzo?",
         "answer": "Kenzo Takada"
     },
@@ -4865,6 +5021,10 @@
         "answer": "Alessandro Michele"
     },
     {
+        "question": "Who introduced grunge style into fashion?",
+        "answer": "Marc Jacobs"
+    },
+    {
         "question": "Who introduced the fashion for lace in the Victorian era?",
         "answer": "Queen Victoria"
     },
@@ -4875,6 +5035,10 @@
     {
         "question": "Who introduced the unisex style in fashion?",
         "answer": "André Courrèges"
+    },
+    {
+        "question": "Who is famous for their legendary couture collections in Paris?",
+        "answer": "Christian Dior"
     },
     {
         "question": "Who is known for theatrical shows?",
