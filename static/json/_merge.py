@@ -23,6 +23,7 @@ files_to_merge = [
     "hunting.json",
     "movies.json",
     "music.json",
+    "personalities.json",
     "plants.json",
     "science.json",
     "space.json",
