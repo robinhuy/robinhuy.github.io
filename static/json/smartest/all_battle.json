@@ -20982,6 +20982,10 @@
         "answer": ""
     },
     {
+        "question": "How many times has Rihanna won the Billboard Music Awards?",
+        "answer": "12 times"
+    },
+    {
         "question": "How many times has Robbie Williams won the BRIT Award?",
         "answer": "18"
     },
@@ -21098,6 +21102,10 @@
         "answer": "1971"
     },
     {
+        "question": "In which band did David Bowie start his career?",
+        "answer": "The Konrads"
+    },
+    {
         "question": "In which century did Gregorian chant originate?",
         "answer": ""
     },
@@ -21138,6 +21146,10 @@
         "answer": "Fratres"
     },
     {
+        "question": "Name a woodwind musical instrument with a reed.",
+        "answer": "Oboe"
+    },
+    {
         "question": "Name the 1990 hit by Depeche Mode.",
         "answer": "Enjoy the Silence"
     },
@@ -21164,6 +21176,10 @@
     {
         "question": "On which label did the Wu-Tang Clan start?",
         "answer": ""
+    },
+    {
+        "question": "On which label were Mobb Deep's tracks released?",
+        "answer": "Loud Records"
     },
     {
         "question": "Since what year has the Rock Werchter festival been held?",
@@ -21262,6 +21278,10 @@
         "answer": "Fabriclive"
     },
     {
+        "question": "What form of music was often used in the liturgy?",
+        "answer": "Introit"
+    },
+    {
         "question": "What function is used to create rhythm in house music?",
         "answer": "Sequencer"
     },
@@ -21270,8 +21290,16 @@
         "answer": ""
     },
     {
+        "question": "What genre did Aphex Twin specialize in during the early stage of his career?",
+        "answer": "Ambient"
+    },
+    {
         "question": "What genre does the album 'Acceleration' belong to?",
         "answer": "Techno"
+    },
+    {
+        "question": "What genre mixes dubstep with metal?",
+        "answer": "Dubstepcore"
     },
     {
         "question": "What genre of electronic music is referred to as IDM?",
@@ -21320,6 +21348,10 @@
     {
         "question": "What genre was popular in the London underground in the 80s?",
         "answer": "Acid house"
+    },
+    {
+        "question": "What hit did Creamy Panda release in 2020?",
+        "answer": "Mood Color Blue"
     },
     {
         "question": "What important musical work did Guido of Arezzo write?",
@@ -21418,6 +21450,10 @@
         "answer": "Electroacoustics"
     },
     {
+        "question": "What is the genre of vocal-instrumental music performed by a choir called?",
+        "answer": "Cantata"
+    },
+    {
         "question": "What is the genre popularized by the band The Talking Heads?",
         "answer": "New Wave"
     },
@@ -21474,6 +21510,10 @@
         "answer": "Cheshire Cat"
     },
     {
+        "question": "What is the name of Cheryl Lynn's debut album?",
+        "answer": "Cheryl Lynn"
+    },
+    {
         "question": "What is the name of DJ Alan Walker's debut album?",
         "answer": "Different World"
     },
@@ -21500,6 +21540,10 @@
     {
         "question": "What is the name of Flume's 2012 album?",
         "answer": "Flume"
+    },
+    {
+        "question": "What is the name of Gillian Welch's brother?",
+        "answer": "David Rawlings"
     },
     {
         "question": "What is the name of Jay-Z's 1996 album?",
@@ -21570,8 +21614,16 @@
         "answer": "In Croce Curriculum Musicus"
     },
     {
+        "question": "What is the name of Stevie Wonder's band that plays funk?",
+        "answer": "Wonderlove"
+    },
+    {
         "question": "What is the name of The Chemical Brothers' 1997 album?",
         "answer": "Dig Your Own Hole"
+    },
+    {
+        "question": "What is the name of The Police's debut album?",
+        "answer": "Outlandos d'Amour"
     },
     {
         "question": "What is the name of The Velvet Underground's debut album?",
@@ -21596,6 +21648,10 @@
     {
         "question": "What is the name of the Bob Dylan album released in 1975?",
         "answer": "Blood on the Tracks"
+    },
+    {
+        "question": "What is the name of the Bolivian music played on the pan flute?",
+        "answer": "Huayno"
     },
     {
         "question": "What is the name of the British DJ and producer known by the stage name Aphex Twin?",
@@ -21648,6 +21704,14 @@
     {
         "question": "What is the name of the album released by Drake in 2016?",
         "answer": "Views"
+    },
+    {
+        "question": "What is the name of the album released by NOFX in 1994?",
+        "answer": "Punk in Drublic"
+    },
+    {
+        "question": "What is the name of the album released by the band Muse in 2022?",
+        "answer": "Will of the People"
     },
     {
         "question": "What is the name of the album released by the band Underworld in 2007?",
@@ -21778,12 +21842,24 @@
         "answer": "Jam"
     },
     {
+        "question": "What is the name of the lead singer of No Doubt?",
+        "answer": "Gwen Stefani"
+    },
+    {
         "question": "What is the name of the lively American folk dance?",
         "answer": "Lindy Hop"
     },
     {
         "question": "What is the name of the main soundtrack for the movie 'The Matrix'?",
         "answer": "Clubbed to Death"
+    },
+    {
+        "question": "What is the name of the military-themed song by System of a Down?",
+        "answer": "B.Y.O.B."
+    },
+    {
+        "question": "What is the name of the most famous tenor in the world?",
+        "answer": "Luciano Pavarotti"
     },
     {
         "question": "What is the name of the music festival held in the USA?",
@@ -21800,6 +21876,10 @@
     {
         "question": "What is the name of the music style associated with fast rhythms and complex sequences?",
         "answer": "IDM"
+    },
+    {
+        "question": "What is the name of the musical style associated with Cuban percussion?",
+        "answer": "Rumba"
     },
     {
         "question": "What is the name of the musical style with a fast and energetic rhythm from Latin America?",
@@ -21844,6 +21924,10 @@
     {
         "question": "What is the name of the song from the movie 'The Hobbit: An Unexpected Journey'?",
         "answer": "Misty Mountains"
+    },
+    {
+        "question": "What is the name of the song from the movie 'The Umbrellas of Cherbourg'?",
+        "answer": "Song of Love"
     },
     {
         "question": "What is the name of the third studio album by the Backstreet Boys?",
@@ -21964,6 +22048,10 @@
     {
         "question": "What major festival has been held in Crimea since 2014?",
         "answer": ""
+    },
+    {
+        "question": "What melody became the symbol of the movie 'Requiem for a Dream'?",
+        "answer": "Lux Aeterna"
     },
     {
         "question": "What musical instrument does Les Claypool from the band Primus play?",
@@ -22126,6 +22214,10 @@
         "answer": "Dubnobasswithmyheadman"
     },
     {
+        "question": "What was the name of Whitney Houston's debut album?",
+        "answer": "Whitney Houston"
+    },
+    {
         "question": "What was the name of one of the founders of jazz and a jazz orchestra?",
         "answer": "Duke Ellington"
     },
@@ -22146,8 +22238,16 @@
         "answer": "Chad Channing"
     },
     {
+        "question": "What was the name of the early music collection from Montpellier?",
+        "answer": "Montpellier Codex"
+    },
+    {
         "question": "What was the name of the early type of musical notation?",
         "answer": "Neume"
+    },
+    {
+        "question": "What was the name of the first country radio program?",
+        "answer": "Grand Ole Opry"
     },
     {
         "question": "What was the name of the founder of the French Accordionists' Party?",
@@ -22278,6 +22378,10 @@
         "answer": "Diana"
     },
     {
+        "question": "Which R.E.M. song was a hit in 1991?",
+        "answer": "Shiny Happy People"
+    },
+    {
         "question": "Which Steel Pulse album won a Grammy Award?",
         "answer": "Babylon The Bandit"
     },
@@ -22406,6 +22510,10 @@
         "answer": "Marco Mengoni"
     },
     {
+        "question": "Which award category has existed since the founding of the AMA?",
+        "answer": "Best Pop"
+    },
+    {
         "question": "Which band has a logo with the symbol of anarchy?",
         "answer": ""
     },
@@ -22442,6 +22550,10 @@
         "answer": "Old Crow Medicine Show"
     },
     {
+        "question": "Which band recorded the album 'Altars of Madness'?",
+        "answer": "Morbid Angel"
+    },
+    {
         "question": "Which band released 'Sound Affects'?",
         "answer": ""
     },
@@ -22470,12 +22582,20 @@
         "answer": "NOFX"
     },
     {
+        "question": "Which band started heavy metal?",
+        "answer": "Black Sabbath"
+    },
+    {
         "question": "Which band was founded by Jimmy Page?",
         "answer": "Led Zeppelin"
     },
     {
         "question": "Which band was the first to perform at the EMA in 2015?",
         "answer": "Twenty One Pilots"
+    },
+    {
+        "question": "Which brand of synthesizer was popular in the 1980s?",
+        "answer": "Roland"
     },
     {
         "question": "Which category has existed at the AMA since 1991?",
@@ -22490,6 +22610,10 @@
         "answer": "Electronic Music"
     },
     {
+        "question": "Which category was added to the BRIT Awards in 2016?",
+        "answer": "Best Producer"
+    },
+    {
         "question": "Which category was introduced at the AMAs in 2019?",
         "answer": "Best Social Artist"
     },
@@ -22502,8 +22626,16 @@
         "answer": "London"
     },
     {
+        "question": "Which city became the center of the soul music genre in the 1960s?",
+        "answer": "Memphis"
+    },
+    {
         "question": "Which city is considered the hometown of the band Sepultura?",
         "answer": "Belo Horizonte"
+    },
+    {
+        "question": "Which city is the birthplace of the music festival 'Tomorrowland'?",
+        "answer": "Boom"
     },
     {
         "question": "Which company produces the synthesizer Massive, often used in dubstep?",
@@ -22536,6 +22668,14 @@
     {
         "question": "Which composer wrote 'Paradise and the Peri'?",
         "answer": "Robert Schumann"
+    },
+    {
+        "question": "Which composer wrote the 'Jupiter' Symphony?",
+        "answer": "Mozart"
+    },
+    {
+        "question": "Which composer wrote the 'Symphonie Fantastique'?",
+        "answer": "Berlioz"
     },
     {
         "question": "Which composer wrote the 'Symphony of a Thousand'?",
@@ -22574,12 +22714,20 @@
         "answer": "2002"
     },
     {
+        "question": "Which famous DJ founded the label 'Ministry of Sound'?",
+        "answer": "DJ Tony Humphries"
+    },
+    {
         "question": "Which famous DJ started his career with Detroit techno?",
         "answer": "Carl Cox"
     },
     {
         "question": "Which famous album was recorded at the Village Vanguard?",
         "answer": "Sunday at the Village Vanguard"
+    },
+    {
+        "question": "Which famous artist creates house mixes?",
+        "answer": "Carl Cox"
     },
     {
         "question": "Which famous composer wrote pop hits for movies?",
@@ -22874,6 +23022,10 @@
         "answer": "Best Rap Performer"
     },
     {
+        "question": "Which music category was added in 2020 at the music awards?",
+        "answer": "Best Afrobeats Artist"
+    },
+    {
         "question": "Which music festival takes place in Lyon?",
         "answer": "Nuits Sonores"
     },
@@ -22990,6 +23142,10 @@
         "answer": "Harpsichord"
     },
     {
+        "question": "Which musical instrument consists of several large drums?",
+        "answer": "Timpani"
+    },
+    {
         "question": "Which musical instrument has pipes?",
         "answer": ""
     },
@@ -23044,6 +23200,10 @@
     {
         "question": "Which musician was awarded for their contribution to funk?",
         "answer": "Bootsy Collins"
+    },
+    {
+        "question": "Which of the composers had the last name Stravinsky?",
+        "answer": "Igor"
     },
     {
         "question": "Which of the following artists is part of a funk band?",
@@ -23194,6 +23354,10 @@
         "answer": "Saxophone"
     },
     {
+        "question": "Which song opens the album 'Dirt' by Alice in Chains?",
+        "answer": "Them Bones"
+    },
+    {
         "question": "Which song was chosen as the first Song of the Year?",
         "answer": "Nel Blu Dipinto Di Blu"
     },
@@ -23254,6 +23418,10 @@
         "answer": "Piedmont Blues"
     },
     {
+        "question": "Which subgenre of blues includes elements of psychedelia?",
+        "answer": "Psychedelic Blues"
+    },
+    {
         "question": "Which subgenre of blues is characterized by a slow and emotional style?",
         "answer": ""
     },
@@ -23290,12 +23458,20 @@
         "answer": "Trio"
     },
     {
+        "question": "Which work was composed by Guillaume Dufay?",
+        "answer": "Nuper rosarum flores"
+    },
+    {
         "question": "Which work was composed by Johann Sebastian Bach?",
         "answer": "Brandenburg Concertos"
     },
     {
         "question": "Who became popular thanks to the album 'Street Songs'?",
         "answer": "Rick James"
+    },
+    {
+        "question": "Who became the youngest Grammy winner?",
+        "answer": "Billie Eilish"
     },
     {
         "question": "Who composed 'Duke Bluebeard's Castle'?",
@@ -23318,6 +23494,10 @@
         "answer": "Mahler"
     },
     {
+        "question": "Who composed 'The Twilight of the Gods'?",
+        "answer": "Richard Wagner"
+    },
+    {
         "question": "Who composed Symphony No. 9?",
         "answer": "Anton Bruckner"
     },
@@ -23328,6 +23508,10 @@
     {
         "question": "Who composed the 'Gothic Suite'?",
         "answer": "Léon Boëllmann"
+    },
+    {
+        "question": "Who composed the 'Mass in B minor'?",
+        "answer": "Bach"
     },
     {
         "question": "Who composed the 'Spring' Sonata?",
@@ -23406,6 +23590,10 @@
         "answer": "Hans Zimmer"
     },
     {
+        "question": "Who composed the soundtrack for the movie 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+        "answer": "Klaus Badelt"
+    },
+    {
         "question": "Who composed the suite 'Georgy'?",
         "answer": "Sviridov"
     },
@@ -23436,6 +23624,10 @@
     {
         "question": "Who designed the award in 2017?",
         "answer": "Zaha Hadid"
+    },
+    {
+        "question": "Who developed the theory of music in the Middle Ages?",
+        "answer": "Guido of Arezzo"
     },
     {
         "question": "Who founded Critical Music?",
@@ -23546,6 +23738,10 @@
         "answer": "Michael Güns"
     },
     {
+        "question": "Who is the author of 'The Work Diary'?",
+        "answer": "Sergei Rachmaninoff"
+    },
+    {
         "question": "Who is the author of the work 'Alaric'?",
         "answer": "Johannes Brahms"
     },
@@ -23566,8 +23762,20 @@
         "answer": "Duke Ellington"
     },
     {
+        "question": "Who is the composer of 'Requiem'?",
+        "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
         "question": "Who is the composer of 'Scheherazade'?",
         "answer": "Rimsky-Korsakov"
+    },
+    {
+        "question": "Who is the composer of 'Water Music'?",
+        "answer": "George Frideric Handel"
+    },
+    {
+        "question": "Who is the composer of the movie 'Bad Boys'?",
+        "answer": "Trevor Rabin"
     },
     {
         "question": "Who is the composer of the opera 'Alceste'?",
@@ -23598,6 +23806,10 @@
         "answer": "Robbie Williams"
     },
     {
+        "question": "Who is the organizer of Revolution Radio?",
+        "answer": "Green Day"
+    },
+    {
         "question": "Who is the person with the most Grammy nominations in a single year?",
         "answer": "Quincy Jones"
     },
@@ -23616,6 +23828,10 @@
     {
         "question": "Who most frequently wins awards in the Best Hip-Hop Artist category?",
         "answer": "Eminem"
+    },
+    {
+        "question": "Who most often wins awards in the 'Best New Artist' category?",
+        "answer": "Singer"
     },
     {
         "question": "Who performed 'Bittersweet Symphony'?",
@@ -23652,6 +23868,10 @@
     {
         "question": "Who performed the song 'Moon River'?",
         "answer": "Audrey Hepburn"
+    },
+    {
+        "question": "Who performed the song 'She Blinded Me with Science'?",
+        "answer": "Thomas Dolby"
     },
     {
         "question": "Who performed the song 'Stay (I Missed You)'?",
@@ -23704,6 +23924,10 @@
     {
         "question": "Who released the album 'Grace' in 1994?",
         "answer": "Jeff Buckley"
+    },
+    {
+        "question": "Who released the album 'Morning Phase' in 2014?",
+        "answer": "Beck"
     },
     {
         "question": "Who released the album 'Parallel Lines'?",
@@ -23792,6 +24016,10 @@
     {
         "question": "Who was the first known singer in the soul genre?",
         "answer": "Ray Charles"
+    },
+    {
+        "question": "Who was the first to receive the BRIT Award for Best International Artist?",
+        "answer": "Michael Jackson"
     },
     {
         "question": "Who was the first to receive the BRIT Award for British Album of the Year?",
@@ -23894,6 +24122,10 @@
         "answer": "Taylor Swift"
     },
     {
+        "question": "Who won the 'Best Spanish-Language Artist' award?",
+        "answer": "Bad Bunny"
+    },
+    {
         "question": "Who won the BRIT Award for Best International Album in 1991?",
         "answer": "Simon & Garfunkel"
     },
@@ -23930,6 +24162,10 @@
         "answer": ""
     },
     {
+        "question": "Who won the Grammy for Best Rock Album in 1992?",
+        "answer": "U2"
+    },
+    {
         "question": "Who won the award for Best Rock Album in 2007?",
         "answer": "30 Seconds to Mars"
     },
@@ -23964,6 +24200,10 @@
     {
         "question": "Who wrote 'The Triumphal Symphony'?",
         "answer": "Richard Wagner"
+    },
+    {
+        "question": "Who wrote 'War and Peace'?",
+        "answer": "Leo Tolstoy"
     },
     {
         "question": "Who wrote the song 'We Belong Together'?",
@@ -24308,6 +24548,10 @@
     {
         "question": "Which type of pea is an annual plant?",
         "answer": "Edible"
+    },
+    {
+        "question": "Albedo is...",
+        "answer": "Reflection of light"
     },
     {
         "question": "Do stereoisomers have different spatial arrangements of atoms?",
@@ -24672,6 +24916,10 @@
         "answer": "Adiabatic process"
     },
     {
+        "question": "What causes the change of seasons?",
+        "answer": "The tilt of Earth's axis"
+    },
+    {
         "question": "What cells are used in gene therapy?",
         "answer": "Somatic cells"
     },
@@ -24760,6 +25008,10 @@
         "answer": "Antibiotic rifampicin"
     },
     {
+        "question": "What discovery did Hans Krebs make?",
+        "answer": "Krebs cycle"
+    },
+    {
         "question": "What do all viruses have?",
         "answer": "Genome"
     },
@@ -24828,6 +25080,10 @@
         "answer": "Cells"
     },
     {
+        "question": "What does dendrology study?",
+        "answer": "Trees"
+    },
+    {
         "question": "What does endocrinology study?",
         "answer": "Glands of internal secretion"
     },
@@ -24838,6 +25094,10 @@
     {
         "question": "What does geomorphology study?",
         "answer": "Landforms"
+    },
+    {
+        "question": "What does geophysics study?",
+        "answer": "Properties of the Earth"
     },
     {
         "question": "What does gerontology study?",
@@ -24930,6 +25190,10 @@
     {
         "question": "What does the wave function describe in quantum mechanics?",
         "answer": "Probability of finding"
+    },
+    {
+        "question": "What effect is studied in nanophotonics?",
+        "answer": "Plasmonic resonance"
     },
     {
         "question": "What element is the primary source of energy in stars?",
@@ -25240,6 +25504,10 @@
         "answer": "A small quantity"
     },
     {
+        "question": "What is formed by the interaction of radio waves?",
+        "answer": "Synchrotron radiation"
+    },
+    {
         "question": "What is formed during a combustion reaction?",
         "answer": "Oxides"
     },
@@ -25252,6 +25520,10 @@
         "answer": "Acetic acid"
     },
     {
+        "question": "What is formed when an acid and a base neutralize each other?",
+        "answer": "salt and water"
+    },
+    {
         "question": "What is fossilized wood called?",
         "answer": "Petrified wood"
     },
@@ -25262,6 +25534,10 @@
     {
         "question": "What is gene therapy?",
         "answer": "Genome editing for treatment"
+    },
+    {
+        "question": "What is genetic recombination?",
+        "answer": "Exchange of genetic material"
     },
     {
         "question": "What is hyperkalemia?",
@@ -25356,6 +25632,10 @@
         "answer": "Combination of states"
     },
     {
+        "question": "What is the Planck length?",
+        "answer": "minimum length"
+    },
+    {
         "question": "What is the accumulation of toxins in the food chain called?",
         "answer": "Biomagnification"
     },
@@ -25420,6 +25700,10 @@
         "answer": "-sin(x)"
     },
     {
+        "question": "What is the device called for analyzing chemical composition?",
+        "answer": "Analyzer"
+    },
+    {
         "question": "What is the device called for analyzing the quantum properties of light?",
         "answer": "Photon counter"
     },
@@ -25466,6 +25750,10 @@
     {
         "question": "What is the essence of critical rationalism?",
         "answer": "Testing theories"
+    },
+    {
+        "question": "What is the estimated number of stars in the Milky Way?",
+        "answer": "100 billion"
     },
     {
         "question": "What is the examination of the stomach using a camera called?",
@@ -25700,6 +25988,10 @@
         "answer": "Red dwarfs"
     },
     {
+        "question": "What is the name of the contact zone between two tectonic plates?",
+        "answer": "Fault"
+    },
+    {
         "question": "What is the name of the exoplanet similar to Earth?",
         "answer": "Kepler-452b"
     },
@@ -25736,6 +26028,10 @@
         "answer": "Buran"
     },
     {
+        "question": "What is the name of the law that describes the movement of fluids?",
+        "answer": "Pascal's Law"
+    },
+    {
         "question": "What is the name of the malignant blood disease?",
         "answer": "Leukemia"
     },
@@ -25760,6 +26056,10 @@
         "answer": "Archean"
     },
     {
+        "question": "What is the name of the reaction in which a C-H bond is broken?",
+        "answer": "Oxidation"
+    },
+    {
         "question": "What is the name of the stone formation that has preserved ancient water?",
         "answer": "Stromatolite"
     },
@@ -25778,6 +26078,10 @@
     {
         "question": "What is the name of the underground location where an earthquake begins?",
         "answer": "Hypocenter"
+    },
+    {
+        "question": "What is the name of the virus that causes COVID-19?",
+        "answer": "SARS-CoV-2"
     },
     {
         "question": "What is the name of the zone between the tropics characterized by weak winds?",
@@ -25837,6 +26141,10 @@
     {
         "question": "What is the procedure called for removing part of an organ?",
         "answer": "Resection"
+    },
+    {
+        "question": "What is the process called where particles follow a curved trajectory in a magnetic field?",
+        "answer": "Cyclotron"
     },
     {
         "question": "What is the process of breaking down a rock called?",
@@ -25973,6 +26281,10 @@
     {
         "question": "What is the smallest species of primates?",
         "answer": "Mouse lemur"
+    },
+    {
+        "question": "What is the speed of light in water?",
+        "answer": "Less than c"
     },
     {
         "question": "What is the spontaneous evaporation of particles from a black hole called?",
@@ -26206,6 +26518,10 @@
         "answer": "Quantum entanglement"
     },
     {
+        "question": "What phenomenon does the law of entropy describe?",
+        "answer": "Increase in disorder"
+    },
+    {
         "question": "What phenomenon explains the gravitational effect on light?",
         "answer": "Gravitational lensing"
     },
@@ -26288,6 +26604,10 @@
     {
         "question": "What process strengthens synaptic connections?",
         "answer": "Long-term potentiation"
+    },
+    {
+        "question": "What product is formed by the oxidation of primary alcohols?",
+        "answer": "Aldehyde"
     },
     {
         "question": "What products are formed during the complete combustion of hydrocarbons?",
@@ -26406,6 +26726,10 @@
         "answer": "Hydrofluoric acid"
     },
     {
+        "question": "What substance was first synthesized by Friedrich Wöhler?",
+        "answer": "Urea"
+    },
+    {
         "question": "What substances are derived from petroleum?",
         "answer": "Hydrocarbons"
     },
@@ -26440,6 +26764,10 @@
     {
         "question": "What temperature is required for sterilization in an autoclave?",
         "answer": "121 °C"
+    },
+    {
+        "question": "What term refers to a strong wind in a narrow corridor?",
+        "answer": "Squall"
     },
     {
         "question": "What term refers to the increase in air humidity?",
@@ -26536,6 +26864,10 @@
     {
         "question": "What was the name of the first humanoid robot introduced to humanity?",
         "answer": "ASIMO"
+    },
+    {
+        "question": "What was the name of the first satellite for climate research?",
+        "answer": "TIROS-1"
     },
     {
         "question": "What waters cause monsoons?",
@@ -26920,6 +27252,10 @@
         "answer": "Analytical"
     },
     {
+        "question": "Which method is most commonly used in the humanities?",
+        "answer": "Qualitative analysis"
+    },
+    {
         "question": "Which method is used to search for a substring in a string?",
         "answer": "KMP"
     },
@@ -27200,8 +27536,16 @@
         "answer": "Epistemology"
     },
     {
+        "question": "Which science studies the movement of liquids and gases?",
+        "answer": "Fluid dynamics"
+    },
+    {
         "question": "Which science studies the physical methods of measuring time?",
         "answer": "Chronometry"
+    },
+    {
+        "question": "Which scientific assessment is considered subjective?",
+        "answer": "Qualitative"
     },
     {
         "question": "Which scientist discovered continental drift?",
@@ -27453,6 +27797,10 @@
     {
         "question": "Who is considered the founder of zoology?",
         "answer": "Aristotle"
+    },
+    {
+        "question": "Who is the author of the book 'There's Plenty of Room at the Bottom', which influenced the development of nanotechnology?",
+        "answer": "Richard Feynman"
     },
     {
         "question": "Who performs heart surgeries?",
@@ -29295,6 +29643,10 @@
         "answer": "For acceleration"
     },
     {
+        "question": "How does altitude affect tennis play?",
+        "answer": "Decreases air density"
+    },
+    {
         "question": "How does game strategy change depending on the lighting in the hall?",
         "answer": "Adjustment of serve angle"
     },
@@ -29329,6 +29681,14 @@
     {
         "question": "How many athletes participated in the 2012 Paralympics?",
         "answer": "4237"
+    },
+    {
+        "question": "How many games are in a set in tennis?",
+        "answer": "6 games"
+    },
+    {
+        "question": "How many quarters are there in a PFL match?",
+        "answer": "Four"
     },
     {
         "question": "In which aspect of a biathlete's preparation are weather changes most significant?",
@@ -29403,8 +29763,20 @@
         "answer": "Stabilizes"
     },
     {
+        "question": "What effect does training frequency have on the adaptation of the nervous system in weightlifting?",
+        "answer": "Speeds up adaptation"
+    },
+    {
         "question": "What effect does water temperature have on swimming resistance?",
         "answer": "Increase in resistance"
+    },
+    {
+        "question": "What element is considered the most difficult in pair skating?",
+        "answer": "Triple twist lift"
+    },
+    {
+        "question": "What element of preparation is especially important for a biathlete in changing wind conditions?",
+        "answer": "Mental resilience"
     },
     {
         "question": "What element of strategy is important for a successful counterattack in table tennis?",
@@ -29413,6 +29785,10 @@
     {
         "question": "What element of training helps a horse develop flexibility?",
         "answer": "Gymnastics"
+    },
+    {
+        "question": "What equipment is critically important for a rider's safety?",
+        "answer": "Helmet"
     },
     {
         "question": "What equipment is critically important for survival when diving in cold waters?",
@@ -29487,6 +29863,10 @@
         "answer": "Jumping"
     },
     {
+        "question": "What is critical for safety during extreme diving?",
+        "answer": "Equipment"
+    },
+    {
         "question": "What is the area of a table tennis table?",
         "answer": "9 m²"
     },
@@ -29543,12 +29923,20 @@
         "answer": "Topspin"
     },
     {
+        "question": "What is the name of the windsurfing element that helps maintain balance?",
+        "answer": "Fin"
+    },
+    {
         "question": "What is the race also known as the 'Lombardy Classic'?",
         "answer": "Giro di Lombardia"
     },
     {
         "question": "What is the role of centrifugal force in surfing?",
         "answer": "Maintains balance"
+    },
+    {
+        "question": "What is the role of psychology in preparing a tennis player?",
+        "answer": "Focus on the game"
     },
     {
         "question": "What is the role of the 'scrum-half' in organizing the game?",
@@ -29565,6 +29953,10 @@
     {
         "question": "What is the technique called where athletes ski using a sail for movement?",
         "answer": "Skijoring"
+    },
+    {
+        "question": "What is the technique of controlling a horse without a bridle called?",
+        "answer": "Bitless"
     },
     {
         "question": "What is the theory called that explains positional advantages through control over colored squares?",
@@ -29747,6 +30139,14 @@
         "answer": "Plyometric exercises"
     },
     {
+        "question": "What unique eligibility requirement is imposed on Paralympians in goalball competitions?",
+        "answer": "Vision impairment"
+    },
+    {
+        "question": "What year was the Chelsea Football Club founded?",
+        "answer": "1905"
+    },
+    {
         "question": "When did the Olympic Games first appear?",
         "answer": "776 BC"
     },
@@ -29831,6 +30231,10 @@
         "answer": "Tokyo"
     },
     {
+        "question": "Which component of a bicycle is the main factor in reducing its weight?",
+        "answer": "Frame"
+    },
+    {
         "question": "Which country has been hosting the Dakar Rally since 2009?",
         "answer": "Argentina"
     },
@@ -29843,12 +30247,20 @@
         "answer": "Sweden"
     },
     {
+        "question": "Which cyclist is known for his ability to win both sprint and mountain stages?",
+        "answer": "Peter Sagan"
+    },
+    {
         "question": "Which cyclist was disqualified from the Tour de France for team sabotage?",
         "answer": "Luis Ocaña"
     },
     {
         "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
         "answer": "Adam Hansen"
+    },
+    {
+        "question": "Which cyclist was the first to win Liège-Bastogne-Liège after crashing during the race?",
+        "answer": "Michele Bartoli"
     },
     {
         "question": "Which cyclist was the first to win Liège-Bastogne-Liège three times in a row?",
@@ -29899,24 +30311,48 @@
         "answer": "Quadruple toe loop"
     },
     {
+        "question": "Which element in a sports game requires precise timing?",
+        "answer": "Pass"
+    },
+    {
         "question": "Which element of an equestrian competition includes a water jump?",
         "answer": "Water jump"
+    },
+    {
+        "question": "Which element of rugby requires precise timing and coordination?",
+        "answer": "Scrum"
     },
     {
         "question": "Which equestrian sport element involves performing high-speed maneuvers and jumps?",
         "answer": "Steeplechase"
     },
     {
+        "question": "Which exercise helps improve speed in the snatch?",
+        "answer": "calf raises"
+    },
+    {
         "question": "Which extreme sport involves using a board to descend a volcano?",
         "answer": "Volcano boarding"
+    },
+    {
+        "question": "Which factor most strongly influences target selection in low visibility conditions?",
+        "answer": "Contrast"
     },
     {
         "question": "Which female tennis player was the first to win 23 Grand Slam singles titles?",
         "answer": "Serena Williams"
     },
     {
+        "question": "Which figure in figure skating is a criterion of high skill?",
+        "answer": "Quadruple jump"
+    },
+    {
         "question": "Which figure skating element is performed with an initial backward movement from the edge?",
         "answer": "Lutz"
+    },
+    {
+        "question": "Which genetic factor can enhance the aerobic capacity of swimmers?",
+        "answer": "ACTN3 gene"
     },
     {
         "question": "Which high jump technique revolutionized modern athletics?",
@@ -29929,6 +30365,10 @@
     {
         "question": "Which jumping technique involves the use of minimal cues?",
         "answer": "Freestyle"
+    },
+    {
+        "question": "Which karate style uses hard strikes?",
+        "answer": "Kyokushin"
     },
     {
         "question": "Which martial art teaches the principle of maximum efficiency with minimal effort?",
@@ -30007,12 +30447,20 @@
         "answer": "Sustained possession"
     },
     {
+        "question": "Which team has won the Tour de France the most times?",
+        "answer": "Team Ineos"
+    },
+    {
         "question": "Which technique allows players to better control long shots?",
         "answer": "Topspin"
     },
     {
         "question": "Which technique provides maximum efficiency in the snatch?",
         "answer": "Squat under"
+    },
+    {
+        "question": "Which tennis player finished the season with the highest winning percentage in Grand Slam tournaments?",
+        "answer": "Roger Federer"
     },
     {
         "question": "Which tennis player was the first to win Olympic gold in singles twice?",
@@ -30059,6 +30507,10 @@
         "answer": "Jules Rimet"
     },
     {
+        "question": "Who is the top scorer in World Cup history?",
+        "answer": "Miroslav Klose"
+    },
+    {
         "question": "Who is the youngest marathon winner in history?",
         "answer": "Ludolf Lechne"
     },
@@ -30081,6 +30533,10 @@
     {
         "question": "Who was the first to jump over 9 meters in the long jump?",
         "answer": "Mike Powell"
+    },
+    {
+        "question": "Who was the first to jump over eight meters in the long jump?",
+        "answer": "Jesse Owens"
     },
     {
         "question": "Who was the first to perform four quadruple jumps in one free skate program?",

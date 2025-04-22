@@ -1,5 +1,9 @@
 [
   {
+    "question": "Albedo is...",
+    "answer": "Reflection of light"
+  },
+  {
     "question": "Do stereoisomers have different spatial arrangements of atoms?",
     "answer": "Different spatial arrangement of atoms"
   },
@@ -362,6 +366,10 @@
     "answer": "Adiabatic process"
   },
   {
+    "question": "What causes the change of seasons?",
+    "answer": "The tilt of Earth's axis"
+  },
+  {
     "question": "What cells are used in gene therapy?",
     "answer": "Somatic cells"
   },
@@ -450,6 +458,10 @@
     "answer": "Antibiotic rifampicin"
   },
   {
+    "question": "What discovery did Hans Krebs make?",
+    "answer": "Krebs cycle"
+  },
+  {
     "question": "What do all viruses have?",
     "answer": "Genome"
   },
@@ -518,6 +530,10 @@
     "answer": "Cells"
   },
   {
+    "question": "What does dendrology study?",
+    "answer": "Trees"
+  },
+  {
     "question": "What does endocrinology study?",
     "answer": "Glands of internal secretion"
   },
@@ -528,6 +544,10 @@
   {
     "question": "What does geomorphology study?",
     "answer": "Landforms"
+  },
+  {
+    "question": "What does geophysics study?",
+    "answer": "Properties of the Earth"
   },
   {
     "question": "What does gerontology study?",
@@ -620,6 +640,10 @@
   {
     "question": "What does the wave function describe in quantum mechanics?",
     "answer": "Probability of finding"
+  },
+  {
+    "question": "What effect is studied in nanophotonics?",
+    "answer": "Plasmonic resonance"
   },
   {
     "question": "What element is the primary source of energy in stars?",
@@ -930,6 +954,10 @@
     "answer": "A small quantity"
   },
   {
+    "question": "What is formed by the interaction of radio waves?",
+    "answer": "Synchrotron radiation"
+  },
+  {
     "question": "What is formed during a combustion reaction?",
     "answer": "Oxides"
   },
@@ -942,6 +970,10 @@
     "answer": "Acetic acid"
   },
   {
+    "question": "What is formed when an acid and a base neutralize each other?",
+    "answer": "salt and water"
+  },
+  {
     "question": "What is fossilized wood called?",
     "answer": "Petrified wood"
   },
@@ -952,6 +984,10 @@
   {
     "question": "What is gene therapy?",
     "answer": "Genome editing for treatment"
+  },
+  {
+    "question": "What is genetic recombination?",
+    "answer": "Exchange of genetic material"
   },
   {
     "question": "What is hyperkalemia?",
@@ -1046,6 +1082,10 @@
     "answer": "Combination of states"
   },
   {
+    "question": "What is the Planck length?",
+    "answer": "minimum length"
+  },
+  {
     "question": "What is the accumulation of toxins in the food chain called?",
     "answer": "Biomagnification"
   },
@@ -1110,6 +1150,10 @@
     "answer": "-sin(x)"
   },
   {
+    "question": "What is the device called for analyzing chemical composition?",
+    "answer": "Analyzer"
+  },
+  {
     "question": "What is the device called for analyzing the quantum properties of light?",
     "answer": "Photon counter"
   },
@@ -1156,6 +1200,10 @@
   {
     "question": "What is the essence of critical rationalism?",
     "answer": "Testing theories"
+  },
+  {
+    "question": "What is the estimated number of stars in the Milky Way?",
+    "answer": "100 billion"
   },
   {
     "question": "What is the examination of the stomach using a camera called?",
@@ -1390,6 +1438,10 @@
     "answer": "Red dwarfs"
   },
   {
+    "question": "What is the name of the contact zone between two tectonic plates?",
+    "answer": "Fault"
+  },
+  {
     "question": "What is the name of the exoplanet similar to Earth?",
     "answer": "Kepler-452b"
   },
@@ -1426,6 +1478,10 @@
     "answer": "Buran"
   },
   {
+    "question": "What is the name of the law that describes the movement of fluids?",
+    "answer": "Pascal's Law"
+  },
+  {
     "question": "What is the name of the malignant blood disease?",
     "answer": "Leukemia"
   },
@@ -1450,6 +1506,10 @@
     "answer": "Archean"
   },
   {
+    "question": "What is the name of the reaction in which a C-H bond is broken?",
+    "answer": "Oxidation"
+  },
+  {
     "question": "What is the name of the stone formation that has preserved ancient water?",
     "answer": "Stromatolite"
   },
@@ -1468,6 +1528,10 @@
   {
     "question": "What is the name of the underground location where an earthquake begins?",
     "answer": "Hypocenter"
+  },
+  {
+    "question": "What is the name of the virus that causes COVID-19?",
+    "answer": "SARS-CoV-2"
   },
   {
     "question": "What is the name of the zone between the tropics characterized by weak winds?",
@@ -1527,6 +1591,10 @@
   {
     "question": "What is the procedure called for removing part of an organ?",
     "answer": "Resection"
+  },
+  {
+    "question": "What is the process called where particles follow a curved trajectory in a magnetic field?",
+    "answer": "Cyclotron"
   },
   {
     "question": "What is the process of breaking down a rock called?",
@@ -1663,6 +1731,10 @@
   {
     "question": "What is the smallest species of primates?",
     "answer": "Mouse lemur"
+  },
+  {
+    "question": "What is the speed of light in water?",
+    "answer": "Less than c"
   },
   {
     "question": "What is the spontaneous evaporation of particles from a black hole called?",
@@ -1896,6 +1968,10 @@
     "answer": "Quantum entanglement"
   },
   {
+    "question": "What phenomenon does the law of entropy describe?",
+    "answer": "Increase in disorder"
+  },
+  {
     "question": "What phenomenon explains the gravitational effect on light?",
     "answer": "Gravitational lensing"
   },
@@ -1978,6 +2054,10 @@
   {
     "question": "What process strengthens synaptic connections?",
     "answer": "Long-term potentiation"
+  },
+  {
+    "question": "What product is formed by the oxidation of primary alcohols?",
+    "answer": "Aldehyde"
   },
   {
     "question": "What products are formed during the complete combustion of hydrocarbons?",
@@ -2096,6 +2176,10 @@
     "answer": "Hydrofluoric acid"
   },
   {
+    "question": "What substance was first synthesized by Friedrich Wöhler?",
+    "answer": "Urea"
+  },
+  {
     "question": "What substances are derived from petroleum?",
     "answer": "Hydrocarbons"
   },
@@ -2130,6 +2214,10 @@
   {
     "question": "What temperature is required for sterilization in an autoclave?",
     "answer": "121 °C"
+  },
+  {
+    "question": "What term refers to a strong wind in a narrow corridor?",
+    "answer": "Squall"
   },
   {
     "question": "What term refers to the increase in air humidity?",
@@ -2226,6 +2314,10 @@
   {
     "question": "What was the name of the first humanoid robot introduced to humanity?",
     "answer": "ASIMO"
+  },
+  {
+    "question": "What was the name of the first satellite for climate research?",
+    "answer": "TIROS-1"
   },
   {
     "question": "What waters cause monsoons?",
@@ -2610,6 +2702,10 @@
     "answer": "Analytical"
   },
   {
+    "question": "Which method is most commonly used in the humanities?",
+    "answer": "Qualitative analysis"
+  },
+  {
     "question": "Which method is used to search for a substring in a string?",
     "answer": "KMP"
   },
@@ -2890,8 +2986,16 @@
     "answer": "Epistemology"
   },
   {
+    "question": "Which science studies the movement of liquids and gases?",
+    "answer": "Fluid dynamics"
+  },
+  {
     "question": "Which science studies the physical methods of measuring time?",
     "answer": "Chronometry"
+  },
+  {
+    "question": "Which scientific assessment is considered subjective?",
+    "answer": "Qualitative"
   },
   {
     "question": "Which scientist discovered continental drift?",
@@ -3143,6 +3247,10 @@
   {
     "question": "Who is considered the founder of zoology?",
     "answer": "Aristotle"
+  },
+  {
+    "question": "Who is the author of the book 'There's Plenty of Room at the Bottom', which influenced the development of nanotechnology?",
+    "answer": "Richard Feynman"
   },
   {
     "question": "Who performs heart surgeries?",

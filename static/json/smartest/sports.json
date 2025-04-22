@@ -16,6 +16,10 @@
     "answer": "For acceleration"
   },
   {
+    "question": "How does altitude affect tennis play?",
+    "answer": "Decreases air density"
+  },
+  {
     "question": "How does game strategy change depending on the lighting in the hall?",
     "answer": "Adjustment of serve angle"
   },
@@ -50,6 +54,14 @@
   {
     "question": "How many athletes participated in the 2012 Paralympics?",
     "answer": "4237"
+  },
+  {
+    "question": "How many games are in a set in tennis?",
+    "answer": "6 games"
+  },
+  {
+    "question": "How many quarters are there in a PFL match?",
+    "answer": "Four"
   },
   {
     "question": "In which aspect of a biathlete's preparation are weather changes most significant?",
@@ -124,8 +136,20 @@
     "answer": "Stabilizes"
   },
   {
+    "question": "What effect does training frequency have on the adaptation of the nervous system in weightlifting?",
+    "answer": "Speeds up adaptation"
+  },
+  {
     "question": "What effect does water temperature have on swimming resistance?",
     "answer": "Increase in resistance"
+  },
+  {
+    "question": "What element is considered the most difficult in pair skating?",
+    "answer": "Triple twist lift"
+  },
+  {
+    "question": "What element of preparation is especially important for a biathlete in changing wind conditions?",
+    "answer": "Mental resilience"
   },
   {
     "question": "What element of strategy is important for a successful counterattack in table tennis?",
@@ -134,6 +158,10 @@
   {
     "question": "What element of training helps a horse develop flexibility?",
     "answer": "Gymnastics"
+  },
+  {
+    "question": "What equipment is critically important for a rider's safety?",
+    "answer": "Helmet"
   },
   {
     "question": "What equipment is critically important for survival when diving in cold waters?",
@@ -208,6 +236,10 @@
     "answer": "Jumping"
   },
   {
+    "question": "What is critical for safety during extreme diving?",
+    "answer": "Equipment"
+  },
+  {
     "question": "What is the area of a table tennis table?",
     "answer": "9 m²"
   },
@@ -264,12 +296,20 @@
     "answer": "Topspin"
   },
   {
+    "question": "What is the name of the windsurfing element that helps maintain balance?",
+    "answer": "Fin"
+  },
+  {
     "question": "What is the race also known as the 'Lombardy Classic'?",
     "answer": "Giro di Lombardia"
   },
   {
     "question": "What is the role of centrifugal force in surfing?",
     "answer": "Maintains balance"
+  },
+  {
+    "question": "What is the role of psychology in preparing a tennis player?",
+    "answer": "Focus on the game"
   },
   {
     "question": "What is the role of the 'scrum-half' in organizing the game?",
@@ -286,6 +326,10 @@
   {
     "question": "What is the technique called where athletes ski using a sail for movement?",
     "answer": "Skijoring"
+  },
+  {
+    "question": "What is the technique of controlling a horse without a bridle called?",
+    "answer": "Bitless"
   },
   {
     "question": "What is the theory called that explains positional advantages through control over colored squares?",
@@ -468,6 +512,14 @@
     "answer": "Plyometric exercises"
   },
   {
+    "question": "What unique eligibility requirement is imposed on Paralympians in goalball competitions?",
+    "answer": "Vision impairment"
+  },
+  {
+    "question": "What year was the Chelsea Football Club founded?",
+    "answer": "1905"
+  },
+  {
     "question": "When did the Olympic Games first appear?",
     "answer": "776 BC"
   },
@@ -552,6 +604,10 @@
     "answer": "Tokyo"
   },
   {
+    "question": "Which component of a bicycle is the main factor in reducing its weight?",
+    "answer": "Frame"
+  },
+  {
     "question": "Which country has been hosting the Dakar Rally since 2009?",
     "answer": "Argentina"
   },
@@ -564,12 +620,20 @@
     "answer": "Sweden"
   },
   {
+    "question": "Which cyclist is known for his ability to win both sprint and mountain stages?",
+    "answer": "Peter Sagan"
+  },
+  {
     "question": "Which cyclist was disqualified from the Tour de France for team sabotage?",
     "answer": "Luis Ocaña"
   },
   {
     "question": "Which cyclist was the first to participate in 20 Grand Tours in a row without dropping out?",
     "answer": "Adam Hansen"
+  },
+  {
+    "question": "Which cyclist was the first to win Liège-Bastogne-Liège after crashing during the race?",
+    "answer": "Michele Bartoli"
   },
   {
     "question": "Which cyclist was the first to win Liège-Bastogne-Liège three times in a row?",
@@ -620,24 +684,48 @@
     "answer": "Quadruple toe loop"
   },
   {
+    "question": "Which element in a sports game requires precise timing?",
+    "answer": "Pass"
+  },
+  {
     "question": "Which element of an equestrian competition includes a water jump?",
     "answer": "Water jump"
+  },
+  {
+    "question": "Which element of rugby requires precise timing and coordination?",
+    "answer": "Scrum"
   },
   {
     "question": "Which equestrian sport element involves performing high-speed maneuvers and jumps?",
     "answer": "Steeplechase"
   },
   {
+    "question": "Which exercise helps improve speed in the snatch?",
+    "answer": "calf raises"
+  },
+  {
     "question": "Which extreme sport involves using a board to descend a volcano?",
     "answer": "Volcano boarding"
+  },
+  {
+    "question": "Which factor most strongly influences target selection in low visibility conditions?",
+    "answer": "Contrast"
   },
   {
     "question": "Which female tennis player was the first to win 23 Grand Slam singles titles?",
     "answer": "Serena Williams"
   },
   {
+    "question": "Which figure in figure skating is a criterion of high skill?",
+    "answer": "Quadruple jump"
+  },
+  {
     "question": "Which figure skating element is performed with an initial backward movement from the edge?",
     "answer": "Lutz"
+  },
+  {
+    "question": "Which genetic factor can enhance the aerobic capacity of swimmers?",
+    "answer": "ACTN3 gene"
   },
   {
     "question": "Which high jump technique revolutionized modern athletics?",
@@ -650,6 +738,10 @@
   {
     "question": "Which jumping technique involves the use of minimal cues?",
     "answer": "Freestyle"
+  },
+  {
+    "question": "Which karate style uses hard strikes?",
+    "answer": "Kyokushin"
   },
   {
     "question": "Which martial art teaches the principle of maximum efficiency with minimal effort?",
@@ -728,12 +820,20 @@
     "answer": "Sustained possession"
   },
   {
+    "question": "Which team has won the Tour de France the most times?",
+    "answer": "Team Ineos"
+  },
+  {
     "question": "Which technique allows players to better control long shots?",
     "answer": "Topspin"
   },
   {
     "question": "Which technique provides maximum efficiency in the snatch?",
     "answer": "Squat under"
+  },
+  {
+    "question": "Which tennis player finished the season with the highest winning percentage in Grand Slam tournaments?",
+    "answer": "Roger Federer"
   },
   {
     "question": "Which tennis player was the first to win Olympic gold in singles twice?",
@@ -780,6 +880,10 @@
     "answer": "Jules Rimet"
   },
   {
+    "question": "Who is the top scorer in World Cup history?",
+    "answer": "Miroslav Klose"
+  },
+  {
     "question": "Who is the youngest marathon winner in history?",
     "answer": "Ludolf Lechne"
   },
@@ -802,6 +906,10 @@
   {
     "question": "Who was the first to jump over 9 meters in the long jump?",
     "answer": "Mike Powell"
+  },
+  {
+    "question": "Who was the first to jump over eight meters in the long jump?",
+    "answer": "Jesse Owens"
   },
   {
     "question": "Who was the first to perform four quadruple jumps in one free skate program?",
