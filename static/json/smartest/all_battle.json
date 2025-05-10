@@ -10436,6 +10436,10 @@
         "answer": "Fight against free radicals"
     },
     {
+        "question": "How do weight-bearing exercises reduce the risk of osteoporosis?",
+        "answer": "Weight-bearing exercises"
+    },
+    {
         "question": "How does HIIT training affect metabolism?",
         "answer": "Increases metabolism"
     },
@@ -10548,6 +10552,10 @@
         "answer": "Increased risk of diseases"
     },
     {
+        "question": "What are the main signaling molecules of the immune system?",
+        "answer": "Cytokines"
+    },
+    {
         "question": "What are the molecules called that initiate the inflammatory response?",
         "answer": "Cytokines"
     },
@@ -10594,6 +10602,10 @@
     {
         "question": "What can random mutations lead to?",
         "answer": "Genetic diseases"
+    },
+    {
+        "question": "What causes atrial fibrillation?",
+        "answer": "Electrolyte imbalances"
     },
     {
         "question": "What causes autoimmune diseases?",
@@ -10664,6 +10676,10 @@
         "answer": "Excess mucus"
     },
     {
+        "question": "What changes on an ECG may indicate myocardial ischemia?",
+        "answer": "ST depression"
+    },
+    {
         "question": "What characterizes the phenomenon of paradoxical sleep?",
         "answer": "Dreams"
     },
@@ -10714,6 +10730,10 @@
     {
         "question": "What does the diagnosis of endogenous moments include?",
         "answer": "Psychodiagnostics"
+    },
+    {
+        "question": "What effect do omega-3 fatty acids have on inflammatory processes?",
+        "answer": "Anti-inflammatory"
     },
     {
         "question": "What effect does alcohol have on sleep phases?",
@@ -10784,6 +10804,10 @@
         "answer": "Increase bone mass"
     },
     {
+        "question": "What environmental factors contribute to the development of chronic lung diseases?",
+        "answer": "Air pollution"
+    },
+    {
         "question": "What factor is important for the maturation of T-lymphocytes in the thymus?",
         "answer": "AIRE"
     },
@@ -10846,6 +10870,10 @@
     {
         "question": "What functions does slow-wave sleep have?",
         "answer": "energy restoration"
+    },
+    {
+        "question": "What functions does the ventrolateral preoptic nucleus perform?",
+        "answer": "Regulation of sleep"
     },
     {
         "question": "What gas mixture is used to treat hypoxia?",
@@ -11004,6 +11032,10 @@
         "answer": "histamine"
     },
     {
+        "question": "What is the name of the protein important for joints, besides collagen?",
+        "answer": "Elastin"
+    },
+    {
         "question": "What is the name of the protein that regulates bone mineral density?",
         "answer": "Osteocalcin"
     },
@@ -11060,6 +11092,10 @@
         "answer": "Gluconeogenesis"
     },
     {
+        "question": "What is the process of projecting internal conflicts onto external objects called?",
+        "answer": "Projection"
+    },
+    {
         "question": "What is the relationship between deep sleep and nervous system recovery?",
         "answer": "Necessary"
     },
@@ -11092,6 +11128,10 @@
         "answer": "High significance"
     },
     {
+        "question": "What is the role of osteoclasts in the skeletal system?",
+        "answer": "Resorption"
+    },
+    {
         "question": "What is the role of short-chain fatty acids in the gut?",
         "answer": "Prevention of inflammation"
     },
@@ -11110,6 +11150,10 @@
     {
         "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
         "answer": "95-100%"
+    },
+    {
+        "question": "What manifestations of mental disorders can be the most hidden?",
+        "answer": "Sleep problems"
     },
     {
         "question": "What measures are important for reducing the risk of breast cancer in women with a genetic predisposition?",
@@ -11204,12 +11248,20 @@
         "answer": "Fluid in the pericardium"
     },
     {
+        "question": "What percentage of the daily value of vitamin B12 does 100g of beef provide?",
+        "answer": "102%"
+    },
+    {
         "question": "What pharmacological agents are used to treat chronic bronchitis?",
         "answer": "Antibiotics"
     },
     {
         "question": "What physical factor is crucial for stimulating bone tissue?",
         "answer": "Load"
+    },
+    {
+        "question": "What physiological changes occur with chronic sleep deprivation?",
+        "answer": "Increase in cortisol"
     },
     {
         "question": "What physiological changes occur with prolonged aerobic training?",
@@ -11300,6 +11352,10 @@
         "answer": "Inhibition of neurons"
     },
     {
+        "question": "What role does calcitonin play in the body?",
+        "answer": "Regulation of calcium"
+    },
+    {
         "question": "What role does hormonal balance play in joint health?",
         "answer": "Regulates inflammation"
     },
@@ -11366,6 +11422,10 @@
     {
         "question": "What substances can reduce inflammation in blood vessels?",
         "answer": "Omega-3 fatty acids"
+    },
+    {
+        "question": "What symptoms indicate the presence of post-traumatic stress disorder?",
+        "answer": "Flashbacks"
     },
     {
         "question": "What techniques are used in the treatment of anxiety disorders?",
@@ -11456,6 +11516,10 @@
         "answer": "Catecholamines"
     },
     {
+        "question": "Which brain structures are associated with recognizing and responding to threats that trigger a stress response?",
+        "answer": "Amygdala"
+    },
+    {
         "question": "Which brain waves are predominant during REM sleep?",
         "answer": "Beta waves"
     },
@@ -11520,6 +11584,10 @@
         "answer": "Gases and dust"
     },
     {
+        "question": "Which cognitive psychotherapy methods are most effective for stress management?",
+        "answer": "Cognitive restructuring"
+    },
+    {
         "question": "Which combination of amino acids promotes increased protein synthesis?",
         "answer": "BCAA"
     },
@@ -11534,6 +11602,10 @@
     {
         "question": "Which compound serves as a precursor to coenzyme Q10?",
         "answer": "Mevalonic acid"
+    },
+    {
+        "question": "Which condition is associated with ventricular arrhythmias leading to reduced blood flow?",
+        "answer": "Cardiomyopathy"
     },
     {
         "question": "Which conditions of valvular heart pathology require immediate surgical intervention?",
@@ -11562,6 +11634,10 @@
     {
         "question": "Which endocrine disorder is associated with a deficiency of cortisol?",
         "answer": "Addison's disease"
+    },
+    {
+        "question": "Which enzyme is involved in the metabolism of fatty acids in the myocardium?",
+        "answer": "Carnitine palmitoyltransferase"
     },
     {
         "question": "Which enzyme neutralizes oxygen free radicals in the alveoli?",
@@ -11760,6 +11836,14 @@
         "answer": "Hyaluronic acid"
     },
     {
+        "question": "Which moisturizers are best for restoring the skin's lipid barrier?",
+        "answer": "Ceramides"
+    },
+    {
+        "question": "Which molecule is characterized by high variability in the immune response?",
+        "answer": "Antibody"
+    },
+    {
         "question": "Which molecule is important for antigen recognition and the initiation of the adaptive immune response?",
         "answer": "MHC"
     },
@@ -11770,6 +11854,10 @@
     {
         "question": "Which molecule is involved in the regulation of bone resorption through osteoclasts?",
         "answer": "RANKL"
+    },
+    {
+        "question": "Which molecule triggers cellular apoptosis?",
+        "answer": "Fas Ligand"
     },
     {
         "question": "Which molecules bind to cortisol receptors during a stress response?",
@@ -11790,6 +11878,10 @@
     {
         "question": "Which molecules recognize pathogens and trigger an immune response?",
         "answer": "Toll-like receptors"
+    },
+    {
+        "question": "Which molecules regulate intercellular interactions?",
+        "answer": "Cytokines"
     },
     {
         "question": "Which neurohormonal system is activated in heart failure?",
@@ -11840,6 +11932,10 @@
         "answer": "Surfactant"
     },
     {
+        "question": "Which part of the respiratory system provides the main resistance to airflow?",
+        "answer": "Bronchi"
+    },
+    {
         "question": "Which physiological process is associated with stress-induced tachycardia?",
         "answer": "Sympathetic activation"
     },
@@ -11862,6 +11958,10 @@
     {
         "question": "Which procedures most effectively stimulate skin cell renewal?",
         "answer": "Chemical peels"
+    },
+    {
+        "question": "Which process ensures the specificity of the immune response?",
+        "answer": "Cloning of lymphocytes"
     },
     {
         "question": "Which process improves anaerobic power through mitochondrial adaptations?",
@@ -11890,6 +11990,18 @@
     {
         "question": "Which proteins are part of the bone matrix?",
         "answer": "Collagens"
+    },
+    {
+        "question": "Which psychotherapeutic methods explore childhood traumas?",
+        "answer": "Psychoanalysis"
+    },
+    {
+        "question": "Which psychotherapy model uses the triune brain theory to understand human behavior?",
+        "answer": "Triune Brain Theory"
+    },
+    {
+        "question": "Which riboflavin metabolite is a coenzyme?",
+        "answer": "FAD"
     },
     {
         "question": "Which signaling pathway is most commonly activated upon pathogen detection?",
@@ -11922,6 +12034,14 @@
     {
         "question": "Which substance enhances the secretion of corticotropin-releasing hormone during stress?",
         "answer": "Ghrelin"
+    },
+    {
+        "question": "Which substance enters skeletal muscle cells and affects bone metabolism?",
+        "answer": "Myostatin"
+    },
+    {
+        "question": "Which substance in honey promotes joint health?",
+        "answer": "Methylglyoxal"
     },
     {
         "question": "Which substance in the brain increases with chronic sleep deprivation?",
@@ -11974,6 +12094,10 @@
     {
         "question": "Which supplements can affect calcium metabolism?",
         "answer": "Vitamin D"
+    },
+    {
+        "question": "Which theory explains the necessity of sleep for memory consolidation?",
+        "answer": "Dependency hypothesis"
     },
     {
         "question": "Which theory links sleep with the removal of toxic substances from the brain?",
@@ -12030,6 +12154,10 @@
     {
         "question": "Which vitamin is a precursor of biotin?",
         "answer": "Biocytin"
+    },
+    {
+        "question": "Which vitamin is a precursor of coenzyme A?",
+        "answer": "Pantothenic acid"
     },
     {
         "question": "Which vitamin is a precursor of flavin mononucleotides and dinucleotides involved in energy metabolism?",
@@ -25338,6 +25466,10 @@
         "answer": "Valentino Rossi"
     },
     {
+        "question": "Which artist is considered one of the founders of Dadaism?",
+        "answer": "Marcel Duchamp"
+    },
+    {
         "question": "Which brand is famous for using rhinestones?",
         "answer": "Dolce & Gabbana"
     },
@@ -25346,12 +25478,24 @@
         "answer": "Paco Rabanne"
     },
     {
+        "question": "Which designer founded the brand Moncler?",
+        "answer": "René Ramillon"
+    },
+    {
+        "question": "Which designer often uses ethnic motifs?",
+        "answer": "Gianfranco Ferré"
+    },
+    {
         "question": "Which designer was the first to present a plus-size women's clothing collection?",
         "answer": "Christian Siriano"
     },
     {
         "question": "Who composed 'Sailing Wind'?",
         "answer": "Claude Debussy"
+    },
+    {
+        "question": "Who created 'The Dance of Death'?",
+        "answer": "Hans Holbein the Younger"
     },
     {
         "question": "Who directed the film 'Breakfast at Tiffany's'?",
@@ -25366,12 +25510,24 @@
         "answer": "Elizabeth I"
     },
     {
+        "question": "Who is the author of the poem \"Lucifer\"?",
+        "answer": "Juliusz Słowacki"
+    },
+    {
         "question": "Who is the author of the sacred texts in Hinduism?",
         "answer": "Vyasa"
     },
     {
+        "question": "Who played the lead role in the movie '2001: A Space Odyssey'?",
+        "answer": "Keir Dullea"
+    },
+    {
         "question": "Who proposed the idea of a neutron star?",
         "answer": "Landau"
+    },
+    {
+        "question": "Who was the King of France in the 13th century?",
+        "answer": "Louis IX"
     },
     {
         "question": "Who was the captain of the Afghanistan national football team in 2008?",
@@ -25384,6 +25540,10 @@
     {
         "question": "Who was the first to introduce the 'haute couture' collection?",
         "answer": "Charles Worth"
+    },
+    {
+        "question": "Who was the founder of Presbyterianism?",
+        "answer": "John Knox"
     },
     {
         "question": "Who wrote 'The Sad Knights'?",
@@ -32975,12 +33135,20 @@
         "answer": "Full virtualization"
     },
     {
+        "question": "Name the method of reducing data volume.",
+        "answer": "Compression"
+    },
+    {
         "question": "Name the type of bioenergy resource:",
         "answer": "Biogas"
     },
     {
         "question": "One of the limitations of using cloud systems?",
         "answer": "Network dependency"
+    },
+    {
+        "question": "The main problem of quantum computing:",
+        "answer": "Noise and errors"
     },
     {
         "question": "To which area of AI does a system belong that can compose new musical pieces based on studying existing music?",
@@ -33005,6 +33173,10 @@
     {
         "question": "What are complex calculations for protection called?",
         "answer": "Cryptography"
+    },
+    {
+        "question": "What are eco-funds?",
+        "answer": "Green investments"
     },
     {
         "question": "What are gene drives?",
@@ -33055,6 +33227,10 @@
         "answer": "Resistant to pests"
     },
     {
+        "question": "What cells are used for treating diseases?",
+        "answer": "Stem cells"
+    },
+    {
         "question": "What cells are used in gene therapy?",
         "answer": "Somatic cells"
     },
@@ -33075,12 +33251,28 @@
         "answer": "Nominated Proof of Stake"
     },
     {
+        "question": "What control system is used for satellite orientation in space?",
+        "answer": "Gyroscopic"
+    },
+    {
         "question": "What controls access to systems?",
         "answer": "Authentication"
     },
     {
+        "question": "What data is most commonly processed by autonomous vehicles?",
+        "answer": "Road signs and markings"
+    },
+    {
         "question": "What determines the phenotype?",
         "answer": "Genotype and environment"
+    },
+    {
+        "question": "What device can measure distance?",
+        "answer": "Laser rangefinder"
+    },
+    {
+        "question": "What device is used to measure plasma density in space?",
+        "answer": "Plasma detector"
     },
     {
         "question": "What device is used to measure the magnetic field in space?",
@@ -33095,6 +33287,10 @@
         "answer": "Scanning probe microscope"
     },
     {
+        "question": "What do bioreactors do?",
+        "answer": "Cultivate cells"
+    },
+    {
         "question": "What do space elevators do?",
         "answer": "Transport cargo"
     },
@@ -33105,6 +33301,10 @@
     {
         "question": "What does FDM stand for?",
         "answer": "Fused Deposition Modeling"
+    },
+    {
+        "question": "What does NLP stand for?",
+        "answer": "Natural Language Processing"
     },
     {
         "question": "What does SIEM do?",
@@ -33183,6 +33383,10 @@
         "answer": "Retraction"
     },
     {
+        "question": "What helps manage multi-zone architectures?",
+        "answer": "Terraform"
+    },
+    {
         "question": "What helps reduce energy consumption in IoT?",
         "answer": "energy-saving modules"
     },
@@ -33241,6 +33445,10 @@
     {
         "question": "What is Level 5 autonomous driving?",
         "answer": "Full autonomy"
+    },
+    {
+        "question": "What is NLP used for?",
+        "answer": "Text processing"
     },
     {
         "question": "What is Proof of Stake?",
@@ -33367,12 +33575,24 @@
         "answer": "Therapy with genes"
     },
     {
+        "question": "What is important for the reliable operation of IoT?",
+        "answer": "Cybersecurity"
+    },
+    {
         "question": "What is integrated into blockchain to enhance transaction anonymity?",
         "answer": "Tor"
     },
     {
         "question": "What is lidar used for?",
         "answer": "Scanning the environment"
+    },
+    {
+        "question": "What is meant by 'cloud security'?",
+        "answer": "Protection against threats"
+    },
+    {
+        "question": "What is nuclear fusion?",
+        "answer": "The joining of atoms"
     },
     {
         "question": "What is obtained as a result of bacterial transformation by the method of conjugation?",
@@ -33421,6 +33641,10 @@
     {
         "question": "What is the first step in security planning?",
         "answer": "Risk analysis"
+    },
+    {
+        "question": "What is the foundation of artificial intelligence in robotics?",
+        "answer": "Machine learning"
     },
     {
         "question": "What is the function of SIEM?",
@@ -33499,12 +33723,24 @@
         "answer": "Ion engine"
     },
     {
+        "question": "What is the name of a robot that can change its shape?",
+        "answer": "Morphobot"
+    },
+    {
         "question": "What is the name of learning using labeled data?",
         "answer": "Supervised learning"
     },
     {
         "question": "What is the name of the AI method used in recommendation systems?",
         "answer": "Collaborative filtering"
+    },
+    {
+        "question": "What is the name of the Android version that supports 'Internet of Things' devices?",
+        "answer": "Android Things"
+    },
+    {
+        "question": "What is the name of the CNC machine control system?",
+        "answer": "NC system"
     },
     {
         "question": "What is the name of the VR device prototype created in 1968?",
@@ -33561,6 +33797,14 @@
     {
         "question": "What is the name of the large-scale project to send humans to Mars?",
         "answer": "Mars One"
+    },
+    {
+        "question": "What is the name of the last block in a blockchain?",
+        "answer": "Head block"
+    },
+    {
+        "question": "What is the name of the microscope used to study atoms?",
+        "answer": "Atomic force"
     },
     {
         "question": "What is the name of the most powerful American rocket engine?",
@@ -33663,6 +33907,14 @@
         "answer": "Aerobic decomposition"
     },
     {
+        "question": "What is the process of creating thin films called?",
+        "answer": "Nanocoating"
+    },
+    {
+        "question": "What is the process of exploring a planet's surface using robotic instruments called?",
+        "answer": "Geological exploration"
+    },
+    {
         "question": "What is the process of gene transfer called?",
         "answer": "Gene transformation"
     },
@@ -33747,6 +33999,10 @@
         "answer": "VoIP"
     },
     {
+        "question": "What is the term for a non-personalized cyber attack on large groups of people?",
+        "answer": "Cyberterrorism"
+    },
+    {
         "question": "What is the term for exploiting vulnerabilities in software?",
         "answer": "Exploiting"
     },
@@ -33769,6 +34025,10 @@
     {
         "question": "What is used to ensure the stability of a robot?",
         "answer": "Gyroscopes"
+    },
+    {
+        "question": "What is used to optimize neural networks?",
+        "answer": "Gradient descent"
     },
     {
         "question": "What joins DNA from different sources?",
@@ -33801,6 +34061,10 @@
     {
         "question": "What material is used for supercapacitors?",
         "answer": "Graphene"
+    },
+    {
+        "question": "What material is used to create high-performance processors?",
+        "answer": "Silicon"
     },
     {
         "question": "What mechanism prevents double spending?",
@@ -33837,6 +34101,10 @@
     {
         "question": "What method is used to create objects in a virtual environment?",
         "answer": "CAD"
+    },
+    {
+        "question": "What method is used to determine the sequence of amino acids?",
+        "answer": "Sequencing"
     },
     {
         "question": "What method is used to introduce genes into cells outside the chromosome?",
@@ -33877,6 +34145,10 @@
     {
         "question": "What procedures help reduce carbon dioxide (CO2) emissions?",
         "answer": "Carbon sequestration"
+    },
+    {
+        "question": "What process cleans the generated energy from CO2?",
+        "answer": "Carbon capture"
     },
     {
         "question": "What process is used for cloning?",
@@ -33971,6 +34243,10 @@
         "answer": "Home solar system"
     },
     {
+        "question": "What system is used for printing complex metal parts?",
+        "answer": "DMLS"
+    },
+    {
         "question": "What system supports life on space stations?",
         "answer": "Life support system"
     },
@@ -33995,12 +34271,20 @@
         "answer": "Gene therapy"
     },
     {
+        "question": "What technology allows a robot to recognize human speech?",
+        "answer": "Speech recognition"
+    },
+    {
         "question": "What technology allows a robot to see?",
         "answer": "Computer vision"
     },
     {
         "question": "What technology allows the accumulation of energy from solar panels?",
         "answer": "Batteries"
+    },
+    {
+        "question": "What technology converts heat into electricity?",
+        "answer": "Thermoelectric"
     },
     {
         "question": "What technology converts wave energy into electricity?",
@@ -34035,8 +34319,16 @@
         "answer": "SLAM"
     },
     {
+        "question": "What technology is used for tracking in augmented reality?",
+        "answer": "SLAM"
+    },
+    {
         "question": "What technology is used in MJF for printing?",
         "answer": "Powder"
+    },
+    {
+        "question": "What technology is used to create artificial organs?",
+        "answer": "Bioprinting"
     },
     {
         "question": "What technology is used to create detailed maps in autonomous vehicles?",
@@ -34079,6 +34371,10 @@
         "answer": "Bioenergy"
     },
     {
+        "question": "What type of energy is released during nuclear fission?",
+        "answer": "Atomic"
+    },
+    {
         "question": "What type of energy is used for heating homes with heat pumps?",
         "answer": "Geothermal energy"
     },
@@ -34087,12 +34383,24 @@
         "answer": "Gene knockout"
     },
     {
+        "question": "What type of motor is most commonly used in industry?",
+        "answer": "Induction"
+    },
+    {
+        "question": "What type of printer is used for printing food products?",
+        "answer": "Food printer"
+    },
+    {
         "question": "What type of robot can perform complex tasks in space?",
         "answer": "Multi-axis robot"
     },
     {
         "question": "What type of robots are used to explore the surface of Mars?",
         "answer": "Rovers"
+    },
+    {
+        "question": "What types of robots are commonly used in manufacturing?",
+        "answer": "Manipulators"
     },
     {
         "question": "What types of robots are used in logistics?",
@@ -34137,6 +34445,10 @@
     {
         "question": "Which company produces self-driving trucks?",
         "answer": "Uber"
+    },
+    {
+        "question": "Which company released the first camera phone?",
+        "answer": "Sharp"
     },
     {
         "question": "Which company was the first to introduce a VR headset to the general public?",
@@ -34195,6 +34507,10 @@
         "answer": "Object-oriented systems"
     },
     {
+        "question": "Which device studies the cosmic microwave background radiation?",
+        "answer": "WMAP"
+    },
+    {
         "question": "Which electron is characterized by high mobility in graphene?",
         "answer": "Dirac"
     },
@@ -34247,12 +34563,20 @@
         "answer": "Half-Life: Alyx"
     },
     {
+        "question": "Which gas is used in fuel cells?",
+        "answer": "Hydrogen"
+    },
+    {
         "question": "Which gene is used in gene therapy to fight cancer?",
         "answer": "p53 gene"
     },
     {
         "question": "Which green technology improves water quality?",
         "answer": "Wastewater treatment"
+    },
+    {
+        "question": "Which heating method is more environmentally friendly?",
+        "answer": "Geothermal"
     },
     {
         "question": "Which important experiment confirmed the existence of superposition and entanglement?",
@@ -34283,12 +34607,20 @@
         "answer": "Sequencing"
     },
     {
+        "question": "Which method allows robots to act collectively?",
+        "answer": "Swarm intelligence"
+    },
+    {
         "question": "Which method allows the use of metal for 3D printing?",
         "answer": "Selective Laser Sintering"
     },
     {
         "question": "Which method increases the conductivity of nanomaterials?",
         "answer": "Doping"
+    },
+    {
+        "question": "Which method is safe for storing information?",
+        "answer": "Secure hard drive"
     },
     {
         "question": "Which method reduces overfitting?",
@@ -34299,12 +34631,20 @@
         "answer": "Bacteria"
     },
     {
+        "question": "Which microorganisms are used for the synthesis of vitamin B12?",
+        "answer": "Propionibacteria"
+    },
+    {
         "question": "Which microscope allows you to see atoms?",
         "answer": "Scanning tunneling"
     },
     {
         "question": "Which molecule is involved in protecting plants from pathogens?",
         "answer": "Salicylic acid"
+    },
+    {
+        "question": "Which network is best suited for a smart city?",
+        "answer": "LPWAN"
     },
     {
         "question": "Which of the following improves the conductivity of materials?",
@@ -34359,6 +34699,10 @@
         "answer": "PGP"
     },
     {
+        "question": "Which robot is known for its involvement in cooking and can prepare dishes?",
+        "answer": "Moley"
+    },
+    {
         "question": "Which rocket launched the James Webb Telescope into orbit?",
         "answer": "Ariane 5"
     },
@@ -34369,6 +34713,10 @@
     {
         "question": "Which satellite monitors the global sea level?",
         "answer": "Jason-3"
+    },
+    {
+        "question": "Which satellite provides monitoring of Earth's climate?",
+        "answer": "Aqua"
     },
     {
         "question": "Which science studies the interaction of nanoparticles with cells?",
@@ -34395,12 +34743,20 @@
         "answer": "HTC Dream"
     },
     {
+        "question": "Which sugar substitute is produced biotechnologically?",
+        "answer": "Stevia"
+    },
+    {
         "question": "Which system helps autonomous vehicles navigate in low visibility conditions?",
         "answer": "Infrared cameras"
     },
     {
         "question": "Which system provides a car's connection to the outside world?",
         "answer": "Telematics"
+    },
+    {
+        "question": "Which system uses HD maps for navigation?",
+        "answer": "Autonomous driving systems"
     },
     {
         "question": "Which technology anchors a 3D model to the real world?",
@@ -34457,6 +34813,14 @@
     {
         "question": "Who can validate transactions in a public blockchain?",
         "answer": "Anyone"
+    },
+    {
+        "question": "Who developed one of the first approaches to deep learning?",
+        "answer": "Geoffrey Hinton"
+    },
+    {
+        "question": "Who developed the game Beat Saber?",
+        "answer": "Beat Games"
     },
     {
         "question": "Who developed the laws of robotics?",

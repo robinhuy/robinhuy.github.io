@@ -20,6 +20,10 @@
     "answer": "Fight against free radicals"
   },
   {
+    "question": "How do weight-bearing exercises reduce the risk of osteoporosis?",
+    "answer": "Weight-bearing exercises"
+  },
+  {
     "question": "How does HIIT training affect metabolism?",
     "answer": "Increases metabolism"
   },
@@ -132,6 +136,10 @@
     "answer": "Increased risk of diseases"
   },
   {
+    "question": "What are the main signaling molecules of the immune system?",
+    "answer": "Cytokines"
+  },
+  {
     "question": "What are the molecules called that initiate the inflammatory response?",
     "answer": "Cytokines"
   },
@@ -178,6 +186,10 @@
   {
     "question": "What can random mutations lead to?",
     "answer": "Genetic diseases"
+  },
+  {
+    "question": "What causes atrial fibrillation?",
+    "answer": "Electrolyte imbalances"
   },
   {
     "question": "What causes autoimmune diseases?",
@@ -248,6 +260,10 @@
     "answer": "Excess mucus"
   },
   {
+    "question": "What changes on an ECG may indicate myocardial ischemia?",
+    "answer": "ST depression"
+  },
+  {
     "question": "What characterizes the phenomenon of paradoxical sleep?",
     "answer": "Dreams"
   },
@@ -298,6 +314,10 @@
   {
     "question": "What does the diagnosis of endogenous moments include?",
     "answer": "Psychodiagnostics"
+  },
+  {
+    "question": "What effect do omega-3 fatty acids have on inflammatory processes?",
+    "answer": "Anti-inflammatory"
   },
   {
     "question": "What effect does alcohol have on sleep phases?",
@@ -368,6 +388,10 @@
     "answer": "Increase bone mass"
   },
   {
+    "question": "What environmental factors contribute to the development of chronic lung diseases?",
+    "answer": "Air pollution"
+  },
+  {
     "question": "What factor is important for the maturation of T-lymphocytes in the thymus?",
     "answer": "AIRE"
   },
@@ -430,6 +454,10 @@
   {
     "question": "What functions does slow-wave sleep have?",
     "answer": "energy restoration"
+  },
+  {
+    "question": "What functions does the ventrolateral preoptic nucleus perform?",
+    "answer": "Regulation of sleep"
   },
   {
     "question": "What gas mixture is used to treat hypoxia?",
@@ -588,6 +616,10 @@
     "answer": "histamine"
   },
   {
+    "question": "What is the name of the protein important for joints, besides collagen?",
+    "answer": "Elastin"
+  },
+  {
     "question": "What is the name of the protein that regulates bone mineral density?",
     "answer": "Osteocalcin"
   },
@@ -644,6 +676,10 @@
     "answer": "Gluconeogenesis"
   },
   {
+    "question": "What is the process of projecting internal conflicts onto external objects called?",
+    "answer": "Projection"
+  },
+  {
     "question": "What is the relationship between deep sleep and nervous system recovery?",
     "answer": "Necessary"
   },
@@ -676,6 +712,10 @@
     "answer": "High significance"
   },
   {
+    "question": "What is the role of osteoclasts in the skeletal system?",
+    "answer": "Resorption"
+  },
+  {
     "question": "What is the role of short-chain fatty acids in the gut?",
     "answer": "Prevention of inflammation"
   },
@@ -694,6 +734,10 @@
   {
     "question": "What level of blood oxygen saturation corresponds to optimal aerobic performance?",
     "answer": "95-100%"
+  },
+  {
+    "question": "What manifestations of mental disorders can be the most hidden?",
+    "answer": "Sleep problems"
   },
   {
     "question": "What measures are important for reducing the risk of breast cancer in women with a genetic predisposition?",
@@ -788,12 +832,20 @@
     "answer": "Fluid in the pericardium"
   },
   {
+    "question": "What percentage of the daily value of vitamin B12 does 100g of beef provide?",
+    "answer": "102%"
+  },
+  {
     "question": "What pharmacological agents are used to treat chronic bronchitis?",
     "answer": "Antibiotics"
   },
   {
     "question": "What physical factor is crucial for stimulating bone tissue?",
     "answer": "Load"
+  },
+  {
+    "question": "What physiological changes occur with chronic sleep deprivation?",
+    "answer": "Increase in cortisol"
   },
   {
     "question": "What physiological changes occur with prolonged aerobic training?",
@@ -884,6 +936,10 @@
     "answer": "Inhibition of neurons"
   },
   {
+    "question": "What role does calcitonin play in the body?",
+    "answer": "Regulation of calcium"
+  },
+  {
     "question": "What role does hormonal balance play in joint health?",
     "answer": "Regulates inflammation"
   },
@@ -950,6 +1006,10 @@
   {
     "question": "What substances can reduce inflammation in blood vessels?",
     "answer": "Omega-3 fatty acids"
+  },
+  {
+    "question": "What symptoms indicate the presence of post-traumatic stress disorder?",
+    "answer": "Flashbacks"
   },
   {
     "question": "What techniques are used in the treatment of anxiety disorders?",
@@ -1040,6 +1100,10 @@
     "answer": "Catecholamines"
   },
   {
+    "question": "Which brain structures are associated with recognizing and responding to threats that trigger a stress response?",
+    "answer": "Amygdala"
+  },
+  {
     "question": "Which brain waves are predominant during REM sleep?",
     "answer": "Beta waves"
   },
@@ -1104,6 +1168,10 @@
     "answer": "Gases and dust"
   },
   {
+    "question": "Which cognitive psychotherapy methods are most effective for stress management?",
+    "answer": "Cognitive restructuring"
+  },
+  {
     "question": "Which combination of amino acids promotes increased protein synthesis?",
     "answer": "BCAA"
   },
@@ -1118,6 +1186,10 @@
   {
     "question": "Which compound serves as a precursor to coenzyme Q10?",
     "answer": "Mevalonic acid"
+  },
+  {
+    "question": "Which condition is associated with ventricular arrhythmias leading to reduced blood flow?",
+    "answer": "Cardiomyopathy"
   },
   {
     "question": "Which conditions of valvular heart pathology require immediate surgical intervention?",
@@ -1146,6 +1218,10 @@
   {
     "question": "Which endocrine disorder is associated with a deficiency of cortisol?",
     "answer": "Addison's disease"
+  },
+  {
+    "question": "Which enzyme is involved in the metabolism of fatty acids in the myocardium?",
+    "answer": "Carnitine palmitoyltransferase"
   },
   {
     "question": "Which enzyme neutralizes oxygen free radicals in the alveoli?",
@@ -1344,6 +1420,14 @@
     "answer": "Hyaluronic acid"
   },
   {
+    "question": "Which moisturizers are best for restoring the skin's lipid barrier?",
+    "answer": "Ceramides"
+  },
+  {
+    "question": "Which molecule is characterized by high variability in the immune response?",
+    "answer": "Antibody"
+  },
+  {
     "question": "Which molecule is important for antigen recognition and the initiation of the adaptive immune response?",
     "answer": "MHC"
   },
@@ -1354,6 +1438,10 @@
   {
     "question": "Which molecule is involved in the regulation of bone resorption through osteoclasts?",
     "answer": "RANKL"
+  },
+  {
+    "question": "Which molecule triggers cellular apoptosis?",
+    "answer": "Fas Ligand"
   },
   {
     "question": "Which molecules bind to cortisol receptors during a stress response?",
@@ -1374,6 +1462,10 @@
   {
     "question": "Which molecules recognize pathogens and trigger an immune response?",
     "answer": "Toll-like receptors"
+  },
+  {
+    "question": "Which molecules regulate intercellular interactions?",
+    "answer": "Cytokines"
   },
   {
     "question": "Which neurohormonal system is activated in heart failure?",
@@ -1424,6 +1516,10 @@
     "answer": "Surfactant"
   },
   {
+    "question": "Which part of the respiratory system provides the main resistance to airflow?",
+    "answer": "Bronchi"
+  },
+  {
     "question": "Which physiological process is associated with stress-induced tachycardia?",
     "answer": "Sympathetic activation"
   },
@@ -1446,6 +1542,10 @@
   {
     "question": "Which procedures most effectively stimulate skin cell renewal?",
     "answer": "Chemical peels"
+  },
+  {
+    "question": "Which process ensures the specificity of the immune response?",
+    "answer": "Cloning of lymphocytes"
   },
   {
     "question": "Which process improves anaerobic power through mitochondrial adaptations?",
@@ -1474,6 +1574,18 @@
   {
     "question": "Which proteins are part of the bone matrix?",
     "answer": "Collagens"
+  },
+  {
+    "question": "Which psychotherapeutic methods explore childhood traumas?",
+    "answer": "Psychoanalysis"
+  },
+  {
+    "question": "Which psychotherapy model uses the triune brain theory to understand human behavior?",
+    "answer": "Triune Brain Theory"
+  },
+  {
+    "question": "Which riboflavin metabolite is a coenzyme?",
+    "answer": "FAD"
   },
   {
     "question": "Which signaling pathway is most commonly activated upon pathogen detection?",
@@ -1506,6 +1618,14 @@
   {
     "question": "Which substance enhances the secretion of corticotropin-releasing hormone during stress?",
     "answer": "Ghrelin"
+  },
+  {
+    "question": "Which substance enters skeletal muscle cells and affects bone metabolism?",
+    "answer": "Myostatin"
+  },
+  {
+    "question": "Which substance in honey promotes joint health?",
+    "answer": "Methylglyoxal"
   },
   {
     "question": "Which substance in the brain increases with chronic sleep deprivation?",
@@ -1558,6 +1678,10 @@
   {
     "question": "Which supplements can affect calcium metabolism?",
     "answer": "Vitamin D"
+  },
+  {
+    "question": "Which theory explains the necessity of sleep for memory consolidation?",
+    "answer": "Dependency hypothesis"
   },
   {
     "question": "Which theory links sleep with the removal of toxic substances from the brain?",
@@ -1614,6 +1738,10 @@
   {
     "question": "Which vitamin is a precursor of biotin?",
     "answer": "Biocytin"
+  },
+  {
+    "question": "Which vitamin is a precursor of coenzyme A?",
+    "answer": "Pantothenic acid"
   },
   {
     "question": "Which vitamin is a precursor of flavin mononucleotides and dinucleotides involved in energy metabolism?",
