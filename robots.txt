@@ -1,5 +1,6 @@
 # https://silverbit.studio
+# Archive/source only — ask well-behaved crawlers not to fetch or index under this path.
 User-agent: *
-Allow: /
+Disallow: /blog-archived/
 
 Sitemap: https://silverbit.studio/sitemap.xml

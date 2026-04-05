@@ -65,4 +65,20 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://silverbit.studio/en/delete-account.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://silverbit.studio/en/delete-account.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://silverbit.studio/vi/delete-account.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://silverbit.studio/en/delete-account.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://silverbit.studio/vi/delete-account.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://silverbit.studio/en/delete-account.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://silverbit.studio/vi/delete-account.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://silverbit.studio/en/delete-account.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
