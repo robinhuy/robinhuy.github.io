@@ -12,7 +12,11 @@ h3 {
 }
 
 .material-symbols-outlined {
-  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
 }
 
 .glass-effect {
@@ -28,6 +32,10 @@ h3 {
 
 .asymmetric-gradient {
   background: linear-gradient(135deg, #4546d7 0%, #9396ff 100%);
+}
+
+.header-logo {
+  max-height: 50px;
 }
 
 .hero-shape-clip {
