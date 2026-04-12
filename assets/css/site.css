@@ -56,3 +56,9 @@ h3 {
 .btn-gradient {
   background: linear-gradient(135deg, #4546d7 0%, #9396ff 100%);
 }
+
+.google-play-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
