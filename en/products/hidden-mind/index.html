@@ -49,11 +49,13 @@
         <img src="/assets/images/silverbit-studio-header-logo.png" class="header-logo" alt="SilverBit Studio"
           loading="eager" />
       </a>
-      <div class="hidden md:flex items-center gap-8">
-        <a class="text-slate-600 dark:text-slate-400 hover:text-[#5D5FEF] font-headline text-sm" href="/en/">Home</a>
+      <div class="hidden lg:flex items-center gap-8">
+        <a class="border-b-2 border-transparent pb-1 text-slate-600 dark:text-slate-400 hover:text-[#5D5FEF] font-headline text-sm"
+          href="/en/">Home</a>
         <a class="text-[#5D5FEF] font-bold border-b-2 border-[#5D5FEF] pb-1 font-headline text-sm" href="/en/products/"
           aria-current="page">Products</a>
-        <a class="text-slate-600 dark:text-slate-400 hover:text-[#5D5FEF] font-headline text-sm" href="/en/contact.html">Contact</a>
+        <a class="border-b-2 border-transparent pb-1 text-slate-600 dark:text-slate-400 hover:text-[#5D5FEF] font-headline text-sm"
+          href="/en/contact.html">Contact</a>
       </div>
       <div class="flex items-center gap-4">
         <div class="font-headline text-sm font-medium text-slate-600">
@@ -61,14 +63,14 @@
           <span class="mx-1 text-slate-400">/</span>
           <a class="hover:text-[#5D5FEF] transition-colors" href="/vi/products/hidden-mind/" hreflang="vi">VI</a>
         </div>
-        <button type="button" class="md:hidden text-slate-900" data-nav-toggle aria-controls="mobile-nav-hm-en"
+        <button type="button" class="lg:hidden text-slate-900" data-nav-toggle aria-controls="mobile-nav-hm-en"
           aria-expanded="false" aria-label="Open menu">
           <span class="material-symbols-outlined">menu</span>
         </button>
       </div>
     </div>
     <div id="mobile-nav-hm-en"
-      class="hidden md:hidden border-t border-slate-200/80 bg-white/95 px-8 py-4 flex flex-col gap-3 font-headline text-sm">
+      class="hidden lg:hidden border-t border-slate-200/80 bg-white/95 px-8 py-4 flex flex-col gap-3 font-headline text-sm">
       <a class="text-slate-700 hover:text-[#5D5FEF]" href="/en/">Home</a>
       <a class="text-[#5D5FEF] font-bold" href="/en/products/">Products</a>
       <a class="text-slate-700 hover:text-[#5D5FEF]" href="/en/contact.html">Contact</a>
@@ -90,14 +92,17 @@
             A puzzle experience for short breaks: relax your mind, find the pattern, and enjoy the “aha” moment when you
             complete a puzzle.
           </p>
-          <p class="text-on-surface-variant max-w-xl">
-            Store links
-          </p>
-          <div class="flex flex-wrap gap-4">
-            <a class="rounded-full transition-transform duration-300 active:scale-95 shadow-[0_20px_40px_rgba(44,47,50,0.04)] hover:shadow-[0_20px_40px_rgba(44,47,50,0.08)]"
-              href="https://play.google.com/store/apps/details?id=studio.silverbit.hiddenmind" target="_blank">
-              <span
-                class="inline-flex items-center px-8 py-4 rounded-full font-semibold bg-surface-container-high text-on-surface-variant">
+          <div
+            class="max-w-xl rounded-2xl border border-outline-variant/20 bg-gradient-to-br from-surface-container-lowest to-surface-container-low p-6 sm:p-7 shadow-[0_8px_32px_rgba(44,47,50,0.06)]"
+            aria-labelledby="hidden-mind-download-heading">
+            <p class="mb-2 text-xs font-bold uppercase tracking-widest text-primary">Download</p>
+            <h2 id="hidden-mind-download-heading" class="mb-6 font-headline text-lg font-bold text-on-surface">
+              Get it on Android or iPhone
+            </h2>
+            <div class="flex flex-col gap-3 sm:flex-row sm:items-stretch">
+              <a class="flex flex-1 items-center justify-center gap-3 rounded-2xl border border-outline-variant/30 bg-surface px-5 py-3.5 font-headline text-sm font-bold text-on-surface shadow-[0_4px_16px_rgba(44,47,50,0.06)] transition-all duration-200 hover:-translate-y-0.5 hover:border-[#5D5FEF]/40 hover:bg-surface-container-high hover:shadow-[0_12px_28px_rgba(93,95,239,0.16)] active:translate-y-0 active:scale-[0.98] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#5D5FEF]"
+                href="https://play.google.com/store/apps/details?id=studio.silverbit.hiddenmind"
+                target="_blank" rel="noopener noreferrer">
                 <svg class="google-play-icon" aria-hidden="true" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
                   <path fill="none" d="M0,0h40v40H0V0z"></path>
                   <g>
@@ -110,15 +115,23 @@
                     <path d="M4.3,4.7C4.2,5,4.2,5.4,4.2,5.8v28.5c0,0.4,0,0.7,0.1,1.1l16-15.7L4.3,4.7z" fill="#4285F4">
                     </path>
                     <path d="M19.8,20l8-7.9L10.5,2.3C9.9,1.9,9.1,1.7,8.3,1.7c-1.9,0-3.6,1.3-4,3c0,0,0,0,0,0L19.8,20z"
-                      fill="#34A853">
-                    </path>
+                      fill="#34A853"></path>
                   </g>
-                </svg> Google Play
-              </span>
-            </a>
-            <span
-              class="inline-flex items-center px-8 py-4 rounded-full font-semibold bg-surface-container-high text-on-surface-variant cursor-not-allowed"
-              aria-disabled="true">App Store — coming soon</span>
+                </svg>
+                Google Play
+              </a>
+              <a class="flex flex-1 items-center justify-center gap-3 rounded-2xl border border-outline-variant/30 bg-surface px-5 py-3.5 font-headline text-sm font-bold text-on-surface shadow-[0_4px_16px_rgba(44,47,50,0.06)] transition-all duration-200 hover:-translate-y-0.5 hover:border-[#5D5FEF]/40 hover:bg-surface-container-high hover:shadow-[0_12px_28px_rgba(93,95,239,0.16)] active:translate-y-0 active:scale-[0.98] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#5D5FEF]"
+                href="https://apps.apple.com/app/hidden-mind-logic-puzzle/id6763518589" target="_blank"
+                rel="noopener noreferrer">
+                <svg class="app-store-icon text-on-surface" aria-hidden="true" viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path fill="currentColor"
+                    d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z">
+                  </path>
+                </svg>
+                App Store
+              </a>
+            </div>
           </div>
         </div>
         <div class="flex-1 relative">

@@ -57,8 +57,28 @@ h3 {
   background: linear-gradient(135deg, #4546d7 0%, #9396ff 100%);
 }
 
-.google-play-icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 8px;
+.google-play-icon,
+.app-store-icon {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+/* Mobile/tablet nav toggle only — scoped to max width so Tailwind lg:hidden wins on desktop
+   (button + [data-nav-toggle] beats .md:hidden / .lg:hidden specificity otherwise). */
+@media (max-width: 1023px) {
+  button[data-nav-toggle] {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    padding: 0.375rem;
+  }
+
+  button[data-nav-toggle] .material-symbols-outlined {
+    display: block;
+    line-height: 1;
+    font-size: 1.5rem;
+    transform: translateY(1px);
+  }
 }
