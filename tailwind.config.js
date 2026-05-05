@@ -1,6 +1,13 @@
-/* Silverbit Studio — Tailwind CDN theme (load after tailwindcss.com script) */
-tailwind.config = {
+/** @type {import('tailwindcss').Config} */
+module.exports = {
   darkMode: 'class',
+  content: [
+    './*.html',
+    './404.html',
+    './en/**/*.html',
+    './vi/**/*.html',
+    './blog-archived/**/*.{html,js}',
+  ],
   theme: {
     extend: {
       colors: {
@@ -69,4 +76,5 @@ tailwind.config = {
       },
     },
   },
+  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/container-queries')],
 };

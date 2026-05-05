@@ -2,10 +2,15 @@
 
 ## Root Directories
 - `/assets/`: Contains static assets shared across the site.
-  - `/css/site.css`: Custom stylesheet overriding or supplementing Tailwind.
+  - `/css/site.css`: Custom stylesheet loaded after Tailwind (overrides / extras).
+  - `/css/tailwind.source.css`: Tailwind `@tailwind` entry file for the CLI.
+  - `/css/tailwind.build.css`: **Generated** compiled Tailwind (minified). Linked from all pages; rebuild with `npm run build:css`.
   - `/js/site.js`: Main JavaScript file for mobile nav toggle.
-  - `/js/tailwind-config.js`: Tailwind theme configuration (colors, fonts, etc.).
   - `/images/`: Images, favicons, app screenshots, logos.
+- **Repo root (tooling)**:
+  - `package.json` / `package-lock.json`: npm scripts (`build:css`) and devDependencies (`tailwindcss`, `@tailwindcss/forms`, `@tailwindcss/container-queries`).
+  - `tailwind.config.js`: Tailwind theme and `content` globs (`*.html`, `en/**`, `vi/**`, `blog-archived/**`).
+  - `.gitignore`: includes `node_modules/` (install locally with `npm install` before running `npm run build:css`).
 - `/en/`: English localized pages (e.g., `/en/products/`, `/en/delete-account.html`).
 - `/vi/`: Vietnamese localized pages (e.g., `/vi/index.html`, `/vi/products/`).
 

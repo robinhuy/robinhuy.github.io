@@ -2,14 +2,14 @@
 
 ## Overview
 This is the static landing page for **Silverbit Studio**, an independent development studio creating friendly mini-apps and casual games, prominently featuring **Hidden Mind**.
-The project is a lightweight, highly-optimized static HTML website with TailwindCSS for styling and minimal vanilla JavaScript for interaction. It features localization support (English and Vietnamese).
+The project is a lightweight, highly-optimized static HTML website with Tailwind CSS (compiled to a static file) for styling and minimal vanilla JavaScript for interaction. It features localization support (English and Vietnamese).
 
 ## Tech Stack
 - **HTML5**: Semantic and accessible HTML structure.
-- **TailwindCSS (via CDN)**: Utility-first CSS framework configured via an external `tailwind-config.js` file. Uses Container Queries and Forms plugins.
-- **Vanilla JavaScript**: Minimal JS (`site.js`) used mainly for mobile navigation toggles and basic UX helpers.
+- **Tailwind CSS (CLI build)**: Utility-first CSS compiled with the Tailwind v3 CLI; configuration in `tailwind.config.js`, with **Forms** and **Container Queries** official plugins. Pages load `assets/css/tailwind.build.css` (run `npm run build:css` after template or config changes).
+- **Vanilla JavaScript**: Minimal JS (`assets/js/site.js`) used mainly for mobile navigation toggles and basic UX helpers.
 - **Google Fonts & Icons**: Uses *Plus Jakarta Sans*, *Be Vietnam Pro*, and *Material Symbols Outlined*.
-- **Custom CSS**: Minimal custom styles in `site.css` for specifics that Tailwind doesn't cover (e.g., glassmorphism navigation, specific gradients).
+- **Custom CSS**: `assets/css/site.css` for rules Tailwind does not express (e.g., glassmorphism nav, gradients, nav-toggle alignment).
 - **SEO & Meta**: Complete meta tags, Open Graph tags, JSON-LD structured data (Organization, WebSite, SoftwareApplication) and localized alternate links (`hreflang`).
 
 ## Key Products
