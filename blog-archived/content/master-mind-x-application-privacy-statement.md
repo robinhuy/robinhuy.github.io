@@ -1,5 +1,5 @@
 ---
-title: "Application Privacy Statement"
+title: 'Application Privacy Statement'
 draft: false
 hideMeta: true
 ShowToc: false
@@ -45,7 +45,7 @@ accesses the Application after such changes have been first posted.
 ## QUESTIONS OR CONCERNS
 
 If you have any questions or concerns regarding privacy on our
-Website, please send us a detailed message at creative.dev.vn@gmail.com. We
+Website, please send us a detailed message at contact@silverbit.studio. We
 will make every effort to resolve your concerns.
 
 _Effective Date: January 1, 2021_
